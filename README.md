@@ -15,6 +15,7 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `tarot/` | 82 | the 78 cards (`major/`, `minor/<suit>/`) plus one dossier per suit |
 | `goetia/` | 72 | the spirits of the Ars Goetia, each with its Shem HaMephorash angel |
 | `tree/` | 34 | the Tree of Life: the whole, the ten Sephiroth and Da'at, the 22 paths |
+| `memoria/` | 45 | the memory systems in Yates's *The Art of Memory*: `CATALOG.md` (45 systems from 176 reader entries), `systems.json`, `readers/`; dossiers to follow once Anthony picks |
 
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
