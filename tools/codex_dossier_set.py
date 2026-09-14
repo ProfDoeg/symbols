@@ -56,6 +56,9 @@ def main(set_dir, slug, name, brief_path, out):
     if i < 0:
         i = text.rfind("# " + name)
     doc = None if i < 0 else re.sub(r"\ntokens used\n[\d,]+\s*$", "\n", text[i:])
+    if doc:
+        # a transient "ERROR: Reconnecting... n/5" stream notice is not a failure; drop it
+        doc = re.sub(r"^ERROR: Reconnecting\.\.\. \d+/\d+\n?", "", doc, flags=re.M)
     if not doc or re.search(r"\nERROR: ", doc):
         log(f"{slug}: no clean dossier in output, tail: " + text[-200:].replace("\n", " ")); return 1
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
