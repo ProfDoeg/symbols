@@ -17,6 +17,9 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `tree/` | 34 | the Tree of Life: the whole, the ten Sephiroth and Da'at, the 22 paths |
 | `memoria/` | 45 | the memory systems in Yates's *The Art of Memory*: `CATALOG.md` (45 systems from 176 reader entries), `systems.json`, `readers/`; dossiers to follow once Anthony picks |
 
+All six dossier sets were complete on 2026-09-14: 308 dossiers (zodiac 12, bode 96, tribes 12,
+tarot 82, goetia 72, tree 34). Goetia and tree ran at high reasoning effort (`REASONING.txt`).
+
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
 pointers; writes `briefs/`), and `batch_progress.log` (the run record). Sets built before the
