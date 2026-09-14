@@ -41,7 +41,9 @@ def git(*args):
 
 def land(slug, name):
     rel = f"{REL}/{out_path(slug)}"
-    with git_lock:
+    import fcntl
+    with git_lock, open(os.path.join(REPO, ".dossier_git.lock"), "w") as lk:
+        fcntl.flock(lk, fcntl.LOCK_EX)          # two drivers on the same clone never commit at once
         git("add", rel)
         git("commit", "-q", "-m", f"{LABEL}: {name} dossier", "-m",
             f"Codex-researched from the {LABEL} prompt and the per-item brief ({REL}). Separate from the atlas.",

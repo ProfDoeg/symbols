@@ -35,10 +35,17 @@ def main(set_dir, slug, name, brief_path, out):
     logfile = f"{LAB}/run_{tagname}_{slug}.log"
     log(f"{slug}: run ({name}), prompt {len(prompt)} chars")
     home = os.path.expanduser("~")
+    extra = []
+    rfile = os.path.join(set_dir, "REASONING.txt")      # e.g. "high": raises the model's reasoning effort for this set
+    if os.path.exists(rfile):
+        level = open(rfile).read().strip()
+        if level:
+            extra = ["-c", f"model_reasoning_effort={level}"]
+            log(f"{slug}: reasoning effort {level}")
     try:
         with open(logfile, "w") as lf:
             subprocess.run([CODEX, "exec", "-s", "workspace-write", "--skip-git-repo-check",
-                            "-C", LAB, "-c", "tools.web_search=true", "-"],
+                            "-C", LAB, "-c", "tools.web_search=true", *extra, "-"],
                            input=prompt, stdout=lf, stderr=subprocess.STDOUT, text=True, timeout=7200,
                            env={**os.environ, "HOME": home, "PATH": f"{home}/.local/bin:" + os.environ.get("PATH", "")})
     except subprocess.TimeoutExpired:
