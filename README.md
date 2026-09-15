@@ -16,10 +16,14 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `goetia/` | 72 | the spirits of the Ars Goetia, each with its Shem HaMephorash angel |
 | `tree/` | 34 | the Tree of Life: the whole, the ten Sephiroth and Da'at, the 22 paths |
 | `memoria/` | 45 | the memory systems in Yates's *The Art of Memory*: `CATALOG.md` (45 systems from 176 reader entries), `systems.json`, `readers/`, and one dossier per system |
+| `numerals/` | 14 | counting systems and their histories, from the tally bones to binary |
+| `alphabets/` | 17 | writing systems and their histories, from hieroglyphs to Hangul and the invented alphabets |
+| `gematria/` | 12 | letter-number systems and their histories, from Sargon's wall to the internet calculators |
 
-All seven dossier sets were complete on 2026-09-14: 353 dossiers (zodiac 12, bode 96, tribes 12,
-tarot 82, goetia 72, tree 34, memoria 45). Goetia and tree ran at high reasoning effort
-(`REASONING.txt`); memoria's briefs carry the whole catalogue entry, so its dossiers run longer.
+Ten dossier sets, 396 dossiers, as of 2026-09-15 (zodiac 12, bode 96, tribes 12, tarot 82,
+goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12). Goetia and tree ran at
+high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole catalogue entry, so
+its dossiers run longer.
 
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line

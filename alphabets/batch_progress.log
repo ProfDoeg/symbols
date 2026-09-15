@@ -1,0 +1,48 @@
+09-15 04:40:00 batch alphabets: 17 to run, 5 at a time
+09-15 04:40:00 start 02_cuneiform (Cuneiform (Sumerian, Akkadian and the Ugaritic alphabet))
+09-15 04:40:00 start 03_proto_sinaitic_and_proto_canaanite (Proto-Sinaitic and Proto-Canaanite: the first alphabet)
+09-15 04:40:00 start 01_egyptian_hieroglyphs (Egyptian hieroglyphs (and hieratic and demotic))
+09-15 04:40:00 start 04_phoenician (The Phoenician alphabet)
+09-15 04:40:00 start 05_aramaic (The Aramaic alphabet and its daughters)
+09-15 04:40:03 FAIL 02_cuneiform: rc=1  box uses bubblewrap and needs access to create user namespaces. ERROR: Selected model is at capacity. Please try a different model. ERROR: Selected model is at capacity. Please try a different model.
+09-15 04:40:03 start 06_hebrew_alphabet (The Hebrew alphabet (Paleo-Hebrew and the square script))
+09-15 04:40:06 FAIL 06_hebrew_alphabet: rc=1  box uses bubblewrap and needs access to create user namespaces. ERROR: Selected model is at capacity. Please try a different model. ERROR: Selected model is at capacity. Please try a different model.
+09-15 04:40:06 start 07_greek_alphabet (The Greek alphabet)
+09-15 04:40:59 FAIL 05_aramaic: rc=1   Dead Sea Scrolls paleo Hebrew scholarly ... ERROR: Selected model is at capacity. Please try a different model. ERROR: Selected model is at capacity. Please try a different model. tokens used 30,456
+09-15 04:40:59 start 08_etruscan_and_old_italic (The Etruscan and Old Italic alphabets)
+09-15 04:41:00 FAIL 03_proto_sinaitic_and_proto_canaanite: rc=1  to-Sinaitic sphinx Serabit object number ... ERROR: Selected model is at capacity. Please try a different model. ERROR: Selected model is at capacity. Please try a different model. tokens used 30,658
+09-15 04:41:00 start 09_latin_alphabet (The Latin alphabet)
+09-15 04:41:37 FAIL 07_greek_alphabet: rc=1  k alphabet chapter Greek writing preview ... ERROR: Selected model is at capacity. Please try a different model. ERROR: Selected model is at capacity. Please try a different model. tokens used 55,781
+09-15 04:41:37 start 10_arabic_alphabet (The Arabic alphabet)
+09-15 04:47:49 DONE 04_phoenician: 1051 lines, committed and pushed
+09-15 04:47:49 start 11_brahmi_and_indic_scripts (Brahmi and the Indic scripts (Devanagari and its sisters))
+09-15 04:48:41 DONE 08_etruscan_and_old_italic: 1112 lines, committed and pushed
+09-15 04:48:41 start 12_runes (The runes (Elder Futhark, Younger Futhark, Anglo-Saxon futhorc))
+09-15 04:48:54 DONE 09_latin_alphabet: 724 lines, committed and pushed
+09-15 04:48:54 start 13_ogham (Ogham)
+09-15 04:49:14 DONE 01_egyptian_hieroglyphs: 1041 lines, committed and pushed
+09-15 04:49:14 start 14_armenian_and_georgian (The Armenian and Georgian alphabets)
+09-15 04:50:19 DONE 10_arabic_alphabet: 1060 lines, committed and pushed
+09-15 04:50:19 start 15_glagolitic_and_cyrillic (Glagolitic and Cyrillic)
+09-15 04:55:45 DONE 11_brahmi_and_indic_scripts: 932 lines, committed and pushed
+09-15 04:55:45 start 16_hangul (Hangul)
+09-15 04:56:34 DONE 12_runes: 950 lines, committed and pushed
+09-15 04:56:34 start 17_invented_alphabets (Invented and reformed alphabets: Enochian, Cherokee, Shavian and the shorthand scripts)
+09-15 04:56:45 DONE 13_ogham: 1021 lines, committed and pushed
+09-15 04:59:13 DONE 14_armenian_and_georgian: 1499 lines, committed and pushed
+09-15 05:00:09 DONE 15_glagolitic_and_cyrillic: 1337 lines, committed and pushed
+09-15 05:06:05 DONE 16_hangul: 1571 lines, committed and pushed
+09-15 05:09:11 DONE 17_invented_alphabets: 862 lines, committed and pushed
+09-15 05:09:11 batch alphabets finished: {'done': 12, 'fail': 5}
+09-15 07:05:44 batch alphabets: 5 to run, 5 at a time
+09-15 07:05:44 start 02_cuneiform (Cuneiform (Sumerian, Akkadian and the Ugaritic alphabet))
+09-15 07:05:44 start 03_proto_sinaitic_and_proto_canaanite (Proto-Sinaitic and Proto-Canaanite: the first alphabet)
+09-15 07:05:44 start 06_hebrew_alphabet (The Hebrew alphabet (Paleo-Hebrew and the square script))
+09-15 07:05:44 start 05_aramaic (The Aramaic alphabet and its daughters)
+09-15 07:05:44 start 07_greek_alphabet (The Greek alphabet)
+09-15 07:12:55 DONE 06_hebrew_alphabet: 1152 lines, committed and pushed
+09-15 07:14:19 DONE 03_proto_sinaitic_and_proto_canaanite: 1172 lines, committed and pushed
+09-15 07:14:46 DONE 07_greek_alphabet: 1011 lines, committed and pushed
+09-15 07:15:48 DONE 02_cuneiform: 1360 lines, committed and pushed
+09-15 07:16:20 DONE 05_aramaic: 1461 lines, committed and pushed
+09-15 07:16:20 batch alphabets finished: {'done': 5}
