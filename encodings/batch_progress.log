@@ -1,0 +1,36 @@
+09-15 07:55:43 batch encodings: 17 to run, 5 at a time
+09-15 07:55:43 start 01_morse_and_telegraph_codes (Morse code and the telegraph codes)
+09-15 07:55:43 start 05_ascii (ASCII)
+09-15 07:55:43 start 03_hollerith_and_punched_card_codes (Hollerith and the punched-card codes)
+09-15 07:55:43 start 02_baudot_murray_and_ita2 (Baudot, Murray and the five-bit teleprinter codes (ITA2))
+09-15 07:55:43 start 04_fieldata_and_the_military_and_vendor_codes (Fieldata and the early computer codes (the 1950s vendor and military codes))
+09-15 08:01:18 DONE 04_fieldata_and_the_military_and_vendor_codes: 1149 lines, committed and pushed
+09-15 08:01:18 start 06_ebcdic (EBCDIC)
+09-15 08:03:14 DONE 02_baudot_murray_and_ita2: 1487 lines, committed and pushed
+09-15 08:03:14 start 07_iso_646_and_the_seven_bit_national_variants (ISO 646 and the seven-bit national variants (the # $ @ [ \ ] wars))
+09-15 08:03:22 DONE 01_morse_and_telegraph_codes: 985 lines, committed and pushed
+09-15 08:03:22 start 08_iso_2022_and_the_shift_sequences (ISO 2022 and the escape-sequence encodings)
+09-15 08:04:04 DONE 03_hollerith_and_punched_card_codes: 902 lines, committed and pushed
+09-15 08:04:04 start 09_iso_8859_and_latin_1 (ISO 8859 and the Latin-1 family)
+09-15 08:05:27 DONE 05_ascii: 1325 lines, committed and pushed
+09-15 08:05:27 start 10_code_pages_437_1252_and_the_vendor_eight_bit_sets (Code pages: 437, 850, 1252 and the vendor eight-bit sets (IBM, Microsoft, Apple, DEC))
+09-15 08:12:25 DONE 08_iso_2022_and_the_shift_sequences: 1497 lines, committed and pushed
+09-15 08:12:25 start 11_koi8_and_the_cyrillic_encodings (KOI8 and the Cyrillic encodings)
+09-15 08:12:50 DONE 06_ebcdic: 1223 lines, committed and pushed
+09-15 08:12:50 start 12_east_asian_double_byte_encodings (The East Asian double-byte encodings: Shift-JIS, EUC, GB 2312, GBK, Big5)
+09-15 08:13:18 DONE 09_iso_8859_and_latin_1: 1078 lines, committed and pushed
+09-15 08:13:18 start 13_unicode (Unicode and ISO 10646)
+09-15 08:15:05 DONE 07_iso_646_and_the_seven_bit_national_variants: 1176 lines, committed and pushed
+09-15 08:15:05 start 14_utf_16_and_ucs_2 (UTF-16 and UCS-2)
+09-15 08:19:04 DONE 12_east_asian_double_byte_encodings: 1170 lines, committed and pushed
+09-15 08:19:04 start 15_utf_8 (UTF-8)
+09-15 08:20:40 DONE 11_koi8_and_the_cyrillic_encodings: 1293 lines, committed and pushed
+09-15 08:20:40 start 16_emoji_and_the_encoding_of_pictures (Emoji and the encoding of pictures)
+09-15 08:22:54 DONE 13_unicode: 1414 lines, committed and pushed
+09-15 08:22:54 start 17_bidi_shaping_and_the_complex_scripts (Bidirectional text and complex-script shaping: Hebrew, Arabic, the Indic scripts and the encoding of writing that is not left-to-right Latin)
+09-15 08:24:11 DONE 14_utf_16_and_ucs_2: 959 lines, committed and pushed
+09-15 08:28:44 DONE 15_utf_8: 1175 lines, committed and pushed
+09-15 08:30:57 DONE 16_emoji_and_the_encoding_of_pictures: 1591 lines, committed and pushed
+09-15 08:31:32 DONE 10_code_pages_437_1252_and_the_vendor_eight_bit_sets: 1084 lines, committed and pushed
+09-15 08:31:49 DONE 17_bidi_shaping_and_the_complex_scripts: 927 lines, committed and pushed
+09-15 08:31:49 batch encodings finished: {'done': 17}

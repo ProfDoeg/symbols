@@ -19,9 +19,10 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `numerals/` | 14 | counting systems and their histories, from the tally bones to binary |
 | `alphabets/` | 17 | writing systems and their histories, from hieroglyphs to Hangul and the invented alphabets |
 | `gematria/` | 12 | letter-number systems and their histories, from Sargon's wall to the internet calculators |
+| `encodings/` | 17 | how machines have written letters: Morse to ASCII, EBCDIC, the code pages, Unicode, UTF-8, emoji, bidi and shaping |
 
-Ten dossier sets, 396 dossiers, as of 2026-09-15 (zodiac 12, bode 96, tribes 12, tarot 82,
-goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12). Goetia and tree ran at
+Eleven dossier sets, 413 dossiers, as of 2026-09-15 (zodiac 12, bode 96, tribes 12, tarot 82,
+goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17). Goetia and tree ran at
 high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole catalogue entry, so
 its dossiers run longer.
 
