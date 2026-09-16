@@ -20,7 +20,7 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `alphabets/` | 17 | writing systems and their histories, from hieroglyphs to Hangul and the invented alphabets |
 | `gematria/` | 12 | letter-number systems and their histories, from Sargon's wall to the internet calculators |
 | `encodings/` | 17 | how machines have written letters: Morse to ASCII, EBCDIC, the code pages, Unicode, UTF-8, emoji, bidi and shaping |
-| `pantheon/` | 82 | gods, angels, monsters and divine creatures named in the essay corpus, Ahriman to Zeus; `QUEUE.md` is the approved list, `GOD_DOSSIER_PROMPT.md` the prompt (moved from Colegio_Invisible/working/pantheon on 2026-09-16) |
+| `pantheon/` | 82 + 559 running | the gods, one folder per tradition (`greek/`, `roman/`, `hindu/`, `egyptian/`, `mesopotamian/`, `persian/`, `norse/`, `canaanite/`, `andean/`, `abrahamic/`, `folklore/`): the 82 beings named in the essay corpus (2026-09-06, `QUEUE.md`, `GOD_DOSSIER_PROMPT.md`), then the whole pantheons built out from `make_briefs.py` (2026-09-16) |
 
 Twelve dossier sets, 495 dossiers, as of 2026-09-16 (zodiac 12, bode 96, tribes 12, tarot 82,
 goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17, pantheon 82).
