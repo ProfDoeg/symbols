@@ -20,11 +20,13 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `alphabets/` | 17 | writing systems and their histories, from hieroglyphs to Hangul and the invented alphabets |
 | `gematria/` | 12 | letter-number systems and their histories, from Sargon's wall to the internet calculators |
 | `encodings/` | 17 | how machines have written letters: Morse to ASCII, EBCDIC, the code pages, Unicode, UTF-8, emoji, bidi and shaping |
+| `pantheon/` | 82 | gods, angels, monsters and divine creatures named in the essay corpus, Ahriman to Zeus; `QUEUE.md` is the approved list, `GOD_DOSSIER_PROMPT.md` the prompt (moved from Colegio_Invisible/working/pantheon on 2026-09-16) |
 
-Eleven dossier sets, 413 dossiers, as of 2026-09-15 (zodiac 12, bode 96, tribes 12, tarot 82,
-goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17). Goetia and tree ran at
-high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole catalogue entry, so
-its dossiers run longer.
+Twelve dossier sets, 495 dossiers, as of 2026-09-16 (zodiac 12, bode 96, tribes 12, tarot 82,
+goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17, pantheon 82).
+Goetia and tree ran at high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole
+catalogue entry, so its dossiers run longer. The pantheon set predates the generic tools and was
+built by the atlas dossier pipeline (`<slug>_pantheon_dossier.md`, one prose file each).
 
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
