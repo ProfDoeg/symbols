@@ -1,0 +1,326 @@
+{
+ "subject": "daedalus_and_icarus",
+ "relations": [
+  {
+   "other": "Metion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus names Metion as Daedalus's father.",
+   "source": "Diodorus Siculus 4.76.1",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eupalamus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pseudo-Apollodorus names Eupalamus as Daedalus's father.",
+   "source": "Pseudo-Apollodorus 3.15.8",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eupalamus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Diodorus makes Eupalamus Daedalus's grandfather through Metion.",
+   "source": "Diodorus Siculus 4.76.1",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erechtheus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Diodorus makes Daedalus a great-grandson of Erechtheus.",
+   "source": "Diodorus Siculus 4.76.1",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Palamaon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pausanias preserves Palamaon as Daedalus's father.",
+   "source": "Pausanias 9.3.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Icarus is consistently Daedalus's son in the developed tradition.",
+   "source": "Pseudo-Apollodorus, Epitome 1.12",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "taught",
+   "myth": "Flight from Crete",
+   "note": "Daedalus teaches Icarus flight and warns him to keep the middle course.",
+   "source": "Ovid, Metamorphoses 8.183–235",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "created",
+   "myth": "Flight from Crete",
+   "note": "Daedalus makes and fastens Icarus's feather-and-wax wings.",
+   "source": "Ovid, Metamorphoses 8.183–235",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ship escape from Crete",
+   "note": "Father and son flee by ship before Icarus drowns while disembarking.",
+   "source": "Diodorus Siculus 4.77.5–6",
+   "date": "1st c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sail escape from Crete",
+   "note": "They escape in sailing vessels before Icarus capsizes as an incompetent helmsman.",
+   "source": "Pausanias 9.11.4–5",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [
+    "Ikaros"
+   ],
+   "kind": "other",
+   "myth": "Icarus's burial",
+   "note": "Daedalus finds the fallen youth's remains and buries him on Icaria.",
+   "source": "Ovid, Metamorphoses 8.225–235",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ariadne's Knossian dancing place",
+   "note": "Daedalus constructs a dancing place for Ariadne at Knossos.",
+   "source": "Homer, Iliad 18.590–592",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Escape from the labyrinth",
+   "note": "Daedalus advises Ariadne to give Theseus the guiding thread.",
+   "source": "Pseudo-Apollodorus, Epitome 1.8–9",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Escape from the labyrinth",
+   "note": "Daedalus indirectly enables Theseus's escape by teaching Ariadne the thread device.",
+   "source": "Pseudo-Apollodorus, Epitome 1.8–9",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterius"
+   ],
+   "kind": "created",
+   "myth": "Conception of the Minotaur",
+   "note": "Daedalus's artificial cow enables Pasiphae to conceive the Minotaur.",
+   "source": "Pseudo-Apollodorus 3.1.3",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterius"
+   ],
+   "kind": "other",
+   "myth": "Imprisonment in the labyrinth",
+   "note": "Daedalus builds the labyrinth that conceals and confines the Minotaur.",
+   "source": "Diodorus Siculus 4.77.4",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pasiphae's artificial cow",
+   "note": "Daedalus constructs the cow-shaped apparatus enabling Pasiphae's union with the bull.",
+   "source": "Diodorus Siculus 4.77.1–3",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ship escape from Crete",
+   "note": "Pasiphae supplies Daedalus with a ship or conceals him from Minos.",
+   "source": "Diodorus Siculus 4.77",
+   "date": "1st c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Punishment of Minos",
+   "note": "Poseidon's punishment creates the crisis for which Daedalus constructs Pasiphae's cow.",
+   "source": "Diodorus Siculus 4.77.2",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas",
+    "Minerva"
+   ],
+   "kind": "contest",
+   "myth": "Rescue and transformation of Perdix",
+   "note": "Athena frustrates Daedalus's attempted murder by transforming Perdix into a partridge.",
+   "source": "Ovid, Metamorphoses 8.250–259",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perdix",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attempted murder of Perdix",
+   "note": "Jealous Daedalus throws his gifted pupil and nephew from Minerva's citadel.",
+   "source": "Ovid, Metamorphoses 8.236–259",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of the inventive nephew",
+   "note": "Daedalus kills his inventive pupil and nephew out of jealousy.",
+   "source": "Diodorus Siculus 4.76.4–7",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kalos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of the Athenian nephew",
+   "note": "Pausanias preserves Kalos as the local Athenian name of Daedalus's murdered nephew.",
+   "source": "Pausanias 1.21.4; 1.26.4",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Theban dedication",
+   "note": "Daedalus dedicates a wooden image of Heracles in thanks for an unspecified benefit.",
+   "source": "Pausanias 9.11.4",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery of Icarus's body",
+   "note": "Heracles recognizes and buries Daedalus's drowned son in the sail variant.",
+   "source": "Pausanias 9.11.5",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Dedication at Cumae",
+   "note": "Daedalus dedicates his wings to Apollo after reaching Cumae.",
+   "source": "Virgil, Aeneid 6.14–33",
+   "date": "c. 29–19 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Temple doors at Cumae",
+   "note": "Daedalus makes Apollo's temple doors depicting the Cretan story.",
+   "source": "Virgil, Aeneid 6.14–33",
+   "date": "c. 29–19 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite of Eryx",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "created",
+   "myth": "Works at Eryx",
+   "note": "Daedalus constructs a sanctuary support and golden ram for Aphrodite.",
+   "source": "Diodorus Siculus 4.78.4–5",
+   "date": "1st c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "The walking wooden Hermes",
+   "note": "A comic wooden Hermes claims Daedalus made him able to speak and walk.",
+   "source": "Plato Comicus fr. 204",
+   "date": "late 5th/early 4th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Craftsmanship on Achilles' shield",
+   "note": "Homer compares Hephaestus's divine craftsmanship with Daedalus's human work at Knossos.",
+   "source": "Homer, Iliad 18.468–608",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  }
+ ]
+}

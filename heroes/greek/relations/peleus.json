@@ -1,0 +1,866 @@
+{
+ "subject": "peleus",
+ "relations": [
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeacus is Peleus’ father and later exiles him for Phocus’ killing.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Exile after Phocus’ killing",
+   "note": "Aeacus discovers the killing of Phocus and expels Peleus from Aegina.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Endeis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Endeis is Peleus’ mother in the principal genealogy.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sciron",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sciron is Peleus’ maternal grandfather through Endeis in Apollodorus.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Chariclo appears in a tradition concerning Peleus’ maternal ancestry.",
+   "source": "later genealogical tradition",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "A variant makes Endeis Chiron’s daughter, making Peleus his grandson.",
+   "source": "later genealogical tradition",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Telamon is normally Peleus’ full brother.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Plot against Phocus",
+   "note": "Peleus and Telamon jointly plot against and conceal the killing of Phocus.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argo",
+   "note": "The Aeacid brothers participate together in the Argonautic expedition.",
+   "source": "Apollonius, Argonautica 1.90–94",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phocus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phocus, son of Aeacus and Psamathe, is Peleus’ half-brother.",
+   "source": "Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phocus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing of Phocus",
+   "note": "Some versions make Peleus kill Phocus deliberately or accidentally; others blame Telamon.",
+   "source": "Apollodorus and scholia",
+   "date": "first–second century CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Psamathe",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Psamathe’s avenging wolf",
+   "note": "Psamathe sends a wolf against Peleus’ herds to avenge her son Phocus.",
+   "source": "Ovid, Metamorphoses 11.346–409",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurytion",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "First exile and purification",
+   "note": "Eurytion purifies the exiled Peleus, grants him land, and receives him into his family.",
+   "source": "Apollodorus 3.13.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurytion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Calydonian boar hunt",
+   "note": "Peleus accidentally kills Eurytion with a cast intended for the boar.",
+   "source": "Apollodorus 3.13.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Antigone, daughter of Eurytion, is Peleus’ first wife.",
+   "source": "Apollodorus 3.13.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydora",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Polydora is Peleus’ daughter in the principal genealogy.",
+   "source": "Apollodorus 3.13.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Spercheius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A variant credits the river-god Spercheius with biological paternity of Peleus’ putative daughter Polydora.",
+   "source": "later genealogical tradition",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oeneus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Calydonian boar hunt",
+   "note": "Peleus answers the Calydonian ruler’s summons to hunt the destructive boar.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Calydonian boar hunt",
+   "note": "Peleus and Meleager participate together among the Calydonian hunters.",
+   "source": "Apollodorus; Ovid, Metamorphoses 8",
+   "date": "8 CE or earlier",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Wrestling at Pelias’ funeral games",
+   "note": "Peleus wrestles Atalanta in the funeral games depicted on the François Vase.",
+   "source": "François Vase",
+   "date": "approximately 570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification at Iolcus",
+   "note": "Acastus purifies Peleus after the accidental killing of Eurytion.",
+   "source": "Apollodorus 3.13.2–3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Astydamia’s false accusation",
+   "note": "Acastus accepts his wife’s false claim that Peleus attempted to violate her.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Abandonment on Pelion",
+   "note": "Acastus hides Peleus’ sword and abandons him asleep among threatening Centaurs.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Capture of Iolcus",
+   "note": "Peleus later attacks Acastus’ city with Jason and the Dioscuri.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astydamia",
+   "other_aliases": [
+    "Hippolyte",
+    "Cretheis"
+   ],
+   "kind": "seduced_by",
+   "myth": "Acastus’ wife propositions Peleus",
+   "note": "Acastus’ wife desires Peleus and attempts to seduce him, but he refuses.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Astydamia",
+   "other_aliases": [
+    "Hippolyte",
+    "Cretheis"
+   ],
+   "kind": "deceived_by",
+   "myth": "False accusation against Peleus",
+   "note": "After rejection, she falsely accuses Peleus of attempting rape or seduction.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astydamia",
+   "other_aliases": [
+    "Hippolyte",
+    "Cretheis"
+   ],
+   "kind": "killed",
+   "myth": "Peleus’ revenge at Iolcus",
+   "note": "Peleus kills Acastus’ wife after capturing Iolcus; scholia add dismemberment.",
+   "source": "Apollodorus 3.13.3 and scholia",
+   "date": "first–second century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sterope",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "False report of remarriage",
+   "note": "Sterope is falsely named to Antigone as the woman Peleus intends to marry.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Abandonment on Pelion",
+   "note": "Chiron saves Peleus from the Centaurs and restores his hidden sword.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Capture of Thetis",
+   "note": "In the dominant Greek account, Chiron teaches Peleus to hold the transforming Thetis.",
+   "source": "Apollodorus 3.13.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding gift of the ash spear",
+   "note": "Chiron gives Peleus the Pelian ash spear later wielded by Achilles.",
+   "source": "Iliad 16.143–144; 19.387–391",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Education of Achilles",
+   "note": "Peleus entrusts Achilles to Chiron for upbringing and instruction.",
+   "source": "Amyclae throne; Pausanias",
+   "date": "sixth century BCE image",
+   "tier": "attested"
+  },
+  {
+   "other": "Other Centaurs",
+   "other_aliases": [
+    "Centaurs"
+   ],
+   "kind": "fought",
+   "myth": "Abandonment on Pelion",
+   "note": "Centaurs threaten the disarmed Peleus after Acastus abandons him on Pelion.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argo",
+   "note": "Jason and Peleus sail together in the Argonautic expedition.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Wrestling at Pelias’ funeral games",
+   "note": "Peleus and Jason wrestle to a draw on the Chest of Cypselus.",
+   "source": "Pausanias 5.17.9",
+   "date": "second century CE description",
+   "tier": "attested"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Capture of Iolcus",
+   "note": "Jason assists Peleus and the Dioscuri in capturing Iolcus.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Funeral games of Pelias",
+   "note": "Peleus competes in games held after Pelias’ death.",
+   "source": "François Vase; Pausanias",
+   "date": "approximately 570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dioscuri",
+   "other_aliases": [
+    "Castor and Polydeuces"
+   ],
+   "kind": "allied",
+   "myth": "Voyage of the Argo",
+   "note": "Peleus and the Dioscuri are fellow Argonauts in later expedition catalogues.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dioscuri",
+   "other_aliases": [
+    "Castor and Polydeuces"
+   ],
+   "kind": "allied",
+   "myth": "Capture of Iolcus",
+   "note": "The Dioscuri join Peleus and Jason in the capture of Iolcus.",
+   "source": "Apollodorus 3.13.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argo",
+   "note": "Heracles and Peleus appear together as members of the Argonautic expedition.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return voyage of the Argo",
+   "note": "Medea and Peleus participate in the Argonautic return without a distinct personal episode.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Thetis is Peleus’ divine wife and the mother of Achilles.",
+   "source": "Homer, Iliad",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Capture of Thetis",
+   "note": "Peleus restrains the resisting Thetis through her transformations until she submits to marriage.",
+   "source": "Archaic vases; Pindar",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Passage through the Planctae",
+   "note": "Thetis and the Nereids guide Peleus’ ship through the dangerous Planctae.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Psamathe’s avenging wolf",
+   "note": "Thetis intercedes with Psamathe and ends the destruction of Peleus’ herds.",
+   "source": "Ovid, Metamorphoses 11.346–409",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Peleus’ promised immortality",
+   "note": "Thetis promises to release Peleus from mortality and receive him as a sea-divinity.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Nereus is Thetis’ father and therefore Peleus’ divine father-in-law.",
+   "source": "Homeric genealogy; Archaic vases",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Capture of Thetis",
+   "note": "The Nereids flee or witness Peleus’ violent seizure of their sister Thetis.",
+   "source": "Archaic vases",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Passage through the Planctae",
+   "note": "The Nereids help guide the Argo safely while Thetis appears to Peleus.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Translation to Nereus’ house",
+   "note": "The sea-nymphs escort immortalized Peleus to his dwelling beneath the sea.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage of Peleus and Thetis",
+   "note": "Zeus approves or sponsors Thetis’ mortal marriage after learning the dangerous-son prophecy.",
+   "source": "Pindar, Isthmian 8",
+   "date": "approximately 478 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Zeus participates in the divine assembly associated with Peleus’ wedding.",
+   "source": "Cypria; Archaic wedding art",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding gift of immortal horses",
+   "note": "Later accounts credit Poseidon with giving Peleus the immortal horses Xanthus and Balius.",
+   "source": "Pindaric scholia",
+   "date": "later ancient tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Prophecy concerning Thetis’ son",
+   "note": "Themis proposes Peleus as Thetis’ mortal husband after revealing her son’s destined superiority.",
+   "source": "Pindar, Isthmian 8",
+   "date": "approximately 478 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Beauty quarrel at Peleus’ wedding",
+   "note": "Eris initiates the divine beauty dispute during Peleus’ wedding celebration.",
+   "source": "Cypria through Proclus",
+   "date": "seventh–sixth century BCE poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Hera attends Peleus’ wedding and becomes a contestant in Eris’ beauty dispute.",
+   "source": "Cypria; Archaic art",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Athena attends Peleus’ wedding and competes in the ensuing beauty judgment.",
+   "source": "Cypria; Sophilos and François Vase",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Aphrodite attends Peleus’ wedding and ultimately wins the resulting judgment of Paris.",
+   "source": "Cypria",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding gift to Peleus",
+   "note": "Later scholia list Aphrodite among deities who give Peleus a wedding present.",
+   "source": "later scholia",
+   "date": "later ancient tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Beauty quarrel after Peleus’ wedding",
+   "note": "Hermes conducts the rival goddesses from Peleus’ wedding dispute to Paris.",
+   "source": "Cypria through Proclus",
+   "date": "seventh–sixth century BCE poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding gifts to Peleus",
+   "note": "Later wedding catalogues make Hephaestus a guest and giver of weaponry to Peleus.",
+   "source": "later wedding catalogues",
+   "date": "later ancient tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding song for Peleus",
+   "note": "Apollo attends and sings at the wedding of Peleus and Thetis.",
+   "source": "Pindar; Euripidean songs",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding song for Peleus",
+   "note": "The Muses sing during the divine celebration of Peleus’ marriage.",
+   "source": "Pindar and later poetry",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding procession of the gods",
+   "note": "Dionysus appears among the divine guests processing to Peleus’ wedding.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "approximately 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Capture of Thetis",
+   "note": "In Ovid’s Roman variant, Proteus advises Peleus how to bind the changing Thetis.",
+   "source": "Ovid, Metamorphoses 11.217–265",
+   "date": "8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Achilles is the son of Peleus and Thetis.",
+   "source": "Homer, Iliad",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Achilles departs for Troy",
+   "note": "Peleus instructs Achilles to excel as both speaker and doer.",
+   "source": "Iliad 9.252–258",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Equipment inherited for Troy",
+   "note": "Peleus gives Achilles his spear, horses, and decorated cup for heroic use.",
+   "source": "Homer, Iliad",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Education by Chiron",
+   "note": "Peleus places the young Achilles in Chiron’s care.",
+   "source": "Amyclae throne; Pausanias",
+   "date": "sixth century BCE image",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Phoenix’s exile",
+   "note": "Peleus receives and honors the exiled Phoenix in Phthia.",
+   "source": "Iliad 9.438–484",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Upbringing of Achilles",
+   "note": "Peleus assigns Phoenix to rear and instruct Achilles.",
+   "source": "Iliad 9.438–484",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Youth in Peleus’ household",
+   "note": "Patroclus lives within Peleus’ sphere and is attached to Achilles as his companion.",
+   "source": "Homer and later mythography",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Neoptolemus, Achilles’ son, is Peleus’ grandson.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Death of Neoptolemus",
+   "note": "Neoptolemus’ death leaves the aged Peleus grieving and shapes his final fate.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from Menelaus",
+   "note": "Peleus saves Andromache from execution by Menelaus and Hermione’s faction.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Molossus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Molossus is Peleus’ great-grandson through Achilles and Neoptolemus.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Molossus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from Menelaus",
+   "note": "Peleus rescues his great-grandson Molossus from Menelaus’ attempted killing.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rescue of Andromache and Molossus",
+   "note": "The aged Peleus confronts and humiliates Menelaus, preventing the captives’ execution.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermione",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Plot against Andromache",
+   "note": "Peleus thwarts Hermione’s faction when it attempts to kill Andromache and Molossus.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Murder of Neoptolemus",
+   "note": "Orestes engineers Neoptolemus’ death and thereby causes Peleus’ bereavement.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thetis’ commands after Neoptolemus’ death",
+   "note": "Peleus receives Thetis’ instruction that Andromache is to marry Helenus.",
+   "source": "Euripides, Andromache",
+   "date": "approximately 425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceyx",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Peleus’ exile at Trachis",
+   "note": "Ceyx receives and shelters the blood-guilty Peleus at Trachis.",
+   "source": "Ovid, Metamorphoses 11.266–409",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "other",
+   "myth": "Judgment arising from Peleus’ wedding",
+   "note": "Paris judges the divine quarrel begun at Peleus’ wedding, without directly meeting Peleus.",
+   "source": "Cypria",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priam’s supplication of Achilles",
+   "note": "Homer makes aged Peleus the explicit paternal analogue through which Priam moves Achilles.",
+   "source": "Iliad 24.480–551",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  }
+ ]
+}

@@ -1,0 +1,844 @@
+{
+ "subject": "bhima",
+ "relations": [
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Mukhyaprāṇa",
+    "wind"
+   ],
+   "kind": "child_of",
+   "myth": "Divine conception through Kuntī",
+   "note": "Kuntī invokes Vāyu, who generates Bhīma and supplies his extraordinary strength.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Mukhyaprāṇa"
+   ],
+   "kind": "identified_with",
+   "myth": "Three manifestations of Vāyu",
+   "note": "Madhva theology identifies Bhīma as Vāyu’s second manifestation, following Hanumān.",
+   "source": "Mahābhārata-tātparya-nirṇaya; Hari-Vāyu-stuti",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kuntī",
+   "other_aliases": [
+    "Pṛthā"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kuntī is Bhīma’s mother and conceives him by invoking Vāyu.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pāṇḍu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pāṇḍu is Bhīma’s social and dynastic father and authorizes divine generation.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yudhiṣṭhira",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Yudhiṣṭhira is Bhīma’s elder maternal half-brother and king.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yudhiṣṭhira",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pāṇḍava kingship and war",
+   "note": "Bhīma serves Yudhiṣṭhira as champion, counselor, avenger, and eventual heir.",
+   "source": "Mahābhārata, throughout",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yudhiṣṭhira",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Bhīma’s fall on the ascent",
+   "note": "Yudhiṣṭhira attributes Bhīma’s fall to gluttony and boasting about his strength.",
+   "source": "Mahāprasthānikaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Arjuna is Bhīma’s younger maternal brother and principal martial ally.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Jarāsandha expedition and Kurukṣetra war",
+   "note": "Arjuna accompanies and supports Bhīma in major campaigns and battles.",
+   "source": "Sabhāparvan; war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nakula",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nakula is Bhīma’s paternal half-brother through Pāṇḍu’s wife Mādrī.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sahadeva",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sahadeva is Bhīma’s paternal half-brother through Pāṇḍu’s wife Mādrī.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Karṇa",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Karṇa is Bhīma’s unacknowledged elder maternal half-brother through Kuntī.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Karṇa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra battlefield encounters",
+   "note": "Karṇa repeatedly checks, defeats, humiliates, or spares Bhīma during the war.",
+   "source": "Droṇaparvan; Karṇaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Draupadī",
+   "other_aliases": [
+    "Kṛṣṇā"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Draupadī is the shared wife of Bhīma and his four brothers.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Draupadī",
+   "other_aliases": [
+    "Kṛṣṇā"
+   ],
+   "kind": "rescued",
+   "myth": "Jatāsura’s abduction",
+   "note": "Bhīma rescues Draupadī from Jatāsura and kills her abductor.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Draupadī",
+   "other_aliases": [
+    "Kṛṣṇā"
+   ],
+   "kind": "gift",
+   "myth": "Quest for the Saugandhika flower",
+   "note": "Bhīma enters Kubera’s territory to obtain the fragrant flower Draupadī desires.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hiḍimbā",
+   "other_aliases": [
+    "Hadimbā",
+    "Arimbi"
+   ],
+   "kind": "consort_of",
+   "myth": "Temporary forest union",
+   "note": "Hiḍimbā desires Bhīma, warns him, and becomes his temporary partner.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ghaṭotkaca",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Bhīma fathers the rākṣasa hero Ghaṭotkaca with Hiḍimbā.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ghaṭotkaca",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Exile and Kurukṣetra war",
+   "note": "Ghaṭotkaca carries Draupadī and later fights for Bhīma’s family at night.",
+   "source": "Ādi; Vana; Droṇaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sutasoma",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sutasoma is Bhīma’s son by Draupadī.",
+   "source": "Mahābhārata genealogies",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Balandharā",
+   "other_aliases": [
+    "Valandharā"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A Kāśī-princess genealogy names Balandharā as another wife of Bhīma.",
+   "source": "Mahābhārata genealogical passages",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarvaga",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sarvaga is Bhīma’s son in the Kāśī-princess genealogy.",
+   "source": "Mahābhārata genealogical passages",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Duryodhana",
+   "other_aliases": [
+    "Suyodhana"
+   ],
+   "kind": "deceived_by",
+   "myth": "Poisoning and drowning of Bhīma",
+   "note": "Duryodhana poisons Bhīma, binds him, and casts him into the Gaṅgā.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Duryodhana",
+   "other_aliases": [
+    "Suyodhana"
+   ],
+   "kind": "contest",
+   "myth": "Final mace duel",
+   "note": "The lifelong rivals meet in a technically unequal final mace contest.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Duryodhana",
+   "other_aliases": [
+    "Suyodhana"
+   ],
+   "kind": "fought",
+   "myth": "Breaking Duryodhana’s thighs",
+   "note": "Bhīma illegally strikes below the navel and shatters Duryodhana’s thighs.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Duḥśāsana",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Fulfillment of the blood vow",
+   "note": "Bhīma kills Duḥśāsana, tears open his chest, and tastes or drinks his blood.",
+   "source": "Mahābhārata, Karṇaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dhṛtarāṣṭra",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Embrace of the iron likeness",
+   "note": "Kṛṣṇa substitutes an iron likeness when Dhṛtarāṣṭra attempts to crush Bhīma.",
+   "source": "Mahābhārata, Strīparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gāndhārī",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Postwar reckoning",
+   "note": "Bhīma answers Gāndhārī’s accusations concerning the low blow and blood episode.",
+   "source": "Mahābhārata, Strīparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hiḍimba",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Forest wrestling combat",
+   "note": "Bhīma wrestles and kills the cannibal rākṣasa Hiḍimba.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baka",
+   "other_aliases": [
+    "Vaka",
+    "Bakāsura"
+   ],
+   "kind": "killed",
+   "myth": "Liberation of Ekacakrā",
+   "note": "Bhīma eats Baka’s tribute, kills him, and leaves his corpse at the gate.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kirmīra",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Early forest exile",
+   "note": "Bhīma kills Kirmīra, a rākṣasa related to Baka or Hiḍimba.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jatāsura",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rescue from Jatāsura",
+   "note": "Bhīma kills the disguised rākṣasa after he abducts Draupadī and Pāṇḍavas.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nahusha",
+   "other_aliases": [
+    "Nahusha-serpent"
+   ],
+   "kind": "fought",
+   "myth": "Capture by the fallen serpent-king",
+   "note": "Nahusha overpowers and captures Bhīma, whose physical strength proves useless.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hanumān is Bhīma’s elder divine brother through their common father Vāyu.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The immovable monkey tail",
+   "note": "Bhīma cannot lift Hanumān’s tail and has his pride defeated.",
+   "source": "Mahābhārata, Vana 3.146",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Revelation on the Saugandhika path",
+   "note": "Hanumān reveals his immense form and teaches Bhīma about time and conduct.",
+   "source": "Mahābhārata, Vana 3.145–150",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Promise of support in war",
+   "note": "Hanumān promises Bhīma aid in the coming conflict.",
+   "source": "Mahābhārata, Vana 3.145–150",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [
+    "Vāsudeva"
+   ],
+   "kind": "allied",
+   "myth": "Jarāsandha expedition and Kurukṣetra war",
+   "note": "Kṛṣṇa repeatedly chooses, counsels, provokes, and strategically supports Bhīma.",
+   "source": "Sabhā; Udyoga; war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [
+    "Vāsudeva"
+   ],
+   "kind": "taught_by",
+   "myth": "Method for killing Jarāsandha",
+   "note": "Kṛṣṇa signals how Bhīma should break Jarāsandha’s body apart.",
+   "source": "Mahābhārata, Sabhāparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [
+    "Vāsudeva"
+   ],
+   "kind": "taught_by",
+   "myth": "Strategy for the final mace duel",
+   "note": "Kṛṣṇa explains that Bhīma cannot defeat Duryodhana by fighting fairly.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Balarāma",
+   "other_aliases": [
+    "Baladeva"
+   ],
+   "kind": "taught_by",
+   "myth": "Training in mace combat",
+   "note": "Epic and later tradition present Balarāma as Bhīma’s mace teacher or senior expert.",
+   "source": "Mahābhārata tradition",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balarāma",
+   "other_aliases": [
+    "Baladeva"
+   ],
+   "kind": "judged_by",
+   "myth": "Condemnation of the low blow",
+   "note": "Balarāma condemns Bhīma’s illegal strike and threatens him after Duryodhana falls.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jarāsandha",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Prolonged wrestling match",
+   "note": "Jarāsandha chooses Bhīma for single combat after the disguised entry into Magadha.",
+   "source": "Mahābhārata, Sabhāparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jarāsandha",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Jarāsandha broken apart",
+   "note": "Bhīma kills Jarāsandha by breaking his body with Kṛṣṇa’s guidance.",
+   "source": "Mahābhārata, Sabhāparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiśupāla",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Rājasūya quarrel",
+   "note": "Śiśupāla condemns the Jarāsandha killing and insults Bhīma and Kṛṣṇa.",
+   "source": "Mahābhārata, Sabhāparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Droṇa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Training of the Kuru princes",
+   "note": "Droṇa trains Bhīma in warfare alongside the other Kuru princes.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Droṇa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra war",
+   "note": "Bhīma fights his former instructor and supports attacks against him.",
+   "source": "Mahābhārata, Droṇaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bhīṣma",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra war",
+   "note": "Bhīma combats his grand-uncle Bhīṣma during the war.",
+   "source": "Mahābhārata, Bhīṣmaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vidura",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from the lac house",
+   "note": "Vidura’s coded warning and escape plan help save Bhīma and his family.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aśvatthāman",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra war and pursuit",
+   "note": "Bhīma fights Aśvatthāman and later pursues him after the night massacre.",
+   "source": "Droṇa; Sauptikaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛpa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Training of the Kuru princes",
+   "note": "Kṛpa serves as Bhīma’s teacher and elder before becoming a war opponent.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛpa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra war",
+   "note": "Bhīma fights Kṛpa during the Kurukṣetra conflict.",
+   "source": "Mahābhārata, war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śalya",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kurukṣetra war",
+   "note": "Bhīma combats Śalya during the war.",
+   "source": "Mahābhārata, war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śakuni",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dice feud and Kurukṣetra war",
+   "note": "Bhīma threatens the dice-game antagonist and later fights against his faction.",
+   "source": "Sabhāparvan; war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Virāṭa",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Bhīma’s year as Ballava",
+   "note": "Disguised as Ballava, Bhīma serves Virāṭa as cook and court wrestler.",
+   "source": "Mahābhārata, Virāṭaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kīcaka",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Nocturnal assignation and ambush",
+   "note": "Bhīma replaces Draupadī at the assignation, kills Kīcaka, and mutilates his corpse.",
+   "source": "Mahābhārata, Virāṭaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jīmūta",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Virāṭa’s public wrestling bout",
+   "note": "Bhīma wrestles Jīmūta before Virāṭa’s court for public entertainment.",
+   "source": "Mahābhārata, Virāṭaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jīmūta",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Virāṭa’s public wrestling bout",
+   "note": "Bhīma whirls Jīmūta and dashes him to death.",
+   "source": "Mahābhārata, Virāṭaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [
+    "Vaiśravaṇa"
+   ],
+   "kind": "fought",
+   "myth": "Assault on the Saugandhika region",
+   "note": "Bhīma fights Kubera’s attendants while entering the lord’s protected territory.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [
+    "Vaiśravaṇa"
+   ],
+   "kind": "gift",
+   "myth": "Permission to enter Saugandhika territory",
+   "note": "Kubera ultimately permits Bhīma and the Pāṇḍavas access to his region.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Maṇimān",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Unauthorized Saugandhika assault",
+   "note": "Bhīma kills the yakṣa or rākṣasa guardian Maṇimān.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Karṇa’s one-use divine spear",
+   "note": "Bhīma’s son Ghaṭotkaca dies absorbing the weapon Indra had given Karṇa.",
+   "source": "Ādiparvan; Droṇaparvan",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Seizing Śiva’s bull manifestation",
+   "note": "In Himalayan pilgrimage legend, Bhīma grapples with Śiva disguised as a bull.",
+   "source": "Panch Kedar tradition",
+   "date": "later Himalayan tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maitreya",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Curse predicting the broken thigh",
+   "note": "Maitreya’s curse predicts that Bhīma will break Duryodhana’s thigh.",
+   "source": "Vana; Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vyāsa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Counsel to the Pāṇḍavas",
+   "note": "The dynastic sage advises Bhīma and the other Pāṇḍavas.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Abhimanyu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Kurukṣetra war",
+   "note": "Bhīma fights to support and later avenge his nephew Abhimanyu.",
+   "source": "Mahābhārata, Droṇaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sātyaki",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Kurukṣetra battlefield support",
+   "note": "Bhīma and Sātyaki fight beside one another and exchange battlefield support.",
+   "source": "Mahābhārata, war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dhṛṣṭadyumna",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attacks against Droṇa",
+   "note": "Bhīma supports the Pāṇḍava commander’s attacks upon Droṇa.",
+   "source": "Mahābhārata, war books",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śikhaṇḍin",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Fall of Bhīṣma",
+   "note": "Bhīma and Śikhaṇḍin fight on the allied Pāṇḍava side against Bhīṣma.",
+   "source": "Mahābhārata, Bhīṣmaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jayadratha",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Draupadī’s abduction",
+   "note": "Bhīma captures and brutalizes Jayadratha, but Yudhiṣṭhira prevents his killing.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dewa Ruci",
+   "other_aliases": [
+    "Nawaruci"
+   ],
+   "kind": "taught_by",
+   "myth": "Bima’s quest for ultimate knowledge",
+   "note": "Bima encounters or enters the miniature deity, who reveals ultimate knowledge.",
+   "source": "Nawaruci/Dewa Ruci",
+   "date": "fourteenth–fifteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Madhva",
+   "other_aliases": [
+    "Ānandatīrtha"
+   ],
+   "kind": "identified_with",
+   "myth": "Three manifestations of Vāyu",
+   "note": "Bhīma and Madhva are successive manifestations of Vāyu in Dvaita theology.",
+   "source": "Hari-Vāyu-stuti",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Three manifestations of Vāyu",
+   "note": "Hanumān and Bhīma are successive manifestations of Vāyu in Madhva theology.",
+   "source": "Hari-Vāyu-stuti",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Himalayan and Nepalese religious systems equate or assimilate Bhīma with Bhairava.",
+   "source": "Ethnographic reports",
+   "date": "modern documentation",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nagagini",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Wayang genealogies make the serpentine Nagagini a wife of Werkudara.",
+   "source": "Wayang genealogies",
+   "date": "medieval–modern Java",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antareja",
+   "other_aliases": [
+    "Antareja"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Javanese wayang genealogy makes Antareja a son of Werkudara.",
+   "source": "Wayang genealogies",
+   "date": "medieval–modern Java",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antasena",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Javanese wayang genealogy makes Antasena a son of Werkudara.",
+   "source": "Wayang genealogies",
+   "date": "medieval–modern Java",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antaboga",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Javanese serpentine genealogy",
+   "note": "Wayang genealogies place Antaboga among Werkudara’s divine or serpentine in-laws.",
+   "source": "Wayang genealogies",
+   "date": "medieval–modern Java",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Urangayu",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Javanese wayang traditions give Werkudara an additional wife named Urangayu.",
+   "source": "Wayang genealogies",
+   "date": "medieval–modern Java",
+   "tier": "regional_variant"
+  }
+ ]
+}

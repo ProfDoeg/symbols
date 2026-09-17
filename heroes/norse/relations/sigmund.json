@@ -1,0 +1,143 @@
+{
+ "subject": "sigmund",
+ "relations": [
+  {
+   "other": "The dragon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dragon-slaying beneath the grey stone",
+   "note": "Sigemund kills the dragon alone with his sword and takes its hoard.",
+   "source": "Beowulf 884–97",
+   "date": "manuscript c. 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Óðinn"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sigmund descends from Odin through Sigi, Rerir, and Völsung.",
+   "source": "Völsunga saga 1–2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Óðinn"
+   ],
+   "kind": "gift",
+   "myth": "Sword placed in Barnstokkr",
+   "note": "Odin, disguised as a one-eyed stranger, plants the sword that Sigmund alone draws.",
+   "source": "Völsunga saga 2–3",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Óðinn"
+   ],
+   "kind": "fought",
+   "myth": "Sigmund's final battle",
+   "note": "Odin confronts Sigmund with his spear and shatters Sigmund's sword.",
+   "source": "Völsunga saga 11–12",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Óðinn"
+   ],
+   "kind": "shared_myth",
+   "myth": "The ferryman takes Sinfjötli",
+   "note": "An unnamed ferryman, probably Odin, takes Sinfjötli's corpse from Sigmund and vanishes.",
+   "source": "Frá dauða Sinfjötla; Völsunga saga",
+   "date": "manuscript c. 1270",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fertility apple sent to Rerir",
+   "note": "Frigg joins Odin in enabling the birth of Sigmund's father Völsung.",
+   "source": "Völsunga saga 2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hljóð",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The wish-maiden Hljóð is Sigmund's mother.",
+   "source": "Völsunga saga 2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hrímnir",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The giant Hrímnir is Sigmund's maternal grandfather through Hljóð.",
+   "source": "Völsunga saga 2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Siegmund a direct son of Wotan.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Nothung planted in the ash tree",
+   "note": "Wotan plants Nothung for Siegmund to draw from the tree.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Wotan withdraws protection from Siegmund",
+   "note": "Wotan withdraws his protection, shatters Nothung, and enables Siegmund's death.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "other": "Fricka",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Fricka condemns the twins' union",
+   "note": "Fricka condemns Siegmund's incest and compels Wotan to withdraw his protection.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Brünnhilde attempts to protect Siegmund",
+   "note": "Brünnhilde defies Wotan and tries unsuccessfully to save Siegmund in battle.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  }
+ ]
+}

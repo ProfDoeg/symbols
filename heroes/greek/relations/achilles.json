@@ -1,0 +1,743 @@
+{
+ "subject": "achilles",
+ "relations": [
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Thetis is Achilles’ divine mother.",
+   "source": "Iliad",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Removal from the funeral pyre to Leuke",
+   "note": "Thetis snatches Achilles from his pyre and conveys him to Leuke.",
+   "source": "Aethiopis summary",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Peleus is Achilles’ mortal father.",
+   "source": "Iliad",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Achilles is Aeacus’ paternal grandson and therefore an Aeacid.",
+   "source": "Homer; Pindar",
+   "date": "eighth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Achilles is Zeus’ great-grandson through Aegina and Aeacus.",
+   "source": "Homer; Pindar",
+   "date": "eighth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thetis secures honor through Achaean losses",
+   "note": "Zeus grants Thetis’ request to honor Achilles by permitting Greek defeats.",
+   "source": "Iliad 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battle against Scamander",
+   "note": "Hera supports Achilles’ Achaean side and sends Hephaestus against Scamander.",
+   "source": "Iliad 20–21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Quarrel with Agamemnon",
+   "note": "Athena restrains Achilles before he can kill Agamemnon.",
+   "source": "Iliad 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Duel with Hector",
+   "note": "Athena supports Achilles and deceives Hector during their fatal encounter.",
+   "source": "Iliad 22",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Apollo opposes Achilles at Troy",
+   "note": "Apollo repeatedly opposes Achilles, striking Patroclus and preserving Hector’s corpse.",
+   "source": "Iliad 16, 23–24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death at the Scaean gates",
+   "note": "Apollo helps Paris kill Achilles; some Classical accounts make Apollo effectively the killer.",
+   "source": "Aethiopis; Sophocles, Philoctetes",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Forging the second armor",
+   "note": "Hephaestus makes Achilles’ replacement armor and cosmic shield at Thetis’ request.",
+   "source": "Iliad 18",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Battle against Scamander",
+   "note": "Hephaestus checks the attacking river with divine fire.",
+   "source": "Iliad 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "fought",
+   "myth": "Achilles attacks Aeneas",
+   "note": "Poseidon intervenes against Achilles’ attack by carrying Aeneas away.",
+   "source": "Iliad 20",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "gift",
+   "myth": "Achilles’ posthumous island",
+   "note": "Later tradition says Poseidon creates or grants Leuke for Achilles.",
+   "source": "Philostratus, Heroicus",
+   "date": "early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Abuse of Hector’s corpse",
+   "note": "Aphrodite frustrates Achilles’ abuse by preserving Hector’s corpse from damage.",
+   "source": "Iliad 23",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Priam’s ransom mission",
+   "note": "Hermes guides Priam safely into and out of Achilles’ camp.",
+   "source": "Iliad 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scamander",
+   "other_aliases": [
+    "Xanthus"
+   ],
+   "kind": "fought",
+   "myth": "Battle with the river",
+   "note": "The river attacks Achilles for choking its waters with Trojan corpses.",
+   "source": "Iliad 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achilles’ upbringing",
+   "note": "Later tradition sometimes makes Chiron’s wife Achilles’ foster-mother.",
+   "source": "Scholia and mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Education on Mount Pelion",
+   "note": "Chiron teaches Achilles hunting, medicine, music, and heroic discipline.",
+   "source": "Pindar; Apollodorus; Statius",
+   "date": "fifth century BCE–first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Achilles’ childhood education",
+   "note": "Peleus entrusts Achilles to Phoenix for instruction in speech and action.",
+   "source": "Iliad 9",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Embassy to Achilles",
+   "note": "Phoenix counsels Achilles and urges him to accept Agamemnon’s restitution.",
+   "source": "Iliad 9",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Patroclus enters battle in Achilles’ armor",
+   "note": "Achilles lends Patroclus his armor and command of the Myrmidons.",
+   "source": "Iliad 16",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Grief, vengeance, and shared burial",
+   "note": "Achilles avenges Patroclus and arranges for their bones to share an urn.",
+   "source": "Iliad 18–24; Odyssey 24",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Classical erotic interpretation",
+   "note": "Aeschylus and Plato interpret Achilles and Patroclus as lovers while disputing their erotic roles.",
+   "source": "Aeschylus, Myrmidons; Plato, Symposium",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antilochus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achilles avenges Antilochus",
+   "note": "Antilochus’ death at Memnon’s hands prompts Achilles’ revenge.",
+   "source": "Aethiopis",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Antilochus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared funerary urn",
+   "note": "Some traditions place Antilochus’ ashes with Achilles and Patroclus.",
+   "source": "Odyssey 24 tradition",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Quarrel over Briseis",
+   "note": "Agamemnon seizes Briseis, provoking Achilles’ wrath and withdrawal.",
+   "source": "Iliad 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation before Achilles’ return",
+   "note": "Achilles formally reconciles with Agamemnon and returns to battle.",
+   "source": "Iliad 19",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briseis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture, seizure, and restoration",
+   "note": "Briseis is awarded to Achilles, seized by Agamemnon, and later restored.",
+   "source": "Iliad 1, 9, 19",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chryseis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Plague and quarrel",
+   "note": "The dispute over Chryseis indirectly precipitates Achilles’ quarrel with Agamemnon.",
+   "source": "Iliad 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Embassy to Achilles",
+   "note": "Odysseus presents Agamemnon’s restitution offer, which Achilles refuses.",
+   "source": "Iliad 9",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Discovery of Achilles on Scyros",
+   "note": "Odysseus exposes disguised Achilles using weapons among feminine gifts and sometimes a trumpet.",
+   "source": "Apollodorus; Statius",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery of Achilles’ corpse",
+   "note": "Odysseus holds off the Trojans while Ajax carries Achilles’ body.",
+   "source": "Aethiopis; Odyssey 24",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Achilles’ armor",
+   "note": "Odysseus wins Achilles’ divine armor after the hero’s death.",
+   "source": "Odyssey 11; Little Iliad",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax the Greater",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "other",
+   "myth": "Embassy to Achilles",
+   "note": "Ajax joins the embassy attempting to reconcile Achilles with Agamemnon.",
+   "source": "Iliad 9",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax the Greater",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "rescued_by",
+   "myth": "Recovery of Achilles’ corpse",
+   "note": "Ajax carries Achilles’ body away from the battlefield.",
+   "source": "Odyssey 24; Aethiopis",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax the Greater",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "contest",
+   "myth": "Contest for Achilles’ armor",
+   "note": "Ajax loses the contest for Achilles’ armor to Odysseus.",
+   "source": "Odyssey 11; Little Iliad",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recruitment and embassy variants",
+   "note": "Some variants pair Diomedes with Odysseus in recruiting or approaching Achilles.",
+   "source": "Cypria; Apollodorus",
+   "date": "seventh century BCE–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Counsel during Achilles’ wrath",
+   "note": "Nestor advises reconciliation and recounts Achilles’ recruitment.",
+   "source": "Iliad 1, 9, 11",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean war and funeral traditions",
+   "note": "Menelaus participates in Achilles’ reconciliation context and subsequent funeral traditions.",
+   "source": "Iliad 9, 19, 23",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deidamia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Achilles hidden on Scyros",
+   "note": "Achilles impregnates Deidamia while concealed among Lycomedes’ daughters.",
+   "source": "Apollodorus; Statius",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Neoptolemus is Achilles’ son by Deidamia.",
+   "source": "Little Iliad; tragedy",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lycomedes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achilles hidden on Scyros",
+   "note": "Lycomedes shelters Achilles while Thetis conceals him among the king’s daughters.",
+   "source": "Apollodorus; Hyginus; Statius",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "False marriage summons to Aulis",
+   "note": "Agamemnon falsely uses marriage to Achilles as the lure bringing Iphigenia to Aulis.",
+   "source": "Cypria testimony; Euripides, IA",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Defense of Iphigenia at Aulis",
+   "note": "Achilles offers to protect Iphigenia after learning his name enabled the deception.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Pontic posthumous union",
+   "note": "Some Pontic traditions make Iphigenia Achilles’ posthumous consort.",
+   "source": "Pontic traditions",
+   "date": "ancient regional tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Mistaken Greek landing in Mysia",
+   "note": "Achilles wounds Telephus during the Greeks’ mistaken expedition to Mysia.",
+   "source": "Cypria fragments",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Healing by the wounding spear",
+   "note": "Achilles heals Telephus, who afterward guides the Greeks toward Troy.",
+   "source": "Cypria; Pindar; Apollodorus",
+   "date": "seventh century BCE–second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tenes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing of Tenes",
+   "note": "Achilles kills Tenes despite Thetis’ warning, provoking Apollo’s eventual vengeance.",
+   "source": "Cyclic testimony; Apollodorus",
+   "date": "seventh century BCE–second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cycnus",
+   "other_aliases": [
+    "Cygnus"
+   ],
+   "kind": "killed",
+   "myth": "Combat with invulnerable Cycnus",
+   "note": "Achilles kills Cycnus; Ovid says he strangles him with a helmet-strap.",
+   "source": "Cyclic testimony; Ovid, Metamorphoses 12",
+   "date": "seventh century BCE–first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eetion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Sack of Thebe",
+   "note": "Achilles kills Eetion but honors his corpse rather than despoiling it.",
+   "source": "Iliad 6",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel outside Troy",
+   "note": "Achilles pursues and fights Hector after Patroclus’ death.",
+   "source": "Iliad 22",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Duel outside Troy",
+   "note": "Achilles kills Hector and drags his corpse behind his chariot.",
+   "source": "Iliad 22–24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ransom of Hector",
+   "note": "Achilles receives Priam’s supplication, returns Hector’s body, and grants burial time.",
+   "source": "Iliad 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "killed_by",
+   "myth": "Death at the Scaean gates",
+   "note": "Paris kills Achilles with Apollo’s assistance or guidance.",
+   "source": "Iliad prophecies; Aethiopis",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage on Leuke",
+   "note": "Philostratus and Leuke lore make Helen Achilles’ posthumous wife.",
+   "source": "Philostratus, Heroicus",
+   "date": "early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel with Aeneas",
+   "note": "Achilles nearly kills Aeneas before Poseidon removes his opponent.",
+   "source": "Iliad 20",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lycaon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing beside Scamander",
+   "note": "Achilles kills the recaptured Lycaon despite his supplication and ransom appeal.",
+   "source": "Iliad 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asteropeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle beside Scamander",
+   "note": "Asteropeus wounds Achilles during their fight beside the river.",
+   "source": "Iliad 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asteropeus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle beside Scamander",
+   "note": "Achilles kills Asteropeus after being wounded by him.",
+   "source": "Iliad 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Revenge for Antilochus",
+   "note": "Achilles kills Memnon after the Ethiopian hero kills Antilochus.",
+   "source": "Aethiopis; Pindar",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penthesilea",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle with the Amazon queen",
+   "note": "Achilles kills Penthesilea; later tradition gives him erotic remorse.",
+   "source": "Aethiopis; Archaic vases",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thersites",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Mockery after Penthesilea’s death",
+   "note": "Achilles kills Thersites for mocking his alleged love for dead Penthesilea.",
+   "source": "Aethiopis summary",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Troilos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ambush at the fountain",
+   "note": "Achilles ambushes, pursues, and kills Troilos, often at Apollo’s altar.",
+   "source": "Early vases; Cyclic testimony",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Troilos scenes",
+   "note": "Polyxena is associated with Achilles’ Troilos episode in some visual interpretations.",
+   "source": "Archaic art",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Sacrifice at Achilles’ tomb",
+   "note": "Achilles’ ghost demands Polyxena’s sacrifice before the Greek fleet can depart.",
+   "source": "Iliou Persis; Euripides, Hecuba",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Courtly Polyxena romance",
+   "note": "Medieval romance recasts Polyxena as Achilles’ beloved or secret betrothed.",
+   "source": "Roman de Troie; medieval tradition",
+   "date": "twelfth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Xanthus and Balius",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achilles’ immortal horses",
+   "note": "The immortal horses draw Achilles’ chariot; Xanthus prophesies his death.",
+   "source": "Iliad 16, 19",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Union on the Isles of the Blessed",
+   "note": "One learned variant makes Medea Achilles’ posthumous consort.",
+   "source": "Apollodoran note; scholia",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lament and funeral of Achilles",
+   "note": "The Nereids join Thetis in lamenting Achilles for seventeen days.",
+   "source": "Odyssey 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lament and funeral of Achilles",
+   "note": "The Muses lament Achilles during his prolonged funeral observances.",
+   "source": "Odyssey 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  }
+ ]
+}

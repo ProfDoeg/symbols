@@ -1,0 +1,174 @@
+{
+ "folder": "baltic",
+ "gods": [
+  "egle",
+  "jurate_and_kastytis"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "jurate_and_kastytis",
+   "god": "baltic/perkunas",
+   "kind": "killed_by",
+   "myth": "Perkūnas destroys the amber palace",
+   "note": "He strikes the sea with a thunderbolt, shatters Jūratė’s palace, and kills her.",
+   "source": "Jucevičius, Królowa morza Bałtyckiego",
+   "date": "1839",
+   "tier": "attested"
+  },
+  {
+   "a": "jurate_and_kastytis",
+   "god": "baltic/perkunas",
+   "kind": "punished_by",
+   "myth": "Perkūnas punishes Jūratė’s mortal love",
+   "note": "He destroys her palace and commands waves to carry Kastytis ashore dead.",
+   "source": "Maironis, Jūratė ir Kastytis",
+   "date": "1920",
+   "tier": "canonical"
+  },
+  {
+   "a": "jurate_and_kastytis",
+   "god": "baltic/perkunas",
+   "kind": "punished_by",
+   "myth": "Jūratė is chained to her ruined palace",
+   "note": "Popular versions make Perkūnas kill Kastytis and chain Jūratė alive to the ruins.",
+   "source": "Tourist and children’s retellings",
+   "date": "20th–21st centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "jurate_and_kastytis",
+   "god": "baltic/perkunas",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some popular retellings make Perkūnas Jūratė’s father, contrary to the earliest story.",
+   "source": "Popular retellings",
+   "date": "20th–21st centuries",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "Beržas": [
+   {
+    "stated_by": "egle",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Beržas is Eglė’s son in the canonical four-child family.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "egle",
+    "kind": "transformed",
+    "myth": "Terminal transformation into trees",
+    "note": "Eglė transforms or curses Beržas into a birch.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Drebulė": [
+   {
+    "stated_by": "egle",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Drebulė is Eglė’s daughter in the canonical four-child family.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "egle",
+    "kind": "transformed",
+    "myth": "Terminal transformation into trees",
+    "note": "Eglė transforms or curses Drebulė into the trembling aspen.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Praamžimas": [
+   {
+    "stated_by": "jurate_and_kastytis",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jūratė is the daughter of Praamžimas, ruler of heaven, earth, and sea.",
+    "source": "Jucevičius, Królowa morza Bałtyckiego",
+    "date": "1839",
+    "tier": "attested"
+   }
+  ],
+  "Uosis": [
+   {
+    "stated_by": "egle",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Uosis is Eglė’s son in the canonical four-child family.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "egle",
+    "kind": "transformed",
+    "myth": "Terminal transformation into trees",
+    "note": "Eglė transforms or curses Uosis into an ash.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "sea nymphs": [
+   {
+    "stated_by": "jurate_and_kastytis",
+    "kind": "served_by",
+    "myth": "Council against Kastytis",
+    "note": "Jūratė summons the sea nymphs, leads their plot, and travels with them in amber boats.",
+    "source": "Jucevičius, Królowa morza Bałtyckiego",
+    "date": "1839",
+    "tier": "attested"
+   }
+  ],
+  "Ąžuolas": [
+   {
+    "stated_by": "egle",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ąžuolas is Eglė’s son in the canonical four-child family.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "egle",
+    "kind": "transformed",
+    "myth": "Terminal transformation into trees",
+    "note": "Eglė transforms or curses Ąžuolas into an oak.",
+    "source": "Collected Lithuanian variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Žilvinas": [
+   {
+    "stated_by": "egle",
+    "kind": "consort_of",
+    "myth": "Marriage in the aquatic realm",
+    "note": "Eglė promises to marry Žilvinas, enters his underwater realm, and becomes his wife.",
+    "source": "Lithuanian tale variants",
+    "date": "1837 onward",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "egle",
+    "kind": "taught_by",
+    "myth": "The secret return formula",
+    "note": "Žilvinas teaches Eglė the summons revealing whether he remains alive.",
+    "source": "Lithuanian tale variants",
+    "date": "1837 onward",
+    "tier": "attested"
+   }
+  ]
+ }
+}

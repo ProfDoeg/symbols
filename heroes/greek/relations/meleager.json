@@ -1,0 +1,585 @@
+{
+ "subject": "meleager",
+ "relations": [
+  {
+   "other": "Oeneus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Oeneus is Meleager's father in the ordinary genealogy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oeneus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Meleager's withdrawal from Calydon's war",
+   "note": "Oeneus begs his withdrawn son to return and defend Calydon.",
+   "source": "Iliad 9",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythographers make Ares Meleager's biological father.",
+   "source": "Hyginus and Plutarchan mythography",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "The Hesiodic Catalogue calls Meleager loved of Ares.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Althaea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Althaea is Meleager's mother in the ordinary genealogy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Althaea",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Althaea's curse",
+   "note": "After he kills her brothers, Althaea invokes underworld powers against Meleager.",
+   "source": "Iliad 9.568–572",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Althaea",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Burning of the life-brand",
+   "note": "Althaea burns the billet bound to Meleager's life, causing his death.",
+   "source": "Bacchylides, Ode 5",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "other",
+   "myth": "Prophecy of the life-brand",
+   "note": "At his birth they bind Meleager's lifespan to a burning billet.",
+   "source": "Bacchylides, Ode 5",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cleopatra",
+   "other_aliases": [
+    "Alcyone"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cleopatra, called Alcyone by her parents, is Meleager's wife.",
+   "source": "Iliad 9.556–565",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cleopatra",
+   "other_aliases": [
+    "Alcyone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Meleager's return to battle",
+   "note": "Her description of Calydon's impending sack persuades Meleager to fight again.",
+   "source": "Iliad 9.556–599",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydora",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogy makes Polydora the daughter of Meleager and Cleopatra.",
+   "source": "Pausanias 4.2.7",
+   "date": "approximately 150–180 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Parthenopaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus makes Parthenopaeus Meleager's son, usually through Atalanta.",
+   "source": "Hyginus, Fabulae 99, 270",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gorge",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gorge is Meleager's sister and mourns him after his death.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gorge",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transformation of the Meleagrids",
+   "note": "Gorge mourns Meleager but is spared her sisters' transformation into guinea-fowl.",
+   "source": "Antoninus Liberalis, Metamorphoses 2",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Deianeira",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deianeira is Meleager's sister.",
+   "source": "Hesiodic genealogy",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deianeira",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Meleager meets Heracles in Hades",
+   "note": "Meleager recommends his unmarried sister Deianeira as a wife for Heracles.",
+   "source": "Bacchylides, Ode 5",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Plexippus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Quarrel over Atalanta's trophy",
+   "note": "Meleager kills his maternal uncle Plexippus during the trophy dispute.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Toxeus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Quarrel over Atalanta's trophy",
+   "note": "Meleager kills his maternal uncle Toxeus during the trophy dispute.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Other sons of Thestius",
+   "other_aliases": [
+    "Althaea's brothers"
+   ],
+   "kind": "killed",
+   "myth": "War between Calydonians and Curetes",
+   "note": "Meleager kills his maternal uncles amid confused battle; their names are unstated.",
+   "source": "Iliad 9.566–572",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Artemis sends the boar whose death and trophies bring catastrophe upon Meleager's family.",
+   "source": "Iliad 9.533–549",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "War against the Curetes",
+   "note": "Apollo supports the Curetes and kills Meleager with arrows in an early variant.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Althaea's curse",
+   "note": "Althaea invokes Hades to bring death upon Meleager.",
+   "source": "Iliad 9.568–572",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Althaea's curse",
+   "note": "Althaea invokes Persephone to bring death upon Meleager.",
+   "source": "Iliad 9.568–572",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erinys",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "other",
+   "myth": "Althaea's curse",
+   "note": "The night-wandering Erinys hears Althaea's curse against Meleager.",
+   "source": "Iliad 9.571–572",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Atalanta hunts beside Meleager and draws first blood from the boar.",
+   "source": "François Vase",
+   "date": "approximately 570–560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Award of the boar trophy",
+   "note": "Meleager gives Atalanta the boar's hide as an honor and expression of desire.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphiaraus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Amphiaraus shoots the boar's eye before Meleager delivers the killing blow.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ancaeus of Arcadia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Ancaeus joins Meleager's hunt and is killed by the boar.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cepheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Cepheus appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Theseus appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fragmentary underworld conversation",
+   "note": "Theseus and Meleager participate in a fragmentarily preserved underworld dialogue.",
+   "source": "P.Berol. 21153",
+   "date": "date not given",
+   "tier": "attested"
+  },
+  {
+   "other": "Pirithous",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Pirithous appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pirithous",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fragmentary underworld conversation",
+   "note": "Pirithous and Meleager participate in a fragmentarily preserved underworld dialogue.",
+   "source": "Berlin papyrus",
+   "date": "date not given",
+   "tier": "attested"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Jason appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Voyage of the Argonauts",
+   "note": "Meleager sails among the Argonauts under Jason's leadership.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Peleus hunts beside Meleager in the earliest securely identified image.",
+   "source": "François Vase",
+   "date": "approximately 570–560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Telamon appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Telamon and Meleager sail together as Argonauts.",
+   "source": "Apollodorus 1.9.16",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurytion",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Eurytion joins Meleager's hunt before Peleus accidentally kills him.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iphicles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Iphicles appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Admetus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Admetus appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Castor hunts beside Meleager in early iconography.",
+   "source": "François Vase",
+   "date": "approximately 570–560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Castor and Meleager sail together as Argonauts.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [
+    "Pollux"
+   ],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Polydeuces hunts beside Meleager in early iconography.",
+   "source": "François Vase",
+   "date": "approximately 570–560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [
+    "Pollux"
+   ],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Polydeuces and Meleager sail together as Argonauts.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lynceus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Lynceus appears with Meleager among the hunters in later catalogues.",
+   "source": "Hyginus, Fabula 174",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lynceus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Lynceus and Meleager sail together as Argonauts.",
+   "source": "Hyginus, Fabula 14",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dryas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Dryas appears with Meleager among the assembled hunters.",
+   "source": "Apollodorus 1.8.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "shared_myth",
+   "myth": "Meleager meets Heracles in Hades",
+   "note": "Heracles aims at Meleager's shade, then listens to him and weeps.",
+   "source": "Bacchylides, Ode 5",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Heracles and the youthful Meleager belong to the Argonautic crew.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laocoon of Calydon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argonauts",
+   "note": "The older Laocoon accompanies and guards the youthful Meleager.",
+   "source": "Apollonius, Argonautica 1.190–201",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphiclus son of Thestius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Meleager's maternal relative Iphiclus accompanies him among the Argonauts.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle in Diodorus' Argonautic version",
+   "note": "Meleager kills King Aeetes in Diodorus' exceptional and incompatible variant.",
+   "source": "Diodorus Siculus 4.48.3",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Funeral javelin competition",
+   "note": "Meleager allegedly wins the javelin event at Acastus's or Pelias's games.",
+   "source": "Hyginus, Fabula 273",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calydonian boar hunt",
+   "note": "Acastus appears beside Meleager among the named hunters.",
+   "source": "François Vase",
+   "date": "approximately 570–560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Voyage of the Argonauts",
+   "note": "Meleager and his father-in-law Idas later appear together as Argonauts.",
+   "source": "Argonautic catalogues",
+   "date": "Hellenistic and later",
+   "tier": "late_accretion"
+  }
+ ]
+}

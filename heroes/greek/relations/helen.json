@@ -1,0 +1,709 @@
+{
+ "subject": "helen",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus is Helen’s divine father in the principal genealogical tradition.",
+   "source": "Homer",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Leda is Helen’s mother in the familiar genealogy.",
+   "source": "Euripides; Apollodorus",
+   "date": "fifth century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nemesis’s egg",
+   "note": "Leda receives and raises Helen from the egg laid by Nemesis.",
+   "source": "Cypria tradition; later mythographers",
+   "date": "seventh century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Nemesis’s egg",
+   "note": "Nemesis bears Helen after Zeus pursues and impregnates her.",
+   "source": "Cypria fragments",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "unnamed daughter of Ocean",
+   "other_aliases": [
+    "an Oceanid"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A competing genealogy makes an unnamed Oceanid Helen’s mother.",
+   "source": "Hesiodic testimony",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tyndareus is Helen’s reputed human father or foster-father.",
+   "source": "Hesiodic Catalogue; Apollodorus",
+   "date": "sixth century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suitors’ oath",
+   "note": "Tyndareus exacts the suitors’ oath and arranges Helen’s marriage.",
+   "source": "Hesiodic Catalogue",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Castor is Helen’s brother, with mortal or divine allocation varying.",
+   "source": "Iliad 3; later genealogies",
+   "date": "later eighth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue from Aphidna",
+   "note": "Castor invades Attica with Polydeuces and recovers Helen from Theseus.",
+   "source": "Theseus tradition",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Polydeuces is Helen’s brother, commonly assigned divine paternity.",
+   "source": "Iliad 3; later genealogies",
+   "date": "later eighth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue from Aphidna",
+   "note": "Polydeuces invades Attica with Castor and recovers Helen from Theseus.",
+   "source": "Theseus tradition",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Escape from Egypt",
+   "note": "Polydeuces intervenes with Castor to secure Helen’s escape and future divinity.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Clytemnestra is Helen’s sister or half-sister.",
+   "source": "Homer; later genealogies",
+   "date": "later eighth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Contrasted marriages",
+   "note": "Helen compares Clytemnestra’s disastrous marriage with her own restored household.",
+   "source": "Odyssey 4",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Abduction to Aphidna",
+   "note": "Theseus abducts the juvenile Helen and confines her at Aphidna.",
+   "source": "Hellanicus testimonia; Isocrates",
+   "date": "fifth–fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A regional genealogy makes Theseus Helen’s partner and Iphigenia’s father.",
+   "source": "Pausanias 2.22.6",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pirithous",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction to Aphidna",
+   "note": "Pirithous shares Theseus’s abduction scheme and loses the lot for Helen.",
+   "source": "Apollodorus, Epitome 1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aethra",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Captivity and Troy",
+   "note": "The captured mother of Theseus becomes Helen’s attendant at Troy.",
+   "source": "Iliad 3.144; cyclic tradition",
+   "date": "later eighth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Menelaus is Helen’s husband and restored Spartan consort.",
+   "source": "Homer",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery from Troy",
+   "note": "Menelaus fights for Helen’s recovery and takes her home after Troy.",
+   "source": "Homer; cyclic epics",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Escape from Egypt",
+   "note": "Helen uses a false funeral plan with Menelaus to escape Egypt.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermione",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermione is Helen’s daughter by Menelaus.",
+   "source": "Odyssey 4",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermione",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hermione’s wedding",
+   "note": "Helen prepares a woven robe for Hermione’s future marriage.",
+   "source": "Odyssey 15",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nicostratus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogical traditions name Nicostratus as Helen’s son.",
+   "source": "Apollodoran traditions",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nicostratus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Exile from Sparta",
+   "note": "Nicostratus joins Megapenthes in expelling Helen after Menelaus’s death.",
+   "source": "Pausanias 3.19.10",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pleisthenes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogical traditions name Pleisthenes as Helen’s son.",
+   "source": "Later genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aethiolas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A later genealogical variant names Aethiolas among Helen’s children.",
+   "source": "Later genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Maraphius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A later genealogical variant names Maraphius among Helen’s children.",
+   "source": "Later genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "In the standard genealogy, Iphigenia is Helen’s niece through Clytemnestra.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "after 406 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A regional variant makes Iphigenia Helen’s daughter by Theseus.",
+   "source": "Pausanias 2.22.6",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suitors’ oath",
+   "note": "Odysseus advises Tyndareus how to bind Helen’s suitors by oath.",
+   "source": "Apollodorus 3.10.9",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Odysseus enters Troy",
+   "note": "Helen recognizes the disguised Odysseus but swears not to betray him.",
+   "source": "Odyssey 4",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Wooden Horse voice-test",
+   "note": "Helen imitates warriors’ wives, but Odysseus prevents the hidden Greeks answering.",
+   "source": "Odyssey 4",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [
+    "Achilles on Leuke"
+   ],
+   "kind": "consort_of",
+   "myth": "Union on White Island",
+   "note": "Later afterlife tradition pairs Helen posthumously with Achilles on Leuke.",
+   "source": "Pausanian and Philostratean testimonia",
+   "date": "second–third century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Euphorion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Union on White Island",
+   "note": "Some later traditions make Euphorion the son of Helen and Achilles.",
+   "source": "Later White Island traditions",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "consort_of",
+   "myth": "Departure from Sparta",
+   "note": "Paris leaves Sparta with Helen and lives with her at Troy.",
+   "source": "Cypria; Iliad",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "other",
+   "myth": "After the duel",
+   "note": "Helen contemptuously rebukes Paris after Menelaus defeats him.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Departure from Sparta",
+   "note": "Aphrodite leads Helen astray from husband, child, and parents.",
+   "source": "Sappho fragment 16",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "After the duel",
+   "note": "Aphrodite threatens Helen and compels her to return to Paris’s bed.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Phantom Helen",
+   "note": "Hera creates Helen’s cloud-image while the real Helen is taken to Egypt.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Phantom Helen",
+   "note": "Hermes conveys the real Helen to Proteus’s Egypt for safekeeping.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Teichoskopia",
+   "note": "Priam receives Helen kindly and asks her to identify Greek commanders.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Helen at Troy",
+   "note": "Hector consistently treats Helen kindly during her years at Troy.",
+   "source": "Iliad 6, 24",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hector’s funeral",
+   "note": "Helen delivers the final principal lament for Hector.",
+   "source": "Iliad 24",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecuba",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Judgment of Helen",
+   "note": "Hecuba debates Helen and accuses her of responsibility for Troy’s destruction.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hector’s funeral",
+   "note": "Andromache and Helen appear among Hector’s principal female mourners.",
+   "source": "Iliad 24",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Teichoskopia",
+   "note": "Helen identifies Agamemnon to Priam from Troy’s wall.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Telamon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Teichoskopia",
+   "note": "Helen identifies Ajax to Priam from Troy’s wall.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Teichoskopia",
+   "note": "Helen identifies Idomeneus and recalls him as Menelaus’s guest.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Deiphobus becomes Helen’s Trojan husband after Paris’s death.",
+   "source": "Cyclic tradition",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wooden Horse voice-test",
+   "note": "Deiphobus accompanies Helen as she circles the Horse imitating Greek wives.",
+   "source": "Odyssey 4",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Sack of Troy",
+   "note": "Helen abandons or betrays Deiphobus when Menelaus enters during Troy’s sack.",
+   "source": "Cyclic tradition",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antenor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Embassy to Troy",
+   "note": "Helen recalls Antenor hosting the embassy of Odysseus and Menelaus.",
+   "source": "Iliad 3",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Telemachus visits Sparta",
+   "note": "Helen hosts Telemachus and gives him a robe for his future bride.",
+   "source": "Odyssey 4, 15",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eagle omen",
+   "note": "Helen recognizes Telemachus and interprets an eagle omen for him.",
+   "source": "Odyssey 15",
+   "date": "later eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Helen in Egypt",
+   "note": "Proteus detains and protects Helen from Paris until Menelaus retrieves her.",
+   "source": "Herodotus 2.112–20",
+   "date": "c. 430s–420s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theonoe",
+   "other_aliases": [
+    "Eido"
+   ],
+   "kind": "allied",
+   "myth": "Escape from Egypt",
+   "note": "Theonoe conceals Menelaus’s presence and assists Helen’s escape.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theoclymenus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Forced Egyptian marriage",
+   "note": "Theoclymenus attempts to compel Helen to marry him.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theoclymenus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "False funeral escape",
+   "note": "Helen deceives Theoclymenus with a false funeral and escapes Egypt.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dioscuri",
+   "other_aliases": [
+    "Castor and Polydeuces"
+   ],
+   "kind": "rescued_by",
+   "myth": "Rescue from Attica",
+   "note": "The Dioscuri invade Attica and recover Helen from Theseus.",
+   "source": "Theseus tradition",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dioscuri",
+   "other_aliases": [
+    "Castor and Polydeuces"
+   ],
+   "kind": "allied",
+   "myth": "Escape from Egypt",
+   "note": "The Dioscuri secure Helen’s escape and announce her future maritime divinity.",
+   "source": "Euripides, Helen",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attack on Helen",
+   "note": "Orestes attacks Helen to punish Menelaus, but Apollo removes her.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attack on Helen",
+   "note": "Pylades joins Orestes in the attempted killing of Helen.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Attack on Helen",
+   "note": "Apollo snatches Helen away from Orestes and Pylades.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Deification of Helen",
+   "note": "Apollo makes Helen immortal and orders her worship as sailors’ protector.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Plot against Helen",
+   "note": "Electra joins Orestes’ plot against Helen and Hermione.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marriage of Hermione",
+   "note": "Neoptolemus marries Helen’s daughter Hermione, though no necessary direct scene survives.",
+   "source": "Odyssey 4; Euripides, Andromache",
+   "date": "Archaic–fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyxo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Helen Dendritis",
+   "note": "Polyxo receives exiled Helen on Rhodes, then engineers her hanging.",
+   "source": "Pausanias 3.19.10",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Megapenthes",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Exile from Sparta",
+   "note": "Megapenthes expels Helen after Menelaus’s death in the Rhodian tradition.",
+   "source": "Pausanias 3.19.10",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

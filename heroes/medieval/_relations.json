@@ -1,0 +1,1741 @@
+{
+ "folder": "medieval",
+ "gods": [
+  "faust",
+  "lohengrin",
+  "parzival",
+  "pied_piper",
+  "robin_hood",
+  "tannhauser",
+  "till_eulenspiegel",
+  "tristan_and_isolde",
+  "wilhelm_tell"
+ ],
+ "relations": [
+  {
+   "a": "lohengrin",
+   "b": "parzival",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Parzival is Lohengrin’s father and, in Wagner, the Grail king.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "attested",
+   "stated_by": [
+    "lohengrin",
+    "parzival"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "faust",
+   "god": "abrahamic/lucifer",
+   "kind": "killed_by",
+   "myth": "Faust's gruesome death",
+   "note": "Posthumous tradition says the Devil kills Faust after his sorcery.",
+   "source": "Manlius, Locorum communium collectanea",
+   "date": "1562–1563",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/lucifer",
+   "kind": "served",
+   "myth": "Infernal pact",
+   "note": "Faust's contract places him under Lucifer's infernal government.",
+   "source": "Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/lucifer",
+   "kind": "punished_by",
+   "myth": "Faustus confronted after wavering",
+   "note": "Lucifer confronts Faustus, suppresses thoughts of Christ, and displays the Sins.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/mephistopheles",
+   "kind": "served_by",
+   "myth": "Twenty-four-year infernal pact",
+   "note": "The demon serves Faust as magical provider, guide, and tempter.",
+   "source": "Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/mephistopheles",
+   "kind": "deceived_by",
+   "myth": "Conditional wager",
+   "note": "Mephistopheles binds Faust through a wager promising possession after perfect satisfaction.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/mephistopheles",
+   "kind": "allied",
+   "myth": "Imperial finance and war",
+   "note": "Faust and Mephistopheles collaborate in paper money, warfare, and territorial acquisition.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/mephistopheles",
+   "kind": "punished_by",
+   "myth": "Final infernal claim",
+   "note": "Mephistopheles claims Faust's soul at death but loses it to angels.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "a": "faust",
+   "god": "abrahamic/beelzebub",
+   "kind": "served",
+   "myth": "Infernal hierarchy",
+   "note": "Faust invokes or serves power associated with Beelzebub in early forms.",
+   "source": "Historia and Marlowe A/B texts",
+   "date": "1587–1616",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "faust",
+   "god": "greek/chiron",
+   "kind": "served_by",
+   "myth": "Classical Walpurgis Night",
+   "note": "Chiron carries Faust and discusses Helen with him.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "a": "faust",
+   "god": "greek/persephone",
+   "kind": "judged_by",
+   "myth": "Quest for Helen",
+   "note": "Faust's quest is referred to Persephone's underworld authority through Manto.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "a": "pied_piper",
+   "god": "abrahamic/mephistopheles",
+   "kind": "identified_with",
+   "myth": "Mephistopheles called a damned Pied Piper",
+   "note": "Goethe applies the Pied Piper image to Mephistopheles without staging an encounter.",
+   "source": "Goethe, Faust",
+   "date": "nineteenth century",
+   "tier": "modern"
+  }
+ ],
+ "unresolved": {
+  "Abbot of St Mary’s, York": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "theft",
+    "myth": "Recovery of Sir Richard’s debt",
+    "note": "Robin robs the abbot of an amount equivalent to Sir Richard’s loan.",
+    "source": "A Gest of Robyn Hode",
+    "date": "late 15th century",
+    "tier": "attested"
+   }
+  ],
+  "Alexander the Great": [
+   {
+    "stated_by": "faust",
+    "kind": "created",
+    "myth": "Alexander's courtly apparition",
+    "note": "Faust conjures or simulates Alexander for Emperor Charles V.",
+    "source": "Historia and Marlowe A/B texts",
+    "date": "1587–1616",
+    "tier": "late_accretion"
+   }
+  ],
+  "Alexander's wife": [
+   {
+    "stated_by": "faust",
+    "kind": "created",
+    "myth": "Alexander's courtly apparition",
+    "note": "Faust causes Alexander's wife to appear beside him as an illusion.",
+    "source": "Historia and Marlowe A/B texts",
+    "date": "1587–1616",
+    "tier": "late_accretion"
+   }
+  ],
+  "Allen-a-Dale": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "rescued",
+    "myth": "Bride rescue",
+    "note": "Robin prevents Allen’s beloved from marrying another and arranges their union.",
+    "source": "Robin Hood and Allen-a-Dale",
+    "date": "17th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Amfortas": [
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "Healing with the recovered spear",
+    "note": "Parsifal heals Amfortas's wound by touching it with the recovered sacred spear.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   }
+  ],
+  "Anfortas": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "other",
+    "myth": "",
+    "note": "Anfortas belongs to Lohengrin’s Grail family-world, though their exact relationship varies.",
+    "source": "Wolfram and continuations",
+    "date": "13th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "The compassionate question",
+    "note": "Parzival asks what troubles Anfortas, healing the wounded Grail king.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "Anfortas is Parzival's maternal uncle.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Angharad Golden-Hand": [
+   {
+    "stated_by": "parzival",
+    "kind": "consort_of",
+    "myth": "Peredur's silence for Angharad",
+    "note": "Angharad first rejects Peredur and later loves him after his self-imposed silence.",
+    "source": "Peredur fab Efrawg",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Anguinguerron": [
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Relief of Beaurepaire",
+    "note": "Perceval defeats Anguinguerron and sends him to Arthur's court.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Arthur": [
+   {
+    "stated_by": "parzival",
+    "kind": "served",
+    "myth": "Perceval enters Arthurian knighthood",
+    "note": "Perceval seeks knighthood at Arthur's court and later returns as an acclaimed knight.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Arthur a Bland": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "contest",
+    "myth": "Staff fight with the Tanner",
+    "note": "Arthur beats or matches Robin with a staff before joining his band.",
+    "source": "Child 126",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Recruitment of the Tanner",
+    "note": "Robin invites Arthur into the outlaw band after their staff fight.",
+    "source": "Child 126",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Baucis": [
+   {
+    "stated_by": "faust",
+    "kind": "other",
+    "myth": "Removal of Philemon and Baucis",
+    "note": "Faust covets Baucis's property; Mephistopheles' agents kill her during removal.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Belacane": [
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "Belacane is Gahmuret's first wife and the mother of Parzival's half-brother Feirefiz.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Bishop of Hereford": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "punished",
+    "myth": "Capture of the bishop",
+    "note": "Robin captures the bishop and forces him to feast, dance, or pay ransom.",
+    "source": "Child 144",
+    "date": "17th-century witnesses",
+    "tier": "late_accretion"
+   }
+  ],
+  "Blancheflor": [
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "Relief of Beaurepaire",
+    "note": "Perceval saves Blancheflor and her starving people from Anguinguerron and Clamadeu.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "consort_of",
+    "myth": "Blancheflor's bed",
+    "note": "Perceval becomes Blancheflor's lover, although Chrétien does not state that they marry.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Bors": [
+   {
+    "stated_by": "parzival",
+    "kind": "allied",
+    "myth": "The three Grail companions",
+    "note": "Bors accompanies Perceval and Galahad on the successful Grail journey.",
+    "source": "Vulgate Queste",
+    "date": "c. 1220–1230",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "served_by",
+    "myth": "Perceval's burial at Sarras",
+    "note": "The surviving Bors buries Perceval after his death as a hermit.",
+    "source": "Vulgate Queste; Malory",
+    "date": "13th century–1485",
+    "tier": "canonical"
+   }
+  ],
+  "Care": [
+   {
+    "stated_by": "faust",
+    "kind": "punished_by",
+    "myth": "Faust's final night",
+    "note": "Care enters Faust's palace and blinds him.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "other",
+    "myth": "Prayers and oaths",
+    "note": "Robin invokes Christ or God in prayers and oaths without an apparition.",
+    "source": "Early ballads",
+    "date": "15th century",
+    "tier": "attested"
+   }
+  ],
+  "Clamadeu": [
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Relief of Beaurepaire",
+    "note": "Perceval defeats Clamadeu, the besieger of Blancheflor's city.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Condwiramurs": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Condwiramurs is the mother of the twins Lohengrin and Kardeiz.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "Rescue of Condwiramurs",
+    "note": "Parzival saves Condwiramurs and her realm before marrying her.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Condwiramurs is Parzival's wife and the mother of his twin sons.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Cundrie": [
+   {
+    "stated_by": "parzival",
+    "kind": "punished_by",
+    "myth": "Cundrie curses Parzival",
+    "note": "Cundrie publicly condemns Parzival for failing to show compassion toward Anfortas.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "Election to the Grail",
+    "note": "Cundrie later announces Parzival's election and summons him back to the Grail.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Curtal Friar": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "contest",
+    "myth": "River-carrying contest",
+    "note": "Robin and the friar fight while repeatedly carrying or dropping each other.",
+    "source": "Child 123",
+    "date": "17th-century witnesses",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Recruitment after the river contest",
+    "note": "The friar becomes Robin’s ally after their prolonged contest.",
+    "source": "Child 123",
+    "date": "17th-century witnesses",
+    "tier": "late_accretion"
+   }
+  ],
+  "Earth Spirit": [
+   {
+    "stated_by": "faust",
+    "kind": "judged_by",
+    "myth": "Invocation of the Earth Spirit",
+    "note": "Faust invokes the spirit, which appears and rejects his claimed equality.",
+    "source": "Goethe, Faust I",
+    "date": "1808",
+    "tier": "canonical"
+   }
+  ],
+  "Elsa of Brabant": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "rescued",
+    "myth": "Defense of Elsa in judicial combat",
+    "note": "Lohengrin defends Elsa against Telramund and secures her claim to Brabant.",
+    "source": "Anonymous Lohengrin",
+    "date": "c. 1283–1289",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lohengrin",
+    "kind": "consort_of",
+    "myth": "Marriage under the forbidden-question condition",
+    "note": "Lohengrin marries Elsa on condition that she never ask his identity.",
+    "source": "Anonymous Lohengrin",
+    "date": "c. 1283–1289",
+    "tier": "canonical"
+   }
+  ],
+  "Empress of Constantinople": [
+   {
+    "stated_by": "parzival",
+    "kind": "consort_of",
+    "myth": "Peredur's Constantinopolitan rule",
+    "note": "Peredur wins the Empress and remains to rule with her.",
+    "source": "Peredur, Peniarth 7",
+    "date": "c. 1300–1400",
+    "tier": "regional_variant"
+   }
+  ],
+  "Euphorion": [
+   {
+    "stated_by": "faust",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Euphorion is the son of Faust and Helen.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "faust",
+    "kind": "shared_myth",
+    "myth": "Euphorion's fatal flight",
+    "note": "Faust witnesses his son's ecstatic attempt to fly and fatal fall.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Evil Angel": [
+   {
+    "stated_by": "faust",
+    "kind": "deceived_by",
+    "myth": "Faustus's spiritual conflict",
+    "note": "The Evil Angel encourages Faustus toward necromancy and despair.",
+    "source": "Marlowe, Doctor Faustus",
+    "date": "1604/1616",
+    "tier": "canonical"
+   }
+  ],
+  "Faithful Eckart": [
+   {
+    "stated_by": "tannhauser",
+    "kind": "other",
+    "myth": "Guardian of Venusberg",
+    "note": "Eckart serves as Venusberg’s guardian and a warning figure associated with Tannhäuser.",
+    "source": "Tieck, Der getreue Eckart",
+    "date": "1799",
+    "tier": "modern"
+   }
+  ],
+  "Feirefiz": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "other",
+    "myth": "",
+    "note": "Feirefiz is Lohengrin’s paternal uncle; no direct meeting is narrated.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Feirefiz is Parzival's paternal half-brother.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Combat of the unknown brothers",
+    "note": "Parzival and Feirefiz fight before recognizing their kinship.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "allied",
+    "myth": "Brothers proceed to the Grail",
+    "note": "After recognizing each other, the half-brothers proceed together and Feirefiz later converts.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Fisher King": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "The unanswered Grail questions",
+    "note": "The Fisher King hosts Perceval but remains wounded because Perceval asks no healing question.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "Completion of the Grail quest",
+    "note": "Perceval completes the sword and questions, heals the Fisher King, and succeeds him.",
+    "source": "Manessier Continuation",
+    "date": "c. 1225–1230",
+    "tier": "canonical"
+   }
+  ],
+  "Frau Venus": [
+   {
+    "stated_by": "tannhauser",
+    "kind": "consort_of",
+    "myth": "Tannhäuser as Venus’s husband",
+    "note": "Tannhäuser is explicitly described as Frau Venus’s husband.",
+    "source": "Die Mörin",
+    "date": "1453",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "tannhauser",
+    "kind": "served",
+    "myth": "Life inside Venusberg",
+    "note": "Ballad formulations make Tannhäuser Venus’s lover or retainer inside her mountain.",
+    "source": "Tannhäuser ballad",
+    "date": "c. 1515 onward",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tannhauser",
+    "kind": "seduced_by",
+    "myth": "Venus tempts Tannhäuser to remain",
+    "note": "Venus offers continued pleasure and sometimes an attendant as wife to prevent his departure.",
+    "source": "Tannhäuser ballad",
+    "date": "c. 1515 onward",
+    "tier": "canonical"
+   }
+  ],
+  "Friar Tuck": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Combat with the fighting friar",
+    "note": "Robin duels the bellicose friar, including a later river-carrying contest.",
+    "source": "Dramatic fragment; Copland; later ballads",
+    "date": "c. 1475–17th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Recruitment of the fighting friar",
+    "note": "After their contest, the friar joins Robin’s company as companion and chaplain.",
+    "source": "Copland; later ballads",
+    "date": "16th–17th centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "identified_with",
+    "myth": "Curtal Friar identification",
+    "note": "Later tradition equates Robin’s Curtal Friar opponent with Friar Tuck.",
+    "source": "Child 123; later tradition",
+    "date": "17th century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Friedrich von Telramund": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "fought",
+    "myth": "Judicial combat for Elsa’s innocence",
+    "note": "Lohengrin defeats Telramund in judicial combat but spares him.",
+    "source": "Anonymous Lohengrin; Wagner",
+    "date": "1283–1289; 1850",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lohengrin",
+    "kind": "killed",
+    "myth": "Attack in the bridal chamber",
+    "note": "Lohengrin kills Telramund when he and his conspirators attack the bridal chamber.",
+    "source": "Wagner, Lohengrin Act III",
+    "date": "1850",
+    "tier": "modern"
+   }
+  ],
+  "Gahmuret": [
+   {
+    "stated_by": "parzival",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Parzival is Gahmuret's posthumous son.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Galahad": [
+   {
+    "stated_by": "parzival",
+    "kind": "allied",
+    "myth": "Voyage to Sarras",
+    "note": "Perceval accompanies Galahad as one of the successful Grail companions.",
+    "source": "Vulgate Queste",
+    "date": "c. 1220–1230",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Galahad's death at Sarras",
+    "note": "Perceval witnesses and mourns Galahad's death after the Grail mysteries.",
+    "source": "Vulgate Queste; Malory",
+    "date": "13th century–1485",
+    "tier": "canonical"
+   }
+  ],
+  "Gawain": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Parallel Grail adventures",
+    "note": "Gawain and Perceval pursue parallel Arthurian adventures and sometimes function as rival questers.",
+    "source": "Chrétien and continuations",
+    "date": "c. 1180s–1230",
+    "tier": "canonical"
+   }
+  ],
+  "Gawan": [
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Interrupted combat with Gawan",
+    "note": "Parzival and Gawan fight until recognition of their fellowship interrupts the combat.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "George-a-Green": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Fight with Wakefield’s pinder",
+    "note": "George-a-Green fights Robin, Little John, and Scarlet.",
+    "source": "Jolly Pinder",
+    "date": "registered 1557–58",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Invitation after the pinder fight",
+    "note": "Robin invites George-a-Green to join the outlaw company after their fight.",
+    "source": "Jolly Pinder",
+    "date": "registered 1557–58",
+    "tier": "late_accretion"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "faust",
+    "kind": "judged_by",
+    "myth": "Prologue in Heaven",
+    "note": "The Lord permits Mephistopheles to test Faust without Faust's knowledge.",
+    "source": "Goethe, Faust I",
+    "date": "1808",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lohengrin",
+    "kind": "served",
+    "myth": "Divinely authorized defense of Brabant",
+    "note": "Lohengrin serves as God’s Christian champion, with victory represented as divine judgment.",
+    "source": "Anonymous Lohengrin",
+    "date": "c. 1283–1289",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "Five-year religious lapse and confession",
+    "note": "Perceval forgets God, later confesses, receives penance, and learns the grail carries a consecrated host.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tannhauser",
+    "kind": "judged_by",
+    "myth": "The flowering staff",
+    "note": "The miraculously flowering staff shows that divine forgiveness exceeds Pope Urban’s refusal.",
+    "source": "Tannhäuser ballad",
+    "date": "c. 1515 onward",
+    "tier": "canonical"
+   }
+  ],
+  "Good Angel": [
+   {
+    "stated_by": "faust",
+    "kind": "taught_by",
+    "myth": "Faustus's spiritual conflict",
+    "note": "The Good Angel urges Faustus to abandon magic and repent.",
+    "source": "Marlowe, Doctor Faustus",
+    "date": "1604/1616",
+    "tier": "canonical"
+   }
+  ],
+  "Gornemant": [
+   {
+    "stated_by": "parzival",
+    "kind": "taught_by",
+    "myth": "Chivalric training",
+    "note": "Gornemant trains Perceval in arms and counsels restrained speech.",
+    "source": "Chrétien; Wolfram",
+    "date": "c. 1180s–1210",
+    "tier": "attested"
+   }
+  ],
+  "Gottfried of Brabant": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "rescued",
+    "myth": "Release of the enchanted swan",
+    "note": "Lohengrin’s prayer releases Gottfried from Ortrud’s swan enchantment.",
+    "source": "Wagner, Lohengrin Act III",
+    "date": "1850",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "lohengrin",
+    "kind": "gift",
+    "myth": "Lohengrin’s farewell gifts",
+    "note": "Lohengrin leaves his sword, horn, and ring for Gottfried.",
+    "source": "Wagner, Lohengrin Act III",
+    "date": "1850",
+    "tier": "modern"
+   }
+  ],
+  "Grail King's father": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "The life-sustaining host",
+    "note": "Perceval learns that the grail sustains the aged king with one consecrated wafer.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Gretchen": [
+   {
+    "stated_by": "faust",
+    "kind": "consort_of",
+    "myth": "Gretchen tragedy",
+    "note": "Faust courts and impregnates Gretchen, whose family and life are destroyed.",
+    "source": "Goethe, Faust I",
+    "date": "1808",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "faust",
+    "kind": "rescued_by",
+    "myth": "Faust's final ascent",
+    "note": "The saved penitent intercedes for and guides Faust's ascending soul.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Guinevere": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Arthur's insulted court",
+    "note": "Guinevere witnesses the court crisis that Perceval's later prowess helps vindicate.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Gurnemanz": [
+   {
+    "stated_by": "parzival",
+    "kind": "taught_by",
+    "myth": "Instruction in the Grail community",
+    "note": "Gurnemanz explains the Grail order and its suffering to Parsifal.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "judged_by",
+    "myth": "Recognition of the pure fool",
+    "note": "Gurnemanz recognizes Parsifal's spiritual transformation and fitness to restore the Grail community.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   }
+  ],
+  "Guy of Gisborne": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Sword duel in the forest",
+    "note": "Robin duels Guy, who is hunting him while dressed in a horsehide.",
+    "source": "Robin Hood and Guy of Gisborne",
+    "date": "late-medieval roots",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "killed",
+    "myth": "Death and impersonation of Guy",
+    "note": "Robin kills and beheads Guy, mutilates his face, and assumes his identity.",
+    "source": "Robin Hood and Guy of Gisborne",
+    "date": "late-medieval roots",
+    "tier": "attested"
+   }
+  ],
+  "Helias": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "identified_with",
+    "myth": "Fusion of Swan-Knight and Grail traditions",
+    "note": "Lohengrin is a literary transformation of Helias, though medieval texts keep them distinct.",
+    "source": "Comparative literary evidence",
+    "date": "modern scholarship",
+    "tier": "syncretism"
+   }
+  ],
+  "Hermit uncle": [
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "The hermit who receives Perceval's confession is his maternal uncle.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "taught_by",
+    "myth": "Good Friday confession",
+    "note": "The hermit hears Perceval's confession, imposes penance, and explains the Grail household.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Herne the Hunter": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "served",
+    "myth": "Herne’s mystical patronage",
+    "note": "Herne becomes Robin’s supernatural patron in the television series.",
+    "source": "Robin of Sherwood television",
+    "date": "1984–86",
+    "tier": "modern"
+   }
+  ],
+  "Herzeloyde": [
+   {
+    "stated_by": "parzival",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Parzival is Herzeloyde's son.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "deceived_by",
+    "myth": "Childhood at Soltane",
+    "note": "Herzeloyde conceals knighthood and courtly society from her son while raising him in isolation.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Homunculus": [
+   {
+    "stated_by": "faust",
+    "kind": "allied",
+    "myth": "Journey to Classical Walpurgis Night",
+    "note": "Homunculus meets Faust and accompanies his party toward the classical gathering.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Ither": [
+   {
+    "stated_by": "parzival",
+    "kind": "killed",
+    "myth": "Parzival wins Ither's armor",
+    "note": "Parzival kills his unrecognized kinsman Ither with a javelin.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "theft",
+    "myth": "Parzival wins Ither's armor",
+    "note": "Parzival despoils the slain Ither and wears his armor.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "tannhauser",
+    "kind": "other",
+    "myth": "Invocation against Venus’s power",
+    "note": "Tannhäuser invokes Christ as saviour or authority over Venus’s realm.",
+    "source": "Early-modern ballad variants",
+    "date": "early modern period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Joseph of Arimathea": [
+   {
+    "stated_by": "parzival",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "In one Christianized genealogy, Joseph belongs to the sacred lineage culminating in Perceval.",
+    "source": "Robert and Didot tradition",
+    "date": "c. 1190–13th century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Christian Grail dispensation",
+    "note": "Joseph initiates the Christian Grail history into which Perceval later enters.",
+    "source": "Robert and Didot tradition",
+    "date": "c. 1190–13th century",
+    "tier": "syncretism"
+   }
+  ],
+  "Justus Faustus": [
+   {
+    "stated_by": "faust",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later chapbook forms make Justus the magically implicated son of Faust and Helen.",
+    "source": "Later chapbook forms",
+    "date": "early-modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kardeiz": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Kardeiz is Lohengrin’s twin and inherits their father’s secular territories.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Kardeiz is the son of Parzival and Condwiramurs and receives their secular kingdoms.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kay": [
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Perceval punishes Kay",
+    "note": "Perceval unhorses and injures Kay after Kay abuses those predicting the youth's worth.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Klingsor": [
+   {
+    "stated_by": "parzival",
+    "kind": "fought",
+    "myth": "Klingsor's enchanted garden",
+    "note": "Parsifal overcomes Klingsor and the enchanted agents sent to destroy him.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   }
+  ],
+  "Kundry": [
+   {
+    "stated_by": "parzival",
+    "kind": "seduced_by",
+    "myth": "Kundry's temptation",
+    "note": "Kundry attempts to seduce Parsifal in Klingsor's enchanted garden.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "rescued",
+    "myth": "Kundry's release",
+    "note": "Parsifal's redemptive action releases Kundry from her cycle of wandering and servitude.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Guidance, mockery, and temptation",
+    "note": "Kundry alternately mocks, guides, and confronts Parsifal across Wagner's drama.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   }
+  ],
+  "Lancelot": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "The Vulgate Grail quest",
+    "note": "Perceval and Lancelot participate in the Grail quest, though Lancelot cannot attain the same vision.",
+    "source": "Vulgate cycle",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Little John": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Greenwood outlaw fellowship",
+    "note": "Little John is Robin’s chief lieutenant and consistently loyal companion.",
+    "source": "Wyntoun; Monk; Gest",
+    "date": "c. 1420–late 15th c.",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "rescued_by",
+    "myth": "Nottingham prison rescue",
+    "note": "After quarreling with Robin, Little John returns and frees him from captivity.",
+    "source": "Robin Hood and the Monk",
+    "date": "c. 1450",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Bridge recruitment",
+    "note": "Robin fights Little John at a bridge before accepting him as companion.",
+    "source": "Robin Hood and Little John",
+    "date": "c. 1680–85",
+    "tier": "late_accretion"
+   }
+  ],
+  "Longinus": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Christianization of the bleeding lance",
+    "note": "The Grail lance encountered by Perceval becomes associated with Longinus's Passion weapon.",
+    "source": "Thirteenth-century Grail cycles",
+    "date": "thirteenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Maid Marian": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "consort_of",
+    "myth": "May games and Huntingdon romance",
+    "note": "Marian becomes Robin’s May-game partner, noble lover, and eventual wife.",
+    "source": "Kingston records; Munday plays",
+    "date": "1509–1601",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Disguised lovers’ combat",
+    "note": "Disguised and armed, Marian fights Robin before they recognize one another.",
+    "source": "Robin Hood and Maid Marian",
+    "date": "later broadside tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Manto": [
+   {
+    "stated_by": "faust",
+    "kind": "taught_by",
+    "myth": "Quest for Helen",
+    "note": "Manto guides Faust toward Persephone's underworld realm to seek Helen.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Merlin": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Prophecy of the Grail achiever",
+    "note": "Merlin's prophetic sequence connects Perceval's destiny to the Christianized Grail history.",
+    "source": "Didot-Perceval",
+    "date": "early thirteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Moriaen": [
+   {
+    "stated_by": "parzival",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The Middle Dutch romance presents Moriaen as Perceval's son.",
+    "source": "Moriaen",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Moriaen searches for his father",
+    "note": "Moriaen undertakes a search for his absent father Perceval.",
+    "source": "Moriaen",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Much the Miller’s Son": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Nottingham rescue and Sir Richard’s aid",
+    "note": "Much assists Robin’s rescue and later helps Robin aid Sir Richard.",
+    "source": "Monk; Gest",
+    "date": "15th century",
+    "tier": "attested"
+   }
+  ],
+  "Odin": [
+   {
+    "stated_by": "pied_piper",
+    "kind": "identified_with",
+    "myth": "Modern Wild Hunt and psychopomp comparison",
+    "note": "Comparativists liken the Piper to Odin as leader of the dead or Wild Hunt.",
+    "source": "Nineteenth- and twentieth-century comparativism",
+    "date": "19th–20th centuries",
+    "tier": "modern"
+   }
+  ],
+  "Ortrud": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "deceived_by",
+    "myth": "Ortrud engineers the forbidden question",
+    "note": "Ortrud manipulates Elsa into questioning Lohengrin and thereby causes his departure.",
+    "source": "Wagner, Lohengrin Acts II–III",
+    "date": "1850",
+    "tier": "modern"
+   }
+  ],
+  "Pan": [
+   {
+    "stated_by": "pied_piper",
+    "kind": "identified_with",
+    "myth": "Modern comparison with a pastoral flute-playing daemon",
+    "note": "Modern comparative readings assimilate the Piper to Pan; medieval sources provide no connection.",
+    "source": "Modern mythographic and psychological discussion",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Pellinore": [
+   {
+    "stated_by": "parzival",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The prose-cycle and Malorian genealogy make Percivale a son of King Pellinore.",
+    "source": "Vulgate tradition; Malory",
+    "date": "13th century–1485",
+    "tier": "late_accretion"
+   }
+  ],
+  "Perceval's cousin": [
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "The maiden is Perceval's cousin.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "taught_by",
+    "myth": "Revelation after the Grail castle",
+    "note": "She names Perceval, reports his mother's death, and explains the consequences of his silence.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Percivale's sister": [
+   {
+    "stated_by": "parzival",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The unnamed Grail maiden is Percivale's sister.",
+    "source": "Vulgate Queste; Malory",
+    "date": "13th century–1485",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "allied",
+    "myth": "The Grail company",
+    "note": "Percivale's sister joins his company and sacrifices her blood to heal another woman.",
+    "source": "Vulgate Queste; Malory",
+    "date": "13th century–1485",
+    "tier": "canonical"
+   }
+  ],
+  "Philemon": [
+   {
+    "stated_by": "faust",
+    "kind": "other",
+    "myth": "Removal of Philemon and Baucis",
+    "note": "Faust covets Philemon's property; Mephistopheles' agents kill him during removal.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "Potter": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Robin’s defeat by the potter",
+    "note": "The potter defeats Robin in a fight before cooperating with his disguise.",
+    "source": "Robin Hood and the Potter",
+    "date": "late 15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Exchange of identities",
+    "note": "Robin exchanges clothes with the potter, whose goods facilitate Robin’s trick.",
+    "source": "Robin Hood and the Potter",
+    "date": "late 15th century",
+    "tier": "attested"
+   }
+  ],
+  "Prester John": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "other",
+    "myth": "",
+    "note": "Prester John is Lohengrin’s cousin in the extended Wolframian genealogy.",
+    "source": "Wolfram, Parzival conclusion",
+    "date": "c. 1200–1210",
+    "tier": "attested"
+   }
+  ],
+  "Prince John": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Richard against John",
+    "note": "Post-medieval romance makes John Robin’s oppressive political enemy.",
+    "source": "Munday; Ivanhoe; later media",
+    "date": "1598–modern",
+    "tier": "canonical"
+   }
+  ],
+  "Prioress of Kirklees": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "killed_by",
+    "myth": "Death at Kirklees",
+    "note": "Robin’s treacherous kinswoman bleeds him to death while ostensibly treating him.",
+    "source": "Gest; Robin Hood’s Death",
+    "date": "15th–17th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Queen Katherine": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "served",
+    "myth": "Queen Katherine’s archery contest",
+    "note": "Robin competes on the queen’s behalf and receives royal favor.",
+    "source": "Child 145",
+    "date": "17th-century witnesses",
+    "tier": "late_accretion"
+   }
+  ],
+  "Red Knight": [
+   {
+    "stated_by": "parzival",
+    "kind": "killed",
+    "myth": "Winning the red armor",
+    "note": "Perceval kills the Red Knight with a javelin and takes his armor.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "theft",
+    "myth": "Winning the red armor",
+    "note": "Perceval strips the slain knight's equipment and assumes his red-armored identity.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Repanse de Schoye": [
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "The Grail procession",
+    "note": "Parzival sees Repanse de Schoye carrying the Grail at Munsalvaesche.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sheriff of Nottingham": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Robin’s conflict with Nottingham",
+    "note": "Robin repeatedly opposes the sheriff, who hunts and arrests him.",
+    "source": "Monk; Potter; Gest; Guy",
+    "date": "15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "deceived",
+    "myth": "Potter disguise",
+    "note": "Disguised as a potter, Robin tricks the sheriff into entering the greenwood.",
+    "source": "Robin Hood and the Potter",
+    "date": "late 15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "killed",
+    "myth": "Vengeance for Sir Richard",
+    "note": "Robin kills the sheriff after the sheriff betrays Sir Richard.",
+    "source": "A Gest of Robyn Hode",
+    "date": "late 15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "killed",
+    "myth": "Rescue after Gisborne’s death",
+    "note": "Robin shoots the sheriff while rescuing Little John.",
+    "source": "Robin Hood and Guy of Gisborne",
+    "date": "late-medieval roots",
+    "tier": "attested"
+   }
+  ],
+  "Sigune": [
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "Sigune is Wolfram's version of Parzival's cousin.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Sigune recognizes Parzival",
+    "note": "Sigune recognizes her cousin Parzival while mourning Schionatulander.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sir Richard at the Lee": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "gift",
+    "myth": "Sir Richard’s debt",
+    "note": "Robin lends Sir Richard money, clothes and equipment to redeem his estate.",
+    "source": "A Gest of Robyn Hode",
+    "date": "late 15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "rescued",
+    "myth": "Protection from the sheriff",
+    "note": "Robin protects the indebted knight and later shelters him from danger.",
+    "source": "A Gest of Robyn Hode",
+    "date": "late 15th century",
+    "tier": "attested"
+   }
+  ],
+  "Sir Roger of Doncaster": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "killed_by",
+    "myth": "Death at Kirklees",
+    "note": "Sir Roger assists the prioress in causing Robin’s death.",
+    "source": "Gest; Robin Hood’s Death",
+    "date": "15th–17th centuries",
+    "tier": "attested"
+   }
+  ],
+  "The Butcher": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "deceived",
+    "myth": "Butcher disguise",
+    "note": "Robin assumes the butcher’s commercial identity to enter Nottingham’s market.",
+    "source": "Child 122",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Devil": [
+   {
+    "stated_by": "pied_piper",
+    "kind": "identified_with",
+    "myth": "Demonological interpretation of the children’s disappearance",
+    "note": "Fincelius attributes the abduction to the Devil’s power; later moralists describe Satanic seduction.",
+    "source": "Fincelius, Wunderzeichen",
+    "date": "1556",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Mater Gloriosa": [
+   {
+    "stated_by": "faust",
+    "kind": "judged_by",
+    "myth": "Final mystical ascent",
+    "note": "Faust's soul is drawn upward under the Mater Gloriosa's authority.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ],
+  "The Nottingham monk": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "deceived_by",
+    "myth": "Betrayal at Nottingham",
+    "note": "The monk recognizes and betrays Robin, enabling the sheriff to arrest him.",
+    "source": "Robin Hood and the Monk",
+    "date": "c. 1450",
+    "tier": "attested"
+   }
+  ],
+  "The Seven Deadly Sins": [
+   {
+    "stated_by": "faust",
+    "kind": "shared_myth",
+    "myth": "Infernal entertainment",
+    "note": "The Sins appear before and address Faustus after his wavering.",
+    "source": "Marlowe, Doctor Faustus",
+    "date": "1604/1616",
+    "tier": "canonical"
+   }
+  ],
+  "The Tinker": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "deceived",
+    "myth": "The warrant against Robin",
+    "note": "Robin deceives the tinker carrying a warrant for his arrest.",
+    "source": "Child 127",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "robin_hood",
+    "kind": "fought",
+    "myth": "Fight after the warrant trick",
+    "note": "The deceived tinker subsequently fights Robin.",
+    "source": "Child 127",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Three squires": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "rescued",
+    "myth": "Rescue of condemned men",
+    "note": "Robin rescues three condemned young men, often following their mother’s appeal.",
+    "source": "Child 140 and variants",
+    "date": "later ballad tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Titurel": [
+   {
+    "stated_by": "lohengrin",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Titurel belongs to Lohengrin’s ancestral Grail dynasty.",
+    "source": "Wolframian tradition; Jüngerer Titurel",
+    "date": "13th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "shared_myth",
+    "myth": "Restoration of the Grail community",
+    "note": "Parsifal enters and ultimately restores the Grail community founded by the aged patriarch Titurel.",
+    "source": "Wagner, Parsifal",
+    "date": "1882",
+    "tier": "modern"
+   }
+  ],
+  "Trevrizent": [
+   {
+    "stated_by": "parzival",
+    "kind": "other",
+    "myth": "",
+    "note": "Trevrizent is Parzival's maternal uncle.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "parzival",
+    "kind": "taught_by",
+    "myth": "Good Friday reconciliation",
+    "note": "Trevrizent hears Parzival's confession and teaches him Grail genealogy and spiritual responsibility.",
+    "source": "Wolfram, Parzival",
+    "date": "c. 1200–1210",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ugly Damsel": [
+   {
+    "stated_by": "parzival",
+    "kind": "punished_by",
+    "myth": "Public curse at Arthur's court",
+    "note": "The Ugly Damsel publicly curses Perceval for failing to ask the Grail questions.",
+    "source": "Chrétien, Conte du Graal",
+    "date": "c. 1180s",
+    "tier": "attested"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "served",
+    "myth": "Robin’s Marian devotion",
+    "note": "Robin venerates her, hears Mass in her honor, and invokes her protection.",
+    "source": "Monk; Gest",
+    "date": "15th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tannhauser",
+    "kind": "rescued_by",
+    "myth": "Escape from Venusberg",
+    "note": "Invoking Mary helps break Venus’s power and permits Tannhäuser’s departure.",
+    "source": "Tannhäuser ballad variants",
+    "date": "early modern period",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "tannhauser",
+    "kind": "rescued_by",
+    "myth": "Mary transports him from Venusberg",
+    "note": "Tannhäuser’s invocation of Mary breaks the enchantment and returns him to the mortal world.",
+    "source": "Wagner, Tannhäuser",
+    "date": "1845",
+    "tier": "modern"
+   }
+  ],
+  "Will Scarlet": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "allied",
+    "myth": "Greenwood outlaw fellowship",
+    "note": "Will appears as Robin’s named outlaw companion and fighter.",
+    "source": "Monk; Gest; later ballads",
+    "date": "15th–17th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Will Stutely": [
+   {
+    "stated_by": "robin_hood",
+    "kind": "rescued",
+    "myth": "Rescue from execution",
+    "note": "Robin saves Will Stutely from execution.",
+    "source": "Child 141",
+    "date": "later ballad",
+    "tier": "late_accretion"
+   }
+  ],
+  "Witches of Gloucester": [
+   {
+    "stated_by": "parzival",
+    "kind": "killed",
+    "myth": "Vengeance for the severed head",
+    "note": "Peredur destroys the witches to avenge his cousin's severed head.",
+    "source": "Long Peredur",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yonet": [
+   {
+    "stated_by": "parzival",
+    "kind": "served_by",
+    "myth": "Removing the Red Knight's armor",
+    "note": "Yonet helps the inexperienced Perceval remove and don the dead Red Knight's armor.",
+    "source": "Chrétien; Wolfram adaptation",
+    "date": "c. 1180s–1210",
+    "tier": "attested"
+   }
+  ],
+  "angels": [
+   {
+    "stated_by": "faust",
+    "kind": "rescued_by",
+    "myth": "Contest for Faust's soul",
+    "note": "Angels distract the devils and carry Faust's soul away from Mephistopheles.",
+    "source": "Goethe, Faust II",
+    "date": "1832",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

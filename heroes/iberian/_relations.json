@@ -1,0 +1,478 @@
+{
+ "folder": "iberian",
+ "gods": [
+  "bernardo_del_carpio",
+  "don_rodrigo_and_la_cava",
+  "el_cid",
+  "fernan_gonzalez",
+  "jaun_zuria",
+  "pelayo",
+  "roland_at_roncevaux",
+  "seven_infantes_of_lara"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "bernardo_del_carpio",
+   "god": "greek/apollo",
+   "kind": "other",
+   "myth": "Apollo appears to Bernardo in a dream or vision",
+   "note": "Apollo appears to Bernardo in a dream or vision within Balbuena’s learned epic.",
+   "source": "Balbuena, El Bernardo",
+   "date": "1624",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "jaun_zuria",
+   "god": "iberian/sugaar",
+   "kind": "child_of",
+   "myth": "Modern composite supernatural genealogy",
+   "note": "Modern mythography identifies Sugaar with Culebro and makes him Zuria’s father.",
+   "source": "Aranzadi, Milenarismo vasco",
+   "date": "1981",
+   "tier": "syncretism"
+  },
+  {
+   "a": "roland_at_roncevaux",
+   "god": "abrahamic/gabriel",
+   "kind": "rescued_by",
+   "myth": "Roland’s soul carried to paradise",
+   "note": "Gabriel receives Roland’s soul and carries it to paradise.",
+   "source": "Oxford Chanson de Roland",
+   "date": "c. 1075–1100",
+   "tier": "canonical"
+  }
+ ],
+ "unresolved": {
+  "Almanzor": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "fought",
+    "myth": "Betrayal and destruction",
+    "note": "He coordinates with Ruy and Muslim commanders to destroy the brothers.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Count García Fernández": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "gift",
+    "myth": "Knighthood of the seven brothers",
+    "note": "He knights all seven brothers together on one day.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "judged",
+    "myth": "Wedding feud reconciliation",
+    "note": "He imposes reconciliation after Gonzalo González and Ruy fight.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Culebro": [
+   {
+    "stated_by": "jaun_zuria",
+    "kind": "child_of",
+    "myth": "Dream conception at Mundaka",
+    "note": "Culebro impregnates Zuria’s Scottish mother during a dream.",
+    "source": "Salazar, Crónica de Vizcaya",
+    "date": "1454",
+    "tier": "canonical"
+   }
+  ],
+  "Doña Lambra": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "fought",
+    "myth": "Bloody cucumber insult",
+    "note": "Lambra humiliates Gonzalo González and demands punishment after he kills her servant.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Doña Sancha": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is the mother of all seven brothers.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Ferracutus": [
+   {
+    "stated_by": "roland_at_roncevaux",
+    "kind": "contest",
+    "myth": "Roland’s prolonged duel with Ferragut",
+    "note": "Roland duels the giant for several days and debates Christian doctrine.",
+    "source": "Pseudo-Turpin",
+    "date": "c. 1130–1140",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "roland_at_roncevaux",
+    "kind": "killed",
+    "myth": "Ferragut’s vulnerable navel",
+    "note": "Roland exploits the giant’s revealed vulnerability and kills him through the navel.",
+    "source": "Pseudo-Turpin",
+    "date": "c. 1130–1140",
+    "tier": "late_accretion"
+   }
+  ],
+  "Froom": [
+   {
+    "stated_by": "jaun_zuria",
+    "kind": "identified_with",
+    "myth": "Biscay’s foreign founding lord",
+    "note": "Later harmonization identifies Zuria with the earlier English royal founder Froom.",
+    "source": "Later genealogical harmonization",
+    "date": "",
+    "tier": "syncretism"
+   }
+  ],
+  "Galve": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "fought",
+    "myth": "Final battle",
+    "note": "The Muslim commander is associated with the battle against the Infantes.",
+    "source": "Chronicle tradition",
+    "date": "1289 onward",
+    "tier": "attested"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "don_rodrigo_and_la_cava",
+    "kind": "punished_by",
+    "myth": "Rodrigo’s penitence and serpent tomb",
+    "note": "A heavenly voice prescribes Rodrigo’s penance; God receives him after punishment.",
+    "source": "Corral and penitential romances",
+    "date": "c.1430 onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "el_cid",
+    "kind": "gift",
+    "myth": "God grants fortune and victories to the Cid",
+    "note": "Rodrigo prays to God, who is credited with his fortune and victories.",
+    "source": "Cantar de mio Cid",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "gift",
+    "myth": "Providential victories for Castile",
+    "note": "Fernán prays, and God grants providential success to his campaigns.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pelayo",
+    "kind": "rescued_by",
+    "myth": "Divine victory at Covadonga",
+    "note": "God reverses missiles, grants victory, collapses the mountain, and restores the Church.",
+    "source": "Crónica de Alfonso III",
+    "date": "late ninth/early tenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "roland_at_roncevaux",
+    "kind": "served",
+    "myth": "Roland’s death at Roncevaux",
+    "note": "Roland confesses, raises his glove, and offers himself to God.",
+    "source": "Oxford Chanson de Roland",
+    "date": "c. 1075–1100",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "roland_at_roncevaux",
+    "kind": "other",
+    "myth": "Divine vengeance after Roland’s death",
+    "note": "God receives Roland and halts the sun for Charlemagne’s vengeance.",
+    "source": "Oxford Chanson de Roland",
+    "date": "c. 1075–1100",
+    "tier": "canonical"
+   }
+  ],
+  "Gonzalo Gustioz": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "child_of",
+    "myth": "",
+    "note": "He is the father of all seven brothers.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Hercules": [
+   {
+    "stated_by": "don_rodrigo_and_la_cava",
+    "kind": "shared_myth",
+    "myth": "Tower or Cave of Hercules",
+    "note": "Later legend associates Rodrigo’s forbidden chamber with a structure named for Hercules.",
+    "source": "Medieval and early-modern Toledo tradition",
+    "date": "medieval–early modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "pelayo",
+    "kind": "rescued_by",
+    "myth": "Pelayo invokes Christ during his debate with Oppa",
+    "note": "Pelayo invokes Christ as advocate with the Father and source of rescue.",
+    "source": "Crónica de Alfonso III, Rotense",
+    "date": "late ninth/early tenth century",
+    "tier": "attested"
+   }
+  ],
+  "Michael “of the Peril”": [
+   {
+    "stated_by": "roland_at_roncevaux",
+    "kind": "rescued_by",
+    "myth": "Roland’s soul carried to paradise",
+    "note": "Michael carries Roland’s soul to paradise with Gabriel and a cherub.",
+    "source": "Oxford Chanson de Roland",
+    "date": "c. 1075–1100",
+    "tier": "canonical"
+   }
+  ],
+  "Mudarra González": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "He is their posthumous paternal half-brother and avenger.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Nuño Salido": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "taught_by",
+    "myth": "Upbringing of the seven brothers",
+    "note": "Their foster-father and tutor raises the seven brothers.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "allied",
+    "myth": "Betrayal and final battle",
+    "note": "He reads ominous birds, warns them, and dies fighting beside them.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Olaf the White": [
+   {
+    "stated_by": "jaun_zuria",
+    "kind": "identified_with",
+    "myth": "Viking reconstruction of the White Lord",
+    "note": "Jon Bilbao proposed Olaf as a historical analogue or identity for Zuria.",
+    "source": "Jon Bilbao, Jaun Zuría study",
+    "date": "1982",
+    "tier": "modern"
+   }
+  ],
+  "Pelayo of Arlanza": [
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "gift",
+    "myth": "Prophecy before Lara",
+    "note": "Pelayo receives Fernán at his hermitage and foretells his victory.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "taught_by",
+    "myth": "Dream before Hacinas",
+    "note": "The deceased Pelayo appears in Fernán's dream before the battle.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Ruy Velázquez": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "deceived_by",
+    "myth": "Betrayal and ambush",
+    "note": "Their maternal uncle betrays them and coordinates the ambush causing their deaths.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "fought",
+    "myth": "Wedding feud",
+    "note": "Ruy attacks Gonzalo González, who strikes him with a goshawk.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ],
+  "Saint Gabriel": [
+   {
+    "stated_by": "el_cid",
+    "kind": "gift",
+    "myth": "Gabriel promises the exiled Cid success in a dream",
+    "note": "Gabriel appears in a dream and promises Rodrigo success.",
+    "source": "Cantar de mio Cid",
+    "date": "c. 1200",
+    "tier": "canonical"
+   }
+  ],
+  "Saint James": [
+   {
+    "stated_by": "el_cid",
+    "kind": "allied",
+    "myth": "Santiago aids the dead Cid's final victory",
+    "note": "Saint James assists Rodrigo's posthumous mounted sortie against Búcar's forces.",
+    "source": "Estoria de España and Cardeña complex",
+    "date": "late 13th c. onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "allied",
+    "myth": "Heavenly intervention at Hacinas",
+    "note": "James appears mounted with the celestial host and aids Fernán's army.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Saint Lazarus": [
+   {
+    "stated_by": "el_cid",
+    "kind": "judged_by",
+    "myth": "The disguised Lazarus tests Rodrigo's hospitality",
+    "note": "Disguised as a leper, Lazarus tests Rodrigo when he shares food or lodging.",
+    "source": "late romance and dramatic tradition",
+    "date": "late medieval–early modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "el_cid",
+    "kind": "gift",
+    "myth": "Lazarus blesses Rodrigo after the hospitality test",
+    "note": "After revealing himself, Lazarus rewards Rodrigo's compassion with a blessing.",
+    "source": "late romance and dramatic tradition",
+    "date": "late medieval–early modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Saint Millán": [
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "taught_by",
+    "myth": "Instructions before Hacinas",
+    "note": "Millán announces heavenly aid and gives Fernán tactical instructions.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "allied",
+    "myth": "Heavenly intervention at Hacinas",
+    "note": "Millán joins the celestial host that secures Fernán's victory.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Saint Peter": [
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "served",
+    "myth": "Patronage and burial at Arlanza",
+    "note": "Fernán patronizes Peter's Arlanza sanctuary and chooses it as his burial place.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "el_cid",
+    "kind": "other",
+    "myth": "The Cid invokes Mary in prayer and warfare",
+    "note": "Rodrigo invokes Mary in prayers associated with his Christian victories.",
+    "source": "Cantar de mio Cid",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fernan_gonzalez",
+    "kind": "other",
+    "myth": "Christian devotional invocations",
+    "note": "Fernán invokes Mary within the poem's devotional framework, without a distinct apparition.",
+    "source": "Poema de Fernán González",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pelayo",
+    "kind": "rescued_by",
+    "myth": "Missiles rebound from Mary’s cave at Covadonga",
+    "note": "Pelayo shelters in Mary’s house, from which the attackers’ missiles rebound.",
+    "source": "Crónica de Alfonso III",
+    "date": "late ninth/early tenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pelayo",
+    "kind": "shared_myth",
+    "myth": "Virgin visibly appears to Pelayo at Covadonga",
+    "note": "Later paintings and devotional accounts depict a personal Marian apparition absent from the early chronicle.",
+    "source": "Covadonga paintings and devotional tradition",
+    "date": "seventeenth century onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "the Devil": [
+   {
+    "stated_by": "don_rodrigo_and_la_cava",
+    "kind": "deceived_by",
+    "myth": "The demon tempts the penitent Rodrigo",
+    "note": "A female demon assumes a form associated with Cava to tempt Rodrigo.",
+    "source": "Pedro de Corral, Crónica sarracina",
+    "date": "c.1430",
+    "tier": "late_accretion"
+   }
+  ],
+  "Álvar Sánchez": [
+   {
+    "stated_by": "seven_infantes_of_lara",
+    "kind": "killed",
+    "myth": "Wedding games",
+    "note": "Gonzalo González surpasses his rival in the games and kills him.",
+    "source": "Estoria de España",
+    "date": "1289",
+    "tier": "attested"
+   }
+  ]
+ }
+}

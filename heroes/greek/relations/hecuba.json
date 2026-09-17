@@ -1,0 +1,663 @@
+{
+ "subject": "hecuba",
+ "relations": [
+  {
+   "other": "Dymas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer identifies the Phrygian Dymas as Hecuba's father.",
+   "source": "Iliad 16.717–719",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cisseus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Euripides gives Cisseus as Hecuba's father.",
+   "source": "Euripides, Hecuba 3",
+   "date": "425–424 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sangarius",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus records the river-god Sangarius as Hecuba's father.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus records Metope as Hecuba's mother.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eunoë",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later scholia variously name Eunoë as Hecuba's mother.",
+   "source": "Later scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euagora",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later scholia variously name Euagora as Hecuba's mother.",
+   "source": "Later scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucippe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later scholia variously name Glaucippe as Hecuba's mother.",
+   "source": "Later scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Telecleia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later scholia variously name Telecleia as Hecuba's mother.",
+   "source": "Later scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Homer identifies Asius, son of Dymas, as Hecuba's brother.",
+   "source": "Iliad 16.717–719",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hecuba is Priam's principal wife and Trojan queen.",
+   "source": "Iliad 6, 22, 24",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priam's ransom journey",
+   "note": "She opposes his journey, then supplies wine for his libation.",
+   "source": "Iliad 24.193–301",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priam's death at Troy",
+   "note": "She draws the armed Priam toward sanctuary before Neoptolemus kills him.",
+   "source": "Virgil, Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hector is Hecuba's eldest and most prominent son.",
+   "source": "Iliad 6, 22, 24",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hector's final departure",
+   "note": "She offers wine and later implores Hector not to face Achilles.",
+   "source": "Iliad 6, 22",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hector's funeral",
+   "note": "Hecuba delivers the central maternal lament over Hector's returned body.",
+   "source": "Iliad 24.747–760",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Paris is Hecuba's son in the Trojan genealogy.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "shared_myth",
+   "myth": "Dream and exposure of Paris",
+   "note": "Her firebrand dream foretells Troy's destruction, prompting Paris's exposure.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Creusa among Hecuba's children.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Laodice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Laodice among Hecuba's children.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Polyxena is Hecuba's daughter.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sacrifice of Polyxena",
+   "note": "Hecuba pleads for Polyxena, embraces her, and receives the report of her sacrifice.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cassandra is Hecuba's daughter.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cassandra's allotment",
+   "note": "Hecuba receives Cassandra in prophetic ecstasy and grieves her allotment to Agamemnon.",
+   "source": "Euripides, Trojan Women 308–461",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Deiphobus among Hecuba's sons.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Helenus is Hecuba's son in epic and mythographic genealogy.",
+   "source": "Iliad 6; Apollodorus 3.12.5",
+   "date": "eighth c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Pammon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Pammon among Hecuba's sons.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polites",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Polites among Hecuba's sons.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antiphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Antiphus among Hecuba's sons.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hipponous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Hipponous among Hecuba's sons.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Polydorus is Hecuba's youngest son in Euripides.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Discovery of Polydorus",
+   "note": "Hecuba recognizes his murdered body and resolves to avenge him.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Troilus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus lists Troilus as Hecuba's son, fathered by Priam or Apollo.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iliona",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later catalogues add Iliona among Hecuba's children.",
+   "source": "Hyginus, Fabulae",
+   "date": "second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theano",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later genealogists make Hecuba and Theano sisters through Cisseus.",
+   "source": "Later scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theano",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Supplication of Athena",
+   "note": "Hecuba gives Theano a robe to place upon Athena's knees.",
+   "source": "Iliad 6.286–311",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lament for Hector",
+   "note": "Hecuba and her daughter-in-law mourn Hector and confront Astyanax's fate.",
+   "source": "Iliad 22, 24; Trojan Women",
+   "date": "eighth c.–415 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Astyanax",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Astyanax, Hector's son, is Hecuba's grandson.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astyanax",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Burial of Astyanax",
+   "note": "Hecuba receives and prepares his corpse for burial on Hector's shield.",
+   "source": "Euripides, Trojan Women 1123–1250",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death and ransom of Hector",
+   "note": "Hecuba mourns Hector's death and the mutilation inflicted by Achilles.",
+   "source": "Iliad 22, 24",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Sacrifice of Polyxena",
+   "note": "Achilles' ghost demands Polyxena's sacrifice, compounding Hecuba's losses.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fall of Troy",
+   "note": "Both belong to Virgil's Trojan royal community during Troy's final night.",
+   "source": "Virgil, Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aesacus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dream and exposure of Paris",
+   "note": "Aesacus interprets Hecuba's firebrand dream and recommends exposing Paris.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment of Polymestor",
+   "note": "Hecuba petitions Agamemnon, who rules against Polymestor and permits her retaliation.",
+   "source": "Euripides, Hecuba 726–1295",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Trial of Helen",
+   "note": "Hecuba accuses Helen of disguising personal desire as Aphrodite's compulsion.",
+   "source": "Euripides, Trojan Women 969–1032",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hecuba's escape to Lycia",
+   "note": "In Stesichorus's variant, Apollo carries Hecuba to Lycia.",
+   "source": "Stesichorus via Pausanias 10.27.2",
+   "date": "sixth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A minority genealogy makes Apollo father Hector by Hecuba.",
+   "source": "Stesichorus and later testimonia",
+   "date": "fragmentary",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A variant preserved by Apollodorus makes Apollo father Troilus by Hecuba.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first–second c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Supplication of Athena",
+   "note": "Hecuba selects Athena's robe and convenes the women, but Athena refuses their prayer.",
+   "source": "Iliad 6.286–311",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Supplication of Athena",
+   "note": "Diomedes' assault prompts Hecuba's unsuccessful ritual appeal to Athena.",
+   "source": "Iliad 6",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [
+    "Zerynthia"
+   ],
+   "kind": "served",
+   "myth": "Hecuba's canine afterlife",
+   "note": "Lycophron makes transformed Hecuba a terrifying canine attendant of Hecate.",
+   "source": "Lycophron, Alexandra 1174–1188",
+   "date": "early second c. BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [
+    "Zerynthia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later interpretation links Hecuba with Hecate through their names, dogs, and Thracian setting.",
+   "source": "Lycophron and later interpretation",
+   "date": "Hellenistic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Trial of Helen",
+   "note": "Hecuba prosecutes Helen rhetorically and urges Menelaus to execute her.",
+   "source": "Euripides, Trojan Women 860–1059",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Trial of Helen",
+   "note": "Hecuba argues before Menelaus that Helen should not be spared.",
+   "source": "Euripides, Trojan Women 860–1059",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sacrifice of Polyxena",
+   "note": "Neoptolemus sacrifices Hecuba's daughter Polyxena at Achilles' tomb.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Murder of Priam",
+   "note": "Neoptolemus kills Priam before Hecuba at the household altar.",
+   "source": "Virgil, Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Odysseus enters Troy disguised",
+   "note": "Hecuba recalls saving Odysseus when he entered Troy in disguise.",
+   "source": "Euripides, Hecuba 239–331",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Removal of Polyxena",
+   "note": "Odysseus refuses repayment and takes Polyxena from Hecuba to be sacrificed.",
+   "source": "Euripides, Hecuba 239–331",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Allotment of Trojan captives",
+   "note": "The Greeks allot the enslaved Hecuba to Odysseus.",
+   "source": "Euripides, Trojan Women 277–291",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polymestor",
+   "other_aliases": [
+    "Polymnestor"
+   ],
+   "kind": "deceived",
+   "myth": "Revenge for Polydorus",
+   "note": "Hecuba lures Polymestor into the women's tents with promises of hidden gold.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polymestor",
+   "other_aliases": [
+    "Polymnestor"
+   ],
+   "kind": "punished",
+   "myth": "Revenge for Polydorus",
+   "note": "Hecuba kills his sons and blinds him for murdering Polydorus.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polymestor",
+   "other_aliases": [
+    "Polymnestor"
+   ],
+   "kind": "punished_by",
+   "myth": "Prophecy of Cynossema",
+   "note": "The blinded Polymestor foretells Hecuba's canine transformation and death at Cynossema.",
+   "source": "Euripides, Hecuba 1259–1273",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Report of Polyxena's death",
+   "note": "Talthybius reports Polyxena's sacrifice to Hecuba.",
+   "source": "Euripides, Hecuba",
+   "date": "425–424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Return of Astyanax's body",
+   "note": "Talthybius brings Hecuba Astyanax's body and reports his sentence.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Priam's libation",
+   "note": "Hecuba prepares wine for Priam's prayer and libation to Zeus.",
+   "source": "Iliad 24.283–301",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  }
+ ]
+}

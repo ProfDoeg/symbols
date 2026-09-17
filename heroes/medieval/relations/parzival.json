@@ -1,0 +1,729 @@
+{
+ "subject": "parzival",
+ "relations": [
+  {
+   "other": "God",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "other",
+   "myth": "Five-year religious lapse and confession",
+   "note": "Perceval forgets God, later confesses, receives penance, and learns the grail carries a consecrated host.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Perceval enters Arthurian knighthood",
+   "note": "Perceval seeks knighthood at Arthur's court and later returns as an acclaimed knight.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Guinevere",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arthur's insulted court",
+   "note": "Guinevere witnesses the court crisis that Perceval's later prowess helps vindicate.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Kay",
+   "other_aliases": [
+    "Keu"
+   ],
+   "kind": "fought",
+   "myth": "Perceval punishes Kay",
+   "note": "Perceval unhorses and injures Kay after Kay abuses those predicting the youth's worth.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Red Knight",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Winning the red armor",
+   "note": "Perceval kills the Red Knight with a javelin and takes his armor.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Red Knight",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Winning the red armor",
+   "note": "Perceval strips the slain knight's equipment and assumes his red-armored identity.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Ither",
+   "other_aliases": [
+    "Red Knight"
+   ],
+   "kind": "killed",
+   "myth": "Parzival wins Ither's armor",
+   "note": "Parzival kills his unrecognized kinsman Ither with a javelin.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ither",
+   "other_aliases": [
+    "Red Knight"
+   ],
+   "kind": "theft",
+   "myth": "Parzival wins Ither's armor",
+   "note": "Parzival despoils the slain Ither and wears his armor.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yonet",
+   "other_aliases": [
+    "Ywanet"
+   ],
+   "kind": "served_by",
+   "myth": "Removing the Red Knight's armor",
+   "note": "Yonet helps the inexperienced Perceval remove and don the dead Red Knight's armor.",
+   "source": "Chrétien; Wolfram adaptation",
+   "date": "c. 1180s–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Gornemant",
+   "other_aliases": [
+    "Gurnemanz"
+   ],
+   "kind": "taught_by",
+   "myth": "Chivalric training",
+   "note": "Gornemant trains Perceval in arms and counsels restrained speech.",
+   "source": "Chrétien; Wolfram",
+   "date": "c. 1180s–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Blancheflor",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Relief of Beaurepaire",
+   "note": "Perceval saves Blancheflor and her starving people from Anguinguerron and Clamadeu.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Blancheflor",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Blancheflor's bed",
+   "note": "Perceval becomes Blancheflor's lover, although Chrétien does not state that they marry.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Condwiramurs",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue of Condwiramurs",
+   "note": "Parzival saves Condwiramurs and her realm before marrying her.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Condwiramurs",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Condwiramurs is Parzival's wife and the mother of his twin sons.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anguinguerron",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Relief of Beaurepaire",
+   "note": "Perceval defeats Anguinguerron and sends him to Arthur's court.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Clamadeu",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Relief of Beaurepaire",
+   "note": "Perceval defeats Clamadeu, the besieger of Blancheflor's city.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Fisher King",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The unanswered Grail questions",
+   "note": "The Fisher King hosts Perceval but remains wounded because Perceval asks no healing question.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Fisher King",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Completion of the Grail quest",
+   "note": "Perceval completes the sword and questions, heals the Fisher King, and succeeds him.",
+   "source": "Manessier Continuation",
+   "date": "c. 1225–1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anfortas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "The compassionate question",
+   "note": "Parzival asks what troubles Anfortas, healing the wounded Grail king.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anfortas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Anfortas is Parzival's maternal uncle.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Grail King's father",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The life-sustaining host",
+   "note": "Perceval learns that the grail sustains the aged king with one consecrated wafer.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Perceval's cousin",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "The maiden is Perceval's cousin.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Perceval's cousin",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Revelation after the Grail castle",
+   "note": "She names Perceval, reports his mother's death, and explains the consequences of his silence.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigune",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Sigune is Wolfram's version of Parzival's cousin.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sigune",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sigune recognizes Parzival",
+   "note": "Sigune recognizes her cousin Parzival while mourning Schionatulander.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ugly Damsel",
+   "other_aliases": [
+    "Cundrie"
+   ],
+   "kind": "punished_by",
+   "myth": "Public curse at Arthur's court",
+   "note": "The Ugly Damsel publicly curses Perceval for failing to ask the Grail questions.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Cundrie",
+   "other_aliases": [
+    "Ugly Damsel"
+   ],
+   "kind": "punished_by",
+   "myth": "Cundrie curses Parzival",
+   "note": "Cundrie publicly condemns Parzival for failing to show compassion toward Anfortas.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cundrie",
+   "other_aliases": [
+    "Ugly Damsel"
+   ],
+   "kind": "other",
+   "myth": "Election to the Grail",
+   "note": "Cundrie later announces Parzival's election and summons him back to the Grail.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermit uncle",
+   "other_aliases": [
+    "Trevrizent"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "The hermit who receives Perceval's confession is his maternal uncle.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermit uncle",
+   "other_aliases": [
+    "Trevrizent"
+   ],
+   "kind": "taught_by",
+   "myth": "Good Friday confession",
+   "note": "The hermit hears Perceval's confession, imposes penance, and explains the Grail household.",
+   "source": "Chrétien, Conte du Graal",
+   "date": "c. 1180s",
+   "tier": "attested"
+  },
+  {
+   "other": "Trevrizent",
+   "other_aliases": [
+    "Hermit uncle"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Trevrizent is Parzival's maternal uncle.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Trevrizent",
+   "other_aliases": [
+    "Hermit uncle"
+   ],
+   "kind": "taught_by",
+   "myth": "Good Friday reconciliation",
+   "note": "Trevrizent hears Parzival's confession and teaches him Grail genealogy and spiritual responsibility.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gawain",
+   "other_aliases": [
+    "Gawan"
+   ],
+   "kind": "shared_myth",
+   "myth": "Parallel Grail adventures",
+   "note": "Gawain and Perceval pursue parallel Arthurian adventures and sometimes function as rival questers.",
+   "source": "Chrétien and continuations",
+   "date": "c. 1180s–1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gawan",
+   "other_aliases": [
+    "Gawain"
+   ],
+   "kind": "fought",
+   "myth": "Interrupted combat with Gawan",
+   "note": "Parzival and Gawan fight until recognition of their fellowship interrupts the combat.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gahmuret",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Parzival is Gahmuret's posthumous son.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Herzeloyde",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Parzival is Herzeloyde's son.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Herzeloyde",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Childhood at Soltane",
+   "note": "Herzeloyde conceals knighthood and courtly society from her son while raising him in isolation.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Belacane",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Belacane is Gahmuret's first wife and the mother of Parzival's half-brother Feirefiz.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Feirefiz",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Feirefiz is Parzival's paternal half-brother.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Feirefiz",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat of the unknown brothers",
+   "note": "Parzival and Feirefiz fight before recognizing their kinship.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Feirefiz",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Brothers proceed to the Grail",
+   "note": "After recognizing each other, the half-brothers proceed together and Feirefiz later converts.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Repanse de Schoye",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Grail procession",
+   "note": "Parzival sees Repanse de Schoye carrying the Grail at Munsalvaesche.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kardeiz",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kardeiz is the son of Parzival and Condwiramurs and receives their secular kingdoms.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Loherangrin",
+   "other_aliases": [
+    "Lohengrin"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Loherangrin is Parzival's son, Grail successor, and later the Swan Knight.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moriaen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Middle Dutch romance presents Moriaen as Perceval's son.",
+   "source": "Moriaen",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moriaen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Moriaen searches for his father",
+   "note": "Moriaen undertakes a search for his absent father Perceval.",
+   "source": "Moriaen",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Galahad",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage to Sarras",
+   "note": "Perceval accompanies Galahad as one of the successful Grail companions.",
+   "source": "Vulgate Queste",
+   "date": "c. 1220–1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Galahad",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Galahad's death at Sarras",
+   "note": "Perceval witnesses and mourns Galahad's death after the Grail mysteries.",
+   "source": "Vulgate Queste; Malory",
+   "date": "13th century–1485",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bors",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The three Grail companions",
+   "note": "Bors accompanies Perceval and Galahad on the successful Grail journey.",
+   "source": "Vulgate Queste",
+   "date": "c. 1220–1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bors",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Perceval's burial at Sarras",
+   "note": "The surviving Bors buries Perceval after his death as a hermit.",
+   "source": "Vulgate Queste; Malory",
+   "date": "13th century–1485",
+   "tier": "canonical"
+  },
+  {
+   "other": "Percivale's sister",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The unnamed Grail maiden is Percivale's sister.",
+   "source": "Vulgate Queste; Malory",
+   "date": "13th century–1485",
+   "tier": "canonical"
+  },
+  {
+   "other": "Percivale's sister",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Grail company",
+   "note": "Percivale's sister joins his company and sacrifices her blood to heal another woman.",
+   "source": "Vulgate Queste; Malory",
+   "date": "13th century–1485",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lancelot",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Vulgate Grail quest",
+   "note": "Perceval and Lancelot participate in the Grail quest, though Lancelot cannot attain the same vision.",
+   "source": "Vulgate cycle",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pellinore",
+   "other_aliases": [
+    "King Pellinore"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The prose-cycle and Malorian genealogy make Percivale a son of King Pellinore.",
+   "source": "Vulgate tradition; Malory",
+   "date": "13th century–1485",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Merlin",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prophecy of the Grail achiever",
+   "note": "Merlin's prophetic sequence connects Perceval's destiny to the Christianized Grail history.",
+   "source": "Didot-Perceval",
+   "date": "early thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Joseph of Arimathea",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "In one Christianized genealogy, Joseph belongs to the sacred lineage culminating in Perceval.",
+   "source": "Robert and Didot tradition",
+   "date": "c. 1190–13th century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Joseph of Arimathea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Christian Grail dispensation",
+   "note": "Joseph initiates the Christian Grail history into which Perceval later enters.",
+   "source": "Robert and Didot tradition",
+   "date": "c. 1190–13th century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Longinus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Christianization of the bleeding lance",
+   "note": "The Grail lance encountered by Perceval becomes associated with Longinus's Passion weapon.",
+   "source": "Thirteenth-century Grail cycles",
+   "date": "thirteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Empress of Constantinople",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Peredur's Constantinopolitan rule",
+   "note": "Peredur wins the Empress and remains to rule with her.",
+   "source": "Peredur, Peniarth 7",
+   "date": "c. 1300–1400",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Angharad Golden-Hand",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Peredur's silence for Angharad",
+   "note": "Angharad first rejects Peredur and later loves him after his self-imposed silence.",
+   "source": "Peredur fab Efrawg",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Witches of Gloucester",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance for the severed head",
+   "note": "Peredur destroys the witches to avenge his cousin's severed head.",
+   "source": "Long Peredur",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Klingsor",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Klingsor's enchanted garden",
+   "note": "Parsifal overcomes Klingsor and the enchanted agents sent to destroy him.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Kundry",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Kundry's temptation",
+   "note": "Kundry attempts to seduce Parsifal in Klingsor's enchanted garden.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Kundry",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Kundry's release",
+   "note": "Parsifal's redemptive action releases Kundry from her cycle of wandering and servitude.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Kundry",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Guidance, mockery, and temptation",
+   "note": "Kundry alternately mocks, guides, and confronts Parsifal across Wagner's drama.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Gurnemanz",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Instruction in the Grail community",
+   "note": "Gurnemanz explains the Grail order and its suffering to Parsifal.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Gurnemanz",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Recognition of the pure fool",
+   "note": "Gurnemanz recognizes Parsifal's spiritual transformation and fitness to restore the Grail community.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Amfortas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Healing with the recovered spear",
+   "note": "Parsifal heals Amfortas's wound by touching it with the recovered sacred spear.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  },
+  {
+   "other": "Titurel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of the Grail community",
+   "note": "Parsifal enters and ultimately restores the Grail community founded by the aged patriarch Titurel.",
+   "source": "Wagner, Parsifal",
+   "date": "1882",
+   "tier": "modern"
+  }
+ ]
+}

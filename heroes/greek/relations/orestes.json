@@ -1,0 +1,600 @@
+{
+ "subject": "orestes",
+ "relations": [
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orestes is Agamemnon’s son and heir.",
+   "source": "Iliad 9",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vengeance for Agamemnon",
+   "note": "Orestes avenges Agamemnon’s murder and invokes him at his tomb.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orestes is Clytemnestra’s son.",
+   "source": "Homeric household tradition",
+   "date": "8th–7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Matricide",
+   "note": "Orestes kills his mother despite her appeal to the nursing breast.",
+   "source": "Pindar, Pythian 11",
+   "date": "474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Revenge for Agamemnon",
+   "note": "Orestes returns and kills Agamemnon’s murderer and usurper.",
+   "source": "Odyssey 1 and 3",
+   "date": "8th/7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [
+    "Laodice"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Electra is Orestes’ sister; later tradition equates her with Laodice.",
+   "source": "Iliad 9; Greek tragedy",
+   "date": "8th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [
+    "Laodice"
+   ],
+   "kind": "allied",
+   "myth": "Return and matricidal conspiracy",
+   "note": "The siblings recognize one another and conspire against Aegisthus and Clytemnestra.",
+   "source": "Three Electra plays",
+   "date": "458–c. 410 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chrysothemis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Chrysothemis is Orestes’ sister.",
+   "source": "Iliad 9",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [
+    "Iphianassa"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iphigenia is Orestes’ sister; her equation with Iphianassa varies.",
+   "source": "Iliad 9; later tradition",
+   "date": "8th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [
+    "Iphianassa"
+   ],
+   "kind": "rescued_by",
+   "myth": "Escape from Tauris",
+   "note": "Iphigenia recognizes Orestes and engineers their escape from sacrifice.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pylades is Orestes’ foster-brother and exemplary lifelong companion.",
+   "source": "Aeschylus and Euripides",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Murder of Clytemnestra",
+   "note": "Pylades reminds the wavering Orestes of Apollo’s command.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Taurian image theft",
+   "note": "Pylades accompanies Orestes to Tauris and helps him escape.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attack on Helen",
+   "note": "Pylades helps Orestes attack Helen and seize Hermione.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Strophius",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Childhood exile in Phocis",
+   "note": "The Phocian king shelters and raises the exiled Orestes.",
+   "source": "Pindar, Pythian 11",
+   "date": "474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arsinoe",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue of infant Orestes",
+   "note": "The nurse Arsinoe saves Orestes from Clytemnestra.",
+   "source": "Pindar, Pythian 11",
+   "date": "474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laodameia",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue of infant Orestes",
+   "note": "Laodameia is an alternative rescuing nurse in Stesichorean tradition.",
+   "source": "Stesichorean scholia",
+   "date": "6th c. BCE material",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cilissa",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Orestes’ false death",
+   "note": "His former nurse mourns the false death report and summons Aegisthus.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Command to avenge Agamemnon",
+   "note": "Orestes obeys Apollo’s command to kill his father’s murderers.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification and Areopagus trial",
+   "note": "Apollo purifies Orestes, directs his flight, and defends him at trial.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Taurian image mission",
+   "note": "Apollo sends Orestes to Tauris to retrieve Artemis’ image.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Argive hostage crisis",
+   "note": "Apollo ends the crisis and assigns Orestes’ trial and marriage.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Warning of Orestes’ vengeance",
+   "note": "Hermes warns Aegisthus that Orestes will avenge Agamemnon.",
+   "source": "Odyssey 1",
+   "date": "8th/7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Invocation at Agamemnon’s grave",
+   "note": "Orestes invokes chthonic Hermes while preparing his revenge.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vengeance against Aegisthus",
+   "note": "Orestes invokes Zeus in pursuing vengeance for Agamemnon.",
+   "source": "Aeschylus, Choephoroi",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Areopagus trial",
+   "note": "Athena establishes the court, votes for Orestes, and secures his acquittal.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from Tauris",
+   "note": "Athena stops pursuit and directs Orestes to install Artemis’ image.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides",
+    "Furies"
+   ],
+   "kind": "punished_by",
+   "myth": "Pursuit after the matricide",
+   "note": "The Erinyes pursue Orestes for shedding his mother’s blood.",
+   "source": "Aeschylus, Oresteia",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides",
+    "Furies"
+   ],
+   "kind": "judged_by",
+   "myth": "Areopagus trial",
+   "note": "The Erinyes prosecute Orestes before Athena’s homicide court.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eumenides",
+   "other_aliases": [
+    "Erinyes",
+    "Furies"
+   ],
+   "kind": "punished_by",
+   "myth": "Madness at Maniae",
+   "note": "Their black forms afflict Orestes until his finger sacrifice brings recovery.",
+   "source": "Pausanias 8.34",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ghost of Clytemnestra",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Renewed pursuit by the Erinyes",
+   "note": "Clytemnestra’s ghost rouses the Erinyes to continue pursuing Orestes.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of the Taurian image",
+   "note": "Orestes removes Artemis’ cult image from Tauris on Apollo’s orders.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Escape from Tauris",
+   "note": "Orestes participates in Iphigenia’s deception of the pursuing Taurian king.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hermione is Orestes’ disputed first and ultimately assigned wife.",
+   "source": "Euripides, Andromache and Orestes",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermione",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Argive hostage crisis",
+   "note": "Orestes seizes Hermione as a hostage during his attack on Helen.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "contest",
+   "myth": "Rivalry for Hermione",
+   "note": "Orestes and Neoptolemus are rivals for possession of Hermione.",
+   "source": "Euripides, Andromache",
+   "date": "c. 425–417 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "killed",
+   "myth": "Attack at Delphi",
+   "note": "Hyginus makes Orestes directly responsible for Neoptolemus’ death.",
+   "source": "Hyginus, Fabulae",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "other",
+   "myth": "Attack at Delphi",
+   "note": "Orestes organizes opposition during which a Delphian kills Neoptolemus.",
+   "source": "Euripides, Andromache",
+   "date": "c. 425–417 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Argive condemnation",
+   "note": "Orestes seeks aid from his maternal uncle, but Menelaus refuses effective help.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attempted murder of Helen",
+   "note": "Orestes and Pylades attack Helen, but the gods save and deify her.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes is Tyndareus’ maternal grandson through Clytemnestra.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Argive condemnation",
+   "note": "Tyndareus denounces the matricide and presses politically for Orestes’ punishment.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor and Polydeuces",
+   "other_aliases": [
+    "Dioscuri"
+   ],
+   "kind": "judged_by",
+   "myth": "Aftermath of the matricide",
+   "note": "The Dioscuri condemn Apollo’s command and prescribe settlements for Orestes.",
+   "source": "Euripides, Electra",
+   "date": "c. 420–413 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erigone",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Erigone is Orestes’ half-sister through Clytemnestra.",
+   "source": "Later genealogical tradition",
+   "date": "Hellenistic or Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erigone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Erigone becomes Orestes’ consort and bears Penthilus.",
+   "source": "Cinaethon in Pausanias 2.18.6",
+   "date": "archaic attribution; 2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aletes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Recovery of Mycenae",
+   "note": "Orestes kills Aegisthus’ son Aletes while recovering Mycenae.",
+   "source": "Hyginus, Fabulae",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tisamenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tisamenus is Orestes’ son and successor by Hermione.",
+   "source": "Pausanias 2.18.6; Apollodorus",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Penthilus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Penthilus is Orestes’ illegitimate son by Erigone.",
+   "source": "Cinaethon in Pausanias",
+   "date": "archaic attribution; 2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Infant hostage at the altar",
+   "note": "Telephus seizes infant Orestes to compel healing and guidance to Troy.",
+   "source": "Euripides, Telephus",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perilaus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Arcadian pre-Areopagus proceeding",
+   "note": "Perilaus acts as Orestes’ accuser in a localized Arcadian proceeding.",
+   "source": "Pausanias 8.34.4",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Graces",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Arcadian cure at Maniae",
+   "note": "Orestes sacrifices to the Graces alongside the cured-form Eumenides.",
+   "source": "Pausanias 8.34.3",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus Kappotas",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Cure near Gythium",
+   "note": "Orestes’ madness ends when he sits upon the god’s sacred stone.",
+   "source": "Pausanias 3.22.1",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes is Atreus’ grandson through Agamemnon.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Aerope",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes is Aerope’s grandson through Agamemnon.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes belongs to the Pelopid line through Atreus and Agamemnon.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Hippodameia",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes descends from Hippodameia through Atreus and Agamemnon.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Orestes is Leda’s great-grandson through Clytemnestra.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic and later",
+   "tier": "attested"
+  }
+ ]
+}

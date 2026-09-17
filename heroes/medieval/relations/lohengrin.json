@@ -1,0 +1,186 @@
+{
+ "subject": "lohengrin",
+ "relations": [
+  {
+   "other": "Parzival",
+   "other_aliases": [
+    "Parsifal"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Parzival is Lohengrin’s father and, in Wagner, the Grail king.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Condwiramurs",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Condwiramurs is the mother of the twins Lohengrin and Kardeiz.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Kardeiz",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kardeiz is Lohengrin’s twin and inherits their father’s secular territories.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Feirefiz",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Feirefiz is Lohengrin’s paternal uncle; no direct meeting is narrated.",
+   "source": "Wolfram, Parzival",
+   "date": "c. 1200–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Prester John",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Prester John is Lohengrin’s cousin in the extended Wolframian genealogy.",
+   "source": "Wolfram, Parzival conclusion",
+   "date": "c. 1200–1210",
+   "tier": "attested"
+  },
+  {
+   "other": "Titurel",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Titurel belongs to Lohengrin’s ancestral Grail dynasty.",
+   "source": "Wolframian tradition; Jüngerer Titurel",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anfortas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Anfortas belongs to Lohengrin’s Grail family-world, though their exact relationship varies.",
+   "source": "Wolfram and continuations",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "served",
+   "myth": "Divinely authorized defense of Brabant",
+   "note": "Lohengrin serves as God’s Christian champion, with victory represented as divine judgment.",
+   "source": "Anonymous Lohengrin",
+   "date": "c. 1283–1289",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elsa of Brabant",
+   "other_aliases": [
+    "Elsa"
+   ],
+   "kind": "rescued",
+   "myth": "Defense of Elsa in judicial combat",
+   "note": "Lohengrin defends Elsa against Telramund and secures her claim to Brabant.",
+   "source": "Anonymous Lohengrin",
+   "date": "c. 1283–1289",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elsa of Brabant",
+   "other_aliases": [
+    "Elsa"
+   ],
+   "kind": "consort_of",
+   "myth": "Marriage under the forbidden-question condition",
+   "note": "Lohengrin marries Elsa on condition that she never ask his identity.",
+   "source": "Anonymous Lohengrin",
+   "date": "c. 1283–1289",
+   "tier": "canonical"
+  },
+  {
+   "other": "Friedrich von Telramund",
+   "other_aliases": [
+    "Telramund"
+   ],
+   "kind": "fought",
+   "myth": "Judicial combat for Elsa’s innocence",
+   "note": "Lohengrin defeats Telramund in judicial combat but spares him.",
+   "source": "Anonymous Lohengrin; Wagner",
+   "date": "1283–1289; 1850",
+   "tier": "canonical"
+  },
+  {
+   "other": "Friedrich von Telramund",
+   "other_aliases": [
+    "Telramund"
+   ],
+   "kind": "killed",
+   "myth": "Attack in the bridal chamber",
+   "note": "Lohengrin kills Telramund when he and his conspirators attack the bridal chamber.",
+   "source": "Wagner, Lohengrin Act III",
+   "date": "1850",
+   "tier": "modern"
+  },
+  {
+   "other": "Gottfried of Brabant",
+   "other_aliases": [
+    "Gottfried"
+   ],
+   "kind": "rescued",
+   "myth": "Release of the enchanted swan",
+   "note": "Lohengrin’s prayer releases Gottfried from Ortrud’s swan enchantment.",
+   "source": "Wagner, Lohengrin Act III",
+   "date": "1850",
+   "tier": "modern"
+  },
+  {
+   "other": "Gottfried of Brabant",
+   "other_aliases": [
+    "Gottfried"
+   ],
+   "kind": "gift",
+   "myth": "Lohengrin’s farewell gifts",
+   "note": "Lohengrin leaves his sword, horn, and ring for Gottfried.",
+   "source": "Wagner, Lohengrin Act III",
+   "date": "1850",
+   "tier": "modern"
+  },
+  {
+   "other": "Ortrud",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Ortrud engineers the forbidden question",
+   "note": "Ortrud manipulates Elsa into questioning Lohengrin and thereby causes his departure.",
+   "source": "Wagner, Lohengrin Acts II–III",
+   "date": "1850",
+   "tier": "modern"
+  },
+  {
+   "other": "Helias",
+   "other_aliases": [
+    "Hélias",
+    "Elyas",
+    "Elias",
+    "Enyas"
+   ],
+   "kind": "identified_with",
+   "myth": "Fusion of Swan-Knight and Grail traditions",
+   "note": "Lohengrin is a literary transformation of Helias, though medieval texts keep them distinct.",
+   "source": "Comparative literary evidence",
+   "date": "modern scholarship",
+   "tier": "syncretism"
+  }
+ ]
+}

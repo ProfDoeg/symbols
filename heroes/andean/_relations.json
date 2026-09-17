@@ -1,0 +1,461 @@
+{
+ "folder": "andean",
+ "gods": [
+  "cari_and_zapana",
+  "chuquillanto_and_acoytapia",
+  "inkarri",
+  "naymlap",
+  "ollantay",
+  "tacaynamo"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "chuquillanto_and_acoytapia",
+   "god": "andean/inti",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chuquillanto is called the elder daughter of the Sun, though her filiation is unexplained.",
+   "source": "Murúa, Galvin manuscript; Historia general",
+   "date": "1590s; 1613",
+   "tier": "attested"
+  },
+  {
+   "a": "chuquillanto_and_acoytapia",
+   "god": "andean/inti",
+   "kind": "served",
+   "myth": "",
+   "note": "Chuquillanto belongs to the Sun’s dedicated household as a ñusta and consecrated woman.",
+   "source": "Murúa, Galvin manuscript; Historia general",
+   "date": "1590s; 1613",
+   "tier": "attested"
+  },
+  {
+   "a": "chuquillanto_and_acoytapia",
+   "god": "andean/inti",
+   "kind": "served",
+   "myth": "",
+   "note": "Acoytapia tends the Sun’s white livestock destined for sacrifice on Sawasiray.",
+   "source": "Murúa, Galvin manuscript; Historia general",
+   "date": "1590s; 1613",
+   "tier": "attested"
+  },
+  {
+   "a": "inkarri",
+   "god": "andean/inti",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Puquio traditions describe Inkarrí as the son of the Sun.",
+   "source": "Puquio accounts",
+   "date": "collected 1956",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "inkarri",
+   "god": "andean/inti",
+   "kind": "other",
+   "myth": "Binding the Sun on Mount Osqonta",
+   "note": "Inkarrí binds the Sun on Mount Osqonta while completing creation.",
+   "source": "Puquio accounts",
+   "date": "collected 1956",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "inkarri",
+   "god": "andean/inti",
+   "kind": "shared_myth",
+   "myth": "Fuerabamba judgment",
+   "note": "Inkarrí rejoices when the Sun weakens before his destructive return.",
+   "source": "Fuerabamba account",
+   "date": "published before 1988",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "inkarri",
+   "god": "gnostic/christ_aeon",
+   "kind": "shared_myth",
+   "myth": "The future third age",
+   "note": "The Holy Spirit’s future age coincides with Inkarrí’s return and restored land.",
+   "source": "Urcos tradition",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "a": "ollantay",
+   "god": "andean/illapa",
+   "kind": "child_of",
+   "myth": "Modern divine-parentage reinvention",
+   "note": "A 2016 Bolivian novel reinvents Ollantay as Illapa’s son.",
+   "source": "2016 Bolivian novel",
+   "date": "2016",
+   "tier": "modern"
+  }
+ ],
+ "unresolved": {
+  "Ceterni": [
+   {
+    "stated_by": "naymlap",
+    "kind": "consort_of",
+    "myth": "Maritime migration to Lambayeque",
+    "note": "Naymlap's principal wife accompanies his maritime migration and settlement.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "Chimo Capac": [
+   {
+    "stated_by": "naymlap",
+    "kind": "other",
+    "myth": "Chimú conquest after Naymlap's dynasty",
+    "note": "Chimo Capac conquers the territory after Naymlap's dynasty ends; no personal encounter occurs.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "Cium": [
+   {
+    "stated_by": "naymlap",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Naymlap's eldest son succeeds him and similarly conceals his death.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "Coropuna": [
+   {
+    "stated_by": "inkarri",
+    "kind": "fought",
+    "myth": "Conflict over irrigation water",
+    "note": "Coropuna blocks Inkarrí’s channel and burns the land after he denies paternity.",
+    "source": "Chachas account",
+    "date": "recorded 1976",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "other",
+    "myth": "Coropuna’s disputed pregnancy",
+    "note": "Coropuna claims Inkarrí fathered her child, but he denies paternity.",
+    "source": "Chachas account",
+    "date": "recorded 1976",
+    "tier": "regional_variant"
+   }
+  ],
+  "Españarrí": [
+   {
+    "stated_by": "inkarri",
+    "kind": "fought",
+    "myth": "Defeat of Inkarrí",
+    "note": "Españarrí defeats and captures Inkarrí as Spanish power supplants his sovereignty.",
+    "source": "Puquio and comparative versions",
+    "date": "1956 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "deceived_by",
+    "myth": "Españarrí’s deception",
+    "note": "Some versions say Españarrí overcomes Inkarrí through deception.",
+    "source": "Comparative Inkarrí corpus",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "punished_by",
+    "myth": "Capture and beheading",
+    "note": "Españarrí imprisons, tortures, and beheads Inkarrí, whose severed body regenerates.",
+    "source": "Puquio and comparative versions",
+    "date": "1956 and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Fempellec": [
+   {
+    "stated_by": "naymlap",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Fempellec is Naymlap's final dynastic descendant, though they never meet personally.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "God the Father": [
+   {
+    "stated_by": "inkarri",
+    "kind": "shared_myth",
+    "myth": "The three historical ages",
+    "note": "Inkarrí’s future return follows the first epoch associated with God the Father.",
+    "source": "Urcos tradition",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Guacricaur": [
+   {
+    "stated_by": "tacaynamo",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tacaynamo fathers Guacricaur, who succeeds him and expands his authority.",
+    "source": "Anonymous History of Trujillo",
+    "date": "1604",
+    "tier": "attested"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "inkarri",
+    "kind": "shared_myth",
+    "myth": "The three historical ages",
+    "note": "The Son’s age of Spanish domination precedes Inkarrí’s future return.",
+    "source": "Urcos tradition",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "served",
+    "myth": "San Pablo Epiphany race",
+    "note": "Inkarrí rides with the other ritual kings to adore the Christ Child.",
+    "source": "San Pablo testimony",
+    "date": "recorded 1973",
+    "tier": "syncretism"
+   }
+  ],
+  "Llapchillulli": [
+   {
+    "stated_by": "naymlap",
+    "kind": "served_by",
+    "myth": "Naymlap's court and Jayanca settlement",
+    "note": "Llapchillulli serves as featherworker and principal, then establishes Jayanca with followers.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "Minchançaman": [
+   {
+    "stated_by": "tacaynamo",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Minchançaman is Tacaynamo's later dynastic descendant after seven intervening caciques.",
+    "source": "Anonymous History of Trujillo",
+    "date": "1604",
+    "tier": "attested"
+   }
+  ],
+  "Mistirey": [
+   {
+    "stated_by": "inkarri",
+    "kind": "contest",
+    "myth": "San Pablo Three Kings race",
+    "note": "Mistirey races against Inkarrí and Collarrí, with agricultural consequences.",
+    "source": "San Pablo testimony",
+    "date": "recorded 1973",
+    "tier": "syncretism"
+   }
+  ],
+  "Pitusiray": [
+   {
+    "stated_by": "chuquillanto_and_acoytapia",
+    "kind": "shared_myth",
+    "myth": "Flight and petrification above Calca",
+    "note": "The lovers’ flight and transformation are localized at the paired Sawasiray–Pitusiray mountain landscape.",
+    "source": "Murúa, Galvin manuscript; Historia general",
+    "date": "1590s; 1613",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "chuquillanto_and_acoytapia",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship commonly identifies Chuquillanto with Pitusiray, though Murúa never states the equation explicitly.",
+    "source": "Modern landscape scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Qollarrí": [
+   {
+    "stated_by": "inkarri",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "In one Q’ero version, female Qollarrí is Inkarrí’s partner and co-parent.",
+    "source": "Q’ero account",
+    "date": "collected 1955",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "contest",
+    "myth": "Food-eating competition",
+    "note": "They compete by eating each other’s regional foods, with Inkarrí prevailing.",
+    "source": "Müller Q’ero narrations",
+    "date": "collected 1979–1980",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "gift",
+    "myth": "Exchange of regional foods",
+    "note": "Inkarrí and Qollarrí exchange products representing their respective territories.",
+    "source": "Müller Q’ero narrations",
+    "date": "collected 1979–1980",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "contest",
+    "myth": "Golden-bar territorial competition",
+    "note": "Each throws a golden bar toward his territory, defining Cusco and Qolla spheres.",
+    "source": "Müller Q’ero narrations",
+    "date": "collected 1979–1980",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inkarri",
+    "kind": "contest",
+    "myth": "San Pablo Three Kings race",
+    "note": "Inkarrí races Collarrí to the Christ Child; their order predicts regional prosperity.",
+    "source": "San Pablo testimony",
+    "date": "recorded 1973",
+    "tier": "syncretism"
+   }
+  ],
+  "Roal": [
+   {
+    "stated_by": "inkarri",
+    "kind": "created_by",
+    "myth": "Creation of Inkarrí and Qollarrí",
+    "note": "Roal creates Inkarrí and Qollarrí after destroying the former humanity.",
+    "source": "Q’ero account",
+    "date": "collected 1955",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sawasiray": [
+   {
+    "stated_by": "chuquillanto_and_acoytapia",
+    "kind": "shared_myth",
+    "myth": "Flight and petrification above Calca",
+    "note": "The lovers’ flight and transformation are localized at the paired Sawasiray–Pitusiray mountain landscape.",
+    "source": "Murúa, Galvin manuscript; Historia general",
+    "date": "1590s; 1613",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "chuquillanto_and_acoytapia",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship commonly identifies Acoytapia with Sawasiray, though Murúa never states the equation explicitly.",
+    "source": "Modern landscape scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Sium": [
+   {
+    "stated_by": "naymlap",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Sium is Ñamla's son and successor in Rubiños's regional version.",
+    "source": "Rubiños y Andrade, Sucesión cronológica",
+    "date": "1782",
+    "tier": "regional_variant"
+   }
+  ],
+  "Soternic": [
+   {
+    "stated_by": "naymlap",
+    "kind": "consort_of",
+    "myth": "Ñamla's arrival in Lambayeque",
+    "note": "Soternic is Ñamla's wife, whose name is given to a coastal huaca.",
+    "source": "Rubiños y Andrade, Sucesión cronológica",
+    "date": "1782",
+    "tier": "regional_variant"
+   }
+  ],
+  "Taytacha": [
+   {
+    "stated_by": "inkarri",
+    "kind": "shared_myth",
+    "myth": "Fuerabamba judgment",
+    "note": "Taytacha destroys present humanity at the judgment accompanying Inkarrí’s return.",
+    "source": "Fuerabamba account",
+    "date": "published before 1988",
+    "tier": "syncretism"
+   }
+  ],
+  "Wamanis": [
+   {
+    "stated_by": "inkarri",
+    "kind": "other",
+    "myth": "",
+    "note": "The Wamanis are secondary gods and human protectors ranked below Inkarrí.",
+    "source": "Puquio accounts",
+    "date": "collected 1956",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yampallec": [
+   {
+    "stated_by": "naymlap",
+    "kind": "other",
+    "myth": "Foundation of Chot",
+    "note": "Naymlap brings and installs this green-stone huaca bearing his likeness.",
+    "source": "Cabello Valboa, Miscelánea Antártica",
+    "date": "1586",
+    "tier": "attested"
+   }
+  ],
+  "gentiles": [
+   {
+    "stated_by": "inkarri",
+    "kind": "allied",
+    "myth": "Return of the gentiles",
+    "note": "Inkarrí survives underground with fellow gentiles and returns alongside them.",
+    "source": "Fuerabamba account",
+    "date": "published before 1988",
+    "tier": "regional_variant"
+   }
+  ],
+  "the Moon": [
+   {
+    "stated_by": "inkarri",
+    "kind": "shared_myth",
+    "myth": "Fuerabamba judgment",
+    "note": "Inkarrí rejoices when the Moon weakens before his destructive return.",
+    "source": "Fuerabamba account",
+    "date": "published before 1988",
+    "tier": "regional_variant"
+   }
+  ],
+  "the Sun": [
+   {
+    "stated_by": "cari_and_zapana",
+    "kind": "other",
+    "myth": "Chucuito covenant",
+    "note": "Cari reverences the Sun while sealing his covenant with Viracocha Inca.",
+    "source": "Cieza Part II, chapter 43",
+    "date": "c.1550",
+    "tier": "attested"
+   }
+  ],
+  "Ñancenpinco": [
+   {
+    "stated_by": "tacaynamo",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Tacaynamo is Ñancenpinco's grandfather through his son Guacricaur.",
+    "source": "Anonymous History of Trujillo",
+    "date": "1604",
+    "tier": "attested"
+   }
+  ]
+ }
+}

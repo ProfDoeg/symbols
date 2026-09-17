@@ -1,0 +1,492 @@
+{
+ "subject": "robin_hood",
+ "relations": [
+  {
+   "other": "Virgin Mary",
+   "other_aliases": [
+    "Our Lady"
+   ],
+   "kind": "served",
+   "myth": "Robin’s Marian devotion",
+   "note": "Robin venerates her, hears Mass in her honor, and invokes her protection.",
+   "source": "Monk; Gest",
+   "date": "15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "other",
+   "myth": "Prayers and oaths",
+   "note": "Robin invokes Christ or God in prayers and oaths without an apparition.",
+   "source": "Early ballads",
+   "date": "15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Little John",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Greenwood outlaw fellowship",
+   "note": "Little John is Robin’s chief lieutenant and consistently loyal companion.",
+   "source": "Wyntoun; Monk; Gest",
+   "date": "c. 1420–late 15th c.",
+   "tier": "attested"
+  },
+  {
+   "other": "Little John",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Nottingham prison rescue",
+   "note": "After quarreling with Robin, Little John returns and frees him from captivity.",
+   "source": "Robin Hood and the Monk",
+   "date": "c. 1450",
+   "tier": "attested"
+  },
+  {
+   "other": "Little John",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bridge recruitment",
+   "note": "Robin fights Little John at a bridge before accepting him as companion.",
+   "source": "Robin Hood and Little John",
+   "date": "c. 1680–85",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Much the Miller’s Son",
+   "other_aliases": [
+    "Much"
+   ],
+   "kind": "allied",
+   "myth": "Nottingham rescue and Sir Richard’s aid",
+   "note": "Much assists Robin’s rescue and later helps Robin aid Sir Richard.",
+   "source": "Monk; Gest",
+   "date": "15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Will Scarlet",
+   "other_aliases": [
+    "Will Scathlock",
+    "Will Scarlock"
+   ],
+   "kind": "allied",
+   "myth": "Greenwood outlaw fellowship",
+   "note": "Will appears as Robin’s named outlaw companion and fighter.",
+   "source": "Monk; Gest; later ballads",
+   "date": "15th–17th centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Sheriff of Nottingham",
+   "other_aliases": [
+    "the sheriff"
+   ],
+   "kind": "fought",
+   "myth": "Robin’s conflict with Nottingham",
+   "note": "Robin repeatedly opposes the sheriff, who hunts and arrests him.",
+   "source": "Monk; Potter; Gest; Guy",
+   "date": "15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Sheriff of Nottingham",
+   "other_aliases": [
+    "the sheriff"
+   ],
+   "kind": "deceived",
+   "myth": "Potter disguise",
+   "note": "Disguised as a potter, Robin tricks the sheriff into entering the greenwood.",
+   "source": "Robin Hood and the Potter",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Sheriff of Nottingham",
+   "other_aliases": [
+    "the sheriff"
+   ],
+   "kind": "killed",
+   "myth": "Vengeance for Sir Richard",
+   "note": "Robin kills the sheriff after the sheriff betrays Sir Richard.",
+   "source": "A Gest of Robyn Hode",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Sheriff of Nottingham",
+   "other_aliases": [
+    "the sheriff"
+   ],
+   "kind": "killed",
+   "myth": "Rescue after Gisborne’s death",
+   "note": "Robin shoots the sheriff while rescuing Little John.",
+   "source": "Robin Hood and Guy of Gisborne",
+   "date": "late-medieval roots",
+   "tier": "attested"
+  },
+  {
+   "other": "The Nottingham monk",
+   "other_aliases": [
+    "the monk"
+   ],
+   "kind": "deceived_by",
+   "myth": "Betrayal at Nottingham",
+   "note": "The monk recognizes and betrays Robin, enabling the sheriff to arrest him.",
+   "source": "Robin Hood and the Monk",
+   "date": "c. 1450",
+   "tier": "attested"
+  },
+  {
+   "other": "Sir Richard at the Lee",
+   "other_aliases": [
+    "Sir Richard"
+   ],
+   "kind": "gift",
+   "myth": "Sir Richard’s debt",
+   "note": "Robin lends Sir Richard money, clothes and equipment to redeem his estate.",
+   "source": "A Gest of Robyn Hode",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Sir Richard at the Lee",
+   "other_aliases": [
+    "Sir Richard"
+   ],
+   "kind": "rescued",
+   "myth": "Protection from the sheriff",
+   "note": "Robin protects the indebted knight and later shelters him from danger.",
+   "source": "A Gest of Robyn Hode",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Abbot of St Mary’s, York",
+   "other_aliases": [
+    "the abbot"
+   ],
+   "kind": "theft",
+   "myth": "Recovery of Sir Richard’s debt",
+   "note": "Robin robs the abbot of an amount equivalent to Sir Richard’s loan.",
+   "source": "A Gest of Robyn Hode",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Guy of Gisborne",
+   "other_aliases": [
+    "Guy"
+   ],
+   "kind": "fought",
+   "myth": "Sword duel in the forest",
+   "note": "Robin duels Guy, who is hunting him while dressed in a horsehide.",
+   "source": "Robin Hood and Guy of Gisborne",
+   "date": "late-medieval roots",
+   "tier": "attested"
+  },
+  {
+   "other": "Guy of Gisborne",
+   "other_aliases": [
+    "Guy"
+   ],
+   "kind": "killed",
+   "myth": "Death and impersonation of Guy",
+   "note": "Robin kills and beheads Guy, mutilates his face, and assumes his identity.",
+   "source": "Robin Hood and Guy of Gisborne",
+   "date": "late-medieval roots",
+   "tier": "attested"
+  },
+  {
+   "other": "Potter",
+   "other_aliases": [
+    "the potter"
+   ],
+   "kind": "fought",
+   "myth": "Robin’s defeat by the potter",
+   "note": "The potter defeats Robin in a fight before cooperating with his disguise.",
+   "source": "Robin Hood and the Potter",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Potter",
+   "other_aliases": [
+    "the potter"
+   ],
+   "kind": "allied",
+   "myth": "Exchange of identities",
+   "note": "Robin exchanges clothes with the potter, whose goods facilitate Robin’s trick.",
+   "source": "Robin Hood and the Potter",
+   "date": "late 15th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Prioress of Kirklees",
+   "other_aliases": [
+    "the prioress"
+   ],
+   "kind": "killed_by",
+   "myth": "Death at Kirklees",
+   "note": "Robin’s treacherous kinswoman bleeds him to death while ostensibly treating him.",
+   "source": "Gest; Robin Hood’s Death",
+   "date": "15th–17th centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Sir Roger of Doncaster",
+   "other_aliases": [
+    "Red Roger"
+   ],
+   "kind": "killed_by",
+   "myth": "Death at Kirklees",
+   "note": "Sir Roger assists the prioress in causing Robin’s death.",
+   "source": "Gest; Robin Hood’s Death",
+   "date": "15th–17th centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Maid Marian",
+   "other_aliases": [
+    "Marian",
+    "Matilda"
+   ],
+   "kind": "consort_of",
+   "myth": "May games and Huntingdon romance",
+   "note": "Marian becomes Robin’s May-game partner, noble lover, and eventual wife.",
+   "source": "Kingston records; Munday plays",
+   "date": "1509–1601",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maid Marian",
+   "other_aliases": [
+    "Marian",
+    "Matilda"
+   ],
+   "kind": "fought",
+   "myth": "Disguised lovers’ combat",
+   "note": "Disguised and armed, Marian fights Robin before they recognize one another.",
+   "source": "Robin Hood and Maid Marian",
+   "date": "later broadside tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Friar Tuck",
+   "other_aliases": [
+    "Frere Tuk"
+   ],
+   "kind": "fought",
+   "myth": "Combat with the fighting friar",
+   "note": "Robin duels the bellicose friar, including a later river-carrying contest.",
+   "source": "Dramatic fragment; Copland; later ballads",
+   "date": "c. 1475–17th century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Friar Tuck",
+   "other_aliases": [
+    "Frere Tuk"
+   ],
+   "kind": "allied",
+   "myth": "Recruitment of the fighting friar",
+   "note": "After their contest, the friar joins Robin’s company as companion and chaplain.",
+   "source": "Copland; later ballads",
+   "date": "16th–17th centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Allen-a-Dale",
+   "other_aliases": [
+    "Alan-a-Dale"
+   ],
+   "kind": "rescued",
+   "myth": "Bride rescue",
+   "note": "Robin prevents Allen’s beloved from marrying another and arranges their union.",
+   "source": "Robin Hood and Allen-a-Dale",
+   "date": "17th century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Will Stutely",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from execution",
+   "note": "Robin saves Will Stutely from execution.",
+   "source": "Child 141",
+   "date": "later ballad",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Three squires",
+   "other_aliases": [
+    "three young men"
+   ],
+   "kind": "rescued",
+   "myth": "Rescue of condemned men",
+   "note": "Robin rescues three condemned young men, often following their mother’s appeal.",
+   "source": "Child 140 and variants",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Queen Katherine",
+   "other_aliases": [
+    "Queen Catherine"
+   ],
+   "kind": "served",
+   "myth": "Queen Katherine’s archery contest",
+   "note": "Robin competes on the queen’s behalf and receives royal favor.",
+   "source": "Child 145",
+   "date": "17th-century witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bishop of Hereford",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Capture of the bishop",
+   "note": "Robin captures the bishop and forces him to feast, dance, or pay ransom.",
+   "source": "Child 144",
+   "date": "17th-century witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Curtal Friar",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "River-carrying contest",
+   "note": "Robin and the friar fight while repeatedly carrying or dropping each other.",
+   "source": "Child 123",
+   "date": "17th-century witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Curtal Friar",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recruitment after the river contest",
+   "note": "The friar becomes Robin’s ally after their prolonged contest.",
+   "source": "Child 123",
+   "date": "17th-century witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Friar Tuck",
+   "other_aliases": [
+    "Frere Tuk"
+   ],
+   "kind": "identified_with",
+   "myth": "Curtal Friar identification",
+   "note": "Later tradition equates Robin’s Curtal Friar opponent with Friar Tuck.",
+   "source": "Child 123; later tradition",
+   "date": "17th century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Arthur a Bland",
+   "other_aliases": [
+    "the Tanner"
+   ],
+   "kind": "contest",
+   "myth": "Staff fight with the Tanner",
+   "note": "Arthur beats or matches Robin with a staff before joining his band.",
+   "source": "Child 126",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arthur a Bland",
+   "other_aliases": [
+    "the Tanner"
+   ],
+   "kind": "allied",
+   "myth": "Recruitment of the Tanner",
+   "note": "Robin invites Arthur into the outlaw band after their staff fight.",
+   "source": "Child 126",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Tinker",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The warrant against Robin",
+   "note": "Robin deceives the tinker carrying a warrant for his arrest.",
+   "source": "Child 127",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Tinker",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Fight after the warrant trick",
+   "note": "The deceived tinker subsequently fights Robin.",
+   "source": "Child 127",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Butcher",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Butcher disguise",
+   "note": "Robin assumes the butcher’s commercial identity to enter Nottingham’s market.",
+   "source": "Child 122",
+   "date": "later ballad tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "George-a-Green",
+   "other_aliases": [
+    "The Pinder of Wakefield"
+   ],
+   "kind": "fought",
+   "myth": "Fight with Wakefield’s pinder",
+   "note": "George-a-Green fights Robin, Little John, and Scarlet.",
+   "source": "Jolly Pinder",
+   "date": "registered 1557–58",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "George-a-Green",
+   "other_aliases": [
+    "The Pinder of Wakefield"
+   ],
+   "kind": "allied",
+   "myth": "Invitation after the pinder fight",
+   "note": "Robin invites George-a-Green to join the outlaw company after their fight.",
+   "source": "Jolly Pinder",
+   "date": "registered 1557–58",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Prince John",
+   "other_aliases": [
+    "King John"
+   ],
+   "kind": "fought",
+   "myth": "Richard against John",
+   "note": "Post-medieval romance makes John Robin’s oppressive political enemy.",
+   "source": "Munday; Ivanhoe; later media",
+   "date": "1598–modern",
+   "tier": "canonical"
+  },
+  {
+   "other": "Herne the Hunter",
+   "other_aliases": [
+    "Herne"
+   ],
+   "kind": "served",
+   "myth": "Herne’s mystical patronage",
+   "note": "Herne becomes Robin’s supernatural patron in the television series.",
+   "source": "Robin of Sherwood television",
+   "date": "1984–86",
+   "tier": "modern"
+  }
+ ]
+}

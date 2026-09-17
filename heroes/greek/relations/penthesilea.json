@@ -1,0 +1,641 @@
+{
+ "subject": "penthesilea",
+ "relations": [
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Penthesilea is consistently named as the war-god's daughter.",
+   "source": "Aethiopis summary",
+   "date": "seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "gift",
+   "myth": "Penthesilea receives divine armor",
+   "note": "Ares gives his daughter armor for her Trojan campaign.",
+   "source": "Quintus, Posthomerica 1.173–206",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "rescued_by",
+   "myth": "Ares attempts vengeance after her death",
+   "note": "Ares tries to attack the Greeks after Penthesilea dies.",
+   "source": "Quintus, Posthomerica 1.923–974",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Otrera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Imperial mythographers identify Otrera as Penthesilea's mother.",
+   "source": "Apollodorus Epitome 5.1; Hyginus 112",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippolyta",
+   "other_aliases": [
+    "Hippolyte"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Learned genealogies make the Amazon queen Penthesilea's sister.",
+   "source": "Apollodorus Epitome 5.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippolyta",
+   "other_aliases": [
+    "Hippolyte"
+   ],
+   "kind": "killed",
+   "myth": "Accidental killing during a hunt",
+   "note": "Penthesilea accidentally kills her sister while throwing at a stag.",
+   "source": "Quintus, Posthomerica 1.22–39",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolyta",
+   "other_aliases": [
+    "Hippolyte"
+   ],
+   "kind": "killed",
+   "myth": "Accidental killing at Theseus' wedding",
+   "note": "A variant places Hippolyta's accidental death amid Theseus' wedding battle.",
+   "source": "Apollodorus Epitome 5.1–2",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Learned genealogical consolidation sometimes includes Antiope among her sisters.",
+   "source": "Learned genealogical tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melanippe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Learned genealogical consolidation sometimes includes Melanippe among her sisters.",
+   "source": "Learned genealogical tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel before Troy",
+   "note": "Penthesilea confronts Achilles in the culminating duel of her aristeia.",
+   "source": "Aethiopis summary; Exekias amphora",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Duel before Troy",
+   "note": "Achilles kills Penthesilea after her Trojan battlefield successes.",
+   "source": "Aethiopis summary",
+   "date": "seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Achilles' alleged love",
+   "note": "Thersites accuses Achilles of loving the slain Penthesilea.",
+   "source": "Aethiopis summary",
+   "date": "seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Postmortem revelation of her beauty",
+   "note": "Achilles removes her helmet and marvels at her exposed beauty.",
+   "source": "Propertius 3.11.13–16",
+   "date": "approximately 22 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Achilles loves the dead Amazon",
+   "note": "Achilles falls in love with Penthesilea only after her death.",
+   "source": "Apollodorus Epitome 5.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Remorseful love after the duel",
+   "note": "Achilles remorsefully loves her beautified corpse and imagines marrying her.",
+   "source": "Quintus, Posthomerica 1.891–922",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Amazon queen dismembers Achilles",
+   "note": "Kleist reverses antiquity by making Penthesilea kill and dismember Achilles.",
+   "source": "Kleist, Penthesilea",
+   "date": "1808",
+   "tier": "modern"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Penthesilea comes to defend Troy",
+   "note": "Priam welcomes, rewards, and promises further gifts to Troy's Amazon ally.",
+   "source": "Quintus, Posthomerica 1.73–145",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification after Hippolyta's death",
+   "note": "Priam purifies Penthesilea after her accidental killing of Hippolyta.",
+   "source": "Apollodorus Epitome 5.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Royal burial at Troy",
+   "note": "Priam requests her body and conducts her royal burial.",
+   "source": "Quintus, Posthomerica 1",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arrival after Hector's funeral",
+   "note": "Penthesilea arrives after Hector's burial, and his defeat foreshadows hers.",
+   "source": "Aethiopis sequence; Quintus 1.1–145",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Penthesilea boasts before battle",
+   "note": "Andromache inwardly judges her boast fatal because Achilles killed Hector.",
+   "source": "Quintus, Posthomerica 1.119–145",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "deceived_by",
+   "myth": "Deceptive dream before battle",
+   "note": "Athena assumes Ares' likeness and incites Penthesilea to confront Achilles.",
+   "source": "Quintus, Posthomerica 1.146–172",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gift of the battle-axe",
+   "note": "Eris gives Penthesilea her double-bladed battle-axe or halberd.",
+   "source": "Quintus, Posthomerica 1.204–220",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oreithyia",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gift of the supernatural horse",
+   "note": "Oreithyia gives Penthesilea a supernatural horse during her Thracian visit.",
+   "source": "Quintus, Posthomerica 1.219–231",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Pursuit after Hippolyta's killing",
+   "note": "The Erinyes pursue Penthesilea and drive her to seek purification.",
+   "source": "Quintus, Posthomerica 1.32–39",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Beautification of Penthesilea's corpse",
+   "note": "Aphrodite beautifies her dead body, awakening remorseful love in Achilles.",
+   "source": "Quintus, Posthomerica 1.891–922",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ares prevented from avenging Penthesilea",
+   "note": "Zeus uses thunderbolts to stop Ares attacking her Greek killers.",
+   "source": "Quintus, Posthomerica 1.923–974",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ajax the Great",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel with Ajax and Achilles",
+   "note": "Her spear strikes Ajax's greave but fails to penetrate it.",
+   "source": "Quintus, Posthomerica 1.734–781",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thersites",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Desecration of her corpse",
+   "note": "Thersites gouges or strikes the dead Penthesilea's eye with his spear.",
+   "source": "Lycophron 997–1001 with scholia",
+   "date": "third–second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thersites",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mockery after her death",
+   "note": "Thersites mocks Achilles over his alleged love for Penthesilea.",
+   "source": "Aethiopis summary",
+   "date": "seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Quarrel following Thersites' death",
+   "note": "Diomedes nearly fights Achilles over Thersites, without encountering living Penthesilea.",
+   "source": "Quintus, Posthomerica 1.1041–1061",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Machaon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills the Greek physician-hero in one unstable victim tradition.",
+   "source": "Apollodorus Epitome 5.1",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Campaign after Achilles' death",
+   "note": "Dictys makes Neoptolemus kill Penthesilea after Achilles has already died.",
+   "source": "Dictys Cretensis, Trojan War 4",
+   "date": "first–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Encounter in the underworld",
+   "note": "Paris claps toward Penthesilea, who looks at him contemptuously.",
+   "source": "Pausanias 10.31.8",
+   "date": "approximately 150–175 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return of Penthesilea's body",
+   "note": "Agamemnon helps authorize the return of her body for Trojan burial.",
+   "source": "Quintus, Posthomerica 1.1062–1070",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return of Penthesilea's body",
+   "note": "Menelaus helps return her body to Priam's herald for burial.",
+   "source": "Quintus, Posthomerica 1.1062–1070",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laomedon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Burial in Laomedon's mound",
+   "note": "Penthesilea's bones are buried beside Laomedon's without a living encounter.",
+   "source": "Quintus, Posthomerica 1",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Podarces",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance for Clonie",
+   "note": "Penthesilea mortally wounds Podarces after he kills her companion Clonie.",
+   "source": "Quintus, Posthomerica 1.300–344",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Molion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Molion during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.300",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persinous",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Persinous during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.300–301",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eilissus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Eilissus during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.301",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antitheus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Antitheus during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.301–302",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lernus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Lernus during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.302",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippalmus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea tramples Hippalmus beneath her horse.",
+   "source": "Quintus, Posthomerica 1.302–303",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elasippus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Penthesilea's aristeia",
+   "note": "Penthesilea kills Elasippus during her battlefield rampage.",
+   "source": "Quintus, Posthomerica 1.304",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clonie",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Clonie accompanies Penthesilea, whose death provokes her queen's retaliation.",
+   "source": "Quintus, Posthomerica 1.40–54, 304–344",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polemusa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Polemusa accompanies Penthesilea and is killed by Achilles.",
+   "source": "Quintus, Posthomerica 1.40–54, 721–733",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antandre",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Antandre accompanies Penthesilea and is killed by Achilles.",
+   "source": "Quintus, Posthomerica 1.40–54, 721–733",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antibrote",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Antibrote accompanies Penthesilea and is killed by Achilles.",
+   "source": "Quintus, Posthomerica 1.40–54, 721–733",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippothoe",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Hippothoe accompanies Penthesilea and is killed by Achilles.",
+   "source": "Quintus, Posthomerica 1.40–54, 721–733",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harmothoe",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Harmothoe accompanies Penthesilea and is killed by Achilles.",
+   "source": "Quintus, Posthomerica 1.40–54, 721–733",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Derinoe",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Derinoe accompanies Penthesilea and is killed by Ajax son of Oileus.",
+   "source": "Quintus, Posthomerica 1.40–54, 350–360",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Evandre",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Evandre accompanies Penthesilea and is killed by Meriones.",
+   "source": "Quintus, Posthomerica 1.40–54, 345–350",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thermodosa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Thermodosa accompanies Penthesilea and is killed by Meriones.",
+   "source": "Quintus, Posthomerica 1.40–54, 345–350",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bremusa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Bremusa accompanies Penthesilea and is killed by Idomeneus.",
+   "source": "Quintus, Posthomerica 1.40–54, 330–344",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcibie",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Alcibie accompanies Penthesilea and is killed by Diomedes.",
+   "source": "Quintus, Posthomerica 1.40–54, 350–365",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Derimacheia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon campaign at Troy",
+   "note": "Derimacheia accompanies Penthesilea and is killed by Diomedes.",
+   "source": "Quintus, Posthomerica 1.40–54, 350–365",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theano",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Trojan women contemplate battle",
+   "note": "Theano cites Penthesilea's trained prowess while dissuading Trojan women from fighting.",
+   "source": "Quintus, Posthomerica 1.604–642",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tisiphone",
+   "other_aliases": [
+    "wife of Meneptolemus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Trojan women contemplate battle",
+   "note": "Penthesilea's example inspires Tisiphone to urge Trojan women into battle.",
+   "source": "Quintus, Posthomerica 1.545–603",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clete",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Clete searches for Penthesilea",
+   "note": "Her nurse or attendant sails searching for her and reaches southern Italy.",
+   "source": "Lycophron learned tradition",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cayster",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A late Ephesian genealogy makes the river Cayster her son.",
+   "source": "Late Ephesian genealogy",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ephesus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "A late genealogy makes Ephesus her grandson through Cayster.",
+   "source": "Late Ephesian genealogy",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,4073 @@
+{
+ "folder": "biblical",
+ "gods": [
+  "adam",
+  "cain_and_abel",
+  "daniel",
+  "deborah_and_jael",
+  "delilah",
+  "elijah",
+  "enoch",
+  "esther",
+  "eve",
+  "gideon",
+  "jacob",
+  "job",
+  "jonah",
+  "joseph_the_dreamer",
+  "joshua",
+  "judith",
+  "lot",
+  "nimrod",
+  "samson",
+  "solomon"
+ ],
+ "relations": [
+  {
+   "a": "adam",
+   "b": "cain_and_abel",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Adam fathers Cain, though no conversation or further action between them is recorded.",
+   "source": "Genesis 4:1",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "adam",
+    "cain_and_abel"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "enoch",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Enoch is Adam’s seventh-generation descendant; Genesis narrates no meeting.",
+   "source": "Genesis 5; Jude 14",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "adam",
+    "enoch"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "enoch",
+   "kind": "taught",
+   "myth": "Transmission of calendar intercalation",
+   "note": "Adam transmits the principle of calendar intercalation to Enoch.",
+   "source": "Pirkei de-Rabbi Eliezer 8",
+   "date": "eighth–ninth centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "enoch"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "eve",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eve is Adam’s corresponding partner, wife, and mother of his children.",
+   "source": "Genesis 2–5",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "adam",
+    "eve"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "eve",
+   "kind": "gift",
+   "myth": "Eating the prohibited fruit",
+   "note": "Eve gives Adam fruit from the prohibited tree, and he eats.",
+   "source": "Genesis 3",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "eve"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "eve",
+   "kind": "shared_myth",
+   "myth": "Eating and expulsion from Eden",
+   "note": "Eve gives Adam the forbidden fruit; together they are judged and expelled.",
+   "source": "Genesis 3",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "adam"
+   ]
+  },
+  {
+   "a": "adam",
+   "b": "nimrod",
+   "kind": "other",
+   "myth": "Possession of Adam's garments",
+   "note": "Nimrod possesses the divinely made garments originally belonging to Adam.",
+   "source": "Pirke de-Rabbi Eliezer",
+   "date": "8th–9th century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "nimrod"
+   ]
+  },
+  {
+   "a": "cain_and_abel",
+   "b": "enoch",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cain fathers Enoch and names a city after him.",
+   "source": "Genesis 4:17",
+   "date": "first millennium BCE, disputed",
+   "tier": "attested",
+   "stated_by": [
+    "cain_and_abel"
+   ]
+  },
+  {
+   "a": "cain_and_abel",
+   "b": "eve",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eve conceives, bears, and names Cain with a qnh wordplay.",
+   "source": "Genesis 4:1",
+   "date": "first millennium BCE, disputed",
+   "tier": "attested",
+   "stated_by": [
+    "cain_and_abel",
+    "eve"
+   ]
+  },
+  {
+   "a": "daniel",
+   "b": "job",
+   "kind": "shared_myth",
+   "myth": "Three exemplary righteous men",
+   "note": "Job and Daniel or Danel appear jointly in Ezekiel’s righteous triad.",
+   "source": "Ezekiel 14:14, 20",
+   "date": "early sixth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "job"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "consort_of",
+   "myth": "Samson cohabits with Delilah",
+   "note": "Josephus portrays Delilah as Samson's prostitute and cohabiting lover among the Philistines.",
+   "source": "Josephus, Antiquities 5.306–313",
+   "date": "93/94 CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "consort_of",
+   "myth": "Samson takes Delilah as wife",
+   "note": "Pseudo-Philo makes Delilah a Philistine harlot whom Samson takes as his wife.",
+   "source": "Pseudo-Philo, LAB 43",
+   "date": "late first century CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "consort_of",
+   "myth": "Delilah as Samson's wife",
+   "note": "Rabbinic elaboration identifies Delilah as Samson's wife and emphasizes her sexual coercion.",
+   "source": "Numbers Rabbah 9:24–25",
+   "date": "medieval redaction",
+   "tier": "late_accretion",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "consort_of",
+   "myth": "Dalila visits imprisoned Samson",
+   "note": "Milton makes Dalila Samson's wife; she defends her betrayal, but he rejects her.",
+   "source": "Milton, Samson Agonistes",
+   "date": "1671",
+   "tier": "modern",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "consort_of",
+   "myth": "Samson and Delilah's invented romance",
+   "note": "DeMille reinvents Delilah as Samson's romantic partner within an elaborate prior relationship.",
+   "source": "DeMille, Samson and Delilah",
+   "date": "1949",
+   "tier": "modern",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "deceived",
+   "myth": "The four tests of Samson's strength",
+   "note": "Delilah extracts Samson's secret, arranges his shaving, and enables his capture.",
+   "source": "Judges 16:6–21",
+   "date": "seventh–sixth century BCE shaping",
+   "tier": "canonical",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "deceived",
+   "myth": "Dalila conspires against Samson",
+   "note": "The opera expands Delilah's betrayal into a religious and political conspiracy.",
+   "source": "Saint-Saëns, Samson et Dalila",
+   "date": "1877",
+   "tier": "modern",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "deceived",
+   "myth": "Delilah betrays Samson",
+   "note": "DeMille dramatizes Delilah's betrayal, subsequent repentance, and presence at Samson's death.",
+   "source": "DeMille, Samson and Delilah",
+   "date": "1949",
+   "tier": "modern",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "other",
+   "myth": "Samson loves Delilah",
+   "note": "Samson loves Delilah, although Judges never states that she reciprocates.",
+   "source": "Judges 16:4",
+   "date": "seventh–sixth century BCE shaping",
+   "tier": "canonical",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "delilah",
+   "b": "samson",
+   "kind": "seduced",
+   "myth": "Dalila obtains Samson's secret",
+   "note": "The opera portrays Dalila using feigned desire to secure Samson's secret for Philistia.",
+   "source": "Saint-Saëns, Samson et Dalila",
+   "date": "1877",
+   "tier": "modern",
+   "stated_by": [
+    "delilah"
+   ]
+  },
+  {
+   "a": "elijah",
+   "b": "enoch",
+   "kind": "allied",
+   "myth": "Future battle against Antichrist",
+   "note": "Some Christian apocalypses pair Elijah and Enoch against Antichrist.",
+   "source": "Christian apocalyptic traditions",
+   "date": "early centuries CE and later",
+   "tier": "late_accretion",
+   "stated_by": [
+    "elijah"
+   ]
+  },
+  {
+   "a": "elijah",
+   "b": "enoch",
+   "kind": "shared_myth",
+   "myth": "Return against Antichrist",
+   "note": "Later Christian tradition pairs Enoch and Elijah as deathless end-time witnesses.",
+   "source": "Christian apocalyptic tradition",
+   "date": "late antiquity–medieval",
+   "tier": "late_accretion",
+   "stated_by": [
+    "enoch"
+   ]
+  },
+  {
+   "a": "elijah",
+   "b": "jacob",
+   "kind": "other",
+   "myth": "Patriarchs awakened to pray",
+   "note": "Elijah awakens Jacob separately to pray for redemption.",
+   "source": "Babylonian Talmud, Bava Metzia 85b",
+   "date": "fifth–sixth centuries CE",
+   "tier": "canonical",
+   "stated_by": [
+    "elijah"
+   ]
+  },
+  {
+   "a": "eve",
+   "b": "nimrod",
+   "kind": "other",
+   "myth": "Possession of Adamic garments",
+   "note": "Nimrod possesses garments originally made by God for Adam and Eve.",
+   "source": "Pirke de-Rabbi Eliezer",
+   "date": "8th–9th century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "nimrod"
+   ]
+  },
+  {
+   "a": "gideon",
+   "b": "samson",
+   "kind": "shared_myth",
+   "myth": "Catalogue of faithful heroes",
+   "note": "Samson and Gideon appear together in a catalogue of figures empowered through faith.",
+   "source": "Hebrews 11:32–34",
+   "date": "later first century CE",
+   "tier": "canonical",
+   "stated_by": [
+    "samson"
+   ]
+  },
+  {
+   "a": "jacob",
+   "b": "job",
+   "kind": "other",
+   "myth": "",
+   "note": "Job becomes Jacob’s son-in-law when later tradition identifies his wife as Dinah.",
+   "source": "Pseudo-Philo; Genesis Rabbah",
+   "date": "first century CE onward",
+   "tier": "late_accretion",
+   "stated_by": [
+    "job"
+   ]
+  },
+  {
+   "a": "jacob",
+   "b": "joseph_the_dreamer",
+   "kind": "gift",
+   "myth": "Jacob gives Joseph the distinctive robe",
+   "note": "Jacob favors Joseph and gives him the robe that provokes his brothers' jealousy.",
+   "source": "Genesis 37:3–4",
+   "date": "dating disputed",
+   "tier": "attested",
+   "stated_by": [
+    "joseph_the_dreamer"
+   ]
+  },
+  {
+   "a": "jacob",
+   "b": "joseph_the_dreamer",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Joseph is Jacob's favored son by Rachel.",
+   "source": "Genesis 30; 35; 37",
+   "date": "dating disputed",
+   "tier": "attested",
+   "stated_by": [
+    "joseph_the_dreamer"
+   ]
+  },
+  {
+   "a": "jacob",
+   "b": "joseph_the_dreamer",
+   "kind": "rescued_by",
+   "myth": "Joseph's shirt restores Jacob's sight",
+   "note": "Joseph sends his shirt, which restores his father's sight before their reunion.",
+   "source": "Qurʾān 12",
+   "date": "seventh century CE",
+   "tier": "canonical",
+   "stated_by": [
+    "joseph_the_dreamer"
+   ]
+  },
+  {
+   "a": "lot",
+   "b": "nimrod",
+   "kind": "fought",
+   "myth": "War of the four kings",
+   "note": "Under the Amraphel equation, Nimrod's coalition captures Lot.",
+   "source": "Genesis 14; Eruvin 53a",
+   "date": "5th–6th century",
+   "tier": "syncretism",
+   "stated_by": [
+    "nimrod"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "adam",
+   "god": "abrahamic/michael",
+   "kind": "served_by",
+   "myth": "Death and burial of Adam",
+   "note": "Michael leads angelic service at Adam’s death, burial, and promised restoration.",
+   "source": "Life of Adam and Eve",
+   "date": "first centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/michael",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Latter-day Saint teachings identify Adam with the archangel Michael.",
+   "source": "Latter-day Saint revelations",
+   "date": "nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/gabriel",
+   "kind": "served_by",
+   "myth": "Angelic funeral of Adam",
+   "note": "Gabriel participates in Adam’s funeral or heavenly service in some later recensions.",
+   "source": "Life of Adam and Eve tradition",
+   "date": "first centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/raphael",
+   "kind": "shared_myth",
+   "myth": "Angelic service for Adam",
+   "note": "Raphael appears among named angels in portions of Adam literature; his role varies.",
+   "source": "Adam literature recensions",
+   "date": "first centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/lilith",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Medieval tradition makes Lilith Adam’s first wife before Eve.",
+   "source": "Alphabet of Ben Sira",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/lilith",
+   "kind": "contest",
+   "myth": "Dispute over sexual precedence",
+   "note": "Adam demands precedence; Lilith asserts equality, invokes the divine name, and leaves.",
+   "source": "Alphabet of Ben Sira",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "adam",
+   "god": "abrahamic/sophia",
+   "kind": "rescued_by",
+   "myth": "Deliverance after transgression",
+   "note": "Wisdom protects and delivers the first-formed father after his transgression.",
+   "source": "Wisdom of Solomon 10:1–2",
+   "date": "turn of the era",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "cain_and_abel",
+   "god": "abrahamic/yaldabaoth",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Gnostic chief ruler fathers Cain through sexual violation of Eve.",
+   "source": "Apocryphon of John",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "a": "cain_and_abel",
+   "god": "abrahamic/yaldabaoth",
+   "kind": "deceived_by",
+   "myth": "Yaldabaoth deceptively names his archontic offspring",
+   "note": "Yaldabaoth deceptively gives one of his generated rulers the name Cain.",
+   "source": "Apocryphon of John",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "a": "cain_and_abel",
+   "god": "abrahamic/samael",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Gnostic and Jewish legends make the serpent-Samael Cain’s supernatural father.",
+   "source": "Gnostic and Jewish legends",
+   "date": "second century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "a": "cain_and_abel",
+   "god": "abrahamic/sophia",
+   "kind": "rescued_by",
+   "myth": "Sophia rescues Cain’s higher spiritual element",
+   "note": "Reported Gnostic systems say Sophia rescues Cain’s higher element from the creator’s assault.",
+   "source": "Irenaeus and Sethian texts",
+   "date": "second century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "a": "daniel",
+   "god": "abrahamic/gabriel",
+   "kind": "taught_by",
+   "myth": "Interpretation of the ram and goat",
+   "note": "Gabriel explains Daniel’s vision of Media, Persia, Greece, and Antiochus.",
+   "source": "Daniel 8",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "daniel",
+   "god": "abrahamic/gabriel",
+   "kind": "taught_by",
+   "myth": "Revelation of the seventy weeks",
+   "note": "Gabriel explains the seventy-week timetable following Daniel’s prayer.",
+   "source": "Daniel 9",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "daniel",
+   "god": "abrahamic/michael",
+   "kind": "allied",
+   "myth": "Angelic conflict over Persia",
+   "note": "Michael protects Daniel’s people and assists the messenger bringing Daniel revelation.",
+   "source": "Daniel 10–12",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "daniel",
+   "god": "mesopotamian/marduk",
+   "kind": "fought",
+   "myth": "Exposure and destruction of Bel",
+   "note": "Daniel refuses worship, exposes the priests’ fraud, and destroys Bel’s image and temple.",
+   "source": "Bel 1–22",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/raphael",
+   "kind": "taught_by",
+   "myth": "Tour of places of punishment",
+   "note": "Raphael shows Enoch places of punishment.",
+   "source": "1 Enoch 22",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/michael",
+   "kind": "taught_by",
+   "myth": "Guidance through heavenly mysteries",
+   "note": "Michael guides Enoch and explains heavenly mysteries and judgment.",
+   "source": "1 Enoch 24–25, 40, 54, 60, 71",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/michael",
+   "kind": "transformed_by",
+   "myth": "Enoch clothed and anointed",
+   "note": "Michael clothes or anoints Enoch before God in some recensions.",
+   "source": "2 Enoch 22",
+   "date": "date disputed",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/gabriel",
+   "kind": "shared_myth",
+   "myth": "Holy angels report the Watcher crisis",
+   "note": "Gabriel appears among the holy angels during judgment of the Watchers and giants.",
+   "source": "1 Enoch 9–10, 20, 40, 54",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/gabriel",
+   "kind": "gift",
+   "myth": "Revelation delivered to Idrīs-Enoch",
+   "note": "Gabriel brings books or revelation to Idrīs-Enoch in later Islamic legend.",
+   "source": "Medieval qiṣaṣ al-anbiyāʾ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/azazel",
+   "kind": "judged",
+   "myth": "Condemnation of the rebel teacher",
+   "note": "Enoch reports or witnesses Asael's punishment for teaching forbidden arts.",
+   "source": "1 Enoch 8–10, 13, 54–55",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "a": "enoch",
+   "god": "abrahamic/metatron",
+   "kind": "identified_with",
+   "myth": "Enoch transformed into Metatron",
+   "note": "The exalted Enoch explicitly becomes the angel Metatron.",
+   "source": "3 Enoch",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "esther",
+   "god": "mesopotamian/inanna_ishtar",
+   "kind": "identified_with",
+   "myth": "Ishtar–Marduk comparative reconstruction",
+   "note": "Modern theories linked Esther’s name and role with Ishtar, without ancient textual identification.",
+   "source": "comparative religion scholarship",
+   "date": "early twentieth century",
+   "tier": "modern"
+  },
+  {
+   "a": "eve",
+   "god": "abrahamic/michael",
+   "kind": "other",
+   "myth": "Eve’s childbirth with Cain",
+   "note": "Michael and other angels assist Eve during her agonizing childbirth.",
+   "source": "Life of Adam and Eve",
+   "date": "early centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "eve",
+   "god": "abrahamic/samael",
+   "kind": "deceived_by",
+   "myth": "Samael engineers the temptation",
+   "note": "Samael animates or rides the serpent and engineers Eve’s temptation.",
+   "source": "Pirke de-Rabbi Eliezer",
+   "date": "eighth–ninth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "gideon",
+   "god": "canaanite/asherah",
+   "kind": "fought",
+   "myth": "Destruction of the Asherah",
+   "note": "Gideon cuts down Asherah’s cult object and burns its wood in sacrifice.",
+   "source": "Judges 6:25–28",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "jacob",
+   "god": "abrahamic/michael",
+   "kind": "shared_myth",
+   "myth": "Michael visits Jacob near death",
+   "note": "Michael is sent to Jacob shortly before the patriarch's death.",
+   "source": "Coptic Testament of Jacob",
+   "date": "late antique or medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "jacob",
+   "god": "abrahamic/samael",
+   "kind": "fought",
+   "myth": "Rabbinic identification of the wrestler",
+   "note": "Later tradition identifies Samael as Jacob's opponent at the Jabbok.",
+   "source": "Rabbinic and medieval traditions",
+   "date": "late antique–medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "job",
+   "god": "abrahamic/behemoth",
+   "kind": "shared_myth",
+   "myth": "YHWH displays Behemoth to Job",
+   "note": "Behemoth is shown as a mighty creature beyond Job’s mastery.",
+   "source": "Job 40:15–24",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "job",
+   "god": "abrahamic/leviathan",
+   "kind": "shared_myth",
+   "myth": "YHWH challenges Job concerning Leviathan",
+   "note": "Job is challenged to capture or domesticate Leviathan but never encounters it.",
+   "source": "Job 40:25–41:26",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "job",
+   "god": "abrahamic/gabriel",
+   "kind": "gift",
+   "myth": "Gabriel brings guidance or relief to Ayyūb",
+   "note": "Some later Islamic narratives make Gabriel the bearer of divine guidance or relief.",
+   "source": "Later Islamic narratives",
+   "date": "medieval Islamic period",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "jonah",
+   "god": "abrahamic/leviathan",
+   "kind": "fought",
+   "myth": "Jonah frightens Leviathan beneath the cosmic sea",
+   "note": "Jonah displays Abraham’s covenantal seal, drives Leviathan away, and vows its future capture.",
+   "source": "Pirke de-Rabbi Eliezer 10",
+   "date": "8th–9th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "joseph_the_dreamer",
+   "god": "abrahamic/gabriel",
+   "kind": "taught_by",
+   "myth": "Gabriel directs Joseph toward his brothers",
+   "note": "Later interpretation identifies Joseph's unnamed guide near Shechem as the angel Gabriel.",
+   "source": "Genesis Rabbah 84",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "joshua",
+   "god": "abrahamic/michael",
+   "kind": "shared_myth",
+   "myth": "Encounter near Jericho",
+   "note": "Later interpreters identify Michael as the unnamed commander encountered by Joshua.",
+   "source": "Late antique and medieval exegesis",
+   "date": "late antique–medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "lot",
+   "god": "abrahamic/shekhinah",
+   "kind": "transformed_by",
+   "myth": "Irit looks back at Sodom",
+   "note": "Lot's wife sees the descending Shekhinah and becomes salt.",
+   "source": "Pirkei de-Rabbi Eliezer 25",
+   "date": "eighth–ninth century",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "nimrod",
+   "god": "abrahamic/michael",
+   "kind": "other",
+   "myth": "Abraham rescued from Nimrod's furnace",
+   "note": "Michael descends to rescue Abraham from the furnace ordered by Nimrod.",
+   "source": "Genesis Rabbah 44 traditions",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "a": "nimrod",
+   "god": "abrahamic/gabriel",
+   "kind": "other",
+   "myth": "Abraham rescued from Nimrod's fire",
+   "note": "Gabriel assists or addresses Abraham during Nimrod's furnace episode.",
+   "source": "Medieval tafsir and qisas",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "nimrod",
+   "god": "mesopotamian/ninurta",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars propose Ninurta as Nimrod's etymological or typological divine model.",
+   "source": "Modern Assyriology",
+   "date": "19th century onward",
+   "tier": "modern"
+  },
+  {
+   "a": "nimrod",
+   "god": "mesopotamian/dumuzi_tammuz",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hislop-derived literature claims Tammuz was Nimrod's posthumous or reincarnated son.",
+   "source": "Hislop-derived literature",
+   "date": "1853/1858 onward",
+   "tier": "modern"
+  },
+  {
+   "a": "samson",
+   "god": "greek/heracles_god",
+   "kind": "other",
+   "myth": "",
+   "note": "Modern comparison links their lion-slaying, exceptional strength, erotic vulnerability, and violent deaths without establishing identity.",
+   "source": "Modern comparative scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  },
+  {
+   "a": "samson",
+   "god": "mesopotamian/enkidu",
+   "kind": "other",
+   "myth": "",
+   "note": "Modern structural comparison invokes prodigious strength and women's roles, without ancient interaction or demonstrated transmission.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "a": "samson",
+   "god": "mesopotamian/gilgamesh_deified",
+   "kind": "other",
+   "myth": "",
+   "note": "Modern scholarship makes broad structural comparisons, but documents no ancient interaction or identification.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "a": "solomon",
+   "god": "canaanite/milcom",
+   "kind": "served",
+   "myth": "Solomon's apostasy",
+   "note": "Solomon follows or accommodates the Ammonite deity Milcom.",
+   "source": "1 Kings 11:5, 33",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "solomon",
+   "god": "canaanite/chemosh",
+   "kind": "served",
+   "myth": "Solomon's apostasy",
+   "note": "Solomon builds a high place for the Moabite deity Chemosh.",
+   "source": "1 Kings 11:7",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "solomon",
+   "god": "abrahamic/sophia",
+   "kind": "shared_myth",
+   "myth": "Prayer for Wisdom",
+   "note": "The Solomonic speaker desires personified Wisdom as his companion through prayer.",
+   "source": "Wisdom of Solomon 7–9",
+   "date": "first century BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "solomon",
+   "god": "abrahamic/michael",
+   "kind": "gift",
+   "myth": "Gift of the demon-binding ring",
+   "note": "Michael gives Solomon a ring bearing a divine seal.",
+   "source": "Testament of Solomon 1",
+   "date": "early Roman centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "solomon",
+   "god": "abrahamic/asmodeus",
+   "kind": "served_by",
+   "myth": "Demonic Temple labor",
+   "note": "Solomon binds, interrogates, and assigns Asmodeus labor on the Temple.",
+   "source": "Testament of Solomon",
+   "date": "early Roman centuries",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "Abezithibod": [
+   {
+    "stated_by": "solomon",
+    "kind": "punished",
+    "myth": "Binding of Abezithibod",
+    "note": "Solomon imprisons the Red Sea demon with Ephippas's assistance.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Abraham": [
+   {
+    "stated_by": "elijah",
+    "kind": "other",
+    "myth": "Patriarchs awakened to pray",
+    "note": "Elijah awakens Abraham separately to pray for redemption.",
+    "source": "Babylonian Talmud, Bava Metzia 85b",
+    "date": "fifth–sixth centuries CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The Septuagint genealogy makes Job fifth in descent from Abraham through Esau.",
+    "source": "Septuagint Job 42:17a–e",
+    "date": "last centuries BCE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "other",
+    "myth": "",
+    "note": "Abraham is Lot's paternal uncle.",
+    "source": "Genesis 11:27–31",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "shared_myth",
+    "myth": "Migration from Haran to Canaan",
+    "note": "Lot accompanies Abram and Sarai from Haran into Canaan.",
+    "source": "Genesis 12:4–5",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "rescued_by",
+    "myth": "War of the kings",
+    "note": "Abram defeats Lot's captors and recovers him, his goods and household.",
+    "source": "Genesis 14:12–16",
+    "date": "Literary date disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "taught_by",
+    "myth": "Lot welcomes the angels",
+    "note": "Rabbinic tradition says Lot learned hospitality from Abraham.",
+    "source": "Genesis Rabbah 50",
+    "date": "c. fifth century CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "allied",
+    "myth": "Lūṭ believes Ibrāhīm",
+    "note": "Lūṭ accepts Ibrāhīm's message and declares his migration to God.",
+    "source": "Qurʾan 29:26",
+    "date": "610–632 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "contest",
+    "myth": "Debate over God and the elements",
+    "note": "Nimrod debates Abraham about which element or power deserves worship.",
+    "source": "Genesis Rabbah 38:13",
+    "date": "late antiquity",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "punished",
+    "myth": "Abraham cast into the furnace",
+    "note": "Nimrod orders Abraham burned, but God preserves Abraham in the fire.",
+    "source": "Genesis Rabbah 38:13",
+    "date": "late antiquity",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "contest",
+    "myth": "Debate over life, death, and sun",
+    "note": "Nimrod is identified as the unnamed ruler whom Abraham defeats in argument.",
+    "source": "Qur'an 2:258; al-Tabari",
+    "date": "7th–10th centuries",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "fought",
+    "myth": "War of the four kings",
+    "note": "Under the Amraphel equation, Nimrod's coalition is defeated by Abraham.",
+    "source": "Genesis 14; Eruvin 53a",
+    "date": "5th–6th century",
+    "tier": "syncretism"
+   }
+  ],
+  "Allah": [
+   {
+    "stated_by": "jacob",
+    "kind": "gift",
+    "myth": "Divine election of Yaʿqūb",
+    "note": "Guides and elects Yaʿqūb as a prophet and righteous ancestor.",
+    "source": "Qur’an 6, 19, 21, 29, 38",
+    "date": "early seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "rescued_by",
+    "myth": "Ayyūb prays and receives healing",
+    "note": "Allah removes Ayyūb’s distress, provides healing water, and restores his family.",
+    "source": "Qurʾān 21:83–84; 38:41–44",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "judged_by",
+    "myth": "Allah commends Ayyūb’s patience",
+    "note": "Allah praises Ayyūb as patient and an excellent servant.",
+    "source": "Qurʾān 38:44",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Anafiel": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "Admission to the heavenly palaces",
+    "note": "Anafiel is associated with Enoch-Metatron's admission or guidance in heavenly palaces.",
+    "source": "3 Enoch/Hekhalot material",
+    "date": "late antique–medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ancient of Days": [
+   {
+    "stated_by": "daniel",
+    "kind": "shared_myth",
+    "myth": "Vision of the heavenly judgment",
+    "note": "Daniel sees the Ancient of Days enthroned and judging the beastly kingdoms.",
+    "source": "Daniel 7",
+    "date": "c. 167–164 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Angel of YHWH": [
+   {
+    "stated_by": "deborah_and_jael",
+    "kind": "shared_myth",
+    "myth": "The song quotes the angel’s curse against Meroz",
+    "note": "Deborah’s song voice reports the angel’s curse upon Meroz for withholding aid.",
+    "source": "Judges 5:23",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Angel of Yahweh": [
+   {
+    "stated_by": "samson",
+    "kind": "other",
+    "myth": "Annunciation of Samson's birth",
+    "note": "The messenger announces Samson's birth and consecration to his parents before he is born.",
+    "source": "Judges 13",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Angel of the Sun": [
+   {
+    "stated_by": "enoch",
+    "kind": "rescued_by",
+    "myth": "Idrīs ascends to heaven",
+    "note": "The Angel of the Sun helps Idrīs-Enoch ascend in Islamic legend.",
+    "source": "Medieval tafsīr and qiṣaṣ",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Angel/messenger of God": [
+   {
+    "stated_by": "jacob",
+    "kind": "gift",
+    "myth": "Dream of the breeding flocks",
+    "note": "Reveals that God transferred Laban's livestock increase to Jacob.",
+    "source": "Genesis 31:10–13",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "taught",
+    "myth": "Command to leave Laban",
+    "note": "Orders Jacob to leave Laban and return to his homeland.",
+    "source": "Genesis 31:10–13",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "fought",
+    "myth": "Hosea's angelic wrestling tradition",
+    "note": "Hosea identifies Jacob's divine opponent as an angel or messenger.",
+    "source": "Hosea 12:4–5",
+    "date": "traditionally eighth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Angels of God": [
+   {
+    "stated_by": "jacob",
+    "kind": "shared_myth",
+    "myth": "Angels ascend and descend at Bethel",
+    "note": "Jacob sees divine messengers moving between earth and heaven.",
+    "source": "Genesis 28:12",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "shared_myth",
+    "myth": "Angels meet Jacob at Mahanaim",
+    "note": "Divine messengers encounter Jacob during his return journey.",
+    "source": "Genesis 32:2–3",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   }
+  ],
+  "Araqiel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Araqiel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ark/Zion": [
+   {
+    "stated_by": "solomon",
+    "kind": "shared_myth",
+    "myth": "Transfer of Zion to Ethiopia",
+    "note": "Personified Zion leaves Solomon's Jerusalem for Ethiopia, transferring divine election.",
+    "source": "Kəbrä Nägäśt",
+    "date": "principally fourteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Armaros": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Armaros among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Asenath": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Asenath is Joseph's Egyptian wife and the mother of Manasseh and Ephraim.",
+    "source": "Genesis 41:45, 50–52",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "shared_myth",
+    "myth": "Asenath converts and becomes Joseph's heavenly bride",
+    "note": "The romance expands their marriage into Asenath's conversion and a conspiracy against the couple.",
+    "source": "Joseph and Aseneth",
+    "date": "first BCE–second CE, disputed",
+    "tier": "late_accretion"
+   }
+  ],
+  "Asher": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Asher is Joseph's paternal half-brother; no individual encounter is narrated.",
+    "source": "Genesis 35:24–26",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Ashmedai": [
+   {
+    "stated_by": "solomon",
+    "kind": "fought",
+    "myth": "Quest for the shamir",
+    "note": "Solomon has Ashmedai captured through Benaiah to learn the shamir's location.",
+    "source": "Babylonian Talmud, Gittin 68a–b",
+    "date": "fifth–sixth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "deceived_by",
+    "myth": "Loss of ring and throne",
+    "note": "Ashmedai tricks Solomon, steals his ring, hurls him away, and supplants him.",
+    "source": "Babylonian Talmud, Gittin 68a–b",
+    "date": "fifth–sixth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ashtoreth": [
+   {
+    "stated_by": "solomon",
+    "kind": "served",
+    "myth": "Solomon's apostasy",
+    "note": "Solomon goes after the Sidonian goddess under his foreign wives' influence.",
+    "source": "1 Kings 11:5",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Asshur": [
+   {
+    "stated_by": "nimrod",
+    "kind": "shared_myth",
+    "myth": "Foundation of Assyrian cities",
+    "note": "Ambiguous syntax makes either Nimrod or Asshur the founder departing Shinar for Assyria.",
+    "source": "Genesis 10:11",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Awan": [
+   {
+    "stated_by": "adam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jubilees names Awan as Adam and Eve’s daughter and Cain’s wife.",
+    "source": "Jubilees 4",
+    "date": "mid-second century BCE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Jubilees identifies Awan as Cain’s sister.",
+    "source": "Jubilees 4",
+    "date": "c. 150–100 BCE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Cain marries his sister Awan in Jubilees.",
+    "source": "Jubilees 4",
+    "date": "c. 150–100 BCE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jubilees names Awan as Eve’s daughter.",
+    "source": "Jubilees 4",
+    "date": "c. 160–150 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ayyūb’s wife": [
+   {
+    "stated_by": "job",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Post-Qurʾānic narratives commonly name Ayyūb’s faithful wife Raḥma.",
+    "source": "Tafsīr and qiṣaṣ al-anbiyāʾ",
+    "date": "eighth–thirteenth centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "job",
+    "kind": "punished",
+    "myth": "Ayyūb fulfills his oath with a bundle",
+    "note": "Later exegesis says Ayyūb symbolically strikes his wife without violating his oath.",
+    "source": "Tafsīr on Qurʾān 38:44",
+    "date": "eighth–thirteenth centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Azura": [
+   {
+    "stated_by": "adam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jubilees names Azura as Adam and Eve’s daughter and Seth’s wife.",
+    "source": "Jubilees 4",
+    "date": "mid-second century BCE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jubilees names Azura as Eve’s daughter.",
+    "source": "Jubilees 4",
+    "date": "c. 160–150 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Baal": [
+   {
+    "stated_by": "elijah",
+    "kind": "contest",
+    "myth": "Carmel contest",
+    "note": "Elijah challenges Baal’s prophets and mocks Baal’s failure to answer.",
+    "source": "1 Kings 18",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "contest",
+    "myth": "Ilyās rebukes Baʿl worship",
+    "note": "Ilyās condemns his people for invoking Baʿl instead of God.",
+    "source": "Qur’an 37:123–132",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gideon",
+    "kind": "fought",
+    "myth": "Destruction of Baal’s altar",
+    "note": "Gideon destroys Baal’s altar, prompting the polemical name Jerubbaal.",
+    "source": "Judges 6:25–32",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Baal-zebub of Ekron": [
+   {
+    "stated_by": "elijah",
+    "kind": "contest",
+    "myth": "Ahaziah consults Baal-zebub",
+    "note": "Elijah condemns Ahaziah’s consultation of Baal-zebub, without encountering the god.",
+    "source": "2 Kings 1",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Balaam": [
+   {
+    "stated_by": "job",
+    "kind": "served",
+    "myth": "Pharaoh’s advisers debate Israelite oppression",
+    "note": "Rabbinic legend makes Job and Balaam fellow advisers in Pharaoh’s court.",
+    "source": "Rabbinic Exodus interpretive tradition",
+    "date": "third–sixth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Barak": [
+   {
+    "stated_by": "samson",
+    "kind": "shared_myth",
+    "myth": "Catalogue of faithful heroes",
+    "note": "Samson and Barak appear together in a catalogue of figures empowered through faith.",
+    "source": "Hebrews 11:32–34",
+    "date": "later first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Baraka": [
+   {
+    "stated_by": "enoch",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jubilees names Baraka as Enoch's mother.",
+    "source": "Jubilees 4",
+    "date": "second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Baraqel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Baraqel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Bedan": [
+   {
+    "stated_by": "samson",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Rabbinic interpretation identifies Samson with Bedan through the wordplay ben Dan.",
+    "source": "Rabbinic interpretation of 1 Samuel 12:11",
+    "date": "first millennium CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Beelzeboul": [
+   {
+    "stated_by": "solomon",
+    "kind": "served_by",
+    "myth": "Demonic Temple labor",
+    "note": "Solomon compels the demon prince to command demons and assist construction.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ben-ammi": [
+   {
+    "stated_by": "lot",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ben-ammi is Lot's son and grandson through the younger daughter.",
+    "source": "Genesis 19:38",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "Benjamin": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Benjamin is Joseph's full brother, sharing both Jacob and Rachel as parents.",
+    "source": "Genesis 35:24",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "deceived",
+    "myth": "Joseph plants the cup in Benjamin's sack",
+    "note": "Joseph secretly plants his cup and detains Benjamin to test their brothers.",
+    "source": "Genesis 43–44",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Beriah": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Beriah is listed among Joseph's descendants through Ephraim.",
+    "source": "1 Chronicles 7",
+    "date": "dating disputed",
+    "tier": "canonical"
+   }
+  ],
+  "Bildad the Shuhite": [
+   {
+    "stated_by": "job",
+    "kind": "contest",
+    "myth": "Job disputes retribution with Bildad",
+    "note": "Bildad debates Job, defends traditional retribution, and implicates Job’s dead children.",
+    "source": "Job 2; 8; 18; 25",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "rescued",
+    "myth": "Job intercedes for the rebuked friends",
+    "note": "Job’s prayer accompanies Bildad’s required closing sacrifice.",
+    "source": "Job 42:7–9",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "adam",
+    "kind": "other",
+    "myth": "Adam–Christ typology",
+    "note": "Paul opposes Adam’s disobedience and death to Christ’s obedience and life.",
+    "source": "Romans 5; 1 Corinthians 15",
+    "date": "50s CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "rescued_by",
+    "myth": "Harrowing of Hell",
+    "note": "Later Christian tradition depicts Christ liberating Adam from Hades.",
+    "source": "Harrowing of Hell traditions",
+    "date": "late Middle Ages",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "job",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Patristic exegesis treats Job as a type of Christ rather than a companion.",
+    "source": "Patristic Job exegesis",
+    "date": "third–sixth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Commander of YHWH’s army": [
+   {
+    "stated_by": "joshua",
+    "kind": "other",
+    "myth": "Encounter near Jericho",
+    "note": "The armed figure confronts Joshua and orders him to remove his sandal.",
+    "source": "Joshua 5:13–15",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Cupid": [
+   {
+    "stated_by": "delilah",
+    "kind": "shared_myth",
+    "myth": "Rubens's bedroom betrayal scene",
+    "note": "Rubens adds Cupid as classical interpretive imagery within the scene of Delilah's betrayal.",
+    "source": "Rubens, Samson and Delilah",
+    "date": "c. 1609–1610",
+    "tier": "modern"
+   }
+  ],
+  "Cush": [
+   {
+    "stated_by": "nimrod",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Cush is named as Nimrod's father or immediate ancestor.",
+    "source": "Genesis 10:8; 1 Chronicles 1:10",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "gift",
+    "myth": "Transmission of Adam's garments",
+    "note": "Cush gives Nimrod the garments originally made for Adam and Eve.",
+    "source": "Pirke de-Rabbi Eliezer",
+    "date": "8th–9th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dagon": [
+   {
+    "stated_by": "samson",
+    "kind": "fought",
+    "myth": "Dagon's feast and temple collapse",
+    "note": "Samson destroys Dagon's temple and worshippers, enacting the narrative's Yahweh–Dagon rivalry.",
+    "source": "Judges 16:23–30",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Dan": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Dan is Joseph's paternal half-brother; no individual interaction is narrated.",
+    "source": "Genesis 35:24–25",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "David": [
+   {
+    "stated_by": "samson",
+    "kind": "shared_myth",
+    "myth": "Catalogue of faithful heroes",
+    "note": "Samson and David appear together in a catalogue of figures empowered through faith.",
+    "source": "Hebrews 11:32–34",
+    "date": "later first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Dinah": [
+   {
+    "stated_by": "job",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Several later Jewish traditions make Jacob’s daughter Dinah Job’s wife.",
+    "source": "Pseudo-Philo; Testament of Job; Genesis Rabbah",
+    "date": "first century CE onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Edni/Edna": [
+   {
+    "stated_by": "enoch",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Jubilees names Edni or Edna as Enoch's wife.",
+    "source": "Jubilees 4",
+    "date": "second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Eliezer of Damascus": [
+   {
+    "stated_by": "nimrod",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "A late variant makes Eliezer Nimrod's son.",
+    "source": "Medieval aggadic tradition",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Elihu son of Barachel the Buzite": [
+   {
+    "stated_by": "job",
+    "kind": "contest",
+    "myth": "Elihu rebukes Job and the friends",
+    "note": "Elihu attacks Job’s claims and argues that suffering can discipline or instruct.",
+    "source": "Job 32–37",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Eliphaz the Temanite": [
+   {
+    "stated_by": "job",
+    "kind": "contest",
+    "myth": "Job disputes retribution with Eliphaz",
+    "note": "Eliphaz consoles, accuses, and debates Job about suffering and divine justice.",
+    "source": "Job 2–5; 15; 22",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "rescued",
+    "myth": "Job intercedes for the rebuked friends",
+    "note": "Job prays for Eliphaz after YHWH orders sacrifice and intercession.",
+    "source": "Job 42:7–9",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Elisha": [
+   {
+    "stated_by": "elijah",
+    "kind": "served_by",
+    "myth": "Elisha’s call",
+    "note": "Elisha accepts Elijah’s mantle-call and becomes his attendant and successor.",
+    "source": "1 Kings 19:19–21",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "gift",
+    "myth": "Elijah’s final journey",
+    "note": "Elijah leaves Elisha his mantle and an heir’s portion of spirit.",
+    "source": "2 Kings 2",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "taught",
+    "myth": "Ilyās and al-Yasaʿ succession",
+    "note": "Medieval Islamic narratives restore the biblical master-successor relationship.",
+    "source": "Qiṣaṣ al-anbiyāʾ",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Eloim": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A Gnostic recension identifies or pairs Cain with the archontic ruler Eloim.",
+    "source": "Apocryphon of John",
+    "date": "second–third centuries CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Enepsigos": [
+   {
+    "stated_by": "solomon",
+    "kind": "shared_myth",
+    "myth": "Prediction of Solomon's fall",
+    "note": "The triple-shaped lunar demon predicts future events and Solomon's downfall.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Enoch the visionary": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "judged_by",
+    "myth": "Enoch witnesses Abel’s accusation against Cain",
+    "note": "Enoch encounters Abel’s spirit continuing its accusation until Cain’s lineage is destroyed.",
+    "source": "1 Enoch 22:5–7",
+    "date": "third/second century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "shared_myth",
+    "myth": "Enoch sees Cain as a dark bovine",
+    "note": "Enoch’s animal vision represents Cain as a dark bovine killing red Abel.",
+    "source": "1 Enoch 85:3–6",
+    "date": "c. 160 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Enosh": [
+   {
+    "stated_by": "enoch",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Enosh is a named ancestor of Enoch.",
+    "source": "Genesis 5",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ephippas": [
+   {
+    "stated_by": "solomon",
+    "kind": "served_by",
+    "myth": "Lifting the Temple cornerstone",
+    "note": "Solomon captures Ephippas and makes the wind-demon lift a cornerstone.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "allied",
+    "myth": "Binding of Abezithibod",
+    "note": "Ephippas helps Solomon capture and imprison Abezithibod.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ephraim": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ephraim is Joseph's second son by Asenath.",
+    "source": "Genesis 41:50–52",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Esau": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "allied",
+    "myth": "Cainite figures oppose the world-maker",
+    "note": "Irenaeus reports Cain and Esau grouped as spiritual kin opposing the creator.",
+    "source": "Irenaeus, Against Heresies 1.31",
+    "date": "c. 180 CE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "job",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The Septuagint appendix places Job within Esau’s Edomite lineage.",
+    "source": "Septuagint Job 42:17a–e",
+    "date": "last centuries BCE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "killed_by",
+    "myth": "Esau ambushes Nimrod",
+    "note": "Esau kills Nimrod and takes the garments originally made for Adam.",
+    "source": "Pirke de-Rabbi Eliezer 24",
+    "date": "8th–9th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ezeqeel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Ezeqeel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gad": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Gad is Joseph's paternal half-brother; no individual encounter is narrated.",
+    "source": "Genesis 35:24–26",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Gadreel": [
+   {
+    "stated_by": "eve",
+    "kind": "deceived_by",
+    "myth": "Gadreel leads Eve astray",
+    "note": "The fallen angel Gadreel is credited with leading Eve astray.",
+    "source": "1 Enoch 69:6",
+    "date": "first century BCE/CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "adam",
+    "kind": "created_by",
+    "myth": "Creation of Adam",
+    "note": "God creates Adam or humanity from earth, clay, or dust.",
+    "source": "Genesis 1–2; Qurʾān 2, 7",
+    "date": "first millennium BCE; seventh century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "judged_by",
+    "myth": "Eden transgression and judgment",
+    "note": "God questions Adam, sentences him to toil and mortality, and expels him.",
+    "source": "Genesis 3",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "taught_by",
+    "myth": "Teaching of all names",
+    "note": "God teaches Adam all the names, whose knowledge Adam demonstrates to the angels.",
+    "source": "Qurʾān 2:30–34",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Luke places Adam at the genealogy’s end as son of God.",
+    "source": "Luke 3:38",
+    "date": "late first century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "served",
+    "myth": "Lūṭ's prophetic mission",
+    "note": "God appoints Lūṭ as prophet and messenger to his people.",
+    "source": "Qurʾan 7; 21; 26; 37",
+    "date": "610–632 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "rescued_by",
+    "myth": "Punishment of Lūṭ's people",
+    "note": "God saves Lūṭ and his household except his unbelieving wife.",
+    "source": "Qurʾan 7:83; 37:133–135",
+    "date": "610–632 CE",
+    "tier": "canonical"
+   }
+  ],
+  "God / YHWH": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "Enoch walks with God and is taken",
+    "note": "Enoch walks with God before God mysteriously takes him.",
+    "source": "Genesis 5:22–24",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "transformed_by",
+    "myth": "Enoch is glorified as Metatron",
+    "note": "God transforms Enoch, granting wings, glory, a throne, and celestial authority.",
+    "source": "3 Enoch",
+    "date": "fifth–sixth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "God of Israel": [
+   {
+    "stated_by": "daniel",
+    "kind": "gift",
+    "myth": "Daniel receives wisdom and knowledge of dreams",
+    "note": "God grants Daniel exceptional wisdom, knowledge, and insight into dreams.",
+    "source": "Daniel 1–2",
+    "date": "final form c. 164 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "daniel",
+    "kind": "served",
+    "myth": "Daniel prays despite the royal prohibition",
+    "note": "Daniel faithfully prays to God despite the decree that leads to the lions’ pit.",
+    "source": "Daniel 6",
+    "date": "final form c. 164 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "daniel",
+    "kind": "rescued_by",
+    "myth": "Deliverance from the lions’ pit",
+    "note": "God sends an angel who shuts the lions’ mouths and preserves Daniel.",
+    "source": "Daniel 6",
+    "date": "final form c. 164 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "daniel",
+    "kind": "gift",
+    "myth": "Promise to stand at the end",
+    "note": "God’s revelation promises Daniel an allotted portion at the resurrection.",
+    "source": "Daniel 12",
+    "date": "c. 167–164 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esther",
+    "kind": "rescued_by",
+    "myth": "Esther’s unsummoned approach to the king",
+    "note": "God answers Esther’s prayer and changes the king’s spirit to gentleness.",
+    "source": "Greek Additions C–D",
+    "date": "second–first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "judith",
+    "kind": "served",
+    "myth": "Judith prays, credits God, and leads the victory hymn",
+    "note": "Judith seeks divine aid, attributes her victory to God, and leads Israel’s praise.",
+    "source": "Judith 9; 13:4–7, 14–16; 16",
+    "date": "c. 160–70 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "judith",
+    "kind": "gift",
+    "myth": "Dedication of Holofernes’s canopy",
+    "note": "Judith dedicates Holofernes’s canopy and gives the captured spoils to God.",
+    "source": "Judith 16:18–19",
+    "date": "c. 160–70 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hahyah": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "The giants' ominous dreams",
+    "note": "Hahyah seeks Enoch's interpretation of dreams foretelling the giants' destruction.",
+    "source": "Aramaic Book of Giants",
+    "date": "second–first centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ham": [
+   {
+    "stated_by": "nimrod",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Nimrod is Ham's grandson through Cush.",
+    "source": "Genesis 10:6–8",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "other",
+    "myth": "Transmission of Adam's garments",
+    "note": "Ham removes Adam's garments from the ark and transmits them through Cush to Nimrod.",
+    "source": "Pirke de-Rabbi Eliezer",
+    "date": "8th–9th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Haran": [
+   {
+    "stated_by": "lot",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Lot is Haran's son.",
+    "source": "Genesis 11:27–31",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "killed",
+    "myth": "Haran cast into the furnace",
+    "note": "Nimrod casts Haran into the furnace after Abraham, and Haran dies.",
+    "source": "Genesis Rabbah 38:13",
+    "date": "late antiquity",
+    "tier": "syncretism"
+   }
+  ],
+  "Hermes Trismegistus": [
+   {
+    "stated_by": "enoch",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Islamicate learned tradition identifies Enoch-Idrīs with the first Hermes.",
+    "source": "Abū Maʿshar tradition",
+    "date": "ninth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Iblīs": [
+   {
+    "stated_by": "adam",
+    "kind": "deceived_by",
+    "myth": "Temptation at the forbidden tree",
+    "note": "Iblīs tempts Adam and his spouse, causing their lapse and descent.",
+    "source": "Qurʾān 7; 20",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "other",
+    "myth": "Refusal to prostrate",
+    "note": "Iblīs refuses to prostrate to Adam, claiming fiery superiority over clay.",
+    "source": "Qurʾān 2:34; 7:11–18",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "deceived_by",
+    "myth": "Qur’anic temptation and expulsion",
+    "note": "Iblīs whispers to Adam and his spouse and causes their expulsion.",
+    "source": "Qur’an 2, 7, and 20",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "other",
+    "myth": "Iblīs instigates Ayyūb’s affliction",
+    "note": "Later Islamic stories make Iblīs personally cause Ayyūb’s losses and disease.",
+    "source": "Tafsīr and qiṣaṣ al-anbiyāʾ",
+    "date": "eighth–thirteenth centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ibrāhīm/Abraham": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Joseph descends from Abraham and professes adherence to his ancestral religion.",
+    "source": "Genesis genealogy; Qurʾān 12:38",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Idrīs": [
+   {
+    "stated_by": "elijah",
+    "kind": "shared_myth",
+    "myth": "Four living prophets",
+    "note": "Idrīs and Ilyās belong to a reported scheme of four living prophets.",
+    "source": "Medieval Islamic schemes",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Post-Qurʾānic Islamic exegesis identifies Enoch with the prophet Idrīs.",
+    "source": "al-Ṭabarī and Islamic exegesis",
+    "date": "ninth–tenth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Irad": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Irad’s genealogical ancestor through Enoch.",
+    "source": "Genesis 4:17–18",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Isaac": [
+   {
+    "stated_by": "elijah",
+    "kind": "other",
+    "myth": "Patriarchs awakened to pray",
+    "note": "Elijah awakens Isaac separately to pray for redemption.",
+    "source": "Babylonian Talmud, Bava Metzia 85b",
+    "date": "fifth–sixth centuries CE",
+    "tier": "canonical"
+   }
+  ],
+  "Issachar": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Issachar is Joseph's paternal half-brother; no individual encounter is narrated.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Isḥāq/Isaac": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Joseph is Isaac's grandson and names him among the ancestral prophets he follows.",
+    "source": "Genesis genealogy; Qurʾān 12:38",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Jabal": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Jabal’s genealogical ancestor through Lamech and Adah.",
+    "source": "Genesis 4:20",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Jared": [
+   {
+    "stated_by": "enoch",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jared is Enoch's father.",
+    "source": "Genesis 5:18–19",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Jemimah": [
+   {
+    "stated_by": "job",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jemimah is Job’s restored daughter and receives an inheritance.",
+    "source": "Job 42:14–15",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Jephthah": [
+   {
+    "stated_by": "samson",
+    "kind": "shared_myth",
+    "myth": "Catalogue of faithful heroes",
+    "note": "Samson and Jephthah appear together in a catalogue of figures empowered through faith.",
+    "source": "Hebrews 11:32–34",
+    "date": "later first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Jesus": [
+   {
+    "stated_by": "elijah",
+    "kind": "shared_myth",
+    "myth": "Transfiguration",
+    "note": "Elijah appears with Moses and speaks with the transfigured Jesus.",
+    "source": "Mark 9; Matthew 17; Luke 9",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "shared_myth",
+    "myth": "Four living prophets",
+    "note": "Jesus and Ilyās belong to a reported scheme of four living prophets.",
+    "source": "Medieval Islamic schemes",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "shared_myth",
+    "myth": "Jacob's ladder transferred to Jesus",
+    "note": "Christian interpretation places Jacob's ascending and descending angels upon Jesus.",
+    "source": "John 1:51",
+    "date": "first century CE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "jonah",
+    "kind": "other",
+    "myth": "The sign of Jonah",
+    "note": "Jesus invokes Jonah as a sign, connecting his ordeal with resurrection and Nineveh’s repentance.",
+    "source": "Matthew 12:39–41; Luke 11:29–32",
+    "date": "late first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "shared_myth",
+    "myth": "Jesus compares himself with Solomon",
+    "note": "Jesus invokes Solomon's wisdom and glory but declares something greater present.",
+    "source": "Matthew 6, 12; Luke 11–12",
+    "date": "first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "other",
+    "myth": "Cain’s hatred contrasts with Christlike self-giving love",
+    "note": "Cain’s evil murder is contrasted with the self-giving love exemplified by Christ.",
+    "source": "1 John 3:12–16",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Enoch beholds Christ's coming",
+    "note": "Enoch preaches faith in Christ and sees his future coming.",
+    "source": "Moses 6–7",
+    "date": "1830",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "gideon",
+    "kind": "other",
+    "myth": "Christian typology of Gideon’s signs",
+    "note": "Christian interpreters read Gideon’s fleece, jars, torches, and victory as figures of Christ.",
+    "source": "Ambrose and later Christian exegesis",
+    "date": "fourth century onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "other",
+    "myth": "Joseph prefigures Christ",
+    "note": "Christian exegesis typologically parallels Joseph's betrayal, suffering, salvation, and exaltation with Christ.",
+    "source": "Ambrose and Syriac Joseph exegesis",
+    "date": "third–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "joshua",
+    "kind": "identified_with",
+    "myth": "Joshua–Jesus typology",
+    "note": "Christian writers typologically equate Joshua with Jesus through their shared Greek name and succession symbolism.",
+    "source": "Barnabas 12; Justin; Origen, Homilies on Joshua",
+    "date": "second–third centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "samson",
+    "kind": "identified_with",
+    "myth": "Christian typology of Samson",
+    "note": "Christian exegetes interpret Samson as a type of Christ, especially through betrayal and victorious death.",
+    "source": "Augustine's Samson exegesis",
+    "date": "fourth–fifth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jethro": [
+   {
+    "stated_by": "job",
+    "kind": "served",
+    "myth": "Pharaoh’s advisers debate Israelite oppression",
+    "note": "Jethro opposes Pharaoh and flees, contrasting with Job’s alleged silence.",
+    "source": "Rabbinic Exodus interpretive tradition",
+    "date": "third–sixth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jobab": [
+   {
+    "stated_by": "job",
+    "kind": "identified_with",
+    "myth": "Greek appendix identifies Job as Jobab",
+    "note": "The Septuagint appendix equates Job with the Edomite king Jobab.",
+    "source": "Septuagint Job 42:17a–e",
+    "date": "last centuries BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Job’s three daughters": [
+   {
+    "stated_by": "job",
+    "kind": "gift",
+    "myth": "Job gives his daughters heavenly cords",
+    "note": "Job gives them supernatural cords enabling angelic speech and celestial hymnody.",
+    "source": "Testament of Job",
+    "date": "first BCE–second CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Job’s unnamed wife": [
+   {
+    "stated_by": "job",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The Hebrew book presents an unnamed woman as Job’s wife.",
+    "source": "Job 2:9–10",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "contest",
+    "myth": "Job’s wife urges him to curse God",
+    "note": "She urges Job to bless or curse God and die; Job rebukes her.",
+    "source": "Job 2:9–10",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "John the Baptist": [
+   {
+    "stated_by": "elijah",
+    "kind": "identified_with",
+    "myth": "Return of Elijah",
+    "note": "John functionally fulfills Elijah’s expected return in spirit and power.",
+    "source": "Matthew 11, 17; Luke 1:17",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "identified_with",
+    "myth": "John questioned about Elijah",
+    "note": "John denies that he is literally Elijah, creating a canonical variant.",
+    "source": "John 1:21",
+    "date": "first century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jubal": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Jubal’s genealogical ancestor through Lamech and Adah.",
+    "source": "Genesis 4:21",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Judah": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Judah is Joseph's paternal half-brother.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "other",
+    "myth": "Judah proposes selling Joseph",
+    "note": "Judah persuades the brothers to sell Joseph rather than kill him.",
+    "source": "Genesis 37:26–27",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "shared_myth",
+    "myth": "Judah offers himself and Joseph reveals his identity",
+    "note": "Judah's plea to replace Benjamin moves Joseph to reveal himself to his brothers.",
+    "source": "Genesis 44–45",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Judas Iscariot": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "allied",
+    "myth": "Cainite heresiology groups Cain with Judas",
+    "note": "Heresiologists associate reverence for Cain with a positive valuation of Judas.",
+    "source": "Irenaeus and Epiphanius",
+    "date": "c. 180–fourth century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Kenan": [
+   {
+    "stated_by": "enoch",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Kenan is a named ancestor of Enoch.",
+    "source": "Genesis 5",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Keren-happuch": [
+   {
+    "stated_by": "job",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Keren-happuch is Job’s restored daughter and receives an inheritance.",
+    "source": "Job 42:14–15",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Keziah": [
+   {
+    "stated_by": "job",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Keziah is Job’s restored daughter and receives an inheritance.",
+    "source": "Job 42:14–15",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Kokabel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Kokabel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Korah": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "allied",
+    "myth": "Cainite figures oppose the world-maker",
+    "note": "Irenaeus reports Cain and Korah grouped among figures opposing the creator.",
+    "source": "Irenaeus, Against Heresies 1.31",
+    "date": "c. 180 CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Lamech": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Lamech’s ancestor in the Cainite genealogy.",
+    "source": "Genesis 4:17–18",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "shared_myth",
+    "myth": "Lamech invokes Cain’s sevenfold protection",
+    "note": "Lamech magnifies Cain’s sevenfold vengeance into a seventy-sevenfold boast.",
+    "source": "Genesis 4:23–24",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "killed_by",
+    "myth": "Blind Lamech accidentally kills Cain",
+    "note": "Later legend identifies Cain as the victim accidentally shot by blind Lamech.",
+    "source": "Genesis Rabbah 23",
+    "date": "fifth century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Levi": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Levi is Joseph's paternal half-brother; no individual encounter is narrated.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Lot's wife": [
+   {
+    "stated_by": "lot",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is Lot's unnamed wife in Genesis and the Qurʾan.",
+    "source": "Genesis 19; Qurʾan 66:10",
+    "date": "Persian period; seventh century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "deceived_by",
+    "myth": "Betrayal of the angelic guests",
+    "note": "Islamic tradition says she betrays Lūṭ by disclosing his angelic guests.",
+    "source": "Qurʾan 66:10; al-Ṭabarī",
+    "date": "seventh–tenth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Machir": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Machir is Joseph's grandson through Manasseh.",
+    "source": "Genesis 50:23",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Mahalalel": [
+   {
+    "stated_by": "enoch",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Mahalalel is a named ancestor of Enoch.",
+    "source": "Genesis 5",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mahaway": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "Mahaway travels to Enoch",
+    "note": "Mahaway travels to Enoch seeking interpretation of the giants' ominous dreams.",
+    "source": "Aramaic Book of Giants",
+    "date": "second–first centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mahijah/Mahujah": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "Questions prompting Enoch's preaching",
+    "note": "Mahijah or Mahujah questions Enoch and prompts his prophetic preaching.",
+    "source": "Moses 6:40; 7:2",
+    "date": "1830",
+    "tier": "modern"
+   }
+  ],
+  "Manasseh": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Manasseh is Joseph's first son by Asenath.",
+    "source": "Genesis 41:50–51",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Mary": [
+   {
+    "stated_by": "esther",
+    "kind": "identified_with",
+    "myth": "Christian typology of royal intercession",
+    "note": "Christian interpreters treated Esther’s royal intercession as a type of Mary’s heavenly intercession.",
+    "source": "medieval Christian exegesis",
+    "date": "medieval period",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "other",
+    "myth": "Eve–Mary antithesis",
+    "note": "Mary’s obedience typologically reverses Eve’s disobedience; they never meet.",
+    "source": "Justin and Irenaeus",
+    "date": "second century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Mehujael": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Mehujael’s ancestor in the Cainite genealogy.",
+    "source": "Genesis 4:17–18",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Messenger/Angel of YHWH": [
+   {
+    "stated_by": "gideon",
+    "kind": "other",
+    "myth": "Gideon’s call and offering",
+    "note": "The messenger calls Gideon, consumes his offering with fire, and disappears.",
+    "source": "Judges 6:11–24",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Messiah": [
+   {
+    "stated_by": "elijah",
+    "kind": "served",
+    "myth": "Elijah heralds Messiah",
+    "note": "Elijah heralds, attends, and conveys information about the coming Messiah.",
+    "source": "Sanhedrin 98a and later midrash",
+    "date": "fifth–sixth centuries CE and later",
+    "tier": "late_accretion"
+   }
+  ],
+  "Methuselah": [
+   {
+    "stated_by": "enoch",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Enoch fathers Methuselah at age sixty-five.",
+    "source": "Genesis 5:21",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "taught",
+    "myth": "Transmission of Enoch's books",
+    "note": "Enoch gives Methuselah revealed books and instruction.",
+    "source": "1 Enoch 81–82, 91",
+    "date": "third–first centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "taught",
+    "myth": "Enoch's final household instruction",
+    "note": "Enoch gives Methuselah ethical, liturgical, and priestly instruction.",
+    "source": "2 Enoch 36–69",
+    "date": "date disputed",
+    "tier": "late_accretion"
+   }
+  ],
+  "Methushael": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Methushael’s ancestor in the Cainite genealogy.",
+    "source": "Genesis 4:17–18",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Moab": [
+   {
+    "stated_by": "lot",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Moab is Lot's son and grandson through the elder daughter.",
+    "source": "Genesis 19:37",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "Molech": [
+   {
+    "stated_by": "solomon",
+    "kind": "served",
+    "myth": "Solomon's apostasy",
+    "note": "Masoretic wording attributes a shrine for Molech to Solomon.",
+    "source": "1 Kings 11:7",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Moses": [
+   {
+    "stated_by": "elijah",
+    "kind": "shared_myth",
+    "myth": "Transfiguration",
+    "note": "Elijah and Moses appear together and speak with Jesus.",
+    "source": "Mark 9; Matthew 17; Luke 9",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "shared_myth",
+    "myth": "Job placed in the time of Moses",
+    "note": "One rabbinic strand makes Job Moses’ contemporary and says Moses wrote his book.",
+    "source": "b. Bava Batra 15a",
+    "date": "third–sixth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "served_by",
+    "myth": "Moses carries Joseph's bones from Egypt",
+    "note": "Moses fulfills Joseph's oath by carrying his remains during the Exodus.",
+    "source": "Exodus 13:19",
+    "date": "dating disputed",
+    "tier": "canonical"
+   }
+  ],
+  "Muḥammad": [
+   {
+    "stated_by": "adam",
+    "kind": "shared_myth",
+    "myth": "Meeting in the first heaven",
+    "note": "During the miʿrāj, Muḥammad meets Adam in the first heaven.",
+    "source": "Ascension literature and hadith",
+    "date": "Islamic tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Naamah": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Naamah’s genealogical ancestor through Lamech and Zillah.",
+    "source": "Genesis 4:22",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   }
+  ],
+  "Naphtali": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Naphtali is Joseph's paternal half-brother; Genesis narrates no individual interaction.",
+    "source": "Genesis 35:24–25",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Noah": [
+   {
+    "stated_by": "adam",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Noah descends from Adam, although no canonical meeting is narrated.",
+    "source": "Genesis 5",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Enoch is Noah's great-grandfather.",
+    "source": "Genesis 5",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "Warnings transmitted toward Noah's era",
+    "note": "Enoch's warnings and records are transmitted through his family toward Noah.",
+    "source": "1 Enoch 10, 65–69, 106–107",
+    "date": "third–first centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "job",
+    "kind": "shared_myth",
+    "myth": "Three exemplary righteous men",
+    "note": "Job and Noah appear together as proverbial righteous men without meeting.",
+    "source": "Ezekiel 14:14, 20",
+    "date": "early sixth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "shared_myth",
+    "myth": "Examples of unbelieving wives",
+    "note": "Lot's wife and Noah's wife are paired as unbelievers married to righteous servants.",
+    "source": "Qurʾan 66:10",
+    "date": "610–632 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Nimrod is Noah's great-grandson through Ham and Cush.",
+    "source": "Genesis 10",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "other",
+    "myth": "Transmission of Adam's garments",
+    "note": "The later garment-chain passes through Noah's ark before eventually reaching Nimrod.",
+    "source": "Pirke de-Rabbi Eliezer",
+    "date": "8th–9th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Obyzouth": [
+   {
+    "stated_by": "solomon",
+    "kind": "punished",
+    "myth": "Binding of Obyzouth",
+    "note": "Solomon binds and publicly displays the infant-strangling female demon.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ohyah": [
+   {
+    "stated_by": "enoch",
+    "kind": "other",
+    "myth": "The giants' ominous dreams",
+    "note": "Ohyah seeks Enoch's interpretation of dreams foretelling the giants' destruction.",
+    "source": "Aramaic Book of Giants",
+    "date": "second–first centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "One like a son of man": [
+   {
+    "stated_by": "daniel",
+    "kind": "shared_myth",
+    "myth": "Vision of dominion bestowed",
+    "note": "Daniel sees this humanlike heavenly figure receive everlasting dominion.",
+    "source": "Daniel 7",
+    "date": "c. 167–164 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ornias": [
+   {
+    "stated_by": "solomon",
+    "kind": "fought",
+    "myth": "Binding of Ornias",
+    "note": "Solomon binds the child-attacking demon with the divine-seal ring.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "served_by",
+    "myth": "Summoning Beelzeboul",
+    "note": "The bound Ornias is forced to summon Beelzeboul before Solomon.",
+    "source": "Testament of Solomon",
+    "date": "early Roman centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Perun": [
+   {
+    "stated_by": "elijah",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Slavic Christianity transfers selected thunder, rain, and fiery-vehicle functions from Perun to Elijah.",
+    "source": "Slavic folk-Christian traditions",
+    "date": "medieval and later",
+    "tier": "syncretism"
+   }
+  ],
+  "Phanuel": [
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Court of the Chosen One",
+    "note": "Enoch sees Phanuel attending the Chosen One as angel of repentance and hope.",
+    "source": "1 Enoch 40",
+    "date": "around turn of era",
+    "tier": "attested"
+   }
+  ],
+  "Phinehas": [
+   {
+    "stated_by": "elijah",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Late midrash identifies Elijah with Phinehas because both display covenantal zeal.",
+    "source": "Pirkei de-Rabbi Eliezer 29",
+    "date": "eighth–ninth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Potiphar": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "served",
+    "myth": "Joseph administers Potiphar's household",
+    "note": "Potiphar purchases Joseph and appoints him steward over his household.",
+    "source": "Genesis 37:36; 39",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "punished_by",
+    "myth": "Potiphar imprisons Joseph after the accusation",
+    "note": "Potiphar has Joseph imprisoned after hearing his wife's allegation.",
+    "source": "Genesis 39",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Potiphar’s wife": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "seduced_by",
+    "myth": "Potiphar's wife propositions Joseph",
+    "note": "She repeatedly demands sex from Joseph, who refuses and flees.",
+    "source": "Genesis 39",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "deceived_by",
+    "myth": "The rejected wife falsely accuses Joseph",
+    "note": "She uses Joseph's abandoned garment to accuse him of attempted sexual assault.",
+    "source": "Genesis 39",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Pravuil/Vreveil": [
+   {
+    "stated_by": "enoch",
+    "kind": "taught_by",
+    "myth": "Production of Enoch's heavenly books",
+    "note": "The archangel instructs Enoch and assists his production of hundreds of books.",
+    "source": "2 Enoch 22–23",
+    "date": "date disputed",
+    "tier": "late_accretion"
+   }
+  ],
+  "Prince of Persia": [
+   {
+    "stated_by": "daniel",
+    "kind": "contest",
+    "myth": "Obstruction of Daniel’s revelatory messenger",
+    "note": "This celestial adversary delays the messenger carrying an answer to Daniel.",
+    "source": "Daniel 10",
+    "date": "c. 167–164 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Rachel": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Rachel is Joseph's mother; she dies before his adult story begins.",
+    "source": "Genesis 30:22–24; 35:24",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Raguel": [
+   {
+    "stated_by": "enoch",
+    "kind": "taught_by",
+    "myth": "Journey through cosmic regions",
+    "note": "Raguel shows Enoch cosmic regions and vengeance upon errant luminaries.",
+    "source": "1 Enoch 20, 23",
+    "date": "third–second centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Reuben": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Reuben is Joseph's paternal half-brother.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "rescued_by",
+    "myth": "Reuben attempts to save Joseph from murder",
+    "note": "Reuben redirects the brothers toward the pit, intending to return Joseph safely to Jacob.",
+    "source": "Genesis 37:21–30",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Saint George": [
+   {
+    "stated_by": "elijah",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Levantine traditions make Saint George cultically interchangeable with Elijah and al-Khiḍr.",
+    "source": "Levantine and Druze cult traditions",
+    "date": "medieval and later",
+    "tier": "syncretism"
+   }
+  ],
+  "Samuel": [
+   {
+    "stated_by": "samson",
+    "kind": "shared_myth",
+    "myth": "Catalogue of faithful heroes",
+    "note": "Samson and Samuel appear together in a catalogue of figures empowered through faith.",
+    "source": "Hebrews 11:32–34",
+    "date": "later first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Sarah": [
+   {
+    "stated_by": "lot",
+    "kind": "shared_myth",
+    "myth": "Migration from Haran to Canaan",
+    "note": "Sarah travels with Abram and Lot from Haran into Canaan.",
+    "source": "Genesis 11:31; 12:5",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "Saraqiel/Sariel": [
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Assembly of the holy angels",
+    "note": "Saraqiel or Sariel appears among holy angels associated with spirits or human sin.",
+    "source": "1 Enoch 9, 20",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sariel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Sariel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Satan": [
+   {
+    "stated_by": "adam",
+    "kind": "deceived_by",
+    "myth": "Temptation and penitence",
+    "note": "Satan deceives the first couple and later obstructs their penitence.",
+    "source": "Life of Adam and Eve",
+    "date": "first centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "other",
+    "myth": "Satan refuses to honor Adam",
+    "note": "Satan says he fell after refusing Michael’s command to honor God’s image in Adam.",
+    "source": "Life of Adam and Eve",
+    "date": "first centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some later legendary forms make Satan Cain’s father through Eve.",
+    "source": "later Jewish and Islamic legends",
+    "date": "late antique–medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "taught_by",
+    "myth": "Satan instructs Cain how to murder",
+    "note": "Islamic tales sometimes have Satan demonstrate or instruct Cain in killing Abel.",
+    "source": "Stories of the Prophets",
+    "date": "ninth–eleventh centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Vision of Satan's chain",
+    "note": "Enoch sees Satan holding a great chain over the earth.",
+    "source": "Moses 7:26",
+    "date": "1830",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "deceived_by",
+    "myth": "Satan employs the serpent",
+    "note": "Satan uses the serpent to bring about Eve’s deception.",
+    "source": "Life of Adam and Eve",
+    "date": "early centuries CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "deceived_by",
+    "myth": "Interruption of Eve’s river penance",
+    "note": "Disguised as an angel, Satan persuades Eve to abandon her penance early.",
+    "source": "Latin Life of Adam and Eve",
+    "date": "early centuries CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "job",
+    "kind": "fought",
+    "myth": "Job destroys Satan’s idol",
+    "note": "Job destroys Satan’s idol, and Satan retaliates through disguises and disasters.",
+    "source": "Testament of Job",
+    "date": "first BCE–second CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Satan/Lucifer": [
+   {
+    "stated_by": "nimrod",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Patristic typology and modern prophecy portray Nimrod as Satanic or Antichrist-like.",
+    "source": "Patristic and prophecy literature",
+    "date": "late antiquity–modern",
+    "tier": "modern"
+   }
+  ],
+  "Semiramis": [
+   {
+    "stated_by": "nimrod",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Hislopian systems claim Semiramis was Nimrod's wife; ancient evidence does not support it.",
+    "source": "Hislop, The Two Babylons",
+    "date": "1853/1858 onward",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some Hislop-derived accounts additionally claim Semiramis was Nimrod's mother.",
+    "source": "Hislop-derived literature",
+    "date": "19th century onward",
+    "tier": "modern"
+   }
+  ],
+  "Seth": [
+   {
+    "stated_by": "adam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Adam fathers Seth in his own likeness at the age of 130.",
+    "source": "Genesis 4:25; 5:3",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "taught",
+    "myth": "Adam’s final traditions",
+    "note": "Adam transmits final traditions or counter-Genesis revelation to Seth.",
+    "source": "Life of Adam and Eve; Apocalypse of Adam",
+    "date": "first–third centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "shared_myth",
+    "myth": "Seth replaces the Abel whom Cain killed",
+    "note": "Seth is appointed as replacement seed for Abel, Cain’s murdered brother.",
+    "source": "Genesis 4:25",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Seth is a named ancestor of Enoch.",
+    "source": "Genesis 5",
+    "date": "sixth–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Eve bears and names Seth as replacement seed for Abel.",
+    "source": "Genesis 4:25",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Shamsiel": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Judgment of the descended Watchers",
+    "note": "Enoch's collective judgment addresses Shamsiel among the descended Watchers.",
+    "source": "1 Enoch 6–8",
+    "date": "third–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Shem": [
+   {
+    "stated_by": "adam",
+    "kind": "served_by",
+    "myth": "Transport of Adam’s body",
+    "note": "Shem, often identified with Melchizedek, transports Adam’s body to Golgotha.",
+    "source": "Cave of Treasures",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "killed_by",
+    "myth": "Dismemberment of Nimrod",
+    "note": "Modern Hislop-derived retellings allege that Shem executed and dismembered Nimrod.",
+    "source": "Modern Hislop-derived retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Shemihazah": [
+   {
+    "stated_by": "enoch",
+    "kind": "judged",
+    "myth": "Rejected petition of the Watchers",
+    "note": "Enoch carries Shemihazah's petition and announces condemnation of the Watchers.",
+    "source": "1 Enoch 6, 12–16",
+    "date": "third–second centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Shuthelah": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Shuthelah is listed among Joseph's descendants through Ephraim.",
+    "source": "Numbers and Chronicles genealogies",
+    "date": "dating disputed",
+    "tier": "canonical"
+   }
+  ],
+  "Simeon": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Simeon is Joseph's paternal half-brother.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "punished",
+    "myth": "Joseph binds Simeon as a hostage",
+    "note": "Joseph imprisons Simeon until the brothers return to Egypt with Benjamin.",
+    "source": "Genesis 42:24",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Sitis/Sitidos": [
+   {
+    "stated_by": "job",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The Testament names Sitis or Sitidos as Job’s first wife.",
+    "source": "Testament of Job",
+    "date": "first BCE–second CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "job",
+    "kind": "allied",
+    "myth": "Sitis sustains Job during Satan’s attack",
+    "note": "Sitis supports Job, sells her hair for bread, and dies after lamenting.",
+    "source": "Testament of Job",
+    "date": "first BCE–second CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Terah": [
+   {
+    "stated_by": "lot",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Lot is Terah's grandson through Haran.",
+    "source": "Genesis 11:27–31",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "shared_myth",
+    "myth": "Migration from Ur to Haran",
+    "note": "Terah leads Lot and the ancestral household from Ur to Haran.",
+    "source": "Genesis 11:31",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "served_by",
+    "myth": "Abraham delivered to Nimrod",
+    "note": "Expanded legends make Terah a court servant who delivers Abraham to Nimrod.",
+    "source": "Genesis Rabbah 38:13; later midrash",
+    "date": "late antiquity–medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Chosen One / Son of Man": [
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Vision of the concealed judge",
+    "note": "Enoch beholds the preexistent eschatological judge concealed with God.",
+    "source": "1 Enoch 46–48, 62–71",
+    "date": "late first BCE–first CE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "identified_with",
+    "myth": "Enoch's disputed investiture",
+    "note": "Chapter 71 may identify Enoch with the Son of Man, though interpretation remains disputed.",
+    "source": "1 Enoch 71",
+    "date": "around turn of era",
+    "tier": "modern"
+   }
+  ],
+  "The Head of Days": [
+   {
+    "stated_by": "enoch",
+    "kind": "shared_myth",
+    "myth": "Heavenly court of judgment",
+    "note": "Enoch sees the enthroned Head of Days with the Chosen One.",
+    "source": "1 Enoch 46–48",
+    "date": "around turn of era",
+    "tier": "attested"
+   }
+  ],
+  "The dragon": [
+   {
+    "stated_by": "daniel",
+    "kind": "killed",
+    "myth": "Killing of the worshipped dragon",
+    "note": "Daniel refuses to worship the cult animal and kills it with a prepared mixture.",
+    "source": "Bel 23–30",
+    "date": "Hellenistic period",
+    "tier": "canonical"
+   }
+  ],
+  "Tubal-Cain": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Cain is Tubal-Cain’s genealogical ancestor through Lamech and Zillah.",
+    "source": "Genesis 4:22",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "shared_myth",
+    "myth": "Tubal-Cain assists Lamech’s accidental shooting",
+    "note": "Later legend makes Tubal-Cain direct blind Lamech when Lamech accidentally kills Cain.",
+    "source": "later midrash",
+    "date": "late antique",
+    "tier": "late_accretion"
+   }
+  ],
+  "Unnamed angel of YHWH": [
+   {
+    "stated_by": "elijah",
+    "kind": "rescued_by",
+    "myth": "Elijah beneath the broom tree",
+    "note": "The angel twice supplies food and water to the despairing prophet.",
+    "source": "1 Kings 19:5–7",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "taught_by",
+    "myth": "Third captain approaches Elijah",
+    "note": "The angel authorizes Elijah to descend safely with the third captain.",
+    "source": "2 Kings 1:15",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Unnamed man": [
+   {
+    "stated_by": "jacob",
+    "kind": "fought",
+    "myth": "Night wrestling at the Jabbok",
+    "note": "Wrestles Jacob until dawn and wounds his hip.",
+    "source": "Genesis 32:23–33",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "transformed_by",
+    "myth": "Renaming after the Jabbok struggle",
+    "note": "Blesses Jacob and gives him the name Israel.",
+    "source": "Genesis 32:23–33",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   }
+  ],
+  "Uriel": [
+   {
+    "stated_by": "adam",
+    "kind": "shared_myth",
+    "myth": "Angelic service for Adam",
+    "note": "Uriel appears among named angels in portions of Adam literature; his role varies.",
+    "source": "Adam literature recensions",
+    "date": "first centuries CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "enoch",
+    "kind": "taught_by",
+    "myth": "Revelation of luminaries and cosmic places",
+    "note": "Uriel guides Enoch and explains celestial regions, history, and luminaries.",
+    "source": "1 Enoch 17–36, 72–82",
+    "date": "third–second centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "fought",
+    "myth": "Primordial angelic rivalry",
+    "note": "Uriel opposes Jacob's exalted heavenly counterpart in the fragmentary account.",
+    "source": "Prayer of Joseph",
+    "date": "Second Temple–early Roman",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "taught",
+    "myth": "Recall of Jacob's heavenly identity",
+    "note": "Uriel reminds Jacob that Israel is his primordial angelic name.",
+    "source": "Prayer of Joseph",
+    "date": "Second Temple–early Roman",
+    "tier": "syncretism"
+   }
+  ],
+  "Venus": [
+   {
+    "stated_by": "delilah",
+    "kind": "shared_myth",
+    "myth": "Rubens's bedroom betrayal scene",
+    "note": "Rubens adds Venus as classical interpretive imagery within the scene of Delilah's betrayal.",
+    "source": "Rubens, Samson and Delilah",
+    "date": "c. 1609–1610",
+    "tier": "modern"
+   }
+  ],
+  "YHWH": [
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "gift",
+    "myth": "Cain presents produce as an offering",
+    "note": "Cain offers fruit of the ground, but YHWH does not regard it.",
+    "source": "Genesis 4:3–5",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "taught",
+    "myth": "YHWH warns Cain about crouching sin",
+    "note": "YHWH warns the angry Cain that sin desires him and must be mastered.",
+    "source": "Genesis 4:6–7",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "judged_by",
+    "myth": "YHWH interrogates Cain after Abel’s murder",
+    "note": "YHWH questions Cain and exposes Abel’s blood crying from the ground.",
+    "source": "Genesis 4:9–10",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "punished_by",
+    "myth": "Cain is cursed and exiled",
+    "note": "YHWH curses Cain from the soil and condemns him to wandering.",
+    "source": "Genesis 4:11–12",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "cain_and_abel",
+    "kind": "gift",
+    "myth": "YHWH grants Cain a protective sign",
+    "note": "YHWH protects Cain from retaliatory killing with a sign and sevenfold vengeance.",
+    "source": "Genesis 4:15",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "deborah_and_jael",
+    "kind": "served",
+    "myth": "Deborah commands Barak and sings YHWH’s victory",
+    "note": "Deborah transmits YHWH’s command, announces his aid, and praises his victory.",
+    "source": "Judges 4:6–14; 5:2–31",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "deborah_and_jael",
+    "kind": "allied",
+    "myth": "Jael fulfills the divinely foretold defeat of Sisera",
+    "note": "YHWH’s victory plan is indirectly fulfilled when Jael kills Sisera.",
+    "source": "Judges 4:9, 21–23; 5:23–27",
+    "date": "first millennium BCE, disputed",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "served",
+    "myth": "Elijah’s prophetic mission",
+    "note": "Elijah obeys YHWH’s commands and champions his exclusive worship.",
+    "source": "1 Kings 17–19, 21; 2 Kings 1–2",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "gift",
+    "myth": "Carmel contest",
+    "note": "YHWH answers Elijah with fire and subsequently restores rain.",
+    "source": "1 Kings 18",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elijah",
+    "kind": "taught_by",
+    "myth": "Revelation at Horeb",
+    "note": "YHWH corrects Elijah’s isolation claim and commissions further succession.",
+    "source": "1 Kings 19",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "gideon",
+    "kind": "served",
+    "myth": "Gideon’s call and war against Midian",
+    "note": "YHWH commissions Gideon, reassures him, reduces his army, and grants victory.",
+    "source": "Judges 6–8",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gideon",
+    "kind": "gift",
+    "myth": "The fleece signs",
+    "note": "YHWH grants Gideon two miraculous fleece signs confirming his promised deliverance.",
+    "source": "Judges 6:36–40",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "gift",
+    "myth": "Bethel visions and covenant promises",
+    "note": "Appears to Jacob, promises land, descendants, protection, and return.",
+    "source": "Genesis 28, 31, 35, 46",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "transformed_by",
+    "myth": "Jacob renamed Israel at Bethel",
+    "note": "Renames Jacob Israel and renews ancestral promises.",
+    "source": "Genesis 35:9–12",
+    "date": "first millennium BCE final form",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jacob",
+    "kind": "fought",
+    "myth": "Jacob strives with God",
+    "note": "Hosea recalls Jacob struggling with God and seeking a blessing.",
+    "source": "Hosea 12:4–5",
+    "date": "traditionally eighth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "job",
+    "kind": "judged_by",
+    "myth": "The heavenly court and Job’s testing",
+    "note": "YHWH praises Job and permits the accuser to test him under limits.",
+    "source": "Job 1–2",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "taught_by",
+    "myth": "YHWH answers Job from the whirlwind",
+    "note": "YHWH confronts Job with creation’s vastness without explaining his suffering.",
+    "source": "Job 38–42",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "gift",
+    "myth": "Job’s fortunes and family are restored",
+    "note": "YHWH accepts Job’s intercession and restores his prosperity and family.",
+    "source": "Job 42:7–17",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jonah",
+    "kind": "served",
+    "myth": "Jonah’s two commissions to preach against Nineveh",
+    "note": "YHWH twice commissions Jonah, who eventually delivers the warning to Nineveh.",
+    "source": "Jonah 1:1–3; 3:1–4",
+    "date": "late 6th–4th centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jonah",
+    "kind": "punished_by",
+    "myth": "Storm and confinement following Jonah’s flight",
+    "note": "YHWH sends the storm and appoints the fish after Jonah flees.",
+    "source": "Jonah 1:4–17",
+    "date": "late 6th–4th centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jonah",
+    "kind": "rescued_by",
+    "myth": "Deliverance from the great fish",
+    "note": "YHWH hears Jonah’s prayer and commands the fish to expel him.",
+    "source": "Jonah 2:1–10",
+    "date": "late 6th–4th centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "jonah",
+    "kind": "taught_by",
+    "myth": "Plant, worm, wind, and lesson about Nineveh",
+    "note": "YHWH uses appointed creatures and weather to challenge Jonah’s lack of pity.",
+    "source": "Jonah 4:4–11",
+    "date": "late 6th–4th centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "joshua",
+    "kind": "served",
+    "myth": "Joshua’s leadership, conquest, and covenant",
+    "note": "Joshua obeys YHWH’s commands and leads Israel under divine authority.",
+    "source": "Numbers 27; Deuteronomy 31; Joshua 1–24",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "joshua",
+    "kind": "gift",
+    "myth": "Conquest and allotment of Canaan",
+    "note": "YHWH promises Joshua divine presence and gives Israel the land.",
+    "source": "Joshua 1–24",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "rescued_by",
+    "myth": "Destruction of Sodom",
+    "note": "YHWH spares Lot because he remembers Abraham.",
+    "source": "Genesis 19:16, 29",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "gift",
+    "myth": "Dream at Gibeon",
+    "note": "YHWH appears to Solomon and grants wisdom, riches, and honor.",
+    "source": "1 Kings 3",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "punished_by",
+    "myth": "Solomon's apostasy",
+    "note": "YHWH promises to divide Solomon's kingdom because he follows foreign gods.",
+    "source": "1 Kings 11",
+    "date": "seventh–fifth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "solomon",
+    "kind": "gift",
+    "myth": "Prophetic kingship",
+    "note": "God grants Solomon prophecy, command of wind, and authority over jinn.",
+    "source": "Qur’an 21, 27, 34, 38",
+    "date": "early seventh century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "YHWH / God": [
+   {
+    "stated_by": "nimrod",
+    "kind": "shared_myth",
+    "myth": "Mighty hunter before YHWH",
+    "note": "Nimrod is called a mighty hunter before YHWH; no direct speech occurs.",
+    "source": "Genesis 10:8–9",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nimrod",
+    "kind": "killed_by",
+    "myth": "Nimrod's death by gnats",
+    "note": "God destroys Nimrod through an army of gnats or one brain-tormenting gnat.",
+    "source": "Medieval Islamic traditions",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "YHWH God": [
+   {
+    "stated_by": "eve",
+    "kind": "created_by",
+    "myth": "Creation of the woman",
+    "note": "God builds Eve from the human’s side as his corresponding partner.",
+    "source": "Genesis 2",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "judged_by",
+    "myth": "Judgment after eating the fruit",
+    "note": "God questions Eve and pronounces an oracle concerning pregnancy, desire, and rule.",
+    "source": "Genesis 3",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "eve",
+    "kind": "punished_by",
+    "myth": "Expulsion from Eden",
+    "note": "God clothes Eve and Adam, then expels them from Eden.",
+    "source": "Genesis 3",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "YHWH/God": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "allied",
+    "myth": "Joseph prospers and preserves life through divine providence",
+    "note": "God grants Joseph favor, dream interpretation, authority, and the means to preserve life.",
+    "source": "Genesis 39–50",
+    "date": "final form first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Yahweh": [
+   {
+    "stated_by": "samson",
+    "kind": "other",
+    "myth": "Prenatal election and blessing",
+    "note": "Yahweh chooses Samson before birth, blesses him, and appoints him to begin Israel's deliverance.",
+    "source": "Judges 13",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "samson",
+    "kind": "gift",
+    "myth": "Spirit-empowered exploits",
+    "note": "Yahweh's spirit repeatedly grants Samson extraordinary strength against the Philistines.",
+    "source": "Judges 13–15",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "samson",
+    "kind": "gift",
+    "myth": "Water from Lehi",
+    "note": "Yahweh answers Samson's plea by opening a hollow and providing water.",
+    "source": "Judges 15:18–19",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "samson",
+    "kind": "other",
+    "myth": "Samson's shaving and capture",
+    "note": "Yahweh departs after Samson's consecrated hair is shaved, leaving him powerless.",
+    "source": "Judges 16:17–21",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "samson",
+    "kind": "gift",
+    "myth": "Final prayer and temple collapse",
+    "note": "Yahweh answers Samson's final prayer by restoring strength for the fatal collapse.",
+    "source": "Judges 16:28–30",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Zare": [
+   {
+    "stated_by": "job",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The Septuagint appendix makes Zare or Zerah the father of Jobab-Job.",
+    "source": "Septuagint Job 42:17a–e",
+    "date": "last centuries BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Zebulun": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Zebulun is Joseph's paternal half-brother; no individual encounter is narrated.",
+    "source": "Genesis 35:23–24",
+    "date": "dating disputed",
+    "tier": "attested"
+   }
+  ],
+  "Zophar the Naamathite": [
+   {
+    "stated_by": "job",
+    "kind": "contest",
+    "myth": "Job disputes retribution with Zophar",
+    "note": "Zophar debates Job and claims that Job deserves still greater punishment.",
+    "source": "Job 2; 11; 20",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "job",
+    "kind": "rescued",
+    "myth": "Job intercedes for the rebuked friends",
+    "note": "Job’s prayer accompanies Zophar’s required closing sacrifice.",
+    "source": "Job 42:7–9",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Zulaykhā/Rāʿīl": [
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "seduced_by",
+    "myth": "Zulaykhā pursues Joseph",
+    "note": "Later Islamic literature names the master's wife and expands her pursuit of Joseph.",
+    "source": "Islamic commentary and Yūsuf–Zulaykhā romances",
+    "date": "medieval period onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "joseph_the_dreamer",
+    "kind": "consort_of",
+    "myth": "Repentant Zulaykhā marries Joseph",
+    "note": "Persian romance makes the restored, repentant Zulaykhā Joseph's lawful wife.",
+    "source": "Jāmī, Yūsuf u Zulaykhā",
+    "date": "ca. 1483",
+    "tier": "late_accretion"
+   }
+  ],
+  "the Gnostic creator/ruler": [
+   {
+    "stated_by": "adam",
+    "kind": "created_by",
+    "myth": "Counter-Genesis creation",
+    "note": "A subordinate cosmic ruler creates or divides Adam and Eve, who formerly possessed superior glory.",
+    "source": "Apocalypse of Adam",
+    "date": "second–third century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "the Son of Man": [
+   {
+    "stated_by": "jonah",
+    "kind": "shared_myth",
+    "myth": "Three days in fish and earth",
+    "note": "Matthew compares Jonah’s three days in the fish with the Son of Man’s burial.",
+    "source": "Matthew 12:40",
+    "date": "late first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "the accuser": [
+   {
+    "stated_by": "job",
+    "kind": "other",
+    "myth": "The heavenly challenge and two tests",
+    "note": "The accuser challenges Job’s piety and inflicts losses, bereavement, and disease.",
+    "source": "Job 1–2",
+    "date": "sixth–fourth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "the angels": [
+   {
+    "stated_by": "adam",
+    "kind": "other",
+    "myth": "Angels prostrate before Adam",
+    "note": "The angels fail Adam’s naming test and prostrate before him at God’s command.",
+    "source": "Qurʾān 2:30–34",
+    "date": "seventh century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "adam",
+    "kind": "shared_myth",
+    "myth": "Debate over humanity’s creation",
+    "note": "Ministering angels debate whether Adam or humanity should be created.",
+    "source": "Genesis Rabbah 8",
+    "date": "fifth century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "the devil": [
+   {
+    "stated_by": "deborah_and_jael",
+    "kind": "fought",
+    "myth": "Jael allegorically defeats the devil",
+    "note": "Medieval Christian allegory casts Sisera as the devil and Jael as his vanquisher.",
+    "source": "Medieval Christian typology",
+    "date": "medieval period",
+    "tier": "late_accretion"
+   }
+  ],
+  "the elder daughter": [
+   {
+    "stated_by": "lot",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Lot is the father of the elder daughter.",
+    "source": "Genesis 19:8, 30–37",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "seduced_by",
+    "myth": "Incest in the cave",
+    "note": "She intoxicates Lot and has intercourse with him while he is unaware.",
+    "source": "Genesis 19:31–33",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "the serpent": [
+   {
+    "stated_by": "eve",
+    "kind": "deceived_by",
+    "myth": "Temptation at the prohibited tree",
+    "note": "The serpent disputes God’s warning and deceives Eve into eating.",
+    "source": "Genesis 3",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "the two angels": [
+   {
+    "stated_by": "lot",
+    "kind": "rescued_by",
+    "myth": "Escape from Sodom",
+    "note": "The angels seize Lot and his family, lead them out and protect him.",
+    "source": "Genesis 19:10–22",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "served",
+    "myth": "Lot welcomes the angels",
+    "note": "Lot shelters the disguised angels and prepares them a feast.",
+    "source": "Genesis 19:1–3",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "the younger daughter": [
+   {
+    "stated_by": "lot",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Lot is the father of the younger daughter.",
+    "source": "Genesis 19:8, 30–38",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lot",
+    "kind": "seduced_by",
+    "myth": "Incest in the cave",
+    "note": "She has intercourse with the intoxicated Lot while he is unaware.",
+    "source": "Genesis 19:34–35",
+    "date": "Persian-period final form",
+    "tier": "attested"
+   }
+  ],
+  "Ṣakhr": [
+   {
+    "stated_by": "solomon",
+    "kind": "deceived_by",
+    "myth": "Solomon's lost kingship",
+    "note": "In later Islamic accounts, Ṣakhr steals Solomon's ring or occupies his throne.",
+    "source": "Tafsīr and qiṣaṣ traditions",
+    "date": "ninth–eleventh centuries CE",
+    "tier": "late_accretion"
+   }
+  ]
+ }
+}

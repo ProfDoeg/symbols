@@ -1,0 +1,774 @@
+{
+ "subject": "argonauts",
+ "relations": [
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Leadership of the expedition",
+   "note": "The company accepts Jason as leader of the voyage and negotiations.",
+   "source": "Pindar Pythian 4; Apollonius 1",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Construction of Argo",
+   "note": "Argus builds Argo under Athena’s direction and joins the crew.",
+   "source": "Apollonius 1.18–22, 111–120",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Construction and passage through the rocks",
+   "note": "Athena directs Argo’s construction and pushes the ship through the clashing rocks.",
+   "source": "Apollonius 1.18–20; 2.537–548",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine protection of the voyage",
+   "note": "Hera protects Argo, favors Jason and engineers Medea’s aid and the return.",
+   "source": "Odyssey 12.69–72; Apollonius 3–4",
+   "date": "late 8th–3rd c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Embasios",
+    "Apollo Eoios",
+    "Apollo Aegletes"
+   ],
+   "kind": "gift",
+   "myth": "Anaphe revealed by divine light",
+   "note": "Apollo provides light that saves the company from supernatural darkness near Anaphe.",
+   "source": "Apollonius 4.1694–1730",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Embasios",
+    "Apollo Eoios",
+    "Apollo Aegletes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sacrifices and epiphany during voyage",
+   "note": "The company sacrifices to Apollo and witnesses his appearance above the sea at Thynias.",
+   "source": "Apollonius 1.402–447; 2.674–719",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Pollution after Apsyrtus’ murder",
+   "note": "Zeus indirectly adjudicates the company’s blood pollution and sends ominous storm signs.",
+   "source": "Apollonius 4.557 ff.",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea’s divinely induced love",
+   "note": "Aphrodite deploys Eros so Medea will assist Jason and the expedition.",
+   "source": "Apollonius 3.7–166",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea’s divinely induced love",
+   "note": "Eros shoots Medea at Aphrodite’s command, causing her to aid the expedition.",
+   "source": "Apollonius 3.275–298",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Magic for Aeëtes’ trials",
+   "note": "Hecate supplies the ritual power Medea invokes to protect Jason during his trials.",
+   "source": "Apollonius 3.1027–1062",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Taking the Golden Fleece",
+   "note": "The company steals the Fleece guarded within Ares’ Colchian grove and precinct.",
+   "source": "Apollonius 2.1260 ff.; 3–4",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Trial of the bronze bulls",
+   "note": "The company confronts the fire-breathing bronze bulls made by Hephaestus for Aeëtes.",
+   "source": "Apollonius 3.230–234",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Passage through the Planctae",
+   "note": "Thetis leads the Nereids in guiding and carrying Argo through western dangers.",
+   "source": "Apollonius 4.930–963",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Passage through the Planctae",
+   "note": "The Nereids pass Argo hand to hand safely through the Planctae.",
+   "source": "Apollonius 4.930–963",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from Lake Tritonis",
+   "note": "Triton guides Argo out of Lake Tritonis and receives the company’s tripod.",
+   "source": "Pindar Pythian 4; Apollonius 4",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Tripod at Lake Tritonis",
+   "note": "The company, through Euphemus, gives Triton a tripod after receiving his guidance.",
+   "source": "Herodotus 4.179; Apollonius 4",
+   "date": "c. 430; mid-3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Great Mother",
+   "other_aliases": [
+    "Dindymene",
+    "Dindymene Mother"
+   ],
+   "kind": "served",
+   "myth": "Rites after Cyzicus’ death",
+   "note": "The company establishes an altar and rites for Dindymene after the fatal night battle.",
+   "source": "Apollonius 1.1078–1152; Strabo 12.8.11",
+   "date": "3rd c. BCE–1st c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Great Gods of Samothrace",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Initiation at Samothrace",
+   "note": "The company undergoes initiation into the gods’ mysteries to secure safer sailing.",
+   "source": "Apollonius 1.915–921",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dodonaean Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The speaking beam of Argo",
+   "note": "Sacred oak from his oracle becomes Argo’s prophetic speaking beam.",
+   "source": "Apollonius 1.524–527; Apollodorus 1.9.16",
+   "date": "3rd c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Music and rites throughout the voyage",
+   "note": "Orpheus rows with the company, institutes rites and overcomes the Sirens’ song.",
+   "source": "Apollonius 1.23–34; 4.891–911",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage to Mysia",
+   "note": "Heracles joins under Jason, saves the party at Cyzicus and is left searching for Hylas.",
+   "source": "Apollonius 1.332–350, 989–1362",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hylas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction in Mysia",
+   "note": "Hylas accompanies the expedition until a nymph abducts him and the ship leaves.",
+   "source": "Apollonius 1.1207–1362; Theocritus 13",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyphemus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Search for Hylas",
+   "note": "Polyphemus searches for Hylas and is left behind when Argo departs Mysia.",
+   "source": "Apollonius 1.1240–1362",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "Castor sails as the company’s horseman and combatant.",
+   "source": "Pindar Pythian 4; Apollonius 1–2",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Boxing match with Amycus",
+   "note": "Polydeuces sails with the company and defeats its hostile Bebrycian challenger.",
+   "source": "Apollonius 2.1–163; Theocritus 22",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amycus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Boxing match in Bebrycia",
+   "note": "The hostile king challenges the company and is defeated or killed by Polydeuces.",
+   "source": "Apollonius 2.1–163; Theocritus 22",
+   "date": "3rd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zetes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rescue of Phineus",
+   "note": "Zetes serves in the company and pursues the Harpies from Phineus.",
+   "source": "Apollonius 2.178–300",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rescue of Phineus",
+   "note": "Calais serves in the company and pursues the Harpies with Zetes.",
+   "source": "Apollonius 2.178–300",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Deliverance from the Harpies",
+   "note": "The company drives away his tormentors; Phineus then instructs it on the route.",
+   "source": "Hesiodic fragments; Apollonius 2.178–499",
+   "date": "7th–6th; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Instructions for the Symplegades",
+   "note": "Phineus teaches the company how to test and pass the clashing rocks.",
+   "source": "Apollonius 2.178–610",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harpies",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rescue of Phineus",
+   "note": "The Boreads pursue the Harpies and force an end to their attacks on Phineus.",
+   "source": "Apollonius 2.178–300",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Settlement with the Harpies",
+   "note": "Iris stops the Boreads from killing the Harpies and guarantees their oath.",
+   "source": "Apollonius 2.286–300",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyzicus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "First arrival among the Doliones",
+   "note": "Cyzicus welcomes the company and supplies information before their accidental return.",
+   "source": "Apollonius 1.936–1077",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyzicus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Night battle with the Doliones",
+   "note": "The company unknowingly battles its former hosts, and Jason kills Cyzicus.",
+   "source": "Apollonius 1.1015–1077",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gegenees",
+   "other_aliases": [
+    "earthborn giants"
+   ],
+   "kind": "killed",
+   "myth": "Battle at Cyzicus",
+   "note": "Heracles and the company repel and kill the attacking earthborn giants.",
+   "source": "Apollonius 1.936–1011",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypsipyle",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Lemnian sojourn",
+   "note": "Hypsipyle receives the company; Jason and other crewmen form unions with Lemnian women.",
+   "source": "Pindar Pythian 4; Apollonius 1.609–910",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idmon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage and death among Mariandyni",
+   "note": "Idmon reads omens for the company before dying from a boar wound.",
+   "source": "Apollonius 1.139–145; 2.815–850",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiphys",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Navigation until Mariandynian country",
+   "note": "Tiphys serves as Argo’s original helmsman until dying from illness.",
+   "source": "Apollonius 1–2",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ancaeus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Succession after Tiphys’ death",
+   "note": "Ancaeus succeeds Tiphys as helmsman and navigates for the company.",
+   "source": "Apollonius 2.851–898",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lycus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hospitality among the Mariandyni",
+   "note": "Lycus hosts the company and promises a local cult for the Dioscuri.",
+   "source": "Apollonius 2.752–814",
+   "date": "mid-3rd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phrixus’ sons",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Shipwreck near Ares’ Island",
+   "note": "The company rescues the shipwrecked brothers, who then guide it toward Colchis.",
+   "source": "Apollonius 2.1090–1285",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phrixus’ sons",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Approach to Colchis",
+   "note": "The rescued sons of Phrixus guide and advise the company on entering Colchis.",
+   "source": "Apollonius 2.1090–1285",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Jason’s trials in Colchis",
+   "note": "Aeëtes imposes lethal trials on the company’s leader before refusing the promised Fleece.",
+   "source": "Pindar Pythian 4; Apollonius 3",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Flight from Colchis",
+   "note": "After the Fleece is taken, Aeëtes and his forces pursue the escaping company.",
+   "source": "Apollonius 3–4",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trials and flight from Colchis",
+   "note": "Medea gives magical aid, joins the company and engineers rescues and killings.",
+   "source": "Pindar Pythian 4; Apollonius 3–4",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chalciope",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Securing Medea’s assistance",
+   "note": "Chalciope uses her sons’ rescue to help obtain Medea’s aid for the company.",
+   "source": "Apollonius 3.608–739",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [
+    "Absyrtus"
+   ],
+   "kind": "killed",
+   "myth": "Ambush during the Colchian pursuit",
+   "note": "Jason kills the adult pursuer after Medea lures him to a sanctuary meeting.",
+   "source": "Apollonius 4.303–481",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [
+    "Absyrtus"
+   ],
+   "kind": "killed",
+   "myth": "Child dismemberment during flight",
+   "note": "Medea kills and dismembers the child, delaying Aeëtes while the company escapes.",
+   "source": "Pherecydes testimonia; Apollodorus 1.9.24",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Colchian dragon",
+   "other_aliases": [
+    "sleepless dragon"
+   ],
+   "kind": "fought",
+   "myth": "Taking the Golden Fleece",
+   "note": "The Fleece’s guardian is drugged, enchanted or otherwise overcome for the company.",
+   "source": "Mimnermus fr. 11; Apollonius 4.123–182",
+   "date": "7th–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Attempted landing on Crete",
+   "note": "After Talos blocks the landing, Medea and the company bring about his death.",
+   "source": "Apollonius 4.1638–1688; earlier vases",
+   "date": "5th–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification after Apsyrtus’ murder",
+   "note": "Circe purifies Jason and Medea of blood guilt, then dismisses the company.",
+   "source": "Apollonius 4.659–752",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sirens",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest of songs",
+   "note": "The Sirens try to lure the company, but Orpheus overpowers their song.",
+   "source": "Apollonius 4.891–919",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Butes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Encounter with the Sirens",
+   "note": "Butes deserts the ship for the Sirens but is rescued by Aphrodite.",
+   "source": "Apollonius 4.910–919",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Western passage",
+   "note": "Scylla threatens Argo, but divine guidance enables the company to avoid her.",
+   "source": "Apollonius 4.825–963",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Charybdis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Western passage",
+   "note": "Charybdis threatens Argo, but divine guidance enables the company to avoid her.",
+   "source": "Apollonius 4.825–963",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcinous",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Medea’s threatened extradition",
+   "note": "Alcinous judges whether the company must surrender Medea to the pursuing Colchians.",
+   "source": "Apollonius 4.1068–1222",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arete",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Medea’s threatened extradition",
+   "note": "Arete warns Jason and Medea, enabling marriage and preventing Medea’s extradition.",
+   "source": "Apollonius 4.1068–1222",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaeacians",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hospitality and marriage in Phaeacia",
+   "note": "The Phaeacians host the company and witness Jason and Medea’s marriage.",
+   "source": "Apollonius 4.982–1222",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hesperides",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Search for water in Libya",
+   "note": "The Hesperides direct the exhausted company to water after Heracles’ passage.",
+   "source": "Apollonius 4.1393–1469",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Canthus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death in Libya",
+   "note": "Canthus sails with the company until Caphaurus kills him in Libya.",
+   "source": "Apollonius 4.1467–1501",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mopsus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death from a Libyan snake",
+   "note": "Mopsus serves as the company’s seer before dying from a snake bite.",
+   "source": "Apollonius 4.1502–1536",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euphemus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Libyan clod and Cyrenaean destiny",
+   "note": "Euphemus sails with the company and receives Triton’s clod, linking descendants to Cyrene.",
+   "source": "Pindar Pythian 4; Herodotus 4.179",
+   "date": "462–c. 430 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Variant Argonaut catalogue",
+   "note": "Apollodorus counts Atalanta among the company, contradicting Apollonius’ refusal story.",
+   "source": "Apollodorus 1.9.16",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rejection from the expedition",
+   "note": "Jason refuses Atalanta participation because he fears conflict caused by her presence.",
+   "source": "Apollonius 1.769–773",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "Peleus sails with the company and later receives advice from Thetis.",
+   "source": "Apollonius 1.557–558; 4.852 ff.",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Abandonment of Heracles",
+   "note": "Telamon rebukes Jason for leaving Heracles, then reconciles and continues the voyage.",
+   "source": "Apollonius 1.1280–1295",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Secret departure with Argo",
+   "note": "Pelias’ son secretly joins and sails with the company.",
+   "source": "Apollonius 1.224–227",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "Meleager joins the company under the guardianship of Laocoon.",
+   "source": "Apollonius 1.190–201",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "Idas sails with the company despite violent arguments and a challenge to Apollo.",
+   "source": "Apollonius 1.460–491; 3.558 ff.",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lynceus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Navigation and Libyan search",
+   "note": "Lynceus uses extraordinary sight to aid the company’s navigation and searching.",
+   "source": "Apollonius 1.151–155; 4.1477",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aethalides",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Embassies during the voyage",
+   "note": "Aethalides serves the company as herald and negotiator, aided by unfailing memory.",
+   "source": "Apollonius 1.54–64, 640 ff.",
+   "date": "mid-3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Echion",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Argonautic expedition",
+   "note": "Echion sails with the company and serves it as a herald.",
+   "source": "Pindar Pythian 4; Apollonius 1.51–56",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erytus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "Erytus, brother of Echion, sails as a member of the company.",
+   "source": "Pindar Pythian 4; Apollonius 1.51–56",
+   "date": "462 BCE; mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Periclymenus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Argonautic expedition",
+   "note": "The Poseidon-gifted shapeshifter appears among the company in the Pindaric tradition.",
+   "source": "Pindar Pythian 4.175",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Variant Argonaut catalogue",
+   "note": "Some later catalogues admit Theseus among the company despite Apollonius excluding him.",
+   "source": "Hyginus Fabula 14",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

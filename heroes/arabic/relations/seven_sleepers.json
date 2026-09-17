@@ -1,0 +1,55 @@
+{
+ "subject": "seven_sleepers",
+ "relations": [
+  {
+   "other": "God",
+   "other_aliases": [
+    "Allah"
+   ],
+   "kind": "rescued_by",
+   "myth": "Refuge, miraculous sleep, and awakening",
+   "note": "God hears their prayer, guides and preserves them, then awakens them as a sign.",
+   "source": "Qur’an 18:10–21",
+   "date": "early seventh century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "served",
+   "myth": "Refusal of pagan sacrifice",
+   "note": "The sleepers confess Christ and accept persecution rather than sacrifice to pagan gods.",
+   "source": "Jacob of Serugh; Gregory of Tours",
+   "date": "late fifth–sixth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Angelic guardianship of the cave",
+   "note": "Some later Islamic retellings identify their added angelic guardian as Gabriel.",
+   "source": "Medieval Islamic narrative recensions",
+   "date": "medieval or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Qitmir",
+   "other_aliases": [
+    "Qatmīr",
+    "Kitmir",
+    "Kıtmir",
+    "al-Raqīm",
+    "Viricanus"
+   ],
+   "kind": "allied",
+   "myth": "Guarding the cave entrance",
+   "note": "The dog accompanies or guards the sleepers, stretching its forelegs at the cave entrance.",
+   "source": "Qur’an 18:18; later tafsīr",
+   "date": "seventh century and later",
+   "tier": "canonical"
+  }
+ ]
+}

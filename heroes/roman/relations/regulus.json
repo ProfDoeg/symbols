@@ -1,0 +1,131 @@
+{
+ "subject": "regulus",
+ "relations": [
+  {
+   "other": "Pales",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Temple vow after victory over the Sallentini",
+   "note": "Regulus allegedly vowed or dedicated a temple to Pales after victory.",
+   "source": "Florus 1.15/1.20",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove"
+   ],
+   "kind": "other",
+   "myth": "Regulus keeps his oath to Carthage",
+   "note": "Jupiter implicitly guarantees the enemy oath that compels Regulus to return.",
+   "source": "Cicero, De officiis 3",
+   "date": "44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The immortal gods",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Providential interpretation of Regulus's torture",
+   "note": "They allegedly permit Carthaginian cruelty so Regulus earns greater glory.",
+   "source": "Valerius Maximus 1.1.14",
+   "date": "c. 30 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [
+    "Fortune"
+   ],
+   "kind": "punished_by",
+   "myth": "Reversal after Regulus's African successes",
+   "note": "Fortune overturns Regulus's success after his arrogant peace demands.",
+   "source": "Polybius, Histories 1.35",
+   "date": "c. 150–140 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [
+    "Fortune"
+   ],
+   "kind": "contest",
+   "myth": "Regulus overcomes Fortune through endurance",
+   "note": "Seneca portrays Regulus as morally victorious over Fortune through steadfast suffering.",
+   "source": "Seneca, De providentia 3",
+   "date": "mid-first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Augustus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Horatian juxtaposition of Augustus and Regulus",
+   "note": "Horace juxtaposes Augustus's prospective divinity and eastern policy with Regulus's example.",
+   "source": "Horace, Odes 3.5",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "shared_myth",
+   "myth": "Herculean framing of the Bagradas serpent",
+   "note": "Silius models Regulus's serpent exploit on Herculean monster combats without identifying them.",
+   "source": "Silius, Punica 6",
+   "date": "late first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hydra of Lerna",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Comparison with the Bagradas serpent",
+   "note": "The African serpent is compared to the Hydra as a literary monster type.",
+   "source": "Silius, Punica 6",
+   "date": "late first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Contrast between captives and Regulus",
+   "note": "Horace contrasts captive Romans' forgetfulness of Vesta with Regulus's fidelity.",
+   "source": "Horace, Odes 3.5",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bagradas serpent",
+   "other_aliases": [
+    "African serpent",
+    "giant serpent"
+   ],
+   "kind": "fought",
+   "myth": "Battle beside the Bagradas River",
+   "note": "Regulus and his army battle an enormous serpent using artillery.",
+   "source": "Pliny, Natural History 8.37",
+   "date": "77 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bagradas serpent",
+   "other_aliases": [
+    "African serpent",
+    "giant serpent"
+   ],
+   "kind": "killed",
+   "myth": "Battle beside the Bagradas River",
+   "note": "Regulus's army kills the serpent with siege engines and sends its remains to Rome.",
+   "source": "Pliny, Natural History 8.37",
+   "date": "77 CE",
+   "tier": "canonical"
+  }
+ ]
+}

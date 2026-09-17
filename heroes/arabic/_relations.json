@@ -1,0 +1,610 @@
+{
+ "folder": "arabic",
+ "gods": [
+  "al_khidr",
+  "antar",
+  "dhul_qarnayn",
+  "luqman",
+  "majnun_layla",
+  "seven_sleepers"
+ ],
+ "relations": [
+  {
+   "a": "al_khidr",
+   "b": "dhul_qarnayn",
+   "kind": "served",
+   "myth": "Quest for the Water of Life",
+   "note": "Khidr serves as minister, guide, or vanguard commander during the immortality quest.",
+   "source": "al-Ṭabarī, History; al-Thaʿlabī",
+   "date": "tenth–eleventh centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "dhul_qarnayn"
+   ]
+  },
+  {
+   "a": "al_khidr",
+   "b": "dhul_qarnayn",
+   "kind": "shared_myth",
+   "myth": "Khidr discovers and drinks the Water of Life",
+   "note": "Khidr gains immortality from the spring that Dhul-Qarnayn unsuccessfully seeks.",
+   "source": "al-Thaʿlabī and Persian epics",
+   "date": "eleventh century onward",
+   "tier": "late_accretion",
+   "stated_by": [
+    "dhul_qarnayn"
+   ]
+  },
+  {
+   "a": "al_khidr",
+   "b": "luqman",
+   "kind": "allied",
+   "myth": "Lost cure for death",
+   "note": "Some healing tales make Khidr assist, parallel, or supersede Lokman.",
+   "source": "Turkish and Central Asian folklore",
+   "date": "late regional tradition",
+   "tier": "regional_variant",
+   "stated_by": [
+    "luqman"
+   ]
+  },
+  {
+   "a": "antar",
+   "b": "dhul_qarnayn",
+   "kind": "shared_myth",
+   "myth": "Announcers of religious transformation",
+   "note": "Alexander and ʿAntarah appear as parallel heralds of monotheistic change.",
+   "source": "Sīrat ʿAntar Alexander episode",
+   "date": "medieval",
+   "tier": "late_accretion",
+   "stated_by": [
+    "antar"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "al_khidr",
+   "god": "abrahamic/gabriel",
+   "kind": "shared_myth",
+   "myth": "Later visionary encounters",
+   "note": "Late visionary and storytelling traditions sometimes pair Khidr with Gabriel.",
+   "source": "Late hagiographic and folkloric reports",
+   "date": "late medieval–modern",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "dhul_qarnayn",
+   "god": "abrahamic/raphael",
+   "kind": "taught_by",
+   "myth": "Angel reveals the Water of Life",
+   "note": "The angelic companion tells Dhul-Qarnayn about the Water of Life.",
+   "source": "Ibn ʿAsākir material; qiṣaṣ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "dhul_qarnayn",
+   "god": "abrahamic/raphael",
+   "kind": "gift",
+   "myth": "Gift of the wondrous stone",
+   "note": "In some unstable recensions, the angel gives Dhul-Qarnayn a wondrous stone.",
+   "source": "Ibn ʿAsākir material; qiṣaṣ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "seven_sleepers",
+   "god": "abrahamic/gabriel",
+   "kind": "rescued_by",
+   "myth": "Angelic guardianship of the cave",
+   "note": "Some later Islamic retellings identify their added angelic guardian as Gabriel.",
+   "source": "Medieval Islamic narrative recensions",
+   "date": "medieval or later",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "Abraham": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "served",
+    "myth": "Khidr follows Abraham",
+    "note": "One strand makes Khidr Abraham's contemporary and follower.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "shared_myth",
+    "myth": "Embracing Abraham’s faith and circumambulating the Kaʿba",
+    "note": "Dhul-Qarnayn allegedly accepts Abraham’s faith and circumambulates the Kaʿba with him.",
+    "source": "al-Azraqī; later Ibn Kathīr",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Aesop": [
+   {
+    "stated_by": "luqman",
+    "kind": "identified_with",
+    "myth": "Aesopic Luqmān",
+    "note": "Aesop’s slave biography, traits, anecdotes, and fables were transferred to Luqmān.",
+    "source": "Christian Arabic fable manuscript",
+    "date": "1299",
+    "tier": "syncretism"
+   }
+  ],
+  "Alexander": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "served",
+    "myth": "Quest for the Water of Life",
+    "note": "Khidr serves as guide, minister, scout, or cook while Alexander seeks immortality.",
+    "source": "Arabic and Persian Alexander romances",
+    "date": "10th–13th c. onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Alexander the Great": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Early and medieval interpreters identify Dhul-Qarnayn with the legendary Macedonian conqueror.",
+    "source": "Muqātil ibn Sulaymān, Tafsīr",
+    "date": "before 767",
+    "tier": "syncretism"
+   }
+  ],
+  "Allah/God": [
+   {
+    "stated_by": "luqman",
+    "kind": "gift",
+    "myth": "Luqmān receives wisdom",
+    "note": "God grants Luqmān wisdom and commands him to be grateful.",
+    "source": "Qurʾān 31:12–19",
+    "date": "early seventh century",
+    "tier": "attested"
+   }
+  ],
+  "Allāh": [
+   {
+    "stated_by": "antar",
+    "kind": "other",
+    "myth": "Invocations and oaths",
+    "note": "ʿAntarah invokes Allāh in transmitted poetry and the Islamicized epic.",
+    "source": "Poems and Sīrat ʿAntar",
+    "date": "sixth century onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Andreas": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "identified_with",
+    "myth": "Cook discovers the Water of Life",
+    "note": "Islamic Alexander traditions equate Khidr narratively with Alexander's immortalized cook.",
+    "source": "Islamic Alexander traditions",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Angels": [
+   {
+    "stated_by": "luqman",
+    "kind": "gift",
+    "myth": "Offer of judgment",
+    "note": "Angels offer Luqmān rule or judgment and communicate his gift of wisdom.",
+    "source": "Al-Thaʿlabī and related traditions",
+    "date": "eleventh century onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Arpachshad": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "One medieval genealogy places Arpachshad in Khidr's ancestral line.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Balaam son of Beor": [
+   {
+    "stated_by": "luqman",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Luqmān’s constructed patronymic Bāʿūrāʾ prompted identification or confusion with Balaam.",
+    "source": "Medieval genealogical systematization",
+    "date": "medieval period",
+    "tier": "syncretism"
+   }
+  ],
+  "Cyrus the Great": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern Muslim interpreters identify him with Cyrus through empire and two-horned symbolism.",
+    "source": "Khān and Azad interpretations",
+    "date": "19th–20th centuries",
+    "tier": "modern"
+   }
+  ],
+  "Dhū al-Qarnayn “the Elder”": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "served",
+    "myth": "Quest for the River of Life",
+    "note": "Khidr serves in his vanguard and discovers the River of Life.",
+    "source": "Al-Ṭabarī, History",
+    "date": "early 10th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Dāwūd/David": [
+   {
+    "stated_by": "luqman",
+    "kind": "taught_by",
+    "myth": "David fashions armor",
+    "note": "Luqmān silently watches David fashion armor and learns its purpose.",
+    "source": "Al-Thaʿlabī and related sources",
+    "date": "eleventh century onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "luqman",
+    "kind": "served",
+    "myth": "Luqmān counsels David",
+    "note": "Some traditions make Luqmān David’s counselor, vizier, or earlier judge.",
+    "source": "Medieval tafsīr and qiṣaṣ",
+    "date": "medieval period",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "luqman",
+    "kind": "shared_myth",
+    "myth": "Wisdom and kingship contrasted",
+    "note": "David receives kingship while Luqmān receives wisdom without its judicial ordeal.",
+    "source": "Al-Thaʿlabī",
+    "date": "early eleventh century",
+    "tier": "canonical"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "gift",
+    "myth": "Divine gift of mercy and hidden knowledge",
+    "note": "God grants Khidr mercy and special knowledge and directs his actions.",
+    "source": "Qurʾān 18:65, 82",
+    "date": "early 7th c.",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "majnun_layla",
+    "kind": "other",
+    "myth": "Prayer at the Kaʿba",
+    "note": "Majnun asks God to increase or perpetuate his love instead of curing it.",
+    "source": "Ibn Qutayba, Kitāb al-Shiʿr wa-l-shuʿarāʾ",
+    "date": "ninth century, before 889",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "seven_sleepers",
+    "kind": "rescued_by",
+    "myth": "Refuge, miraculous sleep, and awakening",
+    "note": "God hears their prayer, guides and preserves them, then awakens them as a sign.",
+    "source": "Qur’an 18:10–21",
+    "date": "early seventh century",
+    "tier": "canonical"
+   }
+  ],
+  "God/Allah": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "gift",
+    "myth": "Commission, journeys, judgment, and construction of the barrier",
+    "note": "God grants him power and means, authorizes judgment, and promises the barrier’s destruction.",
+    "source": "Qur’an 18:84–88, 98",
+    "date": "early seventh century",
+    "tier": "canonical"
+   }
+  ],
+  "Gul-Nazar": [
+   {
+    "stated_by": "antar",
+    "kind": "gift",
+    "myth": "The fairy’s three joys",
+    "note": "Gul-Nazar grants Antar the joys of vengeance, power, and love.",
+    "source": "Rimsky-Korsakov, Antar, Op. 9",
+    "date": "1868",
+    "tier": "modern"
+   }
+  ],
+  "Hidden Imam": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "shared_myth",
+    "myth": "Companions in prolonged occult life",
+    "note": "Some Shiʿi traditions make Khidr the Hidden Imam's companion and precedent for prolonged occult life.",
+    "source": "Medieval Twelver argumentation",
+    "date": "10th–11th c. onward",
+    "tier": "canonical"
+   }
+  ],
+  "Ibrāhīm": [
+   {
+    "stated_by": "antar",
+    "kind": "shared_myth",
+    "myth": "Prophetic-historical chain",
+    "note": "Learned epic theology places ʿAntarah within sacred history beginning with Ibrāhīm.",
+    "source": "Sīrat ʿAntar learned theology",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ibrāhīm/Abraham": [
+   {
+    "stated_by": "luqman",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "A learned genealogy inserts Luqmān into Abraham’s extended family through Nahor and Terah.",
+    "source": "Ibn Isḥāq-attributed genealogy",
+    "date": "preserved in later tafsīr",
+    "tier": "syncretism"
+   }
+  ],
+  "Ishmael": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "shared_myth",
+    "myth": "Kaʿba building or circumambulation",
+    "note": "Ishmael appears beside Abraham and Dhul-Qarnayn in later Kaʿba traditions.",
+    "source": "later historical-exegetical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jesus": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "shared_myth",
+    "myth": "Company of living prophets",
+    "note": "Theological and Sufi systems group Khidr with Jesus among living or eschatological prophets.",
+    "source": "Medieval theological and Sufi literature",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "seven_sleepers",
+    "kind": "served",
+    "myth": "Refusal of pagan sacrifice",
+    "note": "The sleepers confess Christ and accept persecution rather than sacrifice to pagan gods.",
+    "source": "Jacob of Serugh; Gregory of Tours",
+    "date": "late fifth–sixth century",
+    "tier": "attested"
+   }
+  ],
+  "Jhūlelāl": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Sindhi traditions overlap Khidr with Jhūlelāl and related river-protector identities.",
+    "source": "Sindhi shrine and cult traditions",
+    "date": "medieval–modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Layla": [
+   {
+    "stated_by": "majnun_layla",
+    "kind": "shared_myth",
+    "myth": "Reciprocal love, separation, messages, and swoons",
+    "note": "Majnun and Layla love one another but are separated by her family.",
+    "source": "Ibn Qutayba, Kitāb al-Shiʿr wa-l-shuʿarāʾ",
+    "date": "ninth century, before 889",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "majnun_layla",
+    "kind": "shared_myth",
+    "myth": "Death at Layli’s grave and paradisal reunion",
+    "note": "Majnun dies embracing Layli’s grave; they are buried together and reunited in Paradise.",
+    "source": "Niẓāmī, Laylī o Majnūn",
+    "date": "584/1188",
+    "tier": "canonical"
+   }
+  ],
+  "Lubad": [
+   {
+    "stated_by": "luqman",
+    "kind": "shared_myth",
+    "myth": "The seventh vulture",
+    "note": "Lubad’s final collapse signals the end of Luqmān’s allotted lifespan.",
+    "source": "Al-Nābigha; antiquarian narratives",
+    "date": "late sixth century onward",
+    "tier": "attested"
+   }
+  ],
+  "Malkān": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "child_of",
+    "myth": "",
+    "note": "One medieval genealogy names Khidr, as Baliyā, the son of Malkān.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Maʾjūj": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "other",
+    "myth": "Construction of the barrier against Gog and Magog",
+    "note": "Dhul-Qarnayn constructs an iron-and-copper barrier to contain the corrupting people.",
+    "source": "Qur’an 18:94–97",
+    "date": "early seventh century",
+    "tier": "canonical"
+   }
+  ],
+  "Moses": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "taught",
+    "myth": "Boat, boy, and wall",
+    "note": "Khidr teaches Moses through three troubling acts before explaining them and separating.",
+    "source": "Qurʾān 18:60–82",
+    "date": "early 7th c.",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "shared_myth",
+    "myth": "Coordination with the Moses and divine servant episode",
+    "note": "Later texts conflate or coordinate Moses’s preceding Qur’anic episode with Dhul-Qarnayn’s cycle.",
+    "source": "medieval exegetical traditions",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Muḥammad": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "shared_myth",
+    "myth": "Khidr attends Muhammad’s funeral",
+    "note": "Weak later reports claim that Khidr attended Muhammad's funeral.",
+    "source": "Later funeral reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "antar",
+    "kind": "other",
+    "myth": "Prophetic anticipation",
+    "note": "The epic makes ʿAntarah foretell Muḥammad’s coming without meeting him.",
+    "source": "Sīrat ʿAntar",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Noah": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "One genealogy traces Khidr from Malkān through Arpachshad and Shem to Noah.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pharaoh’s daughter": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "child_of",
+    "myth": "",
+    "note": "A competing medieval report makes Khidr the son of Pharaoh's daughter.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Qitmir": [
+   {
+    "stated_by": "seven_sleepers",
+    "kind": "allied",
+    "myth": "Guarding the cave entrance",
+    "note": "The dog accompanies or guards the sleepers, stretching its forelegs at the cave entrance.",
+    "source": "Qur’an 18:18; later tafsīr",
+    "date": "seventh century and later",
+    "tier": "canonical"
+   }
+  ],
+  "Sheikh Tāhir": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Sindhi traditions variously identify the Uderolāl saint as Sheikh Tāhir or Khidr.",
+    "source": "Sindhi tazkira and shrine tradition",
+    "date": "medieval–modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Shem": [
+   {
+    "stated_by": "al_khidr",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "One medieval genealogy makes Khidr a descendant of Shem.",
+    "source": "Medieval genealogical reports",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yaʾjūj": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "other",
+    "myth": "Construction of the barrier against Gog and Magog",
+    "note": "Dhul-Qarnayn constructs an iron-and-copper barrier to contain the corrupting people.",
+    "source": "Qur’an 18:94–97",
+    "date": "early seventh century",
+    "tier": "canonical"
+   }
+  ],
+  "seven vultures": [
+   {
+    "stated_by": "luqman",
+    "kind": "other",
+    "myth": "Seven-vulture longevity",
+    "note": "Luqmān raises seven successive birds whose lifespans measure his prodigious longevity.",
+    "source": "Al-Muʿammarūn wa-l-waṣāyā",
+    "date": "ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Āzar/Terah": [
+   {
+    "stated_by": "luqman",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Later genealogy makes Terah an ancestor of Luqmān through Nahor and Bāʿūrāʾ.",
+    "source": "Later tafsīr",
+    "date": "medieval period",
+    "tier": "syncretism"
+   }
+  ],
+  "Şahmaran": [
+   {
+    "stated_by": "luqman",
+    "kind": "shared_myth",
+    "myth": "Şahmaran healing cycle",
+    "note": "Lokman gains medical knowledge through Şahmaran’s death or medicinal flesh.",
+    "source": "Anatolian and Kurdish-Turkish folklore",
+    "date": "late regional tradition",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ṣaʿb ibn Dhī Marāthid": [
+   {
+    "stated_by": "dhul_qarnayn",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Yemeni tradition identifies Dhul-Qarnayn as a Himyarite Tubbaʿ named Ṣaʿb.",
+    "source": "Ibn Hishām, Kitāb al-Tījān",
+    "date": "ninth century",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

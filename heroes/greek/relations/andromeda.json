@@ -1,0 +1,363 @@
+{
+ "subject": "andromeda",
+ "relations": [
+  {
+   "other": "Cepheus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cepheus is Andromeda’s father.",
+   "source": "Apollodorus 2.4.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cepheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Exposure and marriage bargain",
+   "note": "He exposes Andromeda under pressure and promises her to Perseus for rescuing her.",
+   "source": "Apollodorus 2.4.3; Ovid 4",
+   "date": "c. 8 CE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassiopeia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cassiopeia is Andromeda’s mother.",
+   "source": "Aratus; Apollodorus 2.4.3",
+   "date": "c. 275 BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassiopeia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cassiopeia’s boast",
+   "note": "Her offensive comparison with the Nereids causes the punishment imposed upon Andromeda.",
+   "source": "Apollodorus 2.4.3; Hyginus Fabula 64",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue from the sea monster",
+   "note": "Perseus finds the exposed Andromeda and saves her from the monster.",
+   "source": "Euripides; Apollodorus 2.4.3; Ovid 4",
+   "date": "412 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint attack on Ketos",
+   "note": "Andromeda supplies stones while Perseus attacks Ketos on the earliest surviving image.",
+   "source": "Berlin F 1652",
+   "date": "c. 575–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage after the rescue",
+   "note": "Andromeda marries Perseus and accompanies him to Greece.",
+   "source": "Apollodorus 2.4.3–5; Ovid 4",
+   "date": "c. 8 CE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ketos",
+   "other_aliases": [
+    "Cetus"
+   ],
+   "kind": "fought",
+   "myth": "Joint attack on Ketos",
+   "note": "Andromeda actively helps Perseus fight the sea monster by supplying stones.",
+   "source": "Berlin F 1652",
+   "date": "c. 575–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ketos",
+   "other_aliases": [
+    "Cetus"
+   ],
+   "kind": "other",
+   "myth": "Andromeda’s exposure",
+   "note": "Andromeda is exposed as prey for the sea monster sent against Ethiopia.",
+   "source": "Apollodorus 2.4.3; Ovid 4",
+   "date": "c. 8 CE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Cassiopeia’s boast",
+   "note": "Offended by Cassiopeia’s comparison, they seek the punishment that places Andromeda in danger.",
+   "source": "Apollodorus 2.4.3; Hyginus Fabula 64",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Devastation of Ethiopia",
+   "note": "Poseidon sends flood and monster, indirectly making Andromeda the demanded victim.",
+   "source": "Apollodorus 2.4.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ammon",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Oracle demanding Andromeda’s exposure",
+   "note": "Ammon’s oracle declares that Andromeda must be exposed to save the country.",
+   "source": "Ovid 4.671–675",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Phineus is named as Andromeda’s earlier betrothed.",
+   "source": "Apollodorus 2.4.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Conflict over Andromeda’s marriage",
+   "note": "Phineus contests her marriage through conspiracy or an armed wedding assault.",
+   "source": "Apollodorus 2.4.3; Ovid 5",
+   "date": "c. 8 CE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Phineus attacks the wedding",
+   "note": "Medusa’s severed head is used by Perseus against Phineus and his followers.",
+   "source": "Ovid Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "transformed_by",
+   "myth": "Andromeda’s catasterism",
+   "note": "Athena places or helps place Andromeda’s image among the stars.",
+   "source": "Pseudo-Eratosthenes Catasterisms 17; Hyginus Astronomica 2.11",
+   "date": "Hellenistic and Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Zeus is Andromeda’s divine father-in-law through Perseus.",
+   "source": "Apollodorus, Perseid genealogy",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Danaë is Andromeda’s mother-in-law and accompanies the Perseid family.",
+   "source": "Apollodorus 2.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Andromeda bears Perses before reaching Greece.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcaeus is a son of Andromeda and Perseus.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sthenelus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sthenelus is a son of Andromeda and Perseus.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heleus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Heleus is a son of Andromeda in the Apollodoran genealogy.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aelius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Homeric scholion substitutes Aelius for Heleus among Andromeda’s sons.",
+   "source": "Homeric scholion",
+   "date": "date not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mestor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mestor is a son of Andromeda and Perseus.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electryon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electryon is a son of Andromeda and Perseus.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gorgophone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gorgophone is a daughter of Andromeda and Perseus.",
+   "source": "Apollodorus 2.4.5",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cynurus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogical lists add Cynurus among Andromeda’s children.",
+   "source": "Later genealogical lists",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Autochthe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later genealogical lists add Autochthe among Andromeda’s children.",
+   "source": "Later genealogical lists",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Alcmena",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Andromeda is an ancestress of Alcmena through Electryon.",
+   "source": "Apollodorus genealogy",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Andromeda is an ancestress of Heracles through Electryon and Alcmena.",
+   "source": "Apollodorus genealogy",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Andromeda–Prometheus diptych",
+   "note": "Their separate rescue scenes are juxtaposed as parallel Argive victories.",
+   "source": "Achilles Tatius 3.6–8",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurystheus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Andromeda belongs to the ancestral line leading through Sthenelus to Eurystheus.",
+   "source": "Apollodorus genealogy",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Andromeda–Prometheus diptych",
+   "note": "They appear as parallel rock-bound prisoners threatened by beasts and rescued by Argive heroes.",
+   "source": "Achilles Tatius 3.6–8",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Echo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Andromeda’s chained lament",
+   "note": "Echo answers Andromeda’s lament while she is bound and isolated.",
+   "source": "Euripides fragments; Aristophanes Thesmophoriazusae",
+   "date": "412–411 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Love"
+   ],
+   "kind": "shared_myth",
+   "myth": "Rescue romance and wedding",
+   "note": "Love governs the drama’s emotional world and is personified at Andromeda’s wedding.",
+   "source": "Euripides fragment 136; Ovid 4.758",
+   "date": "412 BCE and c. 8 CE",
+   "tier": "canonical"
+  }
+ ]
+}

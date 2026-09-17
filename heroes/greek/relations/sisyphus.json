@@ -1,0 +1,433 @@
+{
+ "subject": "sisyphus",
+ "relations": [
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeolus is Sisyphus's father.",
+   "source": "Iliad 6.152–55",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enarete",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Enarete is Sisyphus's mother in the systematized Aeolid genealogy.",
+   "source": "Pseudo-Apollodorus 1.7.3",
+   "date": "first/second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Merope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Pleiad Merope is Sisyphus's wife.",
+   "source": "Mythographic and scholastic genealogy",
+   "date": "Hellenistic/Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Merope",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The unburied body",
+   "note": "Sisyphus orders his wife to omit funeral rites, enabling his deceptive return.",
+   "source": "Later prose summaries",
+   "date": "Hellenistic/Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Glaucus is Sisyphus's son and dynastic successor.",
+   "source": "Iliad 6.153–55",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bellerophon",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Sisyphus is Bellerophon's grandfather through Glaucus.",
+   "source": "Iliad 6.155 ff.",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ornytion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ornytion is named as a son of Sisyphus.",
+   "source": "Pausanias 2.4.3",
+   "date": "second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thersander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thersander is named as a son of Sisyphus.",
+   "source": "Pausanias 2.4.3",
+   "date": "second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Almus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Almus is named as a son of Sisyphus.",
+   "source": "Pausanias 2.4.3",
+   "date": "second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Salmoneus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Salmoneus is Sisyphus's brother.",
+   "source": "Hesiodic fragments; Hyginus 60",
+   "date": "Archaic/early Imperial",
+   "tier": "attested"
+  },
+  {
+   "other": "Salmoneus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Tyro and Salmoneus",
+   "note": "Sisyphus plots to father descendants who will kill his hated brother.",
+   "source": "Hesiodic fragments; Hyginus 60",
+   "date": "Archaic/early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tyro",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Tyro and Salmoneus",
+   "note": "Sisyphus impregnates his niece Tyro to produce avengers against Salmoneus.",
+   "source": "Hesiodic tradition; Hyginus 60",
+   "date": "Archaic/early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tyro’s two sons",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sisyphus fathers two unnamed sons by Tyro.",
+   "source": "Hyginus 60",
+   "date": "early Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athamas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Athamas is Sisyphus's brother in Aeolid genealogy.",
+   "source": "Aeolid genealogies",
+   "date": "Hellenistic/Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ino/Leucothea",
+   "other_aliases": [
+    "Ino",
+    "Leucothea"
+   ],
+   "kind": "other",
+   "myth": "Melicertes and the Isthmian Games",
+   "note": "Sisyphus receives or finds the dead child of his sister-in-law Ino.",
+   "source": "Pindaric fragment; later antiquarians",
+   "date": "fifth c. BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melicertes/Palaemon",
+   "other_aliases": [
+    "Melicertes",
+    "Palaemon"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Melicertes is Sisyphus's nephew through Athamas.",
+   "source": "Aeolid genealogies",
+   "date": "Hellenistic/Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melicertes/Palaemon",
+   "other_aliases": [
+    "Melicertes",
+    "Palaemon"
+   ],
+   "kind": "served",
+   "myth": "Foundation of the Isthmian Games",
+   "note": "Sisyphus buries Melicertes and establishes funeral honors and games for him.",
+   "source": "Pindaric fragment; Pausanian tradition",
+   "date": "fifth c. BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Foundation of the Isthmian Games",
+   "note": "Sisyphus obeys the Nereids' direction to honor dead Melicertes.",
+   "source": "Pindaric fragment",
+   "date": "fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Betrayal of Zeus",
+   "note": "Sisyphus reveals that Zeus abducted Aegina, provoking divine anger.",
+   "source": "Pherecydes fragments; Apollodorus 1.9.3",
+   "date": "fifth c. BCE/first-second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Punishment for betraying Zeus",
+   "note": "Zeus sends Thanatos against Sisyphus after the abduction secret is disclosed.",
+   "source": "Pherecydes fragments; Apollodorus 1.9.3",
+   "date": "fifth c. BCE/first-second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aegina",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Betrayal of Zeus",
+   "note": "Sisyphus discloses the secret of Aegina's abduction to her father.",
+   "source": "Pherecydes; Apollodorus 1.9.3",
+   "date": "fifth c. BCE/first-second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asopus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Water for Aegina's whereabouts",
+   "note": "Sisyphus trades information about Aegina's abductor for water at Corinth.",
+   "source": "Pherecydes; Pausanias 2.5.1; Apollodorus",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "deceived",
+   "myth": "Capturing Death",
+   "note": "Sisyphus tricks and binds personified Death, temporarily preventing human deaths.",
+   "source": "Pherecydes; scholia; later mythography",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "fought",
+   "myth": "Capturing Death",
+   "note": "Sisyphus overpowers and imprisons Thanatos when Death is sent against him.",
+   "source": "Pherecydes; scholia; later mythography",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Release of Thanatos",
+   "note": "Ares frees Thanatos and delivers Sisyphus because battles no longer cause deaths.",
+   "source": "Pherecydes and scholiastic tradition",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return from Hades",
+   "note": "Sisyphus persuades Persephone to release him, then refuses to return voluntarily.",
+   "source": "Theognidea 702–12; later accounts",
+   "date": "sixth–fifth c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Return from Hades",
+   "note": "Persephone permits Sisyphus to leave Hades temporarily after hearing his plea.",
+   "source": "Theognidea 702–12",
+   "date": "sixth–fifth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld stone punishment",
+   "note": "Later art sometimes shows Hades observing Sisyphus laboring with his stone.",
+   "source": "Attic black-figure vase painting",
+   "date": "c. 530–480 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Return to Hades",
+   "note": "Hermes appears beside Sisyphus, plausibly escorting him back to Hades.",
+   "source": "Attic black-figure vessel, LIMC 16",
+   "date": "late sixth/early fifth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld vase scenes",
+   "note": "Cerberus and Sisyphus co-appear in underworld imagery without narrative interaction.",
+   "source": "Attic black-figure vases",
+   "date": "c. 530–480 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld vase scene",
+   "note": "Heracles and Sisyphus co-appear in underworld art without conversing or fighting.",
+   "source": "Vase evidence catalogued by LIMC",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Autolycus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The stolen cattle",
+   "note": "Autolycus steals Sisyphus's cattle, but Sisyphus marks or tracks them and proves ownership.",
+   "source": "Later mythography and scholia",
+   "date": "Hellenistic/Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anticleia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Alternative conception of Odysseus",
+   "note": "Sisyphus impregnates Anticleia before her marriage; her consent is textually unclear.",
+   "source": "Hyginus 201; scholia",
+   "date": "early Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Laertes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Alternative conception of Odysseus",
+   "note": "Laertes marries Anticleia while she is allegedly pregnant by Sisyphus.",
+   "source": "Hyginus 201; related scholia",
+   "date": "early Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus/Ulysses",
+   "other_aliases": [
+    "Odysseus",
+    "Ulysses"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hostile and later genealogized traditions allege Sisyphus was Odysseus's biological father.",
+   "source": "Sophocles; Euripides; Hyginus 201",
+   "date": "fifth c. BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Corinthian dynastic succession",
+   "note": "Medea transfers Corinthian rule to Sisyphus when she departs.",
+   "source": "Eumelus apud Pausanias 2.3.10–11",
+   "date": "second c. CE witness",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neleus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The secret Isthmian grave",
+   "note": "Sisyphus conceals the location of Neleus's grave, even from Nestor.",
+   "source": "Eumelus apud Pausanias 2.2.2",
+   "date": "second c. CE witness",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The secret Isthmian grave",
+   "note": "Sisyphus refuses to reveal Neleus's hidden grave to Nestor.",
+   "source": "Eumelus apud Pausanias 2.2.2",
+   "date": "second c. CE witness",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Orpheus sings in Hades",
+   "note": "Sisyphus pauses or sits upon his stone while listening to Orpheus's music.",
+   "source": "Ovid, Metamorphoses 10.44",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [
+    "Camus’s gods"
+   ],
+   "kind": "fought",
+   "myth": "The absurd hero's rebellion",
+   "note": "Camus recasts Sisyphus as consciously defying the gods' intended humiliation.",
+   "source": "Camus, Le Mythe de Sisyphe",
+   "date": "1942",
+   "tier": "modern"
+  },
+  {
+   "other": "Bouldy",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sisyphus in Hades",
+   "note": "The game depicts an affectionate relationship between Sisyphus and his personified boulder.",
+   "source": "Supergiant Games, Hades",
+   "date": "2018–2020",
+   "tier": "modern"
+  }
+ ]
+}

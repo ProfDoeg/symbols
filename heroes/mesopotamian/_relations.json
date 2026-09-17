@@ -1,0 +1,1070 @@
+{
+ "folder": "mesopotamian",
+ "gods": [
+  "ahiqar",
+  "enmerkar",
+  "etana",
+  "naram_sin_legend",
+  "sargon_legend"
+ ],
+ "relations": [
+  {
+   "a": "enmerkar",
+   "b": "naram_sin_legend",
+   "kind": "shared_myth",
+   "myth": "Enmerkar’s failed archival precedent",
+   "note": "Narām-Sîn cites Enmerkar’s inadequate record as a warning to future kings.",
+   "source": "Cuthean Legend",
+   "date": "first-millennium copies",
+   "tier": "canonical",
+   "stated_by": [
+    "naram_sin_legend"
+   ]
+  },
+  {
+   "a": "naram_sin_legend",
+   "b": "sargon_legend",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sargon is Naram-Sin’s grandfather through his son Manishtushu.",
+   "source": "Sargonic evidence and king lists",
+   "date": "third millennium BCE onward",
+   "tier": "attested",
+   "stated_by": [
+    "sargon_legend"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/utu_shamash",
+   "kind": "child_of",
+   "myth": "",
+   "note": "All four Aratta-cycle poems explicitly call Enmerkar the son of Utu.",
+   "source": "Four Aratta-cycle poems",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/utu_shamash",
+   "kind": "shared_myth",
+   "myth": "Enmerkar’s triumph",
+   "note": "Utu is invoked as a joyful witness to Enmerkar’s triumph.",
+   "source": "Enmerkar and Lugalbanda poems",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/enki_ea",
+   "kind": "gift",
+   "myth": "Impossible-scepter challenge",
+   "note": "Enki grants Enmerkar wisdom to answer Aratta’s impossible demand.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/enki_ea",
+   "kind": "allied",
+   "myth": "Foundation of Kulaba",
+   "note": "Enki clears reeds and drains Uruk’s marshes for Enmerkar.",
+   "source": "Lugalbanda and the Anzud Bird",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/enki_ea",
+   "kind": "shared_myth",
+   "myth": "Spell of Nudimmud",
+   "note": "Enmerkar sends an incantation describing Enki changing human speech.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/nisaba",
+   "kind": "gift",
+   "myth": "Riddle contest with Aratta",
+   "note": "Nisaba opens her house of wisdom for Enmerkar during the contest.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/enlil",
+   "kind": "gift",
+   "myth": "Claim to legitimate kingship",
+   "note": "Enmerkar claims Enlil granted him the true crown and scepter.",
+   "source": "Enmerkar and En-suhgir-ana",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/enlil",
+   "kind": "shared_myth",
+   "myth": "Counsel of Enlil",
+   "note": "Enmerkar is described as a ruler who takes Enlil’s counsel.",
+   "source": "Lugalbanda in the Mountain Cave",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/ninurta",
+   "kind": "other",
+   "myth": "Claim to legitimate kingship",
+   "note": "Enmerkar claims Ninurta held him upon his lap, validating his kingship.",
+   "source": "Enmerkar and En-suhgir-ana",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/adad_ishkur",
+   "kind": "other",
+   "myth": "Miraculous grain for Aratta",
+   "note": "Iškur sends Aratta a storm and grain, frustrating Enmerkar’s economic pressure.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/lugalbanda",
+   "kind": "served_by",
+   "myth": "Enmerkar’s expedition against Aratta",
+   "note": "Lugalbanda serves as Enmerkar’s subordinate warrior and elite commander.",
+   "source": "Lugalbanda in the Mountain Cave",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/lugalbanda",
+   "kind": "served_by",
+   "myth": "Message to Inana",
+   "note": "Lugalbanda volunteers as Enmerkar’s messenger and carries his complaint to Inana.",
+   "source": "Lugalbanda and the Anzud Bird",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/adapa",
+   "kind": "punished_by",
+   "myth": "Offense against Babylon and Esagila",
+   "note": "A damaged chronicle apparently makes Adapa curse Enmerkar for an unidentified offense.",
+   "source": "Weidner Chronicle",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/adapa",
+   "kind": "shared_myth",
+   "myth": "Opening an ancient tomb",
+   "note": "Fragmentary texts place Enmerkar and Adapa near a tomb with a broken metal door.",
+   "source": "Fragmentary Enmerkar–Adapa narrative",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "enmerkar",
+   "god": "mesopotamian/gilgamesh_deified",
+   "kind": "ancestor_of",
+   "myth": "Seuechoros and the exposed Gilgamos",
+   "note": "If Seuechoros is Enmerkar, Aelian’s story makes him Gilgamos’s grandfather.",
+   "source": "Aelian, On Animals 12.21",
+   "date": "Around 200 CE",
+   "tier": "modern"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/utu_shamash",
+   "kind": "other",
+   "myth": "Quest for the plant of birth",
+   "note": "Etana prays to Šamaš, who directs him to the punished eagle.",
+   "source": "Old Babylonian Etana Epic",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/inanna_ishtar",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "Ištar seeks humanity's shepherd, and Etana is selected within the divine program.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/inanna_ishtar",
+   "kind": "shared_myth",
+   "myth": "Ascent toward Ištar's dwelling",
+   "note": "Etana approaches Ištar's heavenly gate, but no preserved line grants him the plant.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/enlil",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "Enlil examines or authorizes Etana's royal dais.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/enlil",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana reaches Enlil's associated gate and prostrates himself during the ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/anu",
+   "kind": "gift",
+   "myth": "Institution of kingship",
+   "note": "Royal insignia descend from Anu's heavenly authority as Etana receives kingship.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/anu",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana reaches Anu's associated heavenly gate during his ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/enki_ea",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Ea's associated gate, with no preserved personal conversation.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/nanna_sin",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Sîn's named gate, but no direct speech survives.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/adad_ishkur",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Adad's named gate during the heavenly ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/zababa",
+   "kind": "served",
+   "myth": "",
+   "note": "A learned text calls Etana a weapon of Zababa within Kish theology.",
+   "source": "Neo-Babylonian learned text",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/igigi",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "The Igigi establish the city's brickwork within the divine ordering producing Etana's kingship.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/anunnaki",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "The Anunnaki deliberate over the land and kingship ultimately assigned to Etana.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/gilgamesh_deified",
+   "kind": "shared_myth",
+   "myth": "Gathering of famous dead rulers",
+   "note": "Etana and Gilgamesh appear together as famous dead rulers or underworld figures.",
+   "source": "First-millennium learned tradition",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "etana",
+   "god": "mesopotamian/enkidu",
+   "kind": "shared_myth",
+   "myth": "Enkidu's underworld vision",
+   "note": "Enkidu sees or names Etana among the underworld dead.",
+   "source": "Epic of Gilgamesh Tablet VII",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/enlil",
+   "kind": "fought",
+   "myth": "Destruction of Enlil’s Ekur",
+   "note": "Narām-Sîn attacks Ekur while trying to reverse Enlil’s unfavorable decision.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/enlil",
+   "kind": "punished_by",
+   "myth": "Enlil releases the Gutians",
+   "note": "Enlil sends the Gutians after Narām-Sîn violates Ekur.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/enlil",
+   "kind": "shared_myth",
+   "myth": "Enemy host reserved for future destruction",
+   "note": "Enlil preserves the monstrous host for destructive use beyond Narām-Sîn’s control.",
+   "source": "Cuthean Legend",
+   "date": "Old Babylonian onward",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/nanna_sin",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Suen joins the gods redirecting Enlil’s anger into a curse upon Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/erra",
+   "kind": "allied",
+   "myth": "Battle beside Erra",
+   "note": "Narām-Sîn and Erra fight together against hostile forces.",
+   "source": "Erra and Narām-Sîn",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/erra",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Erra allied with Narām-Sîn may here represent Nergal of Kutha.",
+   "source": "Erra and Narām-Sîn",
+   "date": "Old Babylonian",
+   "tier": "syncretism"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/nergal",
+   "kind": "gift",
+   "myth": "Votive statue for Narām-Sîn’s life",
+   "note": "Šu’astakkal dedicates a votive statue to Erra/Nergal for Narām-Sîn’s life.",
+   "source": "Šu’astakkal votive inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/nergal",
+   "kind": "served",
+   "myth": "Stele deposited in E-meslam",
+   "note": "Narām-Sîn deposits his testament in Nergal’s temple at Kutha.",
+   "source": "Cuthean Legend",
+   "date": "Old Babylonian onward",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/tiamat",
+   "kind": "shared_myth",
+   "myth": "Nursing of the monstrous host",
+   "note": "Tiāmat serves as wet nurse to the monstrous host opposing Narām-Sîn.",
+   "source": "Cuthean Legend",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/enki_ea",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Enki withdraws Akkad’s wisdom and joins the gods’ curse.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/anu",
+   "kind": "punished_by",
+   "myth": "Divine qualities withdrawn from Akkad",
+   "note": "An removes Akkad’s heaven-reaching awesomeness during Narām-Sîn’s downfall.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/anu",
+   "kind": "judged",
+   "myth": "Narām-Sîn’s deification",
+   "note": "An is among the gods petitioned to make Narām-Sîn Akkad’s god.",
+   "source": "Bassetki inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/ninurta",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Ninurta retrieves Akkad’s regalia and participates in its curse.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/utu_shamash",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Utu removes Akkad’s eloquence and witnesses the curse’s fulfillment.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/adad_ishkur",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Iškur joins the divine curse directed against Narām-Sîn’s Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/nisaba",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Nisaba helps calm Enlil and joins the curse upon Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/ninhursag",
+   "kind": "judged",
+   "myth": "Narām-Sîn’s deification",
+   "note": "Ninḫursag is among the city gods invoked for Narām-Sîn’s elevation.",
+   "source": "Bassetki inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "naram_sin_legend",
+   "god": "mesopotamian/marduk",
+   "kind": "punished_by",
+   "myth": "Marduk summons the Gutians",
+   "note": "Marduk punishes Narām-Sîn for mistreating Babylon by summoning Gutian forces.",
+   "source": "Weidner Chronicle",
+   "date": "first millennium BCE copies",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/enlil",
+   "kind": "served",
+   "myth": "",
+   "note": "Sargon’s royal titulary calls him Enlil’s governor.",
+   "source": "Old Akkadian royal titulary",
+   "date": "twenty-fourth–twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/enlil",
+   "kind": "allied",
+   "myth": "Termination of Ur-Zababa’s reign",
+   "note": "Enlil and An withdraw kingship from Ur-Zababa, enabling Sargon’s rise.",
+   "source": "Sargon and Ur-Zababa",
+   "date": "nineteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/zababa",
+   "kind": "allied",
+   "myth": "Fictional campaign summons",
+   "note": "A fictional campaign letter invokes Zababa as authority supporting Sargon’s summons.",
+   "source": "Fictional campaign letter",
+   "date": "later Mesopotamian tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/utu_shamash",
+   "kind": "allied",
+   "myth": "Fictional campaign summons",
+   "note": "Shamash is invoked as divine authority requiring Sargon’s allies to answer.",
+   "source": "Fictional campaign letter",
+   "date": "later Mesopotamian tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/marduk",
+   "kind": "gift",
+   "myth": "Grant of universal kingship",
+   "note": "Marduk grants Sargon rule over the four quarters.",
+   "source": "Weidner Chronicle",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sargon_legend",
+   "god": "mesopotamian/marduk",
+   "kind": "punished_by",
+   "myth": "Punishment for the Babylon offense",
+   "note": "Marduk inflicts famine and unrest for Sargon’s anachronistic offense involving Babylon.",
+   "source": "Chronicle of Early Kings",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "An": [
+   {
+    "stated_by": "sargon_legend",
+    "kind": "served",
+    "myth": "",
+    "note": "Sargon’s royal titulary calls him An’s anointed priest.",
+    "source": "Old Akkadian royal titulary",
+    "date": "twenty-fourth–twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Termination of Ur-Zababa’s reign",
+    "note": "An and Enlil decree the end of Ur-Zababa’s reign.",
+    "source": "Sargon and Ur-Zababa",
+    "date": "nineteenth–seventeenth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Annunitum": [
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Fictional campaign summons",
+    "note": "Some versions or reconstructions invoke Annunitum in support of Sargon’s campaign.",
+    "source": "Fictional campaign-letter tradition",
+    "date": "later Mesopotamian tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Anubanini": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Anubanini leads the monster clan whose forces oppose Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Aruru": [
+   {
+    "stated_by": "enmerkar",
+    "kind": "other",
+    "myth": "Claim to legitimate kingship",
+    "note": "Enmerkar claims Aruru extended both breasts and nursed him.",
+    "source": "Enmerkar and En-suhgir-ana",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "Aḫudanadiḫ": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Aḫudanadiḫ is one of the enemy princes opposing Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Baldaḫdaḫ": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Baldaḫdaḫ is one of the enemy princes opposing Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Balih": [
+   {
+    "stated_by": "etana",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Balih is Etana's son and succeeds him as king of Kish.",
+    "source": "Sumerian King List",
+    "date": "early second millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Bēlet-ilī": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "shared_myth",
+    "myth": "Generation of the monstrous host",
+    "note": "Bēlet-ilī is progenitress of the monstrous opponents faced by Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Dagan": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "gift",
+    "myth": "Conquest of Armanum and Ebla",
+    "note": "Dagan grants Narām-Sîn Armanum and Ebla and enables their ruler’s capture.",
+    "source": "Narām-Sîn royal inscription",
+    "date": "c. twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "judged",
+    "myth": "Narām-Sîn’s deification",
+    "note": "Dagan is among the gods approached concerning Narām-Sîn’s elevation.",
+    "source": "Bassetki inscription",
+    "date": "c. twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "served",
+    "myth": "",
+    "note": "Sargon bows before Dagan at Tuttul.",
+    "source": "Old Akkadian royal inscription",
+    "date": "twenty-fourth–twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "gift",
+    "myth": "",
+    "note": "Dagan grants Sargon rule over western lands, forests, and mountains.",
+    "source": "Old Akkadian royal inscription",
+    "date": "twenty-fourth–twenty-third century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Dumuzid": [
+   {
+    "stated_by": "enmerkar",
+    "kind": "shared_myth",
+    "myth": "Dispute over Inana and Aratta",
+    "note": "Inana’s spousal link to Enmerkar is juxtaposed with her love for Dumuzid.",
+    "source": "Enmerkar and the Lord of Aratta",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "Ezina": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "punished_by",
+    "myth": "Curse upon Akkad’s grain",
+    "note": "Ezina curses the grain returned to Narām-Sîn’s devastated Akkad.",
+    "source": "Curse of Agade",
+    "date": "Ur III–Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "ahiqar",
+    "kind": "other",
+    "myth": "Ahiqar’s prayer and providential preservation",
+    "note": "Ahiqar prays to God, trusts him during concealment, and attributes his preservation to providence.",
+    "source": "Syriac Ahiqar versions",
+    "date": "Late Antiquity and medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Gula-AN": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "Gula-AN and the Seventeen Kings",
+    "note": "Narām-Sîn defeats, captures, and spares Gula-AN, who later rebels again.",
+    "source": "Great Revolt tradition",
+    "date": "Old Babylonian",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hanish": [
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Fictional campaign summons",
+    "note": "Hanish is invoked in Sargon’s campaign summons, though the reading varies.",
+    "source": "Fictional campaign letter",
+    "date": "later Mesopotamian tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ilaba": [
+   {
+    "stated_by": "sargon_legend",
+    "kind": "served",
+    "myth": "",
+    "note": "Sargon names Ilaba as his personal god.",
+    "source": "Old Akkadian royal inscriptions",
+    "date": "twenty-fourth–twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Fictional campaign summons",
+    "note": "A later campaign letter invokes Ilaba in support of Sargon’s expedition.",
+    "source": "Fictional campaign letter",
+    "date": "later Mesopotamian tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Inana": [
+   {
+    "stated_by": "enmerkar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Enmerkar repeatedly addresses his divine patron Inana as his sister.",
+    "source": "Four Aratta-cycle poems",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "enmerkar",
+    "kind": "consort_of",
+    "myth": "Dispute over Inana’s intimacy",
+    "note": "Enmerkar claims Inana’s bed and companionship; she shares a throne-dais with him.",
+    "source": "Two Enmerkar poems",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "enmerkar",
+    "kind": "allied",
+    "myth": "Demand for Aratta’s submission",
+    "note": "Inana endorses Enmerkar’s demands and instructs him to send a messenger.",
+    "source": "Enmerkar and the Lord of Aratta",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "enmerkar",
+    "kind": "taught_by",
+    "myth": "Ritual strategy against Aratta",
+    "note": "Inana sends Enmerkar a ritual strategy through his messenger Lugalbanda.",
+    "source": "Lugalbanda and the Anzud Bird",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "allied",
+    "myth": "Inana establishes Akkad’s prosperity",
+    "note": "Inana initially favors Akkad and supports its prosperity and military power.",
+    "source": "Curse of Agade",
+    "date": "Ur III–Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "punished_by",
+    "myth": "The gods curse Akkad",
+    "note": "Inana withdraws support and participates in the curse destroying Narām-Sîn’s city.",
+    "source": "Curse of Agade",
+    "date": "Ur III–Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "gift",
+    "myth": "Ištar arms Narām-Sîn",
+    "note": "Ištar gives Narām-Sîn weapons before he fights beside Erra.",
+    "source": "Erra and Narām-Sîn",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "taught",
+    "myth": "Ištar warns against killing captives",
+    "note": "Ištar warns Narām-Sîn not to destroy the captured brood of destruction.",
+    "source": "Cuthean Legend",
+    "date": "Old Babylonian onward",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "served",
+    "myth": "",
+    "note": "Sargon’s contemporary-style titulary names him Inana’s overseer.",
+    "source": "Old Akkadian royal titulary",
+    "date": "twenty-fourth–twenty-third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Sargon’s rise under Ur-Zababa",
+    "note": "Inana continually stands beside Sargon during his rise from cupbearer.",
+    "source": "Sargon and Ur-Zababa",
+    "date": "nineteenth–seventeenth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "gift",
+    "myth": "Dream of Ur-Zababa’s drowning",
+    "note": "Inana sends Sargon a dream portraying Ur-Zababa drowned in blood.",
+    "source": "Sargon and Ur-Zababa",
+    "date": "nineteenth–seventeenth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "rescued_by",
+    "myth": "Murder plot in the smithy",
+    "note": "Inana prevents Sargon entering the workshop where Beliš-tikal was ordered to kill him.",
+    "source": "Sargon and Ur-Zababa",
+    "date": "nineteenth–seventeenth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ištar": [
+   {
+    "stated_by": "sargon_legend",
+    "kind": "seduced_by",
+    "myth": "Ištar’s love for the gardener",
+    "note": "Ištar loves Sargon while he works as a gardener; no sexual encounter is narrated.",
+    "source": "Birth Legend",
+    "date": "eighth–seventh centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sargon_legend",
+    "kind": "allied",
+    "myth": "Expedition to Purušḫanda",
+    "note": "Sargon consults Ištar and receives confidence or prophecy for his Anatolian expedition.",
+    "source": "King of Battle",
+    "date": "second millennium BCE onward",
+    "tier": "regional_variant"
+   }
+  ],
+  "Laṣ": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "shared_myth",
+    "myth": "Fragmentary battle tradition",
+    "note": "Laṣ appears as Erra’s divine spouse, but no direct exchange survives.",
+    "source": "Erra and Narām-Sîn",
+    "date": "Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "Medudu": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Medudu is one of the enemy princes commanding forces against Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Melili": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Melili belongs to the hostile monster dynasty opposing Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Memanduḫ": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Memanduḫ is one of the enemy princes commanding forces against Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ninilduma": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "punished_by",
+    "myth": "Curse upon Akkad’s timber",
+    "note": "Ninilduma curses Akkad’s timber during the divine malediction.",
+    "source": "Curse of Agade",
+    "date": "Ur III–Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "Nungalpiriggal": [
+   {
+    "stated_by": "enmerkar",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Learned tradition assigns Nungalpiriggal to Enmerkar as his heavenly descended sage.",
+    "source": "Bīt mēseri introduction",
+    "date": "First millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "enmerkar",
+    "kind": "served_by",
+    "myth": "",
+    "note": "The Seleucid king-and-sage list pairs Enmerkar with the sage Nungalpiriggal.",
+    "source": "Uruk List of Kings and Sages",
+    "date": "165 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Nuska": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "punished_by",
+    "myth": "The gods curse Akkad",
+    "note": "Nuska helps calm Enlil and joins the curse upon Akkad.",
+    "source": "Curse of Agade",
+    "date": "Ur III–Old Babylonian",
+    "tier": "canonical"
+   }
+  ],
+  "Sargon of Akkad": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Sargon is Narām-Sîn’s grandfather in the principal dynastic tradition.",
+    "source": "Sumerian King List",
+    "date": "early second millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later texts sometimes compress the dynasty and call Narām-Sîn Sargon’s son.",
+    "source": "later royal legends",
+    "date": "Old Babylonian onward",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "shared_myth",
+    "myth": "Sargon authorizes Narām-Sîn’s royal testament",
+    "note": "Sargon’s fame supplies dynastic authority for Narām-Sîn’s first-person testament.",
+    "source": "Cuthean Legend",
+    "date": "Old Babylonian onward",
+    "tier": "canonical"
+   }
+  ],
+  "Seuechoros": [
+   {
+    "stated_by": "enmerkar",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some modern Assyriologists identify Aelian’s distorted Babylonian king-name with Enmerkar.",
+    "source": "Modern Assyriological reconstruction",
+    "date": "",
+    "tier": "modern"
+   }
+  ],
+  "Tartadada": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Tartadada is one of the enemy princes opposing Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ḫurrukidû": [
+   {
+    "stated_by": "naram_sin_legend",
+    "kind": "fought",
+    "myth": "War against the monstrous host",
+    "note": "Ḫurrukidû is one of the enemy princes opposing Narām-Sîn.",
+    "source": "Cuthean Legend",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

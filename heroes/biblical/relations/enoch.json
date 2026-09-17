@@ -1,0 +1,550 @@
+{
+ "subject": "enoch",
+ "relations": [
+  {
+   "other": "God / YHWH",
+   "other_aliases": [
+    "God",
+    "YHWH"
+   ],
+   "kind": "other",
+   "myth": "Enoch walks with God and is taken",
+   "note": "Enoch walks with God before God mysteriously takes him.",
+   "source": "Genesis 5:22–24",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "God / YHWH",
+   "other_aliases": [
+    "God",
+    "YHWH"
+   ],
+   "kind": "transformed_by",
+   "myth": "Enoch is glorified as Metatron",
+   "note": "God transforms Enoch, granting wings, glory, a throne, and celestial authority.",
+   "source": "3 Enoch",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jared",
+   "other_aliases": [
+    "Jarid",
+    "Yārid"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jared is Enoch's father.",
+   "source": "Genesis 5:18–19",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baraka",
+   "other_aliases": [
+    "Barkanah"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jubilees names Baraka as Enoch's mother.",
+   "source": "Jubilees 4",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Edni/Edna",
+   "other_aliases": [
+    "Edni",
+    "Edna",
+    "Aadanah"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Jubilees names Edni or Edna as Enoch's wife.",
+   "source": "Jubilees 4",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Methuselah",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Enoch fathers Methuselah at age sixty-five.",
+   "source": "Genesis 5:21",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Methuselah",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Transmission of Enoch's books",
+   "note": "Enoch gives Methuselah revealed books and instruction.",
+   "source": "1 Enoch 81–82, 91",
+   "date": "third–first centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Methuselah",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Enoch's final household instruction",
+   "note": "Enoch gives Methuselah ethical, liturgical, and priestly instruction.",
+   "source": "2 Enoch 36–69",
+   "date": "date disputed",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Enoch is seventh in descent from Adam.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Transmission of calendar intercalation",
+   "note": "Adam transmits the principle of calendar intercalation to Enoch.",
+   "source": "Pirkei de-Rabbi Eliezer 8",
+   "date": "eighth–ninth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Seth is a named ancestor of Enoch.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enosh",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Enosh is a named ancestor of Enoch.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kenan",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Kenan is a named ancestor of Enoch.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mahalalel",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mahalalel is a named ancestor of Enoch.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Noah",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Enoch is Noah's great-grandfather.",
+   "source": "Genesis 5",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Noah",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Warnings transmitted toward Noah's era",
+   "note": "Enoch's warnings and records are transmitted through his family toward Noah.",
+   "source": "1 Enoch 10, 65–69, 106–107",
+   "date": "third–first centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uriel",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Revelation of luminaries and cosmic places",
+   "note": "Uriel guides Enoch and explains celestial regions, history, and luminaries.",
+   "source": "1 Enoch 17–36, 72–82",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Tour of places of punishment",
+   "note": "Raphael shows Enoch places of punishment.",
+   "source": "1 Enoch 22",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Guidance through heavenly mysteries",
+   "note": "Michael guides Enoch and explains heavenly mysteries and judgment.",
+   "source": "1 Enoch 24–25, 40, 54, 60, 71",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Enoch clothed and anointed",
+   "note": "Michael clothes or anoints Enoch before God in some recensions.",
+   "source": "2 Enoch 22",
+   "date": "date disputed",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Holy angels report the Watcher crisis",
+   "note": "Gabriel appears among the holy angels during judgment of the Watchers and giants.",
+   "source": "1 Enoch 9–10, 20, 40, 54",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Revelation delivered to Idrīs-Enoch",
+   "note": "Gabriel brings books or revelation to Idrīs-Enoch in later Islamic legend.",
+   "source": "Medieval qiṣaṣ al-anbiyāʾ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Raguel",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Journey through cosmic regions",
+   "note": "Raguel shows Enoch cosmic regions and vengeance upon errant luminaries.",
+   "source": "1 Enoch 20, 23",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Saraqiel/Sariel",
+   "other_aliases": [
+    "Saraqiel",
+    "Sariel"
+   ],
+   "kind": "shared_myth",
+   "myth": "Assembly of the holy angels",
+   "note": "Saraqiel or Sariel appears among holy angels associated with spirits or human sin.",
+   "source": "1 Enoch 9, 20",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phanuel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Court of the Chosen One",
+   "note": "Enoch sees Phanuel attending the Chosen One as angel of repentance and hope.",
+   "source": "1 Enoch 40",
+   "date": "around turn of era",
+   "tier": "attested"
+  },
+  {
+   "other": "Shemihazah",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Rejected petition of the Watchers",
+   "note": "Enoch carries Shemihazah's petition and announces condemnation of the Watchers.",
+   "source": "1 Enoch 6, 12–16",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asael/Azazel",
+   "other_aliases": [
+    "Asael",
+    "Azazel"
+   ],
+   "kind": "judged",
+   "myth": "Condemnation of the rebel teacher",
+   "note": "Enoch reports or witnesses Asael's punishment for teaching forbidden arts.",
+   "source": "1 Enoch 8–10, 13, 54–55",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Armaros",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Armaros among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baraqel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Baraqel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kokabel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Kokabel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ezeqeel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Ezeqeel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Araqiel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Araqiel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shamsiel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Shamsiel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sariel",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of the descended Watchers",
+   "note": "Enoch's collective judgment addresses Sariel among the descended Watchers.",
+   "source": "1 Enoch 6–8",
+   "date": "third–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ohyah",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The giants' ominous dreams",
+   "note": "Ohyah seeks Enoch's interpretation of dreams foretelling the giants' destruction.",
+   "source": "Aramaic Book of Giants",
+   "date": "second–first centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hahyah",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The giants' ominous dreams",
+   "note": "Hahyah seeks Enoch's interpretation of dreams foretelling the giants' destruction.",
+   "source": "Aramaic Book of Giants",
+   "date": "second–first centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mahaway",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mahaway travels to Enoch",
+   "note": "Mahaway travels to Enoch seeking interpretation of the giants' ominous dreams.",
+   "source": "Aramaic Book of Giants",
+   "date": "second–first centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Chosen One / Son of Man",
+   "other_aliases": [
+    "The Chosen One",
+    "Son of Man"
+   ],
+   "kind": "shared_myth",
+   "myth": "Vision of the concealed judge",
+   "note": "Enoch beholds the preexistent eschatological judge concealed with God.",
+   "source": "1 Enoch 46–48, 62–71",
+   "date": "late first BCE–first CE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Chosen One / Son of Man",
+   "other_aliases": [
+    "The Chosen One",
+    "Son of Man"
+   ],
+   "kind": "identified_with",
+   "myth": "Enoch's disputed investiture",
+   "note": "Chapter 71 may identify Enoch with the Son of Man, though interpretation remains disputed.",
+   "source": "1 Enoch 71",
+   "date": "around turn of era",
+   "tier": "modern"
+  },
+  {
+   "other": "The Head of Days",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heavenly court of judgment",
+   "note": "Enoch sees the enthroned Head of Days with the Chosen One.",
+   "source": "1 Enoch 46–48",
+   "date": "around turn of era",
+   "tier": "attested"
+  },
+  {
+   "other": "Elijah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return against Antichrist",
+   "note": "Later Christian tradition pairs Enoch and Elijah as deathless end-time witnesses.",
+   "source": "Christian apocalyptic tradition",
+   "date": "late antiquity–medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pravuil/Vreveil",
+   "other_aliases": [
+    "Pravuil",
+    "Vreveil"
+   ],
+   "kind": "taught_by",
+   "myth": "Production of Enoch's heavenly books",
+   "note": "The archangel instructs Enoch and assists his production of hundreds of books.",
+   "source": "2 Enoch 22–23",
+   "date": "date disputed",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anafiel",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Admission to the heavenly palaces",
+   "note": "Anafiel is associated with Enoch-Metatron's admission or guidance in heavenly palaces.",
+   "source": "3 Enoch/Hekhalot material",
+   "date": "late antique–medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metatron",
+   "other_aliases": [
+    "Prince of the Divine Presence",
+    "Youth",
+    "Great Scribe",
+    "Lesser YHWH"
+   ],
+   "kind": "identified_with",
+   "myth": "Enoch transformed into Metatron",
+   "note": "The exalted Enoch explicitly becomes the angel Metatron.",
+   "source": "3 Enoch",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Idrīs",
+   "other_aliases": [
+    "Idris"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Post-Qurʾānic Islamic exegesis identifies Enoch with the prophet Idrīs.",
+   "source": "al-Ṭabarī and Islamic exegesis",
+   "date": "ninth–tenth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes Trismegistus",
+   "other_aliases": [
+    "the first Hermes"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Islamicate learned tradition identifies Enoch-Idrīs with the first Hermes.",
+   "source": "Abū Maʿshar tradition",
+   "date": "ninth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Angel of the Sun",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Idrīs ascends to heaven",
+   "note": "The Angel of the Sun helps Idrīs-Enoch ascend in Islamic legend.",
+   "source": "Medieval tafsīr and qiṣaṣ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ",
+    "Son of God"
+   ],
+   "kind": "shared_myth",
+   "myth": "Enoch beholds Christ's coming",
+   "note": "Enoch preaches faith in Christ and sees his future coming.",
+   "source": "Moses 6–7",
+   "date": "1830",
+   "tier": "modern"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vision of Satan's chain",
+   "note": "Enoch sees Satan holding a great chain over the earth.",
+   "source": "Moses 7:26",
+   "date": "1830",
+   "tier": "modern"
+  },
+  {
+   "other": "Mahijah/Mahujah",
+   "other_aliases": [
+    "Mahijah",
+    "Mahujah"
+   ],
+   "kind": "other",
+   "myth": "Questions prompting Enoch's preaching",
+   "note": "Mahijah or Mahujah questions Enoch and prompts his prophetic preaching.",
+   "source": "Moses 6:40; 7:2",
+   "date": "1830",
+   "tier": "modern"
+  }
+ ]
+}

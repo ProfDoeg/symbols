@@ -1,0 +1,6787 @@
+{
+ "folder": "persian",
+ "gods": [
+  "afrasiyab",
+  "arash",
+  "bahram_gur",
+  "bizhan_and_manizheh",
+  "esfandiyar",
+  "fereydun",
+  "garshasp",
+  "gordafarid",
+  "kaveh",
+  "kay_kavus",
+  "kay_khosrow",
+  "rostam",
+  "rudabeh",
+  "siyavash",
+  "sohrab",
+  "zal"
+ ],
+ "relations": [
+  {
+   "a": "afrasiyab",
+   "b": "arash",
+   "kind": "contest",
+   "myth": "Iran–Turan boundary arrow",
+   "note": "Arash’s arrow fixes the boundary accepted in Afrasiyab’s peace settlement.",
+   "source": "Ṭabarī; Thaʿālibī; Bīrūnī",
+   "date": "tenth–eleventh centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "arash",
+   "kind": "contest",
+   "myth": "The one-arrow boundary wager",
+   "note": "Afrāsyāb accepts Arash’s arrow-shot as the measure of Iran’s restored frontier.",
+   "source": "Ṭabarī and medieval chronicles",
+   "date": "tenth century onward",
+   "tier": "regional_variant",
+   "stated_by": [
+    "arash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "arash",
+   "kind": "fought",
+   "myth": "Recovery of Iranian territory",
+   "note": "Arash helps reverse Afrāsyāb’s conquest by recovering Iranian land.",
+   "source": "Māh ī Frawardīn §22",
+   "date": "early Islamic period",
+   "tier": "canonical",
+   "stated_by": [
+    "arash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "bizhan_and_manizheh",
+   "kind": "fought",
+   "myth": "Escape from Turan",
+   "note": "After Bīžan’s liberation, Rostam’s party attacks Afrāsīāb’s palace or forces.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "bizhan_and_manizheh",
+   "kind": "punished",
+   "myth": "Bīžan’s arrest and imprisonment",
+   "note": "Afrāsīāb orders Bīžan arrested, condemns him, then imprisons him beneath Akvan’s stone.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "fereydun",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Afrasiyab descends remotely from Fereydun through Tur.",
+   "source": "Bundahišn 35.17",
+   "date": "ninth century",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_kavus",
+   "kind": "fought",
+   "myth": "Invasion during the Hamavaran expedition",
+   "note": "Afrasiyab overruns Iran while Kay Kavus is captive in Hamavaran.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_kavus",
+   "kind": "fought",
+   "myth": "Wars with Turan",
+   "note": "Afrasiyab repeatedly invades Kavus's realm and is ultimately defeated by Kavus's dynasty.",
+   "source": "Bundahišn; Šāh-nāma",
+   "date": "ninth century–1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_kavus",
+   "kind": "judged_by",
+   "myth": "Vengeance for Siyavash",
+   "note": "Kavus joins Kay Khosrow's ritual quest and celebrates Afrasiyab's capture and execution.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Afrasiyab is Kay Khosrow’s maternal grandfather through Farangis.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab",
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "deceived",
+   "myth": "Afrasiyab tests the hidden prince",
+   "note": "Young Kay Khosrow feigns simplicity when Afrasiyab tests him, escaping suspicion.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "fought",
+   "myth": "Wars of vengeance",
+   "note": "Kay Khosrow pursues his principal enemy through repeated campaigns.",
+   "source": "Yašts 9, 17, and 19",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "killed_by",
+   "myth": "Vengeance beside Lake Čaēčasta",
+   "note": "Haosravah kills Afrasiyab to avenge Syāvaršan and Aγraēraθa.",
+   "source": "Yt. 19.74–77",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "killed_by",
+   "myth": "Execution after the lake capture",
+   "note": "Kay Khosrow executes Afrasiyab in vengeance for Siyavash and Aghrirath.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "killed_by",
+   "myth": "Execution beside Lake Caēcasta",
+   "note": "Haosrauuah kills him in vengeance for Siiāuuaršan and Aγraēraθa.",
+   "source": "Yašt 19.73–78",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "killed_by",
+   "myth": "Execution after capture by Hōm",
+   "note": "Kay Khosrow cuts the captured Afrasiyab in two despite passing compassion.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "kay_khosrow",
+   "kind": "killed_by",
+   "myth": "Afrasiyab’s blood in a cup",
+   "note": "A variant brings Afrasiyab’s blood so Kay Khosrow can dip his hand.",
+   "source": "Balʿami’s History",
+   "date": "later tenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam helps Kay Ḵosrow overthrow Afrāsiāb and avenge Siāvash.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Rostam lifts Afrasiyab by his belt",
+   "note": "Rostam lifts Afrasiyab from his saddle, but Afrasiyab escapes when his belt breaks.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Expulsion during Kay Kavus’s captivity",
+   "note": "Rostam returns to occupied Iran and drives Afrasiyab’s forces out.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Rostam’s revenge for Siyavash",
+   "note": "Rostam invades Turan, kills Sorkha, plunders Afrasiyab and rules there six years.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Rescue of Bijan",
+   "note": "Rostam rescues Bijan from Afrasiyab’s pit and defeats the Turanian forces.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Wars of Iran and Turan",
+   "note": "Rostam repeatedly fights and pursues the principal Turanian enemy.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "rostam",
+   "kind": "punished_by",
+   "myth": "Hom betrays Afrasiyab’s camp",
+   "note": "In Šahmardān’s variant, Rostam helps procure Afrasiyab’s capture and urges his execution.",
+   "source": "Šahmardān",
+   "date": "eleventh century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "allied",
+   "myth": "Siyavash welcomed into Turan",
+   "note": "Afrasiyab initially receives the exiled Siyavash warmly and grants him land.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "allied",
+   "myth": "Iran–Turan peace treaty",
+   "note": "Siyavash concludes and honors a peace secured by hostages and gifts.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Afrasiyab becomes Siyavash’s father-in-law by giving him Farangis.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "fought",
+   "myth": "Afrasiyab’s invasion of Iran",
+   "note": "Siyavash commands Iranian forces against Afrasiyab before peace negotiations.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "killed",
+   "myth": "Murder of Siyavash",
+   "note": "Afrasiyab orders Siyavash’s execution after accepting Garsivaz’s false accusations.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab",
+    "siyavash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "killed",
+   "myth": "Blood of Syavarshan avenged",
+   "note": "Early tradition holds Frangrasyan responsible for blood later avenged by Haosravah.",
+   "source": "Zamyād Yašt 19.71–77",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "siyavash",
+   "kind": "served_by",
+   "myth": "Siyavash’s exile in Turan",
+   "note": "Afrasiyab receives Siyavash as a sonlike guest and grants him status.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "sohrab",
+   "kind": "allied",
+   "myth": "Afrasiab supplies Sohrab's army",
+   "note": "Afrasiab provides Turanian troops for Sohrab's invasion of Iran.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "sohrab",
+   "kind": "deceived",
+   "myth": "Rostam and Sohrab",
+   "note": "Afrasiyab encourages Sohrab’s invasion while concealing Rostam’s identity from him.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "sohrab",
+   "kind": "deceived",
+   "myth": "Afrasiab's recognition stratagem",
+   "note": "Afrasiab secretly engineers non-recognition, hoping Sohrab and Rostam destroy each other.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "sohrab",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sorkha is Afrasiyab’s son.",
+   "source": "Šāh-nāma; Ṭabarī",
+   "date": "early tenth–eleventh centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "zal",
+   "kind": "fought",
+   "myth": "Restoration of Iranian kingship",
+   "note": "Zal organizes resistance to Afrasiyab and advises subsequent Iranian campaigns.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "afrasiyab"
+   ]
+  },
+  {
+   "a": "afrasiyab",
+   "b": "zal",
+   "kind": "fought",
+   "myth": "Turanian invasion after Nowḏar’s death",
+   "note": "Zāl clashes with Afrāsīāb and opposes his Turanian invasions.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kaveh",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The later genealogy makes Kaveh an ancestor of Bizhan through the Gudarzian line.",
+   "source": "Later epic genealogies",
+   "date": "medieval tradition",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "rescued",
+   "myth": "Tiragān spring aetiology",
+   "note": "Bizhan revives the swooning king by sprinkling him with spring water.",
+   "source": "Biruni",
+   "date": "ca. 1000",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "rescued_by",
+   "myth": "Discovery through the world-revealing cup",
+   "note": "Kay Khosrow locates Bīžan in Turan and commissions Rostam to rescue him.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "rescued_by",
+   "myth": "World-showing cup",
+   "note": "Kay Khosrow locates the imprisoned Bizhan and dispatches Rostam to rescue him.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "served",
+   "myth": "Boar hunt at Arman",
+   "note": "Bīžan serves Kay Khosrow, who accepts his offer to destroy Arman’s marauding boars.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "shared_myth",
+   "myth": "Kay Khosrow’s final journey",
+   "note": "Bīžan accompanies Kay Khosrow until the king’s disappearance and later dies returning through snow.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "kay_khosrow",
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Bizhan accompanies Kay Khosrow toward disappearance and dies in Ferdowsi’s snowstorm.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "rostam",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rostam is Bīžan’s maternal grandfather in the developed epic genealogy.",
+   "source": "Iranian epic genealogical tradition",
+   "date": "medieval",
+   "tier": "late_accretion",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Rescue from the pit",
+   "note": "Rostam infiltrates Turan, removes Akvan’s stone, frees Bīžan, and commands the escape.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "bizhan_and_manizheh"
+   ]
+  },
+  {
+   "a": "bizhan_and_manizheh",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Bižan and Maniža",
+   "note": "Rostam infiltrates Turan, removes the pit-stone, and brings Bižan home.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "rostam",
+   "kind": "fought",
+   "myth": "Rostam and Esfandiyar",
+   "note": "Esfandiyar fights Rostam after negotiations fail over Goshtasp's demand for chains.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "esfandiyar",
+    "rostam"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "rostam",
+   "kind": "killed_by",
+   "myth": "Tamarisk-arrow death",
+   "note": "Rostam shoots Esfandiyar through the eyes with the Simurgh-directed two-pointed arrow.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "esfandiyar"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "rostam",
+   "kind": "killed_by",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Using Simorḡ’s counsel, Rostam fatally shoots Esfandiyār in the eyes.",
+   "source": "Šāhnāma; Thaʿālebi",
+   "date": "early 11th c.",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "rostam",
+   "kind": "other",
+   "myth": "Deathbed entrustment of Bahman",
+   "note": "Dying, Esfandiyar exonerates Rostam and entrusts Bahman's education to him.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "esfandiyar"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "rostam",
+   "kind": "shared_myth",
+   "myth": "Religious conflict variant",
+   "note": "Some histories make Esfandiyar confront Rostam for rejecting Zoroaster's new religion.",
+   "source": "Dinavari; Tārīkh-e Sīstān",
+   "date": "late ninth–eleventh century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "esfandiyar"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "zal",
+   "kind": "deceived_by",
+   "myth": "Fatal countermeasure",
+   "note": "Zal summons the Simurgh and helps devise the countermeasure that kills Esfandiyar.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "esfandiyar"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "zal",
+   "kind": "fought",
+   "myth": "Sistan expedition",
+   "note": "Zal belongs to Rostam's household opposing Esfandiyar's attempt to impose chains.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "esfandiyar"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "zal",
+   "kind": "other",
+   "myth": "Rostam and Esfandīār",
+   "note": "Zāl tries preventing conflict but indirectly enables Esfandīār’s death.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "esfandiyar",
+   "b": "zal",
+   "kind": "other",
+   "myth": "Mirror defeat of Esfandīār",
+   "note": "Zāl directs mirror armor that reflects Simurgh’s light and dazzles Esfandīār.",
+   "source": "Suhrawardī, ʿAql-e sorḵ",
+   "date": "before 1191",
+   "tier": "late_accretion",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "garshasp",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Islamic-era genealogies derive Garšāsp from Ferēdūn’s son Tūz or Tūr.",
+   "source": "Ṭabarī; Bundahišn 35",
+   "date": "early tenth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "garshasp"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "garshasp",
+   "kind": "served_by",
+   "myth": "Submission after Zahhāk’s defeat",
+   "note": "Garšāsp acknowledges Fereydun’s sovereignty after Zahhāk is defeated.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion",
+   "stated_by": [
+    "fereydun"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "garshasp",
+   "kind": "served_by",
+   "myth": "Garšāsp submits after Żaḥḥāk’s fall",
+   "note": "Garšāsp pledges allegiance to Ferēdūn and delivers his captives.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion",
+   "stated_by": [
+    "garshasp"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "garshasp",
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Kərəsāspa receives the third portion of Glory after Fereydun receives the second.",
+   "source": "Yašt 19.36–38",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "fereydun",
+    "garshasp"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "garshasp",
+   "kind": "shared_myth",
+   "myth": "Dahāg’s final destruction",
+   "note": "Garšāsp ultimately kills the Dahāg whom Fereydun had bound.",
+   "source": "Pahlavi Rivāyat",
+   "date": "Middle Persian tradition",
+   "tier": "canonical",
+   "stated_by": [
+    "fereydun"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "allied",
+   "myth": "Kāva’s revolt",
+   "note": "Kāva raises the rebellion and leads the people to Fereydun.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "fereydun"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "allied",
+   "myth": "Kaveh brings the uprising to Fereydun",
+   "note": "Kaveh leads the popular host to Fereydun and transfers leadership to the royal heir.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "gift",
+   "myth": "Fereydun ornaments Kaveh’s apron-banner",
+   "note": "Fereydun enriches Kaveh’s leather apron with brocade, gold, jewels, and colored streamers.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "gift",
+   "myth": "Kaveh forges Fereydun’s ox-headed mace",
+   "note": "Storyteller and oral traditions credit Kaveh with forging the weapon used by Fereydun.",
+   "source": "Naqqali scrolls and folklore",
+   "date": "late and twentieth-century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "other",
+   "myth": "Creation of the royal banner",
+   "note": "Fereydun adopts Kāva’s leather apron as the Derafš-e Kāviān.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "fereydun"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "served_by",
+   "myth": "Kaveh serves Fereydun as commander",
+   "note": "After refusing kingship, Kaveh selects Fereydun and serves as his commander and administrator.",
+   "source": "Balʿami, Tarikh-nama-ye Tabari",
+   "date": "begun 963",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kaveh",
+   "kind": "served_by",
+   "myth": "Fereydun sends Kaveh to Khavar and Rum",
+   "note": "Kaveh campaigns as Fereydun’s general to impose royal authority and collect tribute.",
+   "source": "Asadi, Garshaspnameh",
+   "date": "1064–66",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kaveh"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kay_khosrow",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Oxus episode invokes Fereydun as Kay Khosrow’s ancestral precedent.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "kay_khosrow",
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "Their victories are linked typologically through the same transhistorical weapon.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "fereydun",
+   "b": "siyavash",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Siyavash descends from Fereydun through his unnamed mother.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "garshasp",
+   "b": "rostam",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Rostam invokes Garšāsp or Karšāsb as an ancestor in his pedigree.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "late_accretion",
+   "stated_by": [
+    "garshasp",
+    "rostam"
+   ]
+  },
+  {
+   "a": "garshasp",
+   "b": "rostam",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists treat Rostam as Garšāsp’s successor, replacement, or transformation.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "garshasp",
+   "b": "zal",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "New Persian epic places Zāl in the lineage descending from Garšāsp.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "late_accretion",
+   "stated_by": [
+    "garshasp",
+    "zal"
+   ]
+  },
+  {
+   "a": "gordafarid",
+   "b": "sohrab",
+   "kind": "deceived",
+   "myth": "Gordafarid escapes into the fortress",
+   "note": "Gordafarid uses negotiation and attraction to escape, then mocks Sohrab from the wall.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "gordafarid",
+   "b": "sohrab",
+   "kind": "fought",
+   "myth": "Combat at the White Fortress",
+   "note": "Gordafarid challenges Sohrab, who overcomes her and exposes her identity.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "allied",
+   "myth": "Vengeance against Afrasiyab",
+   "note": "Kavus worships and participates in the vengeance cycle beside his reigning grandson.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Kay Kavus is Kay Khosrow’s paternal grandfather.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Kay Khosrow is Kavus's grandson through Siyavash.",
+   "source": "Bundahišn; Šāh-nāma",
+   "date": "ninth century; 1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "judged",
+   "myth": "Trial of Dež-e Bahman",
+   "note": "Kavus tests Kay Khosrow's succession claim and awards him the crown.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "judged",
+   "myth": "Bahman fortress succession test",
+   "note": "Kay Kavus tests his fitness for succession against Fariborz.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "kay_khosrow",
+   "kind": "rescued_by",
+   "myth": "Kavus falls from heaven",
+   "note": "His unborn fravaši orders Nēryōsang to spare Kavus for salvation history.",
+   "source": "Dēnkard 9.22",
+   "date": "ninth–tenth centuries CE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "allied",
+   "myth": "Defense of Kavus's realm",
+   "note": "Rostam repeatedly serves as Kavus's champion, defender, critic, and restorer of order.",
+   "source": "Middle Persian texts; Šāh-nāma",
+   "date": "ninth century–1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "contest",
+   "myth": "Quarrel before Sohrab's invasion",
+   "note": "Kavus quarrels with Rostam and rashly orders his execution before reconciliation.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Mazandaran captivity",
+   "note": "Rostam completes the Seven Labors and frees the blinded, imprisoned Kavus.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Šambarān captivity",
+   "note": "Rostam captures Šambarān and liberates Kay Us and the deported Iranians.",
+   "source": "Bundahišn 33.9–11",
+   "date": "ninth century CE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Hamavaran captivity",
+   "note": "Rostam defeats Hamavaran's allies and compels Kavus's captors to release him.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Seven Labours",
+   "note": "Rostam rescues the blinded and imprisoned king from Māzandarān’s demons.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Captivity in Hāmāvarān",
+   "note": "Rostam rescues Kay Kāvus from captivity in Hāmāvarān.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "rescued_by",
+   "myth": "Flying-throne disaster",
+   "note": "Rostam rescues Kay Kāvus after the king’s flying-throne disaster.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "rostam",
+   "kind": "served_by",
+   "myth": "Kāvus’s reign",
+   "note": "Rostam repeatedly defends and admonishes the impulsive king.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "siyavash",
+   "kind": "judged",
+   "myth": "Trial by fire",
+   "note": "Kavus accepts Siyavash's ordeal by fire as proof against Sudabeh's accusation.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "siyavash",
+   "kind": "judged",
+   "myth": "Sudabeh’s accusation and fire ordeal",
+   "note": "Kavus judges Sudabeh’s accusation and witnesses Siyavash’s vindication by fire.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "siyavash",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Siyavash is Kavus's son and heir across Middle Persian and epic traditions.",
+   "source": "Dēnkard; Bundahišn; Šāh-nāma",
+   "date": "ninth century–1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus",
+    "siyavash"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "siyavash",
+   "kind": "punished",
+   "myth": "Rejection of Siyavash's peace",
+   "note": "Kavus demands treaty-breaking, making Siyavash's return impossible and precipitating his exile.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "siyavash",
+   "kind": "punished",
+   "myth": "Rejected peace treaty",
+   "note": "Kavus orders Siyavash to violate his treaty, driving him into exile.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "sohrab",
+   "kind": "contest",
+   "myth": "Sohrab's planned deposition of Kavus",
+   "note": "Sohrab invades Iran intending to depose Kavus and enthrone Rostam.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "sohrab",
+   "kind": "fought",
+   "myth": "Sohrab's invasion of Iran",
+   "note": "Sohrab invades intending to depose Kavus and challenges his royal authority.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "sohrab",
+   "kind": "punished",
+   "myth": "Withholding the antidote",
+   "note": "Kavus deliberately withholds healing medicine after Sohrab is mortally wounded.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "sohrab",
+   "kind": "punished",
+   "myth": "Kavus withholds the panacea",
+   "note": "Kavus denies or delays healing medicine because he fears Sohrab united with Rostam.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "zal",
+   "kind": "allied",
+   "myth": "Mazandaran campaign",
+   "note": "Zal warns Kavus, receives his appeal for aid, and dispatches Rostam.",
+   "source": "Šāh-nāma",
+   "date": "1010 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_kavus"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "zal",
+   "kind": "rescued_by",
+   "myth": "Crises of Kay Kāvus’s reign",
+   "note": "Zāl and his heroic house repeatedly rescue Kay Kāvus’s monarchy.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "kay_kavus",
+   "b": "zal",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Zāl serves Kay Kāvus as elder counselor and supports his monarchy.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "rostam",
+   "kind": "allied",
+   "myth": "Wars of vengeance",
+   "note": "Rostam champions his cause and leads campaigns against Turanian forces.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "rostam",
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam supports Kay Ḵosrow’s kingship and campaigns of vengeance.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "rostam",
+   "kind": "served_by",
+   "myth": "Rescue of Bizhan",
+   "note": "Kay Khosrow sends Rostam to rescue Bizhan after locating him.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "siyavash",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Siiāuuaršan is Kay Khosrow’s father in Avestan and later traditions.",
+   "source": "Yašt 13.132–137",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_khosrow",
+    "siyavash"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "siyavash",
+   "kind": "other",
+   "myth": "Vengeance for Siyavash",
+   "note": "Kay Khosrow wages war and kills Afrasiyab to avenge his father.",
+   "source": "Yašts 17 and 19",
+   "date": "first millennium BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kay_khosrow",
+    "siyavash"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "zal",
+   "kind": "contest",
+   "myth": "Selection of Lohrāsp",
+   "note": "Zāl opposes Kay Khosrow’s chosen successor until the king establishes Lohrāsp’s fitness.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "kay_khosrow"
+   ]
+  },
+  {
+   "a": "kay_khosrow",
+   "b": "zal",
+   "kind": "contest",
+   "myth": "Lohrāsp’s nomination as heir",
+   "note": "Zāl disputes Kay Ḵosrow’s nomination of Lohrāsp but accepts the royal order.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "siyavash",
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam campaigns against Turan to avenge Siāvash’s execution.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "siyavash",
+   "kind": "allied",
+   "myth": "War against Afrasiyab",
+   "note": "Rostam accompanies Siyavash during his successful command against Afrasiyab.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "siyavash",
+   "kind": "other",
+   "myth": "Vengeance for Siyavash",
+   "note": "Rostam mourns Siyavash, kills Sudabeh, and invades Turan in retaliation.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "siyavash",
+   "kind": "taught",
+   "myth": "Training of Siāvash",
+   "note": "Rostam trains and protects the young prince.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "siyavash",
+   "kind": "taught",
+   "myth": "Siyavash’s upbringing",
+   "note": "Rostam fosters Siyavash and teaches him warfare, justice, speech, and kingship.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "siyavash"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "deceived",
+   "myth": "Rostam and Sohrāb",
+   "note": "Rostam denies his identity and invents a rule after losing their first bout.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "deceived",
+   "myth": "Rostam invents the two-fall custom",
+   "note": "Rostam falsely claims Iranian custom requires two falls before killing a champion.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "fought",
+   "myth": "Rostam and Sohrāb",
+   "note": "Father and unrecognized son meet in two wrestling combats.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "fought",
+   "myth": "Inconclusive weapons combat",
+   "note": "They fight anonymously with multiple weapons, without a decisive result.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "fought",
+   "myth": "Sohrab throws and spares Rostam",
+   "note": "Sohrab throws Rostam in wrestling but accepts his plea and spares him.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "killed",
+   "myth": "Rostam and Sohrāb",
+   "note": "Rostam mortally stabs Sohrāb before recognizing him by the token.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "killed",
+   "myth": "Rostam's fatal wrestling victory",
+   "note": "Rostam throws Sohrab and mortally wounds him with a dagger.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "sohrab",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sohrāb is Rostam’s son by Tahmina.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam",
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "zal",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zāl is Rostam’s father.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "rostam",
+    "zal"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "zal",
+   "kind": "rescued_by",
+   "myth": "Rostam’s battle with Esfandīār",
+   "note": "Zāl summons the Simurgh to heal the wounded Rostam and Raḵš.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "rostam",
+   "b": "zal",
+   "kind": "taught_by",
+   "myth": "Rostam’s battle with Esfandīār",
+   "note": "Zāl counsels restraint before helping Rostam learn Esfandīār’s vulnerability.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical",
+   "stated_by": [
+    "zal"
+   ]
+  },
+  {
+   "a": "rudabeh",
+   "b": "sohrab",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Sohrab is Rudabeh's paternal grandson.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "rudabeh",
+   "b": "sohrab",
+   "kind": "shared_myth",
+   "myth": "Sistanian family mourning",
+   "note": "Rudabeh participates in family mourning for Sohrab in received versions.",
+   "source": "Received Shahnameh versions",
+   "date": "medieval manuscripts",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "sohrab",
+   "b": "zal",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sohrab is Zal's paternal grandson.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  },
+  {
+   "a": "sohrab",
+   "b": "zal",
+   "kind": "shared_myth",
+   "myth": "Sistanian family mourning",
+   "note": "Zal receives the dead youth within the mourning Sistanian family.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "completed 1010",
+   "tier": "canonical",
+   "stated_by": [
+    "sohrab"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "afrasiyab",
+   "god": "persian/ahura_mazda",
+   "kind": "fought",
+   "myth": "Afrasiyab threatens grain and drink",
+   "note": "Ahura Mazda opposes Afrasiyab’s threat to corrupt grain and drink.",
+   "source": "Yt. 19.56–64",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/ahura_mazda",
+   "kind": "punished_by",
+   "myth": "Removal of Afrasiyab’s immortality",
+   "note": "Ohrmazd reverses the immortality that Ahriman had intended for Afrasiyab.",
+   "source": "Mēnōg ī Xrad 8.29–30",
+   "date": "late antique/early medieval",
+   "tier": "canonical"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/ahriman",
+   "kind": "gift",
+   "myth": "Ahriman grants intended immortality",
+   "note": "Ahriman originally makes Afrasiyab immortal before Ohrmazd alters his condition.",
+   "source": "Mēnōg ī Xrad 8.29–30",
+   "date": "late antique/early medieval",
+   "tier": "canonical"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/ahriman",
+   "kind": "served",
+   "myth": "Ahrimanic devastators of Iran",
+   "note": "Middle Persian theology classifies Afrasiyab among Ahriman’s destructive instruments.",
+   "source": "Zand ī Wahman Yasn 7.32",
+   "date": "post-Sasanian",
+   "tier": "canonical"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/anahita",
+   "kind": "other",
+   "myth": "Sacrifice for Iranian royal glory",
+   "note": "Afrasiyab sacrifices lavishly to Anāhitā, but she refuses his request for glory.",
+   "source": "Yt. 5.41–43",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/haoma",
+   "kind": "punished_by",
+   "myth": "Haoma binds Afrasiyab",
+   "note": "The Avestan deity binds Afrasiyab and delivers him to Kavi Haosravah.",
+   "source": "Yasna 11.7; Yt. 9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/haoma",
+   "kind": "punished_by",
+   "myth": "Capture at Hang and Lake Čēčast",
+   "note": "Hom captures Afrasiyab near his cave and helps expose him at the lake.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/spenta_armaiti",
+   "kind": "consort_of",
+   "myth": "Union with the earth",
+   "note": "The earth goddess is described as Afrasiyab’s wife or violated partner.",
+   "source": "Šahrastānīhā §35; Theodore bar Koni",
+   "date": "sixth–eighth centuries",
+   "tier": "canonical"
+  },
+  {
+   "a": "afrasiyab",
+   "god": "persian/spenta_armaiti",
+   "kind": "punished_by",
+   "myth": "Arash establishes Iran’s boundary",
+   "note": "Esfandarmad orders the boundary bow and arrow that curtail Afrasiyab’s dominion.",
+   "source": "Bīrūnī, al-Āṯār al-bāqiya",
+   "date": "ca. 1000",
+   "tier": "canonical"
+  },
+  {
+   "a": "arash",
+   "god": "persian/tishtrya",
+   "kind": "shared_myth",
+   "myth": "Tishtrya’s flight toward Vourukaša",
+   "note": "Tishtrya’s celestial speed is compared to Arash’s proverbial arrow.",
+   "source": "Tištar Yašt 8.6, 8.37–38",
+   "date": "Young Avestan",
+   "tier": "attested"
+  },
+  {
+   "a": "arash",
+   "god": "persian/ahura_mazda",
+   "kind": "allied",
+   "myth": "Divine wind carries the boundary arrow",
+   "note": "God orders the wind to carry Arash’s arrow toward Iran’s frontier.",
+   "source": "Bīrūnī, Āṯār al-bāqiya",
+   "date": "ca. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "bahram_gur",
+   "god": "persian/yima_jamshid",
+   "kind": "other",
+   "myth": "Bahram visits Jamshid’s treasure",
+   "note": "Bahram finds or visits the primordial king’s treasure; they never meet.",
+   "source": "Ferdowsi’s Shāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "esfandiyar",
+   "god": "persian/ahura_mazda",
+   "kind": "shared_myth",
+   "myth": "Righteous community of Vištāspa",
+   "note": "Esfandiyar belongs to the righteous Zoroastrian community; no direct dialogue survives.",
+   "source": "Frawardīn Yašt 13.103",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "esfandiyar",
+   "god": "persian/simurgh",
+   "kind": "deceived_by",
+   "myth": "Tamarisk-arrow stratagem",
+   "note": "The beneficent Simurgh reveals Esfandiyar's vulnerable eyes and directs the fatal weapon.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "esfandiyar",
+   "god": "persian/simurgh",
+   "kind": "deceived_by",
+   "myth": "Optical death stratagem",
+   "note": "Reflected Simurgh radiance dazzles Esfandiyar until he imagines his eyes pierced.",
+   "source": "The Red Intellect",
+   "date": "before 1191",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/yima_jamshid",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Middle Persian and epic genealogies make Fereydun a descendant of Yima.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/haoma",
+   "kind": "shared_myth",
+   "myth": "Reward for Āθβiia’s Haoma pressing",
+   "note": "Haoma recounts how Āθβiia’s pressing was rewarded by Fereydun’s birth.",
+   "source": "Yasna 9.7–8",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/azhi_dahaka",
+   "kind": "fought",
+   "myth": "Defeat of Aži Dahāka",
+   "note": "Fereydun defeats the three-headed being created by Angra Mainyu.",
+   "source": "Yasna 9; Yašts 5, 15, 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/azhi_dahaka",
+   "kind": "killed",
+   "myth": "Avestan dragon combat",
+   "note": "The Avestan tradition says Fereydun smote Dahāka and explicitly recalls his killing.",
+   "source": "Yašt 19.36–37, 92",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/azhi_dahaka",
+   "kind": "punished",
+   "myth": "Binding on Damāvand",
+   "note": "Later tradition has Fereydun bind and imprison Dahāg instead of killing him.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/azhi_dahaka",
+   "kind": "fought",
+   "myth": "Conquest of Zahhāk",
+   "note": "Fereydun strikes Zahhāk with the ox-headed mace before imprisoning him.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/ahriman",
+   "kind": "punished_by",
+   "myth": "Loss of immortality",
+   "note": "Ahriman makes the initially immortal Fereydun mortal.",
+   "source": "Mēnōg ī xrad 8.27",
+   "date": "sixth–ninth centuries",
+   "tier": "canonical"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/anahita",
+   "kind": "gift",
+   "myth": "Petition for victory",
+   "note": "After receiving Fereydun’s sacrifice, Anāhitā grants victory and the captives’ release.",
+   "source": "Yašt 5.33–35",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/khvarenah",
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "The second portion of Yima’s departed Glory adheres to Fereydun.",
+   "source": "Yašt 19.36–37",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/yima_jamshid",
+   "kind": "shared_myth",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Fereydun receives the second portion of the Glory that departed Yima.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/yima_jamshid",
+   "kind": "other",
+   "myth": "Vengeance for Yima",
+   "note": "Middle Persian tradition presents Fereydun as the avenger of Yima.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/mithra",
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first portion of Glory before Fereydun receives the second.",
+   "source": "Yašt 19.35–36",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "fereydun",
+   "god": "persian/ahura_mazda",
+   "kind": "other",
+   "myth": "Binding of Dahāg",
+   "note": "Ohrmazd commands Fereydun not to kill Dahāg, preventing demonic creatures’ release.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/haoma",
+   "kind": "gift",
+   "myth": "Θrita presses Haoma",
+   "note": "Haoma rewards Θrita’s sacrifice with Kərəsāspa and his brother.",
+   "source": "Yasna 9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/yima_jamshid",
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Kərəsāspa receives the third portion of Yima’s departed royal Glory.",
+   "source": "Yašt 19.34–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/yima_jamshid",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "New Persian traditions make Garšāsp a descendant or seed of Jamšid.",
+   "source": "Šāh-nāma; Garšāsp-nāma",
+   "date": "eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/mithra",
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first share of Glory and Kərəsāspa the third.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/anahita",
+   "kind": "gift",
+   "myth": "Petition for victory over Gaṇdərəβa",
+   "note": "Anāhitā accepts Kərəsāspa’s sacrifice and grants his requested victory.",
+   "source": "Yašt 5.37–39",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/ahura_mazda",
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Ohrmazd judges Karsāsp and recognizes that his victories preserved creation.",
+   "source": "Dēnkard 9.15; Pahlavi Rivāyat 18f",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/ahura_mazda",
+   "kind": "other",
+   "myth": "Awakening for the final combat",
+   "note": "Ohrmazd orders Karsāsp awakened to kill the escaped Dahāg.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/atar",
+   "kind": "other",
+   "myth": "Overturned cooking vessel",
+   "note": "Karsāsp injures or extinguishes sacred Fire when the serpent overturns his pot.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/atar",
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Fire accuses Karsāsp and initially refuses him admission to paradise.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/azhi_dahaka",
+   "kind": "killed",
+   "myth": "Dahāg escapes at the end time",
+   "note": "The awakened Karsāsp kills the escaped Dahāg with his club.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/azhi_dahaka",
+   "kind": "fought",
+   "myth": "Dahāg offers conversion and joint rule",
+   "note": "Karsāsp strikes Dahāg after his belated acceptance comes too late.",
+   "source": "Jāmāsp-nāmag",
+   "date": "Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/azhi_dahaka",
+   "kind": "other",
+   "myth": "Dahāg accepts conversion",
+   "note": "In a Persian variant, Dahāg accepts Karsāsp’s offer and evil departs.",
+   "source": "Persian Jāmāsp-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/azhi_dahaka",
+   "kind": "served",
+   "myth": "Young Garšāsp serves Żaḥḥāk",
+   "note": "Żaḥḥāk challenges Garšāsp to slay a dragon and commands his Indian campaign.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "garshasp",
+   "god": "persian/saoshyant",
+   "kind": "taught_by",
+   "myth": "Conversion before the Dahāg combat",
+   "note": "Sōšāns forces or persuades Sām to accept the religion before fighting Dahāg.",
+   "source": "Persian Bahman-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "kaveh",
+   "god": "persian/azhi_dahaka",
+   "kind": "fought",
+   "myth": "Kaveh confronts Zahhak and begins the revolt",
+   "note": "Kaveh recovers his son, tears Zahhak’s testimonial, denounces the court, and rallies a revolt.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "kaveh",
+   "god": "persian/azhi_dahaka",
+   "kind": "fought",
+   "myth": "Kaveh’s campaign against Zahhak",
+   "note": "Kaveh defeats Zahhak’s forces and joins Fereydun in defeating or killing the tyrant.",
+   "source": "Balʿami, Tarikh-nama-ye Tabari",
+   "date": "begun 963",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "kaveh",
+   "god": "persian/azhi_dahaka",
+   "kind": "killed",
+   "myth": "Kaveh personally kills Zahhak",
+   "note": "Some oral accounts make Kaveh capture, torture, kill, or continually guard Zahhak.",
+   "source": "Enjavi, Ferdowsi-nama",
+   "date": "twentieth-century collections",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "kaveh",
+   "god": "persian/azhi_dahaka",
+   "kind": "killed",
+   "myth": "Kawa kills Dehak and signals liberation",
+   "note": "Modern Kurdish tradition makes Kawa kill Dehak with a hammer and light liberation fires.",
+   "source": "Modern Kurdish nationalist tradition",
+   "date": "1950s–60s onward",
+   "tier": "modern"
+  },
+  {
+   "a": "kaveh",
+   "god": "persian/yima_jamshid",
+   "kind": "shared_myth",
+   "myth": "Jamshid reveals Fereydun in Kaveh’s dream",
+   "note": "In folk versions Jamshid appears in a dream and reveals Fereydun’s location to Kaveh.",
+   "source": "Oral traditions collected by Enjavi",
+   "date": "twentieth-century collection",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "kay_kavus",
+   "god": "persian/anahita",
+   "kind": "gift",
+   "myth": "Sacrifice on Eagle Mountain",
+   "note": "Kavus sacrifices to her, and she grants his request for sovereignty.",
+   "source": "Ābān Yašt 5.45–47",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "kay_kavus",
+   "god": "persian/ahura_mazda",
+   "kind": "punished_by",
+   "myth": "Assault on heavenly glory",
+   "note": "Ohrmazd recalls the Kavian glory, causing Kavus and his army to fall.",
+   "source": "Dēnkard 9.22",
+   "date": "ninth–tenth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "a": "kay_khosrow",
+   "god": "persian/ahura_mazda",
+   "kind": "served",
+   "myth": "Final Renovation",
+   "note": "His glory, victories, and future service belong to Mazdean sacred order.",
+   "source": "Yašt 19; Middle Persian eschatology",
+   "date": "first millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "a": "kay_khosrow",
+   "god": "persian/haoma",
+   "kind": "allied",
+   "myth": "Capture of Fraŋrasiiān",
+   "note": "Haoma captures Fraŋrasiiān and delivers him bound to Kay Khosrow.",
+   "source": "Yašts 9 and 17",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "kay_khosrow",
+   "god": "persian/haoma",
+   "kind": "allied",
+   "myth": "Afrasiyab drawn from Lake Čičast",
+   "note": "Hōm captures and binds Afrasiyab before bringing him for execution.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "kay_khosrow",
+   "god": "persian/azhi_dahaka",
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "Aži Dahāka’s defeat is typologically linked to Haosrauuah’s victorious weapon.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "kay_khosrow",
+   "god": "persian/yima_jamshid",
+   "kind": "identified_with",
+   "myth": "Conflation of world-showing cups",
+   "note": "Medieval literature conflates Kay Khosrow’s cup with Jamshid’s world-revealing cup.",
+   "source": "Medieval Persian literary tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "a": "rostam",
+   "god": "persian/azhi_dahaka",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rostam descends maternally from Żaḥḥāk through Mehrāb and Rudāba.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "rudabeh",
+   "god": "persian/azhi_dahaka",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rudabeh is his remote descendant; this lineage threatens her marriage to Zāl.",
+   "source": "Ferdowsi, Šāhnāma",
+   "date": "c. 1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "siyavash",
+   "god": "persian/atar",
+   "kind": "judged_by",
+   "myth": "Fire ordeal",
+   "note": "Siyavash rides through blazing piles unharmed, publicly proving his innocence.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "siyavash",
+   "god": "persian/khvarenah",
+   "kind": "shared_myth",
+   "myth": "Kayanian royal succession",
+   "note": "Siyavash belongs to the Kayanian sequence associated with the royal Glory.",
+   "source": "Zamyād Yašt 19.71–74",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "zal",
+   "god": "persian/simurgh",
+   "kind": "rescued_by",
+   "myth": "Zāl’s exposure and fosterage on Alborz",
+   "note": "She rescues the exposed infant, feeds him, and raises him.",
+   "source": "Ferdowsi; Thaʿālibī",
+   "date": "1010; c. 1000–20",
+   "tier": "canonical"
+  },
+  {
+   "a": "zal",
+   "god": "persian/simurgh",
+   "kind": "gift",
+   "myth": "Zāl’s return from the Simurgh’s nest",
+   "note": "She gives Zāl feathers through which he can summon her.",
+   "source": "Ferdowsi; Thaʿālibī",
+   "date": "1010; c. 1000–20",
+   "tier": "canonical"
+  },
+  {
+   "a": "zal",
+   "god": "persian/simurgh",
+   "kind": "taught_by",
+   "myth": "Rostam’s surgical birth",
+   "note": "She instructs Zāl how to deliver Rostam and heal Rudāba.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "a": "zal",
+   "god": "persian/simurgh",
+   "kind": "taught_by",
+   "myth": "Rostam’s battle with Esfandīār",
+   "note": "She teaches Zāl and Rostam how Esfandīār can be defeated.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical"
+  }
+ ],
+ "unresolved": {
+  "*Nōhīn": [
+   {
+    "stated_by": "garshasp",
+    "kind": "fought",
+    "myth": "Attack on sleeping Karsāsp",
+    "note": "The Turk Nōhīn shoots Karsāsp while the hero sleeps.",
+    "source": "Bundahišn 29",
+    "date": "ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Abraham": [
+   {
+    "stated_by": "fereydun",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Al-Maqdisī compares or identifies Fereydun with Abraham.",
+    "source": "Ketāb al-badʾ wa’l-taʾrīḵ",
+    "date": "late tenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Abīweh": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The Dēnkard names Kavus as Abīweh's eldest son.",
+    "source": "Dēnkard 7.1",
+    "date": "ninth–tenth centuries CE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Several chronicle genealogies place Abīweh as an intermediary ancestor rather than father.",
+    "source": "Biruni; Maqdesi",
+    "date": "tenth–eleventh centuries CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aghrirath": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "killed",
+    "myth": "Escape of the Iranian prisoners",
+    "note": "Afrasiyab kills Aghrirath for helping captive Iranian warriors escape.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Ahrimen": [
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Dahāg tempts Sām",
+    "note": "Dahāg urges Sām to serve Ahrimen, but Sām refuses and curses him.",
+    "source": "Persian Bahman-nāma",
+    "date": "late medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Akvan Div": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "The stone covering Bīžan’s pit",
+    "note": "Bīžan is imprisoned beneath a stone formerly hurled by Akvan, but they never meet.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "deceived_by",
+    "myth": "Akvan Div",
+    "note": "Akvan abducts Rostam and tries to reverse his requested destination.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Akvan Div",
+    "note": "After surviving the sea, Rostam recovers Rakhsh and kills Akvan.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Alexander": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Wisdom and cave traditions",
+    "note": "Later synchronism connects their wisdom quests, cups, caves, and vanished-king traditions.",
+    "source": "Medieval romance and historiography",
+    "date": "medieval period",
+    "tier": "syncretism"
+   }
+  ],
+  "Alp Ariz": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Alp Ariz is Afrasiyab’s gigantic son in Oghuz fragments.",
+    "source": "Oghuz epic fragments",
+    "date": "medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Alvāy": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "fought",
+    "myth": "Sistan campaign",
+    "note": "The Sistanian warrior fights Esfandiyar's forces and is killed by Nush-Azar.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Andariman": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "punished",
+    "myth": "Fall of the Brazen Fortress",
+    "note": "Esfandiyar captures and hangs Arjasp's kinsman or commander Andariman.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Ard Wahišt": [
+   {
+    "stated_by": "garshasp",
+    "kind": "judged_by",
+    "myth": "Judgment for injuring Fire",
+    "note": "Fire’s guardian accuses Garšāsp but pardons him in one Persian account.",
+    "source": "Ṣad dar-e Bondaheš 20",
+    "date": "late medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ardashir": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ardashir is named as Esfandiyar's brother in canonical epic genealogy.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Arjasp": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "fought",
+    "myth": "First religious war",
+    "note": "Esfandiyar defeats Arjasp's anti-Zoroastrian forces after Zarer's death.",
+    "source": "Ayādgār ī Zarērān; Daqiqi",
+    "date": "Middle Persian–ca. 976",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "fought",
+    "myth": "Second invasion",
+    "note": "Released from prison, Esfandiyar defeats Arjasp's invading field army.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "deceived",
+    "myth": "Infiltration of the Brazen Fortress",
+    "note": "Disguised as a merchant, Esfandiyar enters Arjasp's fortress with concealed warriors.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "killed",
+    "myth": "Capture of the Brazen Fortress",
+    "note": "Esfandiyar kills Arjasp in his private quarters after infiltrating the fortress.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Arnavāz": [
+   {
+    "stated_by": "fereydun",
+    "kind": "rescued",
+    "myth": "Rescue from Dahāka",
+    "note": "Fereydun asks for and accomplishes her release from Dahāka.",
+    "source": "Yašts 5 and 15",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "A widespread later tradition makes the rescued Arnavāz Fereydun’s consort.",
+    "source": "Islamic national histories",
+    "date": "ninth–eleventh centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Arzhang Div": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Rostam's Seven Labors",
+    "note": "Arzhang serves the demonic power holding Kavus and dies during Rostam's rescue.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Aršak": [
+   {
+    "stated_by": "arash",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship hypothetically identifies or links Arash with the Arsacid ancestral figure.",
+    "source": "Modern reconstruction from names and coins",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Aržang Div": [
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Sixth Labour",
+    "note": "Rostam assaults Aržang Div’s camp and kills him.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Arədvī Sūrā Anāhitā": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Lake Caēcasta chariot contest",
+    "note": "He sacrifices for victory, and she grants his request.",
+    "source": "Yašt 5.49–50",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Arəzošamana": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Catalogue of Kərəsāspa’s enemies",
+    "note": "Kərəsāspa kills the strong heroic adversary Arəzošamana.",
+    "source": "Yašt 19.42",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Astuuat̰.ərəta": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Succession of the victorious weapon",
+    "note": "The future savior inherits the weapon associated with Haosrauuah’s victory.",
+    "source": "Yašt 19.92–93",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Final Renovation",
+    "note": "Kay Husrōy assists the future savior’s Renovation.",
+    "source": "Middle Persian eschatological texts",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Auruuasāra": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "fought",
+    "myth": "Auruuasāra’s pursuit",
+    "note": "Auruuasāra seeks divine aid to overtake or defeat Haosrauuah.",
+    "source": "Yašt 15.31",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Aēšma": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "deceived_by",
+    "myth": "Assault on heavenly glory",
+    "note": "Aēšma inflames Kavus's ambition and induces his attempted conquest of heaven.",
+    "source": "Dēnkard 9.22.5–8",
+    "date": "ninth–tenth centuries CE",
+    "tier": "attested"
+   }
+  ],
+  "Aŋra Mainiiu": [
+   {
+    "stated_by": "garshasp",
+    "kind": "rescued",
+    "myth": "Snāuuiδka’s cosmic boast",
+    "note": "Kərəsāspa prevents Snāuuiδka from harnessing Aŋra Mainiiu to his chariot.",
+    "source": "Yašt 19.43–44",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Aši": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Vengeance against Fraŋrasiiān",
+    "note": "He petitions her for victory and vengeance for Siiāuuaršan and Aγraēraθa.",
+    "source": "Yašt 17.41–43",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Aškbus": [
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Combat with Aškbus",
+    "note": "Fighting on foot, Rostam kills the mounted Aškbus with an arrow.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Aγraēraθa": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Aγraēraθa is Afrasiyab’s virtuous brother.",
+    "source": "Yts. 9, 19; Šāh-nāma",
+    "date": "first millennium BCE onward",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "other",
+    "myth": "Vengeance for Aγraēraθa",
+    "note": "Kay Khosrow avenges Aγraēraθa’s killing alongside his father’s death.",
+    "source": "Yašts 17 and 19",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Bahman": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Esfandiyar is Bahman's father in Middle Persian and epic genealogy.",
+    "source": "Bundahišn; Dēnkard",
+    "date": "ninth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Canonical and historical traditions retain Bahman as Esfandiyar's son and successor.",
+    "source": "Ferdowsi; Tabari",
+    "date": "tenth–early eleventh century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "other",
+    "myth": "Deathbed entrustment",
+    "note": "Esfandiyar entrusts Bahman to Rostam for education while dying.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "taught",
+    "myth": "Esfandiyār’s dying request",
+    "note": "The dying Esfandiyār entrusts Bahman to Rostam’s care.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "punished_by",
+    "myth": "Bahman’s vengeance",
+    "note": "Bahman later attacks Rostam’s household and ancestral realm.",
+    "source": "Šāhnāma; Bahman-nāma",
+    "date": "1010; 12th c.",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "killed_by",
+    "myth": "Bahman kills Rostam",
+    "note": "A chronicle variant makes Bahman kill Rostam and members of his house.",
+    "source": "Ṭabari",
+    "date": "early 10th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "punished_by",
+    "myth": "Bahman’s invasion of Sistan",
+    "note": "Bahman confiscates Zāl’s wealth and imprisons him before releasing him.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "killed_by",
+    "myth": "Bahman’s destruction of Zāl’s house",
+    "note": "Early historical versions say Bahman kills Zāl.",
+    "source": "Al-Ṭabarī, History",
+    "date": "c. 915",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "killed_by",
+    "myth": "Bahman’s destruction of Zāl’s house",
+    "note": "The lost verse epic reportedly says Bahman kills Zāl.",
+    "source": "Masʿūdī of Marv via Thaʿālibī",
+    "date": "early 10th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "fought",
+    "myth": "Bahman’s expanded war against Sistan",
+    "note": "Zāl resists Bahman, who captures and later releases him.",
+    "source": "Bahman-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bahram": [
+   {
+    "stated_by": "siyavash",
+    "kind": "served_by",
+    "myth": "Siyavash’s departure for Turan",
+    "note": "Siyavash entrusts the Iranian army to Bahram until Tus arrives.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Bahrām": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "other",
+    "myth": "",
+    "note": "Bahrām is Bīžan’s paternal uncle and a member of the same heroic clan.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Bahū": [
+   {
+    "stated_by": "garshasp",
+    "kind": "fought",
+    "myth": "Restoration of the Indian king",
+    "note": "Garšāsp defeats the Indian usurper Bahū and restores the displaced king.",
+    "source": "Garšāsp-nāma",
+    "date": "1066",
+    "tier": "late_accretion"
+   }
+  ],
+  "Barman": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Rostam and Sohrab",
+    "note": "Afrasiyab assigns Barman to accompany Sohrab and conceal his parentage.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "allied",
+    "myth": "Sohrab's Turanian expedition",
+    "note": "Barman supports and supervises Sohrab's expedition under Afrasiab's orders.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "deceived_by",
+    "myth": "Afrasiab's recognition stratagem",
+    "note": "Barman helps execute the plan preventing Sohrab from recognizing Rostam.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Barmāya": [
+   {
+    "stated_by": "fereydun",
+    "kind": "served_by",
+    "myth": "Fereydun’s hidden childhood",
+    "note": "The miraculous multicolored cow nurses Fereydun for three years.",
+    "source": "Šāhnāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "allied",
+    "myth": "Campaign against Zahhāk",
+    "note": "A companion named Barmāya accompanies Fereydun in textually variable accounts.",
+    "source": "Šāhnāma manuscripts",
+    "date": "medieval textual tradition",
+    "tier": "regional_variant"
+   }
+  ],
+  "Barmāyūn": [
+   {
+    "stated_by": "fereydun",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The Middle Persian genealogy names Barmāyūn as Frēdōn’s brother.",
+    "source": "Bundahišn",
+    "date": "ninth-century redaction",
+    "tier": "canonical"
+   }
+  ],
+  "Bastwar": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "Vengeance for Zarer",
+    "note": "The cousins fight to avenge Zarer, with variant credit for killing Wīdrafš.",
+    "source": "Ayādgār ī Zarērān; Daqiqi",
+    "date": "Middle Persian–ca. 976",
+    "tier": "regional_variant"
+   }
+  ],
+  "Behāfarid": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Behāfarid is Esfandiyar's sister in the canonical epic.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Her possible wife-sister status is a modern reconstruction, not explicit narration.",
+    "source": "Khaleghi-Motlagh reconstruction",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "rescued",
+    "myth": "Capture of the Brazen Fortress",
+    "note": "Esfandiyar frees Behāfarid after Arjasp abducts and confines her.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Benjamin": [
+   {
+    "stated_by": "garshasp",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Mirḵᵛānd makes Garšāsp’s mother a descendant of Benjamin.",
+    "source": "Rawżat al-ṣafāʾ",
+    "date": "late fifteenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Bijan": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "punished",
+    "myth": "Bijan and Manijeh",
+    "note": "Afrasiyab condemns Bijan to death, then substitutes imprisonment in a pit.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Borzu": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "judged",
+    "myth": "Disclosure of Borzu's descent",
+    "note": "Kavus and the Iranian nobles pardon Borzu after learning he descends from Sohrab.",
+    "source": "Earlier Borzu-nāma",
+    "date": "post-Ferdowsian",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "rescued",
+    "myth": "Rescue of Rostam and Borzu",
+    "note": "Kay Khosrow and the Iranian army come to Borzu’s aid.",
+    "source": "Borzu-nāma",
+    "date": "eleventh–twelfth centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Reward after rescue",
+    "note": "Kay Khosrow rewards Borzu with Ghur and Herat.",
+    "source": "Borzu-nāma",
+    "date": "eleventh–twelfth centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Borzu is Rostam’s grandson through Sohrāb.",
+    "source": "Borzū-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Borzu confronts Rostam",
+    "note": "Borzu fights his unrecognized grandfather before their kinship is discovered.",
+    "source": "Borzū-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The later epic cycle makes Borzu the son of Sohrab and Shahru.",
+    "source": "Borzū-nāma",
+    "date": "medieval composite",
+    "tier": "late_accretion"
+   }
+  ],
+  "Borzū": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "allied",
+    "myth": "Recruitment of Borzu",
+    "note": "Afrasiyab recruits Borzu and directs him against Iran before his ancestry is revealed.",
+    "source": "Borzū-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Borzū, Sohrāb’s son, is a later-cycle descendant of Zāl.",
+    "source": "Borzū-nāma",
+    "date": "medieval composite",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "other",
+    "myth": "Borzū’s expanded family cycle",
+    "note": "Zāl appears as senior patriarch within Borzū’s heroic family cycle.",
+    "source": "Borzū-nāma",
+    "date": "medieval composite",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bānu Gošasp": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Bānu Gošasp is Bīžan’s mother in the developed epic genealogy.",
+    "source": "Iranian epic genealogical tradition",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Bānu Gošasp is Rostam’s warrior daughter in the secondary cycle.",
+    "source": "Bānu Gošasp-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bānū Gošasp": [
+   {
+    "stated_by": "zal",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Bānū Gošasp is Rostam’s daughter and Zāl’s granddaughter.",
+    "source": "Bahman-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "shared_myth",
+    "myth": "Bahman’s capture of Zāl’s family",
+    "note": "Bahman captures her with Zāl, and both are eventually freed.",
+    "source": "Bahman-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bārmān": [
+   {
+    "stated_by": "rostam",
+    "kind": "other",
+    "myth": "Rostam and Sohrāb",
+    "note": "Bārmān supports Sohrāb’s invasion and helps prevent father-son recognition.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Būšāsp": [
+   {
+    "stated_by": "garshasp",
+    "kind": "punished_by",
+    "myth": "Karsāsp’s supernatural sleep",
+    "note": "The demoness Būšāsp overcomes Karsāsp with sleep after Nōhīn shoots him.",
+    "source": "Bundahišn 29",
+    "date": "ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Druuāspā": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Vengeance against Fraŋrasiiān",
+    "note": "He sacrifices to her for the power to kill Fraŋrasiiān.",
+    "source": "Yašt 9.17–23",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Drvāspā": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "punished_by",
+    "myth": "Binding and execution of Afrasiyab",
+    "note": "Drvāspā grants Haoma and Haosravah power to bind and kill Afrasiyab.",
+    "source": "Yt. 9.17–23",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Dāštayāna": [
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Slaughter of Dāštayāna’s brood",
+    "note": "Kərəsāspa kills the brood of Dāštayāna.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Eblis": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "deceived_by",
+    "myth": "Flight to heaven",
+    "note": "Eblis tempts Kavus to seek heaven's dominion and precipitates his disastrous flight.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Espanuy": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "other",
+    "myth": "Capture of Espanuy",
+    "note": "Bīžan captures Espanuy, a woman associated with Tezhav’s household.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Eṯreṭ": [
+   {
+    "stated_by": "garshasp",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Asadi places Eṯreṭ as Garšāsp’s father in a different genealogy.",
+    "source": "Garšāsp-nāma",
+    "date": "1066",
+    "tier": "late_accretion"
+   }
+  ],
+  "Faramarz": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Indian expedition",
+    "note": "Kavus commissions Faramarz to aid Nowshad Shah in India.",
+    "source": "Older Farāmarz-nāma",
+    "date": "eleventh–twelfth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Farangis": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Farangis is Afrasiyab’s daughter and mother of Kay Khosrow.",
+    "source": "Šāh-nāma; Ṭabarī",
+    "date": "early tenth–eleventh centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "gift",
+    "myth": "Marriage of Farangis and Siyavash",
+    "note": "Afrasiyab gives Farangis in marriage to the exiled Siyavash.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "punished",
+    "myth": "Persecution after Siyavash’s death",
+    "note": "Afrasiyab orders pregnant Farangis killed or beaten until she miscarries.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "other",
+    "myth": "Return from Turan",
+    "note": "Kavus welcomes Siyavash's widow and the mother of his grandson Kay Khosrow.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Farangis is his mother in Ferdowsi’s genealogy.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Escape across the Oxus",
+    "note": "Mother and son flee Turan and cross the Oxus together.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Siyavash marries Afrasiyab’s daughter Farangis, mother of Kay Khosrow.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "shared_myth",
+    "myth": "Murder and lament for Siyavash",
+    "note": "Farangis pleads for Siyavash, mourns him, and condemns her father afterward.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Fariborz": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Recovery of the Kāvīānī banner",
+    "note": "Bīžan restores the Kāvīānī banner after Fariborz retreats with or abandons it.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Fariborz is Kavus's son and a candidate to inherit the throne.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "judged",
+    "myth": "Trial of Dež-e Bahman",
+    "note": "Kavus tests Fariborz's succession claim; Fariborz fails to capture the fortress.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "contest",
+    "myth": "Bahman fortress succession test",
+    "note": "Kay Khosrow defeats the rival claimant by taking the demon-held fortress.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "served_by",
+    "myth": "Kay Khosrow’s reign",
+    "note": "After losing the succession contest, Fariborz serves Kay Khosrow.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Final mountain journey",
+    "note": "Fariborz accompanies Kay Khosrow and dies in the snowstorm.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Farshidvard": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Farshidvard is Esfandiyar's beloved brother in the canonical epic.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "shared_myth",
+    "myth": "Release from prison",
+    "note": "News of Farshidvard's mortal wounds persuades Esfandiyar to fight Arjasp again.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Farud": [
+   {
+    "stated_by": "siyavash",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Siyavash fathers Farud with Jarira.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Farāmarz": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Capture of Borzu",
+    "note": "Farāmarz captures Borzu and thereby frustrates Afrasiyab’s plan against Iran.",
+    "source": "Borzū-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Farāmarz-nāma cycle",
+    "note": "Bīžan appears with Farāmarz in later epic tradition; their precise relationship varies by recension.",
+    "source": "Farāmarz-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Farāmarz is Rostam’s son.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Farāmarz fights beside Rostam’s faction and attacks Esfandiyār’s camp.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "rescued_by",
+    "myth": "Vengeance for Rostam",
+    "note": "Farāmarz avenges Rostam by destroying Kabul and executing its king.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Farāmarz is Rostam’s son and Zāl’s grandson.",
+    "source": "Ferdowsi; Farāmarz-nāma",
+    "date": "1010; medieval",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "other",
+    "myth": "Farāmarz’s later adventures",
+    "note": "Zāl acts as elder patriarch and correspondent during Farāmarz’s adventures.",
+    "source": "Farāmarz-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Farānak": [
+   {
+    "stated_by": "fereydun",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Farānak is Fereydun’s mother and protects him from Zahhāk.",
+    "source": "Šāhnāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Ferud": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "fought",
+    "myth": "Campaign against Ferud",
+    "note": "Bīžan fights Ferud, the son of Siyavash, during the Iranian campaign.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "killed",
+    "myth": "Campaign against Ferud",
+    "note": "Bīžan defeats and kills Ferud.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Forud": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Forud is Kay Khosrow’s paternal half-brother through Siyavash.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "other",
+    "myth": "Forud tragedy",
+    "note": "Kay Khosrow orders Forud protected, but Tus’s army kills him.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Frash-ham-vareta": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Frash-ham-vareta is named among Esfandiyar's brothers in early tradition.",
+    "source": "Avestan and Middle Persian genealogy",
+    "date": "first millennium BCE–ninth century",
+    "tier": "attested"
+   }
+  ],
+  "Frashō.kara": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Frashō.kara is named among Esfandiyar's brothers in early tradition.",
+    "source": "Avestan and Middle Persian genealogy",
+    "date": "first millennium BCE–ninth century",
+    "tier": "attested"
+   }
+  ],
+  "Gandarw": [
+   {
+    "stated_by": "garshasp",
+    "kind": "fought",
+    "myth": "Ocean struggle with Gandarw",
+    "note": "Gandarw drags Karsāsp into the sea before Karsāsp binds and overcomes him.",
+    "source": "Pahlavi Rivāyat 18f",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   }
+  ],
+  "Garsivaz": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "allied",
+    "myth": "Conspiracy against Siyavash",
+    "note": "Garsivaz instigates Siyavash’s murder and remains Afrasiyab’s accomplice.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "fought",
+    "myth": "Discovery and arrest",
+    "note": "Garsivaz leads armed men who overwhelm, bind, and arrest Bīžan in Manīža’s palace.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Death and vengeance of Siyavash",
+    "note": "Garsivaz engineers Siyavash's death and later enters Kavus's dynastic vengeance narrative.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "deceived_by",
+    "myth": "Garsivaz’s intrigue",
+    "note": "Garsivaz slanders Siyavash to Afrasiyab and misrepresents Afrasiyab to Siyavash.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "killed_by",
+    "myth": "Instigation of Siyavash’s murder",
+    "note": "Garsivaz’s deception instigates the capture and execution of Siyavash.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gaṇdərəβa": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Combat in the Vourukaša Sea",
+    "note": "Kərəsāspa defeats the golden-heeled sea monster after seeking divine aid.",
+    "source": "Yašts 5.38; 15.28; 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Giv": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Escape of Kay Khosrow and Farangis",
+    "note": "Giv penetrates Afrasiyab’s realm and escapes with Kay Khosrow and Farangis.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kaveh",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Giv is presented as Kaveh’s descendant through the Gudarzian genealogical line.",
+    "source": "Shahnameh genealogical tradition",
+    "date": "ca. 1010 onward",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "punished",
+    "myth": "Quarrel before Sohrab's invasion",
+    "note": "Kavus orders Tus to hang Giv alongside Rostam, though the order is not executed.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Recovery of Kay Khosrow",
+    "note": "Giv retrieves Kay Khosrow and Farangis from Turan and presents them to Kavus.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Rescue of Bižan",
+    "note": "Rostam is Giv’s fellow champion and rescues his son Bižan.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "shared_myth",
+    "myth": "Discovery and rescue of Siyavash’s family",
+    "note": "Giv finds Siyavash’s mother, then later escorts his widow and son.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "other",
+    "myth": "Bīžan’s distress",
+    "note": "Bīžan prays to God while in distress, without a narrated divine appearance or direct oracle.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "served",
+    "myth": "Prayers throughout Rostam’s adventures",
+    "note": "Rostam repeatedly prays to, thanks, and invokes God.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Godarz": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Dream and rescue mission",
+    "note": "Godarz receives Soruš’s dream and sends Gēv to find Kay Khosrow.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "served_by",
+    "myth": "Wars of vengeance",
+    "note": "Godarz commands Kay Khosrow’s armies and kills Pirān.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gorgin": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "judged",
+    "myth": "Betrayal of Bizhan",
+    "note": "Kay Khosrow judges Gorgin for abandoning Bizhan in the pit.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gorgin son of Milād": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "deceived_by",
+    "myth": "Gorgin’s betrayal",
+    "note": "Gorgin lures Bīžan toward Manīža’s encampment and later lies about his disappearance.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "allied",
+    "myth": "Rescue expedition to Turan",
+    "note": "Gorgin later accompanies the expedition sent to rescue Bīžan.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gorgsar": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "served_by",
+    "myth": "Seven labours",
+    "note": "The captured enemy commander is coerced into guiding Esfandiyar toward the fortress.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "killed",
+    "myth": "After the seven labours",
+    "note": "Esfandiyar kills Gorgsar after repeatedly questioning him and receiving a hostile answer.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Goruy": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Execution of Siyavash",
+    "note": "Goruy obeys Afrasiyab’s order and cuts Siyavash’s throat.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Killing of Siyavash",
+    "note": "Goruy or Kidar executes or assists in killing Kavus's son Siyavash.",
+    "source": "Šāh-nāma; Ṭabari",
+    "date": "early tenth century–1010 CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "punished",
+    "myth": "Punishment of Siyavash’s executioner",
+    "note": "Kay Khosrow has Goruy quartered, beheaded, and cast into water.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "killed",
+    "myth": "Punishment of Siyavash’s executioner",
+    "note": "Kay Khosrow orders or personally carries out Goruy’s brutal execution.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Goshtasp": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The canonical epic identifies Goshtasp as Esfandiyar's father.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "served",
+    "myth": "First war with Arjasp",
+    "note": "Esfandiyar champions his father's kingdom and religion after being promised the throne.",
+    "source": "Daqiqi and Shahnameh",
+    "date": "ca. 976–1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "punished_by",
+    "myth": "Chains and imprisonment",
+    "note": "Goshtasp humiliates, chains, and imprisons Esfandiyar after Korazm's accusation.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "deceived_by",
+    "myth": "Fatal mission to Sistan",
+    "note": "Goshtasp repeatedly promises the crown, then knowingly sends Esfandiyar against Rostam.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gostaham": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "allied",
+    "myth": "Kay Khosrow war-cycle",
+    "note": "Gostaham fights with Bīžan among the Iranian champions.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Kay Khosrow’s final journey",
+    "note": "Gostaham accompanies Bīžan during Kay Khosrow’s final journey.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Final mountain journey",
+    "note": "Gostaham accompanies Kay Khosrow and dies in the snow after his disappearance.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gostahm": [
+   {
+    "stated_by": "zal",
+    "kind": "judged",
+    "myth": "Succession after Nowḏar’s death",
+    "note": "Zāl rejects Gostahm as unsuitable to succeed Nowḏar.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gozhdaham": [
+   {
+    "stated_by": "sohrab",
+    "kind": "shared_myth",
+    "myth": "Evacuation of the White Fortress",
+    "note": "Gozhdaham evacuates his garrison after Gordafarid delays Sohrab's assault.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Goštāsp": [
+   {
+    "stated_by": "rostam",
+    "kind": "served",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Rostam acknowledges the king but refuses Goštāsp’s humiliating demand for bonds.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "rescued",
+    "myth": "Goštāsp’s exile",
+    "note": "Zāl hosts and shelters the displaced Goštāsp for two years.",
+    "source": "Daqīqī’s verses in Ferdowsi",
+    "date": "c. 975–1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "other",
+    "myth": "Zāl’s alleged historical writings",
+    "note": "A learned tradition claims Zāl wrote books maligning Goštāsp.",
+    "source": "Mojmal al-tawāriḵ",
+    "date": "c. 1126",
+    "tier": "late_accretion"
+   }
+  ],
+  "Gudarz": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Kay Khosrow’s wars against Turan",
+    "note": "Gudarz commands against Afrasiyab, and his house destroys much of the Turanian clan.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kaveh",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Later epic genealogy traces Gudarz’s lineage back to Kaveh through Qaren and Kashvad.",
+    "source": "Later epic genealogies",
+    "date": "medieval tradition",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Kavus's royal court",
+    "note": "Gudarz serves Kavus as senior counsellor and commander and supports Kay Khosrow.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Wars with Turan",
+    "note": "Gudarz serves alongside Rostam as an elder Iranian champion.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "shared_myth",
+    "myth": "Mission for Kavus's panacea",
+    "note": "Gudarz unsuccessfully requests Kavus's healing remedy for the mortally wounded Sohrab.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Guruy": [
+   {
+    "stated_by": "siyavash",
+    "kind": "killed_by",
+    "myth": "Execution of Siyavash",
+    "note": "Guruy cuts Siyavash’s throat or beheads him on Afrasiyab’s order.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gēv": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "rescued_by",
+    "myth": "Seven-year search in Turan",
+    "note": "Gēv finds Kay Khosrow and escorts him and Farangis to Iran.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Conquest of Bahman fortress",
+    "note": "Gēv accompanies Kay Khosrow during the divinely assisted conquest.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "served_by",
+    "myth": "Wars and royal commands",
+    "note": "Gēv receives and executes commands during Kay Khosrow’s reign.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Final mountain journey",
+    "note": "Gēv accompanies the departing king and dies in the ensuing snowstorm.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gīv": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Gīv is Bīžan’s father.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Search for Bīžan",
+    "note": "Gīv mourns and searches for Bīžan, petitions Kay Khosrow, and receives him after his rescue.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Gōdarz": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Gōdarz is Bīžan’s paternal grandfather and head of his warrior house.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "allied",
+    "myth": "Iran–Turan war-cycle",
+    "note": "Bīžan fights beside Gōdarz or within the same Iranian host.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "other",
+    "myth": "Burial of Gōdarz",
+    "note": "Zāl retrieves Gōdarz’s corpse and gives him a splendid burial.",
+    "source": "Šahriyār-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Gōšurūn": [
+   {
+    "stated_by": "garshasp",
+    "kind": "rescued_by",
+    "myth": "Judgment of Karsāsp’s soul",
+    "note": "Gōšurūn prevents Karsāsp’s return to hell because he protected animal creation.",
+    "source": "Pahlavi Rivāyat 18f",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   }
+  ],
+  "Hitāspa": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Vengeance for Uruuāxšaiia",
+    "note": "Kərəsāspa kills his brother’s murderer and drags him behind a chariot.",
+    "source": "Yašts 15.28; 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hojir": [
+   {
+    "stated_by": "sohrab",
+    "kind": "fought",
+    "myth": "Capture of Hojir",
+    "note": "Sohrab defeats and captures the Iranian champion at the White Fortress.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "deceived_by",
+    "myth": "Hojir's identification scene",
+    "note": "Hojir identifies other Iranian warriors but deliberately conceals Rostam.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Homan": [
+   {
+    "stated_by": "sohrab",
+    "kind": "allied",
+    "myth": "Sohrab's Turanian expedition",
+    "note": "Homan accompanies Sohrab as commander and field adviser.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "deceived_by",
+    "myth": "Homan conceals Rostam's identity",
+    "note": "Knowing Afrasiab's plan, Homan denies or obscures Rostam's identity.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Homay": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Homay is Esfandiyar's sister in the canonical epic.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Goshtasp explicitly awards Homay to Esfandiyar as wife after his victory.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "rescued",
+    "myth": "Capture of the Brazen Fortress",
+    "note": "Esfandiyar frees Homay after Arjasp abducts and confines her.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Hostile Simurgh": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "killed",
+    "myth": "Fifth labour",
+    "note": "Esfandiyar kills the hostile monstrous bird using a fortified battle device.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Hum": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "allied",
+    "myth": "Capture of Afrasiyab",
+    "note": "Hum captures Afrasiyab and brings him into Kay Khosrow and Kavus's vengeance cycle.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Human": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Rostam and Sohrab",
+    "note": "Afrasiyab assigns Human to accompany Sohrab and conceal his parentage.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Hutaosā": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Hutaosā or Hutos is Esfandiyar's mother in early and Middle Persian genealogy.",
+    "source": "Avestan references; Ayādgār ī Zarērān",
+    "date": "first millennium BCE–Middle Persian",
+    "tier": "attested"
+   }
+  ],
+  "Hōmān": [
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Wars with Turan",
+    "note": "The Turanian commander Hōmān fights Rostam.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "deceived_by",
+    "myth": "Rostam and Sohrāb",
+    "note": "Hōmān helps conceal Rostam’s identity from Sohrāb.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Hūmān": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "fought",
+    "myth": "The Twelve Combats",
+    "note": "Bīžan faces Hūmān in single combat during the Twelve Combats.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "killed",
+    "myth": "The Twelve Combats",
+    "note": "Bīžan kills Hūmān, Piran’s brother, in single combat.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Imam ʿAli": [
+   {
+    "stated_by": "rostam",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Shiʿi storytelling compares or assimilates Rostam’s champion qualities to Imam ʿAli.",
+    "source": "Safavid–modern naqqāli",
+    "date": "Safavid–modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Iraj": [
+   {
+    "stated_by": "fereydun",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Iraj is Fereydun’s favored youngest son.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "gift",
+    "myth": "Division of the world",
+    "note": "Fereydun grants Iraj Iran, the throne, and royal insignia.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Jahāngir": [
+   {
+    "stated_by": "rostam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jahāngir is Rostam’s son in a later secondary epic.",
+    "source": "Jahāngir-nāma",
+    "date": "medieval/early modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Jahāngir encounters Rostam",
+    "note": "Jahāngir encounters his father without recognition, repeating the kin-combat motif.",
+    "source": "Jahāngir-nāma",
+    "date": "medieval/early modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jamasp": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "judged_by",
+    "myth": "Prophecy of death",
+    "note": "The royal sage foretells that Esfandiyar will die at Rostam's hand.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "Rescue of Iran",
+    "note": "Jamasp asks the imprisoned prince to return and save the kingdom.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "shared_myth",
+    "myth": "Sacred fire miracle",
+    "note": "Jamasp and Esfandiyar accompany Goshtasp in the fire miracle.",
+    "source": "Middle Persian miracle tradition",
+    "date": "late antique–early Islamic",
+    "tier": "attested"
+   }
+  ],
+  "Jarira": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "other",
+    "myth": "",
+    "note": "Jarira is the mother of Kay Khosrow’s half-brother Forud.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Siyavash marries Piran’s daughter Jarira, who bears Farud.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Kamak": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Rain-blocking giant bird",
+    "note": "Karsāsp kills or neutralizes the immense bird whose wings block rain.",
+    "source": "Mēnōy ī Xrad 26",
+    "date": "ca. sixth century",
+    "tier": "canonical"
+   }
+  ],
+  "Kamangir": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Turanian military service",
+    "note": "Kamangir appears among warriors or affiliated champions under Afrasiyab’s kingship.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Karakhan": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Karakhan appears as Afrasiyab’s son in extended Turanian genealogy.",
+    "source": "extended Turanian genealogies",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kashvad": [
+   {
+    "stated_by": "kaveh",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "The stable later genealogy makes Kashvad Kaveh’s grandson through Qaren.",
+    "source": "Later epic genealogies",
+    "date": "medieval tradition",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kaveh",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "A Kurdish verse Shahnameh summary instead names Kashvad directly as Kaveh’s son.",
+    "source": "Kurdish verse tradition collected by Enjavi",
+    "date": "twentieth-century collection",
+    "tier": "regional_variant"
+   }
+  ],
+  "Katayun": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Canonical tradition makes Katayun, princess of Rum, Esfandiyar's mother.",
+    "source": "Daqiqi and Shahnameh",
+    "date": "ca. 976–1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "shared_myth",
+    "myth": "Warning before Sistan",
+    "note": "Katayun warns Esfandiyar that Goshtasp intends his death and later mourns him.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Katāyūn": [
+   {
+    "stated_by": "fereydun",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The Middle Persian genealogy names Katāyūn as Frēdōn’s brother.",
+    "source": "Bundahišn",
+    "date": "ninth-century redaction",
+    "tier": "canonical"
+   }
+  ],
+  "Kavi Xvarənah": [
+   {
+    "stated_by": "garshasp",
+    "kind": "gift",
+    "myth": "Third departure of the Glory",
+    "note": "The royal Glory cleaves to Kərəsāspa and empowers his heroic strength.",
+    "source": "Yašt 19.38–44",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Kay Husrōy": [
+   {
+    "stated_by": "garshasp",
+    "kind": "gift",
+    "myth": "Rule after Dahāg’s death",
+    "note": "Sām temporarily rules seven continents, then transfers sovereignty to Kay Husrōy.",
+    "source": "Māh ī Frawardīn Rōz ī Hordad 31",
+    "date": "Middle Persian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "shared_myth",
+    "myth": "Karsāsp professes the religion",
+    "note": "Kay Husrōy passes the undead Karsāsp and witnesses his religious profession.",
+    "source": "Dēnkard 9.23",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Kay Qobad": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Iranian restoration after Zav",
+    "note": "Kay Qobad is raised as king and checks Afrasiyab with Rostam’s aid.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Ferdowsi makes Kay Kavus the direct son and successor of Kay Qobad.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Some Pahlavi and chronicle genealogies make Kay Qobad a more remote ancestor.",
+    "source": "Islamic genealogists",
+    "date": "tenth–eleventh centuries CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kay Qobād": [
+   {
+    "stated_by": "rostam",
+    "kind": "rescued",
+    "myth": "Retrieval of Kay Qobād",
+    "note": "Rostam retrieves Kay Qobād from Alborz and defeats his enemies.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Establishment of Kay Qobād",
+    "note": "Rostam establishes Kay Qobād as Iran’s king.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "judged",
+    "myth": "Kay Qobād’s accession",
+    "note": "Zāl identifies Kay Qobād as rightful king and offers him the crown.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "rescued",
+    "myth": "Kay Qobād’s accession",
+    "note": "Zāl sends Rostam to fetch Kay Qobād from Alborz.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Keresavazda": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Keresavazda is Afrasiyab’s brother or close kinsman.",
+    "source": "Yt. 19.77; Šāh-nāma",
+    "date": "first millennium BCE onward",
+    "tier": "attested"
+   }
+  ],
+  "Khiżr": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Immortality and water traditions",
+    "note": "Later wonder lore associates both with water, immortality, cups, and vanished kings.",
+    "source": "Medieval accretion",
+    "date": "medieval period",
+    "tier": "syncretism"
+   }
+  ],
+  "King of Hamavaran": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "deceived_by",
+    "myth": "Hamavaran banquet",
+    "note": "Kavus's father-in-law betrays and imprisons him despite Sudabeh's warning.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "fought",
+    "myth": "Hamavaran campaign",
+    "note": "Kavus campaigns against Hamavaran before demanding the king's daughter in marriage.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "King of Kabul": [
+   {
+    "stated_by": "rostam",
+    "kind": "deceived_by",
+    "myth": "Shaghad’s spear-pit ambush",
+    "note": "The king conspires with Shaghad to lure Rostam onto the trapped hunting ground.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "King of Mazandaran": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "fought",
+    "myth": "Mazandaran campaign",
+    "note": "Kavus invades his country and later challenges and defeats his forces.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "King of Samangan": [
+   {
+    "stated_by": "sohrab",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Sohrab is the unnamed king of Samangan's maternal grandson.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "allied",
+    "myth": "Sohrab mobilizes from Samangan",
+    "note": "The king supports or permits his grandson's military mobilization.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "King of Samangān": [
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Rostam at Samangān",
+    "note": "The king hosts Rostam, recovers Rakhsh, and accepts Tahmina’s union.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Kiyānuš": [
+   {
+    "stated_by": "fereydun",
+    "kind": "allied",
+    "myth": "Campaign against Zahhāk",
+    "note": "Kiyānuš accompanies Fereydun as a companion or brother-in-arms.",
+    "source": "Šāhnāma manuscripts",
+    "date": "medieval textual tradition",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kohram": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "punished",
+    "myth": "Fall of the Brazen Fortress",
+    "note": "Esfandiyar captures and executes Arjasp's son or commander Kohram.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Korazm": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "deceived_by",
+    "myth": "Accusation and imprisonment",
+    "note": "Korazm falsely accuses Esfandiyar of planning to depose Goshtasp.",
+    "source": "Daqiqi; Ferdowsi; Tabari",
+    "date": "tenth–early eleventh century",
+    "tier": "canonical"
+   }
+  ],
+  "Kāren": [
+   {
+    "stated_by": "arash",
+    "kind": "allied",
+    "myth": "Manūčehr’s collaborating champions",
+    "note": "Later tradition makes Kāren and Arash collaborating champions of Manūčehr.",
+    "source": "Local and dynastic histories",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kāvya Uśanas": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars compare or identify him with Kavus; no ancient encounter is attested.",
+    "source": "Spiegel; Haug; Dumézil",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "modern"
+   }
+  ],
+  "Kūrang": [
+   {
+    "stated_by": "garshasp",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "A Sistanian variant sometimes makes Kūrang Garšāsp’s son.",
+    "source": "Tārīḵ-e Sīstān",
+    "date": "eleventh century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Asadi makes Kūrang an ancestor who receives Jamšid’s fugitive son.",
+    "source": "Garšāsp-nāma",
+    "date": "1066",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kərəsauuazda": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "fought",
+    "myth": "Binding beside Lake Caēcasta",
+    "note": "Haosrauuah binds Kərəsauuazda together with Fraŋrasiiān.",
+    "source": "Yašt 19.77",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "punished",
+    "myth": "Afrasiyab drawn from hiding",
+    "note": "Kay Khosrow has Garsivaz tortured so his cries expose Afrasiyab.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Lohrasp": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Lohrasp is Esfandiyar's grandfather in the Kayanian genealogy.",
+    "source": "Bundahišn",
+    "date": "ninth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "other",
+    "myth": "Vengeance for Lohrasp",
+    "note": "Esfandiyar avenges his grandfather's killing by Arjasp's invading forces.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Lohrāsp": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Appointment of a successor",
+    "note": "Kay Khosrow grants Lohrāsp the kingship despite noble resistance.",
+    "source": "Middle Persian texts; Shāhnāma",
+    "date": "ninth century onward",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "judged",
+    "myth": "Lohrāsp’s nomination as heir",
+    "note": "Zāl initially opposes Lohrāsp’s designation as royal heir.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Malek Ṭāwus": [
+   {
+    "stated_by": "rostam",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A regional theological scheme treats Rostam as a manifestation of Malek Ṭāwus.",
+    "source": "Modern ethnographic report",
+    "date": "modern report",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Malek Ṭāwusi groups treat Zāl as a manifestation of Malek Ṭāwus.",
+    "source": "Modern ethnographic reports",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Manijeh": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Manijeh is Afrasiyab’s daughter and Bijan’s eventual wife.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "punished",
+    "myth": "Manijeh protects Bijan",
+    "note": "Afrasiyab disowns Manijeh and leaves her destitute for protecting Bijan.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Maniža": [
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Bižan and Maniža",
+    "note": "Maniža helps the disguised Rostam locate and rescue Bižan.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Manuchehr": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Turanian invasion during Manuchehr’s reign",
+    "note": "Middle Persian and historical versions make Afrasiyab besiege or displace Manuchehr.",
+    "source": "Bundahišn 33; Ṭabarī",
+    "date": "ninth–tenth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Manuchehr descends from Fereydun through Iraj’s surviving line.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "other",
+    "myth": "Vengeance for Iraj",
+    "note": "Fereydun raises or conceals Manuchehr, recognizes him, and commissions Iraj’s vengeance.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Manūčehr": [
+   {
+    "stated_by": "arash",
+    "kind": "allied",
+    "myth": "Recovery of Iranian territory",
+    "note": "Arash and Manūčehr jointly recover Iranian land from Afrāsyāb.",
+    "source": "Māh ī Frawardīn §22",
+    "date": "early Islamic period",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "arash",
+    "kind": "served",
+    "myth": "The one-arrow peace settlement",
+    "note": "Arash acts as Manūčehr’s chosen archer in the territorial settlement.",
+    "source": "Ṭabarī and medieval chronicles",
+    "date": "tenth century onward",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "judged_by",
+    "myth": "Zāl’s investiture and marriage petition",
+    "note": "Manūčehr tests and invests Zāl, then authorizes his marriage.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   }
+  ],
+  "Mehrnush": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mehrnush is Esfandiyar's son in canonical epic genealogy.",
+    "source": "Daqiqi and Shahnameh",
+    "date": "ca. 976–1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "Sistan campaign",
+    "note": "Mehrnush accompanies his father during the fatal expedition and is killed.",
+    "source": "Daqiqi and Shahnameh",
+    "date": "ca. 976–1010",
+    "tier": "canonical"
+   }
+  ],
+  "Mehrnuš": [
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Rostam’s son Farāmarz kills Mehrnuš during the surrounding battle.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Mehrāb": [
+   {
+    "stated_by": "rostam",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Mehrāb of Kabul is Rostam’s maternal grandfather.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "allied",
+    "myth": "Zāl’s courtship in Kabul",
+    "note": "Mehrāb hosts Zāl, becomes his father-in-law, and receives his protection.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   }
+  ],
+  "Mihr-tirs": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The Bundahišn names Mihr-tirs as a son of Esfandiyar.",
+    "source": "Bundahišn",
+    "date": "ninth century",
+    "tier": "attested"
+   }
+  ],
+  "Narimān": [
+   {
+    "stated_by": "rostam",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Narimān is an ancestor in Rostam’s Sistanian paternal line.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Narēmān": [
+   {
+    "stated_by": "fereydun",
+    "kind": "served_by",
+    "myth": "Campaigns in Turan and China",
+    "note": "Narēmān campaigns with Garšāsp under Fereydun’s overlordship.",
+    "source": "Garšāsp-nāma",
+    "date": "1066",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Garšāsp adopts his nephew Narēmān, establishing the later heroic lineage.",
+    "source": "Garšāsp-nāma",
+    "date": "1066",
+    "tier": "late_accretion"
+   }
+  ],
+  "Narīmān": [
+   {
+    "stated_by": "garshasp",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "The Sistanian genealogy makes Narīmān Garšāsp’s grandson.",
+    "source": "Tārīḵ-e Sīstān",
+    "date": "eleventh century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The Mojmal genealogy makes Narīmān Garšāsp’s direct son.",
+    "source": "Mojmal al-tawāriḵ",
+    "date": "ca. 1126",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Narīmān is Zāl’s grandfather in the Sistanian heroic genealogy.",
+    "source": "Ferdowsi; Garshāsp-nāma",
+    "date": "1010; 1054–56/1066",
+    "tier": "canonical"
+   }
+  ],
+  "Nivika": [
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Slaughter of Nivika’s brood",
+    "note": "Kərəsāspa kills the brood of Nivika.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Noah": [
+   {
+    "stated_by": "fereydun",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Al-Bīrūnī reports a learned equation of Fereydun with Noah.",
+    "source": "al-Āṯār al-bāqiya",
+    "date": "ca. 1000",
+    "tier": "syncretism"
+   }
+  ],
+  "Nowshad Shah": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "gift",
+    "myth": "Indian expedition",
+    "note": "Kavus sends Nowshad Shah military aid through Faramarz.",
+    "source": "Older Farāmarz-nāma",
+    "date": "eleventh–twelfth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Nowzar": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "killed",
+    "myth": "Execution after the invasion",
+    "note": "Afrasiyab defeats, captures and personally beheads Nowzar.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "killed",
+    "myth": "Death during Manuchehr’s crisis",
+    "note": "Other traditions place Nowzar’s death during Afrasiyab’s attack on Manuchehr.",
+    "source": "Bundahišn; Islamic histories",
+    "date": "ninth–eleventh centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nowḏar": [
+   {
+    "stated_by": "zal",
+    "kind": "served",
+    "myth": "Nowḏar’s reign and succession crisis",
+    "note": "Zāl serves during Nowḏar’s reign and intervenes after his murder.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Nush-Azar": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Nush-Azar is Esfandiyar's son in canonical epic genealogy.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "Sistan campaign",
+    "note": "Nush-Azar fights beside Esfandiyar, kills Alvāy, and is killed by Zavara.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Nēryōsang": [
+   {
+    "stated_by": "garshasp",
+    "kind": "rescued_by",
+    "myth": "Awakening for the final combat",
+    "note": "Nēryōsang accompanies Srōš when Karsāsp is awakened to fight Dahāg.",
+    "source": "Zand ī Wahman Yasn 9",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "other",
+    "myth": "Kavus falls from heaven",
+    "note": "Nēryōsang pursues the falling Kavus to kill him but ultimately spares him.",
+    "source": "Dēnkard 9.22.9–11",
+    "date": "ninth–tenth centuries CE",
+    "tier": "attested"
+   }
+  ],
+  "Olād": [
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Fifth Labour",
+    "note": "Rostam defeats Olād and spares him in exchange for guidance.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "served_by",
+    "myth": "Fifth Labour",
+    "note": "The defeated Olād guides Rostam through Māzandarān.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pashang": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Pashang is unanimously Afrasiyab’s father in the developed tradition.",
+    "source": "Šāh-nāma; Perso-Arabic histories",
+    "date": "ninth–eleventh centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served",
+    "myth": "Invasion after Manuchehr’s death",
+    "note": "Afrasiyab invades Iran after Pashang commands him to exploit its disorder.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pashotan": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pashotan is Esfandiyar's brother in Zoroastrian and epic traditions.",
+    "source": "Zoroastrian tradition; Shahnameh",
+    "date": "Middle Persian–ca. 1010",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "Seven labours and Brazen Fortress",
+    "note": "Pashotan counsels Esfandiyar, accompanies his expeditions, and attacks the fortress.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pathana": [
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Slaughter of Pathana’s brood",
+    "note": "Kərəsāspa kills all nine members of Pathana’s brood.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pašutan": [
+   {
+    "stated_by": "rostam",
+    "kind": "shared_myth",
+    "myth": "Bahman’s vengeance",
+    "note": "Pašutan later saves Rostam’s father Zāl from Bahman.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pašōtan": [
+   {
+    "stated_by": "zal",
+    "kind": "rescued_by",
+    "myth": "Bahman’s invasion of Sistan",
+    "note": "Pašōtan intercedes with Bahman and secures Zāl’s release.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Peshotan": [
+   {
+    "stated_by": "siyavash",
+    "kind": "shared_myth",
+    "myth": "Kangdiz and the future restoration",
+    "note": "Peshotan later inhabits or emerges from Kangdiz, the fortress Siyavash built.",
+    "source": "Zand ī Wahman Yasn",
+    "date": "early Islamic period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pilsam": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Wars against the Iranian champions",
+    "note": "Pilsam serves Afrasiyab as a Turanian champion and fights the Iranians.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Piran": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Piran is Afrasiyab’s uncle in Ferdowsi, though other genealogies vary.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Piran counsels the Turanian king",
+    "note": "Piran serves as counselor and general while repeatedly restraining Afrasiyab’s violence.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Wars with Turan",
+    "note": "Rostam encounters Piran as a respected Turanian opponent.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Piran Viseh": [
+   {
+    "stated_by": "siyavash",
+    "kind": "allied",
+    "myth": "Siyavash’s reception in Turan",
+    "note": "Piran welcomes Siyavash, supports him at court, and arranges his marriages.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "rescued_by",
+    "myth": "Plea before Siyavash’s execution",
+    "note": "Piran pleads for Siyavash’s life but cannot prevent his execution.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Piran son of Viseh": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "rescued_by",
+    "myth": "Piran prevents Bīžan’s execution",
+    "note": "Piran persuades Afrāsīāb not to execute Bīžan, saving him from immediate death.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pirān": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Preservation of Kavus's line",
+    "note": "Pirān protects Siyavash, Farangis, and Kay Khosrow, indirectly preserving Kavus's dynasty.",
+    "source": "Ṭabari; Šāh-nāma",
+    "date": "early tenth century–1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "rescued_by",
+    "myth": "Kay Khosrow’s hidden childhood",
+    "note": "Pirān protects and raises him in Turan, concealing him from Afrasiyab.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "fought",
+    "myth": "Wars of vengeance",
+    "note": "Pirān later commands Turanian forces against Kay Khosrow’s armies.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "other",
+    "myth": "Mourning after Twelve Champions",
+    "note": "Kay Khosrow mourns Pirān after Godarz kills his former protector.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pitaona": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Pitaona and the pairikās",
+    "note": "Kərəsāspa kills Pitaona while he is attended by many pairikās.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pulādvand": [
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Wrestling with Pulādvand",
+    "note": "Rostam wrestles Pulādvand but cannot decisively overcome his magical protection.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Pūrtōrā Āspiyān": [
+   {
+    "stated_by": "fereydun",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Middle Persian genealogy names Pūrtōrā Āspiyān as Frēdōn’s father.",
+    "source": "Bundahišn",
+    "date": "ninth-century redaction",
+    "tier": "canonical"
+   }
+  ],
+  "Qaren": [
+   {
+    "stated_by": "kaveh",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Qaren is named as Kaveh’s son and becomes a later hero and commander.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Qaz": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Qaz is Afrasiyab’s daughter in Kāšḡarī’s geographical legends.",
+    "source": "Dīwān Luḡāt al-Turk",
+    "date": "1072–77",
+    "tier": "regional_variant"
+   }
+  ],
+  "Qobad": [
+   {
+    "stated_by": "kaveh",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Qobad is named as Kaveh’s son in the later epic tradition.",
+    "source": "Asadi, Garshaspnameh",
+    "date": "1064–66",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kaveh",
+    "kind": "punished",
+    "myth": "Kaveh attempts to kill Qobad",
+    "note": "Kaveh tries to kill his son for insulting royal authority, but relatives intervene.",
+    "source": "Asadi, Garshaspnameh",
+    "date": "1064–66",
+    "tier": "late_accretion"
+   }
+  ],
+  "Rakhsh": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Rostam’s merchant disguise",
+    "note": "Manīža’s inquiry about Rostam’s horse Rakhsh helps test the disguised rescuer’s identity.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "fought",
+    "myth": "Combat with Rostam",
+    "note": "Esfandiyar severely wounds Rostam's heroic horse during their battle.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Rostam's Seven Labors",
+    "note": "Rakhsh carries Rostam through the journey undertaken to rescue Kavus.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Rostam’s heroic career",
+    "note": "Rakhsh is Rostam’s chosen mount, warning companion, rescuer, and fellow combatant.",
+    "source": "Sogdian fragment; Šāhnāma",
+    "date": "7th–8th c.; 1010",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "shared_myth",
+    "myth": "Shaghad’s spear-pit ambush",
+    "note": "Rakhsh falls into the concealed pit and dies beside Rostam.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Rohām": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "rescued_by",
+    "myth": "Rescue expedition to Turan",
+    "note": "Rohām belongs to Rostam’s selected party or associated force during Bīžan’s rescue.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Rudāba": [
+   {
+    "stated_by": "rostam",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Rudāba is Rostam’s mother.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "consort_of",
+    "myth": "Zāl and Rudāba’s courtship",
+    "note": "They court one another and marry despite dynastic opposition.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "rescued",
+    "myth": "Rostam’s surgical birth",
+    "note": "Zāl summons the Simurgh, whose instructions save Rudāba during childbirth.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Rūyīn": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "fought",
+    "myth": "Iran–Turan wars",
+    "note": "Bīžan fights Rūyīn, the son of Piran, during the Iran–Turan wars.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "killed",
+    "myth": "Iran–Turan wars",
+    "note": "Bīžan kills Rūyīn, Piran’s son.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Salm": [
+   {
+    "stated_by": "fereydun",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Salm is Fereydun’s eldest son.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "gift",
+    "myth": "Division of the world",
+    "note": "Fereydun grants Salm Rūm and the western lands.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Satan": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "gift",
+    "myth": "Gift of the magical belt",
+    "note": "Satan gives Afrasiyab a magical belt in a poem unrelated to the established cycle.",
+    "source": "Rivāyats of Darab Hormazdyar",
+    "date": "medieval or early-modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "deceived_by",
+    "myth": "Islamized flight to heaven",
+    "note": "Satan convinces Kavus that he is divine and should ascend toward heaven.",
+    "source": "Thaʿālebi, Ḡorar",
+    "date": "early eleventh century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Shaghad": [
+   {
+    "stated_by": "rostam",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Shaghad is Rostam’s paternal half-brother.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "killed_by",
+    "myth": "Shaghad’s spear-pit ambush",
+    "note": "Shaghad engineers the concealed spear-pit that mortally wounds Rostam.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Rostam’s final arrow",
+    "note": "Dying, Rostam shoots through a plane tree and kills Shaghad.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Shahriyar": [
+   {
+    "stated_by": "sohrab",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Later epic genealogy makes Sohrab Shahriyar's great-grandfather through Borzu.",
+    "source": "Shahriyār-nāma",
+    "date": "medieval epic cycle",
+    "tier": "late_accretion"
+   }
+  ],
+  "Shahrnāz": [
+   {
+    "stated_by": "fereydun",
+    "kind": "rescued",
+    "myth": "Rescue from Dahāka",
+    "note": "Fereydun asks for and accomplishes her release from Dahāka.",
+    "source": "Yašts 5 and 15",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "A widespread later tradition makes the rescued Shahrnāz Fereydun’s consort.",
+    "source": "Islamic national histories",
+    "date": "ninth–eleventh centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Shedasp": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Shedasp is named as Esfandiyar's brother in canonical epic genealogy.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Shida": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "fought",
+    "myth": "Single combat with Shida",
+    "note": "Afrasiyab’s son challenges Kay Khosrow to a duel.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "killed",
+    "myth": "Single combat with Shida",
+    "note": "Kay Khosrow kills Shida in single combat.",
+    "source": "Shāhnāma; Ebn al-Balḵi",
+    "date": "eleventh–twelfth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Shideh": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Shideh is Afrasiyab’s son and champion.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Single combat with Kay Khosrow",
+    "note": "Afrasiyab sends Shideh into single combat, where Kay Khosrow kills him.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Simorḡ": [
+   {
+    "stated_by": "rostam",
+    "kind": "rescued_by",
+    "myth": "Rostam’s surgical birth",
+    "note": "Simorḡ directs the procedure that saves Rudāba and delivers Rostam.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "rescued_by",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Simorḡ heals the gravely wounded Rostam and Rakhsh.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "taught_by",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Simorḡ reveals Esfandiyār’s vulnerable eyes and the tamarisk-arrow method.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Sindokht": [
+   {
+    "stated_by": "rostam",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Sindokht is Rostam’s maternal grandmother.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Snāuuiδka": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Snāuuiδka’s cosmic boast",
+    "note": "Kərəsāspa kills the young rebel before he can enslave the two Spirits.",
+    "source": "Yašt 19.43–44",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Soruš": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "rescued_by",
+    "myth": "Dream revealing the hidden prince",
+    "note": "Soruš reveals Kay Khosrow’s survival to Godarz, enabling his rescue.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Kay Khosrow’s disappearance",
+    "note": "Soruš later meets or summons the king before his disappearance.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Sorūš": [
+   {
+    "stated_by": "fereydun",
+    "kind": "other",
+    "myth": "Binding of Zahhāk",
+    "note": "Sorūš stops Fereydun from killing Zahhāk and orders his imprisonment.",
+    "source": "Šāhnāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Soʿdā": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Masʿudi makes the Yemenite princess Soʿdā Kavus's consort and Siyavash's mother.",
+    "source": "Masʿudi, Moruj al-ḏahab",
+    "date": "mid-tenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Spandārmad": [
+   {
+    "stated_by": "arash",
+    "kind": "taught_by",
+    "myth": "Preparation of the special bow and arrow",
+    "note": "Spandārmad directs or authorizes preparation of Arash’s extraordinary weapon.",
+    "source": "Bīrūnī, Āṯār al-bāqiya",
+    "date": "ca. 1000",
+    "tier": "regional_variant"
+   }
+  ],
+  "Spəṇta Mainiiu": [
+   {
+    "stated_by": "garshasp",
+    "kind": "rescued",
+    "myth": "Snāuuiδka’s cosmic boast",
+    "note": "Kərəsāspa prevents Snāuuiδka from harnessing Spəṇta Mainiiu to his chariot.",
+    "source": "Yašt 19.43–44",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Srid": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Killing the boundary bull",
+    "note": "Kavus orders Srid to kill the prophetic bull, then denies his remorseful death request.",
+    "source": "Dēnkard 7.2; Zādspram 4",
+    "date": "ninth–tenth centuries CE",
+    "tier": "attested"
+   }
+  ],
+  "Srvara": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Horned serpent and overturned meal",
+    "note": "Kərəsāspa cooks unknowingly upon the serpent, then kills it after it rises.",
+    "source": "Yasna 9.11; Yašt 19.40",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Srōš": [
+   {
+    "stated_by": "garshasp",
+    "kind": "rescued_by",
+    "myth": "Awakening for the final combat",
+    "note": "Srōš repeatedly calls Karsāsp from supernatural sleep to face Dahāg.",
+    "source": "Zand ī Wahman Yasn 9",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "taught_by",
+    "myth": "Karsāsp professes the religion",
+    "note": "Srōš brings Karsāsp toward profession of the Zoroastrian religion.",
+    "source": "Dēnkard 9.23",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Sudabeh": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ṭabarī alone identifies Sudabeh as Afrasiyab’s daughter.",
+    "source": "Ṭabarī",
+    "date": "early tenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Sudabeh becomes Kavus's wife and shares his imprisonment in Hamavaran.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "judged",
+    "myth": "Trial of Siyavash",
+    "note": "Kavus condemns Sudabeh after her fraud is exposed but pardons her at Siyavash's request.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "seduced_by",
+    "myth": "Sudabeh’s rejected proposition",
+    "note": "Siyavash’s stepmother propositions him, but he refuses her sexual advances.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "deceived_by",
+    "myth": "Sudabeh’s false accusation",
+    "note": "Sudabeh falsely accuses Siyavash and fabricates evidence using aborted twins.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "rescued",
+    "myth": "Judgment after the fire ordeal",
+    "note": "Siyavash intercedes when Kavus proposes executing Sudabeh, securing her pardon.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Sudāba": [
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Vengeance for Siāvash",
+    "note": "Rostam kills Sudāba after Siāvash’s death.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Sām": [
+   {
+    "stated_by": "garshasp",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Middle Persian sources compound or identify Karsāsp with Sām.",
+    "source": "Bundahišn; Pahlavi Rivāyat",
+    "date": "ninth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "New Persian genealogies place Sām among Garšāsp’s descendants.",
+    "source": "Mojmal al-tawāriḵ",
+    "date": "ca. 1126",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Sām is Rostam’s paternal grandfather.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Sām is Zāl’s father.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "other",
+    "myth": "Zāl’s exposure and restoration",
+    "note": "Sām exposes Zāl, repents, retrieves him, and restores him publicly.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   }
+  ],
+  "Sīmorḡ": [
+   {
+    "stated_by": "rudabeh",
+    "kind": "rescued_by",
+    "myth": "Sīmorḡ directs Rostam’s surgical birth",
+    "note": "Summoned by Zāl, the bird prescribes the operation and treatment that save Rudabeh.",
+    "source": "Ferdowsi, Šāhnāma",
+    "date": "c. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Sīndoḵt": [
+   {
+    "stated_by": "zal",
+    "kind": "allied",
+    "myth": "Negotiations for Zāl and Rudāba’s marriage",
+    "note": "Sīndoḵt negotiates with Zāl’s family to prevent war and secure marriage.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   }
+  ],
+  "Sīāvaš": [
+   {
+    "stated_by": "zal",
+    "kind": "shared_myth",
+    "myth": "Kayanian royal generation",
+    "note": "Sīāvaš belongs to the royal generation served by Zāl’s house.",
+    "source": "Ferdowsi; Thaʿālibī",
+    "date": "1010; c. 1000–20",
+    "tier": "canonical"
+   }
+  ],
+  "Sōšāns": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Final Renovation",
+    "note": "Kay Husrōy assists Sōšāns and facilitates resurrection and the Final Body.",
+    "source": "Dēnkard 3.343; Mēnōy ī Xrad 26",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Tahmina": [
+   {
+    "stated_by": "rostam",
+    "kind": "consort_of",
+    "myth": "Rostam at Samangān",
+    "note": "Tahmina becomes Rostam’s mutually willing lover or wife and bears Sohrāb.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Tahmineh": [
+   {
+    "stated_by": "sohrab",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Tahmineh bears and raises Sohrab in Samangan.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "taught_by",
+    "myth": "Sohrab learns his descent",
+    "note": "Tahmineh reveals that Rostam is Sohrab's father and warns him about Afrasiab.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "gift",
+    "myth": "Tahmineh gives the recognition token",
+    "note": "Tahmineh gives Sohrab Rostam's arm-token as proof of his descent.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Tahmuras": [
+   {
+    "stated_by": "kaveh",
+    "kind": "shared_myth",
+    "myth": "Tahmuras helps reveal Fereydun",
+    "note": "Some storyteller recensions associate Tahmuras with the revelation of Fereydun to Kaveh.",
+    "source": "Haft Lashkar storyteller tradition",
+    "date": "later scrolls; published 1998",
+    "tier": "late_accretion"
+   }
+  ],
+  "Tezhav": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "fought",
+    "myth": "Capture of Espanuy",
+    "note": "Bīžan defeats Tezhav’s side and captures Espanuy from his household.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "The sorceress": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "deceived_by",
+    "myth": "Fourth labour",
+    "note": "The supernatural opponent approaches Esfandiyar disguised as a beautiful woman.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "killed",
+    "myth": "Fourth labour",
+    "note": "Esfandiyar exposes her with a sacred talisman, binds her, and kills her.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Tur": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Afrasiyab descends from Tur, eponymous ancestral founder of Turan.",
+    "source": "Bundahišn 35.17",
+    "date": "ninth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tur is Fereydun’s second son.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fereydun",
+    "kind": "gift",
+    "myth": "Division of the world",
+    "note": "Fereydun grants Tur Turan, China, and the eastern lands.",
+    "source": "Bundahišn; Šāhnāma",
+    "date": "ninth century; ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Tus": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Kay Khosrow’s wars against Turan",
+    "note": "Tus repeatedly commands Iranian armies against Afrasiyab and his relatives.",
+    "source": "Šāh-nāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "allied",
+    "myth": "Iran–Turan campaigns",
+    "note": "Bīžan campaigns under or alongside the Iranian commander Tus.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "shared_myth",
+    "myth": "Fatal return through the snow",
+    "note": "Bīžan and Tus share the fatal return after Kay Khosrow’s disappearance.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Kavus's royal court",
+    "note": "Tus commands under Kavus, receives his execution order, and champions Fariborz's succession.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Avestan heroic catalogue",
+    "note": "Tusa appears as Haosrauuah’s ally in the heroic tradition.",
+    "source": "Yašt 5.53–55",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "served_by",
+    "myth": "Wars of vengeance",
+    "note": "Tus commands the Iranian army but disobeys Kay Khosrow’s route order.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "punished",
+    "myth": "Forud tragedy",
+    "note": "Kay Khosrow punishes or threatens Tus after his disobedience causes Forud’s death.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Final mountain journey",
+    "note": "Tus accompanies the king after warnings and dies in the snowstorm.",
+    "source": "Shāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Wars with Turan",
+    "note": "Tus is Rostam’s Iranian colleague despite frequent strategic disagreements.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "siyavash",
+    "kind": "shared_myth",
+    "myth": "Discovery of Siyavash’s mother",
+    "note": "Tus finds Siyavash’s future mother and later replaces Siyavash in command.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "shared_myth",
+    "myth": "Iranian mobilization against Sohrab",
+    "note": "Tus participates among the Iranian commanders confronting Sohrab's invasion.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Tush": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tush is named as Esfandiyar's son in variant epic genealogies.",
+    "source": "Daqiqi and Ferdowsi variants",
+    "date": "tenth–eleventh century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tūs": [
+   {
+    "stated_by": "garshasp",
+    "kind": "taught_by",
+    "myth": "Karsāsp discards his club",
+    "note": "Tūs urges Karsāsp to praise the Gāthās and Righteousness.",
+    "source": "Dēnkard 9.23.6",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Uruuāxšaiia": [
+   {
+    "stated_by": "garshasp",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Uruuāxšaiia is Kərəsāspa’s brother and the victim he avenges.",
+    "source": "Yasna 9.10",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Vafra Navāza": [
+   {
+    "stated_by": "fereydun",
+    "kind": "transformed",
+    "myth": "Vafra Navāza bird episode",
+    "note": "Fereydun hurls or transforms Vafra Navāza into a bird.",
+    "source": "Yašt 5.61–65",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Varəšava son of Dāna": [
+   {
+    "stated_by": "garshasp",
+    "kind": "killed",
+    "myth": "Catalogue of Kərəsāspa’s enemies",
+    "note": "Kərəsāspa kills Varəšava, son of Dāna.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Vayu": [
+   {
+    "stated_by": "garshasp",
+    "kind": "gift",
+    "myth": "Petition for martial victories",
+    "note": "Vayu receives Kərəsāspa’s sacrifice and grants his requested victories.",
+    "source": "Yašt 15.27–28",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Vaēsaka and his brood": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "fought",
+    "myth": "Iranian-Turanian wars",
+    "note": "Their heroic line forms part of the Turanian opposition to his forces.",
+    "source": "Yašt 5; Shāhnāma",
+    "date": "first millennium BCE onward",
+    "tier": "attested"
+   }
+  ],
+  "Vištāspa": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Esfandiyar is the son and designated successor of Vištāspa.",
+    "source": "Avestan and Middle Persian tradition",
+    "date": "first millennium BCE–ninth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Succession of the victorious weapon",
+    "note": "They are linked through the same weapon and later restoration traditions.",
+    "source": "Yašt 19; Pahlavi Rivāyat",
+    "date": "first millennium BCE onward",
+    "tier": "attested"
+   }
+  ],
+  "Vāyu": [
+   {
+    "stated_by": "fereydun",
+    "kind": "gift",
+    "myth": "Petition for victory",
+    "note": "Vāyu receives Fereydun’s request and grants victory over Dahāka.",
+    "source": "Yašt 15.23–24",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "gift",
+    "myth": "Sacrifice to Vāyu",
+    "note": "Haosrauuah sacrifices to Vāyu for divine assistance.",
+    "source": "Yašt 15.32",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "rescued_by",
+    "myth": "Journey to immortality",
+    "note": "Wāy transports him and participates in his passage to immortality.",
+    "source": "Bundahišn 35.3; Sūdgar Nask summary",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Vərəθraγna": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "shared_myth",
+    "myth": "Obscure Avestan aerial journey",
+    "note": "Kavus's aerial travel is uncertainly associated with the deity's bird-form imagery.",
+    "source": "Vərəθraγna Yašt 14.39",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Wesfāfarid": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Ṭabari names Wesfāfarid as Kay Khosrow’s mother.",
+    "source": "Ṭabari, History of Prophets and Kings",
+    "date": "early tenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "White Div": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "fought",
+    "myth": "Mazandaran campaign",
+    "note": "The White Div blinds and imprisons Kavus before Rostam kills it.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Seventh Labour",
+    "note": "Rostam kills White Div and uses his liver’s blood to cure blindness.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "White Elephant": [
+   {
+    "stated_by": "rostam",
+    "kind": "killed",
+    "myth": "Rostam’s youthful test",
+    "note": "The young Rostam kills Sām’s white elephant with a mace.",
+    "source": "Medieval Šāhnāma manuscripts",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Wind": [
+   {
+    "stated_by": "garshasp",
+    "kind": "fought",
+    "myth": "Demons turn Wind against Karsāsp",
+    "note": "A demonically deceived Wind attacks Karsāsp and threatens the earth.",
+    "source": "Pahlavi Rivāyat 18f.20–23",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Wind resumes its cosmic duty",
+    "note": "Karsāsp persuades Wind to resume sustaining heaven and earth.",
+    "source": "Pahlavi Rivāyat 18f.20–23",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   }
+  ],
+  "Wēw": [
+   {
+    "stated_by": "garshasp",
+    "kind": "shared_myth",
+    "myth": "Sleepers and Renovation-makers",
+    "note": "Wēw and Karsāsp are jointly listed among sleepers or Renovation-makers.",
+    "source": "Pahlavi Rivāyat 54; Zādspram 35",
+    "date": "late ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Wīdrafš": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "killed",
+    "myth": "Vengeance for Zarer",
+    "note": "Daqiqi says Esfandiyar kills Zarer's slayer; the Ayādgār credits Bastwar.",
+    "source": "Daqiqi",
+    "date": "ca. 976–80",
+    "tier": "regional_variant"
+   }
+  ],
+  "Xnąθaitī": [
+   {
+    "stated_by": "garshasp",
+    "kind": "other",
+    "myth": "Counter-creation against Vaēkərəta",
+    "note": "The hostile pairikā is obscurely associated with Kərəsāspa.",
+    "source": "Vīdēvdād 1.9",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "deceived_by",
+    "myth": "Karsāsp’s interpreted idolatry",
+    "note": "Pahlavi exegesis treats Xnąθaitī as witch-desire leading Karsāsp into idolatry.",
+    "source": "Pahlavi Vīdēvdād commentary",
+    "date": "Middle Persian",
+    "tier": "canonical"
+   }
+  ],
+  "Zainigav": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Defeat of the usurper Zainigav",
+    "note": "Afrasiyab defeats Zainigav after the Iranians request his assistance.",
+    "source": "Bundahišn 33.9",
+    "date": "ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Zanga-ye Shavaran": [
+   {
+    "stated_by": "siyavash",
+    "kind": "served_by",
+    "myth": "Return of Afrasiyab’s hostages",
+    "note": "Zanga returns Afrasiyab’s hostages and peace gifts on Siyavash’s behalf.",
+    "source": "Shahnameh",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zangeh-ye Shāvarān": [
+   {
+    "stated_by": "bizhan_and_manizheh",
+    "kind": "rescued_by",
+    "myth": "Rescue expedition to Turan",
+    "note": "Zangeh-ye Shāvarān joins Rostam’s party and participates in operations around Bīžan’s rescue.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zar Bānu": [
+   {
+    "stated_by": "rostam",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Zar Bānu is Rostam’s daughter in later vengeance traditions.",
+    "source": "Bahman-nāma",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Zar Bānū": [
+   {
+    "stated_by": "zal",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Zar Bānū is Rostam’s daughter and Zāl’s granddaughter.",
+    "source": "Bahman-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "shared_myth",
+    "myth": "Bahman’s capture of Zāl’s family",
+    "note": "She accompanies Bānū Gošasp and Zāl during Bahman’s invasion.",
+    "source": "Bahman-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Zarathustra": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "theft",
+    "myth": "Attempted seizure of Zarathustra’s glory",
+    "note": "Afrasiyab ranges through seven regions trying unsuccessfully to seize Zarathustra’s glory.",
+    "source": "Yt. 19.82",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "served",
+    "myth": "Championing the Good Religion",
+    "note": "Esfandiyar accepts the duty of defending and spreading Zarathustra's religion.",
+    "source": "Dēnkard 7.4.70 and 9.22",
+    "date": "ninth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "gift",
+    "myth": "Grant of invulnerability",
+    "note": "Later tradition says Zoroaster grants Esfandiyar bodily invulnerability.",
+    "source": "Zarātošt-nāma",
+    "date": "thirteenth century or earlier",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "gift",
+    "myth": "Sorceress ordeal",
+    "note": "A Zoroaster-derived sacred talisman exposes and binds the disguised sorceress.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "garshasp",
+    "kind": "allied",
+    "myth": "Judgment of Karsāsp’s soul",
+    "note": "Zarathustra defends Karsāsp’s deeds and promises to care for Fire.",
+    "source": "Dēnkard 9.15; Pahlavi Rivāyat 18f",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Zardušt": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Restoration of rule and religion",
+    "note": "Later eschatology assigns them distinct roles in restoring righteous rule and religion.",
+    "source": "Middle Persian eschatological texts",
+    "date": "ninth–tenth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "shared_myth",
+    "myth": "Recipients of divine light",
+    "note": "Suhrawardi presents both as recipients of divine or Kayanian illumination.",
+    "source": "Suhrawardi’s philosophical writings",
+    "date": "late twelfth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Zarer": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "other",
+    "myth": "",
+    "note": "Zarer is Esfandiyar's uncle and fellow champion of the religion.",
+    "source": "Ayādgār ī Zarērān",
+    "date": "Middle Persian",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "esfandiyar",
+    "kind": "allied",
+    "myth": "First war with Arjasp",
+    "note": "Esfandiyar assumes command after Zarer's death and continues the religious war.",
+    "source": "Ayādgār ī Zarērān; Daqiqi",
+    "date": "Middle Persian–ca. 976",
+    "tier": "attested"
+   }
+  ],
+  "Zav": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "fought",
+    "myth": "Restoration of rain and kingship",
+    "note": "Zav expels or succeeds Afrasiyab, restoring rain, fertility and political order.",
+    "source": "Bundahišn 33; Šāh-nāma",
+    "date": "ninth–eleventh centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "judged",
+    "myth": "Succession after Nowḏar’s death",
+    "note": "Zāl and the Iranian nobles select the aged Zav as king.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zav son of Tahmāsp": [
+   {
+    "stated_by": "arash",
+    "kind": "shared_myth",
+    "myth": "Arash’s shot during Zav’s reign",
+    "note": "Thaʿālibī relocates Arash’s episode to Zav’s reign without personal dialogue.",
+    "source": "Thaʿālibī, Ḡorar aḵbār",
+    "date": "early eleventh century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Zavara": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "fought",
+    "myth": "Sistan campaign",
+    "note": "Rostam's brother fights Esfandiyar's forces and kills his son Nush-Azar.",
+    "source": "Shahnameh",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zavareh": [
+   {
+    "stated_by": "sohrab",
+    "kind": "other",
+    "myth": "",
+    "note": "Zavareh, Rostam's brother, is Sohrab's paternal uncle.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zavāra": [
+   {
+    "stated_by": "rostam",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Zavāra is Rostam’s brother.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "allied",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Zavāra accompanies Rostam and attacks Esfandiyār’s camp.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rostam",
+    "kind": "shared_myth",
+    "myth": "Shaghad’s spear-pit ambush",
+    "note": "Zavāra dies alongside Rostam during the Kabul ambush.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "zal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Zavāra is Zāl’s son and Rostam’s lieutenant.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zhendeh-Razm": [
+   {
+    "stated_by": "sohrab",
+    "kind": "other",
+    "myth": "",
+    "note": "Zhendeh-Razm is Sohrab's maternal uncle.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sohrab",
+    "kind": "allied",
+    "myth": "Guide for recognizing Rostam",
+    "note": "Zhendeh-Razm accompanies Sohrab because he can identify Rostam.",
+    "source": "Ferdowsi, Shahnameh",
+    "date": "completed 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Zēnīgāw": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "fought",
+    "myth": "Arabian invasion of Iran",
+    "note": "Zēnīgāw attacks Iran during Kavus's reign in the older captivity complex.",
+    "source": "Bundahišn 33.9–11",
+    "date": "ninth century CE",
+    "tier": "attested"
+   }
+  ],
+  "pairikās": [
+   {
+    "stated_by": "garshasp",
+    "kind": "fought",
+    "myth": "Pitaona and the pairikās",
+    "note": "Many pairikās accompany Pitaona when Kərəsāspa attacks him.",
+    "source": "Yašt 19.41",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "the divs": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Building Kavus's pleasure palaces",
+    "note": "Kavus forces the divs to construct crystal and gold palaces for him.",
+    "source": "Šāh-nāma",
+    "date": "1010 CE",
+    "tier": "canonical"
+   }
+  ],
+  "the sons of Viseh": [
+   {
+    "stated_by": "afrasiyab",
+    "kind": "served_by",
+    "myth": "Turanian military service",
+    "note": "The sons of Viseh serve as Turanian warriors under Afrasiyab.",
+    "source": "Šāh-nāma; Avestan catalogues",
+    "date": "first millennium BCE onward",
+    "tier": "canonical"
+   }
+  ],
+  "Ābtin": [
+   {
+    "stated_by": "fereydun",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Developed Persian tradition names Ābtin as Fereydun’s father.",
+    "source": "Šāhnāma",
+    "date": "ca. 1010",
+    "tier": "canonical"
+   }
+  ],
+  "Ādur Burzēn-Mihr": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "shared_myth",
+    "myth": "Sacred fire miracle",
+    "note": "Esfandiyar receives or holds the sacred fire without being burned.",
+    "source": "Middle Persian miracle tradition",
+    "date": "late antique–early Islamic",
+    "tier": "attested"
+   }
+  ],
+  "Ādur Gušnasp": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "allied",
+    "myth": "Destruction of Lake Čēčast idol temple",
+    "note": "The sacred fire rides or shines beside him during the temple’s destruction.",
+    "source": "Bundahišn 18.12",
+    "date": "ninth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ādur-tirs": [
+   {
+    "stated_by": "esfandiyar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The Bundahišn names Ādur-tirs as a son of Esfandiyar.",
+    "source": "Bundahišn",
+    "date": "ninth century",
+    "tier": "attested"
+   }
+  ],
+  "Āxrūra": [
+   {
+    "stated_by": "kay_khosrow",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Āxrūra is Haosrauuah’s son; both of their fravašis are venerated.",
+    "source": "Yašt 13.137",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Āxrūrag": [
+   {
+    "stated_by": "garshasp",
+    "kind": "allied",
+    "myth": "Ocean fight with Gandarw",
+    "note": "Āxrūrag appears as Karsāsp’s friend or helper against Gandarw.",
+    "source": "Pahlavi Rivāyat 18f.11",
+    "date": "medieval Middle Persian",
+    "tier": "canonical"
+   }
+  ],
+  "Āθβiia": [
+   {
+    "stated_by": "fereydun",
+    "kind": "child_of",
+    "myth": "",
+    "note": "His Haoma pressing is rewarded with the birth of Θraētaona.",
+    "source": "Yasna 9.7–8",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Āḏarnuš": [
+   {
+    "stated_by": "rostam",
+    "kind": "fought",
+    "myth": "Rostam and Esfandiyār",
+    "note": "Āḏarnuš is killed by Rostam’s side during the duel’s wider conflict.",
+    "source": "Šāhnāma",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Ōšnar": [
+   {
+    "stated_by": "kay_kavus",
+    "kind": "served_by",
+    "myth": "Administration of Kavus's realm",
+    "note": "Ōšnar serves as a learned minister and administrator during Kavus's reign.",
+    "source": "Dēnkard 7; Bundahišn",
+    "date": "ninth–tenth centuries CE",
+    "tier": "attested"
+   }
+  ],
+  "Šahriyār": [
+   {
+    "stated_by": "zal",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Šahriyār is a later descendant of Borzū in Zāl’s lineage.",
+    "source": "Šahriyār-nāma",
+    "date": "early 12th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Šaḡād": [
+   {
+    "stated_by": "zal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Šaḡād is Zāl’s son by an unnamed Kabul slave woman.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ],
+  "Θrita": [
+   {
+    "stated_by": "garshasp",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Θrita’s Haoma sacrifice produces Kərəsāspa and Uruuāxšaiia.",
+    "source": "Yasna 9.10–11",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ṭus": [
+   {
+    "stated_by": "zal",
+    "kind": "judged",
+    "myth": "Succession after Nowḏar’s death",
+    "note": "Zāl rejects Ṭus as unsuitable to succeed Nowḏar.",
+    "source": "Ferdowsi",
+    "date": "1010",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

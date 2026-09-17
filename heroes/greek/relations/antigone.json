@@ -1,0 +1,453 @@
+{
+ "subject": "antigone",
+ "relations": [
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Antigone is consistently the daughter of Oedipus.",
+   "source": "Sophocles; Pseudo-Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Oedipus in exile",
+   "note": "Antigone guides and cares for her exiled father at Colonus.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Oedipus considers suicide",
+   "note": "Antigone restrains her suicidal father and urges him to live.",
+   "source": "Seneca, Phoenissae",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jocasta",
+   "other_aliases": [
+    "Epicaste"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jocasta is Antigone's mother in the dominant tragic genealogy.",
+   "source": "Sophocles; Pseudo-Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jocasta",
+   "other_aliases": [
+    "Epicaste"
+   ],
+   "kind": "shared_myth",
+   "myth": "Deaths after the brothers’ duel",
+   "note": "Antigone witnesses or laments Jocasta's death during the Theban catastrophe.",
+   "source": "Euripides, Phoenician Women",
+   "date": "c. 411–409 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryganeia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An alternative genealogy makes Euryganeia Antigone's mother.",
+   "source": "Pherecydes F95; Pseudo-Apollodorus",
+   "date": "early 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ismene is Antigone's sister in all relevant genealogies.",
+   "source": "Sophocles",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Forbidden burial",
+   "note": "Antigone requests Ismene's help, then rejects her attempted shared guilt.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Oedipus at Colonus",
+   "note": "The sisters accompany Oedipus, suffer capture, and mourn together.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eteocles is Antigone's brother.",
+   "source": "Sophocles",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lament after the fratricide",
+   "note": "Antigone mourns Eteocles together with Polynices.",
+   "source": "Seven; Phoenician Women",
+   "date": "467–409 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polynices burned on Eteocles’ pyre",
+   "note": "Antigone brings Polynices' body to Eteocles' pyre in later variants.",
+   "source": "Pausanias; Hyginus; Statius",
+   "date": "1st–2nd centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Polynices is Antigone's brother.",
+   "source": "Sophocles",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Polynices’ appeal at Colonus",
+   "note": "Antigone hears his appeal and promises burial if circumstances permit.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Forbidden burial",
+   "note": "Antigone performs dusting, libation, lament, and burial rites for him.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Secret burial after the war",
+   "note": "Antigone steals and secretly buries Polynices' body.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Antigone’s Dragging-place",
+   "note": "Antigone drags Polynices to Eteocles' burning pyre.",
+   "source": "Pausanias 9.18.3",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Joint cremation with Argia",
+   "note": "Antigone and Argia place Polynices upon Eteocles' pyre.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Battlefield cremation",
+   "note": "Antigone and Argia find and burn Polynices' body together.",
+   "source": "Statius, Thebaid 12",
+   "date": "91–92 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nighttime recovery of Polynices",
+   "note": "Antigone carries him toward Eteocles' tomb to reconcile the brothers.",
+   "source": "Philostratus, Imagines 2.29",
+   "date": "early 3rd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Creon is Antigone's maternal uncle and Thebes' ruler.",
+   "source": "Sophocles",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Trial for forbidden burial",
+   "note": "Creon interrogates, condemns, and seals Antigone alive in a chamber.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Discovery of Antigone’s hidden family",
+   "note": "Creon discovers Antigone and orders Haemon to kill her.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Haemon is Antigone's betrothed, though their marriage never occurs.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Haemon confronts Creon",
+   "note": "Haemon defends Antigone and reports that Thebes privately honors her.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Deaths inside the chamber",
+   "note": "Haemon finds Antigone hanged and kills himself beside her.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Euripidean marriage ending",
+   "note": "Antigone is given to Haemon in marriage rather than dying.",
+   "source": "Euripides, lost Antigone",
+   "date": "late 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Haemon conceals Antigone",
+   "note": "Haemon saves Antigone, hides her with shepherds, and reports her dead.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Hidden life with Haemon",
+   "note": "Antigone lives secretly with Haemon and bears his son.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Discovery of the hidden family",
+   "note": "After discovery and failed intercession, Haemon kills Antigone.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Maeon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later reconstruction associates Antigone and Haemon's unnamed son with Maeon.",
+   "source": "Later mythographic discussion",
+   "date": "",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Argia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint burial of Polynices",
+   "note": "Polynices' wife joins Antigone in recovering and cremating his body.",
+   "source": "Hyginus; Statius",
+   "date": "1st century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Creon seizes Oedipus’ daughters",
+   "note": "Theseus rescues Antigone and Ismene from Creon at Colonus.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tydeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Murder beside a spring",
+   "note": "Tydeus allegedly kills Antigone and Ismene in an early variant.",
+   "source": "Pherecydes F95 via scholium",
+   "date": "early 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "other",
+   "myth": "Failed intercession with Creon",
+   "note": "Heracles unsuccessfully petitions Creon to pardon Haemon, indirectly affecting Antigone.",
+   "source": "Hyginus, Fabulae 72",
+   "date": "early Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Defense before Creon",
+   "note": "Antigone declares that Creon's burial prohibition did not originate with Zeus.",
+   "source": "Sophocles, Antigone 450–460",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Antigone’s deathward bridal procession",
+   "note": "Antigone is poetically presented as a bride proceeding to Hades.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Antigone compares her entombment",
+   "note": "Antigone compares her living entombment to Niobe's petrification on Sipylus.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Choral examples of confinement",
+   "note": "The chorus compares Antigone's enclosure with Danaë's imprisonment.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lycurgus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Choral examples of confinement",
+   "note": "The chorus parallels Antigone with imprisoned Lycurgus, punished for opposing Dionysus.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cleopatra",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Choral Thracian analogy",
+   "note": "The chorus invokes Cleopatra's family tragedy as an analogue for Antigone.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Choral Thracian analogy",
+   "note": "Phineus' family tragedy is invoked as an analogue for Antigone's suffering.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Phineids",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Choral Thracian analogy",
+   "note": "Their mutilation and confinement parallel Antigone's familial suffering.",
+   "source": "Sophocles, Antigone",
+   "date": "c. 442–440 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "other",
+   "myth": "Ruin of the Labdacids",
+   "note": "They are invoked as supernatural agents of Antigone's family's ruin.",
+   "source": "Sophocles",
+   "date": "5th century BCE",
+   "tier": "attested"
+  }
+ ]
+}

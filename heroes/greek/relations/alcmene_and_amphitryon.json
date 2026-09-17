@@ -1,0 +1,777 @@
+{
+ "subject": "alcmene_and_amphitryon",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "seduced_by",
+   "myth": "Zeus impersonates Amphitryon and lies with Alcmene",
+   "note": "Zeus deceives Alcmene by assuming Amphitryon’s appearance and fathers Heracles.",
+   "source": "Iliad 14; Odyssey 11; Apollodorus 2.4.8",
+   "date": "late 8th–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "deceived_by",
+   "myth": "Zeus impersonates Amphitryon during the extended night",
+   "note": "Zeus usurps Amphitryon’s identity, reports his victory, and sleeps with Alcmene.",
+   "source": "Apollodorus 2.4.8; Plautus Amphitruo",
+   "date": "c. 190 BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Divine rain extinguishes Alcmene’s pyre",
+   "note": "Zeus apparently vindicates Alcmene by sending rain against Amphitryon’s attempted burning.",
+   "source": "Python krater",
+   "date": "c. 350–325 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Zeus orders Alcmene removed to the Blessed Isles",
+   "note": "Later tradition makes Zeus command Alcmene’s bodily removal and substitution with a stone.",
+   "source": "Later scholia and mythography",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera delays Alcmene’s labor",
+   "note": "Hera restrains Alcmene’s delivery so Eurystheus is born first and gains sovereignty.",
+   "source": "Iliad 19.95–133",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera sends serpents against the infant twins",
+   "note": "Hera attacks Alcmene’s household by sending two serpents against Heracles and Iphicles.",
+   "source": "Pindar Nemean 1",
+   "date": "c. 470s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [
+    "Lucina"
+   ],
+   "kind": "punished_by",
+   "myth": "Eileithyia magically obstructs Alcmene’s childbirth",
+   "note": "The birth-goddess prevents Alcmene from delivering until deceived by a female helper.",
+   "source": "Ovid Metamorphoses 9; Antoninus Liberalis 29",
+   "date": "8 CE–3rd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "The Moirai obstruct Alcmene’s delivery",
+   "note": "The Moirai join Eileithyia in preventing Alcmene from giving birth.",
+   "source": "Antoninus Liberalis 29",
+   "date": "2nd–3rd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hecate receives Alcmene’s transformed helper",
+   "note": "Hecate transforms Galinthias and later makes Alcmene’s helper her sacred attendant.",
+   "source": "Antoninus Liberalis 29",
+   "date": "2nd–3rd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "allied",
+   "myth": "Mercury assists Jupiter’s impersonation plot",
+   "note": "Mercury impersonates Sosia and helps Jupiter maintain the deception of Alcmene and Amphitryon.",
+   "source": "Plautus Amphitruo",
+   "date": "c. 190–185 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "rescued_by",
+   "myth": "Hermes carries Alcmene to the Blessed Isles",
+   "note": "At Zeus’s command, Hermes substitutes a stone and transports Alcmene to the Blessed Isles.",
+   "source": "Later scholia and mythography",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "shared_myth",
+   "myth": "Helios delays sunrise during Zeus’s extended night",
+   "note": "Zeus orders Helios not to rise while Alcmene is deceived by the divine impersonation.",
+   "source": "Homeric scholia",
+   "date": "compiled over centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "shared_myth",
+   "myth": "Selene cooperates in extending Alcmene’s night",
+   "note": "Some later accounts enlist Selene in the cosmic pause enabling Zeus’s deception.",
+   "source": "Later scholia",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Night accompanies the extended-night tradition",
+   "note": "Personified Night is associated with the prolonged night surrounding Alcmene’s conception of Heracles.",
+   "source": "Philostratus the Younger Imagines 5",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Poseidon’s golden hair protects Amphitryon’s enemy",
+   "note": "Poseidon gives Pterelaus the life-preserving hair that structures Amphitryon’s Taphian war.",
+   "source": "Apollodorus 2.4.5–7",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Athena stops mad Heracles from killing Amphitryon",
+   "note": "Athena strikes Heracles unconscious with a stone, saving Amphitryon from his murderous madness.",
+   "source": "Euripides Heracles 1002–1008",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo at Delphi"
+   ],
+   "kind": "judged_by",
+   "myth": "Delphi decides Alcmene’s burial place",
+   "note": "Apollo’s oracle resolves the Heracleidae’s dispute by directing that Alcmene be buried at Megara.",
+   "source": "Pausanias 1.41.1",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Alcmene marries or cohabits with Rhadamanthys after Amphitryon’s death.",
+   "source": "Apollodorus 2.4.11; Plutarch Lysander 28",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Alcmene joins Rhadamanthys in the Blessed Isles",
+   "note": "A variant places Alcmene’s marriage to Rhadamanthys after her supernatural removal.",
+   "source": "Later scholia and mythography",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcmene is Heracles’ biological mother by Zeus.",
+   "source": "Iliad 14; Odyssey 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Amphitryon is Heracles’ social and putative father, expressed by the Homeric patronymic.",
+   "source": "Iliad 5.392–397",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "taught",
+   "myth": "Amphitryon teaches Heracles chariot driving",
+   "note": "Amphitryon acts as Heracles’ benevolent instructor and teaches him to drive a chariot.",
+   "source": "Theocritus Idyll 24",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "allied",
+   "myth": "Amphitryon fights beside Heracles against the Minyans",
+   "note": "Amphitryon joins Heracles in battle against the Minyans of Orchomenus.",
+   "source": "Apollodorus 2.4.11",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "rescued_by",
+   "myth": "Heracles returns and saves Amphitryon’s household",
+   "note": "Heracles returns before Lycus can execute Amphitryon, Megara, and the children.",
+   "source": "Euripides Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "Mad Heracles nearly kills Amphitryon",
+   "note": "Hera-driven madness turns Heracles against his household, leaving Amphitryon in mortal danger.",
+   "source": "Euripides Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphicles",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcmene and Amphitryon are the biological parents of Iphicles.",
+   "source": "Pindar Nemean 1; Apollodorus 2.4.8",
+   "date": "5th BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphicles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Amphitryon tests the twins with serpents",
+   "note": "Amphitryon endangers Iphicles and Heracles with snakes to determine which infant is his.",
+   "source": "Pherecydes fragments",
+   "date": "5th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Laonome",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late genealogies make Laonome the daughter of Amphitryon and Alcmene.",
+   "source": "Late genealogical sources",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Electryon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Alcmene is Electryon’s daughter in the mainstream genealogy.",
+   "source": "Shield 1–4",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electryon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Amphitryon accidentally kills Electryon",
+   "note": "Amphitryon’s thrown club rebounds from a cow and kills Alcmene’s father.",
+   "source": "Apollodorus 2.4.5–6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electryon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Amphitryon kills Electryon in anger",
+   "note": "Fragmentary variants make Electryon’s death intentional rather than accidental.",
+   "source": "Scholia and late compilations",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anaxo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pseudo-Apollodorus names Anaxo as Alcmene’s mother.",
+   "source": "Apollodorus 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lysidice",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A variant genealogy names Lysidice as Alcmene’s mother.",
+   "source": "Scholia and later genealogies",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus names Eurydice, daughter of Pelops, as Alcmene’s mother.",
+   "source": "Diodorus Siculus 4.9.1",
+   "date": "1st c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcaeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Amphitryon is Alcaeus’ son in the standard Perseid genealogy.",
+   "source": "Apollodorus 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Astydameia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One mythographic genealogy names Astydameia as Amphitryon’s mother.",
+   "source": "Mythographic genealogies",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Laonome",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One mythographic genealogy names Laonome as Amphitryon’s mother.",
+   "source": "Mythographic genealogies",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hipponome",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One mythographic genealogy names Hipponome as Amphitryon’s mother.",
+   "source": "Mythographic genealogies",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Alcmene and Amphitryon both descend from Perseus through Electryon and Alcaeus.",
+   "source": "Iliad 19; later genealogies",
+   "date": "late 8th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andromeda",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Alcmene and Amphitryon are Andromeda’s descendants through the Perseid line.",
+   "source": "Genealogical tradition",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amphiaraus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asius reportedly made an uncertain or homonymous Alcmene the daughter of Amphiaraus.",
+   "source": "Pausanias 5.18.2–3 citing Asius",
+   "date": "Archaic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eriphyle",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asius reportedly made an uncertain or homonymous Alcmene the daughter of Eriphyle.",
+   "source": "Pausanias 5.18.2–3 citing Asius",
+   "date": "Archaic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sthenelus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Sthenelus expels the couple after Electryon’s death",
+   "note": "Sthenelus drives Amphitryon, Alcmene, and Licymnius into exile.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurystheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eurystheus’ premature birth displaces Alcmene’s son",
+   "note": "Hera ensures Eurystheus is born first, depriving Heracles of the promised Perseid sovereignty.",
+   "source": "Iliad 19.95–133",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurystheus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Alcmene mutilates Eurystheus’ severed head",
+   "note": "Alcmene gouges out the dead Eurystheus’ eyes in vengeance for his persecution of her family.",
+   "source": "Apollodorus 2.8.1",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Licymnius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Licymnius is Alcmene’s surviving half-brother.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Licymnius",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Licymnius accompanies Alcmene and Amphitryon into exile",
+   "note": "Licymnius travels with the couple after Sthenelus expels them.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Creon purifies the exiled Amphitryon",
+   "note": "Creon receives Amphitryon at Thebes and purifies him after Electryon’s death.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Creon supplies aid for the Taphian expedition",
+   "note": "After the fox crisis is solved, Creon contributes Theban support to Amphitryon’s campaign.",
+   "source": "Apollodorus 2.4.6–7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teiresias",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Teiresias explains Zeus’s visit to Amphitryon",
+   "note": "Teiresias reveals that Zeus, not Amphitryon, visited Alcmene during the preceding night.",
+   "source": "Apollodorus 2.4.8",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teiresias",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Teiresias interprets Heracles’ serpent victory",
+   "note": "Teiresias explains the infant’s feat to Alcmene and Amphitryon and foretells his career.",
+   "source": "Pindar Nemean 1",
+   "date": "c. 470s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Historis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Historis tricks Hera’s agents during Alcmene’s labor",
+   "note": "Historis falsely announces the birth, causing the Pharmacides to release their obstruction.",
+   "source": "Pausanias 9.11.3",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Galanthis",
+   "other_aliases": [
+    "Galinthias"
+   ],
+   "kind": "rescued_by",
+   "myth": "Galanthis falsely announces Alcmene’s delivery",
+   "note": "Alcmene’s helper deceives the obstructing powers, releasing the prolonged labor.",
+   "source": "Ovid Metamorphoses 9; Antoninus Liberalis 29",
+   "date": "8 CE–3rd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cephalus joins the fox hunt and Taphian war",
+   "note": "Amphitryon recruits Cephalus, Laelaps’ owner, for both the fox crisis and expedition.",
+   "source": "Apollodorus 2.4.6–7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laelaps",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amphitryon deploys Laelaps against the Teumessian fox",
+   "note": "Amphitryon uses the infallible hound to pursue the creature fated never to be caught.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teumessian fox",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Amphitryon counters the uncatchable Teumessian fox",
+   "note": "Amphitryon must resolve the fox’s depredations before Creon will support his war.",
+   "source": "Apollodorus 2.4.6",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Panopeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Panopeus joins Amphitryon’s Taphian expedition",
+   "note": "Panopeus serves as one of Amphitryon’s allies against the Taphians and Teleboans.",
+   "source": "Apollodorus 2.4.7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heleus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Heleus joins Amphitryon’s Taphian expedition",
+   "note": "Heleus serves as one of Amphitryon’s allies in the campaign.",
+   "source": "Apollodorus 2.4.7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pterelaus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Amphitryon wars against Pterelaus",
+   "note": "Amphitryon attacks Pterelaus’ kingdom but cannot prevail while the king retains his golden hair.",
+   "source": "Apollodorus 2.4.7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Comaetho",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Comaetho betrays Pterelaus for love of Amphitryon",
+   "note": "Comaetho’s love for Amphitryon leads her to remove her father’s life-preserving hair.",
+   "source": "Apollodorus 2.4.7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Comaetho",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Amphitryon executes Comaetho after victory",
+   "note": "Amphitryon kills Comaetho as punishment for betraying her father.",
+   "source": "Apollodorus 2.4.7",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iolaus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Iolaus and Alcmene share the Cynosarges cult group",
+   "note": "Iolaus receives cult alongside Alcmene, Heracles, and Hebe without a surviving direct exchange.",
+   "source": "Pausanias 1.19.3",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hebe and Alcmene share the Cynosarges cult group",
+   "note": "Hebe receives cult alongside Alcmene, Heracles, and Iolaus without a surviving direct narrative.",
+   "source": "Pausanias 1.19.3",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyllus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Alcmene is Hyllus’ grandmother through Heracles.",
+   "source": "Heraclid genealogical tradition",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyllus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hyllus sends Eurystheus’ head to Alcmene",
+   "note": "Hyllus delivers Eurystheus’ severed head, enabling Alcmene’s posthumous vengeance.",
+   "source": "Apollodorus 2.8.1",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Megara",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amphitryon protects Megara during Lycus’ usurpation",
+   "note": "Amphitryon remains with his daughter-in-law Megara as Lycus prepares to execute them.",
+   "source": "Euripides Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lycus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Lycus threatens Amphitryon and Heracles’ family",
+   "note": "Amphitryon resists the usurper who intends to kill him, Megara, and the children.",
+   "source": "Euripides Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lyssa",
+   "other_aliases": [
+    "Madness"
+   ],
+   "kind": "punished_by",
+   "myth": "Lyssa drives Heracles mad and endangers Amphitryon",
+   "note": "Lyssa’s attack on Heracles indirectly causes his family’s massacre and nearly costs Amphitryon his life.",
+   "source": "Euripides Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Trophonius",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Trophonius builds Amphitryon’s Theban bridal chamber",
+   "note": "Regional tradition credits Trophonius and Agamedes with constructing the couple’s chamber.",
+   "source": "Pausanias 9.11.1",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agamedes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Agamedes builds Amphitryon’s Theban bridal chamber",
+   "note": "Regional tradition credits Agamedes and Trophonius with constructing the couple’s chamber.",
+   "source": "Pausanias 9.11.1",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antenor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Antenor helps Amphitryon ignite Alcmene’s pyre",
+   "note": "Antenor assists Amphitryon in bringing fire against Alcmene in the pyre scene.",
+   "source": "Python krater",
+   "date": "c. 350–325 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iole",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Alcmene recounts Heracles’ birth to Iole",
+   "note": "The aged Alcmene tells Iole about her obstructed labor and Galanthis’ intervention.",
+   "source": "Ovid Metamorphoses 9.273–323",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pharmacides",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "The Pharmacides obstruct Alcmene’s labor",
+   "note": "Hera’s regional agents prevent Alcmene’s delivery until Historis tricks them.",
+   "source": "Pausanias 9.11.3",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

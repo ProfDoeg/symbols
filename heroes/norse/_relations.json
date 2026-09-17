@@ -1,0 +1,3794 @@
+{
+ "folder": "norse",
+ "gods": [
+  "aslaug",
+  "atli_etzel",
+  "beowulf",
+  "bodvar_bjarki",
+  "dietrich_von_bern",
+  "egil",
+  "grettir",
+  "gudrun_kriemhild",
+  "gunnar",
+  "hagen",
+  "helgi_hundingsbane",
+  "hervor",
+  "hrolf_kraki",
+  "lagertha",
+  "ragnar_lodbrok",
+  "sigmund",
+  "signy",
+  "starkad"
+ ],
+ "relations": [
+  {
+   "a": "atli_etzel",
+   "b": "dietrich_von_bern",
+   "kind": "allied",
+   "myth": "Campaigns and Niflung catastrophe",
+   "note": "Etzel hosts, patronizes, and campaigns alongside Dietrich.",
+   "source": "Rabenschlacht; Þiðreks saga",
+   "date": "thirteenth century",
+   "tier": "canonical",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "dietrich_von_bern",
+   "kind": "served_by",
+   "myth": "Dietrich’s exile at Etzel’s court",
+   "note": "Dietrich resides at Etzel’s court as an exiled military leader.",
+   "source": "Nibelungenlied; Dietrichs Flucht",
+   "date": "c. 1200–late thirteenth century",
+   "tier": "canonical",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "gunnar",
+   "kind": "deceived",
+   "myth": "Treacherous invitation to Atli's court",
+   "note": "Atli lures Gunnar and Högni to his court with deceitful promises.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "gunnar",
+   "kind": "fought",
+   "myth": "Battle for the Niflung treasure",
+   "note": "Gunnar resists Atli's demand for the treasure and fights his forces.",
+   "source": "Atlakviða; Atlamál",
+   "date": "medieval",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "gunnar",
+   "kind": "killed",
+   "myth": "Death in the serpent enclosure",
+   "note": "Atli has Gunnar cast among serpents after he refuses to reveal the treasure.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "gunnar",
+   "kind": "punished",
+   "myth": "Destruction for the forbidden affair",
+   "note": "Atli discovers Gunnar's affair with Oddrún and destroys Gunnar and Högni.",
+   "source": "Oddrúnargrátr",
+   "date": "probably eleventh century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "atli_etzel",
+   "b": "gunnar",
+   "kind": "shared_myth",
+   "myth": "Feast and catastrophe at Etzel's court",
+   "note": "Etzel hosts the fatal feast but does not order Gunther's death.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "beowulf",
+   "b": "bodvar_bjarki",
+   "kind": "identified_with",
+   "myth": "Modern Bjarki-Beowulf comparison",
+   "note": "Modern scholars sometimes equate them or reconstruct them as cognate champions.",
+   "source": "Modern comparative scholarship",
+   "date": "19th–21st centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "beowulf"
+   ]
+  },
+  {
+   "a": "bodvar_bjarki",
+   "b": "hrolf_kraki",
+   "kind": "allied",
+   "myth": "Last stand at Lejre",
+   "note": "Bödvar defends Hrólfr and dies fighting beside his king.",
+   "source": "Gesta Danorum II and Hrólfs saga",
+   "date": "c. 1200–15th century",
+   "tier": "canonical",
+   "stated_by": [
+    "bodvar_bjarki"
+   ]
+  },
+  {
+   "a": "bodvar_bjarki",
+   "b": "hrolf_kraki",
+   "kind": "served",
+   "myth": "",
+   "note": "Bödvar enters Hrólfr’s service and becomes his paramount champion.",
+   "source": "All major medieval witnesses",
+   "date": "c. 1180–15th century",
+   "tier": "attested",
+   "stated_by": [
+    "bodvar_bjarki"
+   ]
+  },
+  {
+   "a": "dietrich_von_bern",
+   "b": "gudrun_kriemhild",
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich opposes Kriemhild’s faction and delivers his captives alive to her.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "dietrich_von_bern",
+   "b": "gudrun_kriemhild",
+   "kind": "other",
+   "myth": "Guðrún’s adultery ordeal",
+   "note": "Guðrún is falsely accused of sleeping with Þjóðrekr and is vindicated.",
+   "source": "Guðrúnarkviða III",
+   "date": "twelfth century or earlier",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "dietrich_von_bern",
+   "b": "gunnar",
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich defeats, binds, and delivers Gunther alive to Kriemhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "dietrich_von_bern",
+   "b": "hagen",
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich defeats, binds, and delivers Hagen alive to Kriemhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical",
+   "stated_by": [
+    "dietrich_von_bern"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "gift",
+   "myth": "Marriage of Guðrún and Sigurd",
+   "note": "Gunnar gives his sister Guðrún in marriage to Sigurd.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "killed",
+   "myth": "Revenge at Etzel's court",
+   "note": "Kriemhild orders the captive Gunther beheaded during her revenge.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "punished",
+   "myth": "Gunnar's imprisonment after the Niflung battle",
+   "note": "In the saga's hybrid tradition, Grímhild urges Gunnar's captors to dispose of him.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "rescued",
+   "myth": "Warning before Atli's ambush",
+   "note": "Guðrún attempts to warn Gunnar of Atli's treacherous invitation.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "shared_myth",
+   "myth": "Guðrún's revenge upon Atli",
+   "note": "After Gunnar's death, Guðrún avenges her brothers by destroying Atli.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gudrun_kriemhild",
+   "b": "gunnar",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Guðrún is Gunnar's sister in the Norse tradition.",
+   "source": "Eddic poems; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "allied",
+   "myth": "Final combat against Walter",
+   "note": "Hagen counsels Gunnar, rescues him, and joins his final attack on Walter.",
+   "source": "Waltharius",
+   "date": "ninth/tenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "allied",
+   "myth": "Plot to kill Sigurd",
+   "note": "Gunnar and Högni induce Gothorm to murder their oath-brother Sigurd.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "allied",
+   "myth": "Resistance to Atli",
+   "note": "The brothers resist Atli and conceal the Niflung treasure's location.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "killed_by",
+   "myth": "Struggle for the ring",
+   "note": "Hagen kills Gunther during their struggle over the ring.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "served_by",
+   "myth": "Siegfried's murder and Kriemhild's revenge",
+   "note": "Hagen serves Gunther, murders Siegfried with his assent, and guards the hoard.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "gunnar",
+   "b": "hagen",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Högni is Gunnar's brother in the Norse genealogical tradition.",
+   "source": "Eddic poems; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical",
+   "stated_by": [
+    "gunnar"
+   ]
+  },
+  {
+   "a": "hagen",
+   "b": "helgi_hundingsbane",
+   "kind": "killed_by",
+   "myth": "Battle at Frekasteinn",
+   "note": "Helgi kills Sigrún’s father during the war against Höðbroddr.",
+   "source": "HH II prose",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested",
+   "stated_by": [
+    "helgi_hundingsbane"
+   ]
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "b": "hrolf_kraki",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Saxo’s Helgo fathers Roluo Kraki with Urse.",
+   "source": "Gesta Danorum Book II",
+   "date": "c. 1185–1208",
+   "tier": "regional_variant",
+   "stated_by": [
+    "helgi_hundingsbane"
+   ]
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "b": "sigmund",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sigmundr is Helgi’s father in the received Eddic and Völsung genealogy.",
+   "source": "HH I 6; HH II prose",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested",
+   "stated_by": [
+    "helgi_hundingsbane"
+   ]
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "b": "sigmund",
+   "kind": "gift",
+   "myth": "Helgi’s naming and endowment",
+   "note": "Sigmundr names Helgi and grants him estates and a sword.",
+   "source": "HH I 6–9",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested",
+   "stated_by": [
+    "helgi_hundingsbane"
+   ]
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "b": "signy",
+   "kind": "other",
+   "myth": "",
+   "note": "Helgi is Signý’s nephew through Sigmundr; no direct interaction is recorded.",
+   "source": "Vǫlsunga saga genealogy",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "b": "starkad",
+   "kind": "fought",
+   "myth": "Höðbroddr campaign",
+   "note": "Starkaðr is listed among the enemy allies mobilized against Helgi.",
+   "source": "HH I",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested",
+   "stated_by": [
+    "helgi_hundingsbane"
+   ]
+  },
+  {
+   "a": "sigmund",
+   "b": "signy",
+   "kind": "allied",
+   "myth": "Vengeance against Siggeirr",
+   "note": "Signý preserves and assists Sigmundr throughout their long campaign against Siggeirr.",
+   "source": "Vǫlsunga saga, chapters 5–8",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  },
+  {
+   "a": "sigmund",
+   "b": "signy",
+   "kind": "rescued_by",
+   "myth": "Sigmundr survives the she-wolf",
+   "note": "Signý’s honey stratagem enables Sigmundr to kill the she-wolf and escape the stocks.",
+   "source": "Vǫlsunga saga, chapter 5",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  },
+  {
+   "a": "sigmund",
+   "b": "signy",
+   "kind": "rescued_by",
+   "myth": "Escape from Siggeirr’s stone prison",
+   "note": "Signý conceals Sigmundr’s sword in straw, enabling him and Sinfjǫtli to escape burial.",
+   "source": "Vǫlsunga saga, chapter 8",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  },
+  {
+   "a": "sigmund",
+   "b": "signy",
+   "kind": "seduced_by",
+   "myth": "Signý conceives Sinfjǫtli in magical disguise",
+   "note": "Disguised as another woman, Signý sleeps with her unwitting twin for three nights.",
+   "source": "Vǫlsunga saga, chapter 7",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  },
+  {
+   "a": "sigmund",
+   "b": "signy",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Signý and Sigmundr are Vǫlsungr and Hljóð’s eldest children and twins.",
+   "source": "Vǫlsunga saga, chapter 2",
+   "date": "c. 1250–1270",
+   "tier": "canonical",
+   "stated_by": [
+    "signy"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "beowulf",
+   "god": "folklore/grendel",
+   "kind": "fought",
+   "myth": "Battle in Heorot",
+   "note": "Beowulf grapples with Grendel unarmed and tears off his arm.",
+   "source": "Beowulf, lines 702–836",
+   "date": "manuscript c. 1000",
+   "tier": "attested"
+  },
+  {
+   "a": "beowulf",
+   "god": "folklore/grendel",
+   "kind": "killed",
+   "myth": "Battle in Heorot",
+   "note": "Beowulf mortally wounds Grendel by tearing away his arm and shoulder.",
+   "source": "Beowulf, lines 702–836",
+   "date": "manuscript c. 1000",
+   "tier": "attested"
+  },
+  {
+   "a": "bodvar_bjarki",
+   "god": "norse/urd_verdandi_skuld",
+   "kind": "fought",
+   "myth": "Skuld’s rebellion",
+   "note": "Bödvar fights the supernatural army raised by Skuld against Hrólfr.",
+   "source": "Hrólfs saga kraka",
+   "date": "late 14th–early 15th century",
+   "tier": "canonical"
+  },
+  {
+   "a": "bodvar_bjarki",
+   "god": "norse/urd_verdandi_skuld",
+   "kind": "killed_by",
+   "myth": "Skuld’s rebellion",
+   "note": "Bödvar dies during the night attack organized by Skuld.",
+   "source": "Hrólfs saga kraka",
+   "date": "late 14th–early 15th century",
+   "tier": "canonical"
+  },
+  {
+   "a": "dietrich_von_bern",
+   "god": "norse/alberich",
+   "kind": "allied",
+   "myth": "Combat against Grim",
+   "note": "The dwarf Alfrikr assists Dietrich against Grim and supplies heroic equipment.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "dietrich_von_bern",
+   "god": "norse/alberich",
+   "kind": "gift",
+   "myth": "Dietrich’s youthful giant combat",
+   "note": "Alfrikr provides equipment associated with Dietrich’s victory and heroic career.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "egil",
+   "god": "norse/ran_and_daughters",
+   "kind": "shared_myth",
+   "myth": "Böðvarr's drowning",
+   "note": "Egil reproaches the sea powers associated with Rán for taking his son.",
+   "source": "Sonatorrek",
+   "date": "c. 930s–970s",
+   "tier": "attested"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/alberich",
+   "kind": "other",
+   "myth": "Wagnerian Gibichung household",
+   "note": "Alberich fathers Gunther's maternal half-brother Hagen, who manipulates and kills Gunther.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "allied",
+   "myth": "Oath-brotherhood at Gjúki's court",
+   "note": "Sigurd swears brotherhood with Gunnar and Högni after joining their household.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "deceived",
+   "myth": "Grímhild's potion and dynastic marriage",
+   "note": "Gunnar's household benefits when a potion makes Sigurd forget Brynhild and marry Guðrún.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "served_by",
+   "myth": "Wooing Brynhild through the flames",
+   "note": "Shape-changed Sigurd crosses Brynhild's fire in Gunnar's form and wins her.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "killed",
+   "myth": "Murder of Sigurd",
+   "note": "Unable to break his oath personally, Gunnar plans and authorizes Sigurd's killing.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "allied",
+   "myth": "Courtship bargain for Brunhild",
+   "note": "Gunther promises Kriemhild to Siegfried in exchange for help winning Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "served_by",
+   "myth": "Brunhild's athletic contest",
+   "note": "Invisible Siegfried supplies the strength while Gunther appears to defeat Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "killed",
+   "myth": "Murder at the spring",
+   "note": "Gunther assents to Siegfried's murder, joins the false hunt, and conceals responsibility.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "deceived",
+   "myth": "Hagen's potion and Brünnhilde's wooing",
+   "note": "Gunther participates after Hagen's potion makes Siegfried forget Brünnhilde and woo her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/sigurd",
+   "kind": "killed",
+   "myth": "Wagnerian murder plot",
+   "note": "Gunther participates in Hagen's plot to murder Siegfried.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Brynhild becomes Gunnar's wife through Sigurd's deceptive surrogate wooing.",
+   "source": "Eddic cycle; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "deceived",
+   "myth": "Wooing through the encircling fire",
+   "note": "Gunnar marries Brynhild after Sigurd crosses the fire disguised as him.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "punished_by",
+   "myth": "Demand for Sigurd's death",
+   "note": "Brynhild pressures Gunnar to arrange Sigurd's death after discovering the marriage fraud.",
+   "source": "Sigurðarkviða in skamma; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Brunhild becomes Gunther's wife in the German tradition.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "contest",
+   "myth": "Spear, stone, and leaping trials",
+   "note": "Gunther appears to defeat Brunhild's deadly athletic trials using invisible Siegfried's strength.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "deceived",
+   "myth": "Athletic courtship and wedding-night coercion",
+   "note": "Gunther obtains marriage and consummation through Siegfried's concealed assistance and force.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "fought",
+   "myth": "First wedding night",
+   "note": "Brunhild overpowers Gunther, binds him, and hangs him from a wall peg.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "gunnar",
+   "god": "norse/brynhild",
+   "kind": "deceived",
+   "myth": "Wagnerian surrogate wooing",
+   "note": "Gunther seeks Brünnhilde while Siegfried, disguised as Gunther, subdues and abducts her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "hagen",
+   "god": "norse/alberich",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Hagen Alberich’s son, unlike every medieval tradition.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "hagen",
+   "god": "norse/alberich",
+   "kind": "served",
+   "myth": "Winning the Ring",
+   "note": "Alberich commands Hagen to obtain the Ring for him.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "hagen",
+   "god": "norse/rhinemaidens",
+   "kind": "contest",
+   "myth": "Hagen’s final Rhine-lunge",
+   "note": "Hagen lunges after the Ring; the Rhinemaidens reclaim it as he dies.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "a": "helgi_hundingsbane",
+   "god": "norse/valkyries",
+   "kind": "allied",
+   "myth": "Storm voyage and Frekasteinn battle",
+   "note": "The valkyries accompany Sigrún and protect Helgi’s fleet and army.",
+   "source": "HH I",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested"
+  },
+  {
+   "a": "hervor",
+   "god": "norse/vidar",
+   "kind": "killed",
+   "myth": "Tirfing",
+   "note": "In the opera, Hervör kills the invented beloved Vidar.",
+   "source": "Stenhammar and Boberg, Tirfing",
+   "date": "1898",
+   "tier": "modern"
+  },
+  {
+   "a": "hrolf_kraki",
+   "god": "norse/urd_verdandi_skuld",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Skuld is Hrólfr’s half-sister, born to Helgi and an elfin woman.",
+   "source": "Hrólfs saga kraka",
+   "date": "fourteenth or fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "hrolf_kraki",
+   "god": "norse/urd_verdandi_skuld",
+   "kind": "fought",
+   "myth": "Skuld’s surprise attack at Lejre",
+   "note": "Skuld attacks Hrólfr with human and supernatural forces, using sorcery to cause his defeat.",
+   "source": "Hrólfs saga kraka",
+   "date": "fourteenth or fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/odin",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sigmund descends from Odin through Sigi, Rerir, and Völsung.",
+   "source": "Völsunga saga 1–2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/odin",
+   "kind": "gift",
+   "myth": "Sword placed in Barnstokkr",
+   "note": "Odin, disguised as a one-eyed stranger, plants the sword that Sigmund alone draws.",
+   "source": "Völsunga saga 2–3",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/odin",
+   "kind": "fought",
+   "myth": "Sigmund's final battle",
+   "note": "Odin confronts Sigmund with his spear and shatters Sigmund's sword.",
+   "source": "Völsunga saga 11–12",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/odin",
+   "kind": "shared_myth",
+   "myth": "The ferryman takes Sinfjötli",
+   "note": "An unnamed ferryman, probably Odin, takes Sinfjötli's corpse from Sigmund and vanishes.",
+   "source": "Frá dauða Sinfjötla; Völsunga saga",
+   "date": "manuscript c. 1270",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/frigg",
+   "kind": "other",
+   "myth": "Fertility apple sent to Rerir",
+   "note": "Frigg joins Odin in enabling the birth of Sigmund's father Völsung.",
+   "source": "Völsunga saga 2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/wagner_gods",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Siegmund a direct son of Wotan.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/wagner_gods",
+   "kind": "gift",
+   "myth": "Nothung planted in the ash tree",
+   "note": "Wotan plants Nothung for Siegmund to draw from the tree.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/wagner_gods",
+   "kind": "punished_by",
+   "myth": "Wotan withdraws protection from Siegmund",
+   "note": "Wotan withdraws his protection, shatters Nothung, and enables Siegmund's death.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "a": "sigmund",
+   "god": "norse/wagner_gods",
+   "kind": "judged_by",
+   "myth": "Fricka condemns the twins' union",
+   "note": "Fricka condemns Siegmund's incest and compels Wotan to withdraw his protection.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "a": "starkad",
+   "god": "norse/odin",
+   "kind": "gift",
+   "myth": "Divine assembly",
+   "note": "Disguised as Starkad’s foster-father, Odin grants lifetimes, victory, wealth, poetry, weapons and noble esteem.",
+   "source": "Gautreks saga; Gesta Danorum VI",
+   "date": "late 13th c.; c.1208–18",
+   "tier": "canonical"
+  },
+  {
+   "a": "starkad",
+   "god": "norse/odin",
+   "kind": "served",
+   "myth": "Víkar’s sacrifice",
+   "note": "Starkad dedicates Víkar to Odin by hanging and stabbing him.",
+   "source": "Gautreks saga; Gesta Danorum VI",
+   "date": "late 13th c.; c.1208–18",
+   "tier": "canonical"
+  },
+  {
+   "a": "starkad",
+   "god": "norse/thor",
+   "kind": "fought",
+   "myth": "Thor’s giant combats",
+   "note": "A praise-stanza lists Starkad among giants whom Thor struck or overcame.",
+   "source": "Vetrliði stanza in Skáldskaparmál",
+   "date": "late 10th c.?",
+   "tier": "attested"
+  },
+  {
+   "a": "starkad",
+   "god": "norse/thor",
+   "kind": "transformed_by",
+   "myth": "Removal of the extra arms",
+   "note": "Thor tears four arms from Saxo’s six-armed Starkad, leaving him human-shaped.",
+   "source": "Gesta Danorum VI",
+   "date": "c.1208–1218",
+   "tier": "canonical"
+  },
+  {
+   "a": "starkad",
+   "god": "norse/thor",
+   "kind": "punished_by",
+   "myth": "Divine assembly",
+   "note": "Thor curses Starkad with crimes, wounds, poverty, dissatisfaction, lost poetry, popular hatred and childlessness.",
+   "source": "Gautreks saga",
+   "date": "late 13th c.",
+   "tier": "canonical"
+  }
+ ],
+ "unresolved": {
+  "Agnarr": [
+   {
+    "stated_by": "aslaug",
+    "kind": "other",
+    "myth": "Deaths of Eirekr and Agnarr",
+    "note": "Áslaug treats her stepson’s death as requiring vengeance like her own child’s.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "killed",
+    "myth": "Agnarr’s challenge",
+    "note": "Bjarki kills Agnarr after the challenger’s sword breaks.",
+    "source": "Gesta Danorum II",
+    "date": "c. 1200–1216",
+    "tier": "attested"
+   }
+  ],
+  "Alphart": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "served_by",
+    "myth": "Alphart’s final battle",
+    "note": "Alphart is Dietrich’s young retainer, treacherously killed by Witege and Heime.",
+    "source": "Alpharts Tod",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Angantýr": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed",
+    "myth": "Helgo’s marriage contest",
+    "note": "Starkad kills Angantýr while supporting Helgo against nine brothers.",
+    "source": "Gesta Danorum VII",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Angantýr Arngrímsson": [
+   {
+    "stated_by": "hervor",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Hervör I is the posthumously born daughter of Angantýr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "gift",
+    "myth": "The waking of Angantýr",
+    "note": "Hervör summons Angantýr from his barrow and compels him to surrender Tyrfingr.",
+    "source": "Hervararkviða",
+    "date": "early fourteenth-century witness",
+    "tier": "attested"
+   }
+  ],
+  "Angantýr Heiðreksson": [
+   {
+    "stated_by": "hervor",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Hervör II is the sister of the Gothic king Angantýr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "shared_myth",
+    "myth": "The Gothic-Hunnish war",
+    "note": "Angantýr receives news of Hervör II’s death and laments his sister.",
+    "source": "Hlǫðskviða and prose",
+    "date": "thirteenth-century compilation",
+    "tier": "attested"
+   }
+  ],
+  "Angantýr Hǫfundarson": [
+   {
+    "stated_by": "hervor",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Hervör I is the mother of Angantýr Hǫfundarson.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Angantýr’s eight brothers": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed",
+    "myth": "Helgo’s marriage contest",
+    "note": "Starkad kills Angantýr’s eight brothers while aiding Helgo.",
+    "source": "Gesta Danorum VII",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Angantýr’s eleven brothers": [
+   {
+    "stated_by": "hervor",
+    "kind": "other",
+    "myth": "The waking of Angantýr",
+    "note": "Hervör summons the dead berserkers and threatens them if Tyrfingr is withheld.",
+    "source": "Hervararkviða",
+    "date": "early fourteenth-century witness",
+    "tier": "attested"
+   }
+  ],
+  "Arngrímr": [
+   {
+    "stated_by": "hervor",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Hervör I is Arngrímr’s granddaughter through Angantýr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Atli's mother": [
+   {
+    "stated_by": "gunnar",
+    "kind": "killed_by",
+    "myth": "Mother-serpent in Gunnar's snake-pit",
+    "note": "Transformed into a serpent, Atli's mother bites Gunnar through the heart.",
+    "source": "Oddrúnargrátr",
+    "date": "probably eleventh century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Aðils": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "fought",
+    "myth": "Scylding–Swedish dynastic conflict",
+    "note": "Bjarki joins Hrólfr’s conflict and expedition against the Swedish king.",
+    "source": "Gesta Danorum II",
+    "date": "c. 1200–1216",
+    "tier": "attested"
+   }
+  ],
+  "Beigaðr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Beigaðr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Bemon": [
+   {
+    "stated_by": "starkad",
+    "kind": "allied",
+    "myth": "Viking expeditions",
+    "note": "Bemon becomes Starkad’s Viking companion after Víkar’s death.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Bera": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Bera is Bödvar’s mother and directs him toward his inheritance.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Biterolf": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Dietrich’s heroic fellowship",
+    "note": "Biterolf is a heroic associate within Dietrich’s connected tradition.",
+    "source": "Biterolf und Dietleib",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Bjarmarr": [
+   {
+    "stated_by": "hervor",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Hervör I is Bjarmarr’s maternal granddaughter and grows up at his court.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "other",
+    "myth": "Hervör’s upbringing and return",
+    "note": "Bjarmarr fosters Hervör, who later returns to his court after raiding.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Bjǫrn": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The bear-cursed prince Bjǫrn is Bödvar’s father.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bjǫrn járnsíða": [
+   {
+    "stated_by": "aslaug",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Bjǫrn is named among Áslaug’s sons.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aslaug",
+    "kind": "allied",
+    "myth": "Swedish revenge expedition",
+    "note": "Bjǫrn participates in the revenge campaign initiated by Áslaug.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Blindr inn bǫlvísi": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "deceived",
+    "myth": "Helgi’s bondwoman disguise",
+    "note": "Blindr detects Helgi’s unusual strength but accepts Hagall’s misleading explanation.",
+    "source": "HH II prose, stanzas 2–4",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Borghildr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Borghildr is Helgi’s mother in the Eddic and saga genealogy.",
+    "source": "HH I; HH II prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Brynhildr Buðladóttir": [
+   {
+    "stated_by": "aslaug",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Áslaug identifies Brynhildr as her mother.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Brünhild": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "shared_myth",
+    "myth": "Synthetic life of Þiðrekr",
+    "note": "Brünhild belongs to the heroic complex incorporated into Dietrich’s saga.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Brünnhilde": [
+   {
+    "stated_by": "sigmund",
+    "kind": "allied",
+    "myth": "Brünnhilde attempts to protect Siegmund",
+    "note": "Brünnhilde defies Wotan and tries unsuccessfully to save Siegmund in battle.",
+    "source": "Wagner, Die Walküre",
+    "date": "completed 1856",
+    "tier": "modern"
+   }
+  ],
+  "Dagr Hǫgnason": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "other",
+    "myth": "Aftermath of Frekasteinn",
+    "note": "Helgi spares Dagr and accepts his oath after killing Dagr’s kin.",
+    "source": "HH II prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed_by",
+    "myth": "Vengeance at Fjǫturlundr",
+    "note": "Dagr breaks his oath and kills Helgi with a spear lent by Óðinn.",
+    "source": "HH II prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Dancrat": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "German tradition makes Dancrat Gunther's father.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Dankwart": [
+   {
+    "stated_by": "gunnar",
+    "kind": "served_by",
+    "myth": "Battle at Etzel's court",
+    "note": "Dankwart fights under Gunther as a Burgundian companion and relative.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Diether": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Diether is Dietrich’s younger brother.",
+    "source": "Dietrichs Flucht; Rabenschlacht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Dietleib": [
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Attack on Dietleib",
+    "note": "Gunther, Gernot, and Hagen attack Dietleib before a later reconciliation.",
+    "source": "Biterolf und Dietleib",
+    "date": "late thirteenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "allied",
+    "myth": "Reconciliation after the Worms campaign",
+    "note": "Gunther's conflict with Dietleib's company ends in reconciliation.",
+    "source": "Biterolf und Dietleib",
+    "date": "late thirteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dietmar": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Dietmar or Þetmarr is Dietrich’s father in German and Norse traditions.",
+    "source": "Dietrichs Flucht; Þiðreks saga",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Dietrich": [
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Final battle at Etzel's court",
+    "note": "Dietrich defeats and captures Gunther and Hagen after the hall battle.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Defense of Kriemhild's rose garden",
+    "note": "Gunther joins the Worms champions opposing Dietrich's company.",
+    "source": "Rosengarten zu Worms",
+    "date": "thirteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ecke": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "killed",
+    "myth": "Dietrich’s duel with Ecke",
+    "note": "Dietrich reluctantly kills the giant Ecke after a brutal prolonged duel.",
+    "source": "Eckenlied",
+    "date": "early thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Eggerich": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "shared_myth",
+    "myth": "Sigenot’s giant-captivity story",
+    "note": "Eggerich is a dwarf associated with Dietrich’s Sigenot adventure.",
+    "source": "Sigenot",
+    "date": "thirteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Eirekr": [
+   {
+    "stated_by": "aslaug",
+    "kind": "other",
+    "myth": "Deaths of Eirekr and Agnarr",
+    "note": "Áslaug treats her stepson’s death as requiring vengeance like her own child’s.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Elg-Fróði": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Elg-Fróði is Bödvar’s elder, animal-marked brother.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "contest",
+    "myth": "Bödvar visits Elg-Fróði",
+    "note": "The brothers test their strength before exchanging counsel and a death-token.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ermanaric": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Exile and attempted return",
+    "note": "Dietrich’s usurping uncle or kinsman dispossesses him and provokes repeated wars.",
+    "source": "Dietrichs Flucht; Rabenschlacht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Eyjólfr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle against Hundingr’s sons",
+    "note": "Helgi kills Eyjólfr, a son of Hundingr, in battle.",
+    "source": "HH I; Völsunga saga ch. 9",
+    "date": "11th–13th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Fasolt": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "After Ecke’s death",
+    "note": "Ecke’s brother or companion confronts Dietrich.",
+    "source": "Eckenlied",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Reconciliation after their confrontation",
+    "note": "Some versions make Fasolt accommodate himself to or join Dietrich.",
+    "source": "Eckenlied; Þiðreks saga",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Frakki": [
+   {
+    "stated_by": "starkad",
+    "kind": "shared_myth",
+    "myth": "Viking expeditions",
+    "note": "The pirate’s departure is contrasted with the continuing companionship of Starkad and Bemon.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Friðþjófr": [
+   {
+    "stated_by": "starkad",
+    "kind": "fought",
+    "myth": "Víkar’s campaign",
+    "note": "Starkad and Víkar defeat Friðþjófr during their military campaigns.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Fróðmarr": [
+   {
+    "stated_by": "hervor",
+    "kind": "other",
+    "myth": "Hervör II’s fostering",
+    "note": "Fróðmarr fosters Hervör II in England in the R recension.",
+    "source": "R recension",
+    "date": "c. 1440–60",
+    "tier": "regional_variant"
+   }
+  ],
+  "Geirþjófr": [
+   {
+    "stated_by": "starkad",
+    "kind": "fought",
+    "myth": "Víkar’s wars",
+    "note": "Starkad fights Geirþjófr as an enemy during Víkar’s campaigns.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Gernot": [
+   {
+    "stated_by": "gunnar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Gernot is Gunther's brother and co-king in German tradition.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "allied",
+    "myth": "Battle at Etzel's court",
+    "note": "Gernot fights beside Gunther and dies in the Hunnish catastrophe.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gibeche": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Rosengarten A makes Gunther a son of Gibeche.",
+    "source": "Rosengarten A",
+    "date": "thirteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gibich": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Wagner makes Gunther the son of Gibich.",
+    "source": "Götterdämmerung",
+    "date": "completed 1874",
+    "tier": "modern"
+   }
+  ],
+  "Giselher": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Burgundian hall battle",
+    "note": "Giselher fights Dietrich’s retainers and is killed by Wolfhart.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Giselher is Gunther's brother and co-king in German tradition.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "allied",
+    "myth": "Battle at Etzel's court",
+    "note": "Giselher fights beside Gunther and dies in the Hunnish catastrophe.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gjúki": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Norse tradition makes Gunnar the son and dynastic heir of Gjúki.",
+    "source": "Eddic prose; Völsunga saga",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Glaumvör": [
+   {
+    "stated_by": "gunnar",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Glaumvör is Gunnar's wife in later Norse versions.",
+    "source": "Atlamál; Völsunga saga",
+    "date": "medieval",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "rescued_by",
+    "myth": "Dream warnings before Atli's expedition",
+    "note": "Glaumvör recounts ominous dreams and warns Gunnar against the fatal journey.",
+    "source": "Atlamál; Völsunga saga",
+    "date": "medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Glámr": [
+   {
+    "stated_by": "grettir",
+    "kind": "fought",
+    "myth": "Grettir’s night battle with Glámr",
+    "note": "Grettir wrestles the monstrous revenant through the hall and roof.",
+    "source": "Grettis saga chs. 32–35",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "grettir",
+    "kind": "killed",
+    "myth": "Destruction of Glámr",
+    "note": "Grettir decapitates Glámr and burns his corpse.",
+    "source": "Grettis saga chs. 32–35",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "grettir",
+    "kind": "punished_by",
+    "myth": "Glámr’s curse",
+    "note": "Glámr curses Grettir with arrested strength, misfortune, outlawry, isolation, and fear of darkness.",
+    "source": "Grettis saga chs. 32–35",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "beowulf",
+    "kind": "gift",
+    "myth": "Divine granting of victory",
+    "note": "Beowulf credits God with victories and the opportunity to win treasure.",
+    "source": "Beowulf",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   }
+  ],
+  "Gothorm": [
+   {
+    "stated_by": "gunnar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Gothorm is Gunnar's younger brother or half-brother in prose systematizations.",
+    "source": "Völsunga saga",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "deceived",
+    "myth": "Inducement to murder Sigurd",
+    "note": "Gunnar induces and drugs the non-oath-bound Gothorm to kill Sigurd.",
+    "source": "Völsunga saga",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Granmarr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle at Frekasteinn",
+    "note": "Helgi kills Höðbroddr’s father in HH II’s battle summary.",
+    "source": "HH II prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Grendel’s mother": [
+   {
+    "stated_by": "beowulf",
+    "kind": "fought",
+    "myth": "Fight in the mere-hall",
+    "note": "Beowulf fights the avenging monster after pursuing her beneath the mere.",
+    "source": "Beowulf, lines 1251–1784",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "killed",
+    "myth": "Fight in the mere-hall",
+    "note": "Beowulf beheads her with a gigantic sword found in her hall.",
+    "source": "Beowulf, lines 1251–1784",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "seduced_by",
+    "myth": "Grendel’s mother seduces Beowulf",
+    "note": "The film reinvents her as a seductive shape-shifter who takes Beowulf as lover.",
+    "source": "Beowulf film",
+    "date": "2007",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "consort_of",
+    "myth": "Beowulf becomes her lover",
+    "note": "The film creates a sexual relationship absent from the medieval poem.",
+    "source": "Beowulf film",
+    "date": "2007",
+    "tier": "modern"
+   }
+  ],
+  "Grim": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "killed",
+    "myth": "Dietrich’s youthful giant combat",
+    "note": "Dietrich kills the giant Grim with Alfrikr’s assistance.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Grimhilde": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Wagner makes Grimhilde Gunther's mother.",
+    "source": "Götterdämmerung",
+    "date": "completed 1874",
+    "tier": "modern"
+   }
+  ],
+  "Gríma": [
+   {
+    "stated_by": "aslaug",
+    "kind": "punished",
+    "myth": "Áslaug leaves her foster home",
+    "note": "Áslaug curses Gríma after years of concealment, degradation, and abuse.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Grímhild": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Norse prose makes Grímhild Gunnar's mother.",
+    "source": "Völsunga saga",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Grímr": [
+   {
+    "stated_by": "starkad",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The later Starkad descends from Grímr, son of Álfhildr and the giant Starkad.",
+    "source": "Hervarar saga prologue",
+    "date": "medieval recensions",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gullrönd": [
+   {
+    "stated_by": "gunnar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Some Norse prose systematizations include Gullrönd among Gunnar's siblings.",
+    "source": "Norse prose systematizations",
+    "date": "medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gullväg": [
+   {
+    "stated_by": "hervor",
+    "kind": "other",
+    "myth": "Tirfing",
+    "note": "Gullväg desires Hervör while believing her masculine identity Hervardur.",
+    "source": "Stenhammar and Boberg, Tirfing",
+    "date": "1898",
+    "tier": "modern"
+   }
+  ],
+  "Gutrune": [
+   {
+    "stated_by": "gunnar",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Wagner makes Gutrune Gunther's sister.",
+    "source": "Götterdämmerung",
+    "date": "completed 1874",
+    "tier": "modern"
+   }
+  ],
+  "Guðmundr Granmarsson": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "fought",
+    "myth": "Höðbroddr campaign",
+    "note": "Guðmundr belongs to the enemy host and reports Helgi’s invasion.",
+    "source": "HH I; HH II",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Guðmundr of Glæsisvellir": [
+   {
+    "stated_by": "hervor",
+    "kind": "other",
+    "myth": "Hervör’s marriage",
+    "note": "Guðmundr receives Hervör and arranges or approves her marriage to Hǫfundr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Hadburg": [
+   {
+    "stated_by": "hagen",
+    "kind": "theft",
+    "myth": "Danube prophecy",
+    "note": "Hagen steals Hadburg’s clothes and forces her to prophesy.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hagen",
+    "kind": "deceived_by",
+    "myth": "Danube prophecy",
+    "note": "Hadburg falsely predicts success so Hagen will return her garments.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   }
+  ],
+  "Hadubrand": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Hildebrand’s exile",
+    "note": "Hadubrand knows Dietrich as the lord for whom his father fled.",
+    "source": "Hildebrandslied",
+    "date": "c. 830–840",
+    "tier": "attested"
+   }
+  ],
+  "Hagall": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "rescued_by",
+    "myth": "Escape from Hundingr’s search party",
+    "note": "Helgi’s foster-father shelters him and explains away his strength while disguised.",
+    "source": "HH II prose, stanzas 2–4",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Haki": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Haki and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Haklangr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Haklangr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Halfdan": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Saxo makes the fused Danish Helgo a son of Halfdan.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "regional_variant"
+   }
+  ],
+  "Halga": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship proposes identifying the Beowulf Scylding Halga with Helgi.",
+    "source": "Comparative Helgi scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Hallmundr": [
+   {
+    "stated_by": "grettir",
+    "kind": "allied",
+    "myth": "Grettir’s wilderness exile",
+    "note": "The supernatural wilderness being shelters and assists Grettir.",
+    "source": "Grettis saga chs. 54–62",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   }
+  ],
+  "Hama": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed",
+    "myth": "Fight with Hama",
+    "note": "Starkad kills the Saxon champion Hama after a difficult fight.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Hamall": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Hamall is Helgi’s foster-brother by implication through Hagall’s fosterage.",
+    "source": "HH II prose and stanza 1",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "other",
+    "myth": "Helgi spies in Hundingr’s hall",
+    "note": "Helgi uses Hamall’s identity while secretly spying in Hundingr’s hall.",
+    "source": "HH II prose and stanza 1",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Harðrefill": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Harðrefill and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Hatherus": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed_by",
+    "myth": "Starkad’s death",
+    "note": "Hather avenges his father by decapitating Starkad in exchange for Starkad’s gold.",
+    "source": "Gesta Danorum VIII",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Heime": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Heime’s challenge",
+    "note": "Heime challenges Dietrich and is defeated before joining him.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "served_by",
+    "myth": "Dietrich’s champion-band",
+    "note": "Dietrich recruits Heime, who also provides him the horse Falke.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Alphart’s death",
+    "note": "Heime later opposes Dietrich’s party and helps Witege kill Alphart.",
+    "source": "Alpharts Tod",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Heimir of Hlymdalir": [
+   {
+    "stated_by": "aslaug",
+    "kind": "rescued_by",
+    "myth": "The harp-child",
+    "note": "Heimir conceals Áslaug in a harp and transports and sustains her.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Heiðrekr": [
+   {
+    "stated_by": "hervor",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Hervör I is the mother of Heiðrekr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "gift",
+    "myth": "Transmission of Tyrfingr",
+    "note": "Hervör gives or transmits the inherited sword Tyrfingr to Heiðrekr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "rescued",
+    "myth": "Heiðrekr’s threatened dispossession",
+    "note": "Hervör protects Heiðrekr’s patrimony after he kills his brother.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Hervör II is a daughter of Heiðrekr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Helche": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Dietrich’s campaigns from exile",
+    "note": "Etzel’s queen protects Dietrich and supplies treasure for his warriors.",
+    "source": "Dietrichs Flucht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Helgi Haddingjaskati": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "identified_with",
+    "myth": "Compiler’s reincarnation sequence",
+    "note": "HH II declares Helgi Haddingjaskati to be Hundingsbani reborn.",
+    "source": "HH II concluding prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "late_accretion"
+   }
+  ],
+  "Helgi Hjǫrvarðsson": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "identified_with",
+    "myth": "Compiler’s reincarnation sequence",
+    "note": "The prose framework implies Hundingsbani is the rebirth of Helgi Hjǫrvarðsson.",
+    "source": "Eddic Helgi prose framework",
+    "date": "Codex Regius c. 1270",
+    "tier": "late_accretion"
+   }
+  ],
+  "Helgo": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "identified_with",
+    "myth": "Saxo’s Scylding fusion",
+    "note": "Saxo’s Danish Helgo combines Scylding genealogy with Hunding and Hothbrodd victories.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "syncretism"
+   }
+  ],
+  "Herkja": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Guðrún’s adultery ordeal",
+    "note": "Herkja falsely accuses Guðrún of sexual relations with Þjóðrekr.",
+    "source": "Guðrúnarkviða III",
+    "date": "twelfth century or earlier",
+    "tier": "regional_variant"
+   }
+  ],
+  "Herrad": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "consort_of",
+    "myth": "Dietrich’s marriage and eventual return",
+    "note": "Dietrich marries Herrad, who is also associated with his final return.",
+    "source": "Þiðreks saga; German heroic texts",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Hervör II": [
+   {
+    "stated_by": "hervor",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Hervör I is Hervör II’s paternal grandmother.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Herþjófr": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed",
+    "myth": "Vengeance for Haraldr",
+    "note": "Starkad and Víkar avenge Haraldr by killing his slayer Herþjófr.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Hild": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "killed",
+    "myth": "Dietrich’s youthful giant combat",
+    "note": "Young Dietrich kills the giantess Hild.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hildebrand": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "taught_by",
+    "myth": "Dietrich’s youth",
+    "note": "Hildebrand serves as Dietrich’s tutor and weapons-master.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Exile from Dietrich’s realm",
+    "note": "Hildebrand is Dietrich’s chief counselor, retainer, and exile companion.",
+    "source": "Hildebrandslied",
+    "date": "c. 830–840",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "rescued_by",
+    "myth": "Captivity beneath Sigenot’s mountain",
+    "note": "Hildebrand kills Sigenot and frees the imprisoned Dietrich.",
+    "source": "Sigenot",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Defense of Kriemhild's rose garden",
+    "note": "Hildebrand belongs to Dietrich's company opposing Gunther's Worms champions.",
+    "source": "Rosengarten zu Worms",
+    "date": "thirteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Hildegund": [
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Pursuit of Walter and Hildegund",
+    "note": "Gunnar pursues the escaping Hildegund and Walter for their treasure.",
+    "source": "Waltharius; Waldere",
+    "date": "ninth/tenth century; c. 1000",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hjalli": [
+   {
+    "stated_by": "gunnar",
+    "kind": "judged",
+    "myth": "False heart test",
+    "note": "Gunnar identifies Hjalli's trembling heart and knows it is not Högni's.",
+    "source": "Atlamál; Völsunga saga",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Hjalti": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "rescued",
+    "myth": "Hǫttr’s adoption",
+    "note": "Bödvar rescues Hǫttr from abusive retainers and protects him at court.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "taught",
+    "myth": "Monster-blood initiation",
+    "note": "Bödvar gives Hǫttr courage, stages his victory, and makes him Hjalti.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "allied",
+    "myth": "Last stand at Lejre",
+    "note": "Bödvar and Hjalti fight together and knowingly die beside Hrólfr.",
+    "source": "Gesta Danorum II",
+    "date": "c. 1200–1216",
+    "tier": "attested"
+   }
+  ],
+  "Hjörvarðr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "fought",
+    "myth": "Night attack on Hleiðargarðr",
+    "note": "Bödvar fights the rebel forces commanded by Hjörvarðr.",
+    "source": "Gesta Danorum II and Hrólfs saga",
+    "date": "c. 1200–15th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hjǫrvarðr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle against Hundingr’s sons",
+    "note": "Helgi kills Hundingr’s son, whose name varies between poem and saga.",
+    "source": "HH I; Völsunga saga ch. 9",
+    "date": "11th–13th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Hljóð": [
+   {
+    "stated_by": "sigmund",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The wish-maiden Hljóð is Sigmund's mother.",
+    "source": "Völsunga saga 2",
+    "date": "c. 1250–70",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Signý is the daughter of Vǫlsungr and Hljóð.",
+    "source": "Vǫlsunga saga, chapter 2",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Hlöðr": [
+   {
+    "stated_by": "hervor",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Hervör II and Hlöðr are paternal half-siblings.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "killed_by",
+    "myth": "The assault on Myrkviðr",
+    "note": "Hlöðr’s Hunnish army overwhelms Hervör II’s fortress and kills her.",
+    "source": "Hlǫðskviða and prose",
+    "date": "thirteenth-century compilation",
+    "tier": "attested"
+   }
+  ],
+  "Hringr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Hringr, king of Upplönd, is Bödvar’s paternal grandfather.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "fought",
+    "myth": "Höðbroddr campaign",
+    "note": "Hringr is summoned with his sons among Helgi’s enemies.",
+    "source": "HH I; Völsunga saga",
+    "date": "13th century",
+    "tier": "attested"
+   }
+  ],
+  "Hringr’s sons": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "fought",
+    "myth": "Höðbroddr campaign",
+    "note": "Hringr’s unnamed sons are summoned among the forces opposing Helgi.",
+    "source": "HH I; Völsunga saga",
+    "date": "13th century",
+    "tier": "attested"
+   }
+  ],
+  "Hrothgar": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Saxo makes Ro the brother of his fused Danish Helgo.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hrímnir": [
+   {
+    "stated_by": "sigmund",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The giant Hrímnir is Sigmund's maternal grandfather through Hljóð.",
+    "source": "Völsunga saga 2",
+    "date": "c. 1250–70",
+    "tier": "canonical"
+   }
+  ],
+  "Hrómundr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Hrómundr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Hundingr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Killing of Hundingr",
+    "note": "Helgi kills the enemy king and thereby earns his Hundingsbani epithet.",
+    "source": "HH I 10; HH II",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "served_by",
+    "myth": "Hundingr’s humiliation in Valhöll",
+    "note": "Helgi orders the dead Hundingr to perform degrading domestic and animal-tending chores.",
+    "source": "HH II 38–39",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Hvít": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "killed",
+    "myth": "Vengeance for Bjǫrn",
+    "note": "Bödvar kills Hvít in vengeance for cursing and destroying his father.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Hvítserkr": [
+   {
+    "stated_by": "aslaug",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Hvítserkr is named among Áslaug’s sons.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aslaug",
+    "kind": "allied",
+    "myth": "Swedish revenge expedition",
+    "note": "Hvítserkr joins the revenge expedition initiated by Áslaug.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Hvítserkr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Hámundr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Hámundr is Helgi’s full brother in the saga’s synthesized genealogy.",
+    "source": "Völsunga saga ch. 8",
+    "date": "late 13th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "other",
+    "myth": "",
+    "note": "Hámundr is Signý’s nephew through Sigmundr; no direct interaction is recorded.",
+    "source": "Vǫlsunga saga genealogy",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Hávarðr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle against Hundingr’s sons",
+    "note": "Helgi kills Hundingr’s son; poem and saga preserve different names.",
+    "source": "HH I; Völsunga saga ch. 9",
+    "date": "11th–13th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Hímnir": [
+   {
+    "stated_by": "signy",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The giant Hímnir is Signý’s maternal grandfather through Hljóð.",
+    "source": "Vǫlsunga saga, chapter 2",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Höðbroddr Granmarsson": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "contest",
+    "myth": "Rivalry for Sigrún",
+    "note": "Helgi opposes Höðbroddr’s unwanted betrothal to Sigrún.",
+    "source": "HH I; HH II",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle at Frekasteinn",
+    "note": "Helgi kills his rival Höðbroddr during the decisive battle.",
+    "source": "HH I; HH II",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Hœmingr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "deceived",
+    "myth": "Helgi spies in Hundingr’s hall",
+    "note": "Helgi impersonates Hamall, then sends Hœmingr a taunting revelation.",
+    "source": "HH II prose and stanza 1",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Hǫfundr": [
+   {
+    "stated_by": "hervor",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Hervör I marries Hǫfundr and bears him two sons.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hervor",
+    "kind": "contest",
+    "myth": "Heiðrekr’s threatened dispossession",
+    "note": "Hervör opposes Hǫfundr’s attempt to dispossess or permanently exile Heiðrekr.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "King Isung": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "contest",
+    "myth": "Tournament against Isung’s champions",
+    "note": "Dietrich’s heroes compete against King Isung’s champion-band.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kárr inn gamli": [
+   {
+    "stated_by": "grettir",
+    "kind": "fought",
+    "myth": "Battle in Kárr’s burial mound",
+    "note": "Grettir enters Kárr’s mound and wrestles the animated corpse.",
+    "source": "Grettis saga ch. 18",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "grettir",
+    "kind": "killed",
+    "myth": "Battle in Kárr’s burial mound",
+    "note": "Grettir defeats and decapitates the revenant Kárr.",
+    "source": "Grettis saga ch. 18",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "grettir",
+    "kind": "theft",
+    "myth": "Robbery of Kárr’s burial mound",
+    "note": "Grettir takes treasure and a sword from Kárr’s mound.",
+    "source": "Grettis saga ch. 18",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   }
+  ],
+  "Künhilt": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "rescued_by",
+    "myth": "Escape from Laurin’s mountain",
+    "note": "Künhilt helps Dietrich and his companions escape Laurin’s captivity.",
+    "source": "Laurin",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Landvættir of Norway": [
+   {
+    "stated_by": "egil",
+    "kind": "other",
+    "myth": "The níðstöng curse",
+    "note": "Egil curses the land-spirits, ordering them to wander until his royal enemies leave Norway.",
+    "source": "Egils saga",
+    "date": "c. 1220–1240",
+    "tier": "canonical"
+   }
+  ],
+  "Laurin": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Violation of Laurin’s rose garden",
+    "note": "Dietrich violates Laurin’s garden, contests its toll, and battles the dwarf king.",
+    "source": "Laurin",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "punished_by",
+    "myth": "Captivity in Laurin’s mountain",
+    "note": "Laurin magically overcomes and imprisons Dietrich and his companions.",
+    "source": "Laurin",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Reconciliation after Laurin’s defeat",
+    "note": "Reconciliatory versions make the defeated Laurin Dietrich’s subordinate or ally.",
+    "source": "Later Laurin versions",
+    "date": "fourteenth–fifteenth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Leifr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "served_by",
+    "myth": "Assembly of Helgi’s fleet",
+    "note": "Helgi’s shipmaster Leifr is ordered to count the assembled fleet.",
+    "source": "Völsunga saga ch. 9",
+    "date": "late 13th century",
+    "tier": "canonical"
+   }
+  ],
+  "Norna-Gestr": [
+   {
+    "stated_by": "starkad",
+    "kind": "shared_myth",
+    "myth": "Starkad meets Sigurðr",
+    "note": "Norna-Gestr witnesses and narrates Starkad’s encounter with Sigurðr.",
+    "source": "Norna-Gests þáttr",
+    "date": "c.1300",
+    "tier": "late_accretion"
+   }
+  ],
+  "Oddrún": [
+   {
+    "stated_by": "gunnar",
+    "kind": "consort_of",
+    "myth": "Forbidden love opposed by Atli",
+    "note": "Oddrún is Gunnar's clandestine lover because Atli refuses their marriage.",
+    "source": "Oddrúnargrátr",
+    "date": "probably eleventh century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "rescued_by",
+    "myth": "Harp summons from the snake-pit",
+    "note": "Gunnar summons Oddrún by harp, but she hears remotely and arrives too late.",
+    "source": "Oddrúnargrátr",
+    "date": "probably eleventh century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Odilia": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Odilia is Þiðrekr’s mother in the saga genealogy.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Odoacer": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Dietrich’s earliest exile",
+    "note": "Otacher’s hostility drives Dietrich and Hildebrand eastward into exile.",
+    "source": "Hildebrandslied",
+    "date": "c. 830–840",
+    "tier": "attested"
+   }
+  ],
+  "Orkise": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Defense of Queen Virginal",
+    "note": "Dietrich’s side overcomes the heathen oppressor Orkise.",
+    "source": "Virginal",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ormarr": [
+   {
+    "stated_by": "hervor",
+    "kind": "allied",
+    "myth": "The assault on Myrkviðr",
+    "note": "Ormarr serves beside Hervör II at the Gothic frontier fortress.",
+    "source": "Hlǫðskviða and prose",
+    "date": "thirteenth-century compilation",
+    "tier": "attested"
+   }
+  ],
+  "Ort": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Battle of Ravenna",
+    "note": "Etzel entrusts Ort to Dietrich, but Witege kills the young prince.",
+    "source": "Rabenschlacht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Osid": [
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Niflung battle",
+    "note": "Gunnar fights Atli's nephew Osid and is captured by him.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "punished_by",
+    "myth": "Imprisonment in the snake-tower",
+    "note": "Osid captures Gunnar and places him in a fatal tower or snake-tower.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Rerir": [
+   {
+    "stated_by": "signy",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Rerir is Signý’s paternal grandfather.",
+    "source": "Vǫlsunga saga, chapter 2",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Rutha": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Biarco marries Rutha, Rolvo’s sister, after Agnerus’s death.",
+    "source": "Gesta Danorum II",
+    "date": "c. 1200–1216",
+    "tier": "regional_variant"
+   }
+  ],
+  "Rüdiger of Bechelaren": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Etzel’s court and Burgundian catastrophe",
+    "note": "Rüdiger is Dietrich’s fellow leader at Etzel’s court.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Rüdiger’s death",
+    "note": "Dietrich laments Rüdiger after the latter is killed.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "allied",
+    "myth": "Burgundian journey to Etzel",
+    "note": "Rüdiger hosts Gunther and his company and becomes their in-law.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Battle at Etzel's court",
+    "note": "Obliged by Etzel, Rüdiger becomes Gunther's battlefield opponent.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Rǫgnvaldr": [
+   {
+    "stated_by": "aslaug",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Rǫgnvaldr is Áslaug’s son in the saga’s five-son genealogy.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Scharpfe": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Battle of Ravenna",
+    "note": "Etzel entrusts Scharpfe to Dietrich, but Witege kills the young prince.",
+    "source": "Rabenschlacht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Sibich": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "deceived_by",
+    "myth": "Ermanaric’s persecution of Dietrich",
+    "note": "Sibich’s malicious intrigue helps cause Dietrich’s persecution and war.",
+    "source": "German heroic tradition; Þiðreks saga",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Siegfried": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Rose-garden tournament at Worms",
+    "note": "Dietrich’s rage and supernatural heat overcome Siegfried during their duel.",
+    "source": "Rosengarten zu Worms",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gunnar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "German tradition briefly mentions Gunther and Brunhild's son named Siegfried.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sigelind": [
+   {
+    "stated_by": "hagen",
+    "kind": "taught_by",
+    "myth": "Danube prophecy",
+    "note": "Sigelind reveals that all Burgundians except the chaplain will die.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   }
+  ],
+  "Sigenot": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Dietrich’s captivity beneath the mountain",
+    "note": "The giant Sigenot defeats and imprisons Dietrich.",
+    "source": "Sigenot",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Siggeirr": [
+   {
+    "stated_by": "signy",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Signý is unwillingly married to Siggeirr, king of Gautland.",
+    "source": "Vǫlsunga saga, chapter 3",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "deceived",
+    "myth": "Signý exchanges appearances with a sorceress",
+    "note": "Signý substitutes a disguised sorceress in Siggeirr’s bed without his knowledge.",
+    "source": "Vǫlsunga saga, chapter 7",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "fought",
+    "myth": "Vengeance and the burning of Siggeirr’s hall",
+    "note": "Signý engineers the revenge culminating in Siggeirr’s death when his hall is burned.",
+    "source": "Vǫlsunga saga, chapters 5–8",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Sigi": [
+   {
+    "stated_by": "signy",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Sigi is Signý’s great-grandfather in the Völsung genealogy.",
+    "source": "Vǫlsunga saga, chapter 1",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Sigrún Hǫgnadóttir": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Sigrún is Helgi’s valkyrie lover and wife and bears his unnamed sons.",
+    "source": "HH I; HH II prose",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "rescued",
+    "myth": "Prevention of Sigrún’s forced marriage",
+    "note": "Helgi defeats Höðbroddr after Sigrún asks him to prevent her unwanted marriage.",
+    "source": "HH I 15–20",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "rescued_by",
+    "myth": "Storm voyage and Frekasteinn battle",
+    "note": "Sigrún protects Helgi’s fleet and army as a valkyrie.",
+    "source": "HH I",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "shared_myth",
+    "myth": "One-night reunion in Helgi’s mound",
+    "note": "The dead Helgi returns for one night and sleeps in Sigrún’s arms.",
+    "source": "HH II 40–50",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Sigurd Svein": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "contest",
+    "myth": "Tournament against Isung’s champions",
+    "note": "Isung’s champion fights within the tournament cycle opposing Dietrich’s heroes.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sigurðr Fáfnisbani": [
+   {
+    "stated_by": "aslaug",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Áslaug identifies Sigurðr as her father.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Sigurðr is Helgi’s paternal half-brother only through the combined saga genealogy.",
+    "source": "Völsunga saga genealogy",
+    "date": "late 13th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "other",
+    "myth": "",
+    "note": "Sigurðr is Signý’s nephew through Sigmundr and is born after her death.",
+    "source": "Vǫlsunga saga genealogy",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "starkad",
+    "kind": "fought",
+    "myth": "Starkad meets Sigurðr",
+    "note": "Sigurðr strikes the aged Starkad with Gramr and knocks out two teeth.",
+    "source": "Norna-Gests þáttr",
+    "date": "c.1300",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sigurðr ormr í auga": [
+   {
+    "stated_by": "aslaug",
+    "kind": "parent_of",
+    "myth": "The serpent-eyed child",
+    "note": "Áslaug bears Sigurðr, whose serpent-eye validates her claimed ancestry.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aslaug",
+    "kind": "allied",
+    "myth": "Swedish revenge expedition",
+    "note": "Sigurðr first answers Áslaug’s call to avenge his half-brothers.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Sinfjötli": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Sinfjötli is Helgi’s paternal half-brother in the combined Völsung genealogy.",
+    "source": "HH prose; Völsunga saga",
+    "date": "13th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "allied",
+    "myth": "Höðbroddr campaign",
+    "note": "Sinfjötli campaigns with Helgi and conducts the flyting on his behalf.",
+    "source": "HH I; HH II",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Sinfjǫtli": [
+   {
+    "stated_by": "signy",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Signý bears Sinfjǫtli after conceiving him with her twin brother Sigmundr.",
+    "source": "Vǫlsunga saga, chapter 7",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "allied",
+    "myth": "Vengeance against Siggeirr",
+    "note": "Signý tests Sinfjǫtli, sends him to Sigmundr, and employs him as her avenger.",
+    "source": "Vǫlsunga saga, chapters 7–8",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Sons of Swerting": [
+   {
+    "stated_by": "starkad",
+    "kind": "other",
+    "myth": "Ingeld’s vengeance",
+    "note": "Starkad incites Ingeld to kill Swerting’s sons in vengeance for Frotho.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Starkaðr Áludrengr": [
+   {
+    "stated_by": "starkad",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The later Starkad descends from his eight-armed giant namesake through Grímr and Stórvirkr.",
+    "source": "Hervarar saga prologue",
+    "date": "medieval recensions",
+    "tier": "regional_variant"
+   }
+  ],
+  "Starólfr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Starólfr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Stórvirkr": [
+   {
+    "stated_by": "starkad",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Stórvirkr is Starkad’s father in both Icelandic and Saxonian genealogical traditions.",
+    "source": "Gautreks saga; Gesta Danorum",
+    "date": "late 13th c.; c.1208–18",
+    "tier": "canonical"
+   }
+  ],
+  "Svipdagr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Svipdagr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Swerting": [
+   {
+    "stated_by": "starkad",
+    "kind": "other",
+    "myth": "Vengeance for Frotho",
+    "note": "Starkad pursues vengeance against the family of Swerting, Frotho’s killer.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Sísarr of Kiev": [
+   {
+    "stated_by": "starkad",
+    "kind": "fought",
+    "myth": "Duel at Lake Väner",
+    "note": "Sísarr wounds Starkad in single combat, but Starkad ultimately defeats him.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Christian God": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "punished_by",
+    "myth": "Penance until Judgment Day",
+    "note": "Dietrich’s endless dragon combat is interpreted as divinely imposed penance.",
+    "source": "Wunderer",
+    "date": "fifteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Devil": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "punished_by",
+    "myth": "Dietrich’s infernal ride",
+    "note": "A demonic power carries Dietrich away on a black horse toward punishment.",
+    "source": "San Zeno reliefs; later accounts",
+    "date": "c. 1138–1140 onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "The dragon": [
+   {
+    "stated_by": "beowulf",
+    "kind": "fought",
+    "myth": "Battle at the dragon’s barrow",
+    "note": "Beowulf confronts the treasure-guarding dragon with Wiglaf’s assistance.",
+    "source": "Beowulf, lines 2200–2820",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "killed",
+    "myth": "Battle at the dragon’s barrow",
+    "note": "Beowulf cuts the dragon open after Wiglaf strikes its underside.",
+    "source": "Beowulf, lines 2200–2820",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "killed_by",
+    "myth": "Battle at the dragon’s barrow",
+    "note": "The dragon bites Beowulf’s neck, and its venom causes his death.",
+    "source": "Beowulf, lines 2200–2820",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "beowulf",
+    "kind": "parent_of",
+    "myth": "Beowulf fathers the dragon",
+    "note": "The film makes the dragon Beowulf’s son by Grendel’s mother.",
+    "source": "Beowulf film",
+    "date": "2007",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "sigmund",
+    "kind": "killed",
+    "myth": "Dragon-slaying beneath the grey stone",
+    "note": "Sigemund kills the dragon alone with his sword and takes its hoard.",
+    "source": "Beowulf 884–97",
+    "date": "manuscript c. 1000",
+    "tier": "attested"
+   }
+  ],
+  "The nameless maiden in Wunderer": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "rescued",
+    "myth": "Rescue from the Wunderer",
+    "note": "Dietrich saves the maiden from her cannibalistic pursuer.",
+    "source": "Wunderer",
+    "date": "fifteenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "gift",
+    "myth": "Blessing after her rescue",
+    "note": "The rescued maiden gives Dietrich a blessing connected with his final fate.",
+    "source": "Wunderer",
+    "date": "fifteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Æsir": [
+   {
+    "stated_by": "ragnar_lodbrok",
+    "kind": "other",
+    "myth": "Ragnar anticipates drinking with the Æsir",
+    "note": "Ragnar’s dying poetic persona expects to drink ale among the Æsir.",
+    "source": "Krákumál",
+    "date": "late 12th c.",
+    "tier": "regional_variant"
+   }
+  ],
+  "The álfr": [
+   {
+    "stated_by": "hagen",
+    "kind": "child_of",
+    "myth": "",
+    "note": "In Þiðreks saga, an unnamed supernatural álfr is Högni’s biological father.",
+    "source": "Þiðreks saga af Bern",
+    "date": "mid-13th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Thora": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "other",
+    "myth": "Saxo’s Helgo and Thora",
+    "note": "Saxo’s Helgo rapes Thora and fathers Urse upon her.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tófa": [
+   {
+    "stated_by": "hervor",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Tófa gives birth to Hervör I after Angantýr’s death.",
+    "source": "Hervarar saga prose",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ubbi of Friesland": [
+   {
+    "stated_by": "starkad",
+    "kind": "fought",
+    "myth": "Battle of Brávellir",
+    "note": "Ubbi fights Starkad and inflicts severe wounds upon him.",
+    "source": "Gesta Danorum VIII",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Unnr": [
+   {
+    "stated_by": "starkad",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Unnr, daughter of Freki, is Starkad’s mother in the Icelandic Víkar cycle.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Ute": [
+   {
+    "stated_by": "gunnar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "German tradition makes Ute Gunther's mother.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vingi": [
+   {
+    "stated_by": "gunnar",
+    "kind": "deceived_by",
+    "myth": "Atli's treacherous invitation",
+    "note": "Atli's messenger deceives Gunnar and Högni into accepting the fatal invitation.",
+    "source": "Atlakviða; Atlamál; Völsunga saga",
+    "date": "medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Virginal": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Defense of Queen Virginal",
+    "note": "Dietrich assists Virginal against Orkise, giants, and dragons.",
+    "source": "Virginal",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Volker": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Burgundian hall battle",
+    "note": "Volker opposes Dietrich’s retainers during the hall battle.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   }
+  ],
+  "Volker of Alzey": [
+   {
+    "stated_by": "gunnar",
+    "kind": "served_by",
+    "myth": "Battle in the Hunnish hall",
+    "note": "Volker serves as Gunther's minstrel-warrior and fights beside him.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vǫlsungr": [
+   {
+    "stated_by": "signy",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Signý is Vǫlsungr’s daughter and one of his two eldest twins.",
+    "source": "Vǫlsunga saga, chapter 2",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "other",
+    "myth": "Signý’s unwanted marriage to Siggeirr",
+    "note": "Vǫlsungr accepts Siggeirr’s proposal despite Signý’s foreboding and enforces the pledged marriage.",
+    "source": "Vǫlsunga saga, chapter 3",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "other",
+    "myth": "Signý warns the Völsungs of Siggeirr’s ambush",
+    "note": "Vǫlsungr rejects Signý’s warning to retreat and orders her back to her husband.",
+    "source": "Vǫlsunga saga, chapter 5",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Vǫttr": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Hrólfr’s champions fight together",
+    "note": "Vǫttr and Bödvar fight jointly among Hrólfr’s champions.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Walberan": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Walberan’s threat to Dietrich’s party",
+    "note": "Laurin’s powerful kinsman initially threatens Dietrich and his companions.",
+    "source": "Laurin/Walberan continuation",
+    "date": "later medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Settlement with Walberan",
+    "note": "Dietrich’s party and Walberan eventually reach a settlement.",
+    "source": "Laurin/Walberan continuation",
+    "date": "later medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Walter": [
+   {
+    "stated_by": "gunnar",
+    "kind": "fought",
+    "myth": "Pursuit for the Hunnic treasure",
+    "note": "Gunnar pursues Walter for treasure; Walter defeats him and severs his leg.",
+    "source": "Waltharius; Waldere",
+    "date": "ninth/tenth century; c. 1000",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wenezlan": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Dietrich’s duel with Wenezlan",
+    "note": "Dietrich fights the Polish king Wenezlan.",
+    "source": "Dietrich und Wenezlan",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Widia": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "rescued_by",
+    "myth": "Captivity among monsters",
+    "note": "Widia rescues Theodoric from imprisonment among monsters.",
+    "source": "Waldere",
+    "date": "tenth/eleventh century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "allied",
+    "myth": "Dietrich’s champion-band",
+    "note": "Witege becomes Dietrich’s companion after challenging or being tested by him.",
+    "source": "Þiðreks saga; German epics",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "fought",
+    "myth": "Battle of Ravenna",
+    "note": "Dietrich pursues the deserter Witege after he kills Diether and Etzel’s sons.",
+    "source": "Rabenschlacht",
+    "date": "late thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Wieland": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "other",
+    "myth": "Combats involving Viðga and Mimung",
+    "note": "Wieland’s son Viðga and sword Mimung materially affect Dietrich’s combats.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wisinus": [
+   {
+    "stated_by": "starkad",
+    "kind": "killed",
+    "myth": "Russian campaigns",
+    "note": "Starkad kills the rapacious giant or champion Wisinus in Russia.",
+    "source": "Gesta Danorum VI",
+    "date": "c.1208–1218",
+    "tier": "canonical"
+   }
+  ],
+  "Wolfhart": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "served_by",
+    "myth": "Burgundian hall battle",
+    "note": "Wolfhart is Dietrich’s fierce retainer and dies fighting the Burgundians.",
+    "source": "Nibelungenlied",
+    "date": "c. 1200",
+    "tier": "canonical"
+   }
+  ],
+  "Wunderer": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "killed",
+    "myth": "Rescue of Wunderer’s maiden",
+    "note": "Dietrich kills the cannibalistic Wunderer while protecting his intended victim.",
+    "source": "Wunderer",
+    "date": "fifteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yrsa": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Saxo’s Helgo fathers Urse upon Thora.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "consort_of",
+    "myth": "Saxo’s unrecognized incest",
+    "note": "Saxo’s Helgo unknowingly has sex with his daughter Urse.",
+    "source": "Gesta Danorum Book II",
+    "date": "c. 1185–1208",
+    "tier": "regional_variant"
+   }
+  ],
+  "supernatural swallow": [
+   {
+    "stated_by": "egil",
+    "kind": "other",
+    "myth": "Composition of Hǫfuðlausn",
+    "note": "The magically sent bird hinders Egil while he composes his head-ransom poem.",
+    "source": "Egils saga",
+    "date": "c. 1220–1240",
+    "tier": "canonical"
+   }
+  ],
+  "the norns": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "other",
+    "myth": "Helgi’s birth and fate",
+    "note": "Unnamed norns determine Helgi’s royal fame and stretch his golden fate-threads.",
+    "source": "HH I 2–4",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   }
+  ],
+  "Áki": [
+   {
+    "stated_by": "aslaug",
+    "kind": "punished",
+    "myth": "Áslaug leaves her foster home",
+    "note": "Áslaug curses Áki after revealing she knew he murdered Heimir.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Álfhildr": [
+   {
+    "stated_by": "starkad",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "The abducted princess becomes the later Starkad’s paternal ancestress through Grímr and Stórvirkr.",
+    "source": "Hervarar saga prologue",
+    "date": "medieval recensions",
+    "tier": "regional_variant"
+   }
+  ],
+  "Álfr": [
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed",
+    "myth": "Battle against Hundingr’s sons",
+    "note": "Helgi kills Álfr, a son of Hundingr, in battle.",
+    "source": "HH I; Völsunga saga ch. 9",
+    "date": "11th–13th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Áli": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Swedish dynastic war",
+    "note": "Bjarki participates in warfare involving Áli and Aðils; his allegiance varies.",
+    "source": "Skjöldunga saga and Bjarkarímur",
+    "date": "c. 1180–1400",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ívarr inn beinlausi": [
+   {
+    "stated_by": "aslaug",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Áslaug bears Ívarr after her warning about conception is disregarded.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aslaug",
+    "kind": "allied",
+    "myth": "Swedish revenge expedition",
+    "note": "Áslaug campaigns with Ívarr after urging vengeance for his half-brothers.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ótryggr": [
+   {
+    "stated_by": "starkad",
+    "kind": "other",
+    "myth": "Mockery at Uppsala",
+    "note": "The berserk Ótryggr mocks Starkad’s ugliness and giant ancestry.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Óðinn": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "shared_myth",
+    "myth": "Uppsala expedition",
+    "note": "Bödvar accompanies Hrólfr’s party while disguised Óðinn advises them.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "other",
+    "myth": "Last battle of Rolvo",
+    "note": "Biarco suspects Óðinn aids the enemy and threatens to attack him.",
+    "source": "Gesta Danorum II",
+    "date": "c. 1200–1216",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "egil",
+    "kind": "gift",
+    "myth": "Óðinn grants Egil poetic skill",
+    "note": "Egil credits Óðinn with poetic power and the ability to expose deceivers.",
+    "source": "Sonatorrek",
+    "date": "c. 930s–970s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "egil",
+    "kind": "other",
+    "myth": "Óðinn breaks friendship with Egil",
+    "note": "Egil says he trusted Óðinn, but the god broke their friendship.",
+    "source": "Sonatorrek",
+    "date": "c. 930s–970s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "killed_by",
+    "myth": "Vengeance at Fjǫturlundr",
+    "note": "Óðinn enables Helgi’s death by lending Dagr the fatal spear.",
+    "source": "HH II prose and stanza 33",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "helgi_hundingsbane",
+    "kind": "gift",
+    "myth": "Helgi’s reception in Valhöll",
+    "note": "Óðinn receives Helgi in Valhöll and offers him authority beside himself.",
+    "source": "HH II 38",
+    "date": "Codex Regius c. 1270",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "hrolf_kraki",
+    "kind": "gift",
+    "myth": "Hrani offers weapons to Hrólfr",
+    "note": "Óðinn, disguised as Hrani, offers Hrólfr weapons; Hrólfr refuses them and forfeits divine favor.",
+    "source": "Hrólfs saga kraka",
+    "date": "fourteenth or fifteenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "ragnar_lodbrok",
+    "kind": "other",
+    "myth": "Ragnar anticipates reception in Óðinn’s hall",
+    "note": "Ragnar’s dying poetic persona expects Óðinn to prepare the hall for him.",
+    "source": "Krákumál",
+    "date": "late 12th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Signý is Óðinn’s great-great-granddaughter through Sigi, Rerir, and Vǫlsungr.",
+    "source": "Vǫlsunga saga, chapters 1–2",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "signy",
+    "kind": "shared_myth",
+    "myth": "Sword planted in Barnstokkr at Signý’s wedding",
+    "note": "Disguised, Óðinn plants the sword that provokes conflict between Sigmundr and Siggeirr.",
+    "source": "Vǫlsunga saga, chapter 3",
+    "date": "c. 1250–1270",
+    "tier": "canonical"
+   }
+  ],
+  "Úlfr": [
+   {
+    "stated_by": "starkad",
+    "kind": "other",
+    "myth": "Mockery at Uppsala",
+    "note": "The berserk Úlfr mocks Starkad’s ugliness and giant ancestry.",
+    "source": "Gautreks saga",
+    "date": "late 13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Þetleifr": [
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "served_by",
+    "myth": "Dietrich’s champion-band",
+    "note": "Þetleifr joins Dietrich’s company of champions.",
+    "source": "Þiðreks saga",
+    "date": "c. 1250",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "dietrich_von_bern",
+    "kind": "rescued_by",
+    "myth": "Escape from Laurin’s mountain",
+    "note": "Dietleib helps Dietrich’s imprisoned party escape Laurin’s mountain realm.",
+    "source": "Laurin",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Þorgerðr Hǫlgabrúðr": [
+   {
+    "stated_by": "lagertha",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars propose Lagertha may be a transformed version of Þorgerðr; the identification remains contested.",
+    "source": "Chadwick; Davidson commentary",
+    "date": "1950; 1979–80",
+    "tier": "syncretism"
+   }
+  ],
+  "Þóra’s serpent": [
+   {
+    "stated_by": "ragnar_lodbrok",
+    "kind": "killed",
+    "myth": "Ragnar slays the serpent guarding Þóra",
+    "note": "Ragnar kills Þóra’s guardian serpent using protective hairy clothing and wins her.",
+    "source": "Ragnars saga loðbrókar",
+    "date": "13th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Þóra’s serpents": [
+   {
+    "stated_by": "ragnar_lodbrok",
+    "kind": "killed",
+    "myth": "Ragnar slays Thora’s serpents",
+    "note": "Ragnar kills the serpents with spear and sword while wearing frozen hairy garments.",
+    "source": "Gesta Danorum IX",
+    "date": "c. 1200",
+    "tier": "regional_variant"
+   }
+  ],
+  "Þórir Houndsfoot": [
+   {
+    "stated_by": "bodvar_bjarki",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Þórir Houndsfoot, king in Gautland, is Bödvar’s animal-marked brother.",
+    "source": "Hrólfs saga kraka",
+    "date": "late 14th–early 15th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Þórir of the hidden valley": [
+   {
+    "stated_by": "grettir",
+    "kind": "allied",
+    "myth": "Winter in the hidden valley",
+    "note": "The giant or half-troll hosts Grettir among his household.",
+    "source": "Grettis saga",
+    "date": "c. 1310–20",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

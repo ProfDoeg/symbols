@@ -1,0 +1,371 @@
+{
+ "subject": "faust",
+ "relations": [
+  {
+   "other": "The Devil",
+   "other_aliases": [
+    "Lucifer"
+   ],
+   "kind": "killed_by",
+   "myth": "Faust's gruesome death",
+   "note": "Posthumous tradition says the Devil kills Faust after his sorcery.",
+   "source": "Manlius, Locorum communium collectanea",
+   "date": "1562–1563",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [
+    "The Devil"
+   ],
+   "kind": "served",
+   "myth": "Infernal pact",
+   "note": "Faust's contract places him under Lucifer's infernal government.",
+   "source": "Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [
+    "The Devil"
+   ],
+   "kind": "punished_by",
+   "myth": "Faustus confronted after wavering",
+   "note": "Lucifer confronts Faustus, suppresses thoughts of Christ, and displays the Sins.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "The Lord"
+   ],
+   "kind": "judged_by",
+   "myth": "Prologue in Heaven",
+   "note": "The Lord permits Mephistopheles to test Faust without Faust's knowledge.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [
+    "Mephostophiles",
+    "Mephistophilis"
+   ],
+   "kind": "served_by",
+   "myth": "Twenty-four-year infernal pact",
+   "note": "The demon serves Faust as magical provider, guide, and tempter.",
+   "source": "Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [
+    "Mephostophiles",
+    "Mephistophilis"
+   ],
+   "kind": "deceived_by",
+   "myth": "Conditional wager",
+   "note": "Mephistopheles binds Faust through a wager promising possession after perfect satisfaction.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [
+    "Mephostophiles",
+    "Mephistophilis"
+   ],
+   "kind": "allied",
+   "myth": "Imperial finance and war",
+   "note": "Faust and Mephistopheles collaborate in paper money, warfare, and territorial acquisition.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [
+    "Mephostophiles",
+    "Mephistophilis"
+   ],
+   "kind": "punished_by",
+   "myth": "Final infernal claim",
+   "note": "Mephistopheles claims Faust's soul at death but loses it to angels.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Beelzebub",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Infernal hierarchy",
+   "note": "Faust invokes or serves power associated with Beelzebub in early forms.",
+   "source": "Historia and Marlowe A/B texts",
+   "date": "1587–1616",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Good Angel",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Faustus's spiritual conflict",
+   "note": "The Good Angel urges Faustus to abandon magic and repent.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "Evil Angel",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Faustus's spiritual conflict",
+   "note": "The Evil Angel encourages Faustus toward necromancy and despair.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Seven Deadly Sins",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Infernal entertainment",
+   "note": "The Sins appear before and address Faustus after his wavering.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "Earth Spirit",
+   "other_aliases": [
+    "Erdgeist"
+   ],
+   "kind": "judged_by",
+   "myth": "Invocation of the Earth Spirit",
+   "note": "Faust invokes the spirit, which appears and rejects his claimed equality.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen of Troy",
+   "other_aliases": [
+    "Helen"
+   ],
+   "kind": "created",
+   "myth": "Helen's apparition",
+   "note": "Faust magically brings forth Helen's apparition.",
+   "source": "Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helen of Troy",
+   "other_aliases": [
+    "Helen"
+   ],
+   "kind": "seduced",
+   "myth": "Faustus embraces Helen",
+   "note": "Faustus embraces Helen's apparition instead of pursuing repentance.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604/1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen of Troy",
+   "other_aliases": [
+    "Helen"
+   ],
+   "kind": "consort_of",
+   "myth": "Union with Helen",
+   "note": "Faust unites with Helen in Goethe's synthetic classical-medieval world.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Justus Faustus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later chapbook forms make Justus the magically implicated son of Faust and Helen.",
+   "source": "Later chapbook forms",
+   "date": "early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gretchen",
+   "other_aliases": [
+    "Margarete",
+    "Una Poenitentium"
+   ],
+   "kind": "consort_of",
+   "myth": "Gretchen tragedy",
+   "note": "Faust courts and impregnates Gretchen, whose family and life are destroyed.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gretchen",
+   "other_aliases": [
+    "Margarete",
+    "Una Poenitentium"
+   ],
+   "kind": "rescued_by",
+   "myth": "Faust's final ascent",
+   "note": "The saved penitent intercedes for and guides Faust's ascending soul.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Paris and Helen evoked",
+   "note": "Faust evokes Paris with Helen before the emperor.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alexander the Great",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Alexander's courtly apparition",
+   "note": "Faust conjures or simulates Alexander for Emperor Charles V.",
+   "source": "Historia and Marlowe A/B texts",
+   "date": "1587–1616",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Alexander's wife",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Alexander's courtly apparition",
+   "note": "Faust causes Alexander's wife to appear beside him as an illusion.",
+   "source": "Historia and Marlowe A/B texts",
+   "date": "1587–1616",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Classical Walpurgis Night",
+   "note": "Chiron carries Faust and discusses Helen with him.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manto",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Quest for Helen",
+   "note": "Manto guides Faust toward Persephone's underworld realm to seek Helen.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Quest for Helen",
+   "note": "Faust's quest is referred to Persephone's underworld authority through Manto.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Homunculus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Journey to Classical Walpurgis Night",
+   "note": "Homunculus meets Faust and accompanies his party toward the classical gathering.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euphorion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Euphorion is the son of Faust and Helen.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euphorion",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Euphorion's fatal flight",
+   "note": "Faust witnesses his son's ecstatic attempt to fly and fatal fall.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philemon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Removal of Philemon and Baucis",
+   "note": "Faust covets Philemon's property; Mephistopheles' agents kill him during removal.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baucis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Removal of Philemon and Baucis",
+   "note": "Faust covets Baucis's property; Mephistopheles' agents kill her during removal.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Care",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Faust's final night",
+   "note": "Care enters Faust's palace and blinds him.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Mater Gloriosa",
+   "other_aliases": [
+    "Virgin-associated celestial figure"
+   ],
+   "kind": "judged_by",
+   "myth": "Final mystical ascent",
+   "note": "Faust's soul is drawn upward under the Mater Gloriosa's authority.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "angels",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Contest for Faust's soul",
+   "note": "Angels distract the devils and carry Faust's soul away from Mephistopheles.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  }
+ ]
+}

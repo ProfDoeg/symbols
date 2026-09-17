@@ -1,0 +1,877 @@
+{
+ "subject": "theseus",
+ "relations": [
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aegeus is Theseus’s standard civic and legal father.",
+   "source": "Euripidean fragments; Apollodorus; Plutarch",
+   "date": "5th century BCE–c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recognition by the sword",
+   "note": "Aegeus recognizes Theseus by his sword and prevents his poisoning.",
+   "source": "Plutarch, Theseus 12",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The fatal sail",
+   "note": "Theseus’s unchanged sail causes Aegeus to believe him dead and leap.",
+   "source": "Plutarch, Theseus 17–22",
+   "date": "c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Poseidon is Theseus’s divine father in the double-conception tradition.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Proof beneath the sea",
+   "note": "Poseidon receives Theseus in his palace, confirming his divine paternity.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Curse of Hippolytus",
+   "note": "Poseidon grants Theseus curses, one fatally invoked against Hippolytus.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aethra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aethra is Theseus’s mother and raises him at Troezen.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pittheus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Pittheus is Theseus’s maternal grandfather and fosterer at Troezen.",
+   "source": "Euripides, Hippolytus; Plutarch",
+   "date": "428 BCE–c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Poisoning at Athens",
+   "note": "Medea misrepresents the unrecognized Theseus and persuades Aegeus to poison him.",
+   "source": "Plutarch, Theseus 12",
+   "date": "c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pallantid ambush",
+   "note": "Theseus defeats his uncle Pallas and the Pallantids contesting his succession.",
+   "source": "Plutarch, Theseus 13",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Periphetes",
+   "other_aliases": [
+    "Corynetes"
+   ],
+   "kind": "killed",
+   "myth": "Epidaurian road labour",
+   "note": "Theseus kills the club-bearing robber with his own weapon.",
+   "source": "Apollodorus, Epitome 1.1",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Periphetes",
+   "other_aliases": [
+    "Corynetes"
+   ],
+   "kind": "theft",
+   "myth": "Epidaurian road labour",
+   "note": "Theseus takes and thereafter carries Periphetes’s club.",
+   "source": "Apollodorus, Epitome 1.1",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sinis",
+   "other_aliases": [
+    "Pityocamptes"
+   ],
+   "kind": "killed",
+   "myth": "Pine-bender labour",
+   "note": "Theseus kills Sinis by the same pine-torture used on travellers.",
+   "source": "Bacchylides 18; Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perigune",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "After Sinis’s death",
+   "note": "Theseus finds Sinis’s daughter Perigune and fathers Melanippus with her.",
+   "source": "Plutarch, Theseus 8",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Perigune",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Perigune is a partner of Theseus and mother of Melanippus.",
+   "source": "Plutarch, Theseus 8",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melanippus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Melanippus is Theseus’s son by Perigune.",
+   "source": "Plutarch, Theseus 8",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phaea",
+   "other_aliases": [
+    "Crommyonian sow"
+   ],
+   "kind": "killed",
+   "myth": "Crommyonian road labour",
+   "note": "Theseus kills Phaea, portrayed as a monstrous sow or female robber.",
+   "source": "Vase art; Apollodorus; Plutarch",
+   "date": "6th century BCE–c. 100 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sciron",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Megarian cliff labour",
+   "note": "Theseus throws Sciron from the cliff where he murdered travellers.",
+   "source": "Bacchylides 18; Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sciron",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Megarian counter-tradition",
+   "note": "A Megarian version makes Sciron a respectable relative or military leader.",
+   "source": "Plutarch, Theseus 10",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cercyon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Eleusinian wrestling match",
+   "note": "Theseus defeats the murderous Cercyon in wrestling.",
+   "source": "Bacchylides 18; Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Procrustes",
+   "other_aliases": [
+    "Damastes"
+   ],
+   "kind": "killed",
+   "myth": "The lethal bed",
+   "note": "Theseus kills Procrustes by applying his own bed-torture.",
+   "source": "Bacchylides 18; Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amazon expedition",
+   "note": "Some traditions make Theseus Heracles’s companion during the Amazon expedition.",
+   "source": "Philochorus; Plutarch",
+   "date": "4th century BCE–c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue from Hades",
+   "note": "Heracles frees Theseus from his imprisonment in Hades.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Heracles’s madness",
+   "note": "Theseus protects the devastated Heracles and brings him to Athens.",
+   "source": "Euripides, Heracles",
+   "date": "late 5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecale",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Marathonian bull hunt",
+   "note": "Hecale hosts Theseus and vows sacrifice for his safe return.",
+   "source": "Callimachus, Hecale",
+   "date": "3rd century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Androgeos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cause of the Cretan tribute",
+   "note": "Androgeos’s death prompts Minos to impose the Athenian tribute Theseus confronts.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cretan tribute",
+   "note": "Theseus opposes the Cretan ruler who demands Athenian youths as tribute.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The ring in the sea",
+   "note": "Minos challenges Theseus to prove Poseidon’s paternity by retrieving his ring.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eriboea",
+   "other_aliases": [
+    "Periboea"
+   ],
+   "kind": "rescued",
+   "myth": "Minos’s sexual challenge",
+   "note": "Theseus intervenes to protect Eriboea from Minos’s sexual aggression.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Poseidon’s undersea palace",
+   "note": "Amphitrite welcomes Theseus and gives him a wreath and purple mantle.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The ring in the sea",
+   "note": "Zeus answers Minos’s invocation with lightning during his contest with Theseus.",
+   "source": "Bacchylides 17",
+   "date": "early 5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterion"
+   ],
+   "kind": "killed",
+   "myth": "Combat in the Labyrinth",
+   "note": "Theseus kills the Minotaur by varying methods in visual and literary traditions.",
+   "source": "Archaic art; Apollodorus; Plutarch",
+   "date": "7th century BCE–c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ariadne is Theseus’s lover or intended wife in the Cretan cycle.",
+   "source": "Odyssey 11; Hesiodic Catalogue",
+   "date": "8th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from the Labyrinth",
+   "note": "Ariadne gives Theseus the means to retrace his path from the Labyrinth.",
+   "source": "Apollodorus, Epitome 1.8–9",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Desertion for Aegle",
+   "note": "Theseus abandons Ariadne because his love for Aegle overcomes him.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ariadne on Dia",
+   "note": "Theseus loses Ariadne when Artemis kills her following Dionysus’s accusation.",
+   "source": "Odyssey 11.321–325",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegle",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aegle is Theseus’s lover in the Hesiodic account of Ariadne’s desertion.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Escape from the Labyrinth",
+   "note": "Daedalus indirectly supplies Theseus’s escape method by teaching Ariadne.",
+   "source": "Plutarch, Theseus 19",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "deceived_by",
+   "myth": "Abandonment of Ariadne",
+   "note": "Dionysus orders or compels Theseus to abandon Ariadne, sometimes through a dream.",
+   "source": "Pherecydes; later accounts",
+   "date": "5th century BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ariadne’s death on Dia",
+   "note": "Dionysus’s accusation causes Artemis to kill Ariadne before Theseus can marry her.",
+   "source": "Odyssey 11.321–325",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ariadne’s death on Dia",
+   "note": "Artemis kills Ariadne while Theseus is bringing her toward Athens.",
+   "source": "Odyssey 11.321–325",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Hippolytus",
+   "note": "Artemis reveals Hippolytus’s innocence to Theseus after the fatal curse.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Delphic Apollo"
+   ],
+   "kind": "gift",
+   "myth": "Sacrifice of the Marathonian bull",
+   "note": "Theseus presents the captured Marathonian bull for sacrifice to Apollo.",
+   "source": "Diodorus 4.59",
+   "date": "1st century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Delphic Apollo"
+   ],
+   "kind": "other",
+   "myth": "Consultation at Delphi",
+   "note": "Theseus consults Apollo’s Delphic oracle in the developed biography.",
+   "source": "Plutarch, Theseus",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Synoecism of Attica",
+   "note": "Theseus honors Athens’s patroness through civic institutions and the Synoecia.",
+   "source": "Thucydides 2.15; Plutarch",
+   "date": "5th century BCE–c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Antiope is Theseus’s Amazon partner and mother of Hippolytus.",
+   "source": "Plutarch; Apollodorus",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Abduction of the Amazon",
+   "note": "Theseus abducts Antiope after sailing independently against the Amazons.",
+   "source": "Pherecydes; Hellanicus; Plutarch",
+   "date": "5th century BCE–c. 100 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Heracles’s Amazon expedition",
+   "note": "In one tradition Heracles awards Antiope to Theseus as a prize.",
+   "source": "Philochorus; Plutarch",
+   "date": "4th century BCE–c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Amazon elopement",
+   "note": "An epic variant says Antiope voluntarily boards Theseus’s ship from love.",
+   "source": "Epic poet cited by Plutarch",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Amazon attack at Phaedra’s wedding",
+   "note": "Antiope attacks during Theseus’s wedding to Phaedra in one tradition.",
+   "source": "Theseis fragment",
+   "date": "Archaic or Classical",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Amazon war in Attica",
+   "note": "Some accounts make Theseus himself kill Antiope during the Amazon conflict.",
+   "source": "Later variant traditions",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippolyte",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hippolyte is an alternative Amazon wife or partner of Theseus.",
+   "source": "Simonides; Euripides",
+   "date": "6th–5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hippolyte",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Abduction of the Amazon",
+   "note": "Under this naming variant, Theseus captures or abducts Hippolyte.",
+   "source": "Simonides; Euripides",
+   "date": "6th–5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melanippe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Melanippe is Apollodorus’s alternative identity for Theseus’s captured Amazon.",
+   "source": "Apollodorus, Epitome 1.16",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melanippe",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Capture of the Amazon",
+   "note": "In Apollodorus’s alternative version, Theseus captures Melanippe.",
+   "source": "Apollodorus, Epitome 1.16",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Molpadia",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Antiope",
+   "note": "Theseus kills Molpadia after she kills Antiope in one account.",
+   "source": "Late regional accounts",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hippolytus is Theseus’s son by the Amazon.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Phaedra’s false accusation",
+   "note": "Theseus accepts Phaedra’s accusation and condemns his innocent son.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Poseidon’s fatal curse",
+   "note": "Theseus causes Hippolytus’s death by invoking Poseidon’s curse against him.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaedra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Phaedra is Theseus’s wife and mother of Acamas and Demophon.",
+   "source": "Euripides; Apollodorus",
+   "date": "5th century BCE–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaedra",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Phaedra’s false accusation",
+   "note": "Phaedra’s tablet falsely persuades Theseus that Hippolytus assaulted her.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acamas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Acamas is a son of Theseus and Phaedra.",
+   "source": "Apollodorus",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demophon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Demophon is a son of Theseus and Phaedra.",
+   "source": "Apollodorus",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Catastrophe of Phaedra and Hippolytus",
+   "note": "Aphrodite’s punishment of Hippolytus draws Theseus into his family’s catastrophe.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peirithous",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Meeting of Theseus and Peirithous",
+   "note": "Theseus and Peirithous initially fight before admiring one another.",
+   "source": "Later mythographic tradition",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peirithous",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lapith-Centaur battle",
+   "note": "Theseus fights beside Peirithous and the Lapiths against the Centaurs.",
+   "source": "Iliad 1.260–272",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peirithous",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Abduction of Helen",
+   "note": "Theseus and Peirithous jointly abduct the young Helen for forced marriage.",
+   "source": "Epic Cycle fragments",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peirithous",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Descent to abduct Persephone",
+   "note": "Theseus accompanies Peirithous into Hades to seize Persephone.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurytion",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Lapith-Centaur battle",
+   "note": "Theseus fights Eurytion’s Centaur faction after wedding violence begins the battle.",
+   "source": "Later systematization of Homer",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caeneus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lapith-Centaur battle",
+   "note": "Caeneus and Theseus fight together against the Centaurs.",
+   "source": "Iliad 1.264–265",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Abduction of Helen",
+   "note": "Theseus abducts the still-young Helen and reserves her as his bride.",
+   "source": "Epic Cycle fragments; Pindar",
+   "date": "7th–5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Theseus claims Helen as a future bride, though the Dioscuri recover her.",
+   "source": "Epic Cycle fragments",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dioscuri invasion of Attica",
+   "note": "Castor attacks Attica to recover Helen and is wounded in one cyclic version.",
+   "source": "Epic Cycle fragments",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dioscuri invasion of Attica",
+   "note": "Polydeuces joins Castor in recovering Helen and capturing Aethra.",
+   "source": "Epic Cycle fragments",
+   "date": "7th–6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Academus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Discovery of Helen at Aphidna",
+   "note": "Academus reveals Helen’s hiding place to Theseus’s Dioscurid enemies.",
+   "source": "Plutarch, Theseus 32",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Descent to abduct Persephone",
+   "note": "Theseus accompanies Peirithous’s attempted abduction of Persephone from Hades.",
+   "source": "Apollodorus; Plutarch",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Imprisonment in Hades",
+   "note": "Hades traps Theseus and Peirithous on a chair or rock.",
+   "source": "Apollodorus; Vergil; Plutarch",
+   "date": "1st century BCE–2nd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adrastus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of the Argive dead",
+   "note": "Theseus aids Adrastus by obtaining burial for the Seven’s corpses.",
+   "source": "Aeschylus; Euripides, Suppliants",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Oedipus at Colonus",
+   "note": "Theseus grants Oedipus refuge and alone witnesses his mysterious death.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Abduction of Oedipus’s daughters",
+   "note": "Theseus recovers Antigone from Creon’s men and restores her to Oedipus.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Abduction of Oedipus’s daughters",
+   "note": "Theseus recovers Ismene from Creon’s men and restores her to Oedipus.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Recovery of Oedipus’s daughters",
+   "note": "Theseus opposes Creon and rescues the daughters seized by his men.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Burial of the Argive dead",
+   "note": "Theseus compels Creon’s Thebes to permit burial of the Argive dead.",
+   "source": "Euripides, Suppliant Women",
+   "date": "420s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menestheus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Loss of the Athenian throne",
+   "note": "Menestheus exploits Theseus’s absence and displaces him from Athens.",
+   "source": "Epic genealogy; Plutarch 32–35",
+   "date": "Archaic–c. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lycomedes",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death on Scyros",
+   "note": "Lycomedes pushes Theseus from a cliff, fearing him or supporting Menestheus.",
+   "source": "Plutarch, Theseus 35",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

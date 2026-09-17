@@ -1,0 +1,425 @@
+{
+ "subject": "cassandra",
+ "relations": [
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cassandra is consistently identified as Priam’s daughter.",
+   "source": "Homer, Iliad",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecuba",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later standard genealogies identify Hecuba as Cassandra’s mother.",
+   "source": "Apollodorus 3.12.5; Hyginus",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Helenus is Cassandra’s brother and, in one variant, her twin.",
+   "source": "Scholia to Iliad 7.44",
+   "date": "late scholia",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Temple snakes grant prophetic hearing",
+   "note": "Sacred snakes lick both children’s ears, granting them prophetic hearing.",
+   "source": "Scholia citing Anticlides",
+   "date": "Hellenistic source, late scholia",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hector is included among Cassandra’s Trojan brothers.",
+   "source": "Trojan epic genealogy",
+   "date": "Archaic onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hector’s corpse returns to Troy",
+   "note": "Cassandra first sees Hector’s returning corpse and summons Troy to lament.",
+   "source": "Iliad 24.699–706",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Paris, also called Alexander, is Cassandra’s brother.",
+   "source": "Trojan mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "other",
+   "myth": "Warning against sailing for Helen",
+   "note": "Cassandra warns Paris not to sail for Helen and Troy’s ruin.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deiphobus is included among Cassandra’s Trojan brothers.",
+   "source": "Trojan mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Troilus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Troilus is included among Cassandra’s Trojan brothers.",
+   "source": "Trojan mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Polydorus is included among Cassandra’s Trojan brothers.",
+   "source": "Trojan mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyxena",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Polyxena is Cassandra’s sister and another casualty of Troy’s fall.",
+   "source": "Epic-cycle and mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Creusa is included among Cassandra’s Trojan sisters.",
+   "source": "Epic-cycle and mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laodice",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Laodice is included among Cassandra’s Trojan sisters.",
+   "source": "Epic-cycle and mythographic genealogy",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Apollo’s failed courtship",
+   "note": "Apollo desires Cassandra and seeks sexual possession after promising prophetic power.",
+   "source": "Aeschylus, Agamemnon 1202–12",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Cassandra breaks faith with Apollo",
+   "note": "After receiving prophecy, Cassandra breaks her promise or faith with Apollo.",
+   "source": "Aeschylus, Agamemnon 1202–12",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Apollo teaches Cassandra prophecy",
+   "note": "Apollo teaches Cassandra prophecy in expectation of sexual access.",
+   "source": "Apollodorus 3.12.5",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Curse of unbelieved prophecy",
+   "note": "Apollo makes Cassandra’s truthful prophecies unable to persuade after her refusal.",
+   "source": "Aeschylus, Agamemnon 1202–12",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Apollo spits into Cassandra’s mouth",
+   "note": "Apollo’s spit imposes the disabling condition that Cassandra will not be believed.",
+   "source": "Servius on Aeneid 2.247",
+   "date": "late fourth–early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Sanctuary violation during Troy’s sack",
+   "note": "Cassandra clings to Athena’s image, from which Ajax violently drags her.",
+   "source": "Iliou Persis synopsis",
+   "date": "conventionally seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Oileus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Seizure at Athena’s image",
+   "note": "Ajax forcibly drags Cassandra from Athena’s image during Troy’s sack.",
+   "source": "Iliou Persis synopsis",
+   "date": "conventionally seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Oileus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rape in Athena’s sanctuary",
+   "note": "Later literary and visual traditions explicitly depict Ajax raping Cassandra.",
+   "source": "Ovid, Metamorphoses 13–14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Division of Trojan captives",
+   "note": "Agamemnon receives Cassandra as enslaved war booty and transports her home.",
+   "source": "Apollodorus, Epitome 5.23",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Murder at the Atreid palace",
+   "note": "Cassandra is murdered beside Agamemnon after their return from Troy.",
+   "source": "Odyssey 11.421–23",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later tradition makes Agamemnon father of Cassandra’s twin sons amid coercive captivity.",
+   "source": "Pausanias 2.16.6",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Murder at the Atreid palace",
+   "note": "Clytemnestra kills Cassandra beside Agamemnon.",
+   "source": "Odyssey 11.421–23",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Othryoneus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Othryoneus seeks Cassandra’s hand",
+   "note": "Othryoneus seeks Cassandra in marriage but dies before fulfilling his bargain.",
+   "source": "Iliad 13.363–82",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coroebus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Coroebus defends Troy for Cassandra",
+   "note": "Coroebus comes as Cassandra’s suitor and defender but dies during Troy’s sack.",
+   "source": "Virgil, Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecies of Trojan migration",
+   "note": "Aeneas recalls Cassandra’s warnings and prophecies concerning Troy’s future migration.",
+   "source": "Virgil, Aeneid 2–3",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy of Trojan migration",
+   "note": "Cassandra’s migration prophecy is recalled within Anchises and Aeneas’s family narrative.",
+   "source": "Virgil, Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Laocoön",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Warnings about the wooden horse",
+   "note": "Roman and later traditions pair their parallel warnings against the wooden horse.",
+   "source": "Virgil and later retellings",
+   "date": "Roman and Late Antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Agamemnon recounts Cassandra’s murder",
+   "note": "Odysseus hears Agamemnon’s shade recount Cassandra’s murder in Hades.",
+   "source": "Odyssey 11.405–34",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Murder of Cassandra’s twins",
+   "note": "Aegisthus murders Cassandra’s infant sons upon their parents’ bodies.",
+   "source": "Pausanias 2.16.6–7",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy of Orestes’ vengeance",
+   "note": "Cassandra predicts Orestes’ return and vengeance without meeting him.",
+   "source": "Aeschylus, Agamemnon 1279–85",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teledamus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Teledamus is Cassandra’s infant son by Agamemnon.",
+   "source": "Pausanias 2.16.6",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pelops, son of Agamemnon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pelops is Cassandra’s infant twin son by Agamemnon.",
+   "source": "Pausanias 2.16.6",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Warning against expedition for Helen",
+   "note": "Cassandra warns against Paris’s expedition to obtain Helen.",
+   "source": "Apollodorus and later narratives",
+   "date": "first century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of Trojan captives",
+   "note": "Neoptolemus receives Andromache when Agamemnon receives Cassandra in the captive allotment.",
+   "source": "Apollodorus, Epitome 5.23",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of Trojan captives",
+   "note": "Andromache and Cassandra are fellow Trojan captives allocated after the sack.",
+   "source": "Euripides and mythography",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furies",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Vision of the Atreid house",
+   "note": "Cassandra perceives the avenging powers haunting the House of Atreus.",
+   "source": "Aeschylus, Agamemnon 1186–93",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "the Sun"
+   ],
+   "kind": "other",
+   "myth": "Cassandra’s final prayer",
+   "note": "Cassandra prays to the Sun before entering the palace to die.",
+   "source": "Aeschylus, Agamemnon 1322–30",
+   "date": "458 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

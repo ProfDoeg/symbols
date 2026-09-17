@@ -1,0 +1,283 @@
+{
+ "subject": "oisin",
+ "relations": [
+  {
+   "other": "Cumall",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Oisín is Cumall's grandson through Fionn mac Cumhaill.",
+   "source": "Stable Fenian genealogy",
+   "date": "medieval tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Fingal"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Fionn is consistently named as Oisín's father.",
+   "source": "Book of Leinster Fenian poems",
+   "date": "later twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Fingal"
+   ],
+   "kind": "served",
+   "myth": "Oisín's life among the Fianna",
+   "note": "Oisín fights and hunts under Fionn, his leader.",
+   "source": "Acallam and Fenian lays",
+   "date": "twelfth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sadhbh",
+   "other_aliases": [
+    "Sadb"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later deer-transformation traditions name Sadhbh as Oisín's mother.",
+   "source": "Extended Oisín birth traditions",
+   "date": "eighteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Blaí Derg",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Learned tradition alternatively names Blaí Derg as Oisín's mother.",
+   "source": "Later Fenian genealogical tradition",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bodb Derg",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Some later genealogies make Bodb Derg Oisín's maternal grandfather through Sadhbh.",
+   "source": "Later popular genealogy",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oscar",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oscar is consistently identified as Oisín's son.",
+   "source": "Book of Leinster battle poetry",
+   "date": "later twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Oscar",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wars and hunts of the Fianna",
+   "note": "Oscar is Oisín's fellow Fenian warrior.",
+   "source": "Acallam and later Fenian lays",
+   "date": "twelfth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oscar",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Battle of Gabair",
+   "note": "Oisín mourns Oscar after his mortal wounding at Gabair.",
+   "source": "Book of Leinster Gabair poetry",
+   "date": "later twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Caílte mac Rónáin",
+   "other_aliases": [
+    "Caílte"
+   ],
+   "kind": "allied",
+   "myth": "Survivors meet Patrick",
+   "note": "Caílte is Oisín's fellow surviving Fenian and traveling companion.",
+   "source": "Acallam na Senórach",
+   "date": "late twelfth–early thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Diarmaid Ua Duibhne",
+   "other_aliases": [
+    "Diarmaid"
+   ],
+   "kind": "allied",
+   "myth": "Adventures of the Fianna",
+   "note": "Diarmaid and Oisín are fellow Fenians in joint adventures.",
+   "source": "Acallam; Bruidhen Chéise Corainn",
+   "date": "medieval and early-modern",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diarmaid Ua Duibhne",
+   "other_aliases": [
+    "Diarmaid"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Oisín accompanies the Fianna pursuing Diarmaid and Gráinne.",
+   "source": "Tóraigheacht Dhiarmada agus Ghráinne",
+   "date": "early-modern witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gráinne",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Oisín belongs to the Fianna pursuing Gráinne and Diarmaid.",
+   "source": "Tóraigheacht Dhiarmada agus Ghráinne",
+   "date": "early-modern witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Conán mac Morna",
+   "other_aliases": [
+    "Conán"
+   ],
+   "kind": "allied",
+   "myth": "Adventures of the Fianna",
+   "note": "Conán is Oisín's fellow Fenian and companion in adventures.",
+   "source": "Acallam and later Fenian tales",
+   "date": "twelfth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mac Lugach",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Adventures of the Fianna",
+   "note": "Mac Lugach appears as Oisín's fellow warrior.",
+   "source": "Acallam; Bruidhen Chéise Corainn",
+   "date": "medieval and early-modern",
+   "tier": "canonical"
+  },
+  {
+   "other": "Niamh Chinn Óir",
+   "other_aliases": [
+    "Niamh of the Golden Hair"
+   ],
+   "kind": "consort_of",
+   "myth": "Oisín in Tír na nÓg",
+   "note": "Niamh becomes Oisín's lover and otherworld partner.",
+   "source": "Laoidh Oisín ar Thír na nÓg",
+   "date": "c. 1750",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Niamh Chinn Óir",
+   "other_aliases": [
+    "Niamh of the Golden Hair"
+   ],
+   "kind": "other",
+   "myth": "Journey to Tír na nÓg",
+   "note": "Niamh guides Oisín overseas to the otherworld.",
+   "source": "Laoidh Oisín ar Thír na nÓg",
+   "date": "c. 1750",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Niamh Chinn Óir",
+   "other_aliases": [
+    "Niamh of the Golden Hair"
+   ],
+   "kind": "gift",
+   "myth": "Oisín's return from Tír na nÓg",
+   "note": "Niamh lends Oisín the return-horse and warns him against touching Ireland.",
+   "source": "Laoidh Oisín ar Thír na nÓg",
+   "date": "c. 1750",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eibhir",
+   "other_aliases": [
+    "Eimhear"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later sources name Eibhir or Eimhear as Oisín's wife or partner.",
+   "source": "Later Fenian genealogical tradition",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Evirallin",
+   "other_aliases": [
+    "Everallin"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Macpherson names Evirallin as Oisín's partner in his remodeled genealogy.",
+   "source": "Macpherson's Ossianic poems",
+   "date": "1760s",
+   "tier": "modern"
+  },
+  {
+   "other": "Plúr na mBan",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Oisín in Tír na nÓg",
+   "note": "Some popular variants make Plúr na mBan a child of Oisín and Niamh.",
+   "source": "Popular Tír na nÓg narratives",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iarnan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hostel of Céise Corainn",
+   "note": "Oisín and other leading Fenians confront the hostile supernatural Iarnan.",
+   "source": "Bruidhen Chéise Corainn",
+   "date": "early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fothad Airgdech",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ogam over Fothad's grave",
+   "note": "Oisín's attributed poem identifies and commemorates Fothad's grave.",
+   "source": "Ogum i llia lia uas lecht",
+   "date": "later twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [
+    "Cuchullin"
+   ],
+   "kind": "shared_myth",
+   "myth": "Macpherson's Ossianic world",
+   "note": "Macpherson coordinates Oisín and Cuchullin within his remodeled Ossianic setting.",
+   "source": "Macpherson's Fingal and associated poems",
+   "date": "1760s",
+   "tier": "modern"
+  },
+  {
+   "other": "Aideen",
+   "other_aliases": [
+    "Étaín"
+   ],
+   "kind": "other",
+   "myth": "Burial of Aideen",
+   "note": "Ferguson's poem has Oisín direct the burial of Oscar's wife Aideen.",
+   "source": "Samuel Ferguson's Aideen's Grave",
+   "date": "nineteenth century",
+   "tier": "modern"
+  }
+ ]
+}

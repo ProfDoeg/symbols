@@ -1,0 +1,841 @@
+{
+ "subject": "agamemnon",
+ "relations": [
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer names Atreus as Agamemnon's father.",
+   "source": "Iliad and Odyssey",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "A variant makes Atreus his grandfather and foster-father.",
+   "source": "Hesiodic scholia and mythographers",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Inheritance of the divine sceptre",
+   "note": "Agamemnon inherits kingship and the divine sceptre through Atreus.",
+   "source": "Iliad 2.100–108",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pleisthenes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later genealogies make Pleisthenes his biological father.",
+   "source": "Hesiodic scholia and mythographers",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aerope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later systematized genealogy names Aerope as his mother.",
+   "source": "Apollodoran Bibliotheca",
+   "date": "first or second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cleola",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A fragmentary genealogical variant names Cleola as his mother.",
+   "source": "fragmentary genealogical traditions",
+   "date": "not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Menelaus is Agamemnon's brother.",
+   "source": "Homer",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expedition to recover Helen",
+   "note": "Agamemnon leads the coalition assembled for Menelaus and Helen.",
+   "source": "Iliad and Odyssey",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Clytemnestra is Agamemnon's wife.",
+   "source": "Homer",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytemnestra",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Murder at Agamemnon's homecoming",
+   "note": "She is implicated in Homer and becomes the principal killer in tragedy.",
+   "source": "Odyssey; Pindar; tragedians",
+   "date": "eighth–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tantalus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Agamemnon's marriage to Clytemnestra",
+   "note": "Later accounts say Agamemnon killed Clytemnestra's previous husband.",
+   "source": "Euripidean scholia and mythographers",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Orestes is Agamemnon's son.",
+   "source": "Iliad 9.142–47",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Vengeance for Agamemnon's murder",
+   "note": "Orestes avenges his father by killing Aegisthus and Clytemnestra.",
+   "source": "Odyssey; Oresteia",
+   "date": "eighth–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chrysothemis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chrysothemis is consistently named among Agamemnon's daughters.",
+   "source": "Iliad 9.142–47; tragedians",
+   "date": "eighth–fifth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laodice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Homer names Laodice among Agamemnon's daughters.",
+   "source": "Iliad 9.142–47",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tragedy names Electra as Agamemnon's daughter and chief mourner.",
+   "source": "Aeschylus; Sophocles; Euripides",
+   "date": "fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vengeance at Agamemnon's grave",
+   "note": "Electra mourns and invokes her dead father while supporting vengeance.",
+   "source": "Libation Bearers",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphianassa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Homer names Iphianassa as Agamemnon's daughter.",
+   "source": "Iliad 9.142–47",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphianassa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage offer to Achilles",
+   "note": "Agamemnon offers one of his daughters, including Iphianassa, to Achilles.",
+   "source": "Iliad 9",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cyclic epic and tragedy generally treat Iphigenia as Agamemnon's daughter.",
+   "source": "Cypria; tragedians",
+   "date": "seventh–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Sacrifice at Aulis",
+   "note": "Agamemnon intends or completes her sacrifice to release the fleet.",
+   "source": "Cypria; Agamemnon; Iphigenia at Aulis",
+   "date": "seventh–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "False marriage summons to Aulis",
+   "note": "Agamemnon lures Iphigenia to Aulis with a supposed marriage to Achilles.",
+   "source": "Iphigenia at Aulis",
+   "date": "c. 405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Helen's recovery from Troy",
+   "note": "His sister-in-law's recovery supplies the coalition's stated objective.",
+   "source": "Iliad and Odyssey",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure of Briseis",
+   "note": "Agamemnon dishonors Achilles by taking his captive prize Briseis.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Quarrel over honor and command",
+   "note": "Achilles publicly challenges Agamemnon's greed and authority.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Embassy and reconciliation",
+   "note": "Agamemnon offers restitution and gifts, then restores Briseis under oath.",
+   "source": "Iliad 9 and 19",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean war at Troy",
+   "note": "After reconciliation, Agamemnon and Achilles again command within the Achaean coalition.",
+   "source": "Iliad 19",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briseis",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure from Achilles",
+   "note": "Agamemnon seizes the enslaved Briseis as compensation for returning Chryseis.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briseis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Reconciliation with Achilles",
+   "note": "Agamemnon restores Briseis to Achilles and swears he did not violate her.",
+   "source": "Iliad 19",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chryseis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Captivity and Apollo's plague",
+   "note": "Agamemnon claims Chryseis as a captive and threatens sexual exploitation.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chryseis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return of Chryseis",
+   "note": "Divine compulsion forces Agamemnon to return her without ransom.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chryses",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Rejected ransom for Chryseis",
+   "note": "Agamemnon insults Apollo's priest and refuses his ransom.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chryses",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return of Chryseis",
+   "note": "Agamemnon ultimately returns Chryses' daughter under divine pressure.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Plague on the Achaean camp",
+   "note": "Apollo sends plague because Agamemnon dishonors Chryses and retains Chryseis.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Calm at Aulis",
+   "note": "Artemis blocks the fleet and demands Iphigenia after Agamemnon kills her deer and boasts.",
+   "source": "Cypria summary",
+   "date": "seventh or sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rescue of Iphigenia",
+   "note": "Artemis frustrates the intended sacrifice by substituting a deer and taking Iphigenia.",
+   "source": "Cypria summary",
+   "date": "seventh or sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Calchas",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Cause of Apollo's plague",
+   "note": "Calchas reveals that Agamemnon's treatment of Chryses caused Apollo's plague.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Calchas",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Demand for Iphigenia",
+   "note": "Calchas declares that Iphigenia must be sacrificed after Agamemnon's offense.",
+   "source": "Cypria and tragedy",
+   "date": "seventh–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Athena restrains Achilles",
+   "note": "Athena prevents Achilles from killing Agamemnon during their quarrel.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean war at Troy",
+   "note": "Athena supports the Achaeans fighting under Agamemnon's command.",
+   "source": "Iliad",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Deceptive dream of victory",
+   "note": "Zeus sends Agamemnon a false dream promising immediate victory.",
+   "source": "Iliad 2",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Trojan success after Achilles' dishonor",
+   "note": "Zeus permits Achaean losses against Agamemnon's coalition to vindicate Achilles.",
+   "source": "Iliad 1, 8–9",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transmission of the divine sceptre",
+   "note": "Agamemnon's inherited sceptre originates with Zeus before passing through the Pelopid dynasty.",
+   "source": "Iliad 2.100–108",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean war at Troy",
+   "note": "Hera supports the Achaean army under Agamemnon's leadership.",
+   "source": "Iliad",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Making of Agamemnon's sceptre",
+   "note": "Hephaestus makes the divine sceptre that Agamemnon eventually inherits.",
+   "source": "Iliad 2.100–108",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transmission of Agamemnon's sceptre",
+   "note": "Hermes passes the future sceptre of Agamemnon from Zeus to Pelops.",
+   "source": "Iliad 2.100–108",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Later genealogy makes Pelops Agamemnon's grandfather or great-grandfather.",
+   "source": "later genealogical tradition",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transmission of the divine sceptre",
+   "note": "Pelops receives the divine sceptre and transmits it through Agamemnon's dynasty.",
+   "source": "Iliad 2.100–108",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dynastic feud of the Atreids",
+   "note": "Aegisthus is Agamemnon's dynastic enemy and adulterous rival.",
+   "source": "Odyssey; Aeschylus",
+   "date": "eighth–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Banquet ambush at homecoming",
+   "note": "In Homer, Aegisthus invites Agamemnon to a banquet and kills him.",
+   "source": "Odyssey 1, 3, 4, 11, 24",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Palace murder with Clytemnestra",
+   "note": "Later versions make Aegisthus assist Clytemnestra or share responsibility for Agamemnon's death.",
+   "source": "Aeschylus and later accounts",
+   "date": "458 BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [
+    "Alexandra"
+   ],
+   "kind": "consort_of",
+   "myth": "Captivity after Troy's fall",
+   "note": "Agamemnon takes the enslaved Cassandra as his captive concubine.",
+   "source": "Odyssey 11; Aeschylus",
+   "date": "eighth–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [
+    "Alexandra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Murder at Agamemnon's homecoming",
+   "note": "Cassandra is killed beside Agamemnon after foretelling their deaths.",
+   "source": "Odyssey 11; Agamemnon",
+   "date": "eighth–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teledamus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography makes Teledamus a twin son of Agamemnon and Cassandra.",
+   "source": "later mythography",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography also names a Pelops as Agamemnon and Cassandra's twin son.",
+   "source": "later mythography",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ajax son of Telamon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Embassy to Achilles",
+   "note": "Ajax serves under Agamemnon and joins the embassy seeking Achilles' return.",
+   "source": "Iliad 9",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Oileus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achaean coalition at Troy",
+   "note": "Ajax commands a contingent within Agamemnon's coalition.",
+   "source": "Iliad 2",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Oileus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Athena's wrath during the returns",
+   "note": "Return traditions associate Agamemnon with a quarrel concerning Athena's wrath against Ajax.",
+   "source": "Nostoi",
+   "date": "seventh or sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle over Iphidamas",
+   "note": "Coon wounds Agamemnon while defending his brother Iphidamas' body.",
+   "source": "Iliad 11",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achaean command at Troy",
+   "note": "Diomedes is a subordinate commander who fights beside Agamemnon.",
+   "source": "Iliad 4, 9, 14",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Proposal to abandon Troy",
+   "note": "Diomedes rebukes Agamemnon for proposing that the Achaeans flee.",
+   "source": "Iliad 9",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurybates",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Seizure of Briseis",
+   "note": "Agamemnon sends the herald Eurybates with Talthybius to take Briseis.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Seizure of Briseis",
+   "note": "Agamemnon's herald helps remove Briseis from Achilles.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Sacrifice traditions at Aulis",
+   "note": "Talthybius acts for Agamemnon in later traditions surrounding Iphigenia's sacrifice.",
+   "source": "Euripides",
+   "date": "fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Trojan War",
+   "note": "Agamemnon and Troy's principal commander exchange threats and fight within the larger war.",
+   "source": "Iliad",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Review of the Achaean troops",
+   "note": "The Cretan commander serves in the coalition and receives Agamemnon's praise.",
+   "source": "Iliad 4",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Councils during the Trojan War",
+   "note": "Nestor repeatedly advises Agamemnon and mediates his conflict with Achilles.",
+   "source": "Iliad 1, 2, 9–11",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Achaean command and embassy",
+   "note": "Odysseus restores order for Agamemnon and serves as commander and envoy.",
+   "source": "Iliad 2, 9, 19",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Odysseus meets Agamemnon's ghost",
+   "note": "Agamemnon's ghost recounts his murder and warns Odysseus about homecoming.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Palamedes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Judicial murder of Palamedes",
+   "note": "Later accounts make Agamemnon participate or acquiesce in Palamedes' contrived execution.",
+   "source": "Cypria-related and Apollodoran traditions",
+   "date": "seventh c. BCE and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "fought",
+   "myth": "War caused by Helen's removal",
+   "note": "Paris is the enemy whose removal of Helen occasions Agamemnon's expedition.",
+   "source": "Homer and Epic Cycle",
+   "date": "eighth–sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reconciliation after Patroclus' death",
+   "note": "Patroclus' death prompts Achilles and Agamemnon to reconcile.",
+   "source": "Iliad 16–19",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Philoctetes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Abandonment on Lemnos",
+   "note": "Some accounts assign Philoctetes' abandonment to Agamemnon's coalition authority.",
+   "source": "Epic Cycle; Philoctetes",
+   "date": "cyclic period–409 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philoctetes",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Recall of Philoctetes",
+   "note": "Some later accounts place his recall under Agamemnon's authority.",
+   "source": "Epic Cycle; Philoctetes",
+   "date": "cyclic period–409 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Destruction of Troy",
+   "note": "Agamemnon leads the coalition that destroys Priam's city.",
+   "source": "Homer; Epic Cycle",
+   "date": "eighth–sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Mistaken invasion of Mysia",
+   "note": "Agamemnon's forces fight Telephus after mistakenly landing in Mysia.",
+   "source": "Cypria",
+   "date": "seventh or sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Telephus guides the Greeks",
+   "note": "After healing, Telephus guides Agamemnon's expedition toward Troy.",
+   "source": "Cypria and lost tragedies",
+   "date": "seventh–fifth c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Telephus' supplication at Argos",
+   "note": "Dramatic variants bring Telephus as a suppliant into Agamemnon's household.",
+   "source": "lost tragedies",
+   "date": "fifth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Achaean reverses after Achilles' dishonor",
+   "note": "Thetis secures Zeus' action against Agamemnon's army for dishonoring Achilles.",
+   "source": "Iliad 1",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thersites",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Assembly after Agamemnon's retreat test",
+   "note": "Thersites publicly denounces Agamemnon's greed before Odysseus silences him.",
+   "source": "Iliad 2",
+   "date": "late eighth/seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thyestes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Inherited feud of the Atreids",
+   "note": "Agamemnon's uncle is a dynastic rival whose murdered children motivate Aegisthus' vengeance.",
+   "source": "Aeschylus and mythographers",
+   "date": "fifth c. BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Exile after Atreus' murder",
+   "note": "Later tradition makes Tyndareus protector of the exiled Agamemnon and Menelaus.",
+   "source": "Apollodoran Bibliotheca",
+   "date": "first or second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration and marriage alliance",
+   "note": "Tyndareus helps restore Agamemnon and becomes his father-in-law.",
+   "source": "later genealogy and mythography",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

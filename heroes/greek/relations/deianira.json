@@ -1,0 +1,377 @@
+{
+ "subject": "deianira",
+ "relations": [
+  {
+   "other": "Althaea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Althaea is Deianira’s mother in both principal genealogies.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A variant genealogy names Dionysus rather than Oeneus as her father.",
+   "source": "Pseudo-Apollodorus 1.8.1",
+   "date": "1st/2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Transformation of the Meleagrids",
+   "note": "Dionysus intervenes so Deianira and Gorge are spared or restored.",
+   "source": "Antoninus Liberalis 2",
+   "date": "2nd/3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Meleager is Deianira’s brother in the Calydonian genealogy.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles meets Meleager in Hades",
+   "note": "Meleager’s shade names Deianira to Heracles as an unmarried sister.",
+   "source": "Bacchylides 5",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gorge",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gorge is Deianira’s sister in the Calydonian genealogy.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gorge",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transformation of the Meleagrids",
+   "note": "The sisters are jointly spared or restored from the bird transformation.",
+   "source": "Antoninus Liberalis 2",
+   "date": "2nd/3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Heracles wins Deianira’s hand and becomes her husband.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "rescued_by",
+   "myth": "Nessus assaults Deianira",
+   "note": "Heracles shoots Nessus while the centaur assaults or abducts Deianira.",
+   "source": "Sophocles, Trachiniae 555–587",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "killed",
+   "myth": "The poisoned garment",
+   "note": "Deianira unwittingly sends the garment whose poison causes Heracles’ mortal death.",
+   "source": "Sophocles, Trachiniae",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "seduced_by",
+   "myth": "Dexamenus’ daughter",
+   "note": "Hyginus says Heracles seduced or impregnated an alternate Deianira after promising marriage.",
+   "source": "Hyginus, Fabula 33",
+   "date": "2nd c. CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "rescued_by",
+   "myth": "Eurytion threatens Dexamenus’ daughter",
+   "note": "In the confused variant, Heracles rescues the woman called Deianira from Eurytion.",
+   "source": "Hyginus, Fabula 33",
+   "date": "2nd c. CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Contest for Deianira",
+   "note": "The transforming river-god courts Deianira until Heracles defeats him for her hand.",
+   "source": "Sophocles, Trachiniae 9–27",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Contest for Deianira",
+   "note": "Aphrodite poetically presides as umpire over the bridal struggle.",
+   "source": "Sophocles, Trachiniae 497–530",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [
+    "Nessos"
+   ],
+   "kind": "other",
+   "myth": "Crossing of the Evenus",
+   "note": "Nessus ferries Deianira and then sexually assaults or abducts her.",
+   "source": "Sophocles, Trachiniae 555–587",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [
+    "Nessos"
+   ],
+   "kind": "deceived_by",
+   "myth": "Nessus’ false love charm",
+   "note": "The dying centaur tricks Deianira into preserving lethal material as a fidelity charm.",
+   "source": "Sophocles, Trachiniae 555–587",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hydra of Lerna",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "shared_myth",
+   "myth": "The poisoned garment",
+   "note": "The Hydra’s venom contaminates Nessus’ blood and makes Deianira’s garment lethal.",
+   "source": "Sophocles, Trachiniae 572–581",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iole",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Captive Iole reaches Trachis",
+   "note": "Deianira pities the captive but fears that Heracles will replace her.",
+   "source": "Sophocles, Trachiniae 225–496",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lichas",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Iole’s identity concealed",
+   "note": "Lichas initially conceals why Heracles destroyed Oechalia and brought Iole home.",
+   "source": "Sophocles, Trachiniae",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lichas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Delivery of the poisoned garment",
+   "note": "Deianira entrusts Heracles’ anointed ceremonial garment to Lichas for delivery.",
+   "source": "Sophocles, Trachiniae",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyllus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyllus is Deianira’s son by Heracles.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyllus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Deianira’s recognition and suicide",
+   "note": "Hyllus accuses Deianira, discovers her body, and later learns she was deceived.",
+   "source": "Sophocles, Trachiniae",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Glenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Glenus is Deianira’s son by Heracles.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ctesippus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ctesippus is Deianira’s son by Heracles.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odites",
+   "other_aliases": [
+    "Onites"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Odites is Deianira’s son by Heracles.",
+   "source": "Hesiodic Catalogue fr. 25",
+   "date": "late 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Macaria",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies infer Deianira’s maternity, though Euripides names only Heracles as parent.",
+   "source": "Euripides, Heraclidae",
+   "date": "c. 430 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ sacrifice at Cenaeum",
+   "note": "Deianira’s garment takes effect while Heracles sacrifices to his father Zeus.",
+   "source": "Sophocles, Trachiniae",
+   "date": "c. 450–425 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "shared_myth",
+   "myth": "Deianira’s letter to Hercules",
+   "note": "Deianira contrasts Hera’s glorious persecution of Hercules with Venus’ humiliating power.",
+   "source": "Ovid, Heroides 9",
+   "date": "c. 20–10 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Transformation of the Meleagrids",
+   "note": "Artemis transforms Meleager’s mourning sisters; Deianira is spared or subsequently restored.",
+   "source": "Antoninus Liberalis 2",
+   "date": "2nd/3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Philoctetes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ pyre on Oeta",
+   "note": "In one tradition Philoctetes lights Heracles’ pyre after Deianira’s death.",
+   "source": "Pseudo-Apollodorus 2.7.7",
+   "date": "1st/2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poeas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ pyre on Oeta",
+   "note": "In an alternate tradition Poeas lights Heracles’ pyre after Deianira’s death.",
+   "source": "Apollodorus and later sources",
+   "date": "Imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ apotheosis",
+   "note": "Hebe becomes Heracles’ divine wife after Deianira has died.",
+   "source": "Greek and Roman apotheosis traditions",
+   "date": "ancient",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Contest for Deianira",
+   "note": "Athena appears beside Deianira in some vase scenes of the Achelous contest.",
+   "source": "Archaic and Classical vase painting",
+   "date": "6th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Contest for Deianira",
+   "note": "Hermes appears beside Deianira in some vase scenes of the Achelous contest.",
+   "source": "Archaic and Classical vase painting",
+   "date": "6th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurytion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eurytion threatens Dexamenus’ daughter",
+   "note": "In Hyginus’ conflated story, Eurytion threatens the alternate woman called Deianira.",
+   "source": "Hyginus, Fabula 33",
+   "date": "2nd c. CE or later",
+   "tier": "regional_variant"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "subject": "tannhauser",
+ "relations": [
+  {
+   "other": "Frau Venus",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "consort_of",
+   "myth": "Tannhäuser as Venus’s husband",
+   "note": "Tannhäuser is explicitly described as Frau Venus’s husband.",
+   "source": "Die Mörin",
+   "date": "1453",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Frau Venus",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Life inside Venusberg",
+   "note": "Ballad formulations make Tannhäuser Venus’s lover or retainer inside her mountain.",
+   "source": "Tannhäuser ballad",
+   "date": "c. 1515 onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frau Venus",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "seduced_by",
+   "myth": "Venus tempts Tannhäuser to remain",
+   "note": "Venus offers continued pleasure and sometimes an attendant as wife to prevent his departure.",
+   "source": "Tannhäuser ballad",
+   "date": "c. 1515 onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "The flowering staff",
+   "note": "The miraculously flowering staff shows that divine forgiveness exceeds Pope Urban’s refusal.",
+   "source": "Tannhäuser ballad",
+   "date": "c. 1515 onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "other",
+   "myth": "Invocation against Venus’s power",
+   "note": "Tannhäuser invokes Christ as saviour or authority over Venus’s realm.",
+   "source": "Early-modern ballad variants",
+   "date": "early modern period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Virgin Mary",
+   "other_aliases": [
+    "Mary"
+   ],
+   "kind": "rescued_by",
+   "myth": "Escape from Venusberg",
+   "note": "Invoking Mary helps break Venus’s power and permits Tannhäuser’s departure.",
+   "source": "Tannhäuser ballad variants",
+   "date": "early modern period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Virgin Mary",
+   "other_aliases": [
+    "Mary"
+   ],
+   "kind": "rescued_by",
+   "myth": "Mary transports him from Venusberg",
+   "note": "Tannhäuser’s invocation of Mary breaks the enchantment and returns him to the mortal world.",
+   "source": "Wagner, Tannhäuser",
+   "date": "1845",
+   "tier": "modern"
+  },
+  {
+   "other": "Faithful Eckart",
+   "other_aliases": [
+    "Eckart"
+   ],
+   "kind": "other",
+   "myth": "Guardian of Venusberg",
+   "note": "Eckart serves as Venusberg’s guardian and a warning figure associated with Tannhäuser.",
+   "source": "Tieck, Der getreue Eckart",
+   "date": "1799",
+   "tier": "modern"
+  }
+ ]
+}

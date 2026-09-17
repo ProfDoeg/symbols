@@ -1,0 +1,731 @@
+{
+ "subject": "cu_chulainn",
+ "relations": [
+  {
+   "other": "Lug",
+   "other_aliases": [
+    "Lugh"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lug claims divine paternity in one supernatural conception tradition.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [
+    "Lugh"
+   ],
+   "kind": "rescued_by",
+   "myth": "Lug heals and aids Cú Chulainn",
+   "note": "Lug appears during the campaign to heal or assist his wounded son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Deichtine",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Deichtine is his mother in both conflicting conception sequences.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Sualtaim mac Róich",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sualtaim is his mortal and social father after Deichtine's reconception.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century core",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Conchobar is his maternal uncle when Deichtine is Conchobar's sister.",
+   "source": "Compert Con Culainn",
+   "date": "early medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Conchobar is his maternal grandfather when Deichtine is Conchobar's daughter.",
+   "source": "Compert Con Culainn",
+   "date": "medieval recension",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "gift",
+   "myth": "Taking arms at Emain Macha",
+   "note": "Conchobar supplies the arms and chariot capable of withstanding him.",
+   "source": "Macgnímrada Con Culainn",
+   "date": "seventh–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "served",
+   "myth": "Defence of Conchobar's realm",
+   "note": "Cú Chulainn defends Conchobar's Ulaid realm during Medb's invasion.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Cathbad",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Naming Culann's Hound",
+   "note": "Cathbad declares the boy's heroic name after the hound's death.",
+   "source": "Macgnímrada Con Culainn",
+   "date": "seventh–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Cathbad",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Prophecy of brief life and fame",
+   "note": "Cathbad prophesies that taking arms brings lasting fame but a short life.",
+   "source": "Macgnímrada Con Culainn",
+   "date": "seventh–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Culann",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Death of Culann's hound",
+   "note": "After killing Culann's guard dog, Sétanta promises to replace and serve as its defender.",
+   "source": "Macgnímrada Con Culainn",
+   "date": "seventh–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fergus"
+   ],
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Fergus has a mentor or foster relationship with Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fergus"
+   ],
+   "kind": "contest",
+   "myth": "Reciprocal withdrawal during the Táin",
+   "note": "They confront one another, but Fergus withdraws under an earlier reciprocal agreement.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Lóeg mac Riangabra",
+   "other_aliases": [
+    "Lóeg"
+   ],
+   "kind": "served_by",
+   "myth": "Single combats of the Táin",
+   "note": "Lóeg serves as charioteer, messenger, critic, observer, and battlefield assistant.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Emer",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Emer is his wife in the principal canonical tradition.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Emer",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Courtship and carrying-off of Emer",
+   "note": "They exchange learned riddles before he later carries her from Forgall's stronghold.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Emer",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Emer warns him about Connla",
+   "note": "Emer recognizes or suspects Connla's identity and urges Cú Chulainn to show restraint.",
+   "source": "Aided Óenfir Aífe",
+   "date": "late ninth–tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Emer",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Emer confronts Fand",
+   "note": "Emer confronts his affair with Fand; both women ultimately offer to relinquish him.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ethne Ingubai",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One transmitted strand names Ethne Ingubai, rather than Emer, as his wife.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Forgall Monach",
+   "other_aliases": [
+    "Forgall"
+   ],
+   "kind": "deceived_by",
+   "myth": "Forgall sends him to foreign training",
+   "note": "Forgall directs him toward dangerous overseas training, hoping he will die.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Forgall Monach",
+   "other_aliases": [
+    "Forgall"
+   ],
+   "kind": "fought",
+   "myth": "Seizure of Emer",
+   "note": "Cú Chulainn storms Forgall's stronghold and kills defenders while carrying off Emer.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Scáthach",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Training in Alba",
+   "note": "Scáthach trains Cú Chulainn in martial arts.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Scáthach",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Learning the gáe bolga",
+   "note": "Scáthach teaches or supplies him with the deadly gáe bolga.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aífe",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat with Aífe",
+   "note": "Cú Chulainn fights and overcomes Scáthach's rival.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Aífe",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deception concerning Aífe's horses",
+   "note": "He defeats Aífe by falsely claiming her beloved horses and chariot are falling.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Aífe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aífe compelled after defeat",
+   "note": "After defeating Aífe, he coerces her into peace terms and sex.",
+   "source": "Tochmarc Emire",
+   "date": "eighth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Connla",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Connla is Cú Chulainn's son by Aífe.",
+   "source": "Aided Óenfir Aífe",
+   "date": "late ninth–tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Connla",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing the unrecognized son",
+   "note": "Cú Chulainn unknowingly kills Connla with the gáe bolga before recognizing him.",
+   "source": "Aided Óenfir Aífe",
+   "date": "late ninth–tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ferdiad",
+   "other_aliases": [
+    "Fer Diad"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Ferdiad is his former fellow pupil and foster-brother under Scáthach.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Ferdiad",
+   "other_aliases": [
+    "Fer Diad"
+   ],
+   "kind": "fought",
+   "myth": "Ford combat with Ferdiad",
+   "note": "The foster-brothers fight over several days while exchanging food and weapons between combats.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Ferdiad",
+   "other_aliases": [
+    "Fer Diad"
+   ],
+   "kind": "killed",
+   "myth": "Death of Ferdiad",
+   "note": "Cú Chulainn kills Ferdiad with the gáe bolga and laments him.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Medb",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defence of Ulster",
+   "note": "Cú Chulainn delays and attacks Medb's invading army through guerrilla warfare and single combats.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Medb",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ford-combat negotiations",
+   "note": "He bargains with Medb's host for a succession of single combats.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Ailill mac Máta",
+   "other_aliases": [
+    "Ailill"
+   ],
+   "kind": "fought",
+   "myth": "Connacht invasion of Ulster",
+   "note": "Cú Chulainn opposes the invasion jointly led by Ailill and Medb.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Morrígan",
+   "other_aliases": [
+    "the Morrígan"
+   ],
+   "kind": "other",
+   "myth": "Prophetic encounter with the Morrígan",
+   "note": "The disguised Morrígan encounters, threatens, and prophetically warns Cú Chulainn.",
+   "source": "Táin Bó Regamna",
+   "date": "early medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Morrígan",
+   "other_aliases": [
+    "the Morrígan"
+   ],
+   "kind": "fought",
+   "myth": "Animal attacks during Lóch's combat",
+   "note": "She attacks as eel, wolf, and heifer; Cú Chulainn wounds each form.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Morrígan",
+   "other_aliases": [
+    "the Morrígan"
+   ],
+   "kind": "rescued",
+   "myth": "Healing the disguised Morrígan",
+   "note": "His blessings unknowingly heal her wounds while she appears as an old milkmaid.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Macha",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Macha's curse disables the Ulaid",
+   "note": "Her curse incapacitates the other Ulaid, indirectly forcing his solitary defence.",
+   "source": "Noínden Ulad; Táin",
+   "date": "early medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Lóch mac Mofemis",
+   "other_aliases": [
+    "Lóch"
+   ],
+   "kind": "fought",
+   "myth": "Single combat with Lóch",
+   "note": "Cú Chulainn fights Lóch while the Morrígan intervenes in animal forms.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Lóch mac Mofemis",
+   "other_aliases": [
+    "Lóch"
+   ],
+   "kind": "killed",
+   "myth": "Death of Lóch",
+   "note": "Cú Chulainn kills Lóch in single combat.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Nad Crantail",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat after obtaining a false beard",
+   "note": "Nad Crantail returns to fight after Cú Chulainn answers his mockery with a false beard.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Nad Crantail",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Nad Crantail",
+   "note": "Cú Chulainn kills the returning champion.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Etarcomol",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Etarcomol's provocation",
+   "note": "Etarcomol provokes him despite Cú Chulainn's efforts to avoid combat.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Etarcomol",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Etarcomol",
+   "note": "Cú Chulainn kills Fergus's young companion after the provocation.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Conall Cernach",
+   "other_aliases": [
+    "Conall"
+   ],
+   "kind": "contest",
+   "myth": "Contest for the champion's portion",
+   "note": "Conall competes with Cú Chulainn and Lóegaire for heroic precedence.",
+   "source": "Fled Bricrenn",
+   "date": "eighth–ninth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Conall Cernach",
+   "other_aliases": [
+    "Conall"
+   ],
+   "kind": "other",
+   "myth": "Vengeance after Cú Chulainn's death",
+   "note": "Conall pursues and kills Cú Chulainn's killers after the hero's death.",
+   "source": "Aided Con Culainn",
+   "date": "late tenth–early eleventh",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lóegaire Búadach",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for the champion's portion",
+   "note": "Lóegaire rivals Cú Chulainn for the champion's portion.",
+   "source": "Fled Bricrenn",
+   "date": "eighth–ninth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Bricriu",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Bricriu's champion contest",
+   "note": "Bricriu provokes discord and contests intended to determine Cú Chulainn's heroic precedence.",
+   "source": "Fled Bricrenn",
+   "date": "eighth–ninth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [
+    "Cú Roí"
+   ],
+   "kind": "judged_by",
+   "myth": "The beheading test",
+   "note": "Cú Roí tests the champions and declares Cú Chulainn supreme after he submits his neck.",
+   "source": "Fled Bricrenn",
+   "date": "eighth–ninth-century core",
+   "tier": "attested"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [
+    "Cú Roí"
+   ],
+   "kind": "contest",
+   "myth": "Competition for captives and treasure",
+   "note": "Cú Chulainn and Cú Roí compete over captives or treasure, including Bláthnat.",
+   "source": "Aided Con Roí",
+   "date": "medieval composite",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [
+    "Cú Roí"
+   ],
+   "kind": "fought",
+   "myth": "Cú Roí defeats Cú Chulainn",
+   "note": "Cú Roí defeats or humiliates Cú Chulainn in divergent versions.",
+   "source": "Cú Roí narratives",
+   "date": "medieval composite",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [
+    "Cú Roí"
+   ],
+   "kind": "killed",
+   "myth": "Death of Cú Roí",
+   "note": "Cú Chulainn's party kills Cú Roí after Bláthnat betrays and signals against him.",
+   "source": "Aided Con Roí",
+   "date": "medieval tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bláthnat",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Bláthnat signals Cú Roí's vulnerability",
+   "note": "Bláthnat assists Cú Chulainn's attack by betraying Cú Roí and giving a signal.",
+   "source": "Cú Roí death tradition",
+   "date": "medieval–early modern",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fand",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Otherworld affair with Fand",
+   "note": "Cú Chulainn and Fand become lovers before ultimately renouncing their union.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lí Ban",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recruitment to Labraid's cause",
+   "note": "Lí Ban acts as envoy and mediator, recruiting him for Otherworld warfare.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Labraid Luathlám ar Claideb",
+   "other_aliases": [
+    "Labraid"
+   ],
+   "kind": "served",
+   "myth": "Otherworld campaign for Labraid",
+   "note": "Cú Chulainn gives Labraid military assistance against his enemies.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manannán mac Lir",
+   "other_aliases": [
+    "Manannán"
+   ],
+   "kind": "other",
+   "myth": "Manannán separates Fand and Cú Chulainn",
+   "note": "Manannán shakes his cloak between the lovers so they can never meet again.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Senach Síaborthe",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Otherworld service to Labraid",
+   "note": "Cú Chulainn slays Labraid's Otherworld enemy during the campaign.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Donn Cúailnge",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Defence of the Cooley herd",
+   "note": "Cú Chulainn defends the territory and herd invaded because of the supernatural bull.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "other": "Cailitín",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Combat with Cailitín and his sons",
+   "note": "Cú Chulainn kills Cailitín and his sons during or around the Táin tradition.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cailitín's children",
+   "other_aliases": [
+    "the surviving children of Cailitín"
+   ],
+   "kind": "killed_by",
+   "myth": "Engineering Cú Chulainn's death",
+   "note": "Cailitín's magically trained surviving children help engineer the fatal coalition and circumstances.",
+   "source": "Aided Con Culainn",
+   "date": "late tenth–early eleventh",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lugaid mac Con Roí",
+   "other_aliases": [
+    "Lugaid"
+   ],
+   "kind": "killed_by",
+   "myth": "Standing-stone death",
+   "note": "Lugaid mortally wounds and decapitates Cú Chulainn while avenging Cú Roí.",
+   "source": "Aided Con Culainn",
+   "date": "late tenth–early eleventh",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erc mac Cairpri",
+   "other_aliases": [
+    "Erc"
+   ],
+   "kind": "fought",
+   "myth": "Final coalition against Cú Chulainn",
+   "note": "Erc participates in the enemy coalition that fights and kills Cú Chulainn.",
+   "source": "Aided Con Culainn",
+   "date": "late tenth–early eleventh",
+   "tier": "canonical"
+  },
+  {
+   "other": "Liath Macha",
+   "other_aliases": [
+    "Grey of Macha"
+   ],
+   "kind": "served_by",
+   "myth": "Chariot service and final battle",
+   "note": "The exceptional chariot-horse carries, mourns, and defends Cú Chulainn.",
+   "source": "Táin; Aided Con Culainn",
+   "date": "medieval witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Liath Macha",
+   "other_aliases": [
+    "Grey of Macha"
+   ],
+   "kind": "shared_myth",
+   "myth": "Death of the Grey of Macha",
+   "note": "The horse is killed by an enemy spear during Cú Chulainn's final battle.",
+   "source": "Aided Con Culainn",
+   "date": "late tenth–early eleventh",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dub Sainglend",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Chariot battles",
+   "note": "Dub Sainglend is Cú Chulainn's other principal chariot-horse.",
+   "source": "Táin and death material",
+   "date": "medieval witnesses",
+   "tier": "canonical"
+  }
+ ]
+}

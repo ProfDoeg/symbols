@@ -1,0 +1,749 @@
+{
+ "subject": "diomedes",
+ "relations": [
+  {
+   "other": "Tydeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tydeus is Diomedes’ father and the heroic standard used to judge him.",
+   "source": "Homer, Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deipyle",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogy names Deipyle, daughter of Adrastus, as Diomedes’ mother.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oeneus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Oeneus of Calydon is Diomedes’ paternal grandfather.",
+   "source": "Homer, Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oeneus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Restoration of Oeneus",
+   "note": "Diomedes and Alcmaeon kill most usurpers and restore the elderly Oeneus.",
+   "source": "Apollodorus, Bibliotheca 1.8.5–6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adrastus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Adrastus is Diomedes’ maternal grandfather in Theban-cycle genealogy.",
+   "source": "Theban-cycle tradition",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegialeia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aegialeia is Diomedes’ wife, though later sources vary her parentage.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegialeia",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hostile homecoming",
+   "note": "Later tradition says Aegialeia rejects Diomedes or plots his death.",
+   "source": "Scholia and mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euippe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage in Daunia",
+   "note": "In western tradition Diomedes marries Euippe, daughter of Daunus.",
+   "source": "Western mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "gift",
+   "myth": "Diomedes’ aristeia",
+   "note": "Athena grants Diomedes strength, radiance, divine sight, and permission to wound Aphrodite.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "rescued_by",
+   "myth": "Diomedes’ aristeia",
+   "note": "Athena heals Diomedes after Pandarus wounds him.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "allied",
+   "myth": "Wounding of Ares",
+   "note": "Athena conceals herself, deflects Ares’ spear, and drives Diomedes’ attack.",
+   "source": "Homer, Iliad 5.846–867",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "allied",
+   "myth": "The night raid",
+   "note": "Athena sends an omen and guides Diomedes and Odysseus during their raid.",
+   "source": "Homer, Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "rescued_by",
+   "myth": "Return to Argos",
+   "note": "Athena guides Diomedes safely home from Troy in the Homeric return.",
+   "source": "Homer, Odyssey 3",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Oxyderkes"
+   ],
+   "kind": "transformed_by",
+   "myth": "Immortalization of Diomedes",
+   "note": "Athena makes Diomedes an immortal god.",
+   "source": "Pindar, Nemean 10.7",
+   "date": "c. 470–450 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "fought",
+   "myth": "Rescue of Aeneas",
+   "note": "Diomedes wounds Aphrodite’s hand while she carries Aeneas from battle.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Aphrodite’s revenge",
+   "note": "Aphrodite avenges her wound by corrupting Aegialeia against Diomedes.",
+   "source": "Scholia and mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Diomedean birds",
+   "note": "Aphrodite punishes Diomedes indirectly by transforming his companions into birds.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wounding of Ares",
+   "note": "Diomedes wounds Ares with Athena’s concealment, protection, and decisive assistance.",
+   "source": "Homer, Iliad 5.846–867",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rescue of Aeneas",
+   "note": "Diomedes advances three times against Apollo before the god repels and warns him.",
+   "source": "Homer, Iliad 5.432–444",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Complaints on Olympus",
+   "note": "Aphrodite and Ares complain to Zeus after Diomedes wounds them.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Armor exchange",
+   "note": "Zeus removes Glaucus’ judgment during his unequal exchange with Diomedes.",
+   "source": "Homer, Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aphrodite’s return to Olympus",
+   "note": "Dione identifies Diomedes as Aphrodite’s attacker and predicts danger to him.",
+   "source": "Homer, Iliad 5.370–415",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Diomedes’ aristeia",
+   "note": "Hera supports the Achaean side during Diomedes’ greatest battlefield successes.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle with Phegeus and Idaeus",
+   "note": "Hephaestus saves Idaeus after Diomedes kills Idaeus’ brother Phegeus.",
+   "source": "Homer, Iliad 5.9–24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenelus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan War",
+   "note": "Sthenelus serves as Diomedes’ closest battlefield companion and charioteer.",
+   "source": "Homer, Iliad 2–9",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenelus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Campaign of the Epigoni",
+   "note": "Diomedes and Sthenelus participate together among the victorious Epigoni.",
+   "source": "Epigoni tradition",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryalus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean muster",
+   "note": "Euryalus co-commands the Argive contingent with Diomedes and Sthenelus.",
+   "source": "Homer, Iliad 2.565–568",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "The night raid",
+   "note": "Diomedes chooses Odysseus as partner; together they capture Dolon and raid Rhesus’ camp.",
+   "source": "Homer, Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Death of Palamedes",
+   "note": "Diomedes and Odysseus cause Palamedes to drown while fishing.",
+   "source": "Cypria fragment",
+   "date": "7th–6th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Stoning of Palamedes",
+   "note": "They lure Palamedes into a well and stone him to death.",
+   "source": "Dictys 2.15",
+   "date": "4th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "theft",
+   "myth": "Theft of the Palladium",
+   "note": "Diomedes and Odysseus jointly remove the Palladium from Troy.",
+   "source": "Little Iliad summary",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "fought",
+   "myth": "Diomedean compulsion",
+   "note": "After Odysseus allegedly attempts murder, Diomedes forces him forward with his sword.",
+   "source": "Scholia and paroemiographers",
+   "date": "ancient, preserved late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Retrieval of Philoctetes",
+   "note": "One post-Homeric version pairs Diomedes with Odysseus to retrieve Philoctetes.",
+   "source": "Apollodorus and Hyginus",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Retrieval of Neoptolemus",
+   "note": "Diomedes accompanies Odysseus to bring Neoptolemus from Scyros.",
+   "source": "Quintus Smyrnaeus, Posthomerica",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Funeral games for Patroclus",
+   "note": "Achilles stops Diomedes’ armed contest with Ajax and awards Diomedes the sword.",
+   "source": "Homer, Iliad 23",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Telamon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Funeral games for Patroclus",
+   "note": "Diomedes fights Ajax in armed competition until spectators fear for Ajax’s life.",
+   "source": "Homer, Iliad 23",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Alcmaeon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign of the Epigoni",
+   "note": "Diomedes campaigns beside Alcmaeon, commander of the victorious Epigoni.",
+   "source": "Diodorus 4.66",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcmaeon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration of Oeneus",
+   "note": "Diomedes and Alcmaeon jointly attack the usurpers who expelled Oeneus.",
+   "source": "Apollodorus, Bibliotheca 1.8.5–6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegialeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Campaign of the Epigoni",
+   "note": "Aegialeus campaigns beside Diomedes and dies during the successful expedition.",
+   "source": "Epic-cycle tradition",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Thersander",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign of the Epigoni",
+   "note": "Thersander and Diomedes are fellow members of the Epigoni.",
+   "source": "Pausanias and Diodorus",
+   "date": "1st c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Promachus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign of the Epigoni",
+   "note": "Promachus and Diomedes are fellow members of the Epigoni.",
+   "source": "Pausanias and Diodorus",
+   "date": "1st c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign of the Epigoni",
+   "note": "Polydorus and Diomedes are fellow members of the Epigoni.",
+   "source": "Pausanias and Diodorus",
+   "date": "1st c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphilochus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign of the Epigoni",
+   "note": "Amphilochus and Diomedes are fellow members of the Epigoni.",
+   "source": "Pausanias and Diodorus",
+   "date": "1st c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philoctetes",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Retrieval from Lemnos",
+   "note": "One version makes Diomedes and Odysseus retrieve Philoctetes for the Trojan campaign.",
+   "source": "Apollodorus and Hyginus",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Retrieval from Scyros",
+   "note": "Diomedes helps Odysseus bring Neoptolemus from Scyros to Troy.",
+   "source": "Quintus Smyrnaeus, Posthomerica",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Palamedes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Drowning of Palamedes",
+   "note": "Diomedes and Odysseus cause Palamedes to drown while fishing.",
+   "source": "Cypria fragment",
+   "date": "7th–6th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Palamedes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Stoning of Palamedes",
+   "note": "Diomedes and Odysseus lure Palamedes into a well and stone him.",
+   "source": "Dictys 2.15",
+   "date": "4th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oeax",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Oeax’s revenge",
+   "note": "Oeax falsely convinces Aegialeia that Diomedes returns with a preferred Trojan woman.",
+   "source": "Dictys 6.2",
+   "date": "4th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pandarus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Diomedes’ aristeia",
+   "note": "Pandarus wounds Diomedes with an arrow before their fatal encounter.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pandarus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Diomedes’ aristeia",
+   "note": "Diomedes kills Pandarus with a spear through the face.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel with Pandarus and Aeneas",
+   "note": "Diomedes shatters Aeneas’ hip and nearly kills him before divine rescue.",
+   "source": "Homer, Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Refusal of renewed war",
+   "note": "Diomedes refuses to fight Aeneas again and praises Trojan valor.",
+   "source": "Virgil, Aeneid 11",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transfer of the Palladium",
+   "note": "At Athena’s command Diomedes hands the Palladium to Aeneas in Italy.",
+   "source": "Silius Italicus, Punica 13",
+   "date": "late 1st c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recognition of hereditary guest-friendship",
+   "note": "Diomedes and Glaucus refuse combat after recognizing inherited guest-friendship.",
+   "source": "Homer, Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange of armor",
+   "note": "Diomedes exchanges bronze armor for Glaucus’ far more valuable gold armor.",
+   "source": "Homer, Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle beneath Zeus’ thunderbolt",
+   "note": "Diomedes confronts Hector’s forces but withdraws when Zeus sends a thunderbolt.",
+   "source": "Homer, Iliad 8",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "fought",
+   "myth": "Wounding of Diomedes",
+   "note": "Paris shoots Diomedes in the foot; Diomedes mocks him before withdrawing.",
+   "source": "Homer, Iliad 11.369–400",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dolon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The night raid",
+   "note": "Diomedes decapitates Dolon after interrogating him and hearing his ransom plea.",
+   "source": "Homer, Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The night raid",
+   "note": "Diomedes kills Rhesus while he sleeps in the Thracian camp.",
+   "source": "Homer, Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The night raid",
+   "note": "Diomedes and Odysseus seize Rhesus’ horses after killing him.",
+   "source": "Homer, Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theano",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Theft of the Palladium",
+   "note": "One variant says Theano hands the Palladium to Diomedes and Odysseus.",
+   "source": "Homeric scholia",
+   "date": "preserved late",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demophon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Night landing in Attica",
+   "note": "Demophon attacks Diomedes’ returning party during an unrecognized nighttime landing.",
+   "source": "Pausanias 1.28.8–9",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demophon",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure of the Palladium",
+   "note": "Demophon takes the Palladium from Diomedes’ party during the Attic fighting.",
+   "source": "Pausanias 1.28.8–9",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Daunus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War in Daunia",
+   "note": "Diomedes assists Daunus in war and receives land or a city.",
+   "source": "Western mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Daunus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Daunian settlement",
+   "note": "One western variant says Daunus defrauds Diomedes after receiving his aid.",
+   "source": "Scholia and western tradition",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Daunus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death in Daunia",
+   "note": "A regional tradition makes Daunus the killer of Diomedes.",
+   "source": "Mimnermus testimony",
+   "date": "late 7th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acmon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Diomedean birds",
+   "note": "Acmon accompanies Diomedes in exile before Aphrodite transforms him into a bird.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lycus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Diomedean birds",
+   "note": "Lycus is one of Diomedes’ companions transformed into a bird.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Abas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Diomedean birds",
+   "note": "Abas is one of Diomedes’ companions transformed into a bird.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nycteus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Diomedean birds",
+   "note": "Nycteus is one of Diomedes’ companions transformed into a bird.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhexenor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Diomedean birds",
+   "note": "Rhexenor is one of Diomedes’ companions transformed into a bird.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "8 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

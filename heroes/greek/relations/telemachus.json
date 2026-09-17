@@ -1,0 +1,595 @@
+{
+ "subject": "telemachus",
+ "relations": [
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Odysseus is Telemachus’ father.",
+   "source": "Odyssey",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Recognition and slaughter of the suitors",
+   "note": "They reunite, plan the palace attack, and fight together.",
+   "source": "Odyssey 16, 21–24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penelope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Penelope is Telemachus’ mother.",
+   "source": "Odyssey",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penelope",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ithacan household crisis",
+   "note": "He disputes her authority, conceals Odysseus’ return, and orders her upstairs.",
+   "source": "Odyssey 1, 15–18, 21, 23",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "taught_by",
+   "myth": "Telemachy",
+   "note": "Disguised as Mentes and Mentor, she guides and emboldens his journey.",
+   "source": "Odyssey 1–3, 15–16",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Slaughter and final battle",
+   "note": "She assists Telemachus’ faction in battle and imposes peace.",
+   "source": "Odyssey 22, 24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Final peace on Ithaca",
+   "note": "Zeus authorizes Athena’s plan, sends omens, and sanctions peace affecting Telemachus.",
+   "source": "Odyssey 1–2, 20, 24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sacrifice at Pylos",
+   "note": "Telemachus attends the Pylians’ sacrifice to Poseidon without meeting him.",
+   "source": "Odyssey 3",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Hermes is Telemachus’ remote ancestor through Autolycus and Anticleia.",
+   "source": "Odyssean genealogy",
+   "date": "Archaic Greek tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Visit to Pylos",
+   "note": "Nestor hosts and counsels Telemachus, then sends him onward to Sparta.",
+   "source": "Odyssey 3",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polycaste",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bathing at Pylos",
+   "note": "Polycaste bathes and anoints Telemachus during his stay with Nestor.",
+   "source": "Odyssey 3.464–69",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polycaste",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Hesiodic dynastic continuation",
+   "note": "A variant makes Polycaste Telemachus’ partner and mother of his son.",
+   "source": "Catalogue of Women fragment 221",
+   "date": "probably sixth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persepolis",
+   "other_aliases": [
+    "Perseptolis"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Telemachus fathers Persepolis or Perseptolis with Polycaste.",
+   "source": "Catalogue of Women fragment 221",
+   "date": "probably sixth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peisistratus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Journey to Sparta",
+   "note": "Peisistratus escorts Telemachus from Pylos to Sparta and back.",
+   "source": "Odyssey 3–4, 15",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Visit to Sparta",
+   "note": "Menelaus hosts him and recounts Troy and Proteus’ news of Odysseus.",
+   "source": "Odyssey 4, 15",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Departure from Sparta",
+   "note": "Menelaus gives Telemachus guest-gifts before his departure.",
+   "source": "Odyssey 15",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Visit to Sparta",
+   "note": "Helen recognizes him and recounts Odysseus’ disguise inside Troy.",
+   "source": "Odyssey 4",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Departure from Sparta",
+   "note": "Helen gives Telemachus a robe intended for his future bride.",
+   "source": "Odyssey 15",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Menelaus’ report about Odysseus",
+   "note": "Proteus indirectly supplies Telemachus with news through Menelaus’ embedded narrative.",
+   "source": "Odyssey 4",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orestes revenge paradigm",
+   "note": "Orestes never meets him but is repeatedly presented as an exemplary avenging son.",
+   "source": "Odyssey 1, 3–4",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orestes revenge paradigm",
+   "note": "Agamemnon’s murder provides a warning and dynastic model for Telemachus.",
+   "source": "Odyssey 1, 3–4, 11, 24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eumaeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Return and slaughter of the suitors",
+   "note": "The loyal swineherd shelters Telemachus and fights beside him.",
+   "source": "Odyssey 15–16, 20–22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Philoetius",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Slaughter of the suitors",
+   "note": "The loyal cattle-herd joins Telemachus’ faction in battle and punishment.",
+   "source": "Odyssey 20–22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurycleia",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Telemachus’ secret voyage and return",
+   "note": "His nurse provisions him, keeps his departure secret, and receives his return.",
+   "source": "Odyssey 2, 4, 19, 22–23",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theoclymenus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return voyage to Ithaca",
+   "note": "Telemachus accepts the fugitive seer aboard his ship and brings him to Ithaca.",
+   "source": "Odyssey 15",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theoclymenus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Omens for Odysseus’ house",
+   "note": "The seer interprets favorable omens concerning Telemachus’ family.",
+   "source": "Odyssey 15, 17, 20",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phemius",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Aftermath of the suitors’ slaughter",
+   "note": "Telemachus intercedes and saves the unwilling bard from execution.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medon",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Aftermath of the suitors’ slaughter",
+   "note": "Telemachus testifies that Medon acted unwillingly and saves his life.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Antinous",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Suitors’ conspiracy",
+   "note": "Antinous insults Telemachus and organizes an ambush intended to kill him.",
+   "source": "Odyssey 1–4, 16–22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurymachus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Suitors’ conspiracy",
+   "note": "Eurymachus mocks Telemachus, challenges his authority, and conspires against him.",
+   "source": "Odyssey 1–2, 4, 16–22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphinomus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaughter of the suitors",
+   "note": "Telemachus kills Amphinomus with a spear as he rushes Odysseus.",
+   "source": "Odyssey 22.89–94",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryades",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaughter of the suitors",
+   "note": "Telemachus kills the suitor Euryades during the palace battle.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphimedon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Slaughter of the suitors",
+   "note": "Amphimedon wounds Telemachus in the wrist during the battle.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphimedon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaughter of the suitors",
+   "note": "Telemachus subsequently kills Amphimedon.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ctesippus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ctesippus’ insult to Odysseus",
+   "note": "Telemachus rebukes Ctesippus for throwing an ox hoof at disguised Odysseus.",
+   "source": "Odyssey 20",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leiodes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest of Odysseus’ bow",
+   "note": "Leiodes and Telemachus both attempt the bow, without a personal confrontation.",
+   "source": "Odyssey 21",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Melanthius",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Slaughter of the suitors",
+   "note": "Melanthius arms the suitors and is captured by Telemachus’ loyal faction.",
+   "source": "Odyssey 17, 20, 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Melanthius",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Punishment of Melanthius",
+   "note": "Telemachus participates in or supervises Melanthius’ mutilation and death.",
+   "source": "Odyssey 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Melantho",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Execution of the enslaved women",
+   "note": "Melantho is included among the household women Telemachus condemns and hangs.",
+   "source": "Odyssey 18–19, 22",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laertes",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Laertes is Telemachus’ paternal grandfather.",
+   "source": "Odyssey",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laertes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Final battle on Ithaca",
+   "note": "Telemachus fights beside Laertes and Odysseus against the suitors’ relatives.",
+   "source": "Odyssey 24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eupeithes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Final battle on Ithaca",
+   "note": "Telemachus faces Eupeithes’ vengeance force before Laertes kills its leader.",
+   "source": "Odyssey 24",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Palamedes",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Exposure of Odysseus’ feigned madness",
+   "note": "Palamedes endangers infant Telemachus with a plough or sword to test Odysseus.",
+   "source": "Hyginus Fabulae 95",
+   "date": "first–second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Palamedes",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Sword threat during Odysseus’ recruitment",
+   "note": "In a variant, Palamedes threatens infant Telemachus with a sword.",
+   "source": "Pseudo-Apollodorus Epitome 3.7",
+   "date": "first–second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Post-Odyssean cyclic marriages",
+   "note": "After Odysseus’ death, Telemachus marries Circe.",
+   "source": "Nostoi and Telegony testimonia",
+   "date": "seventh–sixth c. BCE traditions",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Immortalization on Circe’s island",
+   "note": "Circe makes Telemachus immortal after Telegonus brings him to her island.",
+   "source": "Telegony summary",
+   "date": "sixth c. BCE tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Cassiphone family catastrophe",
+   "note": "Telemachus kills Circe in Tzetzes’ post-Odyssean continuation.",
+   "source": "Tzetzes on Lycophron",
+   "date": "twelfth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Telegonus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Telegonus is Telemachus’ paternal half-brother, born to Odysseus and Circe.",
+   "source": "Telegony summary",
+   "date": "sixth c. BCE tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telegonus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Journey to Circe after Odysseus’ death",
+   "note": "Telegonus transports Telemachus, Penelope, and Odysseus’ body to Circe.",
+   "source": "Telegony summary",
+   "date": "sixth c. BCE tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nausicaa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Dictys’ dynastic continuation",
+   "note": "Dictys makes Nausicaa the wife of Telemachus.",
+   "source": "Dictys Cretensis 6.6",
+   "date": "third–fourth c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptoliporthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Telemachus fathers Ptoliporthus with Nausicaa.",
+   "source": "Dictys Cretensis 6.6",
+   "date": "third–fourth c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassiphone",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cassiphone is Telemachus’ paternal half-sister, daughter of Odysseus and Circe.",
+   "source": "Tzetzes on Lycophron",
+   "date": "twelfth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cassiphone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Cassiphone family catastrophe",
+   "note": "The resurrected Odysseus gives Cassiphone to Telemachus as his wife.",
+   "source": "Tzetzes on Lycophron",
+   "date": "twelfth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cassiphone",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Cassiphone family catastrophe",
+   "note": "Cassiphone kills Telemachus after he kills her mother Circe.",
+   "source": "Tzetzes on Lycophron",
+   "date": "twelfth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Menelaus’ report about Odysseus",
+   "note": "Telemachus only hears that Calypso detains Odysseus; they never meet in Homer.",
+   "source": "Odyssey 4",
+   "date": "late eighth/early seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fénelon’s invented travels",
+   "note": "Fénelon invents extensive encounters between Telemachus and Calypso.",
+   "source": "Fénelon, Les Aventures de Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Reform of Salentum",
+   "note": "Telemachus and Mentor help reform Idomeneus’ government in Fénelon’s narrative.",
+   "source": "Fénelon, Les Aventures de Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Eucharis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Telemachus and Eucharis",
+   "note": "Telemachus loves and ultimately renounces the nymph Eucharis in Fénelon’s tradition.",
+   "source": "Fénelon, Les Aventures de Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  }
+ ]
+}

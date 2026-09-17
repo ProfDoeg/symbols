@@ -1,0 +1,760 @@
+{
+ "subject": "garshasp",
+ "relations": [
+  {
+   "other": "Θrita",
+   "other_aliases": [
+    "Eṯreṭ"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Θrita’s Haoma sacrifice produces Kərəsāspa and Uruuāxšaiia.",
+   "source": "Yasna 9.10–11",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eṯreṭ",
+   "other_aliases": [
+    "Θrita"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asadi places Eṯreṭ as Garšāsp’s father in a different genealogy.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Uruuāxšaiia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Uruuāxšaiia is Kərəsāspa’s brother and the victim he avenges.",
+   "source": "Yasna 9.10",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Haoma",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Θrita presses Haoma",
+   "note": "Haoma rewards Θrita’s sacrifice with Kərəsāspa and his brother.",
+   "source": "Yasna 9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yima",
+   "other_aliases": [
+    "Jamšid"
+   ],
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Kərəsāspa receives the third portion of Yima’s departed royal Glory.",
+   "source": "Yašt 19.34–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jamšid",
+   "other_aliases": [
+    "Yima"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "New Persian traditions make Garšāsp a descendant or seed of Jamšid.",
+   "source": "Šāh-nāma; Garšāsp-nāma",
+   "date": "eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kavi Xvarənah",
+   "other_aliases": [
+    "the royal Glory"
+   ],
+   "kind": "gift",
+   "myth": "Third departure of the Glory",
+   "note": "The royal Glory cleaves to Kərəsāspa and empowers his heroic strength.",
+   "source": "Yašt 19.38–44",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first share of Glory and Kərəsāspa the third.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Θraētaona",
+   "other_aliases": [
+    "Ferēdūn",
+    "Frēdōn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Θraētaona receives the second share of Glory and Kərəsāspa the third.",
+   "source": "Yašt 19.36–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ferēdūn",
+   "other_aliases": [
+    "Θraētaona",
+    "Frēdōn"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Islamic-era genealogies derive Garšāsp from Ferēdūn’s son Tūz or Tūr.",
+   "source": "Ṭabarī; Bundahišn 35",
+   "date": "early tenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ferēdūn",
+   "other_aliases": [
+    "Θraētaona",
+    "Frēdōn"
+   ],
+   "kind": "served",
+   "myth": "Garšāsp submits after Żaḥḥāk’s fall",
+   "note": "Garšāsp pledges allegiance to Ferēdūn and delivers his captives.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arədvī Sūrā Anāhitā",
+   "other_aliases": [
+    "Anāhitā"
+   ],
+   "kind": "gift",
+   "myth": "Petition for victory over Gaṇdərəβa",
+   "note": "Anāhitā accepts Kərəsāspa’s sacrifice and grants his requested victory.",
+   "source": "Yašt 5.37–39",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vayu",
+   "other_aliases": [
+    "Wāy",
+    "Wind"
+   ],
+   "kind": "gift",
+   "myth": "Petition for martial victories",
+   "note": "Vayu receives Kərəsāspa’s sacrifice and grants his requested victories.",
+   "source": "Yašt 15.27–28",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Srvara",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Horned serpent and overturned meal",
+   "note": "Kərəsāspa cooks unknowingly upon the serpent, then kills it after it rises.",
+   "source": "Yasna 9.11; Yašt 19.40",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaṇdərəβa",
+   "other_aliases": [
+    "Gandarw"
+   ],
+   "kind": "killed",
+   "myth": "Combat in the Vourukaša Sea",
+   "note": "Kərəsāspa defeats the golden-heeled sea monster after seeking divine aid.",
+   "source": "Yašts 5.38; 15.28; 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gandarw",
+   "other_aliases": [
+    "Gaṇdərəβa"
+   ],
+   "kind": "fought",
+   "myth": "Ocean struggle with Gandarw",
+   "note": "Gandarw drags Karsāsp into the sea before Karsāsp binds and overcomes him.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hitāspa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance for Uruuāxšaiia",
+   "note": "Kərəsāspa kills his brother’s murderer and drags him behind a chariot.",
+   "source": "Yašts 15.28; 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pathana",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Slaughter of Pathana’s brood",
+   "note": "Kərəsāspa kills all nine members of Pathana’s brood.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nivika",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Slaughter of Nivika’s brood",
+   "note": "Kərəsāspa kills the brood of Nivika.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dāštayāna",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Slaughter of Dāštayāna’s brood",
+   "note": "Kərəsāspa kills the brood of Dāštayāna.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Varəšava son of Dāna",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Catalogue of Kərəsāspa’s enemies",
+   "note": "Kərəsāspa kills Varəšava, son of Dāna.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pitaona",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Pitaona and the pairikās",
+   "note": "Kərəsāspa kills Pitaona while he is attended by many pairikās.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "pairikās",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pitaona and the pairikās",
+   "note": "Many pairikās accompany Pitaona when Kərəsāspa attacks him.",
+   "source": "Yašt 19.41",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arəzošamana",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Catalogue of Kərəsāspa’s enemies",
+   "note": "Kərəsāspa kills the strong heroic adversary Arəzošamana.",
+   "source": "Yašt 19.42",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Snāuuiδka",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Snāuuiδka’s cosmic boast",
+   "note": "Kərəsāspa kills the young rebel before he can enslave the two Spirits.",
+   "source": "Yašt 19.43–44",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Spəṇta Mainiiu",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Snāuuiδka’s cosmic boast",
+   "note": "Kərəsāspa prevents Snāuuiδka from harnessing Spəṇta Mainiiu to his chariot.",
+   "source": "Yašt 19.43–44",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aŋra Mainiiu",
+   "other_aliases": [
+    "Ahrimen"
+   ],
+   "kind": "rescued",
+   "myth": "Snāuuiδka’s cosmic boast",
+   "note": "Kərəsāspa prevents Snāuuiδka from harnessing Aŋra Mainiiu to his chariot.",
+   "source": "Yašt 19.43–44",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ahrimen",
+   "other_aliases": [
+    "Aŋra Mainiiu"
+   ],
+   "kind": "other",
+   "myth": "Dahāg tempts Sām",
+   "note": "Dahāg urges Sām to serve Ahrimen, but Sām refuses and curses him.",
+   "source": "Persian Bahman-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Xnąθaitī",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Counter-creation against Vaēkərəta",
+   "note": "The hostile pairikā is obscurely associated with Kərəsāspa.",
+   "source": "Vīdēvdād 1.9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Xnąθaitī",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Karsāsp’s interpreted idolatry",
+   "note": "Pahlavi exegesis treats Xnąθaitī as witch-desire leading Karsāsp into idolatry.",
+   "source": "Pahlavi Vīdēvdād commentary",
+   "date": "Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Āxrūrag",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ocean fight with Gandarw",
+   "note": "Āxrūrag appears as Karsāsp’s friend or helper against Gandarw.",
+   "source": "Pahlavi Rivāyat 18f.11",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kamak",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rain-blocking giant bird",
+   "note": "Karsāsp kills or neutralizes the immense bird whose wings block rain.",
+   "source": "Mēnōy ī Xrad 26",
+   "date": "ca. sixth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wind",
+   "other_aliases": [
+    "Vayu",
+    "Wāy"
+   ],
+   "kind": "fought",
+   "myth": "Demons turn Wind against Karsāsp",
+   "note": "A demonically deceived Wind attacks Karsāsp and threatens the earth.",
+   "source": "Pahlavi Rivāyat 18f.20–23",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wind",
+   "other_aliases": [
+    "Vayu",
+    "Wāy"
+   ],
+   "kind": "other",
+   "myth": "Wind resumes its cosmic duty",
+   "note": "Karsāsp persuades Wind to resume sustaining heaven and earth.",
+   "source": "Pahlavi Rivāyat 18f.20–23",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ohrmazd",
+   "other_aliases": [
+    "Ahura Mazda"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Ohrmazd judges Karsāsp and recognizes that his victories preserved creation.",
+   "source": "Dēnkard 9.15; Pahlavi Rivāyat 18f",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ohrmazd",
+   "other_aliases": [
+    "Ahura Mazda"
+   ],
+   "kind": "other",
+   "myth": "Awakening for the final combat",
+   "note": "Ohrmazd orders Karsāsp awakened to kill the escaped Dahāg.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ātar",
+   "other_aliases": [
+    "Fire"
+   ],
+   "kind": "other",
+   "myth": "Overturned cooking vessel",
+   "note": "Karsāsp injures or extinguishes sacred Fire when the serpent overturns his pot.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ātar",
+   "other_aliases": [
+    "Fire"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Fire accuses Karsāsp and initially refuses him admission to paradise.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ard Wahišt",
+   "other_aliases": [
+    "Aša Vahišta"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment for injuring Fire",
+   "note": "Fire’s guardian accuses Garšāsp but pardons him in one Persian account.",
+   "source": "Ṣad dar-e Bondaheš 20",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gōšurūn",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Gōšurūn prevents Karsāsp’s return to hell because he protected animal creation.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zarathustra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Zarathustra defends Karsāsp’s deeds and promises to care for Fire.",
+   "source": "Dēnkard 9.15; Pahlavi Rivāyat 18f",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Srōš",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Awakening for the final combat",
+   "note": "Srōš repeatedly calls Karsāsp from supernatural sleep to face Dahāg.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Srōš",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Karsāsp professes the religion",
+   "note": "Srōš brings Karsāsp toward profession of the Zoroastrian religion.",
+   "source": "Dēnkard 9.23",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nēryōsang",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Awakening for the final combat",
+   "note": "Nēryōsang accompanies Srōš when Karsāsp is awakened to fight Dahāg.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Būšāsp",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Karsāsp’s supernatural sleep",
+   "note": "The demoness Būšāsp overcomes Karsāsp with sleep after Nōhīn shoots him.",
+   "source": "Bundahišn 29",
+   "date": "ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "*Nōhīn",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attack on sleeping Karsāsp",
+   "note": "The Turk Nōhīn shoots Karsāsp while the hero sleeps.",
+   "source": "Bundahišn 29",
+   "date": "ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Dahāg",
+    "Żaḥḥāk"
+   ],
+   "kind": "killed",
+   "myth": "Dahāg escapes at the end time",
+   "note": "The awakened Karsāsp kills the escaped Dahāg with his club.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dahāg",
+   "other_aliases": [
+    "Aži Dahāka",
+    "Żaḥḥāk"
+   ],
+   "kind": "fought",
+   "myth": "Dahāg offers conversion and joint rule",
+   "note": "Karsāsp strikes Dahāg after his belated acceptance comes too late.",
+   "source": "Jāmāsp-nāmag",
+   "date": "Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dahāg",
+   "other_aliases": [
+    "Aži Dahāka",
+    "Żaḥḥāk"
+   ],
+   "kind": "other",
+   "myth": "Dahāg accepts conversion",
+   "note": "In a Persian variant, Dahāg accepts Karsāsp’s offer and evil departs.",
+   "source": "Persian Jāmāsp-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Żaḥḥāk",
+   "other_aliases": [
+    "Aži Dahāka",
+    "Dahāg"
+   ],
+   "kind": "served",
+   "myth": "Young Garšāsp serves Żaḥḥāk",
+   "note": "Żaḥḥāk challenges Garšāsp to slay a dragon and commands his Indian campaign.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sōšāns",
+   "other_aliases": [
+    "Saoshyant"
+   ],
+   "kind": "taught_by",
+   "myth": "Conversion before the Dahāg combat",
+   "note": "Sōšāns forces or persuades Sām to accept the religion before fighting Dahāg.",
+   "source": "Persian Bahman-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kay Husrōy",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Rule after Dahāg’s death",
+   "note": "Sām temporarily rules seven continents, then transfers sovereignty to Kay Husrōy.",
+   "source": "Māh ī Frawardīn Rōz ī Hordad 31",
+   "date": "Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Husrōy",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Karsāsp professes the religion",
+   "note": "Kay Husrōy passes the undead Karsāsp and witnesses his religious profession.",
+   "source": "Dēnkard 9.23",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tūs",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Karsāsp discards his club",
+   "note": "Tūs urges Karsāsp to praise the Gāthās and Righteousness.",
+   "source": "Dēnkard 9.23.6",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wēw",
+   "other_aliases": [
+    "Gēv"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sleepers and Renovation-makers",
+   "note": "Wēw and Karsāsp are jointly listed among sleepers or Renovation-makers.",
+   "source": "Pahlavi Rivāyat 54; Zādspram 35",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kūrang",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "A Sistanian variant sometimes makes Kūrang Garšāsp’s son.",
+   "source": "Tārīḵ-e Sīstān",
+   "date": "eleventh century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kūrang",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Asadi makes Kūrang an ancestor who receives Jamšid’s fugitive son.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Narēmān",
+   "other_aliases": [
+    "Narīmān"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Garšāsp adopts his nephew Narēmān, establishing the later heroic lineage.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Narīmān",
+   "other_aliases": [
+    "Narēmān"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The Sistanian genealogy makes Narīmān Garšāsp’s grandson.",
+   "source": "Tārīḵ-e Sīstān",
+   "date": "eleventh century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Narīmān",
+   "other_aliases": [
+    "Narēmān"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Mojmal genealogy makes Narīmān Garšāsp’s direct son.",
+   "source": "Mojmal al-tawāriḵ",
+   "date": "ca. 1126",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sām",
+   "other_aliases": [
+    "Sām ī Narīmān",
+    "Sāmān Karsāsp"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Middle Persian sources compound or identify Karsāsp with Sām.",
+   "source": "Bundahišn; Pahlavi Rivāyat",
+   "date": "ninth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sām",
+   "other_aliases": [
+    "Sām ī Narīmān"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "New Persian genealogies place Sām among Garšāsp’s descendants.",
+   "source": "Mojmal al-tawāriḵ",
+   "date": "ca. 1126",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zāl",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "New Persian epic places Zāl in the lineage descending from Garšāsp.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rostam",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Rostam invokes Garšāsp or Karšāsb as an ancestor in his pedigree.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bahū",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Restoration of the Indian king",
+   "note": "Garšāsp defeats the Indian usurper Bahū and restores the displaced king.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visit to Adam’s footprint",
+   "note": "Garšāsp visits the Sarandīb footprint identified as Adam’s without meeting him.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Benjamin",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mirḵᵛānd makes Garšāsp’s mother a descendant of Benjamin.",
+   "source": "Rawżat al-ṣafāʾ",
+   "date": "late fifteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jacob",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mirḵᵛānd inserts Garšāsp maternally into Jacob’s biblical lineage.",
+   "source": "Rawżat al-ṣafāʾ",
+   "date": "late fifteenth century",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "subject": "marcus_curtius",
+ "relations": [
+  {
+   "other": "Di Manes",
+   "other_aliases": [
+    "Manes",
+    "divine powers of the dead"
+   ],
+   "kind": "served",
+   "myth": "Consecration before the leap",
+   "note": "Curtius extends his hands downward and consecrates his life to them.",
+   "source": "Livy, Ab urbe condita 7.6",
+   "date": "late 1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The immortal gods",
+   "other_aliases": [
+    "di immortales",
+    "celestial gods"
+   ],
+   "kind": "other",
+   "myth": "Consecration before the leap",
+   "note": "Curtius looks toward their temples and raises his hands heavenward.",
+   "source": "Livy, Ab urbe condita 7.6",
+   "date": "late 1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Jupiter demands Rome's greatest good",
+   "note": "Jupiter requires Rome's greatest good, which Curtius supplies through self-sacrifice.",
+   "source": "Pseudo-Plutarch, Parallela minora 5",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chthonian gods",
+   "other_aliases": [
+    "gods below"
+   ],
+   "kind": "served",
+   "myth": "Curtius becomes Rome's underworld envoy",
+   "note": "Curtius offers himself as Rome's permanent herald and envoy below.",
+   "source": "Cassius Dio 7, fragment 30",
+   "date": "early 3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anchurus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Paired chasm-sacrifice narratives",
+   "note": "Pseudo-Plutarch pairs their parallel voluntary leaps, though they never meet.",
+   "source": "Pseudo-Plutarch, Parallela minora 5",
+   "date": "2nd–3rd c. CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

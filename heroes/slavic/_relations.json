@@ -1,0 +1,2988 @@
+{
+ "folder": "slavic",
+ "gods": [
+  "alyosha_popovich",
+  "dobrynya_nikitich",
+  "ilya_muromets",
+  "ivan_tsarevich",
+  "krak_and_wanda",
+  "lech_czech_and_rus",
+  "libuse",
+  "marko_kraljevic",
+  "marya_morevna",
+  "mikula_selyaninovich",
+  "sadko",
+  "svyatogor",
+  "vasilisa",
+  "volkh_vseslavyevich"
+ ],
+ "relations": [
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "allied",
+   "myth": "The three bogatyrs",
+   "note": "They appear as companions and fellow members of the later heroic trio.",
+   "source": "Oral texts and later adaptations",
+   "date": "nineteenth century onward",
+   "tier": "late_accretion",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "deceived",
+   "myth": "Alyosha’s Unsuccessful Marriage",
+   "note": "Alyosha falsely reports Dobrynya dead and attempts to marry his wife.",
+   "source": "Kirsha Danilov manuscript",
+   "date": "c. 1740–60",
+   "tier": "attested",
+   "stated_by": [
+    "alyosha_popovich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "deceived",
+   "myth": "Alyosha’s attempted marriage",
+   "note": "Alyosha falsely reports Dobrynya dead and seeks to marry Nastasia.",
+   "source": "Dobrynya and Alyosha texts",
+   "date": "nineteenth century",
+   "tier": "canonical",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "punished_by",
+   "myth": "Dobrynya returns at the wedding",
+   "note": "The disguised Dobrynya returns, exposes Alyosha, and humiliates or beats him.",
+   "source": "Hilferding II no. 149",
+   "date": "recorded 1871",
+   "tier": "regional_variant",
+   "stated_by": [
+    "alyosha_popovich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "punished_by",
+   "myth": "Dobrynya returns to the wedding",
+   "note": "After exposing Alyosha, Dobrynya beats or threatens him in some versions.",
+   "source": "Dobrynya and Alyosha texts",
+   "date": "nineteenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "dobrynya_nikitich",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dobrynya is explicitly Alyosha’s sworn brother in failed-marriage songs.",
+   "source": "Dobrynya and Alyosha",
+   "date": "c. 1740–60 onward",
+   "tier": "attested",
+   "stated_by": [
+    "alyosha_popovich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "ilya_muromets",
+   "kind": "allied",
+   "myth": "Seven Bogatyrs campaign",
+   "note": "Alyosha campaigns beside Ilya in later ensemble tales and composite songs.",
+   "source": "Tale of the Seven Russian Bogatyrs",
+   "date": "16th–17th centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "alyosha_popovich"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "ilya_muromets",
+   "kind": "allied",
+   "myth": "Collective defense and feast songs",
+   "note": "Alyosha appears as Ilya's junior comrade in collective heroic episodes.",
+   "source": "Recorded byliny",
+   "date": "19th century",
+   "tier": "attested",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "ilya_muromets",
+   "kind": "contest",
+   "myth": "Feast rivalries",
+   "note": "Some variants make Alyosha a rival or provocative junior hero.",
+   "source": "Recorded feast songs",
+   "date": "19th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "alyosha_popovich",
+   "b": "ilya_muromets",
+   "kind": "shared_myth",
+   "myth": "Later three-bogatyr tradition",
+   "note": "Alyosha appears with Ilya as the youngest member of the conventional triad.",
+   "source": "Ensemble and composite songs",
+   "date": "19th century onward",
+   "tier": "late_accretion",
+   "stated_by": [
+    "alyosha_popovich"
+   ]
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "b": "ilya_muromets",
+   "kind": "allied",
+   "myth": "Ritual brotherhood after recognition combat",
+   "note": "Their contest ends in alliance and named or cross-brotherhood.",
+   "source": "Kirsha Danilov and Rybnikov materials",
+   "date": "eighteenth–nineteenth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "b": "ilya_muromets",
+   "kind": "allied",
+   "myth": "Defense of Kyiv and the heroic outpost",
+   "note": "Dobrynya is Ilya's comrade, messenger, and fellow defender in several songs.",
+   "source": "Recorded byliny",
+   "date": "19th century",
+   "tier": "attested",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "b": "ilya_muromets",
+   "kind": "fought",
+   "myth": "Recognition combat with Ilya",
+   "note": "They initially fight after failing to recognize or acknowledge each other.",
+   "source": "Kirsha Danilov and Rybnikov materials",
+   "date": "eighteenth–nineteenth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "b": "ilya_muromets",
+   "kind": "other",
+   "myth": "Mediation between Ilya and Vladimir",
+   "note": "Dobrynya persuades the estranged Ilya to return to Vladimir’s feast.",
+   "source": "Rybnikov collection",
+   "date": "1861–1867",
+   "tier": "canonical",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "b": "mikula_selyaninovich",
+   "kind": "other",
+   "myth": "",
+   "note": "He is a possible father-in-law, inferred from Nastasia’s patronymic.",
+   "source": "Bylina patronymic and later systematization",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dobrynya_nikitich"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "mikula_selyaninovich",
+   "kind": "shared_myth",
+   "myth": "Composite Svyatogor death narrative",
+   "note": "Ilya witnesses or buries Svyatogor, then speaks with Mikula.",
+   "source": "Collected variants and composite retellings",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "mikula_selyaninovich"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "allied",
+   "myth": "Sworn fellowship with Svyatogor",
+   "note": "The heroes become sworn companions after their unequal encounter.",
+   "source": "Northern bylina recordings",
+   "date": "19th century",
+   "tier": "attested",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "allied",
+   "myth": "Sworn brotherhood in the Holy Mountains",
+   "note": "Svyatogor accepts Ilya as his younger sworn brother and traveling companion.",
+   "source": "Northern bylina field records",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "contest",
+   "myth": "Ilya meets Svyatogor",
+   "note": "Ilya tests himself against the giant and proves substantially weaker.",
+   "source": "Northern bylina recordings",
+   "date": "19th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "fought",
+   "myth": "Ilya attacks the sleeping Svyatogor",
+   "note": "Ilya strikes Svyatogor, who pockets Ilya and his horse.",
+   "source": "Rybnikov and Hilferding northern field records",
+   "date": "1861–1873",
+   "tier": "canonical",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "gift",
+   "myth": "Svyatogor's death in the coffin",
+   "note": "Dying Svyatogor transfers strength and sometimes his sword to Ilya.",
+   "source": "Northern bylina recordings",
+   "date": "19th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "gift",
+   "myth": "Transfer of strength from the destined coffin",
+   "note": "Svyatogor transmits part of his strength to Ilya by breath, foam, sweat, or vapor.",
+   "source": "Northern bylina field records",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "gift",
+   "myth": "Svyatogor gives Ilya his weapon",
+   "note": "Svyatogor enables Ilya to wield or inherit his sword or weapon.",
+   "source": "Northern bylina field records",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "canonical",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "gift",
+   "myth": "Opening death in Ilya Muromets",
+   "note": "The aged Svyatogor entrusts his sword to Ilya before becoming a mountain.",
+   "source": "Ptushko, Ilya Muromets",
+   "date": "1956",
+   "tier": "modern",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "svyatogor",
+   "kind": "served",
+   "myth": "Voyage aboard the Falcon Ship",
+   "note": "Svyatogor captains the Falcon Ship while Ilya serves as his esaul.",
+   "source": "Ilya Muromets with Svyatogor on the Falcon Ship",
+   "date": "seventeenth–eighteenth centuries",
+   "tier": "attested",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "ilya_muromets",
+   "b": "vasilisa",
+   "kind": "consort_of",
+   "myth": "Ptushko's cinematic family plot",
+   "note": "The 1956 film gives Ilya a wife named Vasilisa.",
+   "source": "Ptushko, Ilya Muromets",
+   "date": "1956",
+   "tier": "modern",
+   "stated_by": [
+    "ilya_muromets"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "allied",
+   "myth": "Three escapes from Koschei",
+   "note": "Marya joins Ivan’s repeated attempts to escape from Koschei.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested",
+   "stated_by": [
+    "marya_morevna"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ivan marries the warrior queen Marya Morevna.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested",
+   "stated_by": [
+    "ivan_tsarevich"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "consort_of",
+   "myth": "Marriage in Marya’s military camp",
+   "note": "Marya receives Ivan, falls in love with him, and marries him.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested",
+   "stated_by": [
+    "marya_morevna"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "gift",
+   "myth": "The magic handkerchief",
+   "note": "Marya steals Koschei’s handkerchief and supplies it to Ivan.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested",
+   "stated_by": [
+    "marya_morevna"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "rescued",
+   "myth": "Rescue of Marya Morevna",
+   "note": "Ivan repeatedly attempts to recover Marya after releasing her captive Koschei.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested",
+   "stated_by": [
+    "ivan_tsarevich"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "marya_morevna",
+   "kind": "rescued",
+   "myth": "Koschei’s final defeat",
+   "note": "Ivan returns with the superior horse, kills Koschei, and frees Marya.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested",
+   "stated_by": [
+    "marya_morevna"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "vasilisa",
+   "kind": "consort_of",
+   "myth": "The Frog Princess",
+   "note": "Ivan marries the enchanted frog, later standardized as Vasilisa.",
+   "source": "Afanasyev Frog Princess variants",
+   "date": "1855–63",
+   "tier": "canonical",
+   "stated_by": [
+    "ivan_tsarevich"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "vasilisa",
+   "kind": "other",
+   "myth": "Burning the frog skin",
+   "note": "Ivan prematurely burns her frog skin, causing her departure and his quest.",
+   "source": "Afanasyev Frog Princess variants",
+   "date": "1855–63",
+   "tier": "attested",
+   "stated_by": [
+    "ivan_tsarevich"
+   ]
+  },
+  {
+   "a": "ivan_tsarevich",
+   "b": "vasilisa",
+   "kind": "rescued",
+   "myth": "Quest for the vanished bride",
+   "note": "Ivan journeys to a distant realm to recover his enchanted wife.",
+   "source": "Afanasyev Frog Princess variants",
+   "date": "1855–63",
+   "tier": "attested",
+   "stated_by": [
+    "ivan_tsarevich"
+   ]
+  },
+  {
+   "a": "mikula_selyaninovich",
+   "b": "svyatogor",
+   "kind": "contest",
+   "myth": "Svyatogor and the Earth’s Weight",
+   "note": "Svyatogor cannot lift Mikula’s earth-weight bag, which Mikula handles easily.",
+   "source": "Northern oral variants",
+   "date": "nineteenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mikula_selyaninovich"
+   ]
+  },
+  {
+   "a": "mikula_selyaninovich",
+   "b": "svyatogor",
+   "kind": "contest",
+   "myth": "The bag containing the earth's weight",
+   "note": "Mikula easily carries the bag that Svyatogor cannot lift.",
+   "source": "Rybnikov Lake Onega field records",
+   "date": "1861–1867",
+   "tier": "canonical",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "mikula_selyaninovich",
+   "b": "svyatogor",
+   "kind": "taught_by",
+   "myth": "Journey to the fate-forging smith",
+   "note": "Mikula directs Svyatogor to the supernatural smith who foretells his marriage.",
+   "source": "Onega-area field records",
+   "date": "from the 1860s",
+   "tier": "regional_variant",
+   "stated_by": [
+    "svyatogor"
+   ]
+  },
+  {
+   "a": "mikula_selyaninovich",
+   "b": "volkh_vseslavyevich",
+   "kind": "allied",
+   "myth": "Vol’ga and Mikula",
+   "note": "After the unequal contest, Vol’ga and Mikula become companions or administrative partners.",
+   "source": "Rybnikov and Hilferding records",
+   "date": "1860 and 1871",
+   "tier": "regional_variant",
+   "stated_by": [
+    "volkh_vseslavyevich"
+   ]
+  },
+  {
+   "a": "mikula_selyaninovich",
+   "b": "volkh_vseslavyevich",
+   "kind": "contest",
+   "myth": "Vol’ga and Mikula",
+   "note": "Mikula’s strength, plow, and mare surpass Vol’ga and his entire force.",
+   "source": "Rybnikov and Hilferding records",
+   "date": "1860 and 1871",
+   "tier": "regional_variant",
+   "stated_by": [
+    "volkh_vseslavyevich"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "alyosha_popovich",
+   "god": "slavic/perun",
+   "kind": "other",
+   "myth": "Alyosha appeals to Perun",
+   "note": "Alyosha appeals to Perun in Radishchev’s modern literary reconstruction.",
+   "source": "Alyosha Popovich: A Bogatyr Poem",
+   "date": "1801",
+   "tier": "modern"
+  },
+  {
+   "a": "dobrynya_nikitich",
+   "god": "slavic/perun",
+   "kind": "other",
+   "myth": "Establishment of Perun’s idol at Novgorod",
+   "note": "The historical Dobrynya establishes Perun’s idol above the Volkhov.",
+   "source": "Primary Chronicle",
+   "date": "compiled c. 1110s",
+   "tier": "attested"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/koschei",
+   "kind": "killed",
+   "myth": "Koschei's external death",
+   "note": "Ivan obtains and crushes the egg containing Koschei's external life.",
+   "source": "Afanasyev Koschei the Deathless",
+   "date": "1855–63",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/baba_yaga",
+   "kind": "taught_by",
+   "myth": "Ivan's search for his wife",
+   "note": "Baba Yaga tests, feeds, directs, or equips Ivan during several quests.",
+   "source": "Afanasyev tale variants",
+   "date": "1855–63",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/koschei",
+   "kind": "rescued",
+   "myth": "Ivan releases chained Koschei",
+   "note": "Ivan gives the imprisoned Koschei water, restoring his supernatural strength.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/koschei",
+   "kind": "killed_by",
+   "myth": "Koschei kills Ivan",
+   "note": "Koschei kills, dismembers, barrels, and casts away Ivan after repeated escapes.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/koschei",
+   "kind": "killed",
+   "myth": "Ivan's final rescue of Marya",
+   "note": "Ivan kills Koschei in combat, then burns and disperses his remains.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "a": "ivan_tsarevich",
+   "god": "slavic/koschei",
+   "kind": "killed",
+   "myth": "The Firebird ballet",
+   "note": "Ivan destroys Koschei's external life with the Firebird's assistance.",
+   "source": "Fokine-Stravinsky The Firebird",
+   "date": "1910",
+   "tier": "modern"
+  },
+  {
+   "a": "libuse",
+   "god": "greek/erinyes",
+   "kind": "other",
+   "myth": "Council of Krok’s three daughters",
+   "note": "Cosmas rhetorically calls Libuše and her sisters three Eumenides.",
+   "source": "Cosmas, Chronica Boemorum I.5",
+   "date": "c. 1119–1125",
+   "tier": "attested"
+  },
+  {
+   "a": "marya_morevna",
+   "god": "slavic/koschei",
+   "kind": "fought",
+   "myth": "Koschei’s imprisonment",
+   "note": "Marya captures Koschei and keeps him suspended on twelve chains.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "a": "marya_morevna",
+   "god": "slavic/koschei",
+   "kind": "other",
+   "myth": "Koschei abducts Marya",
+   "note": "After escaping his chains, Koschei abducts and forcibly confines Marya.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "a": "marya_morevna",
+   "god": "slavic/koschei",
+   "kind": "deceived",
+   "myth": "Secret of Koschei’s horse",
+   "note": "Marya questions Koschei, learns his horse’s origin, and secretly informs Ivan.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "a": "marya_morevna",
+   "god": "slavic/koschei",
+   "kind": "consort_of",
+   "myth": "Marya becomes Koschei’s bride",
+   "note": "Valente deliberately reimagines Marya as Koschei’s bride and principal consciousness.",
+   "source": "Valente, Deathless",
+   "date": "2011",
+   "tier": "modern"
+  },
+  {
+   "a": "vasilisa",
+   "god": "slavic/baba_yaga",
+   "kind": "served",
+   "myth": "Baba Yaga’s impossible domestic tasks",
+   "note": "Vasilisa performs household labor and grain-sorting to obtain fire.",
+   "source": "Afanasyev no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "a": "vasilisa",
+   "god": "slavic/baba_yaga",
+   "kind": "gift",
+   "myth": "Gift of the skull-fire",
+   "note": "Baba Yaga gives Vasilisa a glowing skull after she passes the tests.",
+   "source": "Afanasyev no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "a": "volkh_vseslavyevich",
+   "god": "slavic/veles",
+   "kind": "child_of",
+   "myth": "Serpent conception",
+   "note": "Mythological reconstruction identifies Volkh’s serpent father as Veles in serpent form.",
+   "source": "Modern mythological reconstruction",
+   "date": "modern",
+   "tier": "syncretism"
+  }
+ ],
+ "unresolved": {
+  "Alexander the Great": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship proposes Alexander as a contributor to Marko’s conqueror and giant motifs.",
+    "source": "Modern comparativist scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Alil-Aga": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and Alil-Aga",
+    "note": "Their variable adversarial encounter includes combat, capture, or negotiation.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Amelfa Timofeyevna": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is Dobrynya’s widowed mother and wise adviser.",
+    "source": "Nineteenth-century variants and later anthologies",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "gift",
+    "myth": "Preparation for the second dragon battle",
+    "note": "She supplies Burko, the Shemakhan whip, equipment, or protective knowledge.",
+    "source": "Nineteenth-century dragon variants",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "rescued_by",
+    "myth": "Dobrynya and Marinka",
+    "note": "In some versions she helps break Marinka’s enchantment.",
+    "source": "Nineteenth-century Marinka variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Andrijaš": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The monastery inscription and early song identify Andrijaš as Marko’s brother.",
+    "source": "Marko Monastery inscription",
+    "date": "1376/77–1381",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "killed",
+    "myth": "Dispute over a captured horse",
+    "note": "Marko kills his brother during their dispute over a captured horse.",
+    "source": "Hektorović, Ribanje",
+    "date": "1555/1568",
+    "tier": "attested"
+   }
+  ],
+  "Angel of God": [
+   {
+    "stated_by": "svyatogor",
+    "kind": "contest",
+    "myth": "The angel throws down the earth-weight bag",
+    "note": "An angel supplies the bag whose weight Svyatogor cannot overcome.",
+    "source": "Nineteenth-century northern field records",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Angels": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "other",
+    "myth": "Ilya's withdrawal to the Kyiv caves",
+    "note": "Late spiritualized texts have invisible angelic power carry Ilya to the caves.",
+    "source": "Late spiritualized texts",
+    "date": "Post-medieval",
+    "tier": "syncretism"
+   }
+  ],
+  "Anna Tsarevna": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Anna is Ivan's sister and the supernatural Raven's wife.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Ivan’s sister and Raven receive Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Apraksia": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "rescued",
+    "myth": "Siberian dragon variant",
+    "note": "In a Siberian variant Dobrynya rescues Apraksia instead of Zabava.",
+    "source": "Siberian dragon variant",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Arab king’s daughter": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued_by",
+    "myth": "Escape from the Arab king",
+    "note": "The king’s daughter frees or assists Marko during his captivity.",
+    "source": "Marko and the Arab King’s Daughter",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "killed",
+    "myth": "Escape with the Arab king’s daughter",
+    "note": "Marko betrays and kills his rescuer when her embrace repels or frightens him.",
+    "source": "Marko and the Arab King’s Daughter",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Baba Goryninka": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "fought",
+    "myth": "Ilya rode with Dobrynya",
+    "note": "Dobrynya fights the female warrior before Ilya enters the episode.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "mid–later eighteenth century",
+    "tier": "attested"
+   }
+  ],
+  "Baba Yaga's magic mare/foals": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "served",
+    "myth": "Herding Baba Yaga's mares",
+    "note": "Ivan serves as herdsman to obtain the horse needed against Koschei.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "theft",
+    "myth": "Winning the superior horse",
+    "note": "Ivan wins or steals a supernatural horse capable of overtaking Koschei.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   }
+  ],
+  "Beg Kostadin": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "judged",
+    "myth": "Marko and Beg Kostadin",
+    "note": "Marko condemns Kostadin’s broken hospitality and mistreatment of the poor.",
+    "source": "Grujo Mehandžić recording",
+    "date": "1829/1845",
+    "tier": "canonical"
+   }
+  ],
+  "Black Arab": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "killed",
+    "myth": "Marko Abolishes the Wedding Tax",
+    "note": "Marko kills the oppressor who demands bridal tribute and access to brides.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Bořivoj": [
+   {
+    "stated_by": "libuse",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Later genealogy regards Bořivoj as Libuše’s remote Přemyslid descendant.",
+    "source": "Cosmas and later genealogy",
+    "date": "12th century onward",
+    "tier": "canonical"
+   }
+  ],
+  "Captain Leka": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "shared_myth",
+    "myth": "Courtship of Roksanda",
+    "note": "Leka hosts Marko and the other heroes seeking his sister’s hand.",
+    "source": "Sister of Captain Leka",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Chernava": [
+   {
+    "stated_by": "sadko",
+    "kind": "consort_of",
+    "myth": "Underwater marriage test",
+    "note": "Sadko selects and ritually marries her but does not consummate the union.",
+    "source": "Rybnikov/Hilferding corpus",
+    "date": "19th century",
+    "tier": "canonical"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "contest",
+    "myth": "Collective death of the bogatyrs",
+    "note": "Ilya joins bogatyrs whose boast against heavenly power precedes their destruction.",
+    "source": "Collective-final songs",
+    "date": "Recorded 19th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Chrudoš": [
+   {
+    "stated_by": "libuse",
+    "kind": "judged",
+    "myth": "Libuše’s inheritance judgment",
+    "note": "The forged poem and Smetana make Chrudoš a disputant judged by Libuše.",
+    "source": "Libušin soud; Smetana’s Libuše",
+    "date": "c. 1817–1881",
+    "tier": "modern"
+   }
+  ],
+  "Churilo Plenkovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "shared_myth",
+    "myth": "Collective scenes at Vladimir’s court",
+    "note": "They appear together as court bogatyrs without a stable exclusive adventure.",
+    "source": "Nineteenth-century collected corpus",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Czech": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Lech and Czech are brothers and parallel national ancestors.",
+    "source": "Greater Poland Chronicle, long prologue",
+    "date": "late thirteenth/fourteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "shared_myth",
+    "myth": "Joint migration and separation",
+    "note": "Later Czech chronicles develop Lech and Czech as related fellow migrants.",
+    "source": "Pulkava’s chronicle",
+    "date": "c. 1370s",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Rus and Czech are brothers and parallel ancestors without a distinct adventure.",
+    "source": "Greater Poland Chronicle, long prologue",
+    "date": "late thirteenth/fourteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Danilo": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "deceived",
+    "myth": "Danilo’s wife",
+    "note": "Alyosha obtains a token deceitfully and boasts of access to Danilo’s wife.",
+    "source": "Secondary bylina tradition",
+    "date": "undated oral record",
+    "tier": "regional_variant"
+   }
+  ],
+  "Despot Uglješa": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "judged",
+    "myth": "Uroš and the Mrnjavčevići",
+    "note": "Marko rejects Uglješa’s claim when judging the imperial succession.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Dmitar": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The family inscription names Dmitar among Marko’s brothers.",
+    "source": "Marko Monastery inscription",
+    "date": "1376/77–1381",
+    "tier": "attested"
+   }
+  ],
+  "Dmitry Tsarevich": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Dmitry is Ivan's elder brother in the Firebird tale.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "killed_by",
+    "myth": "Brothers betray Ivan",
+    "note": "Dmitry participates in Ivan's murder and the theft of his prizes.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Dratewka": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "allied",
+    "myth": "Dratewka replaces Skuba as dragon-slayer",
+    "note": "Later retellings attach Dratewka to Krak’s dragon cycle.",
+    "source": "Kownacka’s dragon play and later retellings",
+    "date": "1935 and later",
+    "tier": "modern"
+   }
+  ],
+  "Duke Momčilo": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "other",
+    "myth": "",
+    "note": "Epic genealogy makes Momčilo Marko’s maternal uncle and heroic predecessor.",
+    "source": "Marriage of King Vukašin",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "gift",
+    "myth": "Inheritance of Momčilo’s attributes",
+    "note": "Marko inherits or resembles the extraordinary attributes of his epic uncle.",
+    "source": "Marriage of King Vukašin",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Duke Stepanovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "judged",
+    "myth": "Investigation of Duke’s wealth",
+    "note": "Dobrynya leads a delegation investigating Duke’s boast of extraordinary wealth.",
+    "source": "Nineteenth-century collected corpus",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Dunai Ivanovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "allied",
+    "myth": "Embassy to obtain Apraksia",
+    "note": "Dobrynya accompanies Dunai and assists through music and courtly skill.",
+    "source": "Nineteenth-century collected versions",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Eagle": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "Restoration after Koschei's attack",
+    "note": "Ivan's supernatural Eagle brother-in-law helps recover and restore him.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Eagle and his wife receive the rescued Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Elena Alexandrovna": [
+   {
+    "stated_by": "volkh_vseslavyevich",
+    "kind": "consort_of",
+    "myth": "Conquest of the Indian kingdom",
+    "note": "Volkh takes the conquered king’s wife as his own after killing Saltyk.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "after 1742",
+    "tier": "attested"
+   }
+  ],
+  "Elena Petrovichna": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "consort_of",
+    "myth": "Rescue and elopement",
+    "note": "Alyosha courts or carries off Elena; some variants conclude with marriage.",
+    "source": "Onchukov and northern records",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "rescued",
+    "myth": "Rescue and elopement",
+    "note": "Alyosha defeats or shames Elena’s pursuing brothers and saves her.",
+    "source": "Onchukov and northern records",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "other",
+    "myth": "Fatal boast",
+    "note": "Alyosha boasts of sleeping with Elena, prompting her brothers to kill her.",
+    "source": "Pinega and White Sea records",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Elena the Beautiful": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "consort_of",
+    "myth": "The Firebird and the Grey Wolf",
+    "note": "Ivan and the abducted Elena fall in love and ultimately marry.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued",
+    "myth": "The Firebird and the Grey Wolf",
+    "note": "Ivan retains Elena after initially retrieving her for another king.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Emperor Dušan": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "shared_myth",
+    "myth": "Succession to Dušan’s empire",
+    "note": "Dušan is the dead sovereign whose succession and sword connect Marko to the old empire.",
+    "source": "Vuk-cycle poems",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Emperor Uroš": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "judged",
+    "myth": "Uroš and the Mrnjavčevići",
+    "note": "Marko truthfully awards the disputed imperial succession to Uroš.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "gift",
+    "myth": "Uroš blesses Marko",
+    "note": "Uroš blesses Marko with unsurpassed future fame.",
+    "source": "Uroš and the Mrnjavčevići",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Falcon": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "Restoration after Koschei's attack",
+    "note": "Ivan's supernatural Falcon brother-in-law helps locate and restore his body.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Falcon and his wife receive the rescued Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Firebird": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "theft",
+    "myth": "The Firebird and the Grey Wolf",
+    "note": "Ivan captures its feather and later takes the bird for his father.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued",
+    "myth": "The Firebird ballet",
+    "note": "Ivan captures, releases, and later summons the Firebird against Koschei.",
+    "source": "Fokine-Stravinsky The Firebird",
+    "date": "1910",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "gift",
+    "myth": "The Firebird ballet",
+    "note": "The released Firebird gives Ivan a magic feather for summoning her.",
+    "source": "Fokine-Stravinsky The Firebird",
+    "date": "1910",
+    "tier": "modern"
+   }
+  ],
+  "General Vuča": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and General Vuča",
+    "note": "Marko defeats Vuča’s forces while rescuing his captured companions.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "God": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "gift",
+    "myth": "Rain disables Tugarin’s wings",
+    "note": "After Alyosha prays, providential rain wets Tugarin’s paper wings.",
+    "source": "Tugarin byliny",
+    "date": "18th–19th centuries",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "gift",
+    "myth": "Granting Marko’s strength",
+    "note": "God grants Marko his extraordinary strength in Bulgarian and Macedonian legends.",
+    "source": "Bulgarian and Macedonian prose legends",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "punished_by",
+    "myth": "Removal of Marko’s strength",
+    "note": "God removes or tests Marko’s supernatural strength in regional legends.",
+    "source": "Bulgarian and Macedonian prose legends",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued_by",
+    "myth": "Marko preserved in the cave",
+    "note": "God preserves Marko in a cave until the people need him again.",
+    "source": "Cave legends",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "svyatogor",
+    "kind": "punished_by",
+    "myth": "The divinely supplied earth-weight bag",
+    "note": "God causes the unliftable bag to humble Svyatogor's boastful strength.",
+    "source": "Nineteenth-century northern field records",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gojko Mrnjavčević": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "judged",
+    "myth": "Uroš and the Mrnjavčevići",
+    "note": "Marko rejects his uncle Gojko’s claim to the succession.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Golden-maned horse": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "theft",
+    "myth": "The golden-maned horse quest",
+    "note": "Ivan obtains the supernatural horse after mishandling its golden bridle.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Grey Wolf": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "The Firebird and the Grey Wolf",
+    "note": "The Wolf carries, advises, revives, and helps Ivan recover his prizes.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Idolishche": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "fought",
+    "myth": "Campaign in Tsargrad",
+    "note": "Alyosha and the disguised bogatyrs fight Idolishche and his forces.",
+    "source": "Tale of the Seven Russian Bogatyrs",
+    "date": "16th–17th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Idolishche Poganoe": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "killed",
+    "myth": "Ilya and Idolishche",
+    "note": "Disguised as a pilgrim, Ilya kills the monstrous pagan invader.",
+    "source": "Idolishche texts",
+    "date": "18th–19th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ilya Pechersky": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Post-medieval devotion identifies the bylina hero with the Kyiv cave monk.",
+    "source": "Kalnofoisky, Teratourgema",
+    "date": "1638",
+    "tier": "syncretism"
+   }
+  ],
+  "Ivan Godinovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "shared_myth",
+    "myth": "Ivan Godinovich’s expedition",
+    "note": "Dobrynya sometimes accompanies or is associated with Ivan’s expedition.",
+    "source": "Wider Kievan court repertoire",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ivan Kosančić": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued",
+    "myth": "Marko and General Vuča",
+    "note": "Marko rescues Ivan Kosančić from General Vuča.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Ivaniš": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The family inscription names Ivaniš among Marko’s brothers.",
+    "source": "Marko Monastery inscription",
+    "date": "1376/77–1381",
+    "tier": "attested"
+   }
+  ],
+  "Jevrosima": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Epic tradition makes Jevrosima Marko’s mother.",
+    "source": "Marriage of King Vukašin",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "taught_by",
+    "myth": "Maternal counsel",
+    "note": "She counsels Marko toward truth, labor, restraint, and justice.",
+    "source": "Multiple Vuk-cycle poems",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Kalin Tsar": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "fought",
+    "myth": "Kalin Tsar's invasion of Kyiv",
+    "note": "Ilya rejects Kalin's recruitment and defeats his invading forces.",
+    "source": "Rybnikov, Hilferding, Kirsha Danilov",
+    "date": "18th–19th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Kasyan Mikhailovich": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "deceived",
+    "myth": "The Forty Pilgrims",
+    "note": "Alyosha plants a silver cup and falsely accuses Kasyan of theft.",
+    "source": "Forty Pilgrims",
+    "date": "c. 1740–60 onward",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "other",
+    "myth": "The Forty Pilgrims",
+    "note": "Alyosha unsuccessfully attempts to procure Kasyan for Princess Apraksia.",
+    "source": "Forty Pilgrims",
+    "date": "c. 1740–60 onward",
+    "tier": "attested"
+   }
+  ],
+  "Kazi": [
+   {
+    "stated_by": "libuse",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Kazi is Libuše’s elder sister.",
+    "source": "Cosmas, Chronica Boemorum I.4",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "libuse",
+    "kind": "shared_myth",
+    "myth": "Night council before Přemysl’s revelation",
+    "note": "Kazi joins Libuše’s council to determine the future ruler.",
+    "source": "Cosmas, Chronica Boemorum I.4–5",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   }
+  ],
+  "King Matthias": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "shared_myth",
+    "myth": "Regional chronological conflations",
+    "note": "Regional variants anachronistically place Marko alongside Matthias or other Hungarian rulers.",
+    "source": "Croatian and borderland variants",
+    "date": "early modern–19th c.",
+    "tier": "regional_variant"
+   }
+  ],
+  "King Vukašin": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Vukašin is Marko’s historical and nearly universal epic father.",
+    "source": "Marko Monastery inscription",
+    "date": "1376/77–1381",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "punished_by",
+    "myth": "Uroš and the Mrnjavčevići",
+    "note": "Vukašin attacks and curses Marko for awarding the succession to Uroš.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Krak the Younger": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Długosz names Krak the Younger as Krak’s son.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Wanda and Krak the Younger are children of Krak.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   }
+  ],
+  "Krak’s elder son": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Krak’s elder son helps defeat the monster before his brother murders him.",
+    "source": "Kadłubek, Chronica Polonorum I.5–7",
+    "date": "c. 1190–1208",
+    "tier": "attested"
+   }
+  ],
+  "Krak’s younger son": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Krak’s younger son helps kill the monster, murders his brother, and is exiled.",
+    "source": "Kadłubek, Chronica Polonorum I.5–7",
+    "date": "c. 1190–1208",
+    "tier": "attested"
+   }
+  ],
+  "Krasava": [
+   {
+    "stated_by": "libuse",
+    "kind": "other",
+    "myth": "Reconciliation of Krasava and Chrudoš",
+    "note": "In Smetana’s opera, Libuše directs Krasava’s reconciliation with Chrudoš.",
+    "source": "Wenzig and Smetana, Libuše",
+    "date": "1871–1881",
+    "tier": "modern"
+   }
+  ],
+  "Krok": [
+   {
+    "stated_by": "libuse",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Libuše is Krok’s youngest daughter and succeeds him as judge.",
+    "source": "Cosmas, Chronica Boemorum I.3–4",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   }
+  ],
+  "Lech": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Długosz names Lech as Krak’s son.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Wanda and Lech are children of Krak.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   }
+  ],
+  "Lutobor": [
+   {
+    "stated_by": "libuse",
+    "kind": "shared_myth",
+    "myth": "Libuše’s court",
+    "note": "Lutobor appears as an elder at Libuše’s court.",
+    "source": "Wenzig and Smetana, Libuše",
+    "date": "1871–1881",
+    "tier": "modern"
+   }
+  ],
+  "Marfa Vseslavyevna": [
+   {
+    "stated_by": "volkh_vseslavyevich",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is Volkh’s mother and receives his command to arm him.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "after 1742",
+    "tier": "attested"
+   }
+  ],
+  "Marinka": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "seduced_by",
+    "myth": "Dobrynya and Marinka",
+    "note": "The enchantress attempts to seduce or sexually dominate Dobrynya.",
+    "source": "Nineteenth-century Marinka variants",
+    "date": "nineteenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "transformed_by",
+    "myth": "Dobrynya and Marinka",
+    "note": "After his refusal, Marinka transforms him into an aurochs or another animal.",
+    "source": "Nineteenth-century Marinka variants",
+    "date": "nineteenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "killed",
+    "myth": "Violent conclusion of the Marinka episode",
+    "note": "In some conclusions Dobrynya kills or mutilates the defeated enchantress.",
+    "source": "Nineteenth-century Marinka variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Marya Tsarevna": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Marya is Ivan's sister and the supernatural Falcon's wife.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Ivan’s sister and Falcon receive Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Meh": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Regional Croatian tradition makes Meh a brother of Čeh and Leh.",
+    "source": "Northern Croatian traditions",
+    "date": "seventeenth–eighteenth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mikola Mozhaisky": [
+   {
+    "stated_by": "sadko",
+    "kind": "rescued_by",
+    "myth": "St Nicholas’s intervention",
+    "note": "He helps Sadko end the destructive performance and escape the underwater realm.",
+    "source": "Rybnikov/Sorokin; Hilferding",
+    "date": "19th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sadko",
+    "kind": "taught_by",
+    "myth": "Underwater marriage test",
+    "note": "He instructs Sadko to break his strings, choose Chernava, and avoid consummation.",
+    "source": "Rybnikov/Sorokin; Hilferding",
+    "date": "19th century",
+    "tier": "canonical"
+   }
+  ],
+  "Milan Toplica": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued",
+    "myth": "Marko and General Vuča",
+    "note": "Marko rescues Milan Toplica from General Vuča.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Miloš Obilić": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "allied",
+    "myth": "Courtship of Roksanda",
+    "note": "Miloš accompanies Marko and Relja as a fellow suitor.",
+    "source": "Sister of Captain Leka",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued",
+    "myth": "Marko and the Vila",
+    "note": "Marko forces the vila who shot Miloš to heal him.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Miloš of Pocerje": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued",
+    "myth": "Marko and General Vuča",
+    "note": "Marko rescues Miloš of Pocerje from General Vuča.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Mina of Kostur": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "deceived",
+    "myth": "Marko’s disguised return",
+    "note": "Marko returns in monastic disguise to recover his woman or home.",
+    "source": "Early manuscripts and Vuk version",
+    "date": "early 18th–19th c.",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "punished",
+    "myth": "Revenge against Mina",
+    "note": "Marko takes revenge after Mina abducts or holds his woman or household.",
+    "source": "Early manuscripts and Vuk version",
+    "date": "early 18th–19th c.",
+    "tier": "late_accretion"
+   }
+  ],
+  "Mother Moist Earth": [
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later interpretation calls Mikula her beloved son; early songs give no stable genealogy.",
+    "source": "Mythological interpretation",
+    "date": "nineteenth century onward",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "svyatogor",
+    "kind": "other",
+    "myth": "The earth cannot bear Svyatogor",
+    "note": "The personified earth cannot bear Svyatogor and defeats his strength through its weight.",
+    "source": "Northern bylina field records",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Musa Kesedžija": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and Musa the Outlaw",
+    "note": "Marko duels the extraordinarily strong outlaw Musa.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "killed",
+    "myth": "Marko and Musa the Outlaw",
+    "note": "Using vila advice and a concealed weapon, Marko kills Musa and mourns him.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Nastasia Mikulishna": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "fought",
+    "myth": "Marriage to the polianitsa",
+    "note": "Dobrynya attacks or tests her, but she physically overmatches him.",
+    "source": "Nineteenth-century collected variants",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The female warrior captures Dobrynya, selects him, and becomes his wife.",
+    "source": "Nineteenth-century collected variants",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Nastasya Nikulichna": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "consort_of",
+    "myth": "Alyosha’s Unsuccessful Marriage",
+    "note": "Alyosha attempts to marry Nastasya while her husband Dobrynya remains alive.",
+    "source": "Dobrynya Away",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nastas’ia Mikulichna": [
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Northern tradition names Nastas’ia as Mikula’s daughter.",
+    "source": "Northern variants and collectors’ testimony",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nezamysl": [
+   {
+    "stated_by": "libuse",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later genealogies explicitly make Nezamysl the son of Libuše and Přemysl.",
+    "source": "Later Czech chronicles",
+    "date": "medieval and later",
+    "tier": "canonical"
+   }
+  ],
+  "Nightingale the Robber": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "fought",
+    "myth": "Capture of Nightingale the Robber",
+    "note": "Ilya wounds Nightingale, withstands his whistle, and takes him captive.",
+    "source": "Later manuscripts and oral collections",
+    "date": "17th–19th centuries",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "killed",
+    "myth": "Nightingale whistles at Vladimir's court",
+    "note": "Ilya takes the destructive robber outside and kills him.",
+    "source": "Later manuscripts and oral collections",
+    "date": "17th–19th centuries",
+    "tier": "attested"
+   }
+  ],
+  "Nikita Kozhemyaka": [
+   {
+    "stated_by": "marya_morevna",
+    "kind": "rescued_by",
+    "myth": "Wartime defeat of Kashchei",
+    "note": "Rou’s film replaces Ivan with Nikita Kozhemyaka as Marya’s rescuer.",
+    "source": "Rou, Kashchei the Immortal",
+    "date": "1944–1945",
+    "tier": "modern"
+   }
+  ],
+  "Nikita Romanovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Named as Dobrynya’s deceased father in some genealogical openings.",
+    "source": "Nineteenth-century bylina variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ocean-Sea": [
+   {
+    "stated_by": "sadko",
+    "kind": "shared_myth",
+    "myth": "Operatic underwater court",
+    "note": "He receives Sadko in his marine realm and consents to Sadko marrying Volkhova.",
+    "source": "Rimsky-Korsakov, Sadko",
+    "date": "1896–1898",
+    "tier": "modern"
+   }
+  ],
+  "Old Pilgrim": [
+   {
+    "stated_by": "sadko",
+    "kind": "rescued_by",
+    "myth": "End of the Sea King’s power",
+    "note": "The saint-like apparition ends the marine power obstructing Sadko’s return.",
+    "source": "Rimsky-Korsakov, Sadko",
+    "date": "1896–1898",
+    "tier": "modern"
+   }
+  ],
+  "Olga Tsarevna": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Olga is Ivan's sister and the supernatural Eagle's wife.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Ivan’s sister and Eagle receive Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Pagan gods": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "gift",
+    "myth": "Wanda sacrifices herself after victory",
+    "note": "Wanda offers her life to the pagan gods in gratitude for victory.",
+    "source": "Chronicle of Greater Poland",
+    "date": "13th–14th century",
+    "tier": "canonical"
+   }
+  ],
+  "Pan, prince of Pannonia": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Pan is named as the father of Lech, Rus, and Czech.",
+    "source": "Greater Poland Chronicle, long prologue",
+    "date": "late thirteenth/fourteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Petrovich brothers": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "fought",
+    "myth": "Rescue and elopement",
+    "note": "Alyosha fights or shames the brothers pursuing him and their sister.",
+    "source": "Northern ballad cycle",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Philip the Magyar": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "contest",
+    "myth": "Marko and Philip the Magyar",
+    "note": "Marko defeats or humiliates the rival Philip.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Prince Vladimir": [
+   {
+    "stated_by": "volkh_vseslavyevich",
+    "kind": "gift",
+    "myth": "Vol’ga and Mikula",
+    "note": "Vladimir grants Vol’ga three towns and their tribute revenues.",
+    "source": "Northern bylina records",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Prophet Elijah": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later folklore associates them through name, thunder, martial power, and feast-day culture.",
+    "source": "Folkloric association",
+    "date": "Later tradition",
+    "tier": "syncretism"
+   }
+  ],
+  "Přemysl": [
+   {
+    "stated_by": "libuse",
+    "kind": "consort_of",
+    "myth": "Marriage of Libuše and Přemysl",
+    "note": "Libuše foretells, summons and marries the ploughman Přemysl.",
+    "source": "Cosmas, Chronica Boemorum I.5–8",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "libuse",
+    "kind": "allied",
+    "myth": "Joint establishment of Czech laws",
+    "note": "Libuše and Přemysl rule together and establish the land’s laws.",
+    "source": "Cosmas, Chronica Boemorum I.8",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "libuse",
+    "kind": "shared_myth",
+    "myth": "Libuše prophesies Prague",
+    "note": "Přemysl is present when Libuše prophesies Prague’s foundation.",
+    "source": "Cosmas, Chronica Boemorum I.9",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   }
+  ],
+  "Queen Elena": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Historical reconstruction identifies Elena as Marko’s mother.",
+    "source": "Marko Monastery inscription",
+    "date": "1376/77–1381",
+    "tier": "attested"
+   }
+  ],
+  "Radmila": [
+   {
+    "stated_by": "libuse",
+    "kind": "shared_myth",
+    "myth": "Libuše’s court",
+    "note": "Radmila participates in Libuše’s court in Smetana’s opera.",
+    "source": "Wenzig and Smetana, Libuše",
+    "date": "1871–1881",
+    "tier": "modern"
+   }
+  ],
+  "Radovan": [
+   {
+    "stated_by": "libuse",
+    "kind": "other",
+    "myth": "Acclamation after the reconciliation",
+    "note": "Radovan announces reconciliation and acclaims Libuše and Přemysl.",
+    "source": "Wenzig and Smetana, Libuše",
+    "date": "1871–1881",
+    "tier": "modern"
+   }
+  ],
+  "Raven": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "Restoration after Koschei's attack",
+    "note": "Ivan's supernatural Raven brother-in-law helps recover and restore him.",
+    "source": "Afanasyev no. 159",
+    "date": "1855–63",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "marya_morevna",
+    "kind": "shared_myth",
+    "myth": "Return after Koschei’s death",
+    "note": "Raven and his wife receive the rescued Marya and Ivan as guests.",
+    "source": "Afanasyev, “Marya Morevna”",
+    "date": "commonly dated 1857",
+    "tier": "attested"
+   }
+  ],
+  "Raven/Raven-son": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "served_by",
+    "myth": "Ivan restored by living water",
+    "note": "Under the Wolf's threat, the Raven obtains dead and living waters.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Relja Krilatica": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "allied",
+    "myth": "Courtship of Roksanda",
+    "note": "Relja accompanies Marko and Miloš as a fellow hero and suitor.",
+    "source": "Sister of Captain Leka",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Roksanda": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "punished",
+    "myth": "The Sister of Captain Leka",
+    "note": "After Roksanda insults the suitors, Marko mutilates and blinds her.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Rytigier": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "contest",
+    "myth": "Wanda rejects Rytigier’s marriage proposal",
+    "note": "Wanda refuses the foreign ruler’s marriage proposal.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "fought",
+    "myth": "Rytigier invades after Wanda’s refusal",
+    "note": "Rytigier invades Wanda’s realm, is defeated, and kills himself.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   }
+  ],
+  "Saint George": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparativists propose an analogue; no primary narrative identifies or joins them.",
+    "source": "Kim and Kwon",
+    "date": "2016",
+    "tier": "modern"
+   }
+  ],
+  "Saltyk Stavrulyevich": [
+   {
+    "stated_by": "volkh_vseslavyevich",
+    "kind": "killed",
+    "myth": "Conquest of the Indian kingdom",
+    "note": "Volkh invades Saltyk’s city and smashes him against the palace floor.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "after 1742",
+    "tier": "attested"
+   }
+  ],
+  "Samson Samoilovich": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "allied",
+    "myth": "Kalin Tsar's invasion",
+    "note": "Ilya summons the senior, godfather-like bogatyr to defend Kyiv.",
+    "source": "Kalin-cycle variants",
+    "date": "19th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sea King": [
+   {
+    "stated_by": "sadko",
+    "kind": "gift",
+    "myth": "Golden fish wager",
+    "note": "Pleased by Sadko’s music, he reveals how Sadko can win wealth.",
+    "source": "Rybnikov/Sorokin",
+    "date": "1860s",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sadko",
+    "kind": "punished_by",
+    "myth": "Arrested ships and sacrifice",
+    "note": "He stops Sadko’s ships and demands tribute or Sadko as a living sacrifice.",
+    "source": "Kirsha Danilov; Rybnikov/Sorokin",
+    "date": "18th–19th centuries",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sadko",
+    "kind": "served",
+    "myth": "Dance beneath the sea",
+    "note": "Sadko is compelled to play gusli while the king’s dance wrecks ships.",
+    "source": "Rybnikov/Sorokin",
+    "date": "1860s",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sadko",
+    "kind": "gift",
+    "myth": "Underwater marriage test",
+    "note": "The king presents hundreds of maidens and offers Sadko an otherworld bride.",
+    "source": "Rybnikov/Hilferding corpus",
+    "date": "19th century",
+    "tier": "canonical"
+   }
+  ],
+  "Sea Tsar": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "served",
+    "myth": "The Sea Tsar's impossible tasks",
+    "note": "Claimed through an inadvertent promise, Ivan must perform the Sea Tsar's tasks.",
+    "source": "Sea Tsar tale variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "deceived",
+    "myth": "Transformative flight from the Sea Tsar",
+    "note": "Ivan escapes the Sea Tsar with Vasilisa's transformations and directions.",
+    "source": "Sea Tsar tale variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sinbad": [
+   {
+    "stated_by": "sadko",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "American distributors renamed Sadko as Sinbad in a recut Soviet film.",
+    "source": "The Magic Voyage of Sinbad",
+    "date": "1962",
+    "tier": "modern"
+   }
+  ],
+  "Sister of the Sun": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "The Witch and the Sun's Sister",
+    "note": "The Sister of the Sun shelters or aids an Ivan in this tale.",
+    "source": "Afanasyev collection",
+    "date": "1855–63",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sivka-Burka": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "allied",
+    "myth": "Composite Ivan narratives",
+    "note": "The magic horse becomes Ivan's helper in regional or twentieth-century composites.",
+    "source": "Regional and composite narratives",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Skub": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "taught_by",
+    "myth": "Skuba proposes the sulphur-filled calfskin",
+    "note": "The cobbler advises Krak how to kill the dragon.",
+    "source": "Bielski, Kronika polska",
+    "date": "1597",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "gift",
+    "myth": "Skuba rewarded after the dragon’s death",
+    "note": "Krak rewards the cobbler for devising the dragon-killing stratagem.",
+    "source": "Bielski, Kronika polska",
+    "date": "1597",
+    "tier": "late_accretion"
+   }
+  ],
+  "Slavoj": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "consort_of",
+    "myth": "Wanda’s native beloved and champion",
+    "note": "The opera makes Slavoj Wanda’s beloved and military champion.",
+    "source": "Dvořák, Vanda",
+    "date": "1876",
+    "tier": "modern"
+   }
+  ],
+  "Sokolnik": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Sokolnik is Ilya's son by a foreign female warrior.",
+    "source": "Sokolnik songs",
+    "date": "19th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "fought",
+    "myth": "Unrecognized combat with Sokolnik",
+    "note": "Father and son fight before tokens or testimony reveal their kinship.",
+    "source": "Sokolnik songs",
+    "date": "19th century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "killed",
+    "myth": "Sokolnik's renewed treacherous attack",
+    "note": "In many versions Ilya kills his son after Sokolnik attacks him sleeping.",
+    "source": "Sokolnik songs",
+    "date": "19th century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "allied",
+    "myth": "Recognition of Sokolnik",
+    "note": "Softer variants end with father and son reconciled and Sokolnik released.",
+    "source": "Sokolnik-cycle variants",
+    "date": "19th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Solovei Budimirovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s courtly epic world",
+    "note": "They share court narratives, though direct interaction depends on the variant.",
+    "source": "Nineteenth-century collected corpus",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sultan": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "served",
+    "myth": "Marko’s Ottoman service",
+    "note": "Marko repeatedly appears as the sultan’s warrior and insolent vassal.",
+    "source": "Multiple Vuk-cycle poems",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "served",
+    "myth": "Campaign against Musa",
+    "note": "The sultan summons or releases Marko to defeat Musa.",
+    "source": "Marko and Musa the Outlaw",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "contest",
+    "myth": "Marko Drinks Wine in Ramadan",
+    "note": "Marko publicly defies the sultan’s regulation and compels tolerance of his drinking.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Svantovít": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "shared_myth",
+    "myth": "Chorus invokes Svantovít in Wanda’s realm",
+    "note": "The operatic chorus invokes Svantovít within Wanda’s pagan kingdom.",
+    "source": "Dvořák, Vanda",
+    "date": "1876",
+    "tier": "modern"
+   }
+  ],
+  "Tetka": [
+   {
+    "stated_by": "libuse",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Tetka is Libuše’s elder sister.",
+    "source": "Cosmas, Chronica Boemorum I.4",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "libuse",
+    "kind": "shared_myth",
+    "myth": "Night council before Přemysl’s revelation",
+    "note": "Tetka joins Libuše’s council to determine the future ruler.",
+    "source": "Cosmas, Chronica Boemorum I.4–5",
+    "date": "c. 1119–1125",
+    "tier": "attested"
+   }
+  ],
+  "Thracian Horseman": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars hypothesize iconographic ancestry, without direct traditional identification.",
+    "source": "Modern scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Timanya": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "allied",
+    "myth": "Rostov and Lipitsa stories",
+    "note": "Timanya appears as Alyosha’s fellow champion in successive chronicle compilations.",
+    "source": "Pakhomian chronograph",
+    "date": "1442",
+    "tier": "late_accretion"
+   }
+  ],
+  "Torop": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Torop appears as Alyosha’s servant in chronicles and cross-influenced traditions.",
+    "source": "Late chronicle tale",
+    "date": "15th–17th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Tugarin": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "shared_myth",
+    "myth": "Modern Three Bogatyrs arrangements",
+    "note": "Modern collective adaptations place Ilya and Tugarin in the same narratives.",
+    "source": "Modern films and adaptations",
+    "date": "20th–21st centuries",
+    "tier": "modern"
+   }
+  ],
+  "Tugarin Zmeyevich": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "fought",
+    "myth": "Alyosha and Tugarin",
+    "note": "Alyosha fights Tugarin using disguise, diversion, horsemanship, or providential rain.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "c. 1740–60",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "killed",
+    "myth": "Alyosha and Tugarin",
+    "note": "Alyosha kills and often beheads the fallen winged or serpentine enemy.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "c. 1740–60",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "deceived",
+    "myth": "Road encounter with Tugarin",
+    "note": "Alyosha feigns deafness, disguises himself, or tricks Tugarin into looking backward.",
+    "source": "Tugarin variants",
+    "date": "18th–19th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Twelve Arabs": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and the Twelve Moors",
+    "note": "Marko confronts and defeats the collective of twelve adversaries.",
+    "source": "Vuk-derived corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Underwater Queen": [
+   {
+    "stated_by": "sadko",
+    "kind": "taught_by",
+    "myth": "Underwater King and Queen dispute",
+    "note": "She explains the deadly dance and advises Sadko how to stop and choose a bride.",
+    "source": "Northern oral variant",
+    "date": "20th-century collection",
+    "tier": "regional_variant"
+   }
+  ],
+  "Unnamed Alemannic tyrant": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "fought",
+    "myth": "Alemannic invasion of Wanda’s realm",
+    "note": "The tyrant invades Wanda’s realm, but his army refuses to fight her.",
+    "source": "Kadłubek, Chronica Polonorum I.5–7",
+    "date": "c. 1190–1208",
+    "tier": "attested"
+   }
+  ],
+  "Vasilisa Mikulichna": [
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Northern and Kenozero genealogical tradition names Vasilisa as Mikula’s daughter.",
+    "source": "Northern and Kenozero tradition",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vasilisa the Wise": [
+   {
+    "stated_by": "vasilisa",
+    "kind": "identified_with",
+    "myth": "Modern Frog Princess conflation",
+    "note": "Later films rename or conflate the magical bride with Vasilisa the Beautiful.",
+    "source": "Rou and Pekar films",
+    "date": "1939 and 1977",
+    "tier": "syncretism"
+   }
+  ],
+  "Vasilisa the Wise, daughter of the Sea Tsar": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "consort_of",
+    "myth": "The Sea Tsar and Vasilisa",
+    "note": "Ivan marries the Sea Tsar's magically capable daughter.",
+    "source": "Sea Tsar tale variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "rescued_by",
+    "myth": "Tasks and magical flight",
+    "note": "Vasilisa completes Ivan's impossible tasks and directs their escape.",
+    "source": "Sea Tsar tale variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vasily Kazimirovich": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "allied",
+    "myth": "Tribute embassy to Batur",
+    "note": "Dobrynya supports Vasily with diplomacy, music, gaming, archery, and wrestling.",
+    "source": "Nineteenth-century collected versions",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Vasily Tsarevich": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Vasily is Ivan's elder brother in the Firebird tale.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "killed_by",
+    "myth": "Brothers betray Ivan",
+    "note": "Vasily helps murder Ivan and later attempts to marry Elena.",
+    "source": "Dedushkiny progulki no. 3",
+    "date": "1786",
+    "tier": "attested"
+   }
+  ],
+  "Vidosava": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "shared_myth",
+    "myth": "Marriage of King Vukašin",
+    "note": "Momčilo’s treacherous wife is explicitly rejected as Marko’s mother.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Vila Ravijojla": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and the Vila",
+    "note": "Marko pursues and threatens the vila after she shoots Miloš.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "punished",
+    "myth": "Marko compels Miloš’s cure",
+    "note": "Marko catches the vila and forces her to heal Miloš.",
+    "source": "Marko and the Vila",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Vilina": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Some Croatian variants add Vilina as sister of Čeh, Leh, and Meh.",
+    "source": "Northern Croatian traditions",
+    "date": "seventeenth–eighteenth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vlasta": [
+   {
+    "stated_by": "libuse",
+    "kind": "served_by",
+    "myth": "Prelude to the Maidens’ War",
+    "note": "Later tradition makes Vlasta Libuše’s captain, companion or attendant.",
+    "source": "Dalimil Chronicle; later chronicles",
+    "date": "early 14th century onward",
+    "tier": "canonical"
+   }
+  ],
+  "Volga Sviatoslavovich": [
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "allied",
+    "myth": "Volga and Mikula",
+    "note": "Volga invites Mikula into his retinue, and they travel together.",
+    "source": "Rybnikov recordings",
+    "date": "1860, published 1861",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "contest",
+    "myth": "The unliftable plough",
+    "note": "Volga’s retinue cannot move Mikula’s plough, which Mikula lifts effortlessly.",
+    "source": "Rybnikov and Hilferding recordings",
+    "date": "1860–1871",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "contest",
+    "myth": "The horse race",
+    "note": "In some variants, Mikula’s workhorse outruns Volga’s princely horse.",
+    "source": "Northern oral variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "rescued",
+    "myth": "The dismantled bridge",
+    "note": "Mikula saves Volga and his men from hostile townspeople.",
+    "source": "Collectors’ summaries",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mikula_selyaninovich",
+    "kind": "gift",
+    "myth": "Volga grants Mikula towns",
+    "note": "In some endings, Volga makes Mikula governor or grants him towns.",
+    "source": "Northern oral variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Volkhova": [
+   {
+    "stated_by": "sadko",
+    "kind": "consort_of",
+    "myth": "Operatic underwater marriage",
+    "note": "She loves Sadko and becomes his supernatural bride in the opera.",
+    "source": "Rimsky-Korsakov and Belsky, Sadko",
+    "date": "1896–1898",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "sadko",
+    "kind": "rescued_by",
+    "myth": "Sadko’s operatic return",
+    "note": "She releases Sadko from the marine realm before becoming the Volkhov River.",
+    "source": "Rimsky-Korsakov and Belsky, Sadko",
+    "date": "1896–1898",
+    "tier": "modern"
+   }
+  ],
+  "Wawel monster": [
+   {
+    "stated_by": "krak_and_wanda",
+    "kind": "killed",
+    "myth": "Sulphur-filled hides kill the Wawel monster",
+    "note": "Krak devises the baited-hide trap that kills the monster.",
+    "source": "Długosz, Annales",
+    "date": "1455–1480",
+    "tier": "canonical"
+   }
+  ],
+  "White Eagle": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "other",
+    "myth": "Lech discovers the White Eagle",
+    "note": "Lech sees the eagle and adopts it as his people’s emblem.",
+    "source": "Modern educational retellings",
+    "date": "nineteenth–twenty-first centuries",
+    "tier": "modern"
+   }
+  ],
+  "White Polyanin": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "fought",
+    "myth": "Ivan and the White Polyanin",
+    "note": "Ivan fights the formidable White Polyanin in versions of their encounter.",
+    "source": "Afanasyev no. 161",
+    "date": "1855–63",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "allied",
+    "myth": "Ivan and the White Polyanin",
+    "note": "After rivalry, Ivan befriends or cooperates with the White Polyanin.",
+    "source": "Afanasyev no. 161",
+    "date": "1855–63",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yan Usmoshvets": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "allied",
+    "myth": "Defeat of the Pechenegs",
+    "note": "Alexander Popovich and Yan jointly defeat Pechenegs and capture Rodman’s family.",
+    "source": "Nikon Chronicle",
+    "date": "16th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yekim Ivanovich": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "served_by",
+    "myth": "Journey to Kyiv",
+    "note": "Yekim travels as Alyosha’s squire and sometimes catches Tugarin’s thrown knife.",
+    "source": "Tugarin variants",
+    "date": "18th–19th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Zabava Putiatichna": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "rescued",
+    "myth": "Rescue from Zmei Gorynych",
+    "note": "Dobrynya frees Zabava from the dragon’s captivity.",
+    "source": "Kirsha Danilov and later variants",
+    "date": "eighteenth–nineteenth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "other",
+    "myth": "Zabava’s marriage offer",
+    "note": "In some versions he refuses her offer because of rank or status.",
+    "source": "Nineteenth-century dragon variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Zhidovin": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "fought",
+    "myth": "The foreign braggart at the outpost",
+    "note": "Ilya defeats the boastful foreign challenger in single combat.",
+    "source": "Heroic-outpost texts",
+    "date": "19th century",
+    "tier": "attested"
+   }
+  ],
+  "Zlatogorka": [
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The foreign female warrior becomes Ilya's lover or wife and bears Sokolnik.",
+    "source": "Sokolnik songs",
+    "date": "19th century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ilya_muromets",
+    "kind": "fought",
+    "myth": "Encounter with the foreign polianitsa",
+    "note": "Some variants have Ilya defeat the female warrior before courting her.",
+    "source": "Sokolnik-cycle variants",
+    "date": "19th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Zmei Gorynych": [
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "fought",
+    "myth": "First encounter at the Puchai River",
+    "note": "Unarmed Dobrynya defeats the serpent using the heavy Greek cap.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "mid–later eighteenth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "allied",
+    "myth": "Pact after the first dragon battle",
+    "note": "Dobrynya grants mercy and agrees to mutual nonaggression with the serpent.",
+    "source": "Kirsha Danilov and later variants",
+    "date": "eighteenth–nineteenth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dobrynya_nikitich",
+    "kind": "killed",
+    "myth": "Rescue of Zabava Putiatichna",
+    "note": "After the serpent breaks their pact, Dobrynya fights and kills it.",
+    "source": "Kirsha Danilov manuscript",
+    "date": "mid–later eighteenth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "volkh_vseslavyevich",
+    "kind": "child_of",
+    "myth": "Serpent conception",
+    "note": "Popular retellings identify Volkh’s unnamed serpent father as Zmei Gorynych.",
+    "source": "Popular retellings",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Zmey Gorynych": [
+   {
+    "stated_by": "ivan_tsarevich",
+    "kind": "fought",
+    "myth": "Ivan's dragon battles",
+    "note": "Ivan fights Zmey Gorynych in various later tales, plays, and adaptations.",
+    "source": "Later tales and adaptations",
+    "date": "modern era",
+    "tier": "late_accretion"
+   }
+  ],
+  "the Seven Bogatyrs": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "allied",
+    "myth": "Campaign in Tsargrad",
+    "note": "Alyosha joins their disguised expedition and battle against numerous enemies.",
+    "source": "Tale of the Seven Russian Bogatyrs",
+    "date": "16th–17th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "the forty kaliki": [
+   {
+    "stated_by": "alyosha_popovich",
+    "kind": "other",
+    "myth": "The Forty Pilgrims",
+    "note": "Alyosha insults and searches the pilgrims but fails through discourtesy.",
+    "source": "Forty Pilgrims",
+    "date": "c. 1740–60 onward",
+    "tier": "attested"
+   }
+  ],
+  "unnamed vila foster-mother": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "child_of",
+    "myth": "Supernatural birth traditions",
+    "note": "Some regional traditions make an unnamed vila Marko’s supernatural mother.",
+    "source": "Regional prose traditions",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "rescued_by",
+    "myth": "Abandoned infant Marko",
+    "note": "A vila suckles the abandoned Marko and becomes his foster-mother.",
+    "source": "Regional prose traditions",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "gift",
+    "myth": "Three draughts of vila milk",
+    "note": "A vila rewards Marko with milk that confers supernatural strength.",
+    "source": "Regional prose traditions",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "taught_by",
+    "myth": "Vila counsel",
+    "note": "In some songs a vila acts as Marko’s supernatural adviser.",
+    "source": "Regional collected songs",
+    "date": "19th–20th c.",
+    "tier": "regional_variant"
+   }
+  ],
+  "Đemo the Mountaineer": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "fought",
+    "myth": "Marko and Đemo",
+    "note": "After Đemo captures or threatens him, Marko escapes and defeats him.",
+    "source": "Vuk-cycle poem",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Świętowit": [
+   {
+    "stated_by": "lech_czech_and_rus",
+    "kind": "other",
+    "myth": "Pagan invocations by the three founders",
+    "note": "Some modern stories have the founders invoke Świętowit, unlike medieval accounts.",
+    "source": "Modern retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Šarac": [
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "allied",
+    "myth": "Marko’s heroic adventures",
+    "note": "Marko’s extraordinary horse serves as his trusted companion in numerous adventures.",
+    "source": "South Slavic heroic songs",
+    "date": "19th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "marko_kraljevic",
+    "kind": "killed",
+    "myth": "The Death of Marko Kraljević",
+    "note": "Marko kills Šarac so that no Turk can ride him.",
+    "source": "Vuk corpus",
+    "date": "19th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Šťáhlav": [
+   {
+    "stated_by": "libuse",
+    "kind": "judged",
+    "myth": "Libuše’s inheritance judgment",
+    "note": "The forged poem and Smetana make Šťáhlav the other disputant Libuše judges.",
+    "source": "Libušin soud; Smetana’s Libuše",
+    "date": "c. 1817–1881",
+    "tier": "modern"
+   }
+  ]
+ }
+}

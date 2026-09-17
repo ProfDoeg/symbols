@@ -1,0 +1,162 @@
+{
+ "folder": "vodou",
+ "gods": [
+  "anacaona",
+  "boukman",
+  "makandal"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "boukman",
+   "god": "vodou/bondye",
+   "kind": "allied",
+   "myth": "Boukman’s liberation prayer",
+   "note": "Boukman invokes the creator to command vengeance, guide rebel arms and aid liberation.",
+   "source": "Dumesle, Voyage",
+   "date": "1824",
+   "tier": "canonical"
+  },
+  {
+   "a": "boukman",
+   "god": "vodou/ogou",
+   "kind": "shared_myth",
+   "myth": "Bois Caïman ceremony",
+   "note": "Later commemorative and ritual interpretations associate this war spirit with Boukman’s foundational ceremony.",
+   "source": "Modern Vodou interpretations",
+   "date": "modern",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "boukman",
+   "god": "vodou/papa_legba",
+   "kind": "shared_myth",
+   "myth": "Bois Caïman commemorations",
+   "note": "Some modern commemorations honor Legba, although no early account places him in Boukman’s ceremony.",
+   "source": "Modern commemorations",
+   "date": "modern",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "makandal",
+   "god": "vodou/ayizan",
+   "kind": "identified_with",
+   "myth": "Makandal assumes Ayizan’s herbal and initiatory authority",
+   "note": "Depestre poetically overlays Makandal with Ayizan’s authority over initiation and medicinal herbs.",
+   "source": "Un Arc-en-ciel pour l’Occident chrétien",
+   "date": "1967",
+   "tier": "syncretism"
+  },
+  {
+   "a": "makandal",
+   "god": "vodou/petro_lwa",
+   "kind": "served",
+   "myth": "Mandate to destroy whites and return Blacks to Africa",
+   "note": "Later legend claims Petro spirits mandated Makandal’s anticolonial mission.",
+   "source": "Twentieth-century Vodou historiography",
+   "date": "twentieth century",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "Agaté": [
+   {
+    "stated_by": "makandal",
+    "kind": "taught",
+    "myth": "Makandal mentors Agaté as an Assassin",
+    "note": "Agaté remembers Makandal as his Assassin mentor.",
+    "source": "Assassin’s Creed III: Liberation",
+    "date": "2012",
+    "tier": "modern"
+   }
+  ],
+  "Damballah": [
+   {
+    "stated_by": "boukman",
+    "kind": "shared_myth",
+    "myth": "Bois Caïman ceremony",
+    "note": "Recent variants claim Damballah possessed an attendee, without support from the principal early narratives.",
+    "source": "Internet and journalistic variants",
+    "date": "recent",
+    "tier": "modern"
+   }
+  ],
+  "Dominique": [
+   {
+    "stated_by": "makandal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Augustin invents Dominique as Makandal and Wamba’s son.",
+    "source": "Le Macandal",
+    "date": "1892",
+    "tier": "modern"
+   }
+  ],
+  "Satan/the Devil": [
+   {
+    "stated_by": "boukman",
+    "kind": "served",
+    "myth": "Alleged Bois Caïman blood pact",
+    "note": "Evangelical teaching claims Boukman exchanged service to Satan for Haiti’s freedom.",
+    "source": "Late-twentieth-century spiritual-warfare teaching",
+    "date": "1990s–2010",
+    "tier": "modern"
+   }
+  ],
+  "Ti Noël": [
+   {
+    "stated_by": "makandal",
+    "kind": "taught",
+    "myth": "Makandal instructs Ti Noël before his execution",
+    "note": "Makandal instructs and inspires Ti Noël, who witnesses his career and execution.",
+    "source": "El reino de este mundo",
+    "date": "1949",
+    "tier": "modern"
+   }
+  ],
+  "Wamba": [
+   {
+    "stated_by": "makandal",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Augustin invents Wamba as Makandal’s wife.",
+    "source": "Le Macandal",
+    "date": "1892",
+    "tier": "modern"
+   }
+  ],
+  "Èzili Dantò": [
+   {
+    "stated_by": "boukman",
+    "kind": "shared_myth",
+    "myth": "Bois Caïman ceremony",
+    "note": "Later tradition links her possession of Cécile Fatiman and receipt of the pig sacrifice to Boukman’s ceremony.",
+    "source": "Twentieth-century ritual and national retellings",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Èzili Je Wouj": [
+   {
+    "stated_by": "boukman",
+    "kind": "shared_myth",
+    "myth": "Bois Caïman ceremony",
+    "note": "Some Haitian religious accounts substitute this fiery Èzili form as the priestess’s possessing spirit.",
+    "source": "Modern oral and religious accounts",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "“The god of the whites”": [
+   {
+    "stated_by": "boukman",
+    "kind": "other",
+    "myth": "Boukman’s liberation prayer",
+    "note": "Boukman denounces this god as commanding crime and thirsting for enslaved people’s tears.",
+    "source": "Dumesle, Voyage",
+    "date": "1824",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

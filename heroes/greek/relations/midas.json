@@ -1,0 +1,388 @@
+{
+ "subject": "midas",
+ "relations": [
+  {
+   "other": "Gordias",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Herodotus identifies Midas as the son of Gordias.",
+   "source": "Herodotus 1.14; 8.138",
+   "date": "5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gordias",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythography makes Gordias and Cybele the parents of Midas.",
+   "source": "Later mythography",
+   "date": "post-classical",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mother Goddess",
+   "other_aliases": [
+    "Cybele"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus names the Mother Goddess as Midas' mother by Tmolus.",
+   "source": "Hyginus, Fabulae 191",
+   "date": "1st–2nd c. CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Mother Goddess"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythography synthesizes Cybele and Gordias as Midas' parents.",
+   "source": "Later mythography",
+   "date": "post-classical",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tmolus",
+   "other_aliases": [
+    "Tmolus, mountain god"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus' compressed genealogy possibly makes Tmolus Midas' father.",
+   "source": "Hyginus, Fabulae 191",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermodice",
+   "other_aliases": [
+    "Demodice"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hermodice, called Demodice by Pollux, is named as Midas' wife.",
+   "source": "Aristotle fr. 611; Pollux 9.83",
+   "date": "4th c. BCE–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Timothea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Anchurus and the chasm",
+   "note": "Timothea is Midas' wife and Anchurus' mother in the chasm narrative.",
+   "source": "Pseudo-Plutarch, Parallel Stories 5",
+   "date": "Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anchurus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Anchurus and the chasm",
+   "note": "Midas' son Anchurus sacrifices himself to close the destructive chasm.",
+   "source": "Pseudo-Plutarch, Parallel Stories 5",
+   "date": "Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Marygold",
+   "other_aliases": [
+    "Marigold"
+   ],
+   "kind": "parent_of",
+   "myth": "The Golden Touch",
+   "note": "Hawthorne invents Marygold as Midas' beloved daughter.",
+   "source": "Hawthorne, The Golden Touch",
+   "date": "1851",
+   "tier": "modern"
+  },
+  {
+   "other": "Marygold",
+   "other_aliases": [
+    "Marigold"
+   ],
+   "kind": "transformed",
+   "myth": "The Golden Touch",
+   "note": "Midas accidentally turns his daughter into a golden statue.",
+   "source": "Hawthorne, The Golden Touch",
+   "date": "1851",
+   "tier": "modern"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Popular internet retellings invent Zoe as Midas' daughter without ancient support.",
+   "source": "Internet and popular retellings",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "gift",
+   "myth": "Dedication of Midas' judgment-throne",
+   "note": "Midas reportedly dedicates his royal judgment-throne at Apollo's Delphi.",
+   "source": "Herodotus 1.14",
+   "date": "5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "transformed_by",
+   "myth": "Judgment of Pan and Apollo",
+   "note": "Apollo gives Midas ass's ears for rejecting the musical verdict.",
+   "source": "Ovid, Metamorphoses 11.146–193",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo and Marsyas contest",
+   "note": "Midas prefers Marsyas during Apollo's alternate musical contest.",
+   "source": "Hyginus, Fabulae 191",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber"
+   ],
+   "kind": "served",
+   "myth": "Return of Silenus",
+   "note": "Midas hosts Silenus and returns him to Dionysus.",
+   "source": "Ovid, Metamorphoses 11.85–100",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber"
+   ],
+   "kind": "gift",
+   "myth": "The golden touch",
+   "note": "Dionysus grants Midas the disastrous power to turn touched objects gold.",
+   "source": "Ovid, Metamorphoses 11.100–145",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber"
+   ],
+   "kind": "rescued_by",
+   "myth": "Cleansing in the Pactolus",
+   "note": "Dionysus instructs Midas how to relinquish the golden touch.",
+   "source": "Ovid, Metamorphoses 11.127–145",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "fought",
+   "myth": "Binding and presentation of Silenus",
+   "note": "Midas' men bind Silenus and present him before the enthroned king.",
+   "source": "Attic black-figure vases",
+   "date": "c. 550–530 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "deceived",
+   "myth": "Wine-capture at Midas' spring",
+   "note": "Midas captures the satyr by mixing wine into a spring.",
+   "source": "Xenophon, Anabasis 1.2.13",
+   "date": "c. 370s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "deceived",
+   "myth": "Wine-capture at Ancyra",
+   "note": "An Ancyra tradition likewise says Midas captured Silenus using wine.",
+   "source": "Pausanias 1.4.1",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "taught_by",
+   "myth": "Wisdom of Silenus",
+   "note": "Silenus tells Midas that nonexistence, then early death, is humanity's greatest good.",
+   "source": "Aristotle, Eudemus fragment",
+   "date": "4th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "taught_by",
+   "myth": "Lands beyond the Ocean",
+   "note": "Silenus describes immense outer continents and the cities Eusebes and Machimos.",
+   "source": "Theopompus, Philippica fr. 75",
+   "date": "4th c. BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [
+    "the Satyr"
+   ],
+   "kind": "rescued",
+   "myth": "Return of Silenus",
+   "note": "Midas recognizes, entertains, and restores the lost Silenus to Dionysus.",
+   "source": "Ovid, Metamorphoses 11.85–100",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Midas follows Pan",
+   "note": "After renouncing wealth, Midas follows Pan in the countryside.",
+   "source": "Ovid, Metamorphoses 11.146–179",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of Pan and Apollo",
+   "note": "Midas alone rejects Tmolus' verdict and prefers Pan's pipes.",
+   "source": "Ovid, Metamorphoses 11.146–179",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Alternate contest against Apollo",
+   "note": "Hyginus names Pan as an alternate opponent of Apollo.",
+   "source": "Hyginus, Fabulae 191",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo and Marsyas contest",
+   "note": "Midas prefers Marsyas' music to Apollo's in Hyginus' variant.",
+   "source": "Hyginus, Fabulae 191",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tmolus",
+   "other_aliases": [
+    "Tmolus, mountain god"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment of Pan and Apollo",
+   "note": "Tmolus awards Apollo victory, but Midas challenges his verdict.",
+   "source": "Ovid, Metamorphoses 11.146–179",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Initiation into Bacchic rites",
+   "note": "Orpheus instructs or initiates Midas in the rites of Dionysus.",
+   "source": "Ovid, Metamorphoses 11.92–93",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eumolpus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Initiation into Bacchic rites",
+   "note": "Eumolpus joins Orpheus in instructing or initiating Midas in Bacchic rites.",
+   "source": "Ovid, Metamorphoses 11.92–93",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Presentation of bound Silenus",
+   "note": "Hermes leads or restrains bound Silenus before the enthroned Midas.",
+   "source": "Painter of Berlin 1686 amphora",
+   "date": "c. 550–540 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [
+    "Eileithyia-like winged goddess"
+   ],
+   "kind": "shared_myth",
+   "myth": "Presentation of bound Silenus",
+   "note": "An uncertain Iris or Eileithyia-like goddess appears behind Midas.",
+   "source": "Painter of Berlin 1686 amphora",
+   "date": "c. 550–540 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus Idaios",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Anchurus and the chasm",
+   "note": "An altar of Zeus Idaios is founded after Midas' son sacrifices himself.",
+   "source": "Pseudo-Plutarch, Parallel Stories 5",
+   "date": "Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Foundation of Ancyra",
+   "note": "Zeus' sanctuary at Ancyra reportedly preserved the anchor found by Midas.",
+   "source": "Pausanias 1.4.1–5",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "subject": "perseus",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus impregnates Danaë in golden form and fathers Perseus.",
+   "source": "Iliad 14.319–20",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Danaë is Perseus’ mother.",
+   "source": "Iliad 14.319–20",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Exposure in the chest",
+   "note": "Mother and infant share confinement, sea exposure, and exile on Seriphos.",
+   "source": "Hesiodic Catalogue; Aeschylus",
+   "date": "6th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Vengeance against Polydectes",
+   "note": "Perseus protects or avenges Danaë by destroying her coercive ruler.",
+   "source": "Pythian 12",
+   "date": "490 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Proetus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A minority tradition makes Proetus Perseus’ mortal father.",
+   "source": "Later mythographic testimonia",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Acrisius",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Acrisius is Perseus’ maternal grandfather through Danaë.",
+   "source": "Iliad 14.319–20",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Acrisius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Fatal discus at Larisa",
+   "note": "Perseus accidentally kills Acrisius with a discus, fulfilling the oracle.",
+   "source": "Sophocles, Larisaioi",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dictys",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Discovery of the sea chest",
+   "note": "Dictys hauls Danaë and infant Perseus ashore in his net.",
+   "source": "Aeschylus, Net-Haulers",
+   "date": "first half 5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dictys",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return to Seriphos",
+   "note": "Perseus installs Dictys as king after killing Polydectes.",
+   "source": "Bibliotheca 2.4.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polydectes",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "The impossible wedding gift",
+   "note": "Polydectes’ contrived gift demand sends Perseus after Medusa’s head.",
+   "source": "Pherecydes fragments",
+   "date": "early 5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydectes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance on Seriphos",
+   "note": "Perseus returns with Medusa’s head and kills or petrifies Polydectes.",
+   "source": "Pythian 12",
+   "date": "490 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hippodamia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polydectes’ supposed wedding",
+   "note": "Her supposed marriage supplies the pretext for Polydectes’ gift demand.",
+   "source": "Pherecydes; Bibliotheca",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas",
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Escape from the Gorgons",
+   "note": "Athena protects Perseus during his escape after Medusa’s decapitation.",
+   "source": "Eleusis amphora",
+   "date": "c. 675–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas",
+    "Minerva"
+   ],
+   "kind": "taught",
+   "myth": "Medusa’s decapitation",
+   "note": "Athena directs Perseus’ hand and teaches him to avoid Medusa’s gaze.",
+   "source": "Bibliotheca 2.4.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas",
+    "Minerva"
+   ],
+   "kind": "gift",
+   "myth": "Delivery of Medusa’s head",
+   "note": "Perseus gives Athena Medusa’s head for her shield or breastplate.",
+   "source": "Bibliotheca 2.4.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "allied",
+   "myth": "Quest for Medusa",
+   "note": "Hermes guides Perseus and facilitates his acquisition of the curved blade.",
+   "source": "Pherecydes; Bibliotheca",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "gift",
+   "myth": "Quest for Medusa",
+   "note": "Hermes supplies Perseus with an adamantine sickle or curved sword.",
+   "source": "Bibliotheca 2.4.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "other",
+   "myth": "Sacrifice after Andromeda’s rescue",
+   "note": "Perseus sacrifices to Mercury after killing the sea creature.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "gift",
+   "myth": "Quest for Medusa",
+   "note": "Perseus uses the invisibility cap belonging to or originating from Hades.",
+   "source": "Shield of Heracles 216–37",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Image on Heracles’ shield",
+   "note": "Hephaestus fashions the represented image of Perseus on Heracles’ shield.",
+   "source": "Shield of Heracles 216–37",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The Graeae’s shared eye",
+   "note": "Perseus intercepts Enyo’s shared eye to compel directions to the nymphs.",
+   "source": "Pherecydes; Bibliotheca",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pemphredo",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The Graeae’s shared eye",
+   "note": "Perseus intercepts Pemphredo’s shared eye to compel directions to the nymphs.",
+   "source": "Pherecydes; Bibliotheca",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deino",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The Graeae’s shared eye",
+   "note": "Perseus compels Deino with her sisters by withholding their shared eye.",
+   "source": "Later mythography",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The unnamed guardian nymphs",
+   "other_aliases": [
+    "the nymphs"
+   ],
+   "kind": "gift",
+   "myth": "Equipment for the Gorgon quest",
+   "note": "The nymphs give Perseus the kibisis, winged sandals, and invisibility cap.",
+   "source": "Pherecydes; Bibliotheca",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Medusa’s decapitation",
+   "note": "Perseus cuts off the mortal Gorgon’s head while avoiding her gaze.",
+   "source": "Hesiod, Theogony 276–86",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Stheno",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Flight from the Gorgons",
+   "note": "Stheno pursues Perseus after he decapitates Medusa.",
+   "source": "Shield of Heracles 216–37",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryale",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Flight from the Gorgons",
+   "note": "Euryale pursues Perseus while lamenting Medusa’s death.",
+   "source": "Shield; Pythian 12",
+   "date": "6th c.–490 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth from Medusa’s neck",
+   "note": "Pegasus springs from Medusa’s severed neck when Perseus strikes.",
+   "source": "Hesiod, Theogony 280–83",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chrysaor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth from Medusa’s neck",
+   "note": "Chrysaor springs from Medusa’s severed neck when Perseus strikes.",
+   "source": "Hesiod, Theogony 280–83",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromeda",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battle against the sea creature",
+   "note": "Andromeda actively supplies stones while fighting beside Perseus.",
+   "source": "Berlin F 1652",
+   "date": "c. 575–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromeda",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from the sea creature",
+   "note": "Perseus kills the sea creature to save the exposed Andromeda.",
+   "source": "Euripides, Andromeda",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andromeda",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Perseus marries Andromeda and fathers the Perseid dynasty with her.",
+   "source": "Herodotus 7.61",
+   "date": "c. 440–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Perses is Perseus’ son and the genealogical ancestor of the Persians.",
+   "source": "Herodotus 7.61",
+   "date": "c. 440–420 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcaeus is listed among the sons of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sthenelus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sthenelus is listed among the sons of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heleus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Heleus is listed among the sons of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mestor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mestor is listed among the sons of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Electryon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electryon is listed among the sons of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gorgophone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gorgophone is the daughter of Perseus and Andromeda.",
+   "source": "Bibliotheca 2.4.5",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cepheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marriage bargain for Andromeda",
+   "note": "Cepheus promises Andromeda to Perseus in return for her rescue.",
+   "source": "Bibliotheca 2.4.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cassiopeia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marriage to Andromeda",
+   "note": "Perseus becomes Cassiopeia’s son-in-law after rescuing Andromeda.",
+   "source": "Bibliotheca 2.4.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cetus",
+   "other_aliases": [
+    "the sea creature"
+   ],
+   "kind": "killed",
+   "myth": "Rescue of Andromeda",
+   "note": "Perseus kills the sea creature, aided by Andromeda in early art.",
+   "source": "Berlin F 1652",
+   "date": "c. 575–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle at Andromeda’s wedding",
+   "note": "Perseus battles Phineus after the rival claimant attacks the wedding feast.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Battle at Andromeda’s wedding",
+   "note": "Perseus petrifies Phineus with Medusa’s severed head.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rival claim to Andromeda",
+   "note": "In a variant, Perseus defeats Agenor, Andromeda’s rival claimant.",
+   "source": "Bibliotheca 2.4.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Atlas refuses hospitality",
+   "note": "Perseus uses Medusa’s head to transform Atlas into a mountain.",
+   "source": "Ovid, Metamorphoses 4.627–62",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dionysian war at Argos",
+   "note": "Perseus fights Dionysus or forces associated with his Argive invasion.",
+   "source": "Pausanias 2.20.4; 2.22.1",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chorea",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dionysian war at Argos",
+   "note": "Perseus kills the Dionysian follower Chorea during his Argive victory.",
+   "source": "Pausanias 2.20.4",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Dionysian war at Argos",
+   "note": "Perseus petrifies Ariadne during the late-antique conflict with Dionysus.",
+   "source": "Nonnus, Dionysiaca 47",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysian war at Argos",
+   "note": "Hera encourages Perseus to resist Dionysus.",
+   "source": "Nonnus, Dionysiaca 47",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "judged_by",
+   "myth": "Dionysian war at Argos",
+   "note": "Hermes mediates the conflict between Perseus and Dionysus.",
+   "source": "Nonnus, Dionysiaca 47",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Megapenthes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Exchange of Argos and Tiryns",
+   "note": "Perseus exchanges Argos for Megapenthes’ kingdom of Tiryns.",
+   "source": "Bibliotheca 2.4.4",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Megapenthes",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Revenge for Proetus",
+   "note": "An isolated variant says Megapenthes kills Perseus to avenge Proetus.",
+   "source": "Hyginus, Fabula 244",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Perseus is Heracles’ ancestor through the Amphitryon and Alcmena lines.",
+   "source": "Iliad 19.116–24",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some scholarship proposes identification on eastern coinage, but individual cases remain contested.",
+   "source": "Cilician imperial coinage",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Calibos",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Clash of the Titans",
+   "note": "The film invents Calibos as an antagonist confronted by Perseus.",
+   "source": "Clash of the Titans",
+   "date": "1981",
+   "tier": "modern"
+  },
+  {
+   "other": "Bubo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Clash of the Titans",
+   "note": "The mechanical owl Bubo assists Perseus in the modern film adaptation.",
+   "source": "Clash of the Titans",
+   "date": "1981",
+   "tier": "modern"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "fought",
+   "myth": "Clash of the Titans",
+   "note": "The 2010 film makes Hades Perseus’ principal divine antagonist.",
+   "source": "Clash of the Titans",
+   "date": "2010",
+   "tier": "modern"
+  }
+ ]
+}

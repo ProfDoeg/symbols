@@ -1,0 +1,471 @@
+{
+ "subject": "tiresias",
+ "relations": [
+  {
+   "other": "Everes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogy names Everes as Tiresias’s father.",
+   "source": "“Apollodorus,” Bibliotheca 3.6.7",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chariclo, Athena’s nymph companion, is Tiresias’s mother.",
+   "source": "Callimachus, Bath of Pallas",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Athena’s bath",
+   "note": "Chariclo protests his blindness and obtains compensatory gifts from Athena.",
+   "source": "Callimachus, Bath of Pallas 85–130",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Udaeus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Later mythography places Tiresias in Udaeus’s Spartoi lineage.",
+   "source": "Later mythography",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manto",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Manto is securely named as Tiresias’s prophetic daughter.",
+   "source": "Euripidean and later tradition",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manto",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Failed sacrifice at Thebes",
+   "note": "Manto guides Tiresias and describes sacrificial signs he cannot see.",
+   "source": "Seneca, Oedipus 288–402",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mopsus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One inconsistent genealogy makes Mopsus Tiresias’s descendant through Manto.",
+   "source": "Hellenistic and Roman genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amphilochus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One inconsistent genealogy makes Amphilochus Tiresias’s descendant through Manto.",
+   "source": "Hellenistic and Roman genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tisiphone",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One inconsistent genealogy makes Tisiphone Tiresias’s descendant through Manto.",
+   "source": "Hellenistic and Roman genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ocnus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One inconsistent genealogy makes Ocnus Tiresias’s descendant through Manto.",
+   "source": "Hellenistic and Roman genealogies",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Tiresias after death",
+   "note": "Persephone preserves Tiresias’s intelligence while other dead remain witless shades.",
+   "source": "Odyssey 10.492–495",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Consultation in Hades",
+   "note": "Tiresias foretells his return, vengeance, inland sacrifice, and eventual death.",
+   "source": "Odyssey 11.90–151",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Journey to consult Tiresias",
+   "note": "Circe directs Odysseus to Tiresias, though they never meet directly.",
+   "source": "Odyssey 10.487–540",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Odysseus’s inland sacrifice",
+   "note": "Tiresias explains Poseidon’s hostility and prescribes a distant sacrifice.",
+   "source": "Odyssey 11.101–134",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cattle of Helios",
+   "note": "Tiresias warns Odysseus not to harm Helios’s sacred cattle.",
+   "source": "Odyssey 11.104–117",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Tiresias among the dead",
+   "note": "Callimachus says Hades will recognize and honour Tiresias after death.",
+   "source": "Callimachus, Bath of Pallas 129–130",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "punished_by",
+   "myth": "Athena’s bath",
+   "note": "Tiresias accidentally sees Athena bathing and is blinded by the forbidden sight.",
+   "source": "Callimachus, Bath of Pallas 70–130",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "gift",
+   "myth": "Athena’s compensation",
+   "note": "Athena grants prophecy, bird-divination, a staff, honour, and posthumous distinction.",
+   "source": "Callimachus, Bath of Pallas 85–130",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "judged",
+   "myth": "Sexual-pleasure judgment",
+   "note": "Tiresias supports Zeus’s claim that women receive greater sexual pleasure.",
+   "source": "Ovid, Metamorphoses 3.316–338",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Compensation for Hera’s blinding",
+   "note": "Zeus compensates Tiresias with prophecy and prolonged life.",
+   "source": "Ovid 3.316–338; Bibliotheca 3.6.7",
+   "date": "8 CE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "judged",
+   "myth": "Sexual-pleasure judgment",
+   "note": "Tiresias rejects Hera’s position in her dispute with Zeus.",
+   "source": "Ovid, Metamorphoses 3.316–338",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Sexual-pleasure judgment",
+   "note": "Hera blinds Tiresias after his verdict supports Zeus.",
+   "source": "Ovid 3.316–338; Hyginus",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Bacchic worship with Cadmus",
+   "note": "Tiresias accepts Dionysus’s divinity and prepares to join his rites.",
+   "source": "Euripides, Bacchae 170–369",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cadmus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Bacchic worship",
+   "note": "Tiresias and Cadmus dress as Bacchants and defend Dionysus’s rites.",
+   "source": "Euripides, Bacchae 170–369",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pentheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pentheus rejects Dionysus",
+   "note": "Tiresias rebukes Pentheus’s impiety and predicts his disastrous collision with Dionysus.",
+   "source": "Euripides, Bacchae 170–369",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Heracles strangles Hera’s snakes",
+   "note": "Tiresias foretells Heracles’s labours, victories, apotheosis, and marriage to Hebe.",
+   "source": "Pindar, Nemean 1.60–72",
+   "date": "470s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcmena",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Prophecy over infant Heracles",
+   "note": "Tiresias tells Alcmena her infant son’s heroic future.",
+   "source": "Pindar, Nemean 1; Theocritus 24",
+   "date": "470s–third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphitryon",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Zeus impersonates Amphitryon",
+   "note": "Tiresias reveals that Zeus assumed Amphitryon’s form and slept with Alcmena.",
+   "source": "“Apollodorus,” Bibliotheca 2.4.8",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Investigation of Laius’s murder",
+   "note": "Tiresias identifies Oedipus as Laius’s killer and foretells his exposure.",
+   "source": "Sophocles, Oedipus Tyrannus 300–462",
+   "date": "420s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Necromancy for Laius",
+   "note": "Tiresias conducts necromancy to summon Laius’s ghost.",
+   "source": "Statius, Thebaid 4",
+   "date": "ca. 92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pollution from Polyneices",
+   "note": "Tiresias warns Creon and predicts catastrophe after Creon rejects his advice.",
+   "source": "Sophocles, Antigone 988–1114",
+   "date": "ca. 442–441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Menoeceus’s required sacrifice",
+   "note": "Tiresias tells Creon that his son must die to save Thebes.",
+   "source": "Euripides, Phoenissae 834–959",
+   "date": "ca. 410–408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menoeceus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Sacrifice to save Thebes",
+   "note": "Tiresias names Menoeceus as the required sacrificial victim.",
+   "source": "Euripides, Phoenissae 834–959",
+   "date": "ca. 410–408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recompense for Cadmus’s dragon",
+   "note": "Tiresias explains that Ares requires payment for the slain dragon.",
+   "source": "Euripides, Phoenissae 834–959",
+   "date": "ca. 410–408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyneices",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Polyneices’s unburied corpse",
+   "note": "Tiresias interprets the ritual pollution caused by Polyneices’s exposed corpse.",
+   "source": "Sophocles, Antigone 998–1032",
+   "date": "ca. 442–441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Antigone’s living tomb",
+   "note": "Tiresias’s warning requires Creon to release Antigone, though too late.",
+   "source": "Sophocles, Antigone 988–1114",
+   "date": "ca. 442–441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haemon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Creon’s punishment",
+   "note": "Tiresias foretells the death of Creon’s child, fulfilled by Haemon.",
+   "source": "Sophocles, Antigone 1064–1090",
+   "date": "ca. 442–441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Narcissus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Prophecy of self-knowledge",
+   "note": "Tiresias prophesies Narcissus will live long unless he knows himself.",
+   "source": "Ovid, Metamorphoses 3.339–350",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Epigoni",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fall of Thebes",
+   "note": "Tiresias foresees defeat and becomes captive or dedicated spoil after Thebes falls.",
+   "source": "“Apollodorus”; Pausanias",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Captives taken toward Delphi",
+   "note": "The conquerors intend Tiresias or Manto as a dedication to Apollo.",
+   "source": "Pausanias 9.33.1; Bibliotheca 3.7.4",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Sostratus’s transformation cycle",
+   "note": "Apollo successively alters Tiresias’s sex or form in an extravagant variant.",
+   "source": "Sostratus, summarized by Eustathius",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "transformed_by",
+   "myth": "Sostratus’s transformation cycle",
+   "note": "Hera successively alters Tiresias’s sex or form in an extravagant variant.",
+   "source": "Sostratus, summarized by Eustathius",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "transformed_by",
+   "myth": "Sostratus’s transformation cycle",
+   "note": "Zeus successively alters Tiresias’s sex or form in an extravagant variant.",
+   "source": "Sostratus, summarized by Eustathius",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Sostratus’s transformation cycle",
+   "note": "The Muses alter Tiresias’s sex or form in an extravagant variant.",
+   "source": "Sostratus, summarized by Eustathius",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Sostratus’s transformation cycle",
+   "note": "Aphrodite alters Tiresias’s sex or form in an extravagant variant.",
+   "source": "Sostratus, summarized by Eustathius",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  }
+ ]
+}

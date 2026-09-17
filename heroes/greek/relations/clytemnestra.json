@@ -1,0 +1,595 @@
+{
+ "subject": "clytemnestra",
+ "relations": [
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Dominant genealogy names Tyndareus as Clytemnestra’s mortal father.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Leda is Clytemnestra’s mother in the standard Tyndareid genealogy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Castor is Clytemnestra’s brother and, in Hyginus, shares Tyndareus as father.",
+   "source": "Hyginus, Fabulae 77–80",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dioscuri confront Agamemnon",
+   "note": "Castor marched against Agamemnon after Clytemnestra’s coerced marriage.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pollux",
+   "other_aliases": [
+    "Polydeuces"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pollux is Clytemnestra’s half-brother under Hyginus’ divided-paternity genealogy.",
+   "source": "Hyginus, Fabulae 77–80",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pollux",
+   "other_aliases": [
+    "Polydeuces"
+   ],
+   "kind": "allied",
+   "myth": "Dioscuri confront Agamemnon",
+   "note": "With Castor, Polydeuces threatened Agamemnon after Clytemnestra’s forced marriage.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pollux",
+   "other_aliases": [
+    "Polydeuces"
+   ],
+   "kind": "judged",
+   "myth": "Judgment after Clytemnestra’s murder",
+   "note": "As deus ex machina, Polydeuces condemns the siblings’ matricide.",
+   "source": "Euripides, Electra",
+   "date": "late 5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Helen is Clytemnestra’s sister or half-sister in competing Tyndareid genealogies.",
+   "source": "Hesiodic fragments; Hyginus",
+   "date": "7th c. BCE–imperial",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite curses Tyndareus’ daughters",
+   "note": "Their marital infidelities are paired as consequences of Aphrodite’s punishment.",
+   "source": "Hesiodic fragment 176",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Timandra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Timandra is Clytemnestra’s sister in the Hesiodic genealogy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Timandra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite curses Tyndareus’ daughters",
+   "note": "Their abandonment or dishonouring of husbands is paired in archaic genealogy.",
+   "source": "Hesiodic fragment 176",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phylonoe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phylonoe is Clytemnestra’s sister in one reconstruction of the fragmentary genealogy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tantalus, son of Thyestes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tantalus was Clytemnestra’s first husband before Agamemnon killed him.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the unnamed infant by Tantalus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Clytemnestra’s unnamed infant by Tantalus was killed by Agamemnon.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Agamemnon becomes Clytemnestra’s husband, forcibly in later accounts.",
+   "source": "Iliad 1.113",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Agamemnon’s homecoming",
+   "note": "Clytemnestra feigns fidelity and persuades Agamemnon to tread upon costly textiles.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of Agamemnon",
+   "note": "Clytemnestra helps Aegisthus murder Agamemnon at a banquet.",
+   "source": "Homer, Odyssey 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder in the enveloping garment",
+   "note": "Clytemnestra traps Agamemnon in a garment or net and strikes three blows.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Sleeveless garment murder",
+   "note": "Clytemnestra and Aegisthus cut Agamemnon down inside a neckless, sleeveless garment.",
+   "source": "Apollodorus, Epitome 6.23",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder during sacrifice",
+   "note": "Clytemnestra and Aegisthus kill the sacrificing Agamemnon with an axe.",
+   "source": "Hyginus, Fabula 117",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Aegisthus’ courtship",
+   "note": "Aegisthus removes her guardian bard and eventually overcomes her initial resistance.",
+   "source": "Homer, Odyssey 3",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Clytemnestra becomes Aegisthus’ partner and, in later traditions, bears his children.",
+   "source": "Homer through later mythography",
+   "date": "8th c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Murder and rule at Argos",
+   "note": "They jointly murder Agamemnon and rule his household until Orestes returns.",
+   "source": "Nostoi; Aeschylus, Agamemnon",
+   "date": "archaic–458 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erigone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later traditions make Erigone the daughter of Clytemnestra and Aegisthus.",
+   "source": "Later Aegisthus traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aletes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late accounts make Aletes the child of Clytemnestra and Aegisthus.",
+   "source": "Later Aegisthus traditions",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Orestes is Clytemnestra’s son by Agamemnon.",
+   "source": "Homer, Odyssey",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Orestes’ matricide",
+   "note": "Orestes kills Clytemnestra in vengeance for Agamemnon’s murder.",
+   "source": "Aeschylus, Libation Bearers",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "False report of Orestes’ death",
+   "note": "Disguised Orestes gains palace access through false news before the matricide.",
+   "source": "Aeschylus, Libation Bearers",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electra is Clytemnestra’s daughter in archaic genealogy and tragedy.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Mother-daughter moral dispute",
+   "note": "Electra accuses Clytemnestra, who defends her actions and Iphigenia grievance.",
+   "source": "Sophocles, Electra",
+   "date": "late 5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "False childbirth summons",
+   "note": "Electra lures Clytemnestra to her death with a fabricated childbirth.",
+   "source": "Euripides, Electra",
+   "date": "420s–410s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Iphigenia is Clytemnestra’s daughter in lyric, tragedy, and mythography.",
+   "source": "Pindar, Pythian 11",
+   "date": "474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Sacrifice at Aulis",
+   "note": "Clytemnestra unsuccessfully pleads and seeks Achilles’ help to prevent her sacrifice.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphimede",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Hesiodic Catalogue names Iphimede as Clytemnestra and Agamemnon’s daughter.",
+   "source": "Hesiodic Catalogue of Women",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphianassa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Iliad names Iphianassa among Agamemnon’s daughters by implication.",
+   "source": "Iliad 9.145",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chrysothemis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chrysothemis is named among Clytemnestra and Agamemnon’s daughters.",
+   "source": "Iliad 9.145",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laodice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Laodice is named among Agamemnon’s daughters, with no direct maternal episode.",
+   "source": "Iliad 9.145",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Palace double murder",
+   "note": "Clytemnestra kills Cassandra, Agamemnon’s captive prophet and sexual war prize.",
+   "source": "Homer, Odyssey 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Palace double murder",
+   "note": "Clytemnestra kills Cassandra after the prophet knowingly enters the palace.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Curse upon Tyndareus’ daughters",
+   "note": "Aphrodite afflicts Clytemnestra and her sisters with marital infidelity.",
+   "source": "Hesiodic fragment 176",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Sacrifice at Aulis",
+   "note": "Clytemnestra opposes Artemis’ demand for Iphigenia’s sacrifice.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Apollo commands Orestes’ vengeance",
+   "note": "Apollo’s oracle authorizes the matricide that brings about Clytemnestra’s death.",
+   "source": "Aeschylus, Libation Bearers",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Clytemnestra’s ghost denounces Apollo",
+   "note": "Her ghost condemns Apollo for protecting Orestes while neglecting her blood claim.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Trial of Orestes",
+   "note": "Athena adjudicates the matricide in which Clytemnestra is the absent dead victim.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "False marriage summons to Aulis",
+   "note": "Achilles’ name is used without his knowledge to lure Clytemnestra and Iphigenia.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attempted rescue at Aulis",
+   "note": "Achilles meets Clytemnestra and promises limited protection for Iphigenia.",
+   "source": "Euripides, Iphigenia at Aulis",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "served",
+   "myth": "Nocturnal offerings",
+   "note": "Clytemnestra says she formerly honoured the Erinyes with nocturnal offerings.",
+   "source": "Aeschylus, Eumenides 94–139",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "allied",
+   "myth": "Ghost awakens the Erinyes",
+   "note": "Clytemnestra’s ghost rouses them and commissions their pursuit of Orestes.",
+   "source": "Aeschylus, Eumenides 94–139",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oeax",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Warning about Cassandra",
+   "note": "Oeax falsely or maliciously reports that Cassandra is arriving as Clytemnestra’s rival.",
+   "source": "Hyginus, Fabula 117",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "False Achilles marriage",
+   "note": "Odysseus helps obtain Iphigenia from Clytemnestra using the false marriage story.",
+   "source": "Apollodorus; Hyginus",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "False Achilles marriage",
+   "note": "The herald helps fetch Iphigenia from Clytemnestra under the marriage pretext.",
+   "source": "Apollodorus",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Orestes attacks Aegisthus",
+   "note": "Talthybius restrains axe-bearing Clytemnestra as she rushes to defend Aegisthus.",
+   "source": "Vienna IV 3725",
+   "date": "c. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Orestes hostage episode",
+   "note": "On Clytemnestra’s advice, Telephus seizes infant Orestes to obtain a cure.",
+   "source": "Hyginus, Fabula 101",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Revenge for Agamemnon",
+   "note": "The Nostoi pairs Pylades with Orestes in the vengeance culminating in Clytemnestra’s death.",
+   "source": "Nostoi summary",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pylades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orestes hesitates before matricide",
+   "note": "Pylades invokes Apollo’s oracle, overcoming Orestes’ hesitation to kill Clytemnestra.",
+   "source": "Aeschylus, Libation Bearers",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Strophius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orestes’ rescue",
+   "note": "Strophius receives and fosters Orestes after the child is removed from Clytemnestra’s household.",
+   "source": "Stesichorean fragments; mythography",
+   "date": "6th c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Menelaus is Clytemnestra’s brother-in-law through Agamemnon and Helen.",
+   "source": "Homeric epic",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Prayer before Agamemnon’s murder",
+   "note": "Clytemnestra prays to Zeus Teleios while preparing her design against Agamemnon.",
+   "source": "Aeschylus, Agamemnon 973–974",
+   "date": "458 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

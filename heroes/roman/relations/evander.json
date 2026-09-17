@@ -1,0 +1,480 @@
+{
+ "subject": "evander",
+ "relations": [
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hermes is Evander’s father in the divine Arcadian genealogy.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hermes fathers Evander by an unnamed daughter of Ladon.",
+   "source": "Pausanias 8.43.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Romanized genealogy names Mercury as Evander’s father.",
+   "source": "Origo gentis Romanae 5",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Carmenta",
+   "other_aliases": [
+    "Carmentis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Carmenta is Evander’s prophetic mother in the Romanized divine genealogy.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Carmenta",
+   "other_aliases": [
+    "Carmentis"
+   ],
+   "kind": "child_of",
+   "myth": "Evander’s exile from Arcadia",
+   "note": "His prophetic mother accompanies, consoles, and guides him during exile.",
+   "source": "Ovid, Fasti 1.461–540",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Carmenta",
+   "other_aliases": [
+    "Carmentis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One alternative tradition makes Carmenta Evander’s wife rather than mother.",
+   "source": "Plutarch, Roman Questions 56",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [
+    "Thespiodos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Themis is the Greek designation of Evander’s prophetic mother.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [
+    "Thespiodos"
+   ],
+   "kind": "taught_by",
+   "myth": "Settlement of Pallantium",
+   "note": "The prophetic Themis guides Evander’s colonists in selecting their settlement.",
+   "source": "Dionysius, Roman Antiquities 1.31–33",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nicostrata",
+   "other_aliases": [
+    "Carmenta",
+    "Carmentis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nicostrata is an alternative name for Evander’s prophetic maternal figure.",
+   "source": "Strabo 5.3.3; Plutarch",
+   "date": "Augustan–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Echemus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late human genealogy names Echemus, king of Tegea, as Evander’s father.",
+   "source": "Servius on Aeneid 8.130",
+   "date": "late antique",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Timandra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late human genealogy names Timandra as Evander’s mother.",
+   "source": "Servius on Aeneid 8.130",
+   "date": "late antique",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Evander’s settlement in Latium",
+   "note": "Faunus receives Evander’s colonists hospitably and grants them land.",
+   "source": "Dionysius, Roman Antiquities 1.31.2",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan Lycaeus",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Arcadian foundation of the Lupercal",
+   "note": "Evander’s Arcadians establish or transfer Pan’s cult to the Lupercal.",
+   "source": "Dionysius 1.32; Ovid, Fasti 2",
+   "date": "20s BCE–c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Victory",
+   "other_aliases": [
+    "Nike"
+   ],
+   "kind": "created",
+   "myth": "Foundation of Palatine cults",
+   "note": "Evander’s Arcadians establish Victory’s Palatine precinct and sacrifices.",
+   "source": "Dionysius, Roman Antiquities 1.32.5–33.1",
+   "date": "20s BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "created",
+   "myth": "Foundation of Greek rites",
+   "note": "Evander’s Arcadians establish her wine-free rites served by women.",
+   "source": "Dionysius, Roman Antiquities 1.33.1",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Neptune Equestris",
+   "other_aliases": [
+    "Poseidon Hippios"
+   ],
+   "kind": "created",
+   "myth": "Foundation of equestrian rites",
+   "note": "Evander’s Arcadians establish his precinct and equestrian festival.",
+   "source": "Dionysius, Roman Antiquities 1.33.2",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Consus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Arcadian explanation of the Consualia",
+   "note": "Consus’s Roman festival is equated with the Arcadian equestrian rite.",
+   "source": "Dionysius, Roman Antiquities 1.33.2",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Migration from Arcadia",
+   "note": "Some antiquarian traditions make Apollo guide Evander’s migration.",
+   "source": "Later antiquarian testimonia",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "other",
+   "myth": "Hercules received after killing Cacus",
+   "note": "Evander hosts Hercules and recognizes his divine parentage and future apotheosis.",
+   "source": "Livy 1.7",
+   "date": "c. 27–9 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "created",
+   "myth": "Foundation of the Ara Maxima rites",
+   "note": "Evander establishes Hercules’ first Roman honors and performs sacrifice.",
+   "source": "Dionysius, Roman Antiquities 1.40",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "shared_myth",
+   "myth": "Hercules and Cacus",
+   "note": "Evander celebrates Hercules and narrates his defeat of Cacus to Aeneas.",
+   "source": "Virgil, Aeneid 8.184–279",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cacus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hercules and Cacus",
+   "note": "Evander’s community benefits from Cacus’s death, which Evander narrates to Aeneas.",
+   "source": "Virgil, Aeneid 8.184–279",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Aeneas visits Pallanteum",
+   "note": "Evander welcomes Aeneas, tours future Rome, and directs him toward Etruscan aid.",
+   "source": "Virgil, Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Pallas entrusted to Aeneas",
+   "note": "Evander entrusts his son Pallas and an Arcadian cavalry force to Aeneas.",
+   "source": "Virgil, Aeneid 8.558–584",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Priam’s visit to Arcadia",
+   "note": "Young Evander receives a cloak, weapons, and bridles from Anchises.",
+   "source": "Virgil, Aeneid 8.152–174",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priam’s visit to Arcadia",
+   "note": "Evander remembers seeing Priam during the Trojan king’s Arcadian visit.",
+   "source": "Virgil, Aeneid 8.157–162",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Evander invokes shared descent from Atlas linking Arcadian and Trojan houses.",
+   "source": "Virgil, Aeneid 8.127–151",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas, son of Evander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pallas is Evander’s son in Virgil’s dominant tradition.",
+   "source": "Virgil, Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas, son of Evander",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sacrifice to Hercules",
+   "note": "Evander and Pallas worship Hercules together when Aeneas arrives.",
+   "source": "Virgil, Aeneid 8.102–125",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas, son of Evander",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Pallas sent to war",
+   "note": "Evander sends Pallas as military protégé and companion under Aeneas.",
+   "source": "Virgil, Aeneid 8.558–584",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas, son of Evander",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Evander mourns Pallas",
+   "note": "Evander receives and laments his slain son’s body and demands vengeance.",
+   "source": "Virgil, Aeneid 11.139–181",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas, son of Hercules and Lavinia",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Pallas is Evander’s grandson through Lavinia and Hercules.",
+   "source": "Polybius fragment in Dionysius 1.32",
+   "date": "mid-second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pallas, son of Hercules and Lavinia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Foundation of Pallantium",
+   "note": "Evander raises Pallas’s tomb and names Pallantium for him.",
+   "source": "Polybius fragment in Dionysius 1.32",
+   "date": "mid-second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pallas, Arcadian ancestor",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "An ancestral Pallas is the forebear and eponym of Evander’s Arcadian people.",
+   "source": "Virgil, Aeneid 8.51–54",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lavinia, Evander’s daughter",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lavinia is Evander’s daughter and Hercules’ partner in Polybius’s genealogy.",
+   "source": "Polybius fragment in Dionysius 1.32",
+   "date": "mid-second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pallantia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late commentary names Pallantia as Evander’s daughter and possible eponym.",
+   "source": "Late commentary tradition",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rome",
+   "other_aliases": [
+    "Rhōmē"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late genealogical material assigns Rome as Evander’s daughter.",
+   "source": "Late genealogical material",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dyna",
+   "other_aliases": [
+    "Dyne"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Marginal mythographic genealogy names Dyna as Evander’s daughter.",
+   "source": "Marginal mythographic genealogy",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Turnus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Pallas",
+   "note": "After Turnus kills Pallas, Evander awaits vengeance through Aeneas.",
+   "source": "Virgil, Aeneid 10–11",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mezentius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Etruscan revolt against Mezentius",
+   "note": "Evander explains Mezentius’s cruelty and the Etruscan revolt to Aeneas.",
+   "source": "Virgil, Aeneid 8.478–519",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tarchon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Etruscan alliance against Mezentius",
+   "note": "Evander directs Aeneas toward Tarchon’s forces, which require a foreign commander.",
+   "source": "Virgil, Aeneid 8.498–519",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erulus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Evander’s combat with Erulus",
+   "note": "Evander kills the three-lived Erulus three times in combat.",
+   "source": "Virgil, Aeneid 8.560–567",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Patron",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Migration from Arcadia",
+   "note": "Patron accompanies Evander during his migration and settlement.",
+   "source": "Plutarch, Romulus 13",
+   "date": "late first–early second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Catillus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arcadian migration to Italy",
+   "note": "Catillus is associated with Evander’s expedition in later Tibur traditions.",
+   "source": "Late antiquarian tradition",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  }
+ ]
+}

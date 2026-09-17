@@ -1,0 +1,38 @@
+{
+ "subject": "don_rodrigo_and_la_cava",
+ "relations": [
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tower or Cave of Hercules",
+   "note": "Later legend associates Rodrigo’s forbidden chamber with a structure named for Hercules.",
+   "source": "Medieval and early-modern Toledo tradition",
+   "date": "medieval–early modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Rodrigo’s penitence and serpent tomb",
+   "note": "A heavenly voice prescribes Rodrigo’s penance; God receives him after punishment.",
+   "source": "Corral and penitential romances",
+   "date": "c.1430 onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Devil",
+   "other_aliases": [
+    "she-devil",
+    "female demon"
+   ],
+   "kind": "deceived_by",
+   "myth": "The demon tempts the penitent Rodrigo",
+   "note": "A female demon assumes a form associated with Cava to tempt Rodrigo.",
+   "source": "Pedro de Corral, Crónica sarracina",
+   "date": "c.1430",
+   "tier": "late_accretion"
+  }
+ ]
+}

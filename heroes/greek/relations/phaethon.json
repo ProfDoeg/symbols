@@ -1,0 +1,359 @@
+{
+ "subject": "phaethon",
+ "relations": [
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol",
+    "Sun",
+    "Phoebus",
+    "Titan",
+    "Hyperionides"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Helios is Phaethon's biological father in the principal charioteer genealogies.",
+   "source": "Euripides, Phaethon",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol",
+    "Sun",
+    "Phoebus",
+    "Titan",
+    "Hyperionides"
+   ],
+   "kind": "gift",
+   "myth": "Phaethon requests the solar chariot",
+   "note": "Bound by his oath, Helios reluctantly grants Phaethon the chariot.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol",
+    "Sun",
+    "Phoebus",
+    "Titan",
+    "Hyperionides"
+   ],
+   "kind": "taught_by",
+   "myth": "Instructions for driving the solar chariot",
+   "note": "Helios explains the route, dangers, horses, and proper handling of the reins.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol",
+    "Sun",
+    "Phoebus",
+    "Titan",
+    "Hyperionides"
+   ],
+   "kind": "transformed_by",
+   "myth": "Phaethon's catasterism",
+   "note": "Sol places the dead Phaethon among the stars.",
+   "source": "Hyginus, Fabulae 154",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Clymene is Phaethon's mother in the Euripidean and Ovidian genealogies.",
+   "source": "Euripides, Phaethon",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Clymene reveals Phaethon's divine paternity",
+   "note": "Clymene identifies Helios as his father and directs him to seek proof.",
+   "source": "Euripides, Phaethon",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhode",
+   "other_aliases": [
+    "Rhodos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One scholastic genealogy makes Rhode, daughter of Asopus, Phaethon's mother.",
+   "source": "Scholia to Odyssey 17.208 and Pindar",
+   "date": "transmitted much later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Clymenus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus' alternative genealogy makes Clymenus, son of Sol, Phaethon's father.",
+   "source": "Hyginus, Fabulae 154",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Merope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus' alternative genealogy makes the Oceanid Merope Phaethon's mother.",
+   "source": "Hyginus, Fabulae 154",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prote",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Byzantine variant names Prote as Phaethon's mother.",
+   "source": "Tzetzes, Chiliades 4.127",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Oceanus is Phaethon's maternal grandfather through Clymene.",
+   "source": "Euripides, Phaethon",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Oceanus raises the young Phaethon",
+   "note": "Oceanus raises and plays with Phaethon, accidentally foreshadowing his watery death.",
+   "source": "Nonnus, Dionysiaca 38",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tethys is Phaethon's maternal grandmother through Clymene.",
+   "source": "Nonnus, Dionysiaca 38",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tethys salvages the shattered chariot",
+   "note": "Tethys recovers wreckage after Phaethon's catastrophic fall.",
+   "source": "Valerius Flaccus, Argonautica 5",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heliades",
+   "other_aliases": [
+    "Phaethontiades",
+    "Phaethontides",
+    "Daughters of the Sun"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Heliades are Phaethon's sisters in the principal accounts.",
+   "source": "Aeschylus, Heliades",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heliades",
+   "other_aliases": [
+    "Phaethontiades",
+    "Phaethontides",
+    "Daughters of the Sun"
+   ],
+   "kind": "served_by",
+   "myth": "The Heliades yoke the solar horses",
+   "note": "Some variants blame Phaethon's sisters for yoking the horses before his ride.",
+   "source": "Hyginus, Fabulae",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Epaphus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Epaphus challenges Phaethon's divine paternity",
+   "note": "Epaphus mocks Phaethon's claimed parentage, provoking his journey to Helios.",
+   "source": "Ovid, Metamorphoses 1.750–779",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "killed_by",
+   "myth": "Zeus stops the cosmic conflagration",
+   "note": "Zeus kills Phaethon with a thunderbolt to halt the burning of earth.",
+   "source": "Plato, Timaeus 22c–d",
+   "date": "c. 360 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Tellus",
+    "Earth"
+   ],
+   "kind": "other",
+   "myth": "Earth appeals against Phaethon's conflagration",
+   "note": "Phaethon's errant course burns Earth, who appeals to Zeus for intervention.",
+   "source": "Ovid, Metamorphoses 2.272–300",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eridanus",
+   "other_aliases": [
+    "Po",
+    "Padus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Phaethon falls into Eridanus",
+   "note": "The river receives Phaethon's burning body after Zeus strikes him.",
+   "source": "Apollonius, Argonautica 4.592–626",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hesperian Naiads",
+   "other_aliases": [
+    "Naiads"
+   ],
+   "kind": "served_by",
+   "myth": "Naiads bury Phaethon's body",
+   "note": "The Hesperian Naiads bury Phaethon's smouldering body and inscribe his epitaph.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cycnus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cycnus mourns beside Eridanus",
+   "note": "Phaethon's kinsman or companion searches the river and mourns until transformed.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horae",
+   "other_aliases": [
+    "Hours"
+   ],
+   "kind": "served_by",
+   "myth": "The Hours prepare the solar team",
+   "note": "The Hours yoke the immortal horses for Phaethon's departure.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Aurora",
+    "Dawn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Dawn opens the gates before Phaethon's ride",
+   "note": "Eos opens the dawn gates before Phaethon departs in the solar chariot.",
+   "source": "Ovid, Metamorphoses 2.111–116",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eosphorus",
+   "other_aliases": [
+    "Lucifer",
+    "Morning Star"
+   ],
+   "kind": "allied",
+   "myth": "Eosphorus assists the solar departure",
+   "note": "In Nonnus, Eosphorus helps yoke or guide the team for Phaethon.",
+   "source": "Nonnus, Dionysiaca 38",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "shared_myth",
+   "myth": "Selene attends Phaethon's birth",
+   "note": "Selene attends Clymene's wedding and Phaethon's birth in Nonnus.",
+   "source": "Nonnus, Dionysiaca 38",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pyrois",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Phaethon loses control of the solar horses",
+   "note": "Pyrois bolts with the team when Phaethon cannot govern the chariot.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eous",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Phaethon loses control of the solar horses",
+   "note": "Eous bolts with the team when Phaethon cannot govern the chariot.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aethon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Phaethon loses control of the solar horses",
+   "note": "Aethon bolts with the team when Phaethon cannot govern the chariot.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phlegon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Phaethon loses control of the solar horses",
+   "note": "Phlegon bolts with the team when Phaethon cannot govern the chariot.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  }
+ ]
+}

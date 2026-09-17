@@ -1,0 +1,53 @@
+{
+ "subject": "lavinia",
+ "relations": [
+  {
+   "other": "Aeneas",
+   "other_aliases": [
+    "Jupiter Indiges",
+    "Enéas"
+   ],
+   "kind": "consort_of",
+   "myth": "Marriage of Aeneas and Lavinia",
+   "note": "Lavinia is given in marriage to Aeneas after his arrival in Italy.",
+   "source": "Cato, Origines Book 1 fragment",
+   "date": "mid-second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [
+    "Jupiter Indiges",
+    "Enéas"
+   ],
+   "kind": "other",
+   "myth": "Foundation of Lavinium",
+   "note": "Aeneas founds Lavinium and names the city after Lavinia.",
+   "source": "Livy, Ab urbe condita 1.1",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lavinia is Faunus’ granddaughter through her father Latinus.",
+   "source": "Virgil, Aeneid 7.81–106",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anna Perenna",
+   "other_aliases": [
+    "Anna"
+   ],
+   "kind": "deceived",
+   "myth": "Lavinia’s plot against Anna",
+   "note": "Lavinia promises sisterly treatment but secretly suspects and plots against Anna.",
+   "source": "Ovid, Fasti 3.601–656",
+   "date": "2–8 CE",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "subject": "cadmus",
+ "relations": [
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Agenor is Cadmus’s father in the canonical Agenorid genealogy.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Search for Europa",
+   "note": "Agenor orders Cadmus to recover Europa and forbids returning without her.",
+   "source": "Pherecydes fragments; Apollodorus 3.1.1",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Phoenix is Cadmus’s father in a competing epic and genealogical tradition.",
+   "source": "Epic and genealogical fragments",
+   "date": "Archaic period onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Telephassa",
+   "other_aliases": [
+    "Argiope"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Telephassa, also called Argiope, is Cadmus’s mother.",
+   "source": "Apollodorus 3.1.1; scholia",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telephassa",
+   "other_aliases": [
+    "Argiope"
+   ],
+   "kind": "shared_myth",
+   "myth": "Search for Europa",
+   "note": "Telephassa accompanies Cadmus’s search and dies in Thrace.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Europa is Cadmus’s sister or close kinswoman in Agenorid traditions.",
+   "source": "Pherecydes fragments; Apollodorus 3.1.1",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Search for abducted Europa",
+   "note": "Her abduction by Zeus launches Cadmus’s unsuccessful wandering and search.",
+   "source": "Apollodorus 3.1.1; Ovid 3.1–9",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phoenix is Cadmus’s brother in the canonical Agenorid genealogy.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cilix",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cilix is Cadmus’s brother and fellow searcher for Europa.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cilix",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Search for Europa",
+   "note": "Cilix accompanies the family search before settling and naming Cilicia.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thasus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Search for Europa",
+   "note": "Cadmus’s kinsman or companion leaves the search and settles Thasos.",
+   "source": "Herodotus 6.47; Apollodorus 3.1.1",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "taught",
+   "myth": "Oracle of the Delphic cow",
+   "note": "Apollo directs Cadmus to abandon the search, follow a cow, and found a city.",
+   "source": "Apollodorus 3.4.1; Ovid 3.8–25",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "Apollo attends and plays at the wedding in expanded accounts.",
+   "source": "Diodorus 5.49",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Onga"
+   ],
+   "kind": "gift",
+   "myth": "Sacrifice of the Delphic cow",
+   "note": "Cadmus sacrifices the guiding cow to Athena at the foundation site.",
+   "source": "Apollodorus 3.4.1; Pausanias 9.12.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Onga"
+   ],
+   "kind": "taught",
+   "myth": "Sowing the dragon’s teeth",
+   "note": "Athena instructs Cadmus to sow the slain dragon’s teeth.",
+   "source": "Euripides, Phoenician Women",
+   "date": "about 410–408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Onga"
+   ],
+   "kind": "gift",
+   "myth": "Foundation of the Cadmeia",
+   "note": "Athena grants or validates Cadmus’s rule after his service to Ares.",
+   "source": "Apollodorus 3.4.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "served",
+   "myth": "Expiation for killing the dragon",
+   "note": "Cadmus serves Ares for eight years after killing his sacred offspring.",
+   "source": "Apollodorus 3.4.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "rescued_by",
+   "myth": "Translation to the blessed land",
+   "note": "Ares ultimately rescues Cadmus and Harmonia to the land of the blessed.",
+   "source": "Euripides, Bacchae",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "punished_by",
+   "myth": "Serpent transformation",
+   "note": "Hyginus makes Cadmus’s transformation punishment for killing Ares’s dragon.",
+   "source": "Hyginus, Fabulae",
+   "date": "early Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Ismenian dragon",
+   "other_aliases": [
+    "dragon of Ares",
+    "Ares’s dragon"
+   ],
+   "kind": "fought",
+   "myth": "Combat at Ares’s spring",
+   "note": "Cadmus battles the dragon after it kills his water-fetching companions.",
+   "source": "Euripides, Phoenician Women",
+   "date": "about 410–408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Ismenian dragon",
+   "other_aliases": [
+    "dragon of Ares",
+    "Ares’s dragon"
+   ],
+   "kind": "killed",
+   "myth": "Combat at Ares’s spring",
+   "note": "Cadmus kills the dragon and subsequently sows its teeth.",
+   "source": "Euripides, Phoenician Women",
+   "date": "about 410–408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Spartoi",
+   "other_aliases": [
+    "Sown Men"
+   ],
+   "kind": "created",
+   "myth": "Sowing the dragon’s teeth",
+   "note": "Cadmus sows the dragon’s teeth, from which the armed Spartoi arise.",
+   "source": "Euripides, Phoenician Women",
+   "date": "about 410–408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Spartoi",
+   "other_aliases": [
+    "Sown Men"
+   ],
+   "kind": "deceived",
+   "myth": "Battle of the Spartoi",
+   "note": "Cadmus throws a stone among them, provoking their mutual slaughter.",
+   "source": "Apollodorus 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Echion",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation after the Spartoi battle",
+   "note": "The surviving Spartus helps establish Cadmus’s city and marries Agave.",
+   "source": "Apollodorus 3.4.1–2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Udaeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation after the Spartoi battle",
+   "note": "Udaeus survives the Spartoi conflict and becomes a Theban ancestor.",
+   "source": "Apollodorus 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chthonius",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation after the Spartoi battle",
+   "note": "Chthonius survives the Spartoi conflict and becomes a Theban ancestor.",
+   "source": "Apollodorus 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyperenor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation after the Spartoi battle",
+   "note": "Hyperenor survives the Spartoi conflict and becomes a Theban ancestor.",
+   "source": "Apollodorus 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelorus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation after the Spartoi battle",
+   "note": "Pelorus survives the Spartoi conflict and becomes a Theban ancestor.",
+   "source": "Apollodorus 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [
+    "Hermione"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Harmonia is Cadmus’s wife and the mother of his principal children.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [
+    "Hermione"
+   ],
+   "kind": "shared_myth",
+   "myth": "Divine wedding at Thebes",
+   "note": "Cadmus and Harmonia marry at a feast attended by the gods.",
+   "source": "Theognis 15–18; Pindar, Pythian 3",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [
+    "Hermione"
+   ],
+   "kind": "shared_myth",
+   "myth": "Illyrian exile and rule",
+   "note": "The spouses lead the Encheleans, defeat Illyrians, and rule together.",
+   "source": "Apollodorus 3.5.4",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [
+    "Hermione"
+   ],
+   "kind": "shared_myth",
+   "myth": "Transformation into serpents",
+   "note": "Cadmus and Harmonia are jointly transformed into serpents.",
+   "source": "Apollodorus 3.5.4; Ovid 4.563–603",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "Zeus gives Harmonia to Cadmus as his bride in one account.",
+   "source": "Apollodorus 3.4.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Translation to Elysium",
+   "note": "Zeus sends the transformed Cadmus and Harmonia to Elysium.",
+   "source": "Apollodorus 3.5.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "As Harmonia’s mother, Aphrodite becomes Cadmus’s divine ancestress by marriage.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "Aphrodite is a wedding participant or gift-giver in later accounts.",
+   "source": "Diodorus; Apollodorus",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "Hephaestus makes or gives Harmonia’s necklace in one tradition.",
+   "source": "Apollodorus 3.4.2; scholia",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [
+    "the Muses"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "The Muses sing at Cadmus’s divine wedding.",
+   "source": "Theognis 15–18",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "The Charites sing with the Muses at Cadmus’s wedding.",
+   "source": "Theognis 15–18",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [
+    "Leucothea",
+    "Ino-Leucothea"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ino, later the sea-goddess Leucothea, is Cadmus’s daughter.",
+   "source": "Odyssey 5.333–353",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Semele, mother of Dionysus, is Cadmus’s daughter.",
+   "source": "Hesiod, Theogony 975–978",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agave",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Agave, mother of Pentheus, is Cadmus’s daughter.",
+   "source": "Hesiod, Theogony 975–978",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agave",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recognition after Pentheus’s death",
+   "note": "Cadmus questions Agave, restores her awareness, and laments the ruined family.",
+   "source": "Euripides, Bacchae 1216–end",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Autonoe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Autonoe, mother of Actaeon, is Cadmus’s daughter.",
+   "source": "Hesiod, Theogony 975–978",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Polydorus is Cadmus’s son and dynastic heir.",
+   "source": "Hesiod, Theogony 975–978",
+   "date": "about 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Illyrius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Illyrius is born to Cadmus and Harmonia during their Illyrian rule.",
+   "source": "Apollodorus 3.5.4",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eurynome is added as Cadmus’s daughter in some late genealogies.",
+   "source": "Late genealogical traditions",
+   "date": "Hellenistic or Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cleanto",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cleanto is added as Cadmus’s daughter in some late genealogies.",
+   "source": "Late genealogical traditions",
+   "date": "Hellenistic or Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eurydice is added as Cadmus’s daughter in some late genealogies.",
+   "source": "Late genealogical traditions",
+   "date": "Hellenistic or Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Dionysus’s maternal grandfather through Semele.",
+   "source": "Euripides, Bacchae",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Cadmus accepts Dionysian worship",
+   "note": "Cadmus dresses as a Bacchant, dances, and accepts his grandson’s cult.",
+   "source": "Euripides, Bacchae 170–369",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Prophecy after Pentheus’s death",
+   "note": "Dionysus prophesies Cadmus’s serpent form, warfare, and eventual rescue.",
+   "source": "Euripides, Bacchae 1330–1360",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pentheus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Pentheus’s maternal grandfather through Agave.",
+   "source": "Euripides, Bacchae",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pentheus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Cadmus warns Pentheus",
+   "note": "Cadmus urges Pentheus to honor Dionysus and avoid impiety.",
+   "source": "Euripides, Bacchae",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pentheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recovery of Pentheus’s remains",
+   "note": "Cadmus gathers and reassembles his dismembered grandson’s remains.",
+   "source": "Euripides, Bacchae",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Actaeon",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Actaeon’s maternal grandfather through Autonoe.",
+   "source": "Euripides, Bacchae 1227–1240",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Actaeon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lament after Pentheus’s death",
+   "note": "Cadmus invokes Actaeon’s fatal dismemberment while lamenting the family.",
+   "source": "Euripides, Bacchae 1227–1240",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Acceptance of Dionysian worship",
+   "note": "Cadmus and Tiresias enter in Bacchic dress and defend Dionysus’s worship.",
+   "source": "Euripides, Bacchae 170–369",
+   "date": "about 405 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Comparison of divine weddings",
+   "note": "Pindar pairs Cadmus and Peleus as fortunate mortals whose weddings gods attended.",
+   "source": "Pindar, Pythian 3.86–103",
+   "date": "about 474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Comparison of divine weddings",
+   "note": "Thetis’s wedding to Peleus is poetically compared with Cadmus’s wedding.",
+   "source": "Pindar, Pythian 3",
+   "date": "about 474 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Division of the dragon’s teeth",
+   "note": "Aeetes receives the other portion of the teeth Cadmus sows at Thebes.",
+   "source": "Apollodorus 1.9.23; 3.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Parallel sowing in Colchis",
+   "note": "Jason later sows the parallel portion of the dragon’s teeth.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Cadmus distracts Typhon",
+   "note": "Disguised as a shepherd, Cadmus distracts Typhon with music for Zeus.",
+   "source": "Nonnus, Dionysiaca 1–2",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Zeus’s war against Typhon",
+   "note": "Cadmus assists Zeus’s campaign against Typhon through musical deception.",
+   "source": "Nonnus, Dionysiaca 1–2",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ogygus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pre-Cadmean settlement of Thebes",
+   "note": "Ogygus rules the Ectenes before Cadmus’s arrival in Pausanias’s local history.",
+   "source": "Pausanias 9.5.1–4",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyantes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cadmus conquers Boeotia",
+   "note": "Cadmus defeats or expels the Hyantes during his establishment in Boeotia.",
+   "source": "Pausanias 9.5.1–4",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aones",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cadmus conquers Boeotia",
+   "note": "Cadmus confronts the Aones, permitting some inhabitants to remain.",
+   "source": "Pausanias 9.5.1–4",
+   "date": "about 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Encheleans",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War against the Illyrians",
+   "note": "Cadmus and Harmonia lead the Encheleans to victory and rule among them.",
+   "source": "Apollodorus 3.5.4",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oedipus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Oedipus’s dynastic ancestor through Polydorus, Labdacus, and Laius.",
+   "source": "Pausanias; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Labdacus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Labdacus’s dynastic ancestor through Polydorus.",
+   "source": "Pausanias 9.5.3–4; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laius",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Laius’s dynastic ancestor through Polydorus and Labdacus.",
+   "source": "Pausanias; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Eteocles’s ancestor through the Labdacid royal line.",
+   "source": "Pausanias; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Polynices’s ancestor through the Labdacid royal line.",
+   "source": "Pausanias; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Cadmus is Antigone’s ancestor through the Labdacid royal line.",
+   "source": "Pausanias; Apollodorus",
+   "date": "Imperial period",
+   "tier": "canonical"
+  }
+ ]
+}

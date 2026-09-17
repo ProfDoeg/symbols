@@ -1,0 +1,407 @@
+{
+ "subject": "diarmuid_and_grainne",
+ "relations": [
+  {
+   "other": "Duibne",
+   "other_aliases": [
+    "Duibhne"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Diarmaid’s designation Ua Duibne implies descent from this eponymous ancestor.",
+   "source": "Medieval nomenclature",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Donn",
+   "other_aliases": [
+    "Donn Ua Duibne"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Fenian genealogies sometimes name Donn as Diarmaid’s father.",
+   "source": "Later Fenian genealogical tradition",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aonghus an Brogha",
+   "other_aliases": [
+    "Aengus Óg"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Aonghus is Diarmaid’s supernatural foster-father, not securely his biological father.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aonghus an Brogha",
+   "other_aliases": [
+    "Aengus Óg"
+   ],
+   "kind": "rescued_by",
+   "myth": "Escape from Fionn’s pursuing company",
+   "note": "Aonghus conceals or carries Gráinne and assists Diarmaid’s escape.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aonghus an Brogha",
+   "other_aliases": [
+    "Aengus Óg"
+   ],
+   "kind": "allied",
+   "myth": "Negotiated peace after the pursuit",
+   "note": "Aonghus mediates the settlement allowing Diarmaid and Gráinne to live together.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aonghus an Brogha",
+   "other_aliases": [
+    "Aengus Óg"
+   ],
+   "kind": "rescued_by",
+   "myth": "Custody of Diarmaid’s body",
+   "note": "Aonghus takes Diarmaid’s body to Brú na Bóinne after his death.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Diarmaid serves as an elite warrior under Fionn’s command.",
+   "source": "Finn-cycle tradition",
+   "date": "medieval onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gráinne is Fionn’s wife before repudiating him and separating.",
+   "source": "Finn and Gráinne",
+   "date": "tenth or eleventh century",
+   "tier": "attested"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gráinne is Fionn’s former wife after eloping with Diarmaid.",
+   "source": "Tochmarc Ailbe",
+   "date": "early Middle Irish",
+   "tier": "attested"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "other",
+   "myth": "Wedding feast at Tara",
+   "note": "Gráinne is Fionn’s intended bride but drugs him and escapes with Diarmaid.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "fought",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Fionn pursues the fugitive couple after Diarmaid violates loyalty to him.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Finn"
+   ],
+   "kind": "other",
+   "myth": "Fionn withholds the healing water",
+   "note": "Fionn twice spills healing water while Diarmaid lies mortally wounded.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cormac mac Airt",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gráinne is consistently identified as Cormac’s daughter.",
+   "source": "Fil duine and medieval tale-lists",
+   "date": "ninth–tenth centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Cormac mac Airt",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Cormac joins the pursuit or political opposition against the couple.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cormac mac Airt",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Peace settlement after the pursuit",
+   "note": "Cormac grants Ceis Corainn to Diarmaid as Gráinne’s dowry.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Art mac Cuinn",
+   "other_aliases": [
+    "Art"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Gráinne is Art’s granddaughter through her father Cormac.",
+   "source": "Tóruigheacht and learned genealogy",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Conn Cétchathach",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Gráinne is named as a remote descendant of Conn.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oisín mac Fhinn",
+   "other_aliases": [
+    "Oisín"
+   ],
+   "kind": "other",
+   "myth": "Gráinne’s courtship at Tara",
+   "note": "Oisín refuses Gráinne because she has been promised to Fionn.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oisín mac Fhinn",
+   "other_aliases": [
+    "Oisín"
+   ],
+   "kind": "taught",
+   "myth": "Diarmaid consults the warriors",
+   "note": "Oisín counsels Diarmaid that Gráinne’s binding geis cannot honorably be ignored.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oisín mac Fhinn",
+   "other_aliases": [
+    "Oisín"
+   ],
+   "kind": "allied",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Oisín repeatedly sympathizes with Diarmaid and opposes Fionn’s vindictiveness.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oscar mac Oisín",
+   "other_aliases": [
+    "Oscar"
+   ],
+   "kind": "allied",
+   "myth": "Diarmaid’s death at Beann Ghulban",
+   "note": "Oscar supports Diarmaid and threatens Fionn until he fetches healing water.",
+   "source": "Tóruigheacht death scene",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caílte mac Rónáin",
+   "other_aliases": [
+    "Caílte"
+   ],
+   "kind": "other",
+   "myth": "Gathering every wild animal pair",
+   "note": "Caílte defeats Gráinne’s delaying stratagem by gathering the animals for Fionn.",
+   "source": "Finn and Gráinne",
+   "date": "tenth or eleventh century",
+   "tier": "attested"
+  },
+  {
+   "other": "Caílte mac Rónáin",
+   "other_aliases": [
+    "Caílte"
+   ],
+   "kind": "allied",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Caílte is among the fénnidi who sympathize with Diarmaid.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diorraing mac Dobair Uí Bhaoiscne",
+   "other_aliases": [
+    "Diorraing"
+   ],
+   "kind": "other",
+   "myth": "Fionn seeks a new wife",
+   "note": "Diorraing recommends Gráinne to Fionn as a suitable wife.",
+   "source": "Tóruigheacht §1.1",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ailbe daughter of Cormac",
+   "other_aliases": [
+    "Ailbe"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ailbe is Gráinne’s sister.",
+   "source": "Tochmarc Ailbe",
+   "date": "early Middle Irish",
+   "tier": "attested"
+  },
+  {
+   "other": "Conán mac Morna",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Conán participates in pursuit traditions, though his allegiance varies between witnesses.",
+   "source": "Tóruigheacht manuscripts",
+   "date": "1651 onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Goll mac Morna",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Goll belongs to the pursuing company but sometimes restrains Fionn’s excesses.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mac Lughach",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pursuit of Diarmaid and Gráinne",
+   "note": "Mac Lughach appears among the fían during the narrative.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "the druid at Tara",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Gráinne surveys the wedding guests",
+   "note": "The unnamed druid identifies Diarmaid and describes his exceptional attractiveness.",
+   "source": "Tóruigheacht §1.5",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "the boar of Beann Ghulban",
+   "other_aliases": [
+    "the magical boar"
+   ],
+   "kind": "fought",
+   "myth": "Boar hunt at Beann Ghulban",
+   "note": "Diarmaid fights the magical boar despite his prohibition concerning boar hunting.",
+   "source": "Acallam na Senórach; Tóruigheacht",
+   "date": "late twelfth century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "the boar of Beann Ghulban",
+   "other_aliases": [
+    "the magical boar"
+   ],
+   "kind": "killed",
+   "myth": "Boar hunt at Beann Ghulban",
+   "note": "Diarmaid kills the boar after his superior weapons are left behind.",
+   "source": "Tóruigheacht",
+   "date": "fourteenth-century redaction; MS 1651",
+   "tier": "canonical"
+  },
+  {
+   "other": "the boar of Beann Ghulban",
+   "other_aliases": [
+    "the magical boar"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of Diarmaid",
+   "note": "The boar mortally wounds Diarmaid by tearing out his entrails.",
+   "source": "Acallam na Senórach",
+   "date": "late twelfth–early thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "the boar of Beann Ghulban",
+   "other_aliases": [
+    "the magical boar"
+   ],
+   "kind": "killed_by",
+   "myth": "Scottish death-lay",
+   "note": "A venomous bristle from the boar pierces Diarmaid’s foot and kills him.",
+   "source": "Laoidh Dhiarmaid",
+   "date": "early sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diarmaid’s unnamed or variably named boar-kinsman",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Origin of the fatal boar",
+   "note": "A later account makes Diarmaid kin to the being transformed into the boar.",
+   "source": "Later Fenian narratives",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diarmaid and Gráinne’s children",
+   "other_aliases": [
+    "the children of Diarmaid Ua Duibhne"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The settled couple have children, whose names and number vary by recension.",
+   "source": "Tóruigheacht and oral tradition",
+   "date": "1651 onward",
+   "tier": "canonical"
+  }
+ ]
+}

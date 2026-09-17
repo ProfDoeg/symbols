@@ -1,0 +1,474 @@
+{
+ "folder": "yoruba",
+ "gods": [
+  "ajaka",
+  "bashorun_gaa",
+  "efunsetan_aniwura",
+  "moremi_ajasoro",
+  "oranmiyan"
+ ],
+ "relations": [
+  {
+   "a": "ajaka",
+   "b": "oranmiyan",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ọ̀rànmíyàn is Ajaka’s father in the principal Oyo royal genealogy.",
+   "source": "Johnson, History of the Yorubas, pp. 147–148",
+   "date": "completed 1897; published 1921",
+   "tier": "canonical",
+   "stated_by": [
+    "ajaka",
+    "oranmiyan"
+   ]
+  },
+  {
+   "a": "ajaka",
+   "b": "oranmiyan",
+   "kind": "gift",
+   "myth": "Oranmiyan relinquishes Oyo’s throne",
+   "note": "Returning secretly, Oranmiyan withdraws rather than disturb his son’s successful reign.",
+   "source": "Ogumefu, Yoruba Legends",
+   "date": "1920s",
+   "tier": "late_accretion",
+   "stated_by": [
+    "oranmiyan"
+   ]
+  },
+  {
+   "a": "ajaka",
+   "b": "oranmiyan",
+   "kind": "served",
+   "myth": "Ajaka’s regency and accession",
+   "note": "Ọ̀rànmíyàn leaves Ajaka as regent; Ajaka is installed during his prolonged absence.",
+   "source": "Johnson, History of the Yorubas, pp. 147–148",
+   "date": "completed 1897; published 1921",
+   "tier": "canonical",
+   "stated_by": [
+    "ajaka"
+   ]
+  },
+  {
+   "a": "moremi_ajasoro",
+   "b": "oranmiyan",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Johnson cautiously calls Moremi probably his wife; later Ifẹ̀ tradition makes the marriage definite.",
+   "source": "Johnson; Bascom field notes",
+   "date": "1921; 1937–38",
+   "tier": "attested",
+   "stated_by": [
+    "moremi_ajasoro"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "ajaka",
+   "god": "yoruba/shango",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ṣàngó is Ajaka’s younger brother, or half-brother in some later accounts.",
+   "source": "Johnson, History of the Yorubas, pp. 148–154",
+   "date": "published 1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/shango",
+   "kind": "shared_myth",
+   "myth": "Ṣàngó’s interposed reign",
+   "note": "Ṣàngó replaces the deposed Ajaka; Ajaka returns after Ṣàngó’s death.",
+   "source": "Johnson, History of the Yorubas, pp. 148–154",
+   "date": "published 1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/shango",
+   "kind": "sibling_of",
+   "myth": "Bahian Dadá-Xangô genealogy",
+   "note": "Bahian traditions variously describe Dadá Ajaká as Xangô’s elder brother or sister.",
+   "source": "Querino and Verger traditions summarized by Castillo",
+   "date": "late 19th–21st centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/shango",
+   "kind": "parent_of",
+   "myth": "Bahian Dadá-Xangô genealogy",
+   "note": "One Bahian variant identifies Dadá Ajaká as Xangô’s mother.",
+   "source": "Bahian fieldwork summarized by Castillo",
+   "date": "late 19th–21st centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/shango",
+   "kind": "identified_with",
+   "myth": "Bahian Dadá-Xangô ritual identity",
+   "note": "Some Bahian traditions treat Dadá Ajaká as a quality or form of Xangô.",
+   "source": "Querino, Verger, and later Bahian fieldwork",
+   "date": "late 19th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/oduduwa",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ajaka descends dynastically from Oduduwa through Ọ̀rànmíyàn; the intervening generations vary.",
+   "source": "Johnson and later Yoruba royal genealogies",
+   "date": "published 1921 and later",
+   "tier": "canonical"
+  },
+  {
+   "a": "ajaka",
+   "god": "yoruba/aganju",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aganju is Ajaka’s son and successor in the principal Oyo genealogy.",
+   "source": "Johnson, History of the Yorubas, pp. 154–155",
+   "date": "published 1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "efunsetan_aniwura",
+   "god": "yoruba/olodumare",
+   "kind": "judged_by",
+   "myth": "Divine judgment in Isola’s epilogue",
+   "note": "Isola’s epilogue invokes divine judgment to moralize Ẹfúnṣetán’s death.",
+   "source": "Isola, Ẹfúnṣetán Aníwúrà",
+   "date": "1970",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "moremi_ajasoro",
+   "god": "yoruba/oduduwa",
+   "kind": "other",
+   "myth": "",
+   "note": "Later harmonized genealogy makes him Moremi's father-in-law through her marriage to his son Ọ̀rànmíyàn.",
+   "source": "Later royal genealogy",
+   "date": "twentieth century",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "moremi_ajasoro",
+   "god": "yoruba/oduduwa",
+   "kind": "shared_myth",
+   "myth": "Reconciliation after Odùduwà's conquest",
+   "note": "Beier makes Moremi's sacrifice reconcile Odùduwà's polity with the spirits of displaced landowners.",
+   "source": "Beier, Moremi",
+   "date": "1987",
+   "tier": "modern"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/oduduwa",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Johnson makes Oranmiyan Oduduwa’s grandson through Okanbi.",
+   "source": "Johnson, The History of the Yorubas",
+   "date": "1897/1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/oduduwa",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Other Yoruba traditions make Oranmiyan the direct son of Oduduwa.",
+   "source": "Yoruba oral traditions",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/oduduwa",
+   "kind": "child_of",
+   "myth": "Oduduwa and Olokun parent Oranmiyan",
+   "note": "Johnson’s mythological scheme makes Oranmiyan the child of Oduduwa and Olokun.",
+   "source": "Johnson, The History of the Yorubas",
+   "date": "1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/oduduwa",
+   "kind": "gift",
+   "myth": "Oduduwa’s last inheritance",
+   "note": "Oranmiyan receives iron objects, a cock, and earth from Oduduwa’s divided property.",
+   "source": "Ogumefu, Yoruba Legends",
+   "date": "1920s",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/ogun",
+   "kind": "child_of",
+   "myth": "The man of two fathers",
+   "note": "Ogun is Oranmiyan’s co-father and the source of his martial nature.",
+   "source": "Modern folklore collections",
+   "date": "modern collections",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/ogun",
+   "kind": "other",
+   "myth": "Olojo festival association",
+   "note": "Olojo ritual associates their martial and iron-linked identities without equating them.",
+   "source": "Modern ritual studies",
+   "date": "modern",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/olokun",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Johnson names Olokun as Oranmiyan’s mother and Oduduwa’s wife.",
+   "source": "Johnson, The History of the Yorubas",
+   "date": "1921",
+   "tier": "canonical"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/orunmila",
+   "kind": "shared_myth",
+   "myth": "Divination guides Oyo’s foundation",
+   "note": "Some later retellings connect Orunmila’s divination with Oranmiyan’s foundation of Oyo.",
+   "source": "Later retellings",
+   "date": "modern",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "oranmiyan",
+   "god": "yoruba/obatala",
+   "kind": "contest",
+   "myth": "Ife festival political opposition",
+   "note": "Festival performances symbolically oppose Obatala groups to Oduduwa and Oranmiyan groups.",
+   "source": "Modern ethnographic interpretation",
+   "date": "modern",
+   "tier": "regional_variant"
+  }
+ ],
+ "unresolved": {
+  "Egbeji": [
+   {
+    "stated_by": "ajaka",
+    "kind": "served_by",
+    "myth": "Ajaka’s magical retainers",
+    "note": "Egbeji serves Ajaka and disappears into heaven by climbing a suspended cord.",
+    "source": "Johnson, History of the Yorubas, pp. 152–154",
+    "date": "published 1921",
+    "tier": "canonical"
+   }
+  ],
+  "Egúngún Gbajero": [
+   {
+    "stated_by": "efunsetan_aniwura",
+    "kind": "other",
+    "myth": "Warning before Ẹfúnṣetán’s assassination",
+    "note": "The masquerade cried a warning or ritually authorized punishment before her murder.",
+    "source": "Awe’s oral traditions",
+    "date": "1992",
+    "tier": "regional_variant"
+   }
+  ],
+  "Elenre": [
+   {
+    "stated_by": "ajaka",
+    "kind": "served_by",
+    "myth": "Ajaka’s magical retainers",
+    "note": "Elenre serves Ajaka as one of his named magical specialists.",
+    "source": "Johnson, History of the Yorubas, pp. 152–154",
+    "date": "published 1921",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ajaka",
+    "kind": "punished",
+    "myth": "Elenre’s attempted execution",
+    "note": "Ajaka orders Elenre’s execution; the resulting wonder-tale produces Odo Elenre.",
+    "source": "Johnson, History of the Yorubas, pp. 152–154",
+    "date": "published 1921",
+    "tier": "canonical"
+   }
+  ],
+  "Elà Olúorogbo": [
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "He is Moremi's only son, named variously Elà, Olúorogbo, or both.",
+    "source": "Johnson; Ogumefu",
+    "date": "1921; 1929",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "killed",
+    "myth": "Sacrifice fulfilling Moremi's river vow",
+    "note": "Moremi yields her son as the demanded sacrifice; Johnson says he dies and joins the gods.",
+    "source": "Johnson, History of the Yorubas",
+    "date": "1921",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "shared_myth",
+    "myth": "Ela revives and ascends to heaven",
+    "note": "In Ogumefu's variant, her sacrificed son revives, climbs heavenward, and promises to return.",
+    "source": "Ogumefu, Yoruba Legends",
+    "date": "1929",
+    "tier": "regional_variant"
+   }
+  ],
+  "Esimirin": [
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "allied",
+    "myth": "Moremi's vow before infiltrating the raiders",
+    "note": "The river power grants or enables Moremi's success after receiving her vow.",
+    "source": "Johnson, History of the Yorubas",
+    "date": "1921",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "gift",
+    "myth": "Payment of the promised river offering",
+    "note": "After rejecting animal substitutes, the river power receives Moremi's only son as her promised offering.",
+    "source": "Johnson, History of the Yorubas",
+    "date": "1921",
+    "tier": "attested"
+   }
+  ],
+  "Ijaehin": [
+   {
+    "stated_by": "ajaka",
+    "kind": "shared_myth",
+    "myth": "Elenre’s execution and transformation",
+    "note": "Ijaehin appears within Ajaka’s execution narrative but has no isolated direct exchange with him.",
+    "source": "Johnson, History of the Yorubas, pp. 152–154",
+    "date": "published 1921",
+    "tier": "canonical"
+   }
+  ],
+  "Lakange Anihunka": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "child_of",
+    "myth": "The man of two fathers",
+    "note": "Lakange bears Oranmiyan after relations with Ogun and Oduduwa or Okanbi.",
+    "source": "Modern folklore collections",
+    "date": "modern collections",
+    "tier": "late_accretion"
+   }
+  ],
+  "Moremi": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Johnson tentatively identifies Moremi as Oranmiyan’s wife; later accounts make the marriage certain.",
+    "source": "Johnson, The History of the Yorubas",
+    "date": "1921",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "oranmiyan",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Later popular accounts present Moremi and Oranmiyan as a fixed royal couple.",
+    "source": "Later popular accounts",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Obalufon II": [
+   {
+    "stated_by": "moremi_ajasoro",
+    "kind": "fought",
+    "myth": "Conflict with Ifẹ̀'s earlier inhabitants",
+    "note": "Blier reconstructs Moremi's captors and opponents as forces associated with Obalufon and the earlier population.",
+    "source": "Blier, Obalufon Arts at Ife",
+    "date": "1985",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "oranmiyan",
+    "kind": "fought",
+    "myth": "Conflict and restoration at Ife",
+    "note": "Modern reconstructions make Oranmiyan a military participant in Obalufon II’s displacement.",
+    "source": "Akinjogbin and Blier reconstructions",
+    "date": "late twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Okanbi": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Johnson identifies Okanbi as Oranmiyan’s father and Oduduwa as his grandfather.",
+    "source": "Johnson, The History of the Yorubas",
+    "date": "1897/1921",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "oranmiyan",
+    "kind": "child_of",
+    "myth": "The man of two fathers",
+    "note": "One variant makes Okanbi, alongside Ogun, a father of Oranmiyan.",
+    "source": "Modern folklore collections",
+    "date": "modern collections",
+    "tier": "late_accretion"
+   }
+  ],
+  "Olurogbo": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later genealogy makes Olurogbo Oranmiyan’s son through Moremi.",
+    "source": "Later genealogy",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Orangun Ajagunla": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Later Oyo accounts identify Orangun Ajagunla as Oranmiyan’s elder brother.",
+    "source": "Later Oyo accounts",
+    "date": "later tradition",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "oranmiyan",
+    "kind": "allied",
+    "myth": "Defense of Oyo against Borgu",
+    "note": "Orangun Ajagunla comes to assist Oranmiyan’s new Oyo against Borgu or Bariba forces.",
+    "source": "Later Oyo accounts",
+    "date": "later tradition",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sango": [
+   {
+    "stated_by": "oranmiyan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Oranmiyan fathers Sango with a Nupe or Tapa princess.",
+    "source": "Johnson, The History of the Yorubas",
+    "date": "1921",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

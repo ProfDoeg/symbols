@@ -1,0 +1,59 @@
+{
+ "subject": "pelayo",
+ "relations": [
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "rescued_by",
+   "myth": "Pelayo invokes Christ during his debate with Oppa",
+   "note": "Pelayo invokes Christ as advocate with the Father and source of rescue.",
+   "source": "Crónica de Alfonso III, Rotense",
+   "date": "late ninth/early tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "the Lord"
+   ],
+   "kind": "rescued_by",
+   "myth": "Divine victory at Covadonga",
+   "note": "God reverses missiles, grants victory, collapses the mountain, and restores the Church.",
+   "source": "Crónica de Alfonso III",
+   "date": "late ninth/early tenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Virgin Mary",
+   "other_aliases": [
+    "Mary",
+    "Saint Mary",
+    "Our Lady of Covadonga",
+    "la Santina"
+   ],
+   "kind": "rescued_by",
+   "myth": "Missiles rebound from Mary’s cave at Covadonga",
+   "note": "Pelayo shelters in Mary’s house, from which the attackers’ missiles rebound.",
+   "source": "Crónica de Alfonso III",
+   "date": "late ninth/early tenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Virgin Mary",
+   "other_aliases": [
+    "Mary",
+    "Saint Mary",
+    "Our Lady of Covadonga",
+    "la Santina"
+   ],
+   "kind": "shared_myth",
+   "myth": "Virgin visibly appears to Pelayo at Covadonga",
+   "note": "Later paintings and devotional accounts depict a personal Marian apparition absent from the early chronicle.",
+   "source": "Covadonga paintings and devotional tradition",
+   "date": "seventeenth century onward",
+   "tier": "late_accretion"
+  }
+ ]
+}

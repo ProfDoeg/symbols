@@ -1,0 +1,2650 @@
+{
+ "folder": "japanese",
+ "gods": [
+  "abe_no_seimei",
+  "benkei",
+  "empress_jingu",
+  "issun_boshi",
+  "jimmu",
+  "kaguya_hime",
+  "kintaro",
+  "momotaro",
+  "tawara_toda",
+  "urashima_taro",
+  "yamato_takeru",
+  "yoshitsune"
+ ],
+ "relations": [
+  {
+   "a": "benkei",
+   "b": "tawara_toda",
+   "kind": "other",
+   "myth": "Legends joined through Miidera’s bell",
+   "note": "Hidesato donated the legendary Dragon Palace bell that Benkei later dragged to Mount Hiei.",
+   "source": "Taiheiki Book 15; Miidera legend",
+   "date": "fourteenth century",
+   "tier": "canonical",
+   "stated_by": [
+    "tawara_toda"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "fought",
+   "myth": "Thousand-swords duel",
+   "note": "Yoshitsune's agility defeats the sword-collecting Benkei, who recognizes his superior.",
+   "source": "Gikeiki",
+   "date": "late 14th–15th century",
+   "tier": "canonical",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "other",
+   "myth": "Benkei's standing death",
+   "note": "Benkei dies defending the approach while Yoshitsune completes his final death ritual.",
+   "source": "Gikeiki",
+   "date": "late 14th–15th century",
+   "tier": "canonical",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "rescued",
+   "myth": "River-crossing disguise",
+   "note": "Benkei beats his disguised lord, convincing witnesses that the traveler cannot be Yoshitsune.",
+   "source": "Gikeiki",
+   "date": "late 14th–15th century",
+   "tier": "canonical",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "rescued",
+   "myth": "Ataka barrier stratagem",
+   "note": "Benkei improvises from a blank scroll, answers Togashi, and beats Yoshitsune to preserve their disguise.",
+   "source": "Ataka",
+   "date": "late 15th–early 16th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "rescued",
+   "myth": "Tomomori's sea attack",
+   "note": "Benkei protects Yoshitsune's company by repelling Tomomori's ghost with Buddhist prayer.",
+   "source": "Funa Benkei",
+   "date": "late 15th–early 16th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "benkei",
+   "b": "yoshitsune",
+   "kind": "served",
+   "myth": "",
+   "note": "Benkei swears allegiance and becomes Yoshitsune's indispensable retainer.",
+   "source": "Gikeiki",
+   "date": "late 14th–15th century",
+   "tier": "canonical",
+   "stated_by": [
+    "benkei"
+   ]
+  },
+  {
+   "a": "kintaro",
+   "b": "momotaro",
+   "kind": "contest",
+   "myth": "Momotarō wrestles Kintarō",
+   "note": "The famous strong boys wrestle in a popular-art crossover scene.",
+   "source": "Kunisada, Momotarō and Kaidōmaru Wrestling",
+   "date": "circa 1843",
+   "tier": "late_accretion",
+   "stated_by": [
+    "momotaro"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "abe_no_seimei",
+   "god": "japanese/inari",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Shrine and folk traditions identify Seimei as Inari's incarnation or beneficiary.",
+   "source": "shrine and folk traditions",
+   "date": "late tradition",
+   "tier": "syncretism"
+  },
+  {
+   "a": "empress_jingu",
+   "god": "japanese/hachiman",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "After Ōjin's identification with Hachiman, Jingū becomes Hachiman's sacred mother.",
+   "source": "Hachiman cult records",
+   "date": "eighth century onward",
+   "tier": "syncretism"
+  },
+  {
+   "a": "empress_jingu",
+   "god": "japanese/hachiman",
+   "kind": "shared_myth",
+   "myth": "Hachiman sacred triad",
+   "note": "Medieval cult doctrine places Jingū beside Hachiman in a divine triad.",
+   "source": "Medieval Hachiman texts",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "a": "empress_jingu",
+   "god": "greek/glaucus_sea",
+   "kind": "allied",
+   "myth": "Silla expedition",
+   "note": "The Sea God raises waves that carry Jingū's fleet and inundate Silla.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "a": "empress_jingu",
+   "god": "japanese/ryujin",
+   "kind": "gift",
+   "myth": "Tide-jewel conquest",
+   "note": "The dragon ruler lends or gives Jingū the ebb and flood jewels.",
+   "source": "Medieval Hachiman literature",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "empress_jingu",
+   "god": "japanese/toyotama_hime",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some later local traditions make the sea-connected maternal figures sisters.",
+   "source": "Medieval and local traditions",
+   "date": "medieval and later",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "issun_boshi",
+   "god": "japanese/amaterasu",
+   "kind": "allied",
+   "myth": "Issun travels as Amaterasu’s companion",
+   "note": "The game reinvents Issun as a tiny wandering artist who accompanies Amaterasu.",
+   "source": "Capcom, Ōkami",
+   "date": "2006",
+   "tier": "modern"
+  },
+  {
+   "a": "jimmu",
+   "god": "japanese/amaterasu",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Jimmu belongs to her heavenly imperial lineage.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "a": "jimmu",
+   "god": "japanese/amaterasu",
+   "kind": "rescued_by",
+   "myth": "Heavenly guidance during the eastern expedition",
+   "note": "She communicates protective guidance and sends Yatagarasu in the Nihon shoki.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "a": "jimmu",
+   "god": "japanese/ryujin",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Watatsumi is Jimmu's maternal great-grandfather.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "a": "jimmu",
+   "god": "japanese/takemikazuchi",
+   "kind": "rescued_by",
+   "myth": "Divine sword revives Jimmu's army at Kumano",
+   "note": "He sends his land-subduing sword through Takakuraji instead of descending personally.",
+   "source": "Kojiki; Nihon shoki tradition",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "a": "kintaro",
+   "god": "japanese/raijin_and_fujin",
+   "kind": "child_of",
+   "myth": "Raijin fathers Kintarō",
+   "note": "Recent popular accounts call Raijin his father without a secure early source.",
+   "source": "recent popular circulation",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "a": "kintaro",
+   "god": "japanese/hachiman",
+   "kind": "allied",
+   "myth": "Divine aid for the Shuten-dōji expedition",
+   "note": "Kintoki accompanies the party seeking Hachiman’s supernatural assistance.",
+   "source": "Ōeyama ekotoba",
+   "date": "late 14th–early 15th c.",
+   "tier": "canonical"
+  },
+  {
+   "a": "tawara_toda",
+   "god": "japanese/hachiman",
+   "kind": "allied",
+   "myth": "Prayer before the decisive centipede arrow",
+   "note": "Hidesato invoked Hachiman before firing the arrow that killed the giant centipede.",
+   "source": "Tawara Tōda monogatari",
+   "date": "Muromachi–Edo",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "urashima_taro",
+   "god": "japanese/benzaiten",
+   "kind": "consort_of",
+   "myth": "Regional longevity test",
+   "note": "Regional tales identify Urashima’s otherworldly wife with Benzaiten, who tests him using the box.",
+   "source": "Regional oral and shrine traditions",
+   "date": "modern records",
+   "tier": "syncretism"
+  },
+  {
+   "a": "urashima_taro",
+   "god": "japanese/toyotama_hime",
+   "kind": "consort_of",
+   "myth": "Modern shrine identification",
+   "note": "Certain shrines and tourist narratives equate Urashima’s Dragon Palace princess with Toyotama-hime.",
+   "source": "Modern shrine and tourist narratives",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "a": "urashima_taro",
+   "god": "japanese/ebisu",
+   "kind": "contest",
+   "myth": "Otohime chooses Ebisu",
+   "note": "Urashima loses Otohime to the wealthier Ebisu in a comic theatrical parody.",
+   "source": "Shūgen Urashima dai",
+   "date": "1831",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "yamato_takeru",
+   "god": "greek/glaucus_sea",
+   "kind": "fought",
+   "myth": "Storm at Hashirimizu",
+   "note": "The deity raises waves or a storm that prevents his sea crossing.",
+   "source": "Kojiki; Nihon shoki Book VII",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "a": "yamato_takeru",
+   "god": "japanese/okuninushi",
+   "kind": "other",
+   "myth": "Takebe Taisha co-enshrinement",
+   "note": "Later shrine tradition co-enshrines Ōnamuchi with Yamato Takeru after relocation.",
+   "source": "Takebe Taisha tradition",
+   "date": "later shrine tradition",
+   "tier": "canonical"
+  },
+  {
+   "a": "yamato_takeru",
+   "god": "japanese/tsukuyomi",
+   "kind": "fought",
+   "myth": "Climactic conflict with Tsukuyomi",
+   "note": "The 1994 Toho fantasy film invents a personal conflict between them.",
+   "source": "Yamato Takeru film",
+   "date": "1994",
+   "tier": "modern"
+  }
+ ],
+ "unresolved": {
+  "Abe no Yasuna": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later fox-wife traditions make Yasuna Seimei's father.",
+    "source": "Shinoda-zuma traditions",
+    "date": "seventeenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ahiratsu-hime": [
+   {
+    "stated_by": "jimmu",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is Jimmu's pre-Yamato consort and mother of Tagishimimi.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Amaterasu Ōmikami": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "identified_with",
+    "myth": "Identification of the Ise oracle",
+    "note": "Later commentators identify Jingū's elaborately named Ise deity as Amaterasu.",
+    "source": "Nihon shoki commentary",
+    "date": "later commentary",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The imperial genealogy makes Yamato Takeru a descendant of Amaterasu.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Ame-no-Hiboko": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Jingū's maternal lineage is traced to this legendary Silla prince.",
+    "source": "Kojiki genealogy",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Ame-no-Oshihomimi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "He is an intermediate ancestor in Jimmu's heavenly lineage.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Azumi-no-Isora": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "served_by",
+    "myth": "Obtaining the tide jewels",
+    "note": "Jingū summons the marine deity, who obtains the tide jewels or guides her.",
+    "source": "Hachiman gudōkun; Taiheiki",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Benshin": [
+   {
+    "stated_by": "benkei",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some recensions name Benshin rather than Benshō as Benkei's father.",
+    "source": "Benkei monogatari",
+    "date": "late medieval",
+    "tier": "regional_variant"
+   }
+  ],
+  "Benshō": [
+   {
+    "stated_by": "benkei",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Benshō is Benkei's father in the canonical genealogy.",
+    "source": "Gikeiki",
+    "date": "late 14th–15th century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "benkei",
+    "kind": "punished_by",
+    "myth": "Benkei's monstrous birth",
+    "note": "Judging the newborn a demon-child, Benshō proposes killing or abandoning him.",
+    "source": "Gikeiki",
+    "date": "late 14th–15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Celestial robe-bearer": [
+   {
+    "stated_by": "kaguya_hime",
+    "kind": "transformed_by",
+    "myth": "The feather robe extinguishes Kaguya’s earthly attachment",
+    "note": "The attendant gives her elixir and clothes her in the feather robe, erasing her worldly feelings.",
+    "source": "Taketori monogatari",
+    "date": "late 9th–early 10th c.",
+    "tier": "attested"
+   }
+  ],
+  "Celestial “king” or leader": [
+   {
+    "stated_by": "kaguya_hime",
+    "kind": "punished_by",
+    "myth": "Kaguya’s punishment ends and the lunar leader orders her return",
+    "note": "He announces that Kaguya’s terrestrial punishment is over and compels her return to the lunar capital.",
+    "source": "Taketori monogatari",
+    "date": "late 9th–early 10th c.",
+    "tier": "attested"
+   }
+  ],
+  "Chitoku": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "contest",
+    "myth": "Visiting practitioner's magical test",
+    "note": "Seimei disables Chitoku's boy-shaped shikigami and compels his submission.",
+    "source": "Konjaku monogatarishū 24.16",
+    "date": "early twelfth century",
+    "tier": "canonical"
+   }
+  ],
+  "Dainichi Nyorai": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "other",
+    "myth": "Quest for the Law of Dainichi",
+    "note": "Yoshitsune acquires sacred esoteric knowledge called the Law of Dainichi.",
+    "source": "Onzōshi shimawatari",
+    "date": "Muromachi period",
+    "tier": "canonical"
+   }
+  ],
+  "Daughter of the Sea God": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Marriage in Tokoyo",
+    "note": "She joins Urashima in Tokoyo and gives him the prohibited casket.",
+    "source": "Man’yōshū 9.1740–1741",
+    "date": "c. 759",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "urashima_taro",
+    "kind": "gift",
+    "myth": "The prohibited casket",
+    "note": "She gives Urashima a casket that preserves his youth and forbids opening it.",
+    "source": "Man’yōshū 9.1740–1741",
+    "date": "c. 759",
+    "tier": "attested"
+   }
+  ],
+  "Deity of Ashigara Pass": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "White deer at Ashigara",
+    "note": "He kills the white-deer-shaped pass deity with wild chive.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Demon king of Kikenjō/Chishima": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "taught_by",
+    "myth": "Journey to the demon king’s realm",
+    "note": "Yoshitsune enters the demon king’s domain and obtains sacred esoteric knowledge.",
+    "source": "Onzōshi shimawatari",
+    "date": "Muromachi period",
+    "tier": "canonical"
+   }
+  ],
+  "Dragon King": [
+   {
+    "stated_by": "tawara_toda",
+    "kind": "served",
+    "myth": "Destruction of the dragon household’s centipede enemy",
+    "note": "The Dragon King recruited Hidesato to destroy the giant centipede threatening his aquatic household.",
+    "source": "Taiheiki Book 15",
+    "date": "fourteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tawara_toda",
+    "kind": "gift",
+    "myth": "Rewards in the Dragon Palace",
+    "note": "The Dragon King rewarded Hidesato with inexhaustible provisions, arms, armor, and a bronze bell.",
+    "source": "Taiheiki Book 15",
+    "date": "fourteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Visit to the Dragon Palace",
+    "note": "Urashima visits the palace ruled by the Dragon King, later portrayed as Otohime’s father.",
+    "source": "Early-modern picture books and retellings",
+    "date": "17th–19th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dragon woman": [
+   {
+    "stated_by": "tawara_toda",
+    "kind": "served",
+    "myth": "Dragon woman’s petition against the centipede",
+    "note": "After testing Hidesato on the bridge, she petitioned him to kill her household’s enemy.",
+    "source": "Tawara Tōda monogatari",
+    "date": "Muromachi–Edo",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "tawara_toda",
+    "kind": "gift",
+    "myth": "Dragon woman rewards the centipede-slayer",
+    "note": "She entertained Hidesato and presented or mediated inexhaustible treasures after his victory.",
+    "source": "Tawara Tōda monogatari",
+    "date": "Muromachi–Edo",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dōman": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "deceived",
+    "myth": "Buried curse against Michinaga",
+    "note": "Seimei traces the buried curse to Dōman, who confesses and is exiled.",
+    "source": "Uji shūi monogatari 14.10",
+    "date": "early thirteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "contest",
+    "myth": "Occult rivalry",
+    "note": "Later traditions enlarge Dōman into Seimei's lifelong magical and divinatory rival.",
+    "source": "Hoki derivative traditions",
+    "date": "early-modern period",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "theft",
+    "myth": "The stolen Hoki book",
+    "note": "Dōman steals or copies Seimei's secret book through Seimei's wife.",
+    "source": "Hoki derivative traditions",
+    "date": "early-modern period",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "killed_by",
+    "myth": "Seimei's murder and resurrection",
+    "note": "Some early-modern variants have Dōman murder Seimei before Seimei returns to confront him.",
+    "source": "Hoki derivative traditions",
+    "date": "early-modern period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Eight children": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Arrival at the immortal palace",
+    "note": "This second group of stellar children greets Urashima at the immortal palace.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   }
+  ],
+  "Emperor Chūai": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Jingū is Chūai's imperial consort and wife in both chronicles.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "empress_jingu",
+    "kind": "shared_myth",
+    "myth": "Divine promise and Chūai's death",
+    "note": "Possessed Jingū voices the oracle while Chūai plays the lute and rejects it.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Chūai is his son and genealogical successor.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Emperor Kaika": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Jingū belongs to a legendary imperial descendant line traced to Kaika.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Emperor Keikō": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Keikō is Yamato Takeru’s father.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "served",
+    "myth": "Western and eastern campaigns",
+    "note": "Keikō repeatedly dispatches him in Kojiki and formally commissions him in Nihon shoki.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Eukashi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "deceived_by",
+    "myth": "Elder Ukashi's crushing trap",
+    "note": "Eukashi feigns submission while preparing a hall designed to crush Jimmu.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "killed",
+    "myth": "Elder Ukashi forced into his own trap",
+    "note": "Jimmu's followers force Eukashi into the trap, then kill and dismember him.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Five Dragon deities": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "served",
+    "myth": "Five Dragons rain ritual",
+    "note": "Seimei invokes the Five Dragons during a drought; the rite is judged effective.",
+    "source": "Midōkanpakuki",
+    "date": "1004",
+    "tier": "attested"
+   }
+  ],
+  "Fudō Myōō": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "other",
+    "myth": "Fujiwara Senshi's Fudō veneration",
+    "note": "Seimei selects the date for Senshi's veneration of Fudō without encountering the deity.",
+    "source": "Gonki",
+    "date": "1001",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "benkei",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Kunisada iconographically superimposes Benkei, his actor, and Fudō Myōō without making Benkei an incarnation.",
+    "source": "Kunisada surimono",
+    "date": "c.1824",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "yoshitsune",
+    "kind": "shared_myth",
+    "myth": "Defeat of Tomomori’s ghost",
+    "note": "Benkei invokes Fudō’s spell while protecting Yoshitsune from Tomomori’s ghost.",
+    "source": "Noh Funa Benkei",
+    "date": "late Muromachi",
+    "tier": "canonical"
+   }
+  ],
+  "Fujiwara no Hidehira": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Flight to Ōshū",
+    "note": "Benkei helps escort Yoshitsune toward Hidehira's northern protection, without a developed bilateral encounter.",
+    "source": "Gikeiki",
+    "date": "late 14th–15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Fujiwara no Moronaga": [
+   {
+    "stated_by": "benkei",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Later genealogy identifies Moronaga as Benkei's maternal grandfather.",
+    "source": "Gikeiki and later retellings",
+    "date": "late 14th century onward",
+    "tier": "canonical"
+   }
+  ],
+  "Fujiwara no Yasuhira": [
+   {
+    "stated_by": "benkei",
+    "kind": "killed_by",
+    "myth": "Koromogawa last stand",
+    "note": "Yasuhira's forces kill Benkei during their attack on Yoshitsune's residence.",
+    "source": "Gikeiki",
+    "date": "late 14th–15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Futaji-irihime": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The Nihon shoki names the imperial princess among his consorts.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Genghis Khan": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern pseudohistory claims Yoshitsune survived and became Genghis Khan.",
+    "source": "Oyabe, Jingisu Kan",
+    "date": "1924",
+    "tier": "modern"
+   }
+  ],
+  "Genkurō the fox": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "served_by",
+    "myth": "Genkurō impersonates Satō Tadanobu",
+    "note": "The fox impersonates Tadanobu and serves Yoshitsune during his wanderings.",
+    "source": "Yoshitsune senbon zakura",
+    "date": "1747",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "yoshitsune",
+    "kind": "gift",
+    "myth": "Gift of Genkurō’s treasured drum",
+    "note": "Yoshitsune gives Genkurō the drum made from the skins of his parents.",
+    "source": "Yoshitsune senbon zakura",
+    "date": "1747",
+    "tier": "late_accretion"
+   }
+  ],
+  "Giant centipede": [
+   {
+    "stated_by": "tawara_toda",
+    "kind": "fought",
+    "myth": "Battle beneath Mount Hira",
+    "note": "Hidesato fired three arrows against the iron-bodied monster threatening the dragon household.",
+    "source": "Taiheiki Book 15",
+    "date": "fourteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tawara_toda",
+    "kind": "killed",
+    "myth": "Slaying the giant centipede",
+    "note": "His saliva-wetted third arrow pierced the centipede between the eyes and through its throat.",
+    "source": "Taiheiki Book 15",
+    "date": "fourteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "God of Mount Ibuki": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "fought",
+    "myth": "Challenge at Mount Ibuki",
+    "note": "He confronts the mountain god, misjudging its boar or serpent manifestation.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "punished_by",
+    "myth": "Ibuki’s icy storm",
+    "note": "The god sends ice, rain, mist, and illness after his boastful challenge.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Gods of Heaven and Earth": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Splitting the irrigation rock",
+    "note": "They receive sacrifices and split the obstructing rock after Takeuchi's prayer.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Gozu Tennō": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "shared_myth",
+    "myth": "Hoki occult system",
+    "note": "The pseudepigraphic Hoki naiden joins Gozu Tennō to Seimei's occult authority.",
+    "source": "Hoki naiden",
+    "date": "early fourteenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Hashiro Kuma-washi": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "killed",
+    "myth": "Kyūshū campaign",
+    "note": "Jingū marches against and kills the powerful winged or bird-like adversary.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Hiko-hohodemi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Jimmu is his grandson through Ugayafukiaezu.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Hitachibō Kaison": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Yoshitsune cycle",
+    "note": "Kaison and Benkei appear as fellow monk-retainers in Yoshitsune's company.",
+    "source": "Gikeiki",
+    "date": "late 14th–15th century",
+    "tier": "canonical"
+   }
+  ],
+  "Hiyoshi deity": [
+   {
+    "stated_by": "kintaro",
+    "kind": "allied",
+    "myth": "Warriors pray at Hiyoshi",
+    "note": "Kintoki belongs to Yorimitsu’s contingent when it seeks aid at Hiyoshi.",
+    "source": "Ōeyama ekotoba",
+    "date": "late 14th–early 15th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Homu-ya-wake": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The Kojiki genealogy names Homu-ya-wake as another child of Jingū.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Homuda-wake": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Jingū bears and protects the future Emperor Ōjin as his mother.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "empress_jingu",
+    "kind": "gift",
+    "myth": "Waiting-liquor celebration",
+    "note": "Jingū welcomes her son with sacred congratulatory waiting-liquor.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Ibaraki-dōji": [
+   {
+    "stated_by": "kintaro",
+    "kind": "fought",
+    "myth": "Expedition confronts Shuten-dōji’s lieutenant",
+    "note": "Kintoki joins the force opposing Ibaraki-dōji; no secure independent duel is attested.",
+    "source": "later Shuten-dōji recensions",
+    "date": "15th–17th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Igatsu no Omi": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "served_by",
+    "myth": "Ritual interrogation of the gods",
+    "note": "He serves as saniwa, testing and interpreting the gods possessing Jingū.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ihika": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Encounter with Yoshino's local beings",
+    "note": "The luminous-tailed figure emerges from a well and acknowledges Jimmu.",
+    "source": "Kojiki; Nihon shoki localization",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Immortal wife’s father": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Welcome at the immortal palace",
+    "note": "He receives and feasts Urashima after his arrival with the immortal woman.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   }
+  ],
+  "Immortal wife’s mother": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Welcome at the immortal palace",
+    "note": "She receives and feasts Urashima after his arrival with the immortal woman.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   }
+  ],
+  "Immortals of Hōrai": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Visit to Mount Hōrai",
+    "note": "Urashima sees and associates with the immortals after entering the sea.",
+    "source": "Nihon Shoki, Yūryaku 22.7",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Imperial ancestral spirits": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Silla expedition",
+    "note": "Jingū invokes the ancestral spirits for support before the expedition.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Inabi no Ōiratsume": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is the mother of Ousu and Ōusu.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Inahi-no-Mikoto": [
+   {
+    "stated_by": "jimmu",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Inahi is one of Jimmu's brothers.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Ineyoriwake": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ineyoriwake is his child by Futaji-irihime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ise Saburō Yoshimori": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Yoshitsune's campaigns and flight",
+    "note": "Benkei and Yoshimori appear together as Yoshitsune's retainers and escape companions.",
+    "source": "Heike, Gikeiki, Ataka",
+    "date": "14th century onward",
+    "tier": "canonical"
+   }
+  ],
+  "Isukeyori-hime": [
+   {
+    "stated_by": "jimmu",
+    "kind": "consort_of",
+    "myth": "Jimmu courts and marries the Yamato queen",
+    "note": "She becomes Jimmu's formal Yamato queen and mother of his successor's branch.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Itsuse-no-Mikoto": [
+   {
+    "stated_by": "jimmu",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Itsuse is Jimmu's elder brother.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "allied",
+    "myth": "Eastern expedition and battle against Naga-sune-hiko",
+    "note": "He co-leads the expedition and advises approaching Yamato with the sun behind.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Iwa-oshi-waku-no-ko": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Encounter with Yoshino's local beings",
+    "note": "The tailed child of the rock-pusher meets and submits to Jimmu.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Izasa-wake": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "shared_myth",
+    "myth": "Exchange of names with Homuda-wake",
+    "note": "Jingū sends her son to the deity and later welcomes him home.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Izumo Takeru": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "allied",
+    "myth": "Friendship with Izumo Takeru",
+    "note": "Yamato Takeru first befriends Izumo Takeru.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "deceived",
+    "myth": "Wooden sword exchange",
+    "note": "He secretly substitutes a wooden sword before challenging his new friend.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Wooden sword duel",
+    "note": "Yamato Takeru kills him when the false sword cannot be drawn.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Jikokuten": [
+   {
+    "stated_by": "kintaro",
+    "kind": "identified_with",
+    "myth": "Buddhist honji explanation",
+    "note": "Kintoki is declared a manifestation of the eastern Heavenly King Jikokuten.",
+    "source": "Ōeyama ekotoba tradition",
+    "date": "late 14th–early 15th c.",
+    "tier": "syncretism"
+   }
+  ],
+  "Kagosaka": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "fought",
+    "myth": "Succession war",
+    "note": "Her stepson plots against Jingū and Ōjin but dies during omen-hunting.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Kaguya-hime-no-mikoto": [
+   {
+    "stated_by": "kaguya_hime",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later geographical and learned arguments equate the literary heroine with the separate Kojiki namesake.",
+    "source": "Kojiki genealogy and later arguments",
+    "date": "712; later identification",
+    "tier": "syncretism"
+   }
+  ],
+  "Kame Myōjin": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Divine reunion after transformation",
+    "note": "Urashima reunites with the deified turtle-wife, and they are worshipped as a pair.",
+    "source": "Otogizōshi and shrine tradition",
+    "date": "15th–16th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kame-hime": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Marriage on the immortal island",
+    "note": "The five-colored turtle becomes an immortal woman who marries Urashima.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "urashima_taro",
+    "kind": "gift",
+    "myth": "The tamakushige prohibition",
+    "note": "She gives Urashima a jeweled casket and warns him not to open it.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   }
+  ],
+  "Kamei Rokurō": [
+   {
+    "stated_by": "benkei",
+    "kind": "contest",
+    "myth": "Ridicule of Benkei's tools",
+    "note": "Kamei participates in comic ridicule of Benkei's carpenter-like weapons.",
+    "source": "Yoshitsune senbon zakura",
+    "date": "1747",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "benkei",
+    "kind": "allied",
+    "myth": "Koromogawa defense",
+    "note": "Later artwork places Kamei beside Benkei during the final defense at Koromogawa.",
+    "source": "Kan'ei Koromogawa screen",
+    "date": "1624–34",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kamo no Mitsuyoshi": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "contest",
+    "myth": "Dispute over Yasunori's learning",
+    "note": "Mitsuyoshi disputes Seimei's superiority and claims calendrical instruction was reserved for him.",
+    "source": "Zoku Kojidan",
+    "date": "thirteenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Kamo no Tadayuki": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "rescued_by",
+    "myth": "Demon procession",
+    "note": "Tadayuki conceals the young Seimei after he spots approaching demons.",
+    "source": "Konjaku monogatarishū 24.16",
+    "date": "early twelfth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "taught_by",
+    "myth": "Seimei's magical apprenticeship",
+    "note": "Tadayuki recognizes Seimei's demon sight and transmits his learning to him.",
+    "source": "Konjaku monogatarishū 24.16",
+    "date": "early twelfth century",
+    "tier": "canonical"
+   }
+  ],
+  "Kamo no Wake": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "served_by",
+    "myth": "Campaign against Kumaso",
+    "note": "Jingū sends the heroic commander to subdue the Kumaso.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Kamo no Yasunori": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "taught_by",
+    "myth": "",
+    "note": "The genealogy names Yasunori as Seimei's teacher.",
+    "source": "Sonpi bunmyaku",
+    "date": "fourteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "served",
+    "myth": "Mount Hiei construction divination",
+    "note": "Seimei accompanies Yasunori to divine an imperial construction site.",
+    "source": "Chikanobu-kyō ki",
+    "date": "974",
+    "tier": "attested"
+   }
+  ],
+  "Kamu-nunakawamimi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "He is Jimmu's son and eventual imperial successor.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Kamuyai-mimi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Kamuyai-mimi is Jimmu's son.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Kanchō Sōjō": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "shared_myth",
+    "myth": "Frog-killing demonstration",
+    "note": "At Kanchō's Hirosawa residence, Seimei kills a frog by enchantment.",
+    "source": "Konjaku monogatarishū 24.16",
+    "date": "early twelfth century",
+    "tier": "canonical"
+   }
+  ],
+  "Kataoka Hachirō": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Ataka disguise journey",
+    "note": "Kataoka accompanies Benkei in Yoshitsune's disguised mountain-ascetic party.",
+    "source": "Ataka",
+    "date": "late 15th–early 16th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Katsuraki no Taka-nuka-hime": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Named as Jingū's mother in the chronicle genealogy.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Kibi no Anato no Takehime": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The Nihon shoki names her among Yamato Takeru’s consorts.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Kibi no Takehiko": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "allied",
+    "myth": "Eastern expedition",
+    "note": "Kibi no Takehiko accompanies him, reconnoiters Koshi, and carries his last words.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Kibitsuhiko-no-mikoto": [
+   {
+    "stated_by": "momotaro",
+    "kind": "identified_with",
+    "myth": "Okayama regional identification",
+    "note": "Modern Okayama tradition identifies the Kibi-subduing prince as Momotarō's mythic model.",
+    "source": "Okayama promotional tradition",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Kotoshironushi": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "shared_myth",
+    "myth": "Ritual interrogation of the gods",
+    "note": "Kotoshironushi identifies himself among the gods answering Jingū's inquiry.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "other",
+    "myth": "",
+    "note": "In the Nihon shoki variant, he is the divine father of Jimmu's queen.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kumano Gongen": [
+   {
+    "stated_by": "kintaro",
+    "kind": "allied",
+    "myth": "Divine guides aid the expedition",
+    "note": "Kumano Gongen is associated with the disguised helpers aiding Kintoki’s party.",
+    "source": "Shuten-dōji recensions",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Kumasaka Chōhan": [
+   {
+    "stated_by": "benkei",
+    "kind": "fought",
+    "myth": "Anomalous brigand encounter",
+    "note": "An anomalous print shows Benkei crushing one of Kumasaka Chōhan's brigands.",
+    "source": "Utamaro diptych",
+    "date": "c.1786–88",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kumaso Takeru, elder brother": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "deceived",
+    "myth": "Kumaso feast infiltration",
+    "note": "Disguised as a young woman, Yamato Takeru gains access to the feast.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Kumaso feast assassination",
+    "note": "Yamato Takeru stabs the enthralled elder brother through the chest.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Kumaso Takeru, younger brother": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "deceived",
+    "myth": "Kumaso feast infiltration",
+    "note": "The disguised prince enters the feast and sits between the brothers.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Kumaso feast assassination",
+    "note": "He pursues, stabs, and rips open the younger Kumaso Takeru.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "gift",
+    "myth": "Naming of Yamato Takeru",
+    "note": "The dying younger brother confers the title Yamato Takeru upon him.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Kunitokotachi": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "other",
+    "myth": "Ōtori Jinja co-enshrinement",
+    "note": "Later shrine tradition co-enshrines Kunitokotachi with Yamato Takeru and Ototachibana.",
+    "source": "Ōtori Jinja history",
+    "date": "later shrine tradition",
+    "tier": "canonical"
+   }
+  ],
+  "Kuzunoha": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The transformed white fox Kuzunoha becomes Seimei's mother.",
+    "source": "Shinoda-zuma traditions",
+    "date": "seventeenth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "shared_myth",
+    "myth": "Kuzunoha's farewell",
+    "note": "After her fox identity is exposed, Kuzunoha leaves her child Seimei.",
+    "source": "Ashiya Dōman Ōuchi Kagami",
+    "date": "1734",
+    "tier": "late_accretion"
+   }
+  ],
+  "Malignant deity of Ana Ferry": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Return through Ana Ferry",
+    "note": "Yamato Takeru kills the malignant ferry deity during his western return.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Malignant deity of Kashiha Ferry": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Return through Kashiha Ferry",
+    "note": "He kills the deity that afflicts travelers with poisonous vapor.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Michi-no-omi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Conquest stratagems and worship of Takamimusubi",
+    "note": "He serves as Jimmu's chief ritual and military agent.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Mikenu-no-Mikoto": [
+   {
+    "stated_by": "jimmu",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mikenu is one of Jimmu's brothers.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Minamoto no Hiromasa": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "allied",
+    "myth": "Onmyōji investigations",
+    "note": "Modern fiction makes Hiromasa Seimei's intimate companion and narrative foil.",
+    "source": "Yumemakura Baku's Onmyōji",
+    "date": "from 1986",
+    "tier": "modern"
+   }
+  ],
+  "Minamoto no Yorimitsu": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "allied",
+    "myth": "Hunt for Shuten-dōji",
+    "note": "Yorimitsu benefits from Seimei's divination concerning Shuten-dōji's location.",
+    "source": "Shuten-dōji textual complex",
+    "date": "medieval",
+    "tier": "late_accretion"
+   }
+  ],
+  "Misukitomomimitake": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "allied",
+    "myth": "Eastern expedition",
+    "note": "The Kibi prince is assigned as Yamato Takeru’s campaign companion.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Miyazuhime": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Miyazuhime is his pledged bride and later wife in Owari.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "gift",
+    "myth": "Departure for Mount Ibuki",
+    "note": "He leaves Kusanagi at Miyazuhime’s dwelling before confronting Ibuki’s god.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Monju": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "other",
+    "myth": "Transmission of the Hoki book",
+    "note": "Monju teaches Hakudō, beginning the transmission whose book ultimately reaches Seimei.",
+    "source": "Hoki naiden",
+    "date": "early fourteenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Mountain god of Shinano": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "White deer in Shinano",
+    "note": "He blinds or kills the white-deer mountain god with garlic.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "punished_by",
+    "myth": "Lost in Shinano",
+    "note": "The god’s disturbance causes Yamato Takeru to lose his way.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "regional_variant"
+   }
+  ],
+  "Naga-sune-hiko": [
+   {
+    "stated_by": "jimmu",
+    "kind": "fought",
+    "myth": "Battles for entry into Yamato",
+    "note": "Jimmu fights this Yamato ruler, whose forces mortally wound Itsuse.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "contest",
+    "myth": "Dispute over heavenly descent and legitimate tokens",
+    "note": "They dispute which heavenly descendant holds legitimate authority in Yamato.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Naka-tsutsu-no-o": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Silla expedition",
+    "note": "The Sumiyoshi god provides oracle and expeditionary protection, then receives worship.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Natsuha": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "fought",
+    "myth": "Kyūshū campaign",
+    "note": "He advances against Jingū but flees after learning she killed his sister.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Nigihayahi-no-Mikoto": [
+   {
+    "stated_by": "jimmu",
+    "kind": "contest",
+    "myth": "Rival heavenly claims in Yamato",
+    "note": "Nigihayahi is another heavenly descendant already established in Yamato.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Nigihayahi recognizes Jimmu and submits",
+    "note": "He recognizes Jimmu's heavenly status, presents celestial tokens, and joins him.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Nihe-motsu-no-ko": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Encounter with Yoshino's local beings",
+    "note": "The fishing-associated local deity meets Jimmu, identifies himself, and submits.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Ninigi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Jimmu descends from Ninigi through Hoori and Ugayafukiaezu.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Nuno-oshi-irihime": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Nuno-oshi-irihime is his child by Futaji-irihime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Okikurmi": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "other",
+    "myth": "Yoshitsune becomes Okikurmi’s son-in-law",
+    "note": "A Hokkaidō tradition makes Okikurmi Yoshitsune’s host and father-in-law.",
+    "source": "Yoshitsune Shrine tradition",
+    "date": "early-modern/modern",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "yoshitsune",
+    "kind": "theft",
+    "myth": "Theft during Okikurmi’s absence",
+    "note": "Yoshitsune steals Okikurmi’s treasures or books while his host is absent.",
+    "source": "Yoshitsune Shrine tradition",
+    "date": "early-modern/modern",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yoshitsune",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Japanese writers and shrine traditions identify Yoshitsune with the Ainu culture hero.",
+    "source": "Hokkaidō traditions",
+    "date": "early-modern period",
+    "tier": "syncretism"
+   }
+  ],
+  "Okinaga no Sukune no Miko": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Named as Jingū's father in the chronicle genealogy.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Oshikuma": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "fought",
+    "myth": "Succession war",
+    "note": "Her stepson raises an army against Jingū's faction and is defeated.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Otohime": [
+   {
+    "stated_by": "tawara_toda",
+    "kind": "shared_myth",
+    "myth": "Later Otohime retellings of the dragon-woman episode",
+    "note": "Edo and modern retellings name the dragon woman who petitions and rewards Hidesato as Otohime.",
+    "source": "Edo and modern visual catalogues",
+    "date": "Edo–modern",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Marriage in Ryūgū",
+    "note": "The turtle-woman reveals herself as the palace princess and marries Urashima.",
+    "source": "Otogizōshi Urashima Tarō",
+    "date": "15th–16th century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "urashima_taro",
+    "kind": "gift",
+    "myth": "Gift of the tamatebako",
+    "note": "She gives Urashima the forbidden tamatebako before his return home.",
+    "source": "Otogizōshi Urashima Tarō",
+    "date": "15th–16th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ototachibanahime": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is his imperial consort in Kojiki and concubine in Nihon shoki.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "rescued_by",
+    "myth": "Ototachibana’s sea sacrifice",
+    "note": "She sacrifices herself to calm the storm and save his life.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Otoukashi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "allied",
+    "myth": "Exposure of Elder Ukashi's trap",
+    "note": "He exposes his brother's plot, submits, and joins Jimmu's adherents.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Pufferfish attendant": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Urashima’s substitute marriage",
+    "note": "After Otohime chooses Ebisu, Urashima instead marries her pufferfish attendant.",
+    "source": "Shūgen Urashima dai",
+    "date": "1831",
+    "tier": "late_accretion"
+   }
+  ],
+  "Red dragon": [
+   {
+    "stated_by": "kintaro",
+    "kind": "child_of",
+    "myth": "Red dragon couples with sleeping mountain woman",
+    "note": "A red dragon encountered in a dream fathers Kintoki.",
+    "source": "Zen-Taiheiki",
+    "date": "1803",
+    "tier": "late_accretion"
+   }
+  ],
+  "Rika": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some derivative traditions name Seimei's otherwise unnamed wife Rika.",
+    "source": "Hoki derivative traditions",
+    "date": "early-modern period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sakata Kinpira": [
+   {
+    "stated_by": "kintaro",
+    "kind": "parent_of",
+    "myth": "Kintoki fathers the heroic Kinpira",
+    "note": "Kintoki is made the father of Sakata Kinpira in puppet-drama cycles.",
+    "source": "Kinpira-jōruri cycle",
+    "date": "mid-17th century onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sao-netsu-hiko": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Sea voyage and Mount Kagu clay mission",
+    "note": "He pilots Jimmu's expedition and later obtains sacred clay in disguise.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Satō Tadanobu": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Service to Yoshitsune",
+    "note": "Benkei and Tadanobu jointly appear as Yoshitsune's retainers and defenders.",
+    "source": "Heike and Gikeiki",
+    "date": "14th–15th centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Satō Tsugunobu": [
+   {
+    "stated_by": "benkei",
+    "kind": "shared_myth",
+    "myth": "Genpei cycle",
+    "note": "Benkei and Tsugunobu appear as fellow Yoshitsune retainers without a distinct bilateral encounter.",
+    "source": "Heike and Gikeiki",
+    "date": "14th–15th centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Seven children": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "shared_myth",
+    "myth": "Arrival at the immortal palace",
+    "note": "The stellar children greet Urashima and identify him as Kame-hime’s husband.",
+    "source": "Tango no kuni fudoki fragment",
+    "date": "c. 713–733",
+    "tier": "attested"
+   }
+  ],
+  "Shiotsutsu-no-oji": [
+   {
+    "stated_by": "jimmu",
+    "kind": "taught_by",
+    "myth": "Decision to undertake the eastern expedition",
+    "note": "He tells Jimmu of the fine eastern land and its heavenly descendant.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Shizuka Gozen": [
+   {
+    "stated_by": "benkei",
+    "kind": "other",
+    "myth": "Shizuka's separation",
+    "note": "Benkei persuades Shizuka to separate from Yoshitsune before the sea voyage.",
+    "source": "Funa Benkei",
+    "date": "late 15th–early 16th century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "benkei",
+    "kind": "other",
+    "myth": "Benkei's comic appeal",
+    "note": "A tearful Benkei appeals to Shizuka to mediate for him.",
+    "source": "Yoshitsune senbon zakura",
+    "date": "1747",
+    "tier": "late_accretion"
+   }
+  ],
+  "Shuten-dōji": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "other",
+    "myth": "Divination of Shuten-dōji's location",
+    "note": "Later versions credit Seimei with divining the oni's hiding place for Yorimitsu.",
+    "source": "Shuten-dōji textual complex",
+    "date": "medieval",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kintaro",
+    "kind": "deceived",
+    "myth": "Disguised warriors intoxicate Shuten-dōji",
+    "note": "Kintoki enters disguised and participates in tricking and incapacitating the oni.",
+    "source": "Ōeyama ekotoba",
+    "date": "late 14th–early 15th c.",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kintaro",
+    "kind": "fought",
+    "myth": "Extermination of Shuten-dōji",
+    "note": "Kintoki fights in the expedition, though Yorimitsu normally delivers the decisive blow.",
+    "source": "Ōeyama ekotoba",
+    "date": "late 14th–early 15th c.",
+    "tier": "canonical"
+   }
+  ],
+  "Soko-tsutsu-no-o": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Silla expedition",
+    "note": "The Sumiyoshi god provides oracle and expeditionary protection, then receives worship.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Sukuna-bikona": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "identified_with",
+    "myth": "Waiting-liquor song",
+    "note": "Later interpretation tentatively identifies the song's Sukuna-mikami with Sukuna-bikona.",
+    "source": "Kojiki commentary",
+    "date": "later commentary",
+    "tier": "syncretism"
+   }
+  ],
+  "Sukuna-mikami": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "gift",
+    "myth": "Waiting-liquor song",
+    "note": "Jingū credits the small deity with bringing sacred liquor for Ōjin.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Sumiyoshi Myōjin": [
+   {
+    "stated_by": "issun_boshi",
+    "kind": "gift",
+    "myth": "Miraculous birth after his parents’ prayer",
+    "note": "Sumiyoshi grants his parents’ request for a child and fulfills the promise through his prosperity.",
+    "source": "Anonymous Issun-bōshi; Shibukawa edition",
+    "date": "ca. 1666; 1716–1736",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kintaro",
+    "kind": "allied",
+    "myth": "Disguised deity guides the warriors",
+    "note": "Sumiyoshi Myōjin appears in disguise and assists Kintoki’s expedition.",
+    "source": "Shuten-dōji recensions",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "Suruga Jirō": [
+   {
+    "stated_by": "benkei",
+    "kind": "contest",
+    "myth": "Ridicule of Benkei's tools",
+    "note": "Suruga mocks or quarrels with Benkei over his carpenter-like assortment of tools.",
+    "source": "Yoshitsune senbon zakura",
+    "date": "1747",
+    "tier": "late_accretion"
+   }
+  ],
+  "Suzuki Saburō": [
+   {
+    "stated_by": "benkei",
+    "kind": "allied",
+    "myth": "Koromogawa defense",
+    "note": "Suzuki arrives for the final defense and fights alongside Benkei.",
+    "source": "Takadachi monogatari imagery",
+    "date": "1624–34",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sōjōbō": [
+   {
+    "stated_by": "yoshitsune",
+    "kind": "taught_by",
+    "myth": "Martial training on Mount Kurama",
+    "note": "The Kurama tengu trains young Yoshitsune and predicts his future victory.",
+    "source": "Noh Kurama Tengu; later folklore",
+    "date": "15th–16th centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Tabura-tsu-hime": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "killed",
+    "myth": "Kyūshū campaign",
+    "note": "Jingū puts the female tsuchigumo ruler to death.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Tagishimimi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tagishimimi is Jimmu's son by Ahiratsu-hime.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Taira no Masakado": [
+   {
+    "stated_by": "tawara_toda",
+    "kind": "fought",
+    "myth": "Suppression of Masakado’s rebellion",
+    "note": "Hidesato and Sadamori’s coalition defeated Masakado’s forces in 940.",
+    "source": "Shōmonki; Nihon kiryaku",
+    "date": "c. 940",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tawara_toda",
+    "kind": "deceived",
+    "myth": "Infiltration among Masakado’s doubles",
+    "note": "Hidesato feigned service, learned how to distinguish the true Masakado, and exposed him.",
+    "source": "Tawara Tōda monogatari",
+    "date": "Muromachi–Edo",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "tawara_toda",
+    "kind": "killed",
+    "myth": "Shooting the invulnerable true Masakado",
+    "note": "Later romance makes Hidesato shoot Masakado’s vulnerable temple after identifying him among six doubles.",
+    "source": "Tawara Tōda monogatari",
+    "date": "Muromachi–Edo",
+    "tier": "late_accretion"
+   }
+  ],
+  "Taira no Tomomori": [
+   {
+    "stated_by": "benkei",
+    "kind": "fought",
+    "myth": "Tomomori's sea attack",
+    "note": "Benkei confronts Tomomori's ghost and drives it beneath the waves with prayer.",
+    "source": "Funa Benkei",
+    "date": "late 15th–early 16th century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yoshitsune",
+    "kind": "fought",
+    "myth": "Tomomori’s ghost attacks Yoshitsune’s ship",
+    "note": "Tomomori’s ghost attacks Yoshitsune at sea before Benkei repels it by prayer.",
+    "source": "Noh Funa Benkei",
+    "date": "late Muromachi",
+    "tier": "canonical"
+   }
+  ],
+  "Taizan Fukun": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "served",
+    "myth": "Taizan Fukun rites",
+    "note": "Seimei invokes Taizan Fukun for longevity, prosperity, rank, and protection.",
+    "source": "Shōyūki and Gonki",
+    "date": "989–1002",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "shared_myth",
+    "myth": "Disciple's death substitution",
+    "note": "Seimei mediates a disciple's lifespan substitution through Taizan Fukun's underworld bureaucracy.",
+    "source": "Konjaku monogatarishū 19.24",
+    "date": "early twelfth century",
+    "tier": "canonical"
+   }
+  ],
+  "Takagi-no-kami": [
+   {
+    "stated_by": "jimmu",
+    "kind": "rescued_by",
+    "myth": "Yatagarasu guides Jimmu through Kumano",
+    "note": "Takagi sends Yatagarasu to guide Jimmu in the Kojiki.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jimmu",
+    "kind": "served",
+    "myth": "Ritual worship during the conquest",
+    "note": "Jimmu appoints Michi-no-omi to oversee public worship of Takamimusubi.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Takakuraji": [
+   {
+    "stated_by": "jimmu",
+    "kind": "rescued_by",
+    "myth": "Divine sword revives Jimmu's army at Kumano",
+    "note": "He delivers the dream-disclosed heavenly sword that revives Jimmu and his force.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Takefurukuma": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "served_by",
+    "myth": "Succession war",
+    "note": "Jingū's commander defeats Oshikuma's forces through feigned surrender.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Takemiko": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Takemiko is his child by Kibi no Anato no Takehime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Takeuchi no Sukune": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "served_by",
+    "myth": "Divination and succession war",
+    "note": "He assists Jingū's divination, guards Ōjin and commands against Oshikuma.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Tamamo-no-Mae": [
+   {
+    "stated_by": "abe_no_seimei",
+    "kind": "deceived",
+    "myth": "Exposure of Tamamo-no-Mae",
+    "note": "Popular conflations make Seimei expose her fox nature, replacing his descendant Yasuchika.",
+    "source": "popular summaries",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Tamayori-hime": [
+   {
+    "stated_by": "jimmu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jimmu is her son.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Tanzō": [
+   {
+    "stated_by": "benkei",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Local Tanabe tradition substitutes the historical Kumano bettō Tanzō as Benkei's father.",
+    "source": "Tanabe local tradition",
+    "date": "later tradition",
+    "tier": "late_accretion"
+   }
+  ],
+  "Togashi no Saemon": [
+   {
+    "stated_by": "benkei",
+    "kind": "deceived",
+    "myth": "Ataka barrier stratagem",
+    "note": "Benkei deceives Togashi with a blank-scroll reading and ascetic knowledge; Togashi permits the party through.",
+    "source": "Ataka",
+    "date": "late 15th–early 16th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Torishikaya": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "deceived",
+    "myth": "Kumaso feast infiltration",
+    "note": "The disguised prince drinks beside the unsuspecting Kumaso chieftain.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Kumaso feast assassination",
+    "note": "Yamato Takeru stabs the chieftain in the chest.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "gift",
+    "myth": "Naming of Yamato Takeru",
+    "note": "The dying chieftain bestows the title Yamato Takeru.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tosabō Shōshun": [
+   {
+    "stated_by": "benkei",
+    "kind": "fought",
+    "myth": "Tosabō assassination attempt",
+    "note": "Benkei joins the retainers who defeat Yoritomo's assassin and brings the captive before Yoshitsune.",
+    "source": "Heike monogatari, Kakuichi text",
+    "date": "fixed 1371",
+    "tier": "attested"
+   }
+  ],
+  "Towokiwake": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Towokiwake is his child by Kibi no Anato no Takehime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Tsuchigumo": [
+   {
+    "stated_by": "kintaro",
+    "kind": "fought",
+    "myth": "Four Kings battle the tsuchigumo",
+    "note": "Later recensions and Edo images place Kintoki in battle against the monster.",
+    "source": "expanded Four Kings recensions",
+    "date": "Edo period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Tsuki-sakaki-idzu-no-mitama-amazakuru-Muka-tsu-hime": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "shared_myth",
+    "myth": "Ritual interrogation of the gods",
+    "note": "The Ise deity answers Jingū's divination and declares her identity.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ugayafukiaezu": [
+   {
+    "stated_by": "jimmu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jimmu is his son.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Umashimaji": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Mononobe ritual service at Jimmu's court",
+    "note": "Later tradition magnifies Nigihayahi's son's ritual relationship to Jimmu's court.",
+    "source": "Sendai kuji hongi",
+    "date": "9th–10th century",
+    "tier": "canonical"
+   }
+  ],
+  "Ura": [
+   {
+    "stated_by": "momotaro",
+    "kind": "fought",
+    "myth": "Modern Momotarō-Ura regional legend",
+    "note": "Okayama discourse casts Ura as Momotarō's oni enemy through the Kibitsuhiko identification.",
+    "source": "Kahara, Formation of a Regional Image",
+    "date": "2001",
+    "tier": "modern"
+   }
+  ],
+  "Urashima Myōjin": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "identified_with",
+    "myth": "Urashima’s apotheosis",
+    "note": "Urashima is worshipped under this divine identity after his transformation.",
+    "source": "Urashima Myōjin engi",
+    "date": "medieval",
+    "tier": "syncretism"
+   }
+  ],
+  "Usatsuhiko": [
+   {
+    "stated_by": "jimmu",
+    "kind": "allied",
+    "myth": "Reception of the expedition at Usa",
+    "note": "He receives and feeds Jimmu's party.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Usatsuhime": [
+   {
+    "stated_by": "jimmu",
+    "kind": "allied",
+    "myth": "Reception of the expedition at Usa",
+    "note": "She receives Jimmu's expedition with Usatsuhiko.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Uwa-tsutsu-no-o": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Silla expedition",
+    "note": "The Sumiyoshi god speaks through Jingū, supports her campaign and requests worship.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Wakatake": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Wakatake is his child by Futaji-irihime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Wakatakehiko": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Wakatakehiko is his son by Ototachibanahime.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "White dog of Shinano": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "rescued_by",
+    "myth": "Escape from Shinano",
+    "note": "The mysteriously appearing white dog guides him out of the mountain.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Wind God": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "allied",
+    "myth": "Silla expedition",
+    "note": "The Wind God raises the favorable wind carrying Jingū's fleet.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Woman transformed from the great turtle": [
+   {
+    "stated_by": "urashima_taro",
+    "kind": "consort_of",
+    "myth": "Journey beneath the sea",
+    "note": "The captured turtle becomes a woman, accompanies Urashimako, and takes him into the sea.",
+    "source": "Nihon Shoki, Yūryaku 22.7",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Yaegiri": [
+   {
+    "stated_by": "kintaro",
+    "kind": "child_of",
+    "myth": "Yaegiri bears the wonder-child Kaidōmaru",
+    "note": "Yaegiri becomes a mountain woman and gives birth to Kintoki.",
+    "source": "Komochi Yamauba",
+    "date": "1712",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yamatohime no Mikoto": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "gift",
+    "myth": "Kumaso disguise",
+    "note": "Yamatohime lends him women’s clothing used to infiltrate the Kumaso feast.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "gift",
+    "myth": "Eastern expedition",
+    "note": "Yamatohime gives him Kusanagi; Kojiki also gives an emergency bag.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "Yamauba": [
+   {
+    "stated_by": "kintaro",
+    "kind": "child_of",
+    "myth": "Yamauba offers her child to Yorimitsu",
+    "note": "An unnamed yamauba presents Kintoki to Yorimitsu at Ashigara.",
+    "source": "Sukune Akutarō",
+    "date": "1664",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kintaro",
+    "kind": "child_of",
+    "myth": "Ogress brings forth the prodigious youth",
+    "note": "An ogress brings Kintoki to Yorimitsu, who gives him his name.",
+    "source": "Kiyohara Udaishō",
+    "date": "1677",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yatagarasu": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Guidance from Kumano through the mountains",
+    "note": "The heavenly crow guides Jimmu and, in the expanded chronicle, carries messages to enemies.",
+    "source": "Kojiki; Nihon shoki",
+    "date": "712; 720",
+    "tier": "attested"
+   }
+  ],
+  "eighty tailed earth-spiders": [
+   {
+    "stated_by": "jimmu",
+    "kind": "fought",
+    "myth": "Defeat of the earth-spiders in an Osaka cave",
+    "note": "Jimmu's forces defeat the cave-dwelling group described derogatorily as earth-spiders.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "lunar company": [
+   {
+    "stated_by": "kaguya_hime",
+    "kind": "shared_myth",
+    "myth": "The lunar company retrieves Kaguya from earth",
+    "note": "The celestial collective arrives in overwhelming light, neutralizes human resistance, and carries Kaguya back to the Moon.",
+    "source": "Taketori monogatari",
+    "date": "late 9th–early 10th c.",
+    "tier": "attested"
+   }
+  ],
+  "the golden kite": [
+   {
+    "stated_by": "jimmu",
+    "kind": "rescued_by",
+    "myth": "Golden kite dazzles Jimmu's enemies",
+    "note": "It alights on Jimmu's bow and blinds the hostile army with radiance.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ōkamuzumi-no-mikoto": [
+   {
+    "stated_by": "momotaro",
+    "kind": "identified_with",
+    "myth": "Inuyama shrine identification",
+    "note": "The shrine represents Momotarō as a manifestation of the divine peach.",
+    "source": "Momotarō Shrine tradition",
+    "date": "1930",
+    "tier": "syncretism"
+   }
+  ],
+  "Ōkume-no-Mikoto": [
+   {
+    "stated_by": "jimmu",
+    "kind": "served_by",
+    "myth": "Ukashi confrontation and Jimmu's courtship",
+    "note": "The warrior-retainer confronts Ukashi and mediates Jimmu's courtship of Isukeyori-hime.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Ōmiwa deity": [
+   {
+    "stated_by": "empress_jingu",
+    "kind": "gift",
+    "myth": "Mobilization before the expedition",
+    "note": "Jingū honors the deity's shrine with sword and spear, enabling troop assembly.",
+    "source": "Nihon shoki",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ōmononushi": [
+   {
+    "stated_by": "jimmu",
+    "kind": "other",
+    "myth": "",
+    "note": "In the Kojiki, he is the divine father of Jimmu's queen Isukeyori-hime.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ],
+  "Ōtomo no Takehi": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "allied",
+    "myth": "Eastern expedition",
+    "note": "Ōtomo no Takehi accompanies Yamato Takeru on the eastern campaign.",
+    "source": "Nihon shoki Book VII",
+    "date": "720",
+    "tier": "attested"
+   }
+  ],
+  "Ōusu no Mikoto": [
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ōusu is Yamato Takeru’s elder or twin brother.",
+    "source": "Kojiki; Nihon shoki Book VII",
+    "date": "712; 720",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yamato_takeru",
+    "kind": "killed",
+    "myth": "Ōusu’s privy killing",
+    "note": "Ousu crushes, dismembers, wraps, and discards his brother’s body.",
+    "source": "Kojiki",
+    "date": "712",
+    "tier": "attested"
+   }
+  ]
+ }
+}

@@ -1,0 +1,518 @@
+{
+ "subject": "pwyll_and_pryderi",
+ "relations": [
+  {
+   "other": "Arawn",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Exchange of shapes and kingdoms",
+   "note": "Pwyll substitutes for Arawn, defeats his rival, and becomes his enduring ally.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arawn",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Pigs from Annwn",
+   "note": "Arawn sends the otherworld pigs that Pryderi later owns.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hafgan",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Combat at the ford",
+   "note": "Pwyll, disguised as Arawn, strikes Hafgan once and refuses a restorative second blow.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhiannon",
+   "other_aliases": [
+    "Rhiannon ferch Hyfaidd Hen"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pwyll follows Rhiannon's marriage plan and marries her after overcoming Gwawl.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhiannon",
+   "other_aliases": [
+    "Rhiannon ferch Hyfaidd Hen"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pryderi is Rhiannon's abducted and eventually restored son.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhiannon",
+   "other_aliases": [
+    "Rhiannon ferch Hyfaidd Hen"
+   ],
+   "kind": "shared_myth",
+   "myth": "Imprisonment in the enchanted fort",
+   "note": "Pryderi and Rhiannon are magically trapped together and later released.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwawl fab Clud",
+   "other_aliases": [
+    "Gwawl"
+   ],
+   "kind": "contest",
+   "myth": "Rivalry for Rhiannon",
+   "note": "Pwyll temporarily loses Rhiannon to Gwawl through a rash promise.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwawl fab Clud",
+   "other_aliases": [
+    "Gwawl"
+   ],
+   "kind": "deceived",
+   "myth": "Badger in the Bag",
+   "note": "Pwyll tricks Gwawl into an inexhaustible bag and forces him to renounce Rhiannon.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwawl fab Clud",
+   "other_aliases": [
+    "Gwawl"
+   ],
+   "kind": "punished",
+   "myth": "Badger in the Bag",
+   "note": "Pwyll's followers beat and humiliate the bagged Gwawl without killing him.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyfaidd Hen",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Wedding feast at Hyfaidd's court",
+   "note": "Pwyll is entertained at Hyfaidd's court and marries his daughter Rhiannon there.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teyrnon Twryf Liant",
+   "other_aliases": [
+    "Teyrnon"
+   ],
+   "kind": "gift",
+   "myth": "Return of the abducted child",
+   "note": "Teyrnon returns Pryderi to Pwyll, who promises him maintenance and reward.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Teyrnon Twryf Liant",
+   "other_aliases": [
+    "Teyrnon"
+   ],
+   "kind": "rescued_by",
+   "myth": "Recovery of the vanished infant",
+   "note": "Teyrnon finds infant Pryderi, fosters him as Gwri Wallt Euryn, and returns him.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pendaran Dyfed",
+   "other_aliases": [
+    "Pendaran"
+   ],
+   "kind": "served_by",
+   "myth": "Fostering of Pryderi",
+   "note": "Pendaran confirms Pryderi's name and receives him for further fostering.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pendaran Dyfed",
+   "other_aliases": [
+    "Pendaran"
+   ],
+   "kind": "served",
+   "myth": "Three Powerful Swineherds",
+   "note": "Pryderi keeps Pendaran's seven swine at Glyn Cuch.",
+   "source": "Welsh Triads, Triad 26",
+   "date": "thirteenth century onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pryderi",
+   "other_aliases": [
+    "Pryderi fab Pwyll",
+    "Gwri Wallt Euryn",
+    "Gwri",
+    "Gweir"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pwyll is Pryderi's father; Pryderi succeeds him as lord of Dyfed.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pwyll",
+   "other_aliases": [
+    "Pwyll Pen Annwfn",
+    "Pwyll Pendefig Dyfed"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pryderi is Pwyll's recovered son and successor in Dyfed.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gweir ap Gwystyl",
+   "other_aliases": [
+    "Gweir"
+   ],
+   "kind": "other",
+   "myth": "Gweir's imprisonment at Caer Siddi",
+   "note": "Gweir is imprisoned through the uncertain ebostol of Pwyll and Pryderi.",
+   "source": "Preiddeu Annwfn",
+   "date": "c. ninth–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arthur's courtly catalogue",
+   "note": "Pwyll appears in Arthur's courtly orbit, but no shared deed is narrated.",
+   "source": "Culhwch ac Olwen",
+   "date": "probably twelfth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cigfa ferch Gwyn Glohoyw",
+   "other_aliases": [
+    "Cigfa"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cigfa is Pryderi's wife and shares the emptied Dyfed with him.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bendigeidfran",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expedition to rescue Branwen",
+   "note": "Pryderi joins Bendigeidfran's Irish expedition and helps carry his severed head.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Branwen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Expedition to rescue Branwen",
+   "note": "Pryderi joins the expedition mounted after Branwen's abuse in Ireland.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Matholwch",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War in Ireland",
+   "note": "Pryderi serves on the opposing British side against the Irish king.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Efnisien",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "War in Ireland",
+   "note": "Pryderi and Efnisien belong to the British expedition, without an individual exchange.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisien",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "War in Ireland",
+   "note": "Pryderi and Nisien accompany Bendigeidfran, but share no individual exchange.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manawydan fab Llŷr",
+   "other_aliases": [
+    "Manawydan"
+   ],
+   "kind": "allied",
+   "myth": "Seven survivors and enchanted Dyfed",
+   "note": "Manawydan is Pryderi's fellow survivor, friend, guest, and eventual stepfather.",
+   "source": "Second and Third Branches",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manawydan fab Llŷr",
+   "other_aliases": [
+    "Manawydan"
+   ],
+   "kind": "gift",
+   "myth": "Pryderi grants Dyfed and Rhiannon",
+   "note": "Pryderi offers Manawydan the use of Dyfed and marriage to Rhiannon.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manawydan fab Llŷr",
+   "other_aliases": [
+    "Manawydan"
+   ],
+   "kind": "rescued_by",
+   "myth": "Release from Llwyd's enchantment",
+   "note": "Manawydan coerces Llwyd into releasing the magically imprisoned Pryderi.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manawydan fab Llŷr",
+   "other_aliases": [
+    "Manawydan"
+   ],
+   "kind": "shared_myth",
+   "myth": "Knowledge of Caer Siddi",
+   "note": "Pryderi and Manawydan are jointly associated with the otherworldly Caer Siddi.",
+   "source": "Song before the Sons of Llyr",
+   "date": "c. ninth–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Taliesin",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seven survivors carry Bendigeidfran's head",
+   "note": "Pryderi and Taliesin are among the seven survivors returning from Ireland.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ynawg",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seven survivors carry Bendigeidfran's head",
+   "note": "Pryderi and Ynawg are fellow survivors of the Irish expedition.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gruddieu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seven survivors carry Bendigeidfran's head",
+   "note": "Pryderi and Gruddieu are fellow survivors of the Irish expedition.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heilyn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seven survivors carry Bendigeidfran's head",
+   "note": "Pryderi and Heilyn are fellow survivors of the Irish expedition.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy",
+   "other_aliases": [
+    "Gilfaethwy fab Dôn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Seven survivors carry Bendigeidfran's head",
+   "note": "Pryderi and Gilfaethwy are fellow survivors of the Irish expedition.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy fab Dôn",
+   "other_aliases": [
+    "Gilfaethwy"
+   ],
+   "kind": "deceived_by",
+   "myth": "The counterfeit barter for pigs",
+   "note": "Gilfaethwy accompanies Gwydion during the deception that deprives Pryderi of his pigs.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy fab Dôn",
+   "other_aliases": [
+    "Gilfaethwy"
+   ],
+   "kind": "fought",
+   "myth": "War over the stolen pigs",
+   "note": "Gilfaethwy joins the northern side in the war provoked against Pryderi.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Llwyd Cil Coed",
+   "other_aliases": [
+    "Llwyd"
+   ],
+   "kind": "punished_by",
+   "myth": "Enchantment of Dyfed",
+   "note": "Llwyd enchants Pryderi's land and imprisons him to avenge Gwawl.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion fab Dôn",
+   "other_aliases": [
+    "Gwydion"
+   ],
+   "kind": "deceived_by",
+   "myth": "The counterfeit barter for pigs",
+   "note": "Gwydion trades magically counterfeited animals and equipment for Pryderi's pigs.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion fab Dôn",
+   "other_aliases": [
+    "Gwydion"
+   ],
+   "kind": "theft",
+   "myth": "The pigs of Annwn",
+   "note": "Gwydion obtains Pryderi's pigs through illusory barter and drives them north.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion fab Dôn",
+   "other_aliases": [
+    "Gwydion"
+   ],
+   "kind": "fought",
+   "myth": "Single combat over the pigs",
+   "note": "Pryderi challenges Gwydion to settle their devastating war in single combat.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion fab Dôn",
+   "other_aliases": [
+    "Gwydion"
+   ],
+   "kind": "killed_by",
+   "myth": "Single combat over the pigs",
+   "note": "Gwydion kills Pryderi through martial strength, magic, and enchantment.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Math fab Mathonwy",
+   "other_aliases": [
+    "Math"
+   ],
+   "kind": "fought",
+   "myth": "War over the stolen pigs",
+   "note": "Pryderi leads Dyfed against the northern host ruled by Math.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Early modern mythographers classified Pwyll as the Welsh counterpart of Pluto.",
+   "source": "Catholic Encyclopedia",
+   "date": "1912",
+   "tier": "modern"
+  },
+  {
+   "other": "Mabon ap Modron",
+   "other_aliases": [
+    "Mabon",
+    "Maponos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists identify Pryderi with Mabon or Maponos from shared narrative motifs.",
+   "source": "Gruffydd, Rhiannon",
+   "date": "1953",
+   "tier": "modern"
+  },
+  {
+   "other": "Conn Cétchathach",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparative scholarship proposes a structural correspondence between Pwyll and Conn Cétchathach.",
+   "source": "Modern comparative scholarship",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Peredur",
+   "other_aliases": [
+    "Percival"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparativists propose correspondences between Pryderi and the Grail hero Peredur or Percival.",
+   "source": "Modern comparative scholarship",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern"
+  }
+ ]
+}

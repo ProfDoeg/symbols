@@ -1,0 +1,169 @@
+{
+ "folder": "mapuche",
+ "gods": [
+  "caupolican",
+  "fresia_and_guacolda",
+  "galvarino"
+ ],
+ "relations": [
+  {
+   "a": "caupolican",
+   "b": "galvarino",
+   "kind": "allied",
+   "myth": "Galvarino urges Caupolicán’s council to reject peace",
+   "note": "Galvarino displays his wounds and persuades Caupolicán’s council to renew resistance.",
+   "source": "La Araucana XXIII",
+   "date": "1578",
+   "tier": "canonical",
+   "stated_by": [
+    "galvarino"
+   ]
+  },
+  {
+   "a": "fresia_and_guacolda",
+   "b": "galvarino",
+   "kind": "shared_myth",
+   "myth": "Caupolicán’s interrupted peace council",
+   "note": "Fresia and Galbarino independently shame those considering submission.",
+   "source": "Lope, Arauco domado",
+   "date": "1625",
+   "tier": "late_accretion",
+   "stated_by": [
+    "galvarino"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "caupolican",
+   "god": "mapuche/pillan",
+   "kind": "other",
+   "myth": "Pillán’s warning prophecy",
+   "note": "Through the pillalonco, Pillán warns, burns, or agitates Caupolicán.",
+   "source": "Lope, Arauco domado",
+   "date": "early seventeenth century",
+   "tier": "late_accretion"
+  }
+ ],
+ "unresolved": {
+  "Alcaguendo": [
+   {
+    "stated_by": "galvarino",
+    "kind": "shared_myth",
+    "myth": "Oña’s campaign narrative",
+    "note": "Alcaguendo travels or acts alongside Galbarino during the campaign.",
+    "source": "Oña, Arauco domado",
+    "date": "1596",
+    "tier": "late_accretion"
+   }
+  ],
+  "Atlas": [
+   {
+    "stated_by": "caupolican",
+    "kind": "other",
+    "myth": "Darío’s burden comparison",
+    "note": "Darío gives Caupolicán bearing the log an Atlas-like burden.",
+    "source": "Darío, Caupolicán",
+    "date": "1888/1890",
+    "tier": "modern"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "caupolican",
+    "kind": "transformed_by",
+    "myth": "Caupolicán’s conversion before execution",
+    "note": "God illuminates the condemned Caupolicán, prompting him to request baptism.",
+    "source": "Ercilla, La Araucana XXXIV",
+    "date": "1589",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "caupolican",
+    "kind": "identified_with",
+    "myth": "Allegorical log-bearing contest",
+    "note": "The auto sacramental makes Caupolicán a Christ figure bearing a Cross-like log.",
+    "source": "La Araucana, auto sacramental",
+    "date": "early seventeenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Devil": [
+   {
+    "stated_by": "caupolican",
+    "kind": "contest",
+    "myth": "Allegorical log-bearing contest",
+    "note": "Caupolicán competes against an allegorical representative of the Devil.",
+    "source": "La Araucana, auto sacramental",
+    "date": "early seventeenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Engol": [
+   {
+    "stated_by": "galvarino",
+    "kind": "shared_myth",
+    "myth": "Caupolicán’s interrupted peace council",
+    "note": "Engol and Galbarino appear in the council opposing submission.",
+    "source": "Lope, Arauco domado",
+    "date": "1625",
+    "tier": "late_accretion"
+   }
+  ],
+  "Fitón": [
+   {
+    "stated_by": "caupolican",
+    "kind": "killed",
+    "myth": "Fitón predicts Caupolicán’s defeat",
+    "note": "Caupolicán kills the magician Fitón for delivering an unfavorable prophecy.",
+    "source": "Ávila, El gobernador prudente",
+    "date": "seventeenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Hercules": [
+   {
+    "stated_by": "caupolican",
+    "kind": "other",
+    "myth": "Darío’s heroic comparison",
+    "note": "Darío compares Caupolicán’s extraordinary strength to that of Hercules.",
+    "source": "Darío, Caupolicán",
+    "date": "1888/1890",
+    "tier": "modern"
+   }
+  ],
+  "Orompello": [
+   {
+    "stated_by": "galvarino",
+    "kind": "judged_by",
+    "myth": "Orompello condemns Galbarino for killing Guillén",
+    "note": "Orompello confronts Galbarino, condemns the alleged killing, and predicts his mutilation.",
+    "source": "Oña, Arauco domado IX",
+    "date": "1596",
+    "tier": "late_accretion"
+   }
+  ],
+  "The Sun": [
+   {
+    "stated_by": "caupolican",
+    "kind": "served",
+    "myth": "Caupolicán’s former solar worship",
+    "note": "Lope portrays Caupolicán as an erstwhile worshipper of the Sun.",
+    "source": "Lope, Arauco domado",
+    "date": "early seventeenth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Tucapel": [
+   {
+    "stated_by": "galvarino",
+    "kind": "allied",
+    "myth": "Caupolicán’s interrupted peace council",
+    "note": "Tucapel answers Galbarino’s speech by recommitting himself to war.",
+    "source": "Lope, Arauco domado",
+    "date": "1625",
+    "tier": "late_accretion"
+   }
+  ]
+ }
+}

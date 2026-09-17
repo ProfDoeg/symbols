@@ -1,0 +1,889 @@
+{
+ "subject": "hector",
+ "relations": [
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Priam is Hector's father, king, counselor, ransomer and chief mourner.",
+   "source": "Iliad 6, 22, 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecuba",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hecuba is Hector's mother and leads a lament at his funeral.",
+   "source": "Iliad 6, 22, 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Andromache is Hector's securely established wife.",
+   "source": "Iliad; Sappho fr. 44",
+   "date": "8th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Hector and Andromache",
+   "note": "Andromache arrives from Thebe, and Troy celebrates their wedding.",
+   "source": "Sappho fr. 44",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Farewell at the Scaean Gates",
+   "note": "Hector rejects Andromache's safer tactics and foretells Troy's fall and her enslavement.",
+   "source": "Iliad 6.390–502",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scamandrius",
+   "other_aliases": [
+    "Astyanax"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scamandrius, called Astyanax by the Trojans, is Hector's only securely early son.",
+   "source": "Iliad 6.402–03",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scamandrius",
+   "other_aliases": [
+    "Astyanax"
+   ],
+   "kind": "shared_myth",
+   "myth": "Helmet scene at the Scaean Gates",
+   "note": "Hector removes his frightening helmet, embraces his son and prays for his future strength.",
+   "source": "Iliad 6.466–81",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Francus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Medieval Trojan-origin genealogies claim Hector fathered Francus, legendary founder of the Franks.",
+   "source": "medieval Trojan-origin genealogy",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Paris is Hector's brother.",
+   "source": "Iliad 3 and 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "other",
+   "myth": "Hector rebukes Paris",
+   "note": "Hector condemns Paris for avoiding battle and urges him back into combat.",
+   "source": "Iliad 3 and 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Helenus is Hector's brother and a Trojan seer.",
+   "source": "Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Helenus advises Hector",
+   "note": "Helenus directs Hector to have the Trojan women supplicate Athena.",
+   "source": "Iliad 6",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deiphobus is Hector's brother.",
+   "source": "Iliad 22",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cassandra is Hector's sister.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of Hector's corpse",
+   "note": "Cassandra first sees Priam returning with Hector's body and summons Troy to mourn.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cebriones",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cebriones is Hector's half-brother and charioteer.",
+   "source": "Iliad 11 and 16",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cebriones",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cebriones drives Hector's chariot",
+   "note": "Cebriones serves as Hector's charioteer until Patroclus kills him.",
+   "source": "Iliad 11 and 16",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The systematized Trojan genealogy makes Hector a descendant of Zeus through Dardanus.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dardanus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Hector descends from Dardanus through the Trojan royal line.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "In the standard genealogy Electra is Dardanus' mother and Hector's ancestress.",
+   "source": "standard Trojan genealogy",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Erichthonius belongs to Hector's direct Trojan royal ancestry.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tros",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tros belongs to Hector's direct Trojan royal ancestry.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ilus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ilus belongs to Hector's direct Trojan royal ancestry.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laomedon",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Laomedon is Priam's predecessor and Hector's grandfather in the standard genealogy.",
+   "source": "Hesiodic and mythographic genealogy",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan battlefield ascendancy",
+   "note": "Zeus grants Hector temporary military success and encourages him with thunder.",
+   "source": "Iliad 8, 15, 17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Weighing Hector's death-portion",
+   "note": "Zeus weighs Hector's fate against Achilles' and permits Hector's allotted death.",
+   "source": "Iliad 22.166–213",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apollo assists Hector and Troy",
+   "note": "Apollo repeatedly protects and assists Hector during the Trojan fighting.",
+   "source": "Iliad 15–16, 20, 22",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Death of Patroclus",
+   "note": "Apollo strikes and disorients Patroclus before Hector delivers the fatal wound.",
+   "source": "Iliad 16",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Preservation of Hector's corpse",
+   "note": "Apollo shields Hector's corpse with the aegis during Achilles' repeated dragging.",
+   "source": "Iliad 23–24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Athena opposes Hector",
+   "note": "Athena supports Greek champions and frustrates Hector's attacks.",
+   "source": "Iliad 8 and 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Athena impersonates Deiphobus",
+   "note": "Athena takes Deiphobus' shape and induces Hector to stand against Achilles.",
+   "source": "Iliad 22",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan battle line",
+   "note": "Ares supports the Trojans while Hector rallies their forces under his favor.",
+   "source": "Iliad 5",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Preservation of Hector's corpse",
+   "note": "Aphrodite keeps dogs from Hector's corpse and anoints it with ambrosial oil.",
+   "source": "Iliad 23.184–91",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ransom of Hector",
+   "note": "Iris carries Zeus' instructions to Priam concerning recovery of Hector's body.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ransom of Hector",
+   "note": "Hermes guides and conceals Priam during the mission to recover Hector's corpse.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ransom of Hector",
+   "note": "Thetis communicates Zeus' command that Achilles release Hector's corpse.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gods debate Hector's fate",
+   "note": "Hera opposes Troy and rejects Zeus' impulse to save Hector.",
+   "source": "Iliad 22 and 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of the Achaean ships",
+   "note": "Poseidon secretly strengthens the Achaeans against Hector's assault.",
+   "source": "Iliad 13–14",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hector visits Paris and Helen",
+   "note": "Hector treats Helen with restraint while urging Paris to return to battle.",
+   "source": "Iliad 6.343–68",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Funeral lament for Hector",
+   "note": "Helen laments Hector as her consistent protector from Trojan insult.",
+   "source": "Iliad 24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydamas",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Debate over retreat into Troy",
+   "note": "Hector rejects Polydamas' sound advice to withdraw, preparing the Trojan collapse.",
+   "source": "Iliad 18.243–313",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense of Troy",
+   "note": "Hector rallies or rebukes Aeneas while they command the Trojan coalition.",
+   "source": "Iliad 13, 17, 20",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hector's ghost warns Aeneas",
+   "note": "Hector's ghost warns Aeneas that Troy is lost and entrusts its sacred future to him.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan assault",
+   "note": "Sarpedon rebukes Hector for burdening allies, then fights under his command.",
+   "source": "Iliad 5 and 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Struggle over Sarpedon's corpse",
+   "note": "Glaucus reproaches Hector and joins him in fighting over Sarpedon's body.",
+   "source": "Iliad 17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dolon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Dolon volunteers to spy",
+   "note": "Hector promises Dolon Achilles' immortal horses as payment for spying.",
+   "source": "Iliad 10",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Arrival of Rhesus",
+   "note": "Hector receives the late Thracian ally and disputes his delayed arrival.",
+   "source": "Iliad 10; Rhesus",
+   "date": "8th–4th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel outside Troy",
+   "note": "Hector stands against Achilles after Athena's deception and attacks him with sword and spear.",
+   "source": "Iliad 22",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Hector",
+   "note": "Achilles kills Hector by thrusting through a gap in his captured armor.",
+   "source": "Iliad 22",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Maltreatment of Hector's corpse",
+   "note": "Achilles strips, pierces and repeatedly drags Hector's corpse before accepting ransom.",
+   "source": "Iliad 22–24",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Ambush of unarmed Hector",
+   "note": "Shakespeare has Achilles' Myrmidons surround and kill Hector while he is disadvantaged.",
+   "source": "Troilus and Cressida",
+   "date": "c. 1601–1602",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Patroclus",
+   "note": "After Apollo disables and Euphorbus wounds Patroclus, Hector delivers the fatal spear-thrust.",
+   "source": "Iliad 16",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Stripping Patroclus' armor",
+   "note": "Hector strips Achilles' armor from Patroclus and wears it himself.",
+   "source": "Iliad 16–17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telamonian Ajax",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "fought",
+   "myth": "Duel of Hector and Ajax",
+   "note": "Hector and Ajax exchange missiles and stones until heralds end their inconclusive duel.",
+   "source": "Iliad 7",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telamonian Ajax",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "gift",
+   "myth": "Exchange of enemy gifts",
+   "note": "Hector gives Ajax a sword and receives a purple sword-belt.",
+   "source": "Iliad 7",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telamonian Ajax",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "fought",
+   "myth": "Defense of corpses and ships",
+   "note": "Ajax repeatedly blocks Hector from the Achaean ships and fallen Greek bodies.",
+   "source": "Iliad 13–17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Struggle over Patroclus' corpse",
+   "note": "Menelaus helps defend Patroclus' body, while Hector avoids direct combat after Apollo's warning.",
+   "source": "Iliad 17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector kills Menelaus",
+   "note": "The film Troy invents Hector killing Menelaus during the duel with Paris.",
+   "source": "Troy",
+   "date": "2004",
+   "tier": "modern"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Trojan advance",
+   "note": "Hector commands the army opposing Agamemnon, without a major formal duel.",
+   "source": "Iliad 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Exchange of missiles",
+   "note": "Hector and Diomedes exchange casts; Diomedes strikes Hector's helmet and temporarily stuns him.",
+   "source": "Iliad 11",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Teucer",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Teucer's attacks on Hector",
+   "note": "Teucer repeatedly shoots at Hector, who eventually wounds him with a stone.",
+   "source": "Iliad 8 and 15",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle in the Cretan sector",
+   "note": "Hector exchanges threats and attacks with Idomeneus during the fighting.",
+   "source": "Iliad 13",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meriones",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle in the Cretan sector",
+   "note": "Meriones opposes Hector's forces, though their direct contact is limited.",
+   "source": "Iliad 13",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Selection of Hector's challenger",
+   "note": "Odysseus is among the Greek champions eligible to answer Hector's challenge.",
+   "source": "Iliad 7",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Selection of Hector's challenger",
+   "note": "Nestor restrains Antilochus from accepting Hector's challenge and advises resistance to Hector.",
+   "source": "Iliad 7–15",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Protesilaus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "First Greek landing at Troy",
+   "note": "One cyclic and mythographic version makes Hector kill the first Greek ashore.",
+   "source": "Cypria tradition; later mythography",
+   "date": "7th c. BCE–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Euphorbus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Death of Patroclus",
+   "note": "Euphorbus wounds Patroclus before Hector delivers the final blow and claims victory.",
+   "source": "Iliad 16–17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Automedon",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Contest for Achilles' horses",
+   "note": "Hector attempts to capture Achilles' immortal horses from Automedon.",
+   "source": "Iliad 17",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menesthes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Menesthes during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anchialus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Anchialus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Teuthras",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Teuthras during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills the Achaean warrior Orestes during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Trechus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Trechus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oenomaus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills the Achaean warrior Oenomaus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helenus son of Oenops",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Helenus son of Oenops during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oresbius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Oresbius during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asaeus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Asaeus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Autonous",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Autonous during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Opites",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Opites during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dolops",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Dolops during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Opheltius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Opheltius during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agelaus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Agelaus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aesymnus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Aesymnus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Orus during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hipponous",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Hipponous during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Periphetes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Periphetes during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Schedius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Hector's battlefield killings",
+   "note": "Hector kills Schedius during the Trojan War.",
+   "source": "Iliad",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  }
+ ]
+}

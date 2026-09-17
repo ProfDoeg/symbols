@@ -1,0 +1,330 @@
+{
+ "subject": "lemminkainen",
+ "relations": [
+  {
+   "other": "Lempi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The patronymic Lemmin poika names or implies Lempi as his father.",
+   "source": "Kalevala; oral poems",
+   "date": "nineteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lempo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some formulas call him Lempo's son, but no stable genealogy exists.",
+   "source": "Recorded oral tradition",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ahti Saarelainen",
+   "other_aliases": [
+    "Ahti Saaren sulho"
+   ],
+   "kind": "identified_with",
+   "myth": "Lönnrot's composite Lemminkäinen cycle",
+   "note": "Lönnrot fused this independent island hero with Lemminkäinen.",
+   "source": "Kalevala 11–30; source songs",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaukomieli",
+   "other_aliases": [
+    "Kaukamoinen",
+    "Kaukomoinen",
+    "Kauko",
+    "Kaunis Kaukomieli"
+   ],
+   "kind": "identified_with",
+   "myth": "Feast and flight cycle",
+   "note": "Lönnrot incorporated this variable feast-cycle protagonist into Lemminkäinen.",
+   "source": "Kalevala; source songs",
+   "date": "nineteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kyllikki",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage of Kyllikki",
+   "note": "He abducts Kyllikki, marries her, and exchanges reciprocal oaths.",
+   "source": "Kalevala 11–12",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kyllikki",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kyllikki breaks their oath",
+   "note": "He abandons their marriage after she attends a village dance.",
+   "source": "Kalevala 12",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "mistress of Pohjola"
+   ],
+   "kind": "other",
+   "myth": "Wooing in Pohjola",
+   "note": "Louhi imposes three impossible tasks before he may court her daughter.",
+   "source": "Kalevala 12–15",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "mistress of Pohjola"
+   ],
+   "kind": "fought",
+   "myth": "The theft and defense of the Sampo",
+   "note": "He joins the expedition and fights Louhi's forces over the Sampo.",
+   "source": "Kalevala 42–43",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pohjola's maiden",
+   "other_aliases": [
+    "Louhi's daughter"
+   ],
+   "kind": "other",
+   "myth": "Wooing expedition to Pohjola",
+   "note": "He seeks her as a second bride but never wins her.",
+   "source": "Kalevala 12–15",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pohjola's master",
+   "other_aliases": [
+    "Pohjolan isäntä",
+    "master of Pohjola"
+   ],
+   "kind": "fought",
+   "myth": "The uninvited feast",
+   "note": "Their insults and magical contest escalate into a sword duel.",
+   "source": "Kalevala 27",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pohjola's master",
+   "other_aliases": [
+    "Pohjolan isäntä",
+    "master of Pohjola"
+   ],
+   "kind": "killed",
+   "myth": "The uninvited feast",
+   "note": "Lemminkäinen beheads the master of Pohjola during their duel.",
+   "source": "Kalevala 27",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Rowing Väinämöinen's boat",
+   "note": "Väinämöinen appoints Lemminkäinen as a powerful rower.",
+   "source": "Ganander, Mythologia Fennica",
+   "date": "1789",
+   "tier": "attested"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Sampo expedition",
+   "note": "He joins Väinämöinen and helps steal and defend the Sampo.",
+   "source": "Kalevala 39–44",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Regional Lemminkäinen death song",
+   "note": "One regional variant makes Väinämöinen kill him for wrongdoing.",
+   "source": "SKVR death-song variants",
+   "date": "1908–1948",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ilmarinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Sampo expedition",
+   "note": "He accompanies Ilmarinen and Väinämöinen in stealing and defending the Sampo.",
+   "source": "Kalevala 39–44",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ilmarinen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recovery from Tuonela's river",
+   "note": "Ilmarinen forges the rakes used by Lemminkäinen's mother to recover him.",
+   "source": "Kalevala 15",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Retaliatory expedition against Pohjola",
+   "note": "Tiera joins his voyage against Pohjola before Frost defeats them.",
+   "source": "Kalevala 30",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ukko",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hunt for the Elk of Hiisi",
+   "note": "Lemminkäinen invokes Ukko for supernatural skis and hunting assistance.",
+   "source": "Kalevala 13–14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ukko",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lemminkäinen's restoration",
+   "note": "Healing substance for his revival comes from Ukko's celestial stores.",
+   "source": "Kalevala 15",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tapio",
+   "other_aliases": [
+    "forest ruler"
+   ],
+   "kind": "other",
+   "myth": "Hunt for the Elk of Hiisi",
+   "note": "Lemminkäinen invokes Tapio to guide the forest and bring the elk near.",
+   "source": "Kalevala 14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mielikki",
+   "other_aliases": [
+    "forest mistress"
+   ],
+   "kind": "other",
+   "myth": "Hunt for the Elk of Hiisi",
+   "note": "Lemminkäinen invokes Mielikki for help during the elk hunt.",
+   "source": "Kalevala 14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nyyrikki",
+   "other_aliases": [
+    "Tapio's son"
+   ],
+   "kind": "other",
+   "myth": "Hunt for the Elk of Hiisi",
+   "note": "Lemminkäinen asks Nyyrikki to mark the route to his quarry.",
+   "source": "Kalevala 14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tellervo",
+   "other_aliases": [
+    "forest maiden"
+   ],
+   "kind": "other",
+   "myth": "Hunt for the Elk of Hiisi",
+   "note": "Lemminkäinen invokes Tellervo to drive the game toward him.",
+   "source": "Kalevala 14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hiisi",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Tasks for Louhi",
+   "note": "Lemminkäinen captures Hiisi's elk and bridles Hiisi's fiery horse.",
+   "source": "Kalevala 13–14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tuoni",
+   "other_aliases": [
+    "ruler of death"
+   ],
+   "kind": "other",
+   "myth": "Death in Tuonela's river",
+   "note": "Lemminkäinen's slain body enters Tuoni's river and domain.",
+   "source": "Kalevala 14–15",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tuoni's son",
+   "other_aliases": [
+    "Tuonen poika"
+   ],
+   "kind": "other",
+   "myth": "Dismemberment in Tuonela's river",
+   "note": "Tuoni's son cuts the dead hero into pieces and scatters them.",
+   "source": "Kalevala 14",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Surma",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Journey to the uninvited feast",
+   "note": "Lemminkäinen passes the lethal guardian's danger while traveling north.",
+   "source": "Kalevala 26",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pakkanen",
+   "other_aliases": [
+    "Frost"
+   ],
+   "kind": "fought",
+   "myth": "Frozen expedition against Pohjola",
+   "note": "Frost freezes his boat and sea; he counters with threats and an origin-charm.",
+   "source": "Kalevala 30",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mehiläinen",
+   "other_aliases": [
+    "Bee"
+   ],
+   "kind": "rescued_by",
+   "myth": "Lemminkäinen's restoration",
+   "note": "The bee retrieves celestial healing substances used to revive him.",
+   "source": "Kalevala 15",
+   "date": "1849",
+   "tier": "canonical"
+  }
+ ]
+}

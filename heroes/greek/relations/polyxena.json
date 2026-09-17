@@ -1,0 +1,423 @@
+{
+ "subject": "polyxena",
+ "relations": [
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Priam is Polyxena’s father.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.12.5",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Priam considers Achilles’ marriage proposal",
+   "note": "Priam considers and rejects Achilles’ proposal to marry Polyxena.",
+   "source": "Dares, De excidio Troiae",
+   "date": "fifth or sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecuba",
+   "other_aliases": [
+    "Hecabe"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hecuba is Polyxena’s mother.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.12.5",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecuba",
+   "other_aliases": [
+    "Hecabe"
+   ],
+   "kind": "shared_myth",
+   "myth": "Hecuba pleads for Polyxena and prepares her burial",
+   "note": "Hecuba pleads for her captive daughter, mourns her, and prepares her body.",
+   "source": "Euripides, Hecuba",
+   "date": "c. 424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hector is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Achilles sees Polyxena during recovery of Hector’s body",
+   "note": "Late accounts connect Achilles’ first sight of Polyxena with Hector’s recovered body.",
+   "source": "Philostratus, Heroicus 51",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Paris is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [
+    "Alexander"
+   ],
+   "kind": "shared_myth",
+   "myth": "Paris ambushes Achilles during Polyxena marriage negotiations",
+   "note": "Paris uses negotiations involving Polyxena to ambush and kill Achilles.",
+   "source": "Hyginus, Fabulae 110",
+   "date": "early Empire",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deiphobus is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Deiphobus helps ambush Achilles during marriage negotiations",
+   "note": "Deiphobus assists Paris in the ambush arising from negotiations over Polyxena.",
+   "source": "Dictys, Ephemeris belli Troiani",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Troilus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Troilus is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Troilus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Achilles ambushes Troilus and Polyxena at the fountain",
+   "note": "Polyxena escapes while Achilles pursues her brother Troilus.",
+   "source": "Archaic vase imagery",
+   "date": "c. 550–500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Polydorus is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hecuba discovers Polydorus after Polyxena’s death",
+   "note": "Their deaths jointly transform Hecuba’s grief into revenge, though they never converse.",
+   "source": "Euripides, Hecuba",
+   "date": "c. 424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Helenus is Polyxena’s brother.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cassandra is Polyxena’s sister.",
+   "source": "Trojan-cycle genealogical tradition",
+   "date": "ancient",
+   "tier": "attested"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Cassandra calls dead Polyxena happier than surviving captives",
+   "note": "Cassandra judges Polyxena happier in death than the enslaved Trojan survivors.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Creusa is Polyxena’s sister in mythographical catalogues.",
+   "source": "Mythographical genealogical catalogues",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laodice",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Laodice is Polyxena’s sister in mythographical catalogues.",
+   "source": "Mythographical genealogical catalogues",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Achilles seeks Polyxena as wife",
+   "note": "Later traditions portray Polyxena as Achilles’ beloved or intended bride.",
+   "source": "Hyginus, Fabulae 110",
+   "date": "early Empire",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Achilles’ ghost demands Polyxena at his tomb",
+   "note": "Achilles’ ghost demands Polyxena as his funerary prize, causing her sacrifice.",
+   "source": "Euripides, Hecuba",
+   "date": "c. 424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena voluntarily dies beside Achilles’ tomb",
+   "note": "Philostratus makes their love mutual and Polyxena’s death a voluntary reunion.",
+   "source": "Philostratus, Heroicus 51",
+   "date": "early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "killed_by",
+   "myth": "Sacrifice at Achilles’ tomb",
+   "note": "Neoptolemus cuts Polyxena’s throat over Achilles’ tomb.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neoptolemus",
+   "other_aliases": [
+    "Pyrrhus"
+   ],
+   "kind": "other",
+   "myth": "Polyxena wounded during Troy’s capture",
+   "note": "In the disputed cyclic variant, Neoptolemus buries Polyxena instead of killing her.",
+   "source": "Cypria fragment in Pausanias",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "fought",
+   "myth": "Polyxena wounded during Troy’s capture",
+   "note": "Odysseus and Diomedes wound Polyxena during the sack.",
+   "source": "Cypria fragment in Pausanias",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "other",
+   "myth": "Odysseus takes Polyxena for sacrifice",
+   "note": "Odysseus removes Polyxena from Hecuba and defends Achilles’ claim.",
+   "source": "Euripides, Hecuba",
+   "date": "c. 424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Polyxena wounded during Troy’s capture",
+   "note": "Diomedes and Odysseus wound Polyxena during the sack.",
+   "source": "Cypria fragment in Pausanias",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "Diomedes is named among the participants or witnesses at Polyxena’s sacrifice.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "Nestor is named among the participants or witnesses at Polyxena’s sacrifice.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "Phoenix is named among the participants or witnesses at Polyxena’s sacrifice.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "A figure labeled Ajax participates in the sacrifice scene; his precise identity is disputed.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphilochus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "Amphilochus is named among the participants or witnesses at Polyxena’s sacrifice.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Antiphates",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena’s sacrifice",
+   "note": "Antiphates is named among the participants or witnesses at Polyxena’s sacrifice.",
+   "source": "Timiades Painter amphora",
+   "date": "c. 570–550 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Greek leaders debate Polyxena’s sacrifice",
+   "note": "Agamemnon participates in the decision and, in Seneca, opposes Pyrrhus’ demand.",
+   "source": "Seneca, Troades",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Agamemnon delivers Polyxena to Neoptolemus",
+   "note": "Agamemnon hands Polyxena over to Neoptolemus for vengeance and sacrifice.",
+   "source": "Dares, De excidio Troiae",
+   "date": "fifth or sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Talthybius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Talthybius reports Polyxena’s death",
+   "note": "Talthybius announces the decision and recounts Polyxena’s courageous death to Hecuba.",
+   "source": "Euripides, Hecuba",
+   "date": "c. 424 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calchas",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Calchas ratifies Polyxena’s sacrifice",
+   "note": "Calchas interprets and authorizes the supernatural demand requiring Polyxena’s death.",
+   "source": "Seneca, Troades",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Captured Trojan women after Troy’s fall",
+   "note": "Polyxena and Andromache appear among the post-sack Trojan captives without direct exchange.",
+   "source": "Pausanias, Description of Greece 10.25.10",
+   "date": "c. 150–180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Astyanax",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Polyxena and Astyanax condemned after Troy",
+   "note": "Seneca structurally pairs Polyxena and Astyanax as victims of Greek victory.",
+   "source": "Seneca, Troades",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo Thymbraeus",
+   "other_aliases": [
+    "Apollo"
+   ],
+   "kind": "shared_myth",
+   "myth": "Achilles killed during Polyxena marriage negotiations",
+   "note": "Apollo’s Thymbraean sanctuary is the setting for negotiations over Polyxena and Achilles’ ambush.",
+   "source": "Hyginus, Fabulae 110",
+   "date": "early Empire",
+   "tier": "late_accretion"
+  }
+ ]
+}

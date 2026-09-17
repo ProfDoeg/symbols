@@ -1,0 +1,710 @@
+{
+ "subject": "medea",
+ "relations": [
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Medea is the daughter of Aeëtes in the standard genealogy.",
+   "source": "Hesiod, Theogony 956–962",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Flight from Colchis",
+   "note": "Medea disobeys Aeëtes, helps Jason complete his trials, and flees.",
+   "source": "Apollonius, Argonautica 3–4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return to Colchis",
+   "note": "Medea kills the usurping Perses and restores Aeëtes to power.",
+   "source": "Apollodorus, Bibliotheca 1.9",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Idyia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Idyia is Medea's mother in the standard early genealogy.",
+   "source": "Hesiod, Theogony 956–962",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus gives Clytia, rather than Idyia, as Medea's mother.",
+   "source": "Hyginus, Fabulae",
+   "date": "second century CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus rationalizes Hecate as Medea's mortal mother by Aeëtes.",
+   "source": "Diodorus Siculus, Library 4",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Medea's magical rites",
+   "note": "Medea invokes or serves Hecate in Hellenistic and Roman accounts.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Medea is Helios's granddaughter through Aeëtes.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "gift",
+   "myth": "Escape from Corinth",
+   "note": "Helios supplies his granddaughter with the chariot used to escape Corinth.",
+   "source": "Euripides, Medea 1317–1419",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseis",
+   "other_aliases": [
+    "Perse"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Medea is Perseis's great-granddaughter through Helios and Aeëtes.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Circe is Medea's aunt in the Hesiodic solar genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification after Apsyrtus's murder",
+   "note": "Circe purifies Medea and Jason of blood guilt, then rebukes and expels them.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Hera Akraia"
+   ],
+   "kind": "deceived_by",
+   "myth": "Divine plan against Pelias",
+   "note": "Hera engineers Medea's passion so her aid to Jason will destroy Pelias.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Hera Akraia"
+   ],
+   "kind": "served",
+   "myth": "Corinthian children's rites",
+   "note": "Medea uses Hera's sanctuary for her children and establishes their rites.",
+   "source": "Euripides, Medea 1378–1383",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine planning of Medea's passion",
+   "note": "Athena joins Hera in seeking Aphrodite's help to manipulate Medea.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Eros inflames Medea",
+   "note": "At Hera and Athena's request, Aphrodite persuades Eros to inflame Medea.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The iynx love-charm",
+   "note": "Aphrodite teaches Jason the charm that secures Medea's assistance.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Eros's arrow",
+   "note": "Eros shoots Medea and compels her overwhelming passion for Jason.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Jason is Medea's partner and the father of Medeius.",
+   "source": "Hesiod, Theogony 956–962",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trials for the Golden Fleece",
+   "note": "Medea supplies protective ointment and strategy for Aeëtes' trials.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Escape with the Golden Fleece",
+   "note": "Medea drugs the serpent and enables Jason's escape from Colchis.",
+   "source": "Apollonius, Argonautica 3–4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ambush of Apsyrtus",
+   "note": "Medea lures Apsyrtus into the ambush where Jason kills him.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Medea's Corinthian vengeance",
+   "note": "After Jason's betrayal, Medea destroys his new marriage and kills their sons.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apsyrtus is Medea's brother in several conflicting traditions.",
+   "source": "Pherecydes and Apollodorus",
+   "date": "archaic to imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dismemberment of child Apsyrtus",
+   "note": "Medea kills and dismembers her child brother to delay Aeëtes.",
+   "source": "Apollodorus, Bibliotheca 1.9",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Ambush of adult Apsyrtus",
+   "note": "Medea lures her adult brother to a meeting where Jason ambushes him.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chalciope",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Chalciope is Medea's sister.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chalciope",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Aid to Jason in Colchis",
+   "note": "Their interests converge because Chalciope's sons support Jason.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Argus is Medea's nephew through her sister Chalciope.",
+   "source": "Apollonius, Argonautica 2–3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Argus's rescue and Jason's arrival",
+   "note": "The rescue of Argus helps connect Medea with Jason.",
+   "source": "Apollonius, Argonautica 2–3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Pelias",
+   "note": "Medea engineers Pelias's death by deceiving his daughters.",
+   "source": "Euripides, Peliades",
+   "date": "455 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Peliades",
+   "other_aliases": [
+    "Pelias's daughters"
+   ],
+   "kind": "deceived",
+   "myth": "The rejuvenated ram",
+   "note": "Medea tricks them with a ram demonstration into cutting up Pelias.",
+   "source": "Euripides, Peliades",
+   "date": "455 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeson",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Rejuvenation of Aeson",
+   "note": "Medea restores Aeson's youth by replacing his blood with a potion.",
+   "source": "Ovid, Metamorphoses 7",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Talos",
+   "note": "Medea destroys Crete's bronze guardian through hostile visions and enchantment.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Promise of immortality to Talos",
+   "note": "In one variant Medea offers immortality, then removes Talos's vein nail.",
+   "source": "Apollodorus, Bibliotheca 1.9",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcinous",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment among the Phaeacians",
+   "note": "Alcinous judges whether Medea must be returned to the Colchians.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arete",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Marriage before Alcinous's judgment",
+   "note": "Arete protects Medea and secretly arranges her immediate marriage to Jason.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Exile from Corinth",
+   "note": "Creon orders Medea and her children into exile.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Poisoning of the Corinthian princess",
+   "note": "Medea's poison kills Creon as he tries to save his daughter.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [
+    "Glauce",
+    "princess"
+   ],
+   "kind": "killed",
+   "myth": "Poisoned robe and crown",
+   "note": "Medea kills Jason's new bride with poisoned wedding gifts.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medeius",
+   "other_aliases": [
+    "Medus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Medeius is Medea's son by Jason in the earliest genealogy.",
+   "source": "Hesiod, Theogony 956–962",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medeius",
+   "other_aliases": [
+    "Medus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cinaethon names Medeius and Eriopis as Medea's children by Jason.",
+   "source": "Cinaethon, genealogical epic fragment",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eriopis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eriopis is Medea's daughter by Jason in Cinaethon's genealogy.",
+   "source": "Cinaethon, genealogical epic fragment",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mermerus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mermerus is a son of Medea and Jason.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mermerus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Medea's deliberate infanticide",
+   "note": "In the canonical tragedy, Medea deliberately kills her son.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mermerus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Corinthians kill Medea's children",
+   "note": "In Corinthian variants, Mermerus is killed by Corinthians rather than Medea.",
+   "source": "Pausanias, Description 2.3",
+   "date": "c. 160–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mermerus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mermerus's fatal hunt",
+   "note": "The Naupactia says a lioness kills Mermerus while he is hunting.",
+   "source": "Naupactia fragment",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pheres",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pheres is a son of Medea and Jason.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pheres",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Medea's deliberate infanticide",
+   "note": "In the canonical tragedy, Medea deliberately kills her son.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pheres",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Corinthians kill Medea's children",
+   "note": "In a local variant, Corinthians kill Pheres for carrying Medea's gifts.",
+   "source": "Pausanias, Description 2.3",
+   "date": "c. 160–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seven sons and seven daughters",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A scholastic regional tradition gives Medea fourteen children.",
+   "source": "Parmeniscus scholium",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seven sons and seven daughters",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Corinthian women's massacre",
+   "note": "Corinthian women kill Medea's fourteen children for rejecting the foreign sorceress.",
+   "source": "Parmeniscus scholium",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Promise of Athenian asylum",
+   "note": "Aegeus swears to shelter Medea after her expulsion from Corinth.",
+   "source": "Euripides, Medea 663–758",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Medea later marries Aegeus in the Athenian tradition.",
+   "source": "Sophocles, Aegeus",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medus",
+   "other_aliases": [
+    "Medeius"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later tradition makes Medus Medea's son by Aegeus.",
+   "source": "Apollodorus and Pausanias",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medus",
+   "other_aliases": [
+    "Medeius"
+   ],
+   "kind": "shared_myth",
+   "myth": "Eastern migration and Median eponymy",
+   "note": "Medea travels east with Medus, whose conquests explain the Medes' name.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polyxenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellanicus makes Polyxenus, rather than Medus, Medea's son by Jason.",
+   "source": "Hellanicus cited by Pausanias",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Plot against Theseus",
+   "note": "Medea tries to eliminate Theseus through the Marathonian bull or poison.",
+   "source": "Sophocles, Aegeus",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Poisoned cup for Theseus",
+   "note": "Medea conceals Theseus's identity and prepares poison before Aegeus recognizes him.",
+   "source": "Ovid, Metamorphoses 7",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Restoration of Aeëtes",
+   "note": "Medea kills Aeëtes' usurping brother and restores her father.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage in the Isles of the Blessed",
+   "note": "Medea is destined to marry Achilles in Elysium without an earthly meeting.",
+   "source": "Archaic lyric and Apollonius scholia",
+   "date": "archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Blood guilt for Apsyrtus",
+   "note": "Zeus requires Medea and Jason to undergo purification for Apsyrtus's murder.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Command for purification",
+   "note": "Themis communicates Zeus's purification command to Hera; Medea receives it indirectly.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Argo's passage",
+   "note": "Thetis helps the Argo under Hera's orders while Medea is aboard.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Revelation of Anaphe",
+   "note": "Apollo reveals Anaphe and saves the voyagers; Medea joins the resulting rites.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "served",
+   "myth": "Rejuvenation of Dionysus's nurses",
+   "note": "Dionysus asks Medea to restore his nurses to youth.",
+   "source": "Ovid, Metamorphoses 7",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return voyage of the Argo",
+   "note": "Orpheus and Medea travel together among the Argonauts after her flight.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Argonauts",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Escape from Colchis",
+   "note": "Medea joins the Argonauts and uses her magic during their return voyage.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "third century BCE",
+   "tier": "canonical"
+  }
+ ]
+}

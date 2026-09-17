@@ -1,0 +1,860 @@
+{
+ "subject": "gunnar",
+ "relations": [
+  {
+   "other": "Walter",
+   "other_aliases": [
+    "Waldere"
+   ],
+   "kind": "fought",
+   "myth": "Pursuit for the Hunnic treasure",
+   "note": "Gunnar pursues Walter for treasure; Walter defeats him and severs his leg.",
+   "source": "Waltharius; Waldere",
+   "date": "ninth/tenth century; c. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hildegund",
+   "other_aliases": [
+    "Hildegyth"
+   ],
+   "kind": "fought",
+   "myth": "Pursuit of Walter and Hildegund",
+   "note": "Gunnar pursues the escaping Hildegund and Walter for their treasure.",
+   "source": "Waltharius; Waldere",
+   "date": "ninth/tenth century; c. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [
+    "Hagena",
+    "Högni"
+   ],
+   "kind": "allied",
+   "myth": "Final combat against Walter",
+   "note": "Hagen counsels Gunnar, rescues him, and joins his final attack on Walter.",
+   "source": "Waltharius",
+   "date": "ninth/tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Högni",
+   "other_aliases": [
+    "Hagen",
+    "Hagena"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Högni is Gunnar's brother in the Norse genealogical tradition.",
+   "source": "Eddic poems; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Högni",
+   "other_aliases": [
+    "Hagen",
+    "Hagena"
+   ],
+   "kind": "allied",
+   "myth": "Plot to kill Sigurd",
+   "note": "Gunnar and Högni induce Gothorm to murder their oath-brother Sigurd.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Högni",
+   "other_aliases": [
+    "Hagen",
+    "Hagena"
+   ],
+   "kind": "allied",
+   "myth": "Resistance to Atli",
+   "note": "The brothers resist Atli and conceal the Niflung treasure's location.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [
+    "Hagena",
+    "Högni"
+   ],
+   "kind": "served_by",
+   "myth": "Siegfried's murder and Kriemhild's revenge",
+   "note": "Hagen serves Gunther, murders Siegfried with his assent, and guards the hoard.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gjúki",
+   "other_aliases": [
+    "Gibica",
+    "Gibeche"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Norse tradition makes Gunnar the son and dynastic heir of Gjúki.",
+   "source": "Eddic prose; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gibeche",
+   "other_aliases": [
+    "Gibica",
+    "Gjúki"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rosengarten A makes Gunther a son of Gibeche.",
+   "source": "Rosengarten A",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gibich",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Gunther the son of Gibich.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Grímhild",
+   "other_aliases": [
+    "Ute"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Norse prose makes Grímhild Gunnar's mother.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ute",
+   "other_aliases": [
+    "Grímhild"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "German tradition makes Ute Gunther's mother.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Grimhilde",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Grimhilde Gunther's mother.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Dancrat",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "German tradition makes Dancrat Gunther's father.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Guðrún",
+   "other_aliases": [
+    "Kriemhild"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Guðrún is Gunnar's sister in the Norse tradition.",
+   "source": "Eddic poems; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Guðrún",
+   "other_aliases": [
+    "Kriemhild"
+   ],
+   "kind": "gift",
+   "myth": "Marriage of Guðrún and Sigurd",
+   "note": "Gunnar gives his sister Guðrún in marriage to Sigurd.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Guðrún",
+   "other_aliases": [
+    "Kriemhild"
+   ],
+   "kind": "rescued_by",
+   "myth": "Warning before Atli's ambush",
+   "note": "Guðrún attempts to warn Gunnar of Atli's treacherous invitation.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested"
+  },
+  {
+   "other": "Guðrún",
+   "other_aliases": [
+    "Kriemhild"
+   ],
+   "kind": "shared_myth",
+   "myth": "Guðrún's revenge upon Atli",
+   "note": "After Gunnar's death, Guðrún avenges her brothers by destroying Atli.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [
+    "Guðrún"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kriemhild is Gunther's sister in the German tradition.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [
+    "Guðrún"
+   ],
+   "kind": "killed_by",
+   "myth": "Revenge at Etzel's court",
+   "note": "Kriemhild orders the captive Gunther beheaded during her revenge.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gernot",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gernot is Gunther's brother and co-king in German tradition.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gernot",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battle at Etzel's court",
+   "note": "Gernot fights beside Gunther and dies in the Hunnish catastrophe.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Giselher",
+   "other_aliases": [
+    "Gislhere"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Giselher is Gunther's brother and co-king in German tradition.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Giselher",
+   "other_aliases": [
+    "Gislhere"
+   ],
+   "kind": "allied",
+   "myth": "Battle at Etzel's court",
+   "note": "Giselher fights beside Gunther and dies in the Hunnish catastrophe.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gothorm",
+   "other_aliases": [
+    "Guttorm"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gothorm is Gunnar's younger brother or half-brother in prose systematizations.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gothorm",
+   "other_aliases": [
+    "Guttorm"
+   ],
+   "kind": "deceived",
+   "myth": "Inducement to murder Sigurd",
+   "note": "Gunnar induces and drugs the non-oath-bound Gothorm to kill Sigurd.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gullrönd",
+   "other_aliases": [
+    "Guðný"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some Norse prose systematizations include Gullrönd among Gunnar's siblings.",
+   "source": "Norse prose systematizations",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gutrune",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Wagner makes Gutrune Gunther's sister.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Wagner makes Hagen Gunther's maternal half-brother.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Struggle for the ring",
+   "note": "Hagen kills Gunther during their struggle over the ring.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Alberich",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Wagnerian Gibichung household",
+   "note": "Alberich fathers Gunther's maternal half-brother Hagen, who manipulates and kills Gunther.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Sigurd",
+   "other_aliases": [
+    "Siegfried"
+   ],
+   "kind": "allied",
+   "myth": "Oath-brotherhood at Gjúki's court",
+   "note": "Sigurd swears brotherhood with Gunnar and Högni after joining their household.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigurd",
+   "other_aliases": [
+    "Siegfried"
+   ],
+   "kind": "deceived",
+   "myth": "Grímhild's potion and dynastic marriage",
+   "note": "Gunnar's household benefits when a potion makes Sigurd forget Brynhild and marry Guðrún.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigurd",
+   "other_aliases": [
+    "Siegfried"
+   ],
+   "kind": "served_by",
+   "myth": "Wooing Brynhild through the flames",
+   "note": "Shape-changed Sigurd crosses Brynhild's fire in Gunnar's form and wins her.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigurd",
+   "other_aliases": [
+    "Siegfried"
+   ],
+   "kind": "killed",
+   "myth": "Murder of Sigurd",
+   "note": "Unable to break his oath personally, Gunnar plans and authorizes Sigurd's killing.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurd"
+   ],
+   "kind": "allied",
+   "myth": "Courtship bargain for Brunhild",
+   "note": "Gunther promises Kriemhild to Siegfried in exchange for help winning Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurd"
+   ],
+   "kind": "served_by",
+   "myth": "Brunhild's athletic contest",
+   "note": "Invisible Siegfried supplies the strength while Gunther appears to defeat Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurd"
+   ],
+   "kind": "killed",
+   "myth": "Murder at the spring",
+   "note": "Gunther assents to Siegfried's murder, joins the false hunt, and conceals responsibility.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurd"
+   ],
+   "kind": "deceived",
+   "myth": "Hagen's potion and Brünnhilde's wooing",
+   "note": "Gunther participates after Hagen's potion makes Siegfried forget Brünnhilde and woo her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurd"
+   ],
+   "kind": "killed",
+   "myth": "Wagnerian murder plot",
+   "note": "Gunther participates in Hagen's plot to murder Siegfried.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Brynhild",
+   "other_aliases": [
+    "Brunhild"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Brynhild becomes Gunnar's wife through Sigurd's deceptive surrogate wooing.",
+   "source": "Eddic cycle; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brynhild",
+   "other_aliases": [
+    "Brunhild"
+   ],
+   "kind": "deceived",
+   "myth": "Wooing through the encircling fire",
+   "note": "Gunnar marries Brynhild after Sigurd crosses the fire disguised as him.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brynhild",
+   "other_aliases": [
+    "Brunhild"
+   ],
+   "kind": "punished_by",
+   "myth": "Demand for Sigurd's death",
+   "note": "Brynhild pressures Gunnar to arrange Sigurd's death after discovering the marriage fraud.",
+   "source": "Sigurðarkviða in skamma; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brunhild",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Brunhild becomes Gunther's wife in the German tradition.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brunhild",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "contest",
+   "myth": "Spear, stone, and leaping trials",
+   "note": "Gunther appears to defeat Brunhild's deadly athletic trials using invisible Siegfried's strength.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brunhild",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "deceived",
+   "myth": "Athletic courtship and wedding-night coercion",
+   "note": "Gunther obtains marriage and consummation through Siegfried's concealed assistance and force.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brunhild",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "fought",
+   "myth": "First wedding night",
+   "note": "Brunhild overpowers Gunther, binds him, and hangs him from a wall peg.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [
+    "Brynhild",
+    "Brunhild"
+   ],
+   "kind": "deceived",
+   "myth": "Wagnerian surrogate wooing",
+   "note": "Gunther seeks Brünnhilde while Siegfried, disguised as Gunther, subdues and abducts her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Oddrún",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Forbidden love opposed by Atli",
+   "note": "Oddrún is Gunnar's clandestine lover because Atli refuses their marriage.",
+   "source": "Oddrúnargrátr",
+   "date": "probably eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oddrún",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Harp summons from the snake-pit",
+   "note": "Gunnar summons Oddrún by harp, but she hears remotely and arrives too late.",
+   "source": "Oddrúnargrátr",
+   "date": "probably eleventh century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Glaumvör",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Glaumvör is Gunnar's wife in later Norse versions.",
+   "source": "Atlamál; Völsunga saga",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Glaumvör",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Dream warnings before Atli's expedition",
+   "note": "Glaumvör recounts ominous dreams and warns Gunnar against the fatal journey.",
+   "source": "Atlamál; Völsunga saga",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "German tradition briefly mentions Gunther and Brunhild's son named Siegfried.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atli",
+   "other_aliases": [
+    "Etzel",
+    "Attila"
+   ],
+   "kind": "deceived_by",
+   "myth": "Treacherous invitation to Atli's court",
+   "note": "Atli lures Gunnar and Högni to his court with deceitful promises.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested"
+  },
+  {
+   "other": "Atli",
+   "other_aliases": [
+    "Etzel",
+    "Attila"
+   ],
+   "kind": "fought",
+   "myth": "Battle for the Niflung treasure",
+   "note": "Gunnar resists Atli's demand for the treasure and fights his forces.",
+   "source": "Atlakviða; Atlamál",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atli",
+   "other_aliases": [
+    "Etzel",
+    "Attila"
+   ],
+   "kind": "killed_by",
+   "myth": "Death in the serpent enclosure",
+   "note": "Atli has Gunnar cast among serpents after he refuses to reveal the treasure.",
+   "source": "Atlakviða",
+   "date": "ninth/tenth century proposed",
+   "tier": "attested"
+  },
+  {
+   "other": "Atli",
+   "other_aliases": [
+    "Etzel",
+    "Attila"
+   ],
+   "kind": "punished_by",
+   "myth": "Destruction for the forbidden affair",
+   "note": "Atli discovers Gunnar's affair with Oddrún and destroys Gunnar and Högni.",
+   "source": "Oddrúnargrátr",
+   "date": "probably eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Etzel",
+   "other_aliases": [
+    "Atli",
+    "Attila"
+   ],
+   "kind": "shared_myth",
+   "myth": "Feast and catastrophe at Etzel's court",
+   "note": "Etzel hosts the fatal feast but does not order Gunther's death.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atli's mother",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Mother-serpent in Gunnar's snake-pit",
+   "note": "Transformed into a serpent, Atli's mother bites Gunnar through the heart.",
+   "source": "Oddrúnargrátr",
+   "date": "probably eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hjalli",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "False heart test",
+   "note": "Gunnar identifies Hjalli's trembling heart and knows it is not Högni's.",
+   "source": "Atlamál; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vingi",
+   "other_aliases": [
+    "Knéfrøðr"
+   ],
+   "kind": "deceived_by",
+   "myth": "Atli's treacherous invitation",
+   "note": "Atli's messenger deceives Gunnar and Högni into accepting the fatal invitation.",
+   "source": "Atlakviða; Atlamál; Völsunga saga",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dietrich",
+   "other_aliases": [
+    "Þiðrekr of Bern"
+   ],
+   "kind": "fought",
+   "myth": "Final battle at Etzel's court",
+   "note": "Dietrich defeats and captures Gunther and Hagen after the hall battle.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dietrich",
+   "other_aliases": [
+    "Þiðrekr of Bern"
+   ],
+   "kind": "fought",
+   "myth": "Defense of Kriemhild's rose garden",
+   "note": "Gunther joins the Worms champions opposing Dietrich's company.",
+   "source": "Rosengarten zu Worms",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hildebrand",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of Kriemhild's rose garden",
+   "note": "Hildebrand belongs to Dietrich's company opposing Gunther's Worms champions.",
+   "source": "Rosengarten zu Worms",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rüdiger of Bechelaren",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Burgundian journey to Etzel",
+   "note": "Rüdiger hosts Gunther and his company and becomes their in-law.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rüdiger of Bechelaren",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle at Etzel's court",
+   "note": "Obliged by Etzel, Rüdiger becomes Gunther's battlefield opponent.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Volker of Alzey",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Battle in the Hunnish hall",
+   "note": "Volker serves as Gunther's minstrel-warrior and fights beside him.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dankwart",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Battle at Etzel's court",
+   "note": "Dankwart fights under Gunther as a Burgundian companion and relative.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osid",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Niflung battle",
+   "note": "Gunnar fights Atli's nephew Osid and is captured by him.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osid",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Imprisonment in the snake-tower",
+   "note": "Osid captures Gunnar and places him in a fatal tower or snake-tower.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Grímhild",
+   "other_aliases": [
+    "Kriemhild"
+   ],
+   "kind": "punished_by",
+   "myth": "Gunnar's imprisonment after the Niflung battle",
+   "note": "In the saga's hybrid tradition, Grímhild urges Gunnar's captors to dispose of him.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dietleib",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attack on Dietleib",
+   "note": "Gunther, Gernot, and Hagen attack Dietleib before a later reconciliation.",
+   "source": "Biterolf und Dietleib",
+   "date": "late thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dietleib",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation after the Worms campaign",
+   "note": "Gunther's conflict with Dietleib's company ends in reconciliation.",
+   "source": "Biterolf und Dietleib",
+   "date": "late thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gundaharius",
+   "other_aliases": [
+    "Gundicarius",
+    "Gyntiarios",
+    "Gūðhere",
+    "Gunnarr",
+    "Gunther"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philology identifies Gunnar and Gunther as legendary reflexes of the historical Gundaharius.",
+   "source": "Historical-philological reconstruction",
+   "date": "modern scholarship",
+   "tier": "modern"
+  }
+ ]
+}

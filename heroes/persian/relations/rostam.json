@@ -1,0 +1,793 @@
+{
+ "subject": "rostam",
+ "relations": [
+  {
+   "other": "God",
+   "other_aliases": [
+    "Ḵodā"
+   ],
+   "kind": "served",
+   "myth": "Prayers throughout Rostam’s adventures",
+   "note": "Rostam repeatedly prays to, thanks, and invokes God.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Simorḡ",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rostam’s surgical birth",
+   "note": "Simorḡ directs the procedure that saves Rudāba and delivers Rostam.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Simorḡ",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Simorḡ heals the gravely wounded Rostam and Rakhsh.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Simorḡ",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Simorḡ reveals Esfandiyār’s vulnerable eyes and the tamarisk-arrow method.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zāl",
+   "other_aliases": [
+    "Dastān"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zāl is Rostam’s father.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rudāba",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rudāba is Rostam’s mother.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sām",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sām is Rostam’s paternal grandfather.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mehrāb",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mehrāb of Kabul is Rostam’s maternal grandfather.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sindokht",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sindokht is Rostam’s maternal grandmother.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Żaḥḥāk",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rostam descends maternally from Żaḥḥāk through Mehrāb and Rudāba.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Narimān",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Narimān is an ancestor in Rostam’s Sistanian paternal line.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Garšāsp",
+   "other_aliases": [
+    "Kərəsāspa"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Garšāsp is presented as an ancient ancestor of Rostam’s Sistanian line.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Garšāsp",
+   "other_aliases": [
+    "Kərəsāspa"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists treat Rostam as Garšāsp’s successor, replacement, or transformation.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Rakhsh",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rostam’s heroic career",
+   "note": "Rakhsh is Rostam’s chosen mount, warning companion, rescuer, and fellow combatant.",
+   "source": "Sogdian fragment; Šāhnāma",
+   "date": "7th–8th c.; 1010",
+   "tier": "attested"
+  },
+  {
+   "other": "Rakhsh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shaghad’s spear-pit ambush",
+   "note": "Rakhsh falls into the concealed pit and dies beside Rostam.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "White Elephant",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rostam’s youthful test",
+   "note": "The young Rostam kills Sām’s white elephant with a mace.",
+   "source": "Medieval Šāhnāma manuscripts",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kay Qobād",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Retrieval of Kay Qobād",
+   "note": "Rostam retrieves Kay Qobād from Alborz and defeats his enemies.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Qobād",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Establishment of Kay Qobād",
+   "note": "Rostam establishes Kay Qobād as Iran’s king.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kāvus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Seven Labours",
+   "note": "Rostam rescues the blinded and imprisoned king from Māzandarān’s demons.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kāvus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Captivity in Hāmāvarān",
+   "note": "Rostam rescues Kay Kāvus from captivity in Hāmāvarān.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kāvus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Flying-throne disaster",
+   "note": "Rostam rescues Kay Kāvus after the king’s flying-throne disaster.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kāvus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Kāvus’s reign",
+   "note": "Rostam repeatedly defends and admonishes the impulsive king.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Afrāsiāb",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wars of Iran and Turan",
+   "note": "Rostam repeatedly fights and pursues the principal Turanian enemy.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Afrāsiāb",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam helps Kay Ḵosrow overthrow Afrāsiāb and avenge Siāvash.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "White Div",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Seventh Labour",
+   "note": "Rostam kills White Div and uses his liver’s blood to cure blindness.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aržang Div",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Sixth Labour",
+   "note": "Rostam assaults Aržang Div’s camp and kills him.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Akvan Div",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Akvan Div",
+   "note": "Akvan abducts Rostam and tries to reverse his requested destination.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Akvan Div",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Akvan Div",
+   "note": "After surviving the sea, Rostam recovers Rakhsh and kills Akvan.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Olād",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Fifth Labour",
+   "note": "Rostam defeats Olād and spares him in exchange for guidance.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Olād",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Fifth Labour",
+   "note": "The defeated Olād guides Rostam through Māzandarān.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siāvash",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Training of Siāvash",
+   "note": "Rostam trains and protects the young prince.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siāvash",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam campaigns against Turan to avenge Siāvash’s execution.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sudāba",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam kills Sudāba after Siāvash’s death.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Ḵosrow",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vengeance for Siāvash",
+   "note": "Rostam supports Kay Ḵosrow’s kingship and campaigns of vengeance.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wars with Turan",
+   "note": "Tus is Rostam’s Iranian colleague despite frequent strategic disagreements.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gudarz",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wars with Turan",
+   "note": "Gudarz serves alongside Rostam as an elder Iranian champion.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Giv",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rescue of Bižan",
+   "note": "Rostam is Giv’s fellow champion and rescues his son Bižan.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bižan",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Bižan and Maniža",
+   "note": "Rostam infiltrates Turan, removes the pit-stone, and brings Bižan home.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maniža",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Bižan and Maniža",
+   "note": "Maniža helps the disguised Rostam locate and rescue Bižan.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Piran",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wars with Turan",
+   "note": "Rostam encounters Piran as a respected Turanian opponent.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hōmān",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wars with Turan",
+   "note": "The Turanian commander Hōmān fights Rostam.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hōmān",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Rostam and Sohrāb",
+   "note": "Hōmān helps conceal Rostam’s identity from Sohrāb.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bārmān",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rostam and Sohrāb",
+   "note": "Bārmān supports Sohrāb’s invasion and helps prevent father-son recognition.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aškbus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Combat with Aškbus",
+   "note": "Fighting on foot, Rostam kills the mounted Aškbus with an arrow.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pulādvand",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wrestling with Pulādvand",
+   "note": "Rostam wrestles Pulādvand but cannot decisively overcome his magical protection.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tahmina",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Rostam at Samangān",
+   "note": "Tahmina becomes Rostam’s mutually willing lover or wife and bears Sohrāb.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sohrāb",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sohrāb is Rostam’s son by Tahmina.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sohrāb",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Rostam and Sohrāb",
+   "note": "Rostam denies his identity and invents a rule after losing their first bout.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sohrāb",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rostam and Sohrāb",
+   "note": "Father and unrecognized son meet in two wrestling combats.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sohrāb",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rostam and Sohrāb",
+   "note": "Rostam mortally stabs Sohrāb before recognizing him by the token.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "King of Samangān",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rostam at Samangān",
+   "note": "The king hosts Rostam, recovers Rakhsh, and accepts Tahmina’s union.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goštāsp",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Rostam acknowledges the king but refuses Goštāsp’s humiliating demand for bonds.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Esfandiyār",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Rostam fights Esfandiyār after negotiations over submission in chains collapse.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Esfandiyār",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Using Simorḡ’s counsel, Rostam fatally shoots Esfandiyār in the eyes.",
+   "source": "Šāhnāma; Thaʿālebi",
+   "date": "early 11th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bahman",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Esfandiyār’s dying request",
+   "note": "The dying Esfandiyār entrusts Bahman to Rostam’s care.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bahman",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Bahman’s vengeance",
+   "note": "Bahman later attacks Rostam’s household and ancestral realm.",
+   "source": "Šāhnāma; Bahman-nāma",
+   "date": "1010; 12th c.",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bahman",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Bahman kills Rostam",
+   "note": "A chronicle variant makes Bahman kill Rostam and members of his house.",
+   "source": "Ṭabari",
+   "date": "early 10th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pašutan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bahman’s vengeance",
+   "note": "Pašutan later saves Rostam’s father Zāl from Bahman.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Āḏarnuš",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Āḏarnuš is killed by Rostam’s side during the duel’s wider conflict.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mehrnuš",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Rostam’s son Farāmarz kills Mehrnuš during the surrounding battle.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Farāmarz",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Farāmarz is Rostam’s son.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Farāmarz",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Farāmarz fights beside Rostam’s faction and attacks Esfandiyār’s camp.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Farāmarz",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Vengeance for Rostam",
+   "note": "Farāmarz avenges Rostam by destroying Kabul and executing its king.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zavāra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Zavāra is Rostam’s brother.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zavāra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rostam and Esfandiyār",
+   "note": "Zavāra accompanies Rostam and attacks Esfandiyār’s camp.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zavāra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shaghad’s spear-pit ambush",
+   "note": "Zavāra dies alongside Rostam during the Kabul ambush.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shaghad",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Shaghad is Rostam’s paternal half-brother.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shaghad",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Shaghad’s spear-pit ambush",
+   "note": "Shaghad engineers the concealed spear-pit that mortally wounds Rostam.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shaghad",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rostam’s final arrow",
+   "note": "Dying, Rostam shoots through a plane tree and kills Shaghad.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "King of Kabul",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Shaghad’s spear-pit ambush",
+   "note": "The king conspires with Shaghad to lure Rostam onto the trapped hunting ground.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Borzu",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Borzu is Rostam’s grandson through Sohrāb.",
+   "source": "Borzū-nāma",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Borzu",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Borzu confronts Rostam",
+   "note": "Borzu fights his unrecognized grandfather before their kinship is discovered.",
+   "source": "Borzū-nāma",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bānu Gošasp",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Bānu Gošasp is Rostam’s warrior daughter in the secondary cycle.",
+   "source": "Bānu Gošasp-nāma",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zar Bānu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Zar Bānu is Rostam’s daughter in later vengeance traditions.",
+   "source": "Bahman-nāma",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jahāngir",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jahāngir is Rostam’s son in a later secondary epic.",
+   "source": "Jahāngir-nāma",
+   "date": "medieval/early modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jahāngir",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Jahāngir encounters Rostam",
+   "note": "Jahāngir encounters his father without recognition, repeating the kin-combat motif.",
+   "source": "Jahāngir-nāma",
+   "date": "medieval/early modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Imam ʿAli",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Shiʿi storytelling compares or assimilates Rostam’s champion qualities to Imam ʿAli.",
+   "source": "Safavid–modern naqqāli",
+   "date": "Safavid–modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Malek Ṭāwus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A regional theological scheme treats Rostam as a manifestation of Malek Ṭāwus.",
+   "source": "Modern ethnographic report",
+   "date": "modern report",
+   "tier": "syncretism"
+  }
+ ]
+}

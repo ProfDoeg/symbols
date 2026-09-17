@@ -1,0 +1,454 @@
+{
+ "subject": "job",
+ "relations": [
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "judged_by",
+   "myth": "The heavenly court and Job’s testing",
+   "note": "YHWH praises Job and permits the accuser to test him under limits.",
+   "source": "Job 1–2",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "taught_by",
+   "myth": "YHWH answers Job from the whirlwind",
+   "note": "YHWH confronts Job with creation’s vastness without explaining his suffering.",
+   "source": "Job 38–42",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "gift",
+   "myth": "Job’s fortunes and family are restored",
+   "note": "YHWH accepts Job’s intercession and restores his prosperity and family.",
+   "source": "Job 42:7–17",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the accuser",
+   "other_aliases": [
+    "ha-śśāṭān",
+    "adversary"
+   ],
+   "kind": "other",
+   "myth": "The heavenly challenge and two tests",
+   "note": "The accuser challenges Job’s piety and inflicts losses, bereavement, and disease.",
+   "source": "Job 1–2",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Job’s unnamed wife",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Hebrew book presents an unnamed woman as Job’s wife.",
+   "source": "Job 2:9–10",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Job’s unnamed wife",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Job’s wife urges him to curse God",
+   "note": "She urges Job to bless or curse God and die; Job rebukes her.",
+   "source": "Job 2:9–10",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eliphaz the Temanite",
+   "other_aliases": [
+    "Eliphaz"
+   ],
+   "kind": "contest",
+   "myth": "Job disputes retribution with Eliphaz",
+   "note": "Eliphaz consoles, accuses, and debates Job about suffering and divine justice.",
+   "source": "Job 2–5; 15; 22",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eliphaz the Temanite",
+   "other_aliases": [
+    "Eliphaz"
+   ],
+   "kind": "rescued",
+   "myth": "Job intercedes for the rebuked friends",
+   "note": "Job prays for Eliphaz after YHWH orders sacrifice and intercession.",
+   "source": "Job 42:7–9",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bildad the Shuhite",
+   "other_aliases": [
+    "Bildad"
+   ],
+   "kind": "contest",
+   "myth": "Job disputes retribution with Bildad",
+   "note": "Bildad debates Job, defends traditional retribution, and implicates Job’s dead children.",
+   "source": "Job 2; 8; 18; 25",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bildad the Shuhite",
+   "other_aliases": [
+    "Bildad"
+   ],
+   "kind": "rescued",
+   "myth": "Job intercedes for the rebuked friends",
+   "note": "Job’s prayer accompanies Bildad’s required closing sacrifice.",
+   "source": "Job 42:7–9",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zophar the Naamathite",
+   "other_aliases": [
+    "Zophar"
+   ],
+   "kind": "contest",
+   "myth": "Job disputes retribution with Zophar",
+   "note": "Zophar debates Job and claims that Job deserves still greater punishment.",
+   "source": "Job 2; 11; 20",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zophar the Naamathite",
+   "other_aliases": [
+    "Zophar"
+   ],
+   "kind": "rescued",
+   "myth": "Job intercedes for the rebuked friends",
+   "note": "Job’s prayer accompanies Zophar’s required closing sacrifice.",
+   "source": "Job 42:7–9",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elihu son of Barachel the Buzite",
+   "other_aliases": [
+    "Elihu"
+   ],
+   "kind": "contest",
+   "myth": "Elihu rebukes Job and the friends",
+   "note": "Elihu attacks Job’s claims and argues that suffering can discipline or instruct.",
+   "source": "Job 32–37",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jemimah",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jemimah is Job’s restored daughter and receives an inheritance.",
+   "source": "Job 42:14–15",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Keziah",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Keziah is Job’s restored daughter and receives an inheritance.",
+   "source": "Job 42:14–15",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Keren-happuch",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Keren-happuch is Job’s restored daughter and receives an inheritance.",
+   "source": "Job 42:14–15",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Behemoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "YHWH displays Behemoth to Job",
+   "note": "Behemoth is shown as a mighty creature beyond Job’s mastery.",
+   "source": "Job 40:15–24",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leviathan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "YHWH challenges Job concerning Leviathan",
+   "note": "Job is challenged to capture or domesticate Leviathan but never encounters it.",
+   "source": "Job 40:25–41:26",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Noah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Three exemplary righteous men",
+   "note": "Job and Noah appear together as proverbial righteous men without meeting.",
+   "source": "Ezekiel 14:14, 20",
+   "date": "early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Daniel/Danel",
+   "other_aliases": [
+    "Daniel",
+    "Danel"
+   ],
+   "kind": "shared_myth",
+   "myth": "Three exemplary righteous men",
+   "note": "Job and Daniel or Danel appear jointly in Ezekiel’s righteous triad.",
+   "source": "Ezekiel 14:14, 20",
+   "date": "early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jobab",
+   "other_aliases": [
+    "Jobab, king of Edom"
+   ],
+   "kind": "identified_with",
+   "myth": "Greek appendix identifies Job as Jobab",
+   "note": "The Septuagint appendix equates Job with the Edomite king Jobab.",
+   "source": "Septuagint Job 42:17a–e",
+   "date": "last centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zare",
+   "other_aliases": [
+    "Zerah"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Septuagint appendix makes Zare or Zerah the father of Jobab-Job.",
+   "source": "Septuagint Job 42:17a–e",
+   "date": "last centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Esau",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Septuagint appendix places Job within Esau’s Edomite lineage.",
+   "source": "Septuagint Job 42:17a–e",
+   "date": "last centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Abraham",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Septuagint genealogy makes Job fifth in descent from Abraham through Esau.",
+   "source": "Septuagint Job 42:17a–e",
+   "date": "last centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dinah",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Several later Jewish traditions make Jacob’s daughter Dinah Job’s wife.",
+   "source": "Pseudo-Philo; Testament of Job; Genesis Rabbah",
+   "date": "first century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jacob",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Job becomes Jacob’s son-in-law when later tradition identifies his wife as Dinah.",
+   "source": "Pseudo-Philo; Genesis Rabbah",
+   "date": "first century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Balaam",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pharaoh’s advisers debate Israelite oppression",
+   "note": "Rabbinic legend makes Job and Balaam fellow advisers in Pharaoh’s court.",
+   "source": "Rabbinic Exodus interpretive tradition",
+   "date": "third–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jethro",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pharaoh’s advisers debate Israelite oppression",
+   "note": "Jethro opposes Pharaoh and flees, contrasting with Job’s alleged silence.",
+   "source": "Rabbinic Exodus interpretive tradition",
+   "date": "third–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Moses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Job placed in the time of Moses",
+   "note": "One rabbinic strand makes Job Moses’ contemporary and says Moses wrote his book.",
+   "source": "b. Bava Batra 15a",
+   "date": "third–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Job destroys Satan’s idol",
+   "note": "Job destroys Satan’s idol, and Satan retaliates through disguises and disasters.",
+   "source": "Testament of Job",
+   "date": "first BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sitis/Sitidos",
+   "other_aliases": [
+    "Sitis",
+    "Sitidos"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Testament names Sitis or Sitidos as Job’s first wife.",
+   "source": "Testament of Job",
+   "date": "first BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sitis/Sitidos",
+   "other_aliases": [
+    "Sitis",
+    "Sitidos"
+   ],
+   "kind": "allied",
+   "myth": "Sitis sustains Job during Satan’s attack",
+   "note": "Sitis supports Job, sells her hair for bread, and dies after lamenting.",
+   "source": "Testament of Job",
+   "date": "first BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Job’s three daughters",
+   "other_aliases": [
+    "Jemimah, Keziah, and Keren-happuch"
+   ],
+   "kind": "gift",
+   "myth": "Job gives his daughters heavenly cords",
+   "note": "Job gives them supernatural cords enabling angelic speech and celestial hymnody.",
+   "source": "Testament of Job",
+   "date": "first BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Jesus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Patristic exegesis treats Job as a type of Christ rather than a companion.",
+   "source": "Patristic Job exegesis",
+   "date": "third–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Allah",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ayyūb prays and receives healing",
+   "note": "Allah removes Ayyūb’s distress, provides healing water, and restores his family.",
+   "source": "Qurʾān 21:83–84; 38:41–44",
+   "date": "seventh century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Allah",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Allah commends Ayyūb’s patience",
+   "note": "Allah praises Ayyūb as patient and an excellent servant.",
+   "source": "Qurʾān 38:44",
+   "date": "seventh century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iblīs",
+   "other_aliases": [
+    "Satan"
+   ],
+   "kind": "other",
+   "myth": "Iblīs instigates Ayyūb’s affliction",
+   "note": "Later Islamic stories make Iblīs personally cause Ayyūb’s losses and disease.",
+   "source": "Tafsīr and qiṣaṣ al-anbiyāʾ",
+   "date": "eighth–thirteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ayyūb’s wife",
+   "other_aliases": [
+    "Raḥma"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Post-Qurʾānic narratives commonly name Ayyūb’s faithful wife Raḥma.",
+   "source": "Tafsīr and qiṣaṣ al-anbiyāʾ",
+   "date": "eighth–thirteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ayyūb’s wife",
+   "other_aliases": [
+    "Raḥma"
+   ],
+   "kind": "punished",
+   "myth": "Ayyūb fulfills his oath with a bundle",
+   "note": "Later exegesis says Ayyūb symbolically strikes his wife without violating his oath.",
+   "source": "Tafsīr on Qurʾān 38:44",
+   "date": "eighth–thirteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gabriel/Jibrīl",
+   "other_aliases": [
+    "Gabriel",
+    "Jibrīl"
+   ],
+   "kind": "gift",
+   "myth": "Gabriel brings guidance or relief to Ayyūb",
+   "note": "Some later Islamic narratives make Gabriel the bearer of divine guidance or relief.",
+   "source": "Later Islamic narratives",
+   "date": "medieval Islamic period",
+   "tier": "late_accretion"
+  }
+ ]
+}

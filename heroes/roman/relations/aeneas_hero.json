@@ -1,0 +1,978 @@
+{
+ "subject": "aeneas_hero",
+ "relations": [
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeneas is her son by the mortal Anchises.",
+   "source": "Iliad 2, 5, 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "rescued_by",
+   "myth": "Rescue from Diomedes",
+   "note": "She carries wounded Aeneas from battle until Diomedes wounds her.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "gift",
+   "myth": "Forging of Aeneas's armor",
+   "note": "Venus obtains divine armor for Aeneas before the Italian war.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "Venus purifies and anoints Aeneas, completing his transformation into Indiges.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeneas is the son of Anchises and Aphrodite.",
+   "source": "Iliad 2, 5, 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Flight from Troy",
+   "note": "Aeneas carries his aged father from burning Troy.",
+   "source": "Archaic Attic vase painting",
+   "date": "ca. 520–490 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Descent to the dead",
+   "note": "Anchises teaches Aeneas the soul-cycle and reveals future Romans.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ascanius",
+   "other_aliases": [
+    "Iulus",
+    "Ilus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ascanius is normally Aeneas's son by Creusa and his dynastic heir.",
+   "source": "Roman tradition; Aeneid",
+   "date": "late Republic–Augustan age",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silvius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Virgil makes Silvius the son of Aeneas and Lavinia.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Silvius",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Alternative annalistic genealogies make Silvius Aeneas's later descendant through Ascanius.",
+   "source": "Roman annalistic tradition",
+   "date": "ancient variant",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lyros",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apollodoran mythography makes Lyros another son of Anchises and Aphrodite.",
+   "source": "Apollodoran mythography",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Creusa is Aeneas's Trojan wife and normally Ascanius's mother.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Creusa's farewell prophecy",
+   "note": "Her ghost reveals Aeneas's western destiny after she vanishes at Troy.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Late mythographic tradition gives Eurydice as an alternative Trojan wife.",
+   "source": "Late mythographic traditions",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lavinia",
+   "other_aliases": [
+    "Lavine"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aeneas marries Latinus's daughter and establishes his Italian dynasty.",
+   "source": "Livy 1; Aeneid",
+   "date": "late 1st century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dardanus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Aeneas belongs to the Dardanian royal line descending from Dardanus.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Erichthonius is an ancestor in Aeneas's Dardanian genealogy.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tros",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tros is an ancestor in Aeneas's Dardanian genealogy.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Assaracus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Aeneas descends through Assaracus's collateral Trojan royal line.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Capys",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Capys is Aeneas's grandfather in the Assaracid genealogy.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Trojan War",
+   "note": "Aeneas defends Priam's kingdom despite resenting inadequate honor.",
+   "source": "Iliad 13",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan War",
+   "note": "Aeneas and Hector serve as fellow Trojan commanders.",
+   "source": "Iliad",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Hector's ghost commands flight",
+   "note": "Hector's ghost orders Aeneas to save Troy's sacred objects and seek a city.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Duel before Troy",
+   "note": "Achilles outmatches Aeneas, who survives through Poseidon's intervention.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle over Pandarus",
+   "note": "Diomedes defeats and gravely endangers Aeneas during the Trojan War.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Latin embassy to Diomedes",
+   "note": "Diomedes later refuses Latin envoys' request to renew war against Aeneas.",
+   "source": "Aeneid 11",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pandarus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battle against Diomedes",
+   "note": "Pandarus fights beside Aeneas from his chariot before Diomedes kills him.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue from Diomedes",
+   "note": "Apollo shelters Aeneas, restores him, and creates a battlefield phantom.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Migration oracles",
+   "note": "Apollo's oracles guide Aeneas during his Mediterranean migration.",
+   "source": "Aeneid 3, 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing in Apollo's sanctuary",
+   "note": "Leto heals the wounded Aeneas together with Artemis.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "rescued_by",
+   "myth": "Healing in Apollo's sanctuary",
+   "note": "Artemis heals the wounded Aeneas together with Leto.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "rescued_by",
+   "myth": "Duel with Achilles",
+   "note": "Poseidon removes Aeneas from danger so the Dardanid line can survive.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "rescued_by",
+   "myth": "Storm off Carthage",
+   "note": "Neptune calms the storm threatening Aeneas's fleet.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Aeneas descends from Zeus through Dardanus and the Assaracid line.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Destiny of the Dardanids",
+   "note": "Zeus's providential order guarantees the survival and future rule of Aeneas's dynasty.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Italian mission",
+   "note": "Jupiter repeatedly confirms and directs Aeneas's destined settlement in Italy.",
+   "source": "Aeneid 1, 10, 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "Jupiter approves Venus's request that Aeneas be admitted among the gods.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Persecution of the Trojans",
+   "note": "Juno persecutes Aeneas because of Troy, Carthage, and Paris's judgment.",
+   "source": "Aeneid 1–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "other",
+   "myth": "Reconciliation of Trojans and Latins",
+   "note": "Juno accepts Aeneas's settlement if Trojan identity merges into Latin.",
+   "source": "Aeneid 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Fall of Troy",
+   "note": "Aeneas witnesses signs of Minerva's wrath against Troy and the violated Palladium.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "gift",
+   "myth": "Dedication of Mezentius's spoils",
+   "note": "Aeneas dedicates the slain Mezentius's armor and spoils to Mars.",
+   "source": "Aeneid 11",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "taught_by",
+   "myth": "Departure from Carthage",
+   "note": "Mercury commands Aeneas to abandon Carthage and resume his Italian mission.",
+   "source": "Aeneid 4",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [
+    "Amor"
+   ],
+   "kind": "allied",
+   "myth": "Dido's divinely induced passion",
+   "note": "Disguised as Ascanius, Cupid inflames Dido while embracing Aeneas.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Storm off Carthage",
+   "note": "At Juno's request, Aeolus releases winds against Aeneas's fleet.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Burning of the Trojan ships",
+   "note": "Iris incites the Trojan women to burn Aeneas's ships for Juno.",
+   "source": "Aeneid 5",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater"
+   ],
+   "kind": "gift",
+   "myth": "Building the Trojan fleet",
+   "note": "Cybele supplies sacred Trojan timber used for Aeneas's ships.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater"
+   ],
+   "kind": "transformed",
+   "myth": "Transformation of the ships",
+   "note": "Cybele transforms Aeneas's threatened ships into sea nymphs.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiberinus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Dream beside the Tiber",
+   "note": "The river god appears in a dream and guides Aeneas to Evander.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Numicus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "The river washes away Aeneas's mortal portion before his deification.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cumaean Sibyl",
+   "other_aliases": [
+    "Deiphobe"
+   ],
+   "kind": "taught_by",
+   "myth": "Descent to the dead",
+   "note": "The Sibyl instructs and guides Aeneas through the underworld.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Charon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Crossing the infernal river",
+   "note": "After seeing the golden bough, Charon ferries the living Aeneas.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Passage into the underworld",
+   "note": "Aeneas passes Cerberus after the Sibyl drugs the monster.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dido",
+   "other_aliases": [
+    "Elissa"
+   ],
+   "kind": "seduced",
+   "myth": "Love affair at Carthage",
+   "note": "Aeneas becomes Dido's lover under divine manipulation before leaving Carthage.",
+   "source": "Aeneid 1, 4",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dido",
+   "other_aliases": [
+    "Elissa"
+   ],
+   "kind": "deceived",
+   "myth": "Abandonment of Dido",
+   "note": "Dido regards Aeneas's secret preparations and departure as betrayal.",
+   "source": "Aeneid 4",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dido",
+   "other_aliases": [
+    "Elissa"
+   ],
+   "kind": "other",
+   "myth": "Meeting among the dead",
+   "note": "Dido silently rejects Aeneas's explanation and returns to Sychaeus.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anna",
+   "other_aliases": [
+    "Anna Perenna"
+   ],
+   "kind": "rescued",
+   "myth": "Anna's flight to Latium",
+   "note": "Aeneas receives Dido's refugee sister in Latium.",
+   "source": "Ovid, Fasti 3",
+   "date": "early 1st century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helenus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Visit to Epirus",
+   "note": "Helenus hosts Aeneas and gives prophetic instructions for his voyage.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andromache",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visit to Epirus",
+   "note": "Aeneas meets Andromache in Epirus before continuing his voyage.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydorus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Bleeding grave in Thrace",
+   "note": "The murdered Trojan's bleeding grave warns Aeneas to leave Thrace.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Celaeno",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Harpy prophecy",
+   "note": "Celaeno prophesies hunger and the Trojans' eating of their tables.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acestes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Sicilian funeral games",
+   "note": "Acestes hosts Aeneas and receives Trojan settlers in Sicily.",
+   "source": "Aeneid 5",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eryx",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Funeral games in Sicily",
+   "note": "Aeneas holds Anchises's funeral games in the deceased hero's region.",
+   "source": "Aeneid 5",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Palinurus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage toward Italy",
+   "note": "Palinurus serves as Aeneas's helmsman until he is lost at sea.",
+   "source": "Aeneid 5",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Palinurus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Meeting among the dead",
+   "note": "Aeneas encounters the unburied shade of his lost helmsman.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Misenus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Burial before the descent",
+   "note": "Misenus is Aeneas's companion, whose burial permits the underworld journey.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deiphobus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Meeting among the dead",
+   "note": "Deiphobus's mutilated shade tells Aeneas how Troy fell.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "fought",
+   "myth": "Trojan War",
+   "note": "Aeneas and Odysseus fight on opposing sides at Troy.",
+   "source": "Epic tradition",
+   "date": "archaic Greek period",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "allied",
+   "myth": "Disputed foundation of Rome",
+   "note": "A disputed Greek tradition associates Aeneas and Odysseus in Rome's foundation.",
+   "source": "Hellanicus fragment",
+   "date": "late 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement in Latium",
+   "note": "Latinus receives Aeneas, promises Lavinia, and becomes his ally and father-in-law.",
+   "source": "Livy 1; Aeneid 7–12",
+   "date": "late 1st century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First encounter in Latium",
+   "note": "One Livian variant has Latinus fight Aeneas before making peace.",
+   "source": "Livy 1",
+   "date": "late 1st century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amata",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Opposition to Lavinia's marriage",
+   "note": "Amata opposes Aeneas's marriage to Lavinia and supports Turnus.",
+   "source": "Aeneid 7, 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Turnus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War for Lavinia",
+   "note": "Turnus wages war against Aeneas as rival claimant to Lavinia.",
+   "source": "Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Turnus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Final duel",
+   "note": "Aeneas kills the defeated Turnus after recognizing Pallas's belt.",
+   "source": "Aeneid 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Evander",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Alliance at Pallanteum",
+   "note": "Evander hosts Aeneas and supplies troops under Pallas.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Italian war",
+   "note": "Pallas fights as Aeneas's young ally under his protection.",
+   "source": "Aeneid 8–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Rite at the Ara Maxima",
+   "note": "Aeneas participates in Evander's commemorative rite for Hercules.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mezentius",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Italian war",
+   "note": "Aeneas fights and wounds the Etruscan enemy Mezentius.",
+   "source": "Aeneid 10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mezentius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Mezentius",
+   "note": "Aeneas kills Mezentius after the death of Lausus.",
+   "source": "Aeneid 10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lausus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Defense of Mezentius",
+   "note": "Aeneas kills Lausus as he protects Mezentius, then immediately pities him.",
+   "source": "Aeneid 10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Trojan campaign in Latium",
+   "note": "Nisus serves among Aeneas's Trojan followers and dies during a night raid.",
+   "source": "Aeneid 5, 9",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euryalus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Trojan campaign in Latium",
+   "note": "Euryalus serves among Aeneas's Trojan followers and dies during a night raid.",
+   "source": "Aeneid 5, 9",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achates",
+   "other_aliases": [
+    "fidus Achates"
+   ],
+   "kind": "allied",
+   "myth": "Mediterranean wanderings and Italian war",
+   "note": "Achates is Aeneas's closest recurring companion and confidant.",
+   "source": "Aeneid 1–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Romus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Canonical Roman genealogy makes Romulus Aeneas's remote descendant through the Alban kings.",
+   "source": "Aeneid 1, 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Romus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Compressed Greek genealogical variants make Romulus or Romus Aeneas's son.",
+   "source": "Greek foundation variants",
+   "date": "classical–Hellenistic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Romus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Other compressed Greek variants make Romulus Aeneas's grandson.",
+   "source": "Greek foundation variants",
+   "date": "classical–Hellenistic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brutus",
+   "other_aliases": [
+    "Brutus of Britain"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Medieval British genealogy makes Brutus a descendant of Aeneas.",
+   "source": "Historia Brittonum; Geoffrey",
+   "date": "7th–12th centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sol Indiges",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later antiquarian interpretation uncertainly connects Aeneas Indiges with Lavinium's solar divinity.",
+   "source": "Dionysius; antiquarian evidence",
+   "date": "ancient, date disputed",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter Indiges",
+   "other_aliases": [
+    "Aeneas Indiges",
+    "Pater Indiges",
+    "Indiges"
+   ],
+   "kind": "identified_with",
+   "myth": "Disappearance near the Numicus",
+   "note": "Roman tradition identifies the vanished or deified Aeneas with the local Indiges.",
+   "source": "Livy 1.2",
+   "date": "late 1st century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Penates",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Flight from Troy",
+   "note": "Aeneas saves and transports Troy's ancestral gods during his escape.",
+   "source": "Aeneid 2–3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Penates",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Dream in Crete",
+   "note": "The Penates appear in a dream and direct Aeneas toward his destined settlement.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

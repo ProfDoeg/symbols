@@ -1,0 +1,299 @@
+{
+ "subject": "laocoon",
+ "relations": [
+  {
+   "other": "Acoetes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus identifies Acoetes as Laocoön’s father.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial/late transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antenor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tzetzes preserves the alternative genealogy making Laocoön Antenor’s son.",
+   "source": "Tzetzes on Lycophron 347",
+   "date": "12th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hyginus calls Anchises Laocoön’s brother.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial/late transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Servian and Euphorionic tradition names Antiope as Laocoön’s wife and sexual partner.",
+   "source": "Servius on Aeneid 2.201",
+   "date": "4th–5th centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antiphates",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus names Antiphates as one of Laocoön’s sons.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial mythography",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antiphates",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Apollo’s serpents attack Laocoön’s sons",
+   "note": "Laocoön attempts unsuccessfully to save Antiphates during the serpent attack.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial mythography",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thymbraeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus names Thymbraeus as one of Laocoön’s sons.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial mythography",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thymbraeus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Apollo’s serpents attack Laocoön’s sons",
+   "note": "Laocoön attempts unsuccessfully to save Thymbraeus during the serpent attack.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial mythography",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aethion",
+   "other_aliases": [
+    "Ethron"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scholastic tradition gives Aethion or Ethron as one of Laocoön’s sons.",
+   "source": "Servian scholastic tradition",
+   "date": "Date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melanthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scholastic tradition gives Melanthus as one of Laocoön’s sons.",
+   "source": "Servian scholastic tradition",
+   "date": "Date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Thymbraios",
+    "Thymbraean Apollo"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Laocoön serves Apollo as his priest in Hyginus and Servius.",
+   "source": "Hyginus 135; Servius on Aeneid 2.201",
+   "date": "Imperial–late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Thymbraios",
+    "Thymbraean Apollo"
+   ],
+   "kind": "punished_by",
+   "myth": "Forbidden marriage and fatherhood",
+   "note": "Apollo sends serpents after Laocoön violates his prohibition against marriage and procreation.",
+   "source": "Hyginus, Fabulae 135",
+   "date": "Imperial mythography",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Thymbraios",
+    "Thymbraean Apollo"
+   ],
+   "kind": "punished_by",
+   "myth": "Sex before Apollo’s cult image",
+   "note": "Laocoön and his children are killed after his sexual sacrilege before Apollo’s image.",
+   "source": "Servius on Aeneid 2.201",
+   "date": "Hellenistic material",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Thymbraios",
+    "Thymbraean Apollo"
+   ],
+   "kind": "punished_by",
+   "myth": "Serpents devour Laocoön’s sons",
+   "note": "Apollo sends two serpents as a sign; they kill Laocoön’s sons but not him.",
+   "source": "Pseudo-Apollodorus, Epitome 5.18",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "served",
+   "myth": "Sacrifice to Neptune",
+   "note": "Laocoön is chosen as Neptune’s priest and sacrifices a bull when attacked.",
+   "source": "Virgil, Aeneid 2.201–233",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "served",
+   "myth": "Invocation of Poseidon",
+   "note": "Sophocles’ fragment places an invocation of Poseidon within Laocoön’s story.",
+   "source": "Sophocles, Laocoön fr. 371 Radt",
+   "date": "5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "punished_by",
+   "myth": "Athena blinds Laocoön",
+   "note": "Athena blinds Laocoön and summons serpents that kill his sons.",
+   "source": "Quintus Smyrnaeus, Posthomerica 12.389–499",
+   "date": "3rd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Serpents shelter beneath Minerva’s image",
+   "note": "The serpents shelter beneath Minerva’s image, prompting belief that Laocoön was divinely punished.",
+   "source": "Virgil, Aeneid 2.225–227",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Warnings about Greeks inside the Horse",
+   "note": "Cassandra and Laocoön both warn that armed Greeks are concealed inside the Horse.",
+   "source": "Pseudo-Apollodorus, Epitome 5.17",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Omen prompts Aeneas’s withdrawal",
+   "note": "Laocoön’s family disaster causes Aeneas’s party to withdraw from Troy to Mount Ida.",
+   "source": "Proclus’s summary of Arctinus",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Anchises orders withdrawal after Laocoön’s omen",
+   "note": "Anchises interprets Laocoön’s household omen and orders Aeneas to leave Troy.",
+   "source": "Dionysius, Roman Antiquities 1.48.2",
+   "date": "1st century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo-centered serpent attack",
+   "note": "Artemis appears beside Apollo while Laocoön’s household suffers the serpent attack.",
+   "source": "Jatta South Italian vase",
+   "date": "c. 425–375 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the two serpents",
+   "other_aliases": [
+    "two sea-serpents",
+    "snakes"
+   ],
+   "kind": "killed_by",
+   "myth": "Serpent omen at the Wooden Horse",
+   "note": "Two serpents kill Laocoön and one son; his other son survives.",
+   "source": "Proclus’s summary of Arctinus",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the two serpents",
+   "other_aliases": [
+    "two sea-serpents",
+    "snakes"
+   ],
+   "kind": "fought",
+   "myth": "Attack during Neptune’s sacrifice",
+   "note": "Laocoön struggles to rescue his sons before the serpents bind and kill him.",
+   "source": "Virgil, Aeneid 2.199–233",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the two serpents",
+   "other_aliases": [
+    "two sea-serpents",
+    "snakes"
+   ],
+   "kind": "killed_by",
+   "myth": "Attack during Neptune’s sacrifice",
+   "note": "The serpents seize both sons, bind Laocoön, and kill him.",
+   "source": "Virgil, Aeneid 2.199–233",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the two serpents",
+   "other_aliases": [
+    "Calydnian serpents",
+    "descendants of Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Blinded Laocoön’s sons are attacked",
+   "note": "Laocoön survives blinded while the serpents summoned by Athena kill his sons.",
+   "source": "Quintus Smyrnaeus, Posthomerica 12.427–497",
+   "date": "3rd century CE",
+   "tier": "canonical"
+  }
+ ]
+}

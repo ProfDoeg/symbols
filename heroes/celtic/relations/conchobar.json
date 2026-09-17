@@ -1,0 +1,813 @@
+{
+ "subject": "conchobar",
+ "relations": [
+  {
+   "other": "Ness",
+   "other_aliases": [
+    "Nessa",
+    "Assa"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ness is consistently Conchobar's mother across competing conception traditions.",
+   "source": "Compert Chonchobuir",
+   "date": "c.700–800",
+   "tier": "attested"
+  },
+  {
+   "other": "Ness",
+   "other_aliases": [
+    "Nessa",
+    "Assa"
+   ],
+   "kind": "gift",
+   "myth": "Conchobar gains the kingship",
+   "note": "Ness bargains for Conchobar to hold Fergus's kingship for one year.",
+   "source": "Scéla Conchobair",
+   "date": "early twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cathbad",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The short conception recension names Cathbad as Conchobar's father.",
+   "source": "Compert Chonchobuir Version I",
+   "date": "c.700–800",
+   "tier": "attested"
+  },
+  {
+   "other": "Cathbad",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "News of the Crucifixion",
+   "note": "Cathbad explains the cosmic disturbance and Christ's Crucifixion to Conchobar.",
+   "source": "Aided Chonchobuir",
+   "date": "eighth-century tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fachtna Fáthach",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The expanded conception tradition names Fachtna as Conchobar's biological father.",
+   "source": "Compert Chonchobuir Version II",
+   "date": "later expanded recension",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eochu Sálbuide",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Eochu Sálbuide is Conchobar's maternal grandfather through Ness.",
+   "source": "Conception and genealogical tradition",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Conchobar gains the kingship",
+   "note": "Fergus yields the kingship temporarily, but Conchobar retains it permanently.",
+   "source": "Scéla Conchobair",
+   "date": "early twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Betrayal of the sons of Uisliu",
+   "note": "Conchobar breaks the safe conduct guaranteed by Fergus, driving him into exile.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War of Fergus and Conchobar",
+   "note": "The exiled Fergus becomes Conchobar's enemy after the Uisliu betrayal.",
+   "source": "Cocad Fergusa ocus Conchobair",
+   "date": "Early Modern Irish",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Macha",
+   "other_aliases": [
+    "Macha wife of Crunnchu"
+   ],
+   "kind": "punished",
+   "myth": "Macha's race and curse",
+   "note": "Conchobar forces pregnant Macha to race his horses; she curses the Ulaid.",
+   "source": "Noínden Ulad",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Macha",
+   "other_aliases": [
+    "Macha wife of Crunnchu"
+   ],
+   "kind": "punished_by",
+   "myth": "Macha's race and curse",
+   "note": "Macha's curse disables Conchobar's adult warriors during their greatest danger.",
+   "source": "Noínden Ulad",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crunnchu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Macha's race and curse",
+   "note": "Crunnchu's boast before Conchobar provokes the forced race of his pregnant wife.",
+   "source": "Noínden Ulad",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deichtine",
+   "other_aliases": [
+    "Deichtire"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One conception recension makes Deichtine Conchobar's daughter.",
+   "source": "Compert Con Culainn",
+   "date": "before mid-eighth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Deichtine",
+   "other_aliases": [
+    "Deichtire"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A competing conception recension makes Deichtine Conchobar's sister.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Deichtine",
+   "other_aliases": [
+    "Deichtire"
+   ],
+   "kind": "shared_myth",
+   "myth": "Otherworld bird pursuit",
+   "note": "Deichtine accompanies Conchobar during the expedition framing Cú Chulainn's conception.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Lug mac Ethnenn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cú Chulainn's conception",
+   "note": "Lug appears to Deichtine within an otherworldly episode led by Conchobar.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Súaltaim mac Róich",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Deichtine's marriage",
+   "note": "Conchobar arranges Deichtine's marriage to Súaltaim in one conception recension.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [
+    "Sétanta"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Through daughter Deichtine, Conchobar is Cú Chulainn's maternal ancestor.",
+   "source": "Compert Con Culainn",
+   "date": "before mid-eighth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [
+    "Sétanta"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Through sister Deichtine, Conchobar is Cú Chulainn's maternal uncle.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [
+    "Sétanta"
+   ],
+   "kind": "gift",
+   "myth": "Sétanta receives arms",
+   "note": "Conchobar gives the youth arms and his own adequate chariot equipment.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [
+    "Sétanta"
+   ],
+   "kind": "served_by",
+   "myth": "The Táin",
+   "note": "Cú Chulainn defends Conchobar's province while the Ulaid remain debilitated.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Culann",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Killing of Culann's hound",
+   "note": "Conchobar attends Culann's feast, which Sétanta follows before killing the hound.",
+   "source": "Táin boyhood deeds",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Connla",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death of Aífe's only son",
+   "note": "Conchobar joins the Ulster confrontation culminating in Connla's fatal combat.",
+   "source": "Aided Óenfir Aífe",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Emer",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Wooing of Emer",
+   "note": "Conchobar appears as king and relative within Emer's wooing narrative.",
+   "source": "Tochmarc Emire",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bricriu Nemthenga",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Bricriu's feast",
+   "note": "Bricriu threatens and manipulates Conchobar's court into attending his divisive feast.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Conall Cernach",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Conall serves as a champion and kinsman at Conchobar's court.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lóegaire Búadach",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Lóegaire is a champion at Conchobar's court.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Celtchar mac Uthechair",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Celtchar sits near Conchobar and serves him as a champion.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bricriu's feast",
+   "note": "Cú Roí tests the rival champions belonging to Conchobar's court.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mac Dathó",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Mac Dathó's hound",
+   "note": "Mac Dathó promises his celebrated hound to Conchobar and Connacht simultaneously.",
+   "source": "Scéla Mucce Meic Dathó",
+   "date": "c.800",
+   "tier": "attested"
+  },
+  {
+   "other": "Ailill mac Máta",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Mac Dathó's hound",
+   "note": "Conchobar and Ailill's Connacht party compete for Mac Dathó's hound.",
+   "source": "Scéla Mucce Meic Dathó",
+   "date": "c.800",
+   "tier": "attested"
+  },
+  {
+   "other": "Ailill mac Máta",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The Táin",
+   "note": "Ailill co-leads the Connacht invasion of Conchobar's Ulster.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medb",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The Táin",
+   "note": "Medb invades Conchobar's province to seize Donn Cúailnge.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medb",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A later medieval tradition makes Medb Conchobar's former wife.",
+   "source": "Cath Bóinde",
+   "date": "later medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Donn Cúailnge",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Táin",
+   "note": "The invasion of Conchobar's province is undertaken to seize this supernatural bull.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fedlimid mac Daill",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Deirdre's birth",
+   "note": "Fedlimid is Conchobar's storyteller and hosts the gathering where Deirdre is born.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Deirdre",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Deirdre and the sons of Uisliu",
+   "note": "Conchobar claims Deirdre as intended wife and later holds her coercively.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Deirdre",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of the sons of Uisliu",
+   "note": "Conchobar recovers Deirdre by breaking the safe conduct offered to the exiles.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Deirdre",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Deirdre's death",
+   "note": "Conchobar gives captive Deirdre to Eógan, prompting her fatal act.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Leborcham",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Deirdre tradition",
+   "note": "Leborcham serves Conchobar as nurse, satirist, or messenger.",
+   "source": "Longes tradition",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Naoise mac Uisliu",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of the sons of Uisliu",
+   "note": "Conchobar offers safe conduct, then has his rival for Deirdre attacked.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Naoise mac Uisliu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of the sons of Uisliu",
+   "note": "Naoise is killed by forces acting for Conchobar after returning from exile.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ainnle mac Uisliu",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of the sons of Uisliu",
+   "note": "Ainnle returns under Conchobar's broken guarantee and is attacked.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ainnle mac Uisliu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of the sons of Uisliu",
+   "note": "Ainnle is killed by Conchobar's forces after returning from exile.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ardan mac Uisliu",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of the sons of Uisliu",
+   "note": "Ardan returns under Conchobar's broken guarantee and is attacked.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ardan mac Uisliu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of the sons of Uisliu",
+   "note": "Ardan is killed by Conchobar's forces after returning from exile.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Eógan mac Durthacht",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Death of the sons of Uisliu",
+   "note": "Eógan attacks and kills the sons of Uisliu on Conchobar's behalf.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Dubthach Dóeltenga",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of the sons of Uisliu",
+   "note": "Conchobar violates Dubthach's guarantee, causing him to repudiate the king.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Cormac Con Loinges",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cormac is Conchobar's son and intended successor.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cormac Con Loinges",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Betrayal of the sons of Uisliu",
+   "note": "Conchobar's broken guarantee drives his son Cormac into Connacht exile.",
+   "source": "Longes mac nUislenn",
+   "date": "late eighth–early ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cúscraid Mend Macha",
+   "other_aliases": [
+    "Cúscraid the Stammerer of Macha"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cúscraid is Conchobar's son and eventual successor in some king-lists.",
+   "source": "Ulster king-lists",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Folloman",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Folloman is named as Conchobar's son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Folloman",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The Táin",
+   "note": "Folloman assumes military command during the invasion of Ulster.",
+   "source": "Táin Bó Cúailnge",
+   "date": "ninth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furbaide Ferbend",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogical tradition identifies Furbaide as Conchobar's son.",
+   "source": "Later medieval genealogies",
+   "date": "later medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mugain Aitencaithrech",
+   "other_aliases": [
+    "Mugain"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Mugain is prominently presented as Conchobar's queen.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eithne Aittencháithrech",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Genealogical compilations list Eithne as a spouse or variant of Mugain.",
+   "source": "Genealogical compilations",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clothru",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "An inconsistent learned notice names Clothru as mother of Conchobar's son.",
+   "source": "Genealogical notices",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fiachu",
+   "other_aliases": [
+    "Fiacha"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Fiachu appears among Conchobar's sons in the Deirdre cycle.",
+   "source": "Deirdre-cycle tradition",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaisne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Glaisne is included among Conchobar's sons in later lists.",
+   "source": "Genealogical lists",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gann",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gann is included among Conchobar's sons in later lists.",
+   "source": "Genealogical lists",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fedelm Noíchrothach",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Fedelm is Conchobar's daughter in the Ros na Ríg tradition.",
+   "source": "Cath Ruis na Ríg",
+   "date": "later medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cairpre Nia Fer",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Cairpre is Conchobar's son-in-law through Fedelm Noíchrothach.",
+   "source": "Cath Ruis na Ríg",
+   "date": "later medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cairpre Nia Fer",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of Ros na Ríg",
+   "note": "Cairpre becomes Conchobar's enemy during the retaliatory Ros na Ríg campaign.",
+   "source": "Cath Ruis na Ríg",
+   "date": "later medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Find mac Rossa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of Ros na Ríg",
+   "note": "Conchobar fights Find among his Leinster and Gailióin opponents.",
+   "source": "Cath Ruis na Ríg",
+   "date": "later medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athirne",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expedition to Étar",
+   "note": "Conchobar leads the Ulaid to protect or recover cattle for Athirne.",
+   "source": "Metrical Dindshenchas",
+   "date": "eleventh–twelfth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mesgegra",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The brain-ball wound",
+   "note": "Mesgegra's preserved brain becomes the weapon whose wound ultimately kills Conchobar.",
+   "source": "Aided Chonchobuir",
+   "date": "eighth-century tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Cet mac Mágach",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The brain-ball wound",
+   "note": "Cet steals Mesgegra's brain-ball from Conchobar's royal centre at Emain.",
+   "source": "Aided Chonchobuir",
+   "date": "eighth-century tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Cet mac Mágach",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The brain-ball wound",
+   "note": "Cet strikes Conchobar in the head with Mesgegra's brain-ball.",
+   "source": "Aided Chonchobuir",
+   "date": "eighth-century tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Sencha mac Ailella",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Bricriu's feast",
+   "note": "Sencha counsels Conchobar and recommends precautions against Bricriu's disruptions.",
+   "source": "Fled Bricrenn",
+   "date": "late ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Altus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "News of the Crucifixion",
+   "note": "Altus brings Conchobar news of Christ's Crucifixion in a variant death account.",
+   "source": "Aided Chonchobuir Version B",
+   "date": "medieval Christian elaboration",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "shared_myth",
+   "myth": "Birth-night synchronism",
+   "note": "Conchobar and Christ are made same-night counterparts, though not always contemporaries.",
+   "source": "Compert and Aided Chonchobuir",
+   "date": "medieval Christian tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "allied",
+   "myth": "News of the Crucifixion",
+   "note": "Conchobar believes in Christ and declares he would have fought Christ's killers.",
+   "source": "Aided Chonchobuir",
+   "date": "eighth-century tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Arthur's court-list",
+   "note": "As Cnychwr mab Nes, Conchobar is catalogued among Arthur's courtiers.",
+   "source": "Culhwch ac Olwen",
+   "date": "c.1100",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fercos mab Poch"
+   ],
+   "kind": "shared_myth",
+   "myth": "Arthur's court-list",
+   "note": "Their adapted Welsh names appear together in Arthur's catalogue of courtiers.",
+   "source": "Culhwch ac Olwen",
+   "date": "c.1100",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Roí mac Dáire",
+   "other_aliases": [
+    "Cubert mab Daere"
+   ],
+   "kind": "shared_myth",
+   "myth": "Arthur's court-list",
+   "note": "Their adapted Welsh names appear together in Arthur's catalogue of courtiers.",
+   "source": "Culhwch ac Olwen",
+   "date": "c.1100",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Conall Cernach",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arthur's court-list",
+   "note": "Welsh forms of Conchobar and Conall appear together in Arthur's catalogue.",
+   "source": "Culhwch ac Olwen",
+   "date": "c.1100",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lóegaire Búadach",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arthur's court-list",
+   "note": "Welsh forms of Conchobar and Lóegaire appear together in Arthur's catalogue.",
+   "source": "Culhwch ac Olwen",
+   "date": "c.1100",
+   "tier": "regional_variant"
+  }
+ ]
+}

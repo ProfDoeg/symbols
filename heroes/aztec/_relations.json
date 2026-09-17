@@ -1,0 +1,715 @@
+{
+ "folder": "aztec",
+ "gods": [
+  "chimalman",
+  "copil",
+  "huemac",
+  "malinalxochitl",
+  "topiltzin_ce_acatl"
+ ],
+ "relations": [
+  {
+   "a": "chimalman",
+   "b": "topiltzin_ce_acatl",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chimalman is Topiltzin’s mother and dies giving birth in a prominent version.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested",
+   "stated_by": [
+    "topiltzin_ce_acatl"
+   ]
+  },
+  {
+   "a": "copil",
+   "b": "malinalxochitl",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Malinalxochitl is consistently named as Copil’s mother.",
+   "source": "Durán; Crónica mexicana; Crónica Mexicáyotl",
+   "date": "1570s–early 1600s",
+   "tier": "canonical",
+   "stated_by": [
+    "copil",
+    "malinalxochitl"
+   ]
+  },
+  {
+   "a": "copil",
+   "b": "malinalxochitl",
+   "kind": "taught_by",
+   "myth": "Copil’s education in magical arts",
+   "note": "She teaches Copil her magical arts and inspires his vengeance.",
+   "source": "Durán, Historia de las Indias",
+   "date": "1570s",
+   "tier": "canonical",
+   "stated_by": [
+    "copil"
+   ]
+  },
+  {
+   "a": "copil",
+   "b": "malinalxochitl",
+   "kind": "taught_by",
+   "myth": "Copil’s vengeance against the Mexica",
+   "note": "She educates Copil in resentment or charges him to avenge her abandonment.",
+   "source": "Crónica mexicana; Crónica Mexicayotl",
+   "date": "ca. 1598–1609",
+   "tier": "canonical",
+   "stated_by": [
+    "malinalxochitl"
+   ]
+  },
+  {
+   "a": "huemac",
+   "b": "topiltzin_ce_acatl",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some late or regional traditions conflate Huemac with Topiltzin.",
+   "source": "later colonial chronicles",
+   "date": "seventeenth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "topiltzin_ce_acatl"
+   ]
+  },
+  {
+   "a": "huemac",
+   "b": "topiltzin_ce_acatl",
+   "kind": "shared_myth",
+   "myth": "Successive rulers and Tula’s later collapse",
+   "note": "Huemac is a distinct successor or near-contemporary linked to Tula’s later collapse.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "c.1570",
+   "tier": "attested",
+   "stated_by": [
+    "topiltzin_ce_acatl"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "chimalman",
+   "god": "aztec/mixcoatl",
+   "kind": "fought",
+   "myth": "Armed confrontation at Huitznahuac",
+   "note": "Mixcoatl invades her country and shoots four arrows at her.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "chimalman",
+   "god": "aztec/mixcoatl",
+   "kind": "consort_of",
+   "myth": "Conception of Ce Acatl",
+   "note": "Mixcoatl lies with Chimalman, fathers her child, and is later called her husband.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "chimalman",
+   "god": "aztec/quetzalcoatl",
+   "kind": "parent_of",
+   "myth": "Birth of Ce Acatl",
+   "note": "Chimalman gives birth to Ce Acatl and dies four days later.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "chimalman",
+   "god": "aztec/quetzalcoatl",
+   "kind": "parent_of",
+   "myth": "Swallowed-greenstone conception",
+   "note": "Chimalman conceives Quetzalcoatl after swallowing a precious greenstone.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "chimalman",
+   "god": "aztec/cihuacoatl",
+   "kind": "shared_myth",
+   "myth": "Fosterage after Chimalman's death",
+   "note": "Quilaztli-Cihuacoatl raises Chimalman's newborn after the mother dies.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "chimalman",
+   "god": "aztec/huitzilopochtli",
+   "kind": "shared_myth",
+   "myth": "Migration from Aztlan",
+   "note": "Chimalma accompanies the Mexica group carrying Huitzilopochtli from Aztlan.",
+   "source": "Crónica Mexicayotl",
+   "date": "c. 1598",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "copil",
+   "god": "aztec/huitzilopochtli",
+   "kind": "other",
+   "myth": "",
+   "note": "Huitzilopochtli is Copil’s maternal uncle.",
+   "source": "Durán; Tezozómoc; Crónica Mexicáyotl",
+   "date": "1570s–early 1600s",
+   "tier": "canonical"
+  },
+  {
+   "a": "copil",
+   "god": "aztec/huitzilopochtli",
+   "kind": "fought",
+   "myth": "Copil’s conspiracy against the Mexica",
+   "note": "Copil seeks vengeance against his uncle and rallies neighboring peoples.",
+   "source": "Durán; Crónica mexicana; Crónica Mexicáyotl",
+   "date": "1570s–early 1600s",
+   "tier": "canonical"
+  },
+  {
+   "a": "copil",
+   "god": "aztec/huitzilopochtli",
+   "kind": "killed_by",
+   "myth": "Copil’s killing at Tepetzinco",
+   "note": "Huitzilopochtli discovers the plot and commands Copil’s pre-emptive killing.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "1530s",
+   "tier": "attested"
+  },
+  {
+   "a": "copil",
+   "god": "aztec/quetzalcoatl",
+   "kind": "other",
+   "myth": "Casting Copil’s heart from Quetzalcoatl’s stone seat",
+   "note": "Copil’s heart is cast near a stone associated with Quetzalcoatl’s departure.",
+   "source": "Crónica Mexicáyotl",
+   "date": "early seventeenth century",
+   "tier": "canonical"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tezcatlipoca",
+   "kind": "created_by",
+   "myth": "The foundling destined to divide Tollan",
+   "note": "Huemac is described ambiguously as Tezcatlipoca’s offering, creation, or trace.",
+   "source": "Historia Tolteca-Chichimeca",
+   "date": "mid-16th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tezcatlipoca",
+   "kind": "deceived_by",
+   "myth": "Loss of Quetzalcoatl’s priesthood",
+   "note": "Tezcatlipoca’s deceptive female forms sexually compromise Huemac, costing him his priestly office.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "16th-c. compilation",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tezcatlipoca",
+   "kind": "fought",
+   "myth": "Tohueyo sent into battle",
+   "note": "Huemac tries to dispose of his disguised son-in-law in battle, but Tohueyo triumphs.",
+   "source": "Sahagún, Book 3",
+   "date": "1577",
+   "tier": "attested"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tezcatlipoca",
+   "kind": "deceived_by",
+   "myth": "Tezcatlipoca’s wonders destroy Tollan",
+   "note": "Tezcatlipoca stages lethal spectacles, deceptions, and portents that help ruin Huemac’s Tollan.",
+   "source": "Sahagún, Book 3",
+   "date": "1577",
+   "tier": "attested"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tezcatlipoca",
+   "kind": "deceived_by",
+   "myth": "War, sacrifice, and Toltec dispersal",
+   "note": "As Yaotl, he instigates war and sacrifice and separates followers during Huemac’s collapse.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "16th-c. compilation",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/quetzalcoatl",
+   "kind": "served",
+   "myth": "",
+   "note": "Huemac serves as Quetzalcoatl’s minister before losing the office through deception.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "16th-c. compilation",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/quetzalcoatl",
+   "kind": "identified_with",
+   "myth": "The holy Toltec ruler",
+   "note": "Colonial chroniclers merge Huemac and Topiltzin Quetzalcoatl into one celibate holy ruler.",
+   "source": "Durán and Ixtlilxochitl",
+   "date": "1581–early 17th c.",
+   "tier": "syncretism"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tlaloque",
+   "kind": "contest",
+   "myth": "Ballgame against the Tlaloque",
+   "note": "Huemac defeats the Tlaloque at ball and demands literal jade and quetzal feathers.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tlaloque",
+   "kind": "punished_by",
+   "myth": "Four-year famine after maize refusal",
+   "note": "The Tlaloque withhold rain, greenness, and maize after Huemac rejects their agricultural payment.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/tlaloc",
+   "kind": "shared_myth",
+   "myth": "Demand for Quetzalxotzin’s sacrifice",
+   "note": "Tlaloc’s underwater priest restores maize and conveys the demand for Quetzalxotzin’s sacrifice.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "huemac",
+   "god": "aztec/xipe_totec",
+   "kind": "shared_myth",
+   "myth": "First wearing of flayed skin",
+   "note": "Tótec’s first wearing of human skin is placed within Huemac’s destructive reign.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "16th-c. compilation",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "malinalxochitl",
+   "god": "aztec/huitzilopochtli",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Malinalxochitl is consistently described as Huitzilopochtli’s elder sister.",
+   "source": "Durán; Tovar; Crónica mexicana; Crónica Mexicayotl",
+   "date": "1581–ca. 1609",
+   "tier": "canonical"
+  },
+  {
+   "a": "malinalxochitl",
+   "god": "aztec/huitzilopochtli",
+   "kind": "deceived_by",
+   "myth": "Abandonment during the Mexica migration",
+   "note": "Huitzilopochtli directs the migrants to depart secretly while Malinalxochitl sleeps.",
+   "source": "Durán; Crónica mexicana; Crónica Mexicayotl",
+   "date": "1581–ca. 1609",
+   "tier": "canonical"
+  },
+  {
+   "a": "malinalxochitl",
+   "god": "aztec/coyolxauhqui",
+   "kind": "identified_with",
+   "myth": "Comparison of Huitzilopochtli’s hostile elder sisters",
+   "note": "León-Portilla and later retellings equate them through structural analogy, not early testimony.",
+   "source": "León-Portilla, El Templo Mayor",
+   "date": "20th century",
+   "tier": "modern"
+  },
+  {
+   "a": "malinalxochitl",
+   "god": "aztec/coatlicue",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Modern pantheon-building calls Malinalxochitl her daughter, but core narratives provide no parentage.",
+   "source": "Modern internet pantheons",
+   "date": "21st century",
+   "tier": "modern"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/mixcoatl",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mixcoatl is Topiltzin’s father in the Leyenda genealogy.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/mixcoatl",
+   "kind": "rescued",
+   "myth": "Topiltzin recovers his murdered father’s remains",
+   "note": "Topiltzin recovers or honors Mixcoatl’s bones and establishes mortuary observance.",
+   "source": "Leyenda de los Soles",
+   "date": "1558",
+   "tier": "attested"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/coatlicue",
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Tlaxcalan variant substitutes Coatlicue within Topiltzin’s maternal genealogy.",
+   "source": "Tlaxcalan tradition",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/tezcatlipoca",
+   "kind": "deceived_by",
+   "myth": "The mirror and medicinal pulque",
+   "note": "Disguised Titlacauan shows Topiltzin his decayed appearance and administers intoxicating medicine.",
+   "source": "Florentine Codex, Book III",
+   "date": "c.1575–1577",
+   "tier": "canonical"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/tezcatlipoca",
+   "kind": "deceived_by",
+   "myth": "Humiliation and destabilization of Tollan",
+   "note": "Tezcatlipoca acts as the divine antagonist behind Topiltzin’s humiliation and downfall.",
+   "source": "Sahagún; Anales",
+   "date": "sixteenth century",
+   "tier": "canonical"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/huitzilopochtli",
+   "kind": "deceived_by",
+   "myth": "Three supernatural conspirators undermine Topiltzin",
+   "note": "Huitzilopochtli joins the supernatural conspiracy against Topiltzin in Sahagún’s Spanish account.",
+   "source": "Florentine Codex, Book III",
+   "date": "c.1575–1577",
+   "tier": "attested"
+  },
+  {
+   "a": "topiltzin_ce_acatl",
+   "god": "aztec/tlahuizcalpantecuhtli",
+   "kind": "identified_with",
+   "myth": "Cremation and Morning-Star apotheosis",
+   "note": "After Topiltzin’s cremation, his heart rises and manifests as the Morning-Star lord.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "c.1570",
+   "tier": "syncretism"
+  }
+ ],
+ "unresolved": {
+  "Apanecatl": [
+   {
+    "stated_by": "chimalman",
+    "kind": "shared_myth",
+    "myth": "Migration from Aztlan",
+    "note": "Apanecatl and Chimalma are fellow migration leaders or sacred-bundle bearers.",
+    "source": "Codex Boturini",
+    "date": "c. 1530–1540",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "killed",
+    "myth": "Vengeance for Mixcoatl’s murder",
+    "note": "Topiltzin kills Apanecatl, named among his father’s murderers.",
+    "source": "Leyenda de los Soles",
+    "date": "1558",
+    "tier": "attested"
+   }
+  ],
+  "Atzcatl Xochtzin": [
+   {
+    "stated_by": "malinalxochitl",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Atzcatl Xochtzin is Copil’s daughter and therefore Malinalxochitl’s granddaughter.",
+    "source": "Crónica Mexicayotl",
+    "date": "ca. 1609",
+    "tier": "canonical"
+   }
+  ],
+  "Camaxtli": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Camaxtli is Topiltzin’s father and favors him in the Olmos-derived account.",
+    "source": "Histoire du Mechique",
+    "date": "tradition c.1530s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Centzon Mixcoa": [
+   {
+    "stated_by": "chimalman",
+    "kind": "other",
+    "myth": "Murder of Mixcoatl",
+    "note": "After Chimalman's death, they kill Mixcoatl, her child's father.",
+    "source": "Leyenda de los Soles",
+    "date": "1558",
+    "tier": "attested"
+   }
+  ],
+  "Chimalcuauhtli": [
+   {
+    "stated_by": "copil",
+    "kind": "child_of",
+    "myth": "",
+    "note": "One genealogical tradition names Chimalcuauhtli as Copil’s father.",
+    "source": "Crónica Mexicáyotl",
+    "date": "early seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Coyotlinahual": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "fought",
+    "myth": "Ruinous sorcery and portents at Tollan",
+    "note": "Coyotlinahual is a hostile supernatural trickster participating in Tollan’s ruinous portents.",
+    "source": "Sahagún’s Tollan cycle",
+    "date": "sixteenth century",
+    "tier": "attested"
+   }
+  ],
+  "Cuauhcoatl": [
+   {
+    "stated_by": "chimalman",
+    "kind": "shared_myth",
+    "myth": "Migration from Aztlan",
+    "note": "Cuauhcoatl and Chimalma are fellow migration leaders or sacred-bundle bearers.",
+    "source": "Codex Boturini",
+    "date": "c. 1530–1540",
+    "tier": "regional_variant"
+   }
+  ],
+  "Cuauhtlequetzqui": [
+   {
+    "stated_by": "copil",
+    "kind": "other",
+    "myth": "Casting Copil’s heart into the reeds",
+    "note": "He carries and casts Copil’s extracted heart into the lake.",
+    "source": "Crónica Mexicáyotl",
+    "date": "early seventeenth century",
+    "tier": "canonical"
+   }
+  ],
+  "Cuilton": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "killed",
+    "myth": "Vengeance for Mixcoatl’s murder",
+    "note": "Topiltzin kills Cuilton, a paternal murderer or hostile kinsman.",
+    "source": "Leyenda de los Soles",
+    "date": "1558",
+    "tier": "attested"
+   }
+  ],
+  "Ihuimecatl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "deceived_by",
+    "myth": "Pulque intoxication at Tollan",
+    "note": "Ihuimecatl brings pulque, sings, and helps intoxicate Topiltzin and Quetzalpetlatl.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "c.1570",
+    "tier": "canonical"
+   }
+  ],
+  "Ixcuinanme": [
+   {
+    "stated_by": "huemac",
+    "kind": "shared_myth",
+    "myth": "Inauguration of arrow sacrifice",
+    "note": "The Ixcuinanme arrive with captives and inaugurate arrow sacrifice during Huemac’s reign.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "16th-c. compilation",
+    "tier": "regional_variant"
+   }
+  ],
+  "Iztaccaltzin": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "shared_myth",
+    "myth": "Final Toltec monarchs",
+    "note": "Iztaccaltzin appears beside Topiltzin as a fellow or succeeding Toltec monarch.",
+    "source": "Ixtlilxochitl",
+    "date": "early seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Iztacmixcoatl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some late chronologies name Iztacmixcoatl as Topiltzin’s father.",
+    "source": "late Toltec chronologies",
+    "date": "colonial period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kukulcan": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "identified_with",
+    "myth": "Exiled ruler equated with Maya Feathered Serpent",
+    "note": "Colonial and modern histories retrospectively identify Topiltzin with the Maya ruler-deity Kukulcan.",
+    "source": "Colonial Yucatec traditions",
+    "date": "seventeenth–eighteenth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Matlacxochitl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "shared_myth",
+    "myth": "Flight toward Cuauhquechollan",
+    "note": "Matlacxochitl accompanies or is associated with Topiltzin’s regional flight narrative.",
+    "source": "Histoire du Mechique",
+    "date": "later sixteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pochotl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Some late Texcocan genealogies present Pochotl as Topiltzin’s descendant.",
+    "source": "Texcocan genealogical traditions",
+    "date": "early seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Quetzalcoatl, the god": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "served",
+    "myth": "Topiltzin’s priesthood at Tollan",
+    "note": "Topiltzin serves as Quetzalcoatl’s penitential priest and bears the deity’s insignia.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "c.1570",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "identified_with",
+    "myth": "Priest-king assumes Quetzalcoatl’s divine name",
+    "note": "Topiltzin takes the god’s name and becomes difficult to distinguish from him.",
+    "source": "Anales; Sahagún",
+    "date": "sixteenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Quetzalpetlatl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The Anales calls Quetzalpetlatl Topiltzin’s elder sister or ritual counterpart.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "c.1570",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "other",
+    "myth": "Intoxication and penitential sexual breach",
+    "note": "Both are intoxicated and implicated together in a euphemistically described sexual transgression.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "c.1570",
+    "tier": "canonical"
+   }
+  ],
+  "Tezcacoatl": [
+   {
+    "stated_by": "chimalman",
+    "kind": "shared_myth",
+    "myth": "Migration from Aztlan",
+    "note": "Tezcacoatl and Chimalma are fellow migration leaders or sacred-bundle bearers.",
+    "source": "Codex Boturini",
+    "date": "c. 1530–1540",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tlacahuepan": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "deceived_by",
+    "myth": "Three supernatural conspirators undermine Topiltzin",
+    "note": "Tlacahuepan participates in Sahagún’s divine conspiracy against Topiltzin.",
+    "source": "Florentine Codex, Book III",
+    "date": "c.1575–1577",
+    "tier": "attested"
+   }
+  ],
+  "Toltecatl": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "deceived_by",
+    "myth": "Pulque intoxication at Tollan",
+    "note": "Toltecatl collaborates with Ihuimecatl in the pulque deception that compromises Topiltzin.",
+    "source": "Anales de Cuauhtitlan",
+    "date": "c.1570",
+    "tier": "canonical"
+   }
+  ],
+  "Totepeuh": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some competing dynastic chronologies make Totepeuh Topiltzin’s father.",
+    "source": "Chimalpahin traditions",
+    "date": "early seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Xicomoyahualtzin": [
+   {
+    "stated_by": "copil",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Reconstructed genealogical material names her as Copil’s consort.",
+    "source": "colonial genealogical material",
+    "date": "colonial period",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "copil",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Reconstructed genealogical material names a younger Xicomoyahualtzin as his daughter.",
+    "source": "colonial genealogical material",
+    "date": "colonial period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Zolton": [
+   {
+    "stated_by": "topiltzin_ce_acatl",
+    "kind": "killed",
+    "myth": "Vengeance for Mixcoatl’s murder",
+    "note": "Topiltzin kills Zolton, a paternal murderer or hostile kinsman.",
+    "source": "Leyenda de los Soles",
+    "date": "1558",
+    "tier": "attested"
+   }
+  ]
+ }
+}

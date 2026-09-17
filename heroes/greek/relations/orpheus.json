@@ -1,0 +1,605 @@
+{
+ "subject": "orpheus",
+ "relations": [
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later genealogies make Apollo the biological father of Orpheus.",
+   "source": "Later mythographic genealogies",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Apollo sends the father of songs",
+   "note": "Apollo serves as Orpheus’s patron or sender, without necessarily being his father.",
+   "source": "Pindar, Pythian 4.176–77",
+   "date": "462 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Orpheus worships Apollo at dawn",
+   "note": "Orpheus abandons Dionysus and worships Apollo as the greatest god.",
+   "source": "Aeschylus, Bassarids tradition",
+   "date": "mid-5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Apollo takes Orpheus to heaven",
+   "note": "In the printed operatic ending, Apollo takes Orpheus heavenward.",
+   "source": "Monteverdi, L’Orfeo",
+   "date": "1607",
+   "tier": "modern"
+  },
+  {
+   "other": "Calliope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Calliope is Orpheus’s mother in the dominant later genealogy.",
+   "source": "Apollonius scholia and mythography",
+   "date": "Hellenistic and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calliope",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calliope mourns Orpheus",
+   "note": "Calliope joins the Muses in gathering or mourning Orpheus’s remains.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oeagrus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Oeagrus is Orpheus’s father in the dominant Argonautic genealogy.",
+   "source": "Apollonius, Argonautica 1 and 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menippe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Byzantine compilation names Menippe, daughter of Thamyris, as Orpheus’s mother.",
+   "source": "Tzetzes",
+   "date": "12th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Muses bury Orpheus",
+   "note": "The Muses patronize Orpheus, mourn him, gather his remains, and bury him.",
+   "source": "Pausanias 9.30; Ovid 11",
+   "date": "c. 8–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "served",
+   "myth": "Orpheus performs Dionysiac mysteries",
+   "note": "Orpheus teaches or performs initiatory rites associated with Dionysus.",
+   "source": "Conon, Narrations 45",
+   "date": "late 1st c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "killed_by",
+   "myth": "Dionysus sends the Bassarids",
+   "note": "Dionysus sends Dionysiac women to dismember Orpheus after his devotion to Apollo.",
+   "source": "Aeschylus, Bassarids tradition",
+   "date": "mid-5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "punished_by",
+   "myth": "Bacchus transforms Orpheus’s murderers",
+   "note": "Bacchus avenges Orpheus by turning the Ciconian murderers into trees.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "gift",
+   "myth": "Conditional release of Eurydice",
+   "note": "Orpheus charms and petitions Hades, who conditionally releases his wife.",
+   "source": "Virgil, Georgics 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "gift",
+   "myth": "Conditional release of Eurydice",
+   "note": "Orpheus moves Persephone with song, and she participates in releasing his wife.",
+   "source": "Virgil, Georgics 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eurydice is Orpheus’s canonical wife.",
+   "source": "Virgil, Georgics 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Descent and fatal backward glance",
+   "note": "Orpheus nearly retrieves Eurydice from death but loses her by looking back.",
+   "source": "Virgil, Georgics 4",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Orpheus reunites with Eurydice",
+   "note": "After death, Orpheus reunites with Eurydice and may look back safely.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agriope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Agriope is Orpheus’s wife in a competing Hellenistic tradition.",
+   "source": "Hermesianax fr. 7",
+   "date": "early 3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agriope",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Descent for Agriope",
+   "note": "Orpheus descends to Hades and persuades its rulers on Agriope’s behalf.",
+   "source": "Hermesianax fr. 7",
+   "date": "early 3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hermes reclaims Eurydice",
+   "note": "Hermes escorts or reclaims Eurydice as Orpheus loses her again.",
+   "source": "Orpheus–Eurydice–Hermes relief",
+   "date": "c. 420–400 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hermes narrates Orpheus’s journey",
+   "note": "Modern Hadestown makes Hermes the narrator associated closely with Orpheus.",
+   "source": "Anaïs Mitchell, Hadestown",
+   "date": "2010–2019",
+   "tier": "modern"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Orpheus joins Jason’s expedition and guides, reconciles, and protects his crew.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Selection for the Argo",
+   "note": "Chiron advises Jason to include Orpheus in the Argonautic expedition.",
+   "source": "Apollonius and scholia",
+   "date": "Hellenistic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Argonauts",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Orpheus regulates rowing, resolves quarrels, leads rites, and counters the Sirens.",
+   "source": "Apollonius, Argonautica",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Heracles and Orpheus serve together among the Argonauts.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Castor is Orpheus’s fellow Argonaut and participates in Orpheus-led rites or songs.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Polydeuces is Orpheus’s fellow Argonaut and participates in Orpheus-led rites or songs.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zetes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Zetes and Orpheus serve together among the Argonauts.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Calais and Orpheus serve together among the Argonauts.",
+   "source": "Pindar; Apollonius",
+   "date": "462–3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orpheus loves Calais",
+   "note": "Orpheus loves Calais and consequently introduces male love to Thrace.",
+   "source": "Phanocles fr. 1",
+   "date": "early Hellenistic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Sirens",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Musical contest beside the Argo",
+   "note": "Orpheus overwhelms the Sirens’ song with his own and saves the crew.",
+   "source": "Apollonius 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Butes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Butes yields to the Sirens",
+   "note": "Orpheus fails to restrain fellow Argonaut Butes, who leaps toward the Sirens.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cypris"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aphrodite rescues Butes",
+   "note": "Aphrodite rescues Butes after Orpheus’s counter-song fails to retain him.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aristaeus pursues Eurydice",
+   "note": "Aristaeus’s pursuit causes Eurydice’s fatal flight and initiates Orpheus’s tragedy.",
+   "source": "Virgil, Georgics 4",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Proteus recounts Orpheus’s tragedy",
+   "note": "Proteus narrates Orpheus’s story to Aristaeus but never meets Orpheus directly.",
+   "source": "Virgil, Georgics 4",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Meter",
+    "the Mother"
+   ],
+   "kind": "taught_by",
+   "myth": "Orpheus learns the Mother’s rites",
+   "note": "A euhemerizing account makes Orpheus learn rites associated with the Mother.",
+   "source": "Diodorus Siculus 3–4",
+   "date": "1st c. BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Meter",
+    "the Mother"
+   ],
+   "kind": "taught",
+   "myth": "Orpheus transmits the Mother’s rites",
+   "note": "Orpheus transmits rites associated with Cybele after learning them.",
+   "source": "Diodorus Siculus 3–4",
+   "date": "1st c. BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Revelation of Demeter’s wanderings",
+   "note": "Pseudepigrapha present Orpheus as authoritative revealer of Demeter’s wanderings and rites.",
+   "source": "Orphic fragments; Orphic Argonautica",
+   "date": "Classical–5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orpheus invokes Hecate",
+   "note": "Orpheus invokes and ritually engages Hecate during his late-antique Argonautic narrative.",
+   "source": "Orphic Argonautica",
+   "date": "4th–5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argonauts",
+   "note": "Medea and Orpheus participate together in the Argonautic expedition.",
+   "source": "Apollonius, Argonautica",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Competing ritual expertise",
+   "note": "Orpheus’s ritual expertise complements or competes with Medea’s magical knowledge.",
+   "source": "Orphic Argonautica",
+   "date": "4th–5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Musaeus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "",
+   "note": "Musaeus is variously Orpheus’s disciple, recipient, companion, or successor.",
+   "source": "Plato and later Orphic tradition",
+   "date": "4th c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Musaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some learned genealogies make Musaeus the son of Orpheus.",
+   "source": "Later mythographic genealogies",
+   "date": "post-Classical",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Linus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Primordial singers",
+   "note": "Linus and Orpheus are paired among the primordial singers.",
+   "source": "Classical and later mythography",
+   "date": "Classical period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Linus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Some unstable learned traditions make Linus a teacher of Orpheus.",
+   "source": "Later mythography",
+   "date": "post-Classical",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thamyris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Thracian singers",
+   "note": "Thamyris and Orpheus are paired as primordial Thracian singers.",
+   "source": "Classical and later mythography",
+   "date": "Classical period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thamyris",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Through Menippe, one late genealogy makes Orpheus the grandson of Thamyris.",
+   "source": "Tzetzes",
+   "date": "12th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Zeus strikes Orpheus with lightning",
+   "note": "One reported tradition says Zeus kills Orpheus for revealing mysteries to humans.",
+   "source": "Pausanias 9.30.5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "other",
+   "myth": "Orpheus makes the Furies weep",
+   "note": "The infernal Furies weep for the first time when moved by Orpheus’s song.",
+   "source": "Ovid, Metamorphoses 10.45–46",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tantalus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Underworld punishments cease",
+   "note": "Tantalus’s infernal punishment temporarily ceases while Orpheus sings.",
+   "source": "Virgil 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ixion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Underworld punishments cease",
+   "note": "Ixion’s infernal punishment temporarily ceases while Orpheus sings.",
+   "source": "Virgil 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sisyphus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Underworld punishments cease",
+   "note": "Sisyphus’s infernal punishment temporarily ceases while Orpheus sings.",
+   "source": "Virgil 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Danaids",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Underworld punishments cease",
+   "note": "The Danaids’ infernal punishment temporarily ceases while Orpheus sings.",
+   "source": "Virgil 4; Ovid 10",
+   "date": "29 BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Charon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Passage across the infernal river",
+   "note": "Orpheus’s music persuades Charon to grant him passage into the underworld.",
+   "source": "Roman and post-antique literature",
+   "date": "Roman period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orpheus pacifies Cerberus",
+   "note": "Orpheus pacifies the underworld guardian with his music.",
+   "source": "Virgilian and Ovidian tradition",
+   "date": "Augustan period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Worship of the rising sun",
+   "note": "Orpheus greets Helios at dawn, worshipping the sun as Apollo.",
+   "source": "pseudo-Eratosthenes, Catasterisms",
+   "date": "late witness to Aeschylus",
+   "tier": "attested"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Christian funerary art uses Orpheus as a typological image of Christ bringing harmony and salvation.",
+   "source": "Christian funerary art",
+   "date": "3rd–4th c. CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "David",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late-antique Jewish and Christian art assimilates the lyre-playing animal charmer to David.",
+   "source": "Late-antique Jewish-Christian art",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  }
+ ]
+}

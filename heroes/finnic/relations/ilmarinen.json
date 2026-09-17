@@ -1,0 +1,477 @@
+{
+ "subject": "ilmarinen",
+ "relations": [
+  {
+   "other": "Kaleva",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ilmarinen is named as one of Kaleva’s twelve sons.",
+   "source": "Johan Cajanus",
+   "date": "1663",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kaleva",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ganander repeats and systematizes Ilmarinen’s descent from Kaleva.",
+   "source": "Mythologia Fennica",
+   "date": "1789",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iro-neito",
+   "other_aliases": [
+    "Iro"
+   ],
+   "kind": "child_of",
+   "myth": "Iro-maiden cycle",
+   "note": "Iro gives birth to Ilmarinen and two other heroes.",
+   "source": "SKVR VII1 63–100",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Iro-maiden cycle",
+   "note": "Iro songs present Ilmarinen and Väinämöinen as brothers.",
+   "source": "SKVR VII1 63–100",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Väinämöinen addresses Ilmarinen as brother or mother’s child, possibly formulaic fellowship.",
+   "source": "Kalevala",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Joukahainen",
+   "other_aliases": [
+    "Joukamoinen",
+    "Jompainen"
+   ],
+   "kind": "sibling_of",
+   "myth": "Iro-maiden cycle",
+   "note": "Iro songs present Joukahainen and Ilmarinen as heroic brothers.",
+   "source": "SKVR VII1 63–100",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Joukahainen",
+   "other_aliases": [
+    "Joukamoinen",
+    "Jompainen"
+   ],
+   "kind": "allied",
+   "myth": "Variant Sampo traditions",
+   "note": "Regional Sampo songs sometimes make him Ilmarinen’s companion.",
+   "source": "SKVR",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Annikki",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Annikki is Ilmarinen’s sister in the courtship narrative.",
+   "source": "Kalevala 18",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Annikki",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Courtship race",
+   "note": "Annikki warns Ilmarinen that Väinämöinen is sailing to court the maiden.",
+   "source": "Kalevala 18",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Origin of fire",
+   "note": "Ilmarinen and Väinämöinen strike or make the first heavenly spark.",
+   "source": "Pyhäjärvi fire-charm testimony",
+   "date": "1728",
+   "tier": "attested"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Journey to forge the Sampo",
+   "note": "Väinämöinen tricks Ilmarinen into a tree and blows him to Pohjola.",
+   "source": "Kalevala 7–10",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Courtship of the Maiden of Pohjola",
+   "note": "The two heroes compete as rival suitors for the northern maiden.",
+   "source": "Kalevala 18–19",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of the fire-spark",
+   "note": "They seek and retrieve Ukko’s fallen replacement spark together.",
+   "source": "Kalevala 47–48",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Sampo raid",
+   "note": "Ilmarinen joins Väinämöinen’s expedition to steal the Sampo from Pohjola.",
+   "source": "Kalevala 39–44",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "First kantele",
+   "note": "Ilmarinen cannot sound the pike-jaw kantele that Väinämöinen successfully plays.",
+   "source": "Kalevala 40–41",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Golden Bride",
+   "note": "Ilmarinen offers Väinämöinen the golden woman, but he refuses her.",
+   "source": "Kalevala 37",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Väinämöinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Release of the sun and moon",
+   "note": "They prepare to free the imprisoned heavenly lights from Pohjola’s mountain.",
+   "source": "Kalevala 49",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "Mistress of Pohjola"
+   ],
+   "kind": "served",
+   "myth": "Forging of the Sampo",
+   "note": "Ilmarinen forges the productive Sampo commissioned by Louhi.",
+   "source": "Kalevala 10",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "Mistress of Pohjola"
+   ],
+   "kind": "judged_by",
+   "myth": "Courtship tasks",
+   "note": "Louhi requires Ilmarinen to complete supernatural tasks before marrying her daughter.",
+   "source": "Kalevala 19",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "Mistress of Pohjola"
+   ],
+   "kind": "theft",
+   "myth": "Sampo raid",
+   "note": "Ilmarinen helps remove Louhi’s rooted and locked Sampo from Pohjola.",
+   "source": "Kalevala 42",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Louhi",
+   "other_aliases": [
+    "Mistress of Pohjola"
+   ],
+   "kind": "fought",
+   "myth": "Battle over the Sampo",
+   "note": "Ilmarinen’s company battles Louhi during her pursuit of the stolen Sampo.",
+   "source": "Kalevala 43",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maiden of Pohjola",
+   "other_aliases": [
+    "Daughter of Pohjola",
+    "Ilmarinen’s wife"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "After Ilmarinen completes Louhi’s tasks, the maiden marries him.",
+   "source": "Kalevala 19–25",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maiden of Pohjola",
+   "other_aliases": [
+    "Daughter of Pohjola",
+    "Ilmarinen’s wife"
+   ],
+   "kind": "allied",
+   "myth": "Courtship tasks",
+   "note": "The maiden advises and equips Ilmarinen for Louhi’s dangerous tasks.",
+   "source": "Kalevala 19",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Younger Daughter of Pohjola",
+   "other_aliases": [
+    "Younger Maiden of Pohjola"
+   ],
+   "kind": "other",
+   "myth": "Abduction of the second maiden",
+   "note": "After she rejects him, Ilmarinen abducts her and carries her away.",
+   "source": "Kalevala 38",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Younger Daughter of Pohjola",
+   "other_aliases": [
+    "Younger Maiden of Pohjola"
+   ],
+   "kind": "transformed",
+   "myth": "Abduction of the second maiden",
+   "note": "Ilmarinen transforms the resisting abducted woman into a gull.",
+   "source": "Kalevala 38",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kullervo",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Kullervo’s enslavement",
+   "note": "Untamo sells Kullervo to Ilmarinen as a slave.",
+   "source": "Kalevala 31",
+   "date": "1849",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kullervo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Ilmarinen’s wife",
+   "note": "Kullervo retaliates against Ilmarinen’s wife by sending enchanted beasts to kill her.",
+   "source": "Kalevala 32–33",
+   "date": "1849",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lemminkäinen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Sampo raid",
+   "note": "Lemminkäinen joins Ilmarinen and Väinämöinen on the expedition to seize the Sampo.",
+   "source": "Kalevala 39–43",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ukko",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of the fire-spark",
+   "note": "Ukko creates the replacement spark that Ilmarinen and Väinämöinen recover.",
+   "source": "Kalevala 47–48",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ukko",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Ilmarinen invokes Ukko for assistance and depends upon his command of winds.",
+   "source": "Runo-song charms",
+   "date": "nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Hiisi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variant courtship traditions",
+   "note": "Ilmarinen seeks Hiisi’s daughter and confronts animals or places belonging to Hiisi.",
+   "source": "SKVR courtship songs",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hiisi’s Daughter",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Variant courtship competition",
+   "note": "In some courtship songs Ilmarinen wins Hiisi’s daughter after supernatural tasks.",
+   "source": "SKVR courtship songs",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tuoni",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Courtship tasks",
+   "note": "Ilmarinen must obtain Tuoni’s beasts and catch a pike from Tuoni’s river.",
+   "source": "Kalevala 19",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sun",
+   "other_aliases": [
+    "Päivä"
+   ],
+   "kind": "created",
+   "myth": "Artificial heavenly lights",
+   "note": "Ilmarinen forges a silver or golden substitute sun that cannot shine or warm.",
+   "source": "Kalevala 49",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sun",
+   "other_aliases": [
+    "Päivä"
+   ],
+   "kind": "rescued",
+   "myth": "Release of the heavenly lights",
+   "note": "Ilmarinen’s preparations help compel Louhi to release the imprisoned sun.",
+   "source": "Kalevala 49",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sun",
+   "other_aliases": [
+    "Päivä"
+   ],
+   "kind": "rescued",
+   "myth": "Liberation of the heavenly lights",
+   "note": "Some independent variants give Ilmarinen a stronger role in freeing the sun.",
+   "source": "Viena and Ingrian variants",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moon",
+   "other_aliases": [
+    "Kuu"
+   ],
+   "kind": "created",
+   "myth": "Artificial heavenly lights",
+   "note": "Ilmarinen forges a silver or golden substitute moon that cannot shine.",
+   "source": "Kalevala 49",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moon",
+   "other_aliases": [
+    "Kuu"
+   ],
+   "kind": "rescued",
+   "myth": "Release of the heavenly lights",
+   "note": "Ilmarinen’s preparations help compel Louhi to release the imprisoned moon.",
+   "source": "Kalevala 49",
+   "date": "1849",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moon",
+   "other_aliases": [
+    "Kuu"
+   ],
+   "kind": "rescued",
+   "myth": "Liberation of the heavenly lights",
+   "note": "Some independent variants give Ilmarinen a stronger role in freeing the moon.",
+   "source": "Viena and Ingrian variants",
+   "date": "nineteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iron",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Origin of iron",
+   "note": "Some origin charms credit Ilmarinen with forging or handling the first iron.",
+   "source": "Origin-of-iron charms",
+   "date": "nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Iron",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Origin of iron",
+   "note": "Personified iron promises not to harm its kin but becomes dangerous after poisoned tempering.",
+   "source": "Origin-of-iron charms",
+   "date": "nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Golden Bride",
+   "other_aliases": [
+    "Golden Woman"
+   ],
+   "kind": "created",
+   "myth": "Golden Bride",
+   "note": "Ilmarinen fashions a beautiful woman from gold and silver.",
+   "source": "Golden-woman songs",
+   "date": "nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Golden Bride",
+   "other_aliases": [
+    "Golden Woman"
+   ],
+   "kind": "created",
+   "myth": "Golden Bride",
+   "note": "After his wife’s death, Ilmarinen creates a metal replacement who remains cold.",
+   "source": "Kalevala 37",
+   "date": "1849",
+   "tier": "canonical"
+  }
+ ]
+}

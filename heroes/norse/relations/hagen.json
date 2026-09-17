@@ -1,0 +1,77 @@
+{
+ "subject": "hagen",
+ "relations": [
+  {
+   "other": "The álfr",
+   "other_aliases": [
+    "elf"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "In Þiðreks saga, an unnamed supernatural álfr is Högni’s biological father.",
+   "source": "Þiðreks saga af Bern",
+   "date": "mid-13th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hadburg",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Danube prophecy",
+   "note": "Hagen steals Hadburg’s clothes and forces her to prophesy.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hadburg",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Danube prophecy",
+   "note": "Hadburg falsely predicts success so Hagen will return her garments.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigelind",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Danube prophecy",
+   "note": "Sigelind reveals that all Burgundians except the chaplain will die.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alberich",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Hagen Alberich’s son, unlike every medieval tradition.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Alberich",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Winning the Ring",
+   "note": "Alberich commands Hagen to obtain the Ring for him.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "other": "Rhinemaidens",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Hagen’s final Rhine-lunge",
+   "note": "Hagen lunges after the Ring; the Rhinemaidens reclaim it as he dies.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  }
+ ]
+}

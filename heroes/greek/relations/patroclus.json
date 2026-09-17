@@ -1,0 +1,693 @@
+{
+ "subject": "patroclus",
+ "relations": [
+  {
+   "other": "Menoetius",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Menoetius is consistently named as Patroclus’ father.",
+   "source": "Iliad 11.765; 23.82–90",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenele",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Apollodoran genealogy names Sthenele as Patroclus’ mother.",
+   "source": "Apollodorus 3.13.8",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Periopis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An alternative Apollodoran genealogy names Periopis as Patroclus’ mother.",
+   "source": "Apollodorus 3.13.8",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polymele",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A variant attributed to Philocrates names Polymele as Patroclus’ mother.",
+   "source": "Apollodorus 3.13.8",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philomela",
+   "other_aliases": [
+    "Pilomella"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus and later commentators name Philomela as Patroclus’ mother.",
+   "source": "Hyginus, Fabula 97",
+   "date": "early Imperial era",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Actor",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "In Homer’s Actorid genealogy, Actor is Patroclus’ paternal grandfather.",
+   "source": "Iliad 11.765; 16.14",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Peleus raises Patroclus with Achilles as his foster-brother and companion.",
+   "source": "Iliad 23.82–90",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Patroclus serves in Achilles’ household",
+   "note": "Peleus appoints Patroclus as Achilles’ attendant; he serves and advises him.",
+   "source": "Iliad 9; 11; 23",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Patroclus fights wearing Achilles’ armor",
+   "note": "Achilles authorizes Patroclus to lead the Myrmidons in his armor.",
+   "source": "Iliad 16.1–100",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death, funeral, and shared burial",
+   "note": "Achilles avenges and buries Patroclus; their bones and afterlife are shared.",
+   "source": "Iliad 18–23; Odyssey 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Erotic interpretation of their companionship",
+   "note": "Aeschylus explicitly casts Achilles as Patroclus’ desiring lover.",
+   "source": "Aeschylus, Myrmidons fragments",
+   "date": "first half fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Phaedrus reverses the lovers’ roles",
+   "note": "Plato accepts their erotic bond but makes Patroclus the older lover.",
+   "source": "Plato, Symposium 179e–180b",
+   "date": "approximately 385–370 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A Hesiodic genealogy makes their fathers brothers, making them first cousins.",
+   "source": "Catalogue of Women fragment 61",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Fostering after the dice-game killing",
+   "note": "Peleus receives and raises the exiled boy, then appoints him Achilles’ attendant.",
+   "source": "Iliad 23.82–90",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Polymele genealogy makes Peleus Patroclus’ maternal grandfather.",
+   "source": "Apollodorus 3.13.8",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Myrto",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Late genealogical compilations sometimes identify Myrto as Patroclus’ sister.",
+   "source": "late genealogical compilations",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Patroclus’ assault on Troy",
+   "note": "Apollo repeatedly repels Patroclus, warns him, then strikes and strips him.",
+   "source": "Iliad 16.698–817",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Apollo incites Hector disguised as Asius",
+   "note": "Apollo assumes Asius’ appearance while directing Hector back toward Patroclus.",
+   "source": "Iliad 16.712–725",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Zeus directs Patroclus’ battlefield fate",
+   "note": "Zeus grants only part of Achilles’ prayer and ordains Patroclus’ death sequence.",
+   "source": "Iliad 16–17",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Preservation of Patroclus’ corpse",
+   "note": "Thetis mourns Patroclus and preserves his corpse with ambrosia and nectar.",
+   "source": "Iliad 18–19",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Transmission of healing remedies through Achilles",
+   "note": "Patroclus learns remedies from Achilles, who had learned them from Chiron.",
+   "source": "Iliad 11.828–832",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lighting Patroclus’ funeral pyre",
+   "note": "Iris carries Achilles’ request to the winds so Patroclus’ pyre burns.",
+   "source": "Iliad 23.192–225",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lighting Patroclus’ funeral pyre",
+   "note": "Boreas answers the prayer and fans Patroclus’ pyre.",
+   "source": "Iliad 23.192–225",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lighting Patroclus’ funeral pyre",
+   "note": "Zephyrus acts with Boreas to fan Patroclus’ pyre.",
+   "source": "Iliad 23.192–225",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The golden funerary urn",
+   "note": "Hephaestus made the urn eventually holding Patroclus’ and Achilles’ bones.",
+   "source": "Odyssey 24.73–84",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The golden funerary urn",
+   "note": "Dionysus gave Thetis the urn eventually containing Patroclus’ bones.",
+   "source": "Odyssey 24.73–84",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Patroclus awaits burial among the dead",
+   "note": "Patroclus’ ghost remains excluded from Hades’ dead until cremation.",
+   "source": "Iliad 23.69–76",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Spercheus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Achilles’ redirected hair offering",
+   "note": "Achilles gives Patroclus the hair previously vowed to the river Spercheus.",
+   "source": "Iliad 23.141–151",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nestor",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "The borrowed-armor plan",
+   "note": "Nestor urges Patroclus to persuade Achilles or borrow his armor.",
+   "source": "Iliad 11.655–803",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurypylus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Treatment of Eurypylus’ wound",
+   "note": "Patroclus removes an arrow, washes the wound, and applies a medicinal root.",
+   "source": "Iliad 11.804–848",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briseis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Custody and promised marriage",
+   "note": "Patroclus receives Briseis and later promises to arrange her marriage to Achilles.",
+   "source": "Iliad 1.337–347; 19.282–300",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Iphis sleeps beside Patroclus",
+   "note": "Achilles allotted the captive Iphis to Patroclus, and she shares his bed.",
+   "source": "Iliad 9.663–668",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Automedon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Patroclus’ Myrmidon aristeia",
+   "note": "Automedon drives Achilles’ immortal horses for Patroclus and fights beside him.",
+   "source": "Iliad 16–17",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Alcimedon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Myrmidon battle and corpse struggle",
+   "note": "Alcimedon commands under Patroclus and later joins the fight over his corpse.",
+   "source": "Iliad 16–17",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menesthius",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Patroclus leads the Myrmidons",
+   "note": "Menesthius commands one Myrmidon company under Patroclus.",
+   "source": "Iliad 16.173–178",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eudorus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Patroclus leads the Myrmidons",
+   "note": "Eudorus commands one Myrmidon company under Patroclus.",
+   "source": "Iliad 16.179–192",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peisander",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Patroclus leads the Myrmidons",
+   "note": "Peisander commands one Myrmidon company under Patroclus.",
+   "source": "Iliad 16.193–197",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Patroclus leads the Myrmidons",
+   "note": "Phoenix commands one Myrmidon company under Patroclus.",
+   "source": "Iliad 16.196",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery of Patroclus’ corpse",
+   "note": "Menelaus defends Patroclus’ body and kills Euphorbus beside it.",
+   "source": "Iliad 17.1–105",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Telamon",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "rescued_by",
+   "myth": "Recovery of Patroclus’ corpse",
+   "note": "Ajax shields Patroclus’ body and helps recover it from battle.",
+   "source": "Iliad 17.120–753",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax son of Oileus",
+   "other_aliases": [
+    "Ajax"
+   ],
+   "kind": "rescued_by",
+   "myth": "Recovery of Patroclus’ corpse",
+   "note": "Ajax joins the Achaean defense of Patroclus’ corpse.",
+   "source": "Iliad 17.256 onward",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meriones",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery and funeral of Patroclus",
+   "note": "Meriones helps carry Patroclus’ corpse away and organizes funeral wood.",
+   "source": "Iliad 17; 23",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense and funeral of Patroclus",
+   "note": "Idomeneus joins the defense of Patroclus and the funeral community.",
+   "source": "Iliad 17; 23",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Antilochus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "News of Patroclus’ death",
+   "note": "Antilochus tells Achilles of Patroclus’ death and restrains his hands.",
+   "source": "Iliad 18.1–34",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Achaean coalition and funeral",
+   "note": "Patroclus serves in Agamemnon’s coalition; Agamemnon organizes funeral labor.",
+   "source": "Iliad 1; 19; 23",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clysonymus",
+   "other_aliases": [
+    "Amphidamas’ son"
+   ],
+   "kind": "killed",
+   "myth": "Childhood dice-game quarrel",
+   "note": "Patroclus unintentionally kills Amphidamas’ son, later named Clysonymus, during a quarrel.",
+   "source": "Iliad 23.85–88; Apollodorus 3.13.8",
+   "date": "Archaic; first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Telephus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Mysian expedition before Troy",
+   "note": "Patroclus supports Achilles when Telephus routs the Achaeans in Mysia.",
+   "source": "Pindar, Olympian 9.70–79",
+   "date": "466 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Las",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Laconian Helen-suitor tradition",
+   "note": "A Laconian variant says Patroclus, rather than Achilles, killed Las.",
+   "source": "Pausanias 3.24.10",
+   "date": "approximately 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diomedea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Diomedea mourns and clothes Patroclus",
+   "note": "Dictys makes Diomedea Patroclus’ beloved and helper in clothing his body.",
+   "source": "Dictys, Ephemeris 3",
+   "date": "Imperial or late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Single combat during Patroclus’ aristeia",
+   "note": "Patroclus kills Zeus’ son Sarpedon in single combat.",
+   "source": "Iliad 16.419–507",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus pursues and fights Hector before Apollo disables him.",
+   "source": "Iliad 16.698–867",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The final wound of Patroclus",
+   "note": "After Apollo and Euphorbus disable Patroclus, Hector delivers the fatal spear thrust.",
+   "source": "Iliad 16.788–867",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Stripping Achilles’ armor",
+   "note": "Hector strips Achilles’ armor from Patroclus and tries to seize his corpse.",
+   "source": "Iliad 16–17",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euphorbus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The wounding of Patroclus",
+   "note": "Euphorbus wounds Patroclus between the shoulders after Apollo disables him.",
+   "source": "Iliad 16.806–829",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cebriones",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle over Cebriones’ corpse",
+   "note": "Patroclus kills Hector’s charioteer Cebriones with a stone.",
+   "source": "Iliad 16.733–782",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pyraechmes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus drives Trojans from the ships",
+   "note": "Patroclus kills the Paeonian leader Pyraechmes.",
+   "source": "Iliad 16.284–292",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thestor son of Enops",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ aristeia",
+   "note": "Patroclus kills Thestor at close quarters inside his chariot.",
+   "source": "Iliad 16.401–410",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenelaus son of Ithaemenes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ aristeia",
+   "note": "Patroclus kills Sthenelaus with a stone blow to the neck.",
+   "source": "Iliad 16.582–585",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thrasymelus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Combat with Sarpedon",
+   "note": "Patroclus kills Sarpedon’s companion immediately before attacking Sarpedon.",
+   "source": "Iliad 16.463–467",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adrastus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Adrastus during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Autonous",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Autonous during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echeclus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Echeclus during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perimus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Perimus during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Epistor",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Epistor during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Melanippus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Melanippus during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Elasus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Elasus during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mulius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Mulius during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pylartes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Patroclus’ final charge",
+   "note": "Patroclus kills Pylartes during his final assault toward Troy.",
+   "source": "Iliad 16.692–697",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  }
+ ]
+}

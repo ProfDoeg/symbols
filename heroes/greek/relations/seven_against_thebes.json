@@ -1,0 +1,57 @@
+{
+ "subject": "seven_against_thebes",
+ "relations": [
+  {
+   "other": "Hypsipyle",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hypsipyle guides the thirsty army to a spring",
+   "note": "She leaves Opheltes temporarily and guides the Seven to water at Nemea.",
+   "source": "Euripides Hypsipyle",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Opheltes",
+   "other_aliases": [
+    "Archemorus"
+   ],
+   "kind": "other",
+   "myth": "Funeral of Opheltes and founding of Nemean Games",
+   "note": "After a serpent kills Opheltes, the Seven conduct his funeral games.",
+   "source": "Euripides Hypsipyle",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery and burial of the fallen Seven",
+   "note": "Theseus defeats the Thebans and recovers the fallen attackers’ bodies for burial.",
+   "source": "Euripides Suppliant Women",
+   "date": "c. 423 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Peaceful recovery of the fallen Seven",
+   "note": "A competing tradition says Theseus recovered their bodies through agreement rather than conquest.",
+   "source": "Pausanias 1.39.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Invocation before the assault on Thebes",
+   "note": "The expedition invokes martial destruction and symbolically claims Ares’ favor.",
+   "source": "Aeschylus Seven against Thebes",
+   "date": "467 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

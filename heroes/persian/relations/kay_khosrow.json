@@ -1,0 +1,829 @@
+{
+ "subject": "kay_khosrow",
+ "relations": [
+  {
+   "other": "Ahura Mazdā",
+   "other_aliases": [
+    "Ohrmazd"
+   ],
+   "kind": "served",
+   "myth": "Final Renovation",
+   "note": "His glory, victories, and future service belong to Mazdean sacred order.",
+   "source": "Yašt 19; Middle Persian eschatology",
+   "date": "first millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Arədvī Sūrā Anāhitā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Lake Caēcasta chariot contest",
+   "note": "He sacrifices for victory, and she grants his request.",
+   "source": "Yašt 5.49–50",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Druuāspā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Vengeance against Fraŋrasiiān",
+   "note": "He sacrifices to her for the power to kill Fraŋrasiiān.",
+   "source": "Yašt 9.17–23",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Wāy"
+   ],
+   "kind": "gift",
+   "myth": "Sacrifice to Vāyu",
+   "note": "Haosrauuah sacrifices to Vāyu for divine assistance.",
+   "source": "Yašt 15.32",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Wāy"
+   ],
+   "kind": "rescued_by",
+   "myth": "Journey to immortality",
+   "note": "Wāy transports him and participates in his passage to immortality.",
+   "source": "Bundahišn 35.3; Sūdgar Nask summary",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aši",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Vengeance against Fraŋrasiiān",
+   "note": "He petitions her for victory and vengeance for Siiāuuaršan and Aγraēraθa.",
+   "source": "Yašt 17.41–43",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ādur Gušnasp",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Destruction of Lake Čēčast idol temple",
+   "note": "The sacred fire rides or shines beside him during the temple’s destruction.",
+   "source": "Bundahišn 18.12",
+   "date": "ninth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sōšāns",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Final Renovation",
+   "note": "Kay Husrōy assists Sōšāns and facilitates resurrection and the Final Body.",
+   "source": "Dēnkard 3.343; Mēnōy ī Xrad 26",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zardušt",
+   "other_aliases": [
+    "Zoroaster"
+   ],
+   "kind": "shared_myth",
+   "myth": "Restoration of rule and religion",
+   "note": "Later eschatology assigns them distinct roles in restoring righteous rule and religion.",
+   "source": "Middle Persian eschatological texts",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zardušt",
+   "other_aliases": [
+    "Zoroaster"
+   ],
+   "kind": "shared_myth",
+   "myth": "Recipients of divine light",
+   "note": "Suhrawardi presents both as recipients of divine or Kayanian illumination.",
+   "source": "Suhrawardi’s philosophical writings",
+   "date": "late twelfth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Soruš",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Dream revealing the hidden prince",
+   "note": "Soruš reveals Kay Khosrow’s survival to Godarz, enabling his rescue.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soruš",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Kay Khosrow’s disappearance",
+   "note": "Soruš later meets or summons the king before his disappearance.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haoma",
+   "other_aliases": [
+    "Hōm"
+   ],
+   "kind": "allied",
+   "myth": "Capture of Fraŋrasiiān",
+   "note": "Haoma captures Fraŋrasiiān and delivers him bound to Kay Khosrow.",
+   "source": "Yašts 9 and 17",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Haoma",
+   "other_aliases": [
+    "Hōm"
+   ],
+   "kind": "allied",
+   "myth": "Afrasiyab drawn from Lake Čičast",
+   "note": "Hōm captures and binds Afrasiyab before bringing him for execution.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siiāuuaršan",
+   "other_aliases": [
+    "Siyavash"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Siiāuuaršan is Kay Khosrow’s father in Avestan and later traditions.",
+   "source": "Yašt 13.132–137",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Siiāuuaršan",
+   "other_aliases": [
+    "Siyavash"
+   ],
+   "kind": "other",
+   "myth": "Vengeance for Siyavash",
+   "note": "Kay Khosrow wages war and kills Afrasiyab to avenge his father.",
+   "source": "Yašts 17 and 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Farangis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Farangis is his mother in Ferdowsi’s genealogy.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wesfāfarid",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ṭabari names Wesfāfarid as Kay Khosrow’s mother.",
+   "source": "Ṭabari, History of Prophets and Kings",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Farangis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Escape across the Oxus",
+   "note": "Mother and son flee Turan and cross the Oxus together.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kavus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Kay Kavus is Kay Khosrow’s paternal grandfather.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kay Kavus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Bahman fortress succession test",
+   "note": "Kay Kavus tests his fitness for succession against Fariborz.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Afrasiyab",
+   "other_aliases": [
+    "Fraŋrasiiān"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Afrasiyab is Kay Khosrow’s maternal grandfather in Ferdowsi.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Afrasiyab",
+   "other_aliases": [
+    "Fraŋrasiiān"
+   ],
+   "kind": "fought",
+   "myth": "Wars of vengeance",
+   "note": "Kay Khosrow pursues his principal enemy through repeated campaigns.",
+   "source": "Yašts 9, 17, and 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Afrasiyab",
+   "other_aliases": [
+    "Fraŋrasiiān"
+   ],
+   "kind": "killed",
+   "myth": "Execution beside Lake Caēcasta",
+   "note": "Haosrauuah kills him in vengeance for Siiāuuaršan and Aγraēraθa.",
+   "source": "Yašt 19.73–78",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Afrasiyab",
+   "other_aliases": [
+    "Fraŋrasiiān"
+   ],
+   "kind": "killed",
+   "myth": "Execution after capture by Hōm",
+   "note": "Kay Khosrow cuts the captured Afrasiyab in two despite passing compassion.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Afrasiyab",
+   "other_aliases": [
+    "Fraŋrasiiān"
+   ],
+   "kind": "killed",
+   "myth": "Afrasiyab’s blood in a cup",
+   "note": "A variant brings Afrasiyab’s blood so Kay Khosrow can dip his hand.",
+   "source": "Balʿami’s History",
+   "date": "later tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aγraēraθa",
+   "other_aliases": [
+    "Aghrirath"
+   ],
+   "kind": "other",
+   "myth": "Vengeance for Aγraēraθa",
+   "note": "Kay Khosrow avenges Aγraēraθa’s killing alongside his father’s death.",
+   "source": "Yašts 17 and 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kərəsauuazda",
+   "other_aliases": [
+    "Garsivaz"
+   ],
+   "kind": "fought",
+   "myth": "Binding beside Lake Caēcasta",
+   "note": "Haosrauuah binds Kərəsauuazda together with Fraŋrasiiān.",
+   "source": "Yašt 19.77",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kərəsauuazda",
+   "other_aliases": [
+    "Garsivaz"
+   ],
+   "kind": "punished",
+   "myth": "Afrasiyab drawn from hiding",
+   "note": "Kay Khosrow has Garsivaz tortured so his cries expose Afrasiyab.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pirān",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Kay Khosrow’s hidden childhood",
+   "note": "Pirān protects and raises him in Turan, concealing him from Afrasiyab.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pirān",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wars of vengeance",
+   "note": "Pirān later commands Turanian forces against Kay Khosrow’s armies.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pirān",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mourning after Twelve Champions",
+   "note": "Kay Khosrow mourns Pirān after Godarz kills his former protector.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gēv",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Seven-year search in Turan",
+   "note": "Gēv finds Kay Khosrow and escorts him and Farangis to Iran.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gēv",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Conquest of Bahman fortress",
+   "note": "Gēv accompanies Kay Khosrow during the divinely assisted conquest.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gēv",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Wars and royal commands",
+   "note": "Gēv receives and executes commands during Kay Khosrow’s reign.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gēv",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Gēv accompanies the departing king and dies in the ensuing snowstorm.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Godarz",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dream and rescue mission",
+   "note": "Godarz receives Soruš’s dream and sends Gēv to find Kay Khosrow.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Godarz",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Wars of vengeance",
+   "note": "Godarz commands Kay Khosrow’s armies and kills Pirān.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tus",
+   "other_aliases": [
+    "Tusa"
+   ],
+   "kind": "allied",
+   "myth": "Avestan heroic catalogue",
+   "note": "Tusa appears as Haosrauuah’s ally in the heroic tradition.",
+   "source": "Yašt 5.53–55",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tus",
+   "other_aliases": [
+    "Tusa"
+   ],
+   "kind": "served_by",
+   "myth": "Wars of vengeance",
+   "note": "Tus commands the Iranian army but disobeys Kay Khosrow’s route order.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tus",
+   "other_aliases": [
+    "Tusa"
+   ],
+   "kind": "punished",
+   "myth": "Forud tragedy",
+   "note": "Kay Khosrow punishes or threatens Tus after his disobedience causes Forud’s death.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tus",
+   "other_aliases": [
+    "Tusa"
+   ],
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Tus accompanies the king after warnings and dies in the snowstorm.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vaēsaka and his brood",
+   "other_aliases": [
+    "sons of Vēsa"
+   ],
+   "kind": "fought",
+   "myth": "Iranian-Turanian wars",
+   "note": "Their heroic line forms part of the Turanian opposition to his forces.",
+   "source": "Yašt 5; Shāhnāma",
+   "date": "first millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Fariborz",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Bahman fortress succession test",
+   "note": "Kay Khosrow defeats the rival claimant by taking the demon-held fortress.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fariborz",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Kay Khosrow’s reign",
+   "note": "After losing the succession contest, Fariborz serves Kay Khosrow.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fariborz",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Fariborz accompanies Kay Khosrow and dies in the snowstorm.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rostam",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wars of vengeance",
+   "note": "Rostam champions his cause and leads campaigns against Turanian forces.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rostam",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Rescue of Bizhan",
+   "note": "Kay Khosrow sends Rostam to rescue Bizhan after locating him.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zāl",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Selection of Lohrāsp",
+   "note": "Zāl opposes Kay Khosrow’s chosen successor until the king establishes Lohrāsp’s fitness.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Forud",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Forud is Kay Khosrow’s paternal half-brother through Siyavash.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Forud",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Forud tragedy",
+   "note": "Kay Khosrow orders Forud protected, but Tus’s army kills him.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jarira",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Jarira is the mother of Kay Khosrow’s half-brother Forud.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goruy",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Punishment of Siyavash’s executioner",
+   "note": "Kay Khosrow has Goruy quartered, beheaded, and cast into water.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goruy",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Punishment of Siyavash’s executioner",
+   "note": "Kay Khosrow orders or personally carries out Goruy’s brutal execution.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shida",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Single combat with Shida",
+   "note": "Afrasiyab’s son challenges Kay Khosrow to a duel.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shida",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Single combat with Shida",
+   "note": "Kay Khosrow kills Shida in single combat.",
+   "source": "Shāhnāma; Ebn al-Balḵi",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bizhan",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "World-showing cup",
+   "note": "Kay Khosrow locates the imprisoned Bizhan and dispatches Rostam to rescue him.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bizhan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Bizhan accompanies Kay Khosrow toward disappearance and dies in Ferdowsi’s snowstorm.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bizhan",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Tiragān spring aetiology",
+   "note": "Bizhan revives the swooning king by sprinkling him with spring water.",
+   "source": "Biruni",
+   "date": "ca. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Manizheh",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "World-showing cup",
+   "note": "His cup reveals her location with Bizhan, prompting the rescue expedition.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gorgin",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Betrayal of Bizhan",
+   "note": "Kay Khosrow judges Gorgin for abandoning Bizhan in the pit.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lohrāsp",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Appointment of a successor",
+   "note": "Kay Khosrow grants Lohrāsp the kingship despite noble resistance.",
+   "source": "Middle Persian texts; Shāhnāma",
+   "date": "ninth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gostaham",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final mountain journey",
+   "note": "Gostaham accompanies Kay Khosrow and dies in the snow after his disappearance.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Θraētaona",
+   "other_aliases": [
+    "Fereydun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "Their victories are linked typologically through the same transhistorical weapon.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Θraētaona",
+   "other_aliases": [
+    "Fereydun"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The Oxus episode invokes Fereydun as Kay Khosrow’s ancestral precedent.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Zahhak"
+   ],
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "Aži Dahāka’s defeat is typologically linked to Haosrauuah’s victorious weapon.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vištāspa",
+   "other_aliases": [
+    "Goshtasp"
+   ],
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "They are linked through the same weapon and later restoration traditions.",
+   "source": "Yašt 19; Pahlavi Rivāyat",
+   "date": "first millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Astuuat̰.ərəta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "The future savior inherits the weapon associated with Haosrauuah’s victory.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Astuuat̰.ərəta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Final Renovation",
+   "note": "Kay Husrōy assists the future savior’s Renovation.",
+   "source": "Middle Persian eschatological texts",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Āxrūra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Āxrūra is Haosrauuah’s son; both of their fravašis are venerated.",
+   "source": "Yašt 13.137",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Auruuasāra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Auruuasāra’s pursuit",
+   "note": "Auruuasāra seeks divine aid to overtake or defeat Haosrauuah.",
+   "source": "Yašt 15.31",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Borzu",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue of Rostam and Borzu",
+   "note": "Kay Khosrow and the Iranian army come to Borzu’s aid.",
+   "source": "Borzu-nāma",
+   "date": "eleventh–twelfth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Borzu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Reward after rescue",
+   "note": "Kay Khosrow rewards Borzu with Ghur and Herat.",
+   "source": "Borzu-nāma",
+   "date": "eleventh–twelfth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jamshid",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Conflation of world-showing cups",
+   "note": "Medieval literature conflates Kay Khosrow’s cup with Jamshid’s world-revealing cup.",
+   "source": "Medieval Persian literary tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Solomon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cup and ring object lore",
+   "note": "Learned tradition connects the world-showing cup with Solomon’s magical ring.",
+   "source": "Medieval learned tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Alexander",
+   "other_aliases": [
+    "Eskandar"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wisdom and cave traditions",
+   "note": "Later synchronism connects their wisdom quests, cups, caves, and vanished-king traditions.",
+   "source": "Medieval romance and historiography",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Khiżr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Immortality and water traditions",
+   "note": "Later wonder lore associates both with water, immortality, cups, and vanished kings.",
+   "source": "Medieval accretion",
+   "date": "medieval period",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,752 @@
+{
+ "subject": "medb",
+ "relations": [
+  {
+   "other": "Eochaid Feidlech",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Medieval genealogies name Eochaid as Medb’s father.",
+   "source": "Cath Bóinde and genealogies",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eochaid Feidlech",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War following Conchobar’s assault",
+   "note": "Eochaid responds to Conchobar’s assault on Medb and supports her authority.",
+   "source": "Cath Bóinde",
+   "date": "Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eithne Uathach",
+   "other_aliases": [
+    "Eithne"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eithne is named as Medb’s sister.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clothru",
+   "other_aliases": [
+    "Clothru Cruachan"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Clothru is Medb’s sister and predecessor at Cruachan.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clothru",
+   "other_aliases": [
+    "Clothru Cruachan"
+   ],
+   "kind": "killed",
+   "myth": "Medb’s seizure of Connacht",
+   "note": "Medb kills Clothru and subsequently takes Connacht.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Bres is one of Medb’s three brothers, the Trí Find Emna.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nár",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nár is one of Medb’s three brothers, the Trí Find Emna.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lothar",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lothar is one of Medb’s three brothers, the Trí Find Emna.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lugaid Riab nDerg",
+   "other_aliases": [
+    "Lugaid of the Red Stripes"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Lugaid, Clothru’s son by Medb’s brothers, is Medb’s nephew.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eochaid gives Medb to Conchobar as her first husband.",
+   "source": "Cath Bóinde",
+   "date": "Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "punished_by",
+   "myth": "Assault at the Boyne assembly",
+   "note": "Conchobar rapes Medb after their marriage has failed.",
+   "source": "Cath Bóinde",
+   "date": "later medieval transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Conchobar mac Nessa",
+   "other_aliases": [
+    "Conchobar"
+   ],
+   "kind": "fought",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Medb invades Conchobar’s province and wages war against Ulster.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tinni mac Conrach",
+   "other_aliases": [
+    "Tinde mac Conrach"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tinni is Medb’s husband and a king of Connacht.",
+   "source": "Cath Bóinde",
+   "date": "Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eochaid Dála",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Connachta retreat after Tinni’s death",
+   "note": "Eochaid protects Medb and the retreating Connachta.",
+   "source": "Cath Bóinde",
+   "date": "Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eochaid Dála",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eochaid marries Medb and becomes king through their union.",
+   "source": "Cath Bóinde",
+   "date": "Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ailill mac Máta",
+   "other_aliases": [
+    "Ailill son of Ross Ruad"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ailill is Medb’s principal husband and co-ruler of Connacht.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ailill mac Máta",
+   "other_aliases": [
+    "Ailill son of Ross Ruad"
+   ],
+   "kind": "allied",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Medb and Ailill jointly command the invasion of Ulster.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Conán Cualann",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Expanded husband lists associate Conán with Medb.",
+   "source": "Genealogical notices",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ailill mac Mágach",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Expanded husband lists associate Ailill mac Mágach with Medb.",
+   "source": "Genealogical notices",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fergus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Fergus maintains a sexual relationship with Medb.",
+   "source": "Táin and Aided Fergusa",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fergus"
+   ],
+   "kind": "allied",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Fergus guides Medb’s army and advises her about Ulster and Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fergus mac Róich",
+   "other_aliases": [
+    "Fergus"
+   ],
+   "kind": "rescued",
+   "myth": "Restoration of Fergus’s sword",
+   "note": "Medb restores or facilitates the return of Fergus’s sword.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Medb commands the army opposed by Ulster’s principal defender.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Medb’s negotiations with Cú Chulainn",
+   "note": "Medb offers cattle, land, women, and rewards to halt his attacks.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rout of the Connacht army",
+   "note": "Cú Chulainn encounters Medb exposed and guards her retreat instead of killing her.",
+   "source": "Táin Bó Cúailnge Recension II",
+   "date": "c. 1160s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fedelm",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fedelm’s crimson prophecy",
+   "note": "Medb questions Fedelm, then rejects her warning of the army’s slaughter.",
+   "source": "Táin Bó Cúailnge Recension I",
+   "date": "eighth–ninth-century strata",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dáire mac Fiachna",
+   "other_aliases": [
+    "Dáire"
+   ],
+   "kind": "other",
+   "myth": "Negotiation for Donn Cúailnge",
+   "note": "Medb negotiates to borrow Dáire’s bull before the agreement collapses.",
+   "source": "Táin Bó Cúailnge Recension II",
+   "date": "c. 1160s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dáire mac Fiachna",
+   "other_aliases": [
+    "Dáire"
+   ],
+   "kind": "fought",
+   "myth": "Seizure of Donn Cúailnge",
+   "note": "Medb attacks after Dáire withdraws permission to lend the bull.",
+   "source": "Táin Bó Cúailnge Recension II",
+   "date": "c. 1160s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Donn Cúailnge",
+   "other_aliases": [
+    "Brown Bull of Cooley"
+   ],
+   "kind": "theft",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Medb invades Ulster to seize the bull and has it driven into camp.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Finnbennach",
+   "other_aliases": [
+    "White-Horned Bull"
+   ],
+   "kind": "other",
+   "myth": "Pillow-talk wealth comparison",
+   "note": "The bull leaves Medb’s herd for Ailill’s, creating the disputed inequality.",
+   "source": "Táin Bó Cúailnge Recension II",
+   "date": "c. 1160s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Findabair",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Findabair is the daughter of Medb and Ailill.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Findabair",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Promises of Findabair’s hand",
+   "note": "Medb repeatedly uses Findabair’s prospective marriage to recruit warriors.",
+   "source": "Táin Bó Cúailnge",
+   "date": "eighth–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fráech",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Fráech’s courtship ordeal",
+   "note": "Medb and Ailill test Fráech and expose him to a water monster.",
+   "source": "Táin Bó Fraích",
+   "date": "Old Irish composition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fráech",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Fráech later joins Medb and Ailill’s military expedition.",
+   "source": "Táin Bó Fraích",
+   "date": "Old Irish composition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fráech",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A disputed ogham reading may call Fráech the son of Medb.",
+   "source": "Oweynagat ogham",
+   "date": "fifth–seventh centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fer Diad",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Combat of Fer Diad",
+   "note": "Medb recruits or coerces Fer Diad with wealth, marriage, threats, and satire.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fiachu mac Fir Fhebe",
+   "other_aliases": [
+    "Fergus’s son"
+   ],
+   "kind": "other",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Fiachu accompanies the exiles in Medb’s host but secretly assists Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cormac Cond Longas",
+   "other_aliases": [
+    "Cormac"
+   ],
+   "kind": "rescued",
+   "myth": "Exile of the sons of Uisliu",
+   "note": "Medb and Ailill shelter the exiled Cormac at Cruachan.",
+   "source": "Longes mac nUislenn",
+   "date": "Old Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cormac Cond Longas",
+   "other_aliases": [
+    "Cormac"
+   ],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Cormac serves in Medb’s host but nearly turns against her.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Conall Cernach",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ulster exiles in the Táin",
+   "note": "Conall appears among the Ulster exiles associated with Medb’s host.",
+   "source": "Táin tradition",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nera",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Nera’s Samain ordeal",
+   "note": "Nera serves Medb’s court and returns with an Otherworld warning.",
+   "source": "Echtra Nerai",
+   "date": "Old–Middle Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Morrígan",
+   "other_aliases": [
+    "Morrígan"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cow raid of Regamna",
+   "note": "Medb and Ailill encounter the Morrígan, her magical cow, and prophecy.",
+   "source": "Táin Bó Regamna",
+   "date": "Old Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Flidais",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cattle raid of Flidais",
+   "note": "Medb joins the campaign that brings Flidais and her cattle from Mayo.",
+   "source": "Táin Bó Flidais",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maine Máthramail",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Máthramail is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Máthramail",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Athramail",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Athramail is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Athramail",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Mórgor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Mórgor is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Mórgor",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Mingor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Mingor is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Mingor",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Móepirt",
+   "other_aliases": [
+    "Maine Milscothach"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Móepirt is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Móepirt",
+   "other_aliases": [
+    "Maine Milscothach"
+   ],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Andóe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Andóe is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Andóe",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Cotagaib Uile",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maine Cotagaib Uile is Medb’s son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maine Cotagaib Uile",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "He leads troops in Medb’s army.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furbaide Ferbend",
+   "other_aliases": [
+    "Furbaide"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Furbaide is Medb’s nephew through Clothru in one genealogy.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Furbaide Ferbend",
+   "other_aliases": [
+    "Furbaide"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Furbaide is Medb’s nephew through Eithne in competing genealogies.",
+   "source": "Cath Bóinde and Dindshenchas",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Furbaide Ferbend",
+   "other_aliases": [
+    "Furbaide"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of Medb at Inis Clothrann",
+   "note": "Furbaide kills Medb with hard cheese fired from a sling.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Findmór",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Raid on northern Ulster",
+   "note": "Medb kills Findmór before sacking Dún Sobairche.",
+   "source": "Táin Bó Cúailnge Recension II",
+   "date": "c. 1160s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nath Crantail",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Combat with Cú Chulainn",
+   "note": "Medb sends her household champion Nath Crantail against Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lóch Mór mac Mo Febis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Combat with Cú Chulainn",
+   "note": "Medb secures Lóch’s combat service by promising rewards and Findabair.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Long mac Emonis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Combat with Cú Chulainn",
+   "note": "Medb recruits Long with clothing, a chariot, hospitality, and Findabair.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cúr mac Da Lóth",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Combat with Cú Chulainn",
+   "note": "Medb summons Cúr to her tent and sends him against Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calatín Dána",
+   "other_aliases": [
+    "Calatín Dána and his twenty-seven sons"
+   ],
+   "kind": "served_by",
+   "myth": "Poisoned attack on Cú Chulainn",
+   "note": "Medb’s host recruits Calatín and his sons against Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Glas mac Delga",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Poisoned attack on Cú Chulainn",
+   "note": "Glas joins the poison-bearing force recruited against Cú Chulainn.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mac Roth",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle Raid of Cooley",
+   "note": "Mac Roth serves as Medb’s herald, scout, negotiator, and army reporter.",
+   "source": "Táin Bó Cúailnge",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medb Lethderg",
+   "other_aliases": [
+    "Medb Red-side",
+    "Medb of Tara"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship reconstructs the two medieval Medbs as one sovereignty figure.",
+   "source": "Ó Máille sovereignty interpretation",
+   "date": "1927",
+   "tier": "syncretism"
+  }
+ ]
+}

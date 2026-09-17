@@ -1,0 +1,361 @@
+{
+ "subject": "oedipus",
+ "relations": [
+  {
+   "other": "Laius",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Laius is Oedipus’s biological father and predecessor in the Labdacid line.",
+   "source": "Pindar, Olympian 2",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Unrecognized patricide at the crossroads",
+   "note": "Oedipus kills Laius without knowing that Laius is his father.",
+   "source": "Odyssey 11.271–280",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jocasta",
+   "other_aliases": [
+    "Epicaste",
+    "Iocasta"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jocasta, called Epicaste by Homer, is Oedipus’s biological mother.",
+   "source": "Odyssey 11.271–280",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jocasta",
+   "other_aliases": [
+    "Epicaste",
+    "Iocasta"
+   ],
+   "kind": "consort_of",
+   "myth": "Unwitting marriage to his mother",
+   "note": "Oedipus unknowingly marries his mother after killing Laius.",
+   "source": "Odyssey 11.271–280",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polybus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Corinthian upbringing",
+   "note": "Polybus raises Oedipus as his son; Oedipus believes him biological.",
+   "source": "Oedipus Tyrannus 774–960",
+   "date": "430–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Merope",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Corinthian upbringing",
+   "note": "Merope is Oedipus’s foster mother, whom he believes biological.",
+   "source": "Oedipus Tyrannus 774–793",
+   "date": "430–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Periboea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Corinthian upbringing",
+   "note": "Periboea replaces Merope as Oedipus’s foster mother in this variant.",
+   "source": "Apollodorus, Bibliotheca 3.5.7",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Euryganeia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Euryganeia is Oedipus’s wife and mother of his four children.",
+   "source": "Oedipodeia, cited by Pausanias 9.5.10",
+   "date": "seventh or sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astymedusa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Astymedusa appears as an additional wife in later scholastic genealogies.",
+   "source": "Ancient scholia",
+   "date": "uncertain compilation date",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eteocles is one of Oedipus’s two securely established sons.",
+   "source": "Pindar, Olympian 2",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eteocles",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Curse of the sons",
+   "note": "Oedipus curses Eteocles and his brother to divide their inheritance by violence.",
+   "source": "Aeschylus, Seven against Thebes",
+   "date": "467 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Polynices is one of Oedipus’s two securely established sons.",
+   "source": "Pindar, Olympian 2",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polynices",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Polynices petitions Oedipus at Colonus",
+   "note": "Oedipus refuses Polynices’s request and curses the brothers to mutual death.",
+   "source": "Oedipus at Colonus 1249–1446",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Antigone is Oedipus’s daughter in fifth-century tragedy.",
+   "source": "Sophocles, Antigone",
+   "date": "442 or 441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antigone",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Oedipus’s wandering and arrival at Colonus",
+   "note": "Antigone guides, supports, and cares for her blind father.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ismene is Oedipus’s daughter in fifth-century tragedy.",
+   "source": "Sophocles, Antigone",
+   "date": "442 or 441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ismene brings news to Colonus",
+   "note": "Ismene brings Oedipus political news and oracular information from Thebes.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menoeceus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Oedipus is Menoeceus’s maternal grandson through Jocasta.",
+   "source": "Tragic and mythographic genealogy",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Labdacus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Oedipus descends from Labdacus through his father Laius.",
+   "source": "Tragic and mythographic genealogy",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "other",
+   "myth": "Oracles of patricide, incest, and pollution",
+   "note": "Apollo predicts Oedipus’s crimes and commands investigation of Laius’s unpunished murder.",
+   "source": "Pindar; Sophocles, Oedipus Tyrannus",
+   "date": "476–420 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Oedipus’s appointed death at Colonus",
+   "note": "Zeus’s thunder signals that Oedipus’s destined death has arrived.",
+   "source": "Oedipus at Colonus 1456–1511",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides"
+   ],
+   "kind": "punished_by",
+   "myth": "Ruin inherited by Oedipus’s sons",
+   "note": "Oedipus’s Erinys carries familial ruin into his sons’ mutual destruction.",
+   "source": "Pindar, Olympian 2.41–45",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eumenides",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "other",
+   "myth": "Arrival in the sacred grove at Colonus",
+   "note": "Oedipus enters their grove, prays to them, and gains his destined resting place.",
+   "source": "Oedipus at Colonus 36–110",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Arrival in Athena’s territory",
+   "note": "Oedipus invokes Athena’s city and territory without meeting her personally.",
+   "source": "Oedipus at Colonus 107–109",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Poseidon Hippios"
+   ],
+   "kind": "other",
+   "myth": "Protective burial in sacred Colonus",
+   "note": "Oedipus’s promised grave enters the Colonus landscape sacred to Poseidon.",
+   "source": "Oedipus at Colonus 668–719",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Secret burial at Eteonos",
+   "note": "Oedipus’s rejected corpse is secretly buried within Demeter’s precinct.",
+   "source": "Lysimachus tradition preserved by scholia",
+   "date": "uncertain ancient date",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Oedipus anticipates entering the underworld",
+   "note": "Oedipus speaks of entering Hades, but no direct meeting is narrated.",
+   "source": "Sophoclean laments",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Sphinx",
+   "other_aliases": [
+    "Sphinx"
+   ],
+   "kind": "contest",
+   "myth": "The riddle of human life",
+   "note": "Oedipus defeats the Sphinx by answering her riddle; she then destroys herself.",
+   "source": "Apollodorus, Bibliotheca 3.5.8",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Oedipus receives rule after defeating the Sphinx",
+   "note": "Creon yields or helps confer Theban rule upon Oedipus.",
+   "source": "Apollodorus, Bibliotheca 3.5.8",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Investigation of Laius’s murder",
+   "note": "Oedipus falsely accuses Creon of conspiring with Tiresias to seize power.",
+   "source": "Oedipus Tyrannus 532–633",
+   "date": "430–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Creon’s coercion at Colonus",
+   "note": "Oedipus resists Creon’s attempt to abduct his daughters and compel his return.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Tiresias reveals the hidden polluter",
+   "note": "Tiresias identifies Oedipus as Laius’s killer and his mother’s incestuous husband.",
+   "source": "Oedipus Tyrannus 300–462",
+   "date": "430–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Asylum and protection at Colonus",
+   "note": "Theseus protects Oedipus from Creon, restores his daughters, and grants asylum.",
+   "source": "Sophocles, Oedipus at Colonus",
+   "date": "401 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Secret grave protecting Athens",
+   "note": "Oedipus entrusts Theseus with his grave’s secret and protective power.",
+   "source": "Oedipus at Colonus 1518–1666",
+   "date": "401 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

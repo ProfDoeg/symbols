@@ -1,0 +1,114 @@
+{
+ "subject": "owain",
+ "relations": [
+  {
+   "other": "Modron",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Welsh tradition names Modron daughter of Afallach as Owain's mother.",
+   "source": "Welsh Triads",
+   "date": "medieval manuscripts",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Afallach",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Afallach is Owain's maternal grandfather through Modron.",
+   "source": "Welsh Triads",
+   "date": "medieval manuscripts",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Morgan le Fay",
+   "other_aliases": [
+    "Morgan the Wise"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Arthurian genealogies make Morgan Owain's mother instead of Modron.",
+   "source": "Post-Vulgate and Le Morte Darthur",
+   "date": "thirteenth–fifteenth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Morgan le Fay",
+   "other_aliases": [
+    "Morgan the Wise"
+   ],
+   "kind": "gift",
+   "myth": "Yvain's recovery from madness",
+   "note": "Morgan's magical ointment, administered by an attendant, cures Yvain's madness.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  },
+  {
+   "other": "Owain's ravens",
+   "other_aliases": [
+    "the ravens"
+   ],
+   "kind": "served_by",
+   "myth": "The ravens retaliate against Arthur's forces",
+   "note": "Owain commands his supernatural war-birds to attack Arthur's men.",
+   "source": "The Dream of Rhonabwy",
+   "date": "late twelfth–early fourteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the lion",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "The lion's battle with the serpent",
+   "note": "Yvain chooses to save the lion from a serpent or dragon.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  },
+  {
+   "other": "the lion",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Adventures of the Knight of the Lion",
+   "note": "The grateful lion becomes Yvain's voluntary companion and co-combatant.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  },
+  {
+   "other": "the serpent/dragon",
+   "other_aliases": [
+    "serpent",
+    "dragon"
+   ],
+   "kind": "killed",
+   "myth": "The lion's battle with the serpent",
+   "note": "Yvain kills the serpent or dragon while rescuing the lion.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harpin of the Mountain",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rescue from Harpin of the Mountain",
+   "note": "Yvain defeats the giant to rescue captives and aid Gawain's relatives.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  },
+  {
+   "other": "the two sons of the devil",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The Pesme Aventure",
+   "note": "Yvain defeats two demonic opponents guarding an exploitative labor castle.",
+   "source": "Chrétien, Yvain",
+   "date": "c. 1177–1181",
+   "tier": "canonical"
+  }
+ ]
+}

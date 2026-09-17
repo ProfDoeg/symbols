@@ -1,0 +1,4133 @@
+{
+ "folder": "roman",
+ "gods": [
+  "aeneas_hero",
+  "ascanius",
+  "camilla",
+  "cloelia",
+  "coriolanus",
+  "cumaean_sibyl",
+  "evander",
+  "horatii_and_curiatii",
+  "horatius_cocles",
+  "lavinia",
+  "lucretia",
+  "marcus_curtius",
+  "mucius_scaevola",
+  "nisus_and_euryalus",
+  "pallas",
+  "regulus",
+  "romulus_and_remus",
+  "tarpeia",
+  "turnus",
+  "verginia"
+ ],
+ "relations": [
+  {
+   "a": "aeneas_hero",
+   "b": "ascanius",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ascanius is normally Aeneas's son by Creusa and his dynastic heir.",
+   "source": "Roman tradition; Aeneid",
+   "date": "late Republic–Augustan age",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero",
+    "ascanius"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "ascanius",
+   "kind": "served_by",
+   "myth": "Defense of the Trojan camp",
+   "note": "Ascanius governs the Trojan camp while Aeneas is absent.",
+   "source": "Virgil, Aeneid 9",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "ascanius",
+   "kind": "shared_myth",
+   "myth": "Escape from Troy and migration to Italy",
+   "note": "Aeneas leads Ascanius from Troy and takes him through the Mediterranean migration.",
+   "source": "Virgil, Aeneid 1–5",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "cloelia",
+   "kind": "shared_myth",
+   "myth": "Shield of Aeneas",
+   "note": "Aeneas views Cloelia’s future deed represented on his divine shield.",
+   "source": "Virgil, Aeneid 8.625–731",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "cloelia"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "cumaean_sibyl",
+   "kind": "rescued_by",
+   "myth": "Aeneas descends into the underworld",
+   "note": "She conducts Aeneas safely through the underworld and brings him to Anchises.",
+   "source": "Virgil, Aeneid 6",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "cumaean_sibyl"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "cumaean_sibyl",
+   "kind": "taught_by",
+   "myth": "Descent to the dead",
+   "note": "The Sibyl instructs and guides Aeneas through the underworld.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "cumaean_sibyl",
+   "kind": "taught_by",
+   "myth": "Prophecy of war in Italy",
+   "note": "The Sibyl foretells Aeneas’ Italian wars and instructs him about burial and the golden bough.",
+   "source": "Virgil, Aeneid 6",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "cumaean_sibyl"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "evander",
+   "kind": "allied",
+   "myth": "Alliance at Pallanteum",
+   "note": "Evander hosts Aeneas and supplies troops under Pallas.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "evander",
+   "kind": "allied",
+   "myth": "Aeneas visits Pallanteum",
+   "note": "Evander welcomes Aeneas, tours future Rome, and directs him toward Etruscan aid.",
+   "source": "Virgil, Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "evander",
+   "kind": "gift",
+   "myth": "Pallas entrusted to Aeneas",
+   "note": "Evander entrusts his son Pallas and an Arcadian cavalry force to Aeneas.",
+   "source": "Virgil, Aeneid 8.558–584",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "horatius_cocles",
+   "kind": "shared_myth",
+   "myth": "Cocles depicted on Aeneas’ shield",
+   "note": "Cocles appears as a future Roman exemplar on Aeneas’ divine shield.",
+   "source": "Virgil, Aeneid 8.646–651",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "horatius_cocles"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "lavinia",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aeneas marries Latinus's daughter and establishes his Italian dynasty.",
+   "source": "Livy 1; Aeneid",
+   "date": "late 1st century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "lavinia",
+   "kind": "consort_of",
+   "myth": "Marriage of Aeneas and Lavinia",
+   "note": "Lavinia is given in marriage to Aeneas after his arrival in Italy.",
+   "source": "Cato, Origines Book 1 fragment",
+   "date": "mid-second century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "lavinia"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "lavinia",
+   "kind": "other",
+   "myth": "Foundation of Lavinium",
+   "note": "Aeneas founds Lavinium and names the city after Lavinia.",
+   "source": "Livy, Ab urbe condita 1.1",
+   "date": "late first century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "lavinia"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "nisus_and_euryalus",
+   "kind": "gift",
+   "myth": "Anchises’ funeral footrace",
+   "note": "Aeneas awards Euryalus victory prizes and gives Nisus a consolation shield.",
+   "source": "Virgil, Aeneid 5.286–361",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "nisus_and_euryalus",
+   "kind": "served_by",
+   "myth": "Trojan campaign in Latium",
+   "note": "Nisus serves among Aeneas's Trojan followers and dies during a night raid.",
+   "source": "Aeneid 5, 9",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "nisus_and_euryalus",
+   "kind": "served_by",
+   "myth": "Trojan service and mission through the Rutulian lines",
+   "note": "They follow Aeneas and volunteer to carry news to him.",
+   "source": "Virgil, Aeneid 5.286–361; 9.177–196",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "pallas",
+   "kind": "allied",
+   "myth": "Italian war",
+   "note": "Pallas fights as Aeneas's young ally under his protection.",
+   "source": "Aeneid 8–12",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "pallas",
+   "kind": "allied",
+   "myth": "Alliance at Pallanteum",
+   "note": "Pallas welcomes Aeneas, becomes his allied commander, and fights beside the Trojans.",
+   "source": "Virgil, Aeneid 8–10",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "pallas",
+   "kind": "other",
+   "myth": "Funeral and vengeance",
+   "note": "Aeneas prepares Pallas’s funeral procession and later kills Turnus in his name.",
+   "source": "Virgil, Aeneid 11; 12",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "pallas",
+   "kind": "taught",
+   "myth": "Evander entrusts Pallas",
+   "note": "Evander places Pallas under Aeneas as his teacher in warfare.",
+   "source": "Virgil, Aeneid 8.514–519",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "romulus_and_remus",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Canonical Roman genealogy makes Romulus Aeneas's remote descendant through the Alban kings.",
+   "source": "Aeneid 1, 6",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero",
+    "romulus_and_remus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "romulus_and_remus",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Compressed Greek genealogical variants make Romulus or Romus Aeneas's son.",
+   "source": "Greek foundation variants",
+   "date": "classical–Hellenistic periods",
+   "tier": "regional_variant",
+   "stated_by": [
+    "aeneas_hero",
+    "romulus_and_remus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "turnus",
+   "kind": "contest",
+   "myth": "Rivalry for Lavinia and Latin sovereignty",
+   "note": "Turnus and Aeneas rival one another for Lavinia and political supremacy.",
+   "source": "Livy 1.2; Virgil, Aeneid 7–12",
+   "date": "late first century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turnus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "turnus",
+   "kind": "fought",
+   "myth": "War for Lavinia",
+   "note": "Turnus wages war against Aeneas as rival claimant to Lavinia.",
+   "source": "Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "turnus",
+   "kind": "fought",
+   "myth": "Trojan-Rutulian war",
+   "note": "Turnus commands the Italian coalition against Aeneas and repeatedly seeks battle with him.",
+   "source": "Virgil, Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "turnus"
+   ]
+  },
+  {
+   "a": "aeneas_hero",
+   "b": "turnus",
+   "kind": "killed",
+   "myth": "Final duel",
+   "note": "Aeneas kills the defeated Turnus after recognizing Pallas's belt.",
+   "source": "Aeneid 12",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "aeneas_hero",
+    "turnus"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "lavinia",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Livy reports a version making Ascanius the Italian-born son of Lavinia.",
+   "source": "Livy 1.3",
+   "date": "late first century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "lavinia",
+   "kind": "shared_myth",
+   "myth": "Ascanius leaves Lavinium",
+   "note": "Ascanius leaves prosperous Lavinium to Lavinia, described as his mother or stepmother.",
+   "source": "Livy 1.3",
+   "date": "late first century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "nisus_and_euryalus",
+   "kind": "gift",
+   "myth": "Nisus and Euryalus undertake the night mission",
+   "note": "Ascanius promises Euryalus wealth, status, and care for his mother before the fatal mission.",
+   "source": "Virgil, Aeneid 9.176–313",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "nisus_and_euryalus",
+   "kind": "gift",
+   "myth": "Council before the night mission",
+   "note": "Ascanius gives Euryalus his sword and promises rewards and maternal protection.",
+   "source": "Virgil, Aeneid 9.230–307",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "nisus_and_euryalus",
+   "kind": "served_by",
+   "myth": "Nisus and Euryalus undertake the night mission",
+   "note": "Nisus requests Ascanius’s permission, receives instructions, and carries messages toward Aeneas.",
+   "source": "Virgil, Aeneid 9.176–313",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "nisus_and_euryalus",
+   "kind": "served_by",
+   "myth": "Mission from the besieged Trojan camp",
+   "note": "They present their mission to Ascanius and undertake to reach Aeneas.",
+   "source": "Virgil, Aeneid 9.230–307",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "romulus_and_remus",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Romulus descends remotely from Ascanius through the Alban royal succession.",
+   "source": "Livy 1.3–6",
+   "date": "late first century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius",
+    "romulus_and_remus"
+   ]
+  },
+  {
+   "a": "ascanius",
+   "b": "turnus",
+   "kind": "fought",
+   "myth": "Siege of the Trojan camp",
+   "note": "Ascanius governs the camp besieged by Turnus, though they never duel directly.",
+   "source": "Virgil, Aeneid 9",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "ascanius"
+   ]
+  },
+  {
+   "a": "camilla",
+   "b": "horatii_and_curiatii",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Corneille makes Camille the lover of the Alban Curiace.",
+   "source": "Corneille, Horace",
+   "date": "1640",
+   "tier": "late_accretion",
+   "stated_by": [
+    "horatii_and_curiatii"
+   ]
+  },
+  {
+   "a": "camilla",
+   "b": "horatii_and_curiatii",
+   "kind": "killed_by",
+   "myth": "Horace kills Camille",
+   "note": "Horace kills Camille after she denounces Rome and mourns Curiace.",
+   "source": "Corneille, Horace",
+   "date": "1640",
+   "tier": "late_accretion",
+   "stated_by": [
+    "horatii_and_curiatii"
+   ]
+  },
+  {
+   "a": "camilla",
+   "b": "horatii_and_curiatii",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Corneille names Horace's sister Camille, replacing the ancient unnamed Horatia.",
+   "source": "Corneille, Horace",
+   "date": "1640",
+   "tier": "late_accretion",
+   "stated_by": [
+    "horatii_and_curiatii"
+   ]
+  },
+  {
+   "a": "camilla",
+   "b": "tarpeia",
+   "kind": "allied",
+   "myth": "Cavalry battle",
+   "note": "Tarpeia fights beside Camilla while carrying a bronze axe.",
+   "source": "Virgil, Aeneid 11.655–658",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "camilla"
+   ]
+  },
+  {
+   "a": "camilla",
+   "b": "turnus",
+   "kind": "allied",
+   "myth": "War against Aeneas's forces",
+   "note": "Camilla commands cavalry for Turnus and summons him to defend the city.",
+   "source": "Virgil, Aeneid 11.498–521, 823–835, 896–915",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "camilla"
+   ]
+  },
+  {
+   "a": "cloelia",
+   "b": "horatius_cocles",
+   "kind": "shared_myth",
+   "myth": "Images on Aeneas’ shield",
+   "note": "Virgil juxtaposes images of Cocles and Cloelia without a personal encounter.",
+   "source": "Virgil, Aeneid 8.646–651",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "horatius_cocles"
+   ]
+  },
+  {
+   "a": "cloelia",
+   "b": "horatius_cocles",
+   "kind": "shared_myth",
+   "myth": "Republican prodigies and marvels",
+   "note": "Florus groups Cocles and Cloelia among Rome’s republican marvels.",
+   "source": "Florus, Epitome 1.4",
+   "date": "early second century CE",
+   "tier": "canonical",
+   "stated_by": [
+    "horatius_cocles"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The Polybian variant makes Pallas Evander’s grandson through Lavinia.",
+   "source": "Dionysius, Roman Antiquities 1.32.1",
+   "date": "2nd c. BCE tradition",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pallas is Evander’s son in Virgil’s dominant tradition.",
+   "source": "Virgil, Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander",
+    "pallas"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "served_by",
+   "myth": "Pallas sent to war",
+   "note": "Evander sends Pallas as military protégé and companion under Aeneas.",
+   "source": "Virgil, Aeneid 8.558–584",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "shared_myth",
+   "myth": "Sacrifice to Hercules",
+   "note": "Evander and Pallas worship Hercules together when Aeneas arrives.",
+   "source": "Virgil, Aeneid 8.102–125",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "shared_myth",
+   "myth": "Evander mourns Pallas",
+   "note": "Evander receives and laments his slain son’s body and demands vengeance.",
+   "source": "Virgil, Aeneid 11.139–181",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "pallas",
+   "kind": "shared_myth",
+   "myth": "Pallas departs and returns dead",
+   "note": "Evander entrusts Pallas to Aeneas, embraces him, then laments his returned body.",
+   "source": "Virgil, Aeneid 8; 11",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "romulus_and_remus",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One Greek genealogy makes Romos a descendant of Evander’s daughter Roma.",
+   "source": "Plutarch, Romulus 2",
+   "date": "late first–second century CE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "romulus_and_remus"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "romulus_and_remus",
+   "kind": "shared_myth",
+   "myth": "Foundation of the Lupercalia",
+   "note": "Competing traditions credit Evander or the twins with founding the Lupercalia.",
+   "source": "Livy 1.5–7; Dionysius 1.32",
+   "date": "first century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "romulus_and_remus"
+   ]
+  },
+  {
+   "a": "evander",
+   "b": "turnus",
+   "kind": "other",
+   "myth": "Death of Pallas",
+   "note": "After Turnus kills Pallas, Evander awaits vengeance through Aeneas.",
+   "source": "Virgil, Aeneid 10–11",
+   "date": "29–19 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "evander"
+   ]
+  },
+  {
+   "a": "horatius_cocles",
+   "b": "mucius_scaevola",
+   "kind": "shared_myth",
+   "myth": "Saviours in the Porsenna cycle",
+   "note": "They act successively as Roman saviours but never meet in ancient narrative.",
+   "source": "Livy 2.10–13",
+   "date": "late first century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "horatius_cocles"
+   ]
+  },
+  {
+   "a": "horatius_cocles",
+   "b": "romulus_and_remus",
+   "kind": "other",
+   "myth": "Contest for precedence among courage exemplars",
+   "note": "Valerius rhetorically asks Romulus to yield precedence because Cocles preserved his city.",
+   "source": "Valerius Maximus 3.2.1",
+   "date": "c. 30 CE",
+   "tier": "canonical",
+   "stated_by": [
+    "horatius_cocles"
+   ]
+  },
+  {
+   "a": "lavinia",
+   "b": "pallas",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Polybian genealogy names Evander’s daughter Lavinia as Pallas’s mother.",
+   "source": "Dionysius, Roman Antiquities 1.32.1",
+   "date": "2nd c. BCE tradition",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "lucretia",
+   "b": "verginia",
+   "kind": "other",
+   "myth": "Parallel liberation through a woman’s death",
+   "note": "Verginia’s fate is explicitly presented as a second Lucretia-style liberation from tyranny.",
+   "source": "Cicero, De finibus 2.66",
+   "date": "45 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "verginia"
+   ]
+  },
+  {
+   "a": "nisus_and_euryalus",
+   "b": "romulus_and_remus",
+   "kind": "killed",
+   "myth": "Massacre in the sleeping Rutulian camp",
+   "note": "Nisus kills Remus’ attendants and then decapitates Remus.",
+   "source": "Virgil, Aeneid 9.325–331",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "nisus_and_euryalus",
+   "b": "turnus",
+   "kind": "fought",
+   "myth": "Night raid against the Rutulian camp",
+   "note": "They massacre Turnus’ sleeping troops; his army later displays their severed heads.",
+   "source": "Virgil, Aeneid 9.184–502",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nisus_and_euryalus"
+   ]
+  },
+  {
+   "a": "pallas",
+   "b": "turnus",
+   "kind": "fought",
+   "myth": "Duel with Turnus",
+   "note": "Pallas accepts Turnus’s challenge and grazes his shoulder with a spear.",
+   "source": "Virgil, Aeneid 10.439–509",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "pallas",
+   "b": "turnus",
+   "kind": "killed_by",
+   "myth": "Duel with Turnus",
+   "note": "Turnus’s spear pierces Pallas’s shield, armor, and chest, killing him.",
+   "source": "Virgil, Aeneid 10.439–509",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "pallas",
+   "b": "turnus",
+   "kind": "theft",
+   "myth": "Turnus takes Pallas’s belt",
+   "note": "Turnus plants his foot upon Pallas’s corpse and strips away his decorated baldric.",
+   "source": "Virgil, Aeneid 10.495–505",
+   "date": "c. 29–19 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "pallas"
+   ]
+  },
+  {
+   "a": "romulus_and_remus",
+   "b": "tarpeia",
+   "kind": "allied",
+   "myth": "Tarpeia's attempted disarming of the Sabines",
+   "note": "Tarpeia secretly warns Romulus that she plans to disarm the Sabines.",
+   "source": "Piso through Dionysius 2.39",
+   "date": "later 2nd century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tarpeia"
+   ]
+  },
+  {
+   "a": "romulus_and_remus",
+   "b": "tarpeia",
+   "kind": "punished",
+   "myth": "Tarpeia detained by Romulus",
+   "note": "Romulus holds Tatius's daughter Tarpeia under compulsion before her escape or betrayal.",
+   "source": "Antigonus through Plutarch, Romulus 17.5",
+   "date": "uncertain Hellenistic date",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tarpeia"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "aeneas_hero",
+   "god": "greek/aphrodite",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeneas is her son by the mortal Anchises.",
+   "source": "Iliad 2, 5, 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/aphrodite",
+   "kind": "rescued_by",
+   "myth": "Rescue from Diomedes",
+   "note": "She carries wounded Aeneas from battle until Diomedes wounds her.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/aphrodite",
+   "kind": "gift",
+   "myth": "Forging of Aeneas's armor",
+   "note": "Venus obtains divine armor for Aeneas before the Italian war.",
+   "source": "Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/aphrodite",
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "Venus purifies and anoints Aeneas, completing his transformation into Indiges.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/apollo",
+   "kind": "rescued_by",
+   "myth": "Rescue from Diomedes",
+   "note": "Apollo shelters Aeneas, restores him, and creates a battlefield phantom.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/apollo",
+   "kind": "taught_by",
+   "myth": "Migration oracles",
+   "note": "Apollo's oracles guide Aeneas during his Mediterranean migration.",
+   "source": "Aeneid 3, 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/artemis",
+   "kind": "rescued_by",
+   "myth": "Healing in Apollo's sanctuary",
+   "note": "Artemis heals the wounded Aeneas together with Leto.",
+   "source": "Iliad 5",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/poseidon",
+   "kind": "rescued_by",
+   "myth": "Duel with Achilles",
+   "note": "Poseidon removes Aeneas from danger so the Dardanid line can survive.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/poseidon",
+   "kind": "rescued_by",
+   "myth": "Storm off Carthage",
+   "note": "Neptune calms the storm threatening Aeneas's fleet.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/jupiter",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Aeneas descends from Zeus through Dardanus and the Assaracid line.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Destiny of the Dardanids",
+   "note": "Zeus's providential order guarantees the survival and future rule of Aeneas's dynasty.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Italian mission",
+   "note": "Jupiter repeatedly confirms and directs Aeneas's destined settlement in Italy.",
+   "source": "Aeneid 1, 10, 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/jupiter",
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "Jupiter approves Venus's request that Aeneas be admitted among the gods.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/juno",
+   "kind": "punished_by",
+   "myth": "Persecution of the Trojans",
+   "note": "Juno persecutes Aeneas because of Troy, Carthage, and Paris's judgment.",
+   "source": "Aeneid 1–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/juno",
+   "kind": "other",
+   "myth": "Reconciliation of Trojans and Latins",
+   "note": "Juno accepts Aeneas's settlement if Trojan identity merges into Latin.",
+   "source": "Aeneid 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/athena",
+   "kind": "other",
+   "myth": "Fall of Troy",
+   "note": "Aeneas witnesses signs of Minerva's wrath against Troy and the violated Palladium.",
+   "source": "Aeneid 2",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/mars",
+   "kind": "gift",
+   "myth": "Dedication of Mezentius's spoils",
+   "note": "Aeneas dedicates the slain Mezentius's armor and spoils to Mars.",
+   "source": "Aeneid 11",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/hermes",
+   "kind": "taught_by",
+   "myth": "Departure from Carthage",
+   "note": "Mercury commands Aeneas to abandon Carthage and resume his Italian mission.",
+   "source": "Aeneid 4",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/cupid",
+   "kind": "allied",
+   "myth": "Dido's divinely induced passion",
+   "note": "Disguised as Ascanius, Cupid inflames Dido while embracing Aeneas.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/aeolus",
+   "kind": "fought",
+   "myth": "Storm off Carthage",
+   "note": "At Juno's request, Aeolus releases winds against Aeneas's fleet.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/cybele_magna_mater",
+   "kind": "gift",
+   "myth": "Building the Trojan fleet",
+   "note": "Cybele supplies sacred Trojan timber used for Aeneas's ships.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/cybele_magna_mater",
+   "kind": "transformed",
+   "myth": "Transformation of the ships",
+   "note": "Cybele transforms Aeneas's threatened ships into sea nymphs.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/charon",
+   "kind": "served_by",
+   "myth": "Crossing the infernal river",
+   "note": "After seeing the golden bough, Charon ferries the living Aeneas.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "greek/cerberus_hound",
+   "kind": "deceived",
+   "myth": "Passage into the underworld",
+   "note": "Aeneas passes Cerberus after the Sibyl drugs the monster.",
+   "source": "Aeneid 6",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/penates",
+   "kind": "rescued",
+   "myth": "Flight from Troy",
+   "note": "Aeneas saves and transports Troy's ancestral gods during his escape.",
+   "source": "Aeneid 2–3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "aeneas_hero",
+   "god": "roman/penates",
+   "kind": "taught_by",
+   "myth": "Dream in Crete",
+   "note": "The Penates appear in a dream and direct Aeneas toward his destined settlement.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "greek/aphrodite",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Venus is Ascanius’s divine paternal grandmother through Aeneas.",
+   "source": "Virgil, Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "greek/aphrodite",
+   "kind": "rescued_by",
+   "myth": "Cupid impersonates Ascanius at Carthage",
+   "note": "Venus removes the sleeping Ascanius to Idalium while Cupid assumes his appearance.",
+   "source": "Virgil, Aeneid 1.657–694",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/jupiter",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Julian genealogy traces Ascanius’s Trojan ancestry remotely to Jupiter.",
+   "source": "Virgil, Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/jupiter",
+   "kind": "gift",
+   "myth": "Confirmation of the flame omen",
+   "note": "Jupiter confirms the omen over Ascanius with thunder and a blazing star.",
+   "source": "Virgil, Aeneid 2.687–704",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/jupiter",
+   "kind": "shared_myth",
+   "myth": "Ascanius kills Numanus Remulus",
+   "note": "Ascanius prays to Jupiter before firing the arrow that kills Numanus.",
+   "source": "Virgil, Aeneid 9.621–637",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/cupid",
+   "kind": "deceived_by",
+   "myth": "Cupid impersonates Ascanius at Dido’s banquet",
+   "note": "Cupid assumes Ascanius’s form, gifts, and social place while the boy sleeps.",
+   "source": "Virgil, Aeneid 1.657–722",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/juno",
+   "kind": "punished_by",
+   "myth": "The tame stag and outbreak of war",
+   "note": "Juno indirectly endangers Ascanius by having Allecto turn his hunt into war.",
+   "source": "Virgil, Aeneid 7",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "greek/apollo",
+   "kind": "judged_by",
+   "myth": "Ascanius’s first battlefield kill",
+   "note": "Apollo praises Ascanius’s valor after he kills Numanus Remulus.",
+   "source": "Virgil, Aeneid 9.638–671",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "greek/apollo",
+   "kind": "punished_by",
+   "myth": "Apollo removes Ascanius from battle",
+   "note": "Disguised as Butes, Apollo orders Ascanius to abstain from further combat.",
+   "source": "Virgil, Aeneid 9.638–671",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/mercury",
+   "kind": "shared_myth",
+   "myth": "Mercury warns Aeneas at Carthage",
+   "note": "Mercury invokes Ascanius’s owed Italian kingdom while warning Aeneas to depart.",
+   "source": "Virgil, Aeneid 4.265–276",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "ascanius",
+   "god": "roman/vediovis",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship tentatively identifies the Julian god Vediovis with a deified Iulus.",
+   "source": "CIL XIV 2387 and Weinstock",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "a": "camilla",
+   "god": "roman/diana",
+   "kind": "served",
+   "myth": "Camilla's dedication to Diana",
+   "note": "Metabus dedicates Camilla to Diana, whose devoted virgin servant she remains.",
+   "source": "Virgil, Aeneid 11.532–596",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "camilla",
+   "god": "greek/apollo",
+   "kind": "other",
+   "myth": "Arruns's prayer before attacking Camilla",
+   "note": "Apollo grants Arruns success in killing Camilla but denies his safe return.",
+   "source": "Virgil, Aeneid 11.785–798",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "cloelia",
+   "god": "roman/vulcan",
+   "kind": "other",
+   "myth": "Shield of Aeneas",
+   "note": "Vulcan makes the shield bearing a representation of Cloelia’s escape.",
+   "source": "Virgil, Aeneid 8.370–453, 625–731",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/glaucus_sea",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Virgil names Deiphobe as the daughter of Glaucus.",
+   "source": "Virgil, Aeneid 6.35–36",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/apollo",
+   "kind": "served",
+   "myth": "",
+   "note": "Deiphobe serves as Apollo’s priestess and prophetic medium at Cumae.",
+   "source": "Virgil, Aeneid 6.9–54",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/apollo",
+   "kind": "transformed_by",
+   "myth": "Apollo possesses Deiphobe during her prophecy",
+   "note": "Apollo’s possession alters her face, voice, hair, color and bodily bearing.",
+   "source": "Virgil, Aeneid 6.42–54",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/apollo",
+   "kind": "seduced_by",
+   "myth": "Apollo desires the Sibyl",
+   "note": "Apollo seeks sexual compliance, but the Sibyl refuses him.",
+   "source": "Ovid, Metamorphoses 14.129–153",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/apollo",
+   "kind": "gift",
+   "myth": "The sand-grain wish",
+   "note": "Apollo grants her requested lifespan and conditionally offers perpetual youth.",
+   "source": "Ovid, Metamorphoses 14.129–153",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/hecate",
+   "kind": "served",
+   "myth": "",
+   "note": "Hecate appoints the Sibyl over the groves of Avernus.",
+   "source": "Virgil, Aeneid 6.118, 564–565",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/hecate",
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Hecate teaches the Sibyl the punishments imposed by the gods.",
+   "source": "Virgil, Aeneid 6.564–565",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/hecate",
+   "kind": "other",
+   "myth": "Sacrifice before the underworld descent",
+   "note": "The Sibyl invokes Hecate before entering the underworld with Aeneas.",
+   "source": "Virgil, Aeneid 6.247",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "roman/proserpina",
+   "kind": "gift",
+   "myth": "Offering of the golden bough",
+   "note": "Under the Sibyl’s direction, Aeneas deposits Proserpina’s sacred bough at her threshold.",
+   "source": "Virgil, Aeneid 6.138–148, 636",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "roman/venus",
+   "kind": "allied",
+   "myth": "Discovery of the golden bough",
+   "note": "Venus indirectly assists the Sibyl’s mission by sending doves to guide Aeneas.",
+   "source": "Virgil, Aeneid 6.190–211",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/charon",
+   "kind": "other",
+   "myth": "Passage across the Acheron",
+   "note": "The Sibyl explains Aeneas’ lawful mission and displays the bough, persuading Charon to carry them.",
+   "source": "Virgil, Aeneid 6.384–416",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "cumaean_sibyl",
+   "god": "greek/cerberus_hound",
+   "kind": "deceived",
+   "myth": "The drugged honey-cake",
+   "note": "The Sibyl subdues Cerberus with a soporific honey-cake and passes while he sleeps.",
+   "source": "Virgil, Aeneid 6.417–425",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "greek/hermes",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hermes is Evander’s father in the divine Arcadian genealogy.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "greek/hermes",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hermes fathers Evander by an unnamed daughter of Ladon.",
+   "source": "Pausanias 8.43.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "evander",
+   "god": "roman/mercury",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Romanized genealogy names Mercury as Evander’s father.",
+   "source": "Origo gentis Romanae 5",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "evander",
+   "god": "roman/carmenta",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Carmenta is Evander’s prophetic mother in the Romanized divine genealogy.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "roman/carmenta",
+   "kind": "child_of",
+   "myth": "Evander’s exile from Arcadia",
+   "note": "His prophetic mother accompanies, consoles, and guides him during exile.",
+   "source": "Ovid, Fasti 1.461–540",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "roman/carmenta",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One alternative tradition makes Carmenta Evander’s wife rather than mother.",
+   "source": "Plutarch, Roman Questions 56",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "evander",
+   "god": "greek/themis",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Themis is the Greek designation of Evander’s prophetic mother.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "a": "evander",
+   "god": "greek/themis",
+   "kind": "taught_by",
+   "myth": "Settlement of Pallantium",
+   "note": "The prophetic Themis guides Evander’s colonists in selecting their settlement.",
+   "source": "Dionysius, Roman Antiquities 1.31–33",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "roman/carmenta",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nicostrata is an alternative name for Evander’s prophetic maternal figure.",
+   "source": "Strabo 5.3.3; Plutarch",
+   "date": "Augustan–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "evander",
+   "god": "roman/faunus",
+   "kind": "gift",
+   "myth": "Evander’s settlement in Latium",
+   "note": "Faunus receives Evander’s colonists hospitably and grants them land.",
+   "source": "Dionysius, Roman Antiquities 1.31.2",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "roman/ceres",
+   "kind": "created",
+   "myth": "Foundation of Greek rites",
+   "note": "Evander’s Arcadians establish her wine-free rites served by women.",
+   "source": "Dionysius, Roman Antiquities 1.33.1",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "a": "evander",
+   "god": "roman/consus",
+   "kind": "identified_with",
+   "myth": "Arcadian explanation of the Consualia",
+   "note": "Consus’s Roman festival is equated with the Arcadian equestrian rite.",
+   "source": "Dionysius, Roman Antiquities 1.33.2",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "a": "evander",
+   "god": "greek/apollo",
+   "kind": "taught_by",
+   "myth": "Migration from Arcadia",
+   "note": "Some antiquarian traditions make Apollo guide Evander’s migration.",
+   "source": "Later antiquarian testimonia",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "evander",
+   "god": "greek/heracles_god",
+   "kind": "other",
+   "myth": "Hercules received after killing Cacus",
+   "note": "Evander hosts Hercules and recognizes his divine parentage and future apotheosis.",
+   "source": "Livy 1.7",
+   "date": "c. 27–9 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "greek/heracles_god",
+   "kind": "created",
+   "myth": "Foundation of the Ara Maxima rites",
+   "note": "Evander establishes Hercules’ first Roman honors and performs sacrifice.",
+   "source": "Dionysius, Roman Antiquities 1.40",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "evander",
+   "god": "greek/heracles_god",
+   "kind": "shared_myth",
+   "myth": "Hercules and Cacus",
+   "note": "Evander celebrates Hercules and narrates his defeat of Cacus to Aeneas.",
+   "source": "Virgil, Aeneid 8.184–279",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "horatius_cocles",
+   "god": "roman/vulcan",
+   "kind": "shared_myth",
+   "myth": "Cocles depicted on Vulcan-forged shield",
+   "note": "Vulcan forges Aeneas’ shield bearing Cocles’ future bridge defense.",
+   "source": "Virgil, Aeneid 8.626–651",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "horatius_cocles",
+   "god": "roman/vulcan",
+   "kind": "other",
+   "myth": "Statue transferred to Vulcan’s precinct",
+   "note": "Cocles’ statue is placed in Vulcan’s precinct after a lightning prodigy.",
+   "source": "Gellius, Attic Nights 4.5",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "lavinia",
+   "god": "roman/faunus",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lavinia is Faunus’ granddaughter through her father Latinus.",
+   "source": "Virgil, Aeneid 7.81–106",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "marcus_curtius",
+   "god": "roman/manes",
+   "kind": "served",
+   "myth": "Consecration before the leap",
+   "note": "Curtius extends his hands downward and consecrates his life to them.",
+   "source": "Livy, Ab urbe condita 7.6",
+   "date": "late 1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "marcus_curtius",
+   "god": "roman/jupiter",
+   "kind": "served",
+   "myth": "Jupiter demands Rome's greatest good",
+   "note": "Jupiter requires Rome's greatest good, which Curtius supplies through self-sacrifice.",
+   "source": "Pseudo-Plutarch, Parallela minora 5",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "nisus_and_euryalus",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Invocation before the night mission",
+   "note": "Nisus invokes Jupiter or any god favoring his plan; none visibly intervenes.",
+   "source": "Virgil, Aeneid 9.208",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "nisus_and_euryalus",
+   "god": "roman/diana",
+   "kind": "other",
+   "myth": "Nisus attacks Euryalus’ captors",
+   "note": "Nisus prays to her to guide his missiles; both throws strike.",
+   "source": "Virgil, Aeneid 9.396–415",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "nisus_and_euryalus",
+   "god": "roman/fortuna",
+   "kind": "other",
+   "myth": "Nisus considers his possible death",
+   "note": "Nisus personifies Fortune as potentially preventing Euryalus from burying him.",
+   "source": "Virgil, Aeneid 9.211–213",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "greek/heracles_god",
+   "kind": "child_of",
+   "myth": "",
+   "note": "An incompatible Polybian genealogy makes Pallas the son of Heracles and Lavinia.",
+   "source": "Dionysius, Roman Antiquities 1.32.1",
+   "date": "2nd c. BCE tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "pallas",
+   "god": "roman/carmenta",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Carmenta is Pallas’s grandmother through her son Evander.",
+   "source": "Virgilian Roman genealogy",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "roman/carmenta",
+   "kind": "other",
+   "myth": "Carmenta foretells Pallas’s death",
+   "note": "Carmenta prophetically warns her grandson about his fatal armor and coming avenger.",
+   "source": "Ovid, Fasti 1.519–524",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "pallas",
+   "god": "roman/mercury",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Roman genealogy makes Mercury Pallas’s great-grandfather through Carmenta and Evander.",
+   "source": "Virgilian Roman genealogy",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "greek/heracles_god",
+   "kind": "served",
+   "myth": "Sacrifice commemorating Cacus",
+   "note": "Pallas attends Pallanteum’s annual sacrifice celebrating Heracles’ defeat of Cacus.",
+   "source": "Virgil, Aeneid 8.185–279",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "greek/heracles_god",
+   "kind": "other",
+   "myth": "Prayer before fighting Turnus",
+   "note": "Pallas invokes Heracles through hospitality; Heracles hears and weeps but cannot save him.",
+   "source": "Virgil, Aeneid 10.460–472",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Pallas and Lausus separated",
+   "note": "Jupiter prevents their duel because both youths are destined for greater opponents.",
+   "source": "Virgil, Aeneid 10.426–438",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "pallas",
+   "god": "roman/jupiter",
+   "kind": "judged_by",
+   "myth": "Jupiter declares Pallas’s fate",
+   "note": "Jupiter tells Heracles that Pallas’s appointed day cannot be altered.",
+   "source": "Virgil, Aeneid 10.464–473",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "regulus",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Regulus keeps his oath to Carthage",
+   "note": "Jupiter implicitly guarantees the enemy oath that compels Regulus to return.",
+   "source": "Cicero, De officiis 3",
+   "date": "44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "regulus",
+   "god": "roman/fortuna",
+   "kind": "punished_by",
+   "myth": "Reversal after Regulus's African successes",
+   "note": "Fortune overturns Regulus's success after his arrogant peace demands.",
+   "source": "Polybius, Histories 1.35",
+   "date": "c. 150–140 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "regulus",
+   "god": "roman/fortuna",
+   "kind": "contest",
+   "myth": "Regulus overcomes Fortune through endurance",
+   "note": "Seneca portrays Regulus as morally victorious over Fortune through steadfast suffering.",
+   "source": "Seneca, De providentia 3",
+   "date": "mid-first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "regulus",
+   "god": "greek/heracles_god",
+   "kind": "shared_myth",
+   "myth": "Herculean framing of the Bagradas serpent",
+   "note": "Silius models Regulus's serpent exploit on Herculean monster combats without identifying them.",
+   "source": "Silius, Punica 6",
+   "date": "late first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "regulus",
+   "god": "roman/vesta",
+   "kind": "shared_myth",
+   "myth": "Contrast between captives and Regulus",
+   "note": "Horace contrasts captive Romans' forgetfulness of Vesta with Regulus's fidelity.",
+   "source": "Horace, Odes 3.5",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/mars",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mars fathers Romulus and Remus with Rhea Silvia.",
+   "source": "Livy 1.4; Dionysius 1.76–79",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/mars",
+   "kind": "other",
+   "myth": "Romulus’ translation to heaven",
+   "note": "Mars carries Romulus to heaven or obtains his divine admission.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/jupiter",
+   "kind": "judged_by",
+   "myth": "Rival augury for Rome",
+   "note": "Jupiter’s vultures communicate divine approval during the brothers’ disputed augury.",
+   "source": "Livy 1.6–7; Dionysius 1.86",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/jupiter",
+   "kind": "gift",
+   "myth": "Romulus’ apotheosis",
+   "note": "Jupiter fulfills his promise and authorizes Romulus’ admission among the gods.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/jupiter",
+   "kind": "gift",
+   "myth": "Dedication of Acron’s armor",
+   "note": "Romulus dedicates Acron’s armor and a temple to Jupiter Feretrius.",
+   "source": "Livy 1.10; Dionysius 2.34",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/jupiter",
+   "kind": "gift",
+   "myth": "Vow during the Sabine battle",
+   "note": "Romulus vows a temple; Jupiter Stator halts the Romans’ flight.",
+   "source": "Livy 1.12; Dionysius 2.50",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/quirinus",
+   "kind": "identified_with",
+   "myth": "Romulus’ disappearance and apotheosis",
+   "note": "After disappearing, Romulus is identified with the older Roman god Quirinus.",
+   "source": "Cicero; Livy 1.16; Ovid",
+   "date": "late Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/vesta",
+   "kind": "other",
+   "myth": "Rhea Silvia’s Vestal service",
+   "note": "The twins’ mother Rhea Silvia serves as Vesta’s priestess.",
+   "source": "Livy 1.3–4; Dionysius 1.76",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/faunus",
+   "kind": "shared_myth",
+   "myth": "Lupercal and Lupercalia",
+   "note": "Faunus shares the Lupercalian cult setting later connected with the twins.",
+   "source": "Antiquarian Roman tradition",
+   "date": "late Republican–imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/consus",
+   "kind": "other",
+   "myth": "Games and abduction of the women",
+   "note": "Romulus stages Consus’ games as the occasion for abducting neighboring women.",
+   "source": "Livy 1.9; Plutarch 14",
+   "date": "first century BCE–second CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "greek/heracles_god",
+   "kind": "other",
+   "myth": "Incorporation of Hercules’ Roman cult",
+   "note": "Romulus later incorporates or honors Hercules’ preexisting cult at Rome.",
+   "source": "Livy 1.7; Dionysius 1–2",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "romulus_and_remus",
+   "god": "roman/juno",
+   "kind": "gift",
+   "myth": "Hersilia’s translation",
+   "note": "Juno arranges for Hersilia to join the deified Romulus.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/vesta",
+   "kind": "served",
+   "myth": "Tarpeia fetches ritual water",
+   "note": "As a Vestal, Tarpeia fetches water and tends obligations associated with Vesta.",
+   "source": "Varro, De lingua Latina 5.41",
+   "date": "mid-1st century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/vesta",
+   "kind": "other",
+   "myth": "Tarpeia betrays her Vestal office",
+   "note": "Tarpeia's desire and betrayal violate Vesta's sacred fire and her Vestal duties.",
+   "source": "Propertius, Elegies 4.4",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/silvanus",
+   "kind": "shared_myth",
+   "myth": "Water gathering in Silvanus's grove",
+   "note": "Tarpeia draws ritual water from a spring in Silvanus's branching house.",
+   "source": "Propertius, Elegies 4.4.3–16",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Capture of Jupiter's ancient threshold",
+   "note": "Tarpeia's betrayal enables the Sabines to capture Jupiter's ancient threshold.",
+   "source": "Propertius, Elegies 4.4.1–2",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/jupiter",
+   "kind": "other",
+   "myth": "Removal of Tarpeia's bones",
+   "note": "Dedication of the hill to Jupiter causes Tarpeia's bones to be removed.",
+   "source": "Plutarch, Romulus 18",
+   "date": "late 1st–early 2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/juno",
+   "kind": "allied",
+   "myth": "Divine opening of the Sabine gate",
+   "note": "After Tarpeia admits the Sabines, Juno unbars the gate supporting their assault.",
+   "source": "Ovid, Fasti 1.259–276",
+   "date": "Augustan era",
+   "tier": "canonical"
+  },
+  {
+   "a": "tarpeia",
+   "god": "roman/venus",
+   "kind": "shared_myth",
+   "myth": "Divine defense against the Sabines",
+   "note": "After Tarpeia's betrayal, Venus enlists nymphs to flood the Sabines' path.",
+   "source": "Ovid, Metamorphoses 14.775–804",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/juno",
+   "kind": "allied",
+   "myth": "Juno sponsors Turnus’s resistance",
+   "note": "Juno supports Turnus through Allecto, Iris, Juturna, and repeated interventions against Aeneas.",
+   "source": "Virgil, Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/juno",
+   "kind": "rescued_by",
+   "myth": "Phantom Aeneas and the departing ship",
+   "note": "Juno lures Turnus aboard ship with a phantom Aeneas and carries him safely to Ardea.",
+   "source": "Virgil, Aeneid 10.606–88",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/jupiter",
+   "kind": "judged_by",
+   "myth": "Divine settlement of Turnus’s fate",
+   "note": "Jupiter refuses to alter Turnus’s fate, ends Juno’s resistance, and sanctions the final settlement.",
+   "source": "Virgil, Aeneid 10.607–32; 12.791–842",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/venus",
+   "kind": "other",
+   "myth": "Venus heals Aeneas",
+   "note": "Venus heals Aeneas’s wound, enabling him to resume his pursuit of Turnus.",
+   "source": "Virgil, Aeneid 12.411–24",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/vulcan",
+   "kind": "other",
+   "myth": "Turnus’s borrowed sword breaks",
+   "note": "Turnus’s borrowed sword shatters when he strikes armor forged by Vulcan for Aeneas.",
+   "source": "Virgil, Aeneid 8.370–453; 12.728–41",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/cybele_magna_mater",
+   "kind": "contest",
+   "myth": "Burning of the Trojan fleet",
+   "note": "Turnus tries to burn Cybele’s sacred ships, but they transform into sea-nymphs.",
+   "source": "Virgil, Aeneid 9.77–122",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "turnus",
+   "god": "roman/faunus",
+   "kind": "other",
+   "myth": "Spear lodged in Faunus’s sacred olive",
+   "note": "Turnus prays to Faunus when Aeneas’s spear lodges in the god’s sacred wild olive.",
+   "source": "Virgil, Aeneid 12.766–87",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  }
+ ],
+ "unresolved": {
+  "Abaris": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Euryalus kills Abaris during the night raid.",
+    "source": "Virgil, Aeneid 9.342",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Acca": [
+   {
+    "stated_by": "camilla",
+    "kind": "allied",
+    "myth": "Camilla's final message",
+    "note": "Camilla's closest companion receives her last words and carries them to Turnus.",
+    "source": "Virgil, Aeneid 11.820–835, 896–900",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Acestes": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "allied",
+    "myth": "Sicilian funeral games",
+    "note": "Acestes hosts Aeneas and receives Trojan settlers in Sicily.",
+    "source": "Aeneid 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "allied",
+    "myth": "Funeral games for Anchises",
+    "note": "Acestes is the Sicilian ally hosting the Trojan community and Ascanius’s mounted display.",
+    "source": "Virgil, Aeneid 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "shared_myth",
+    "myth": "Anchises’ funeral games in Sicily",
+    "note": "Acestes is the Sicilian host and ruler associated with the games.",
+    "source": "Virgil, Aeneid 5",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Achates": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "allied",
+    "myth": "Mediterranean wanderings and Italian war",
+    "note": "Achates is Aeneas's closest recurring companion and confidant.",
+    "source": "Aeneid 1–12",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "shared_myth",
+    "myth": "Aeneas arrives at Cumae",
+    "note": "Achates brings Deiphobe to Aeneas before her prophetic possession.",
+    "source": "Virgil, Aeneid 6.34–36",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Acoetes": [
+   {
+    "stated_by": "pallas",
+    "kind": "served_by",
+    "myth": "Pallas’s funeral procession",
+    "note": "His aged attendant accompanies Pallas in life and follows his bier grieving.",
+    "source": "Virgil, Aeneid 11.30–33",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Aethon": [
+   {
+    "stated_by": "pallas",
+    "kind": "served_by",
+    "myth": "Pallas’s funeral procession",
+    "note": "Pallas’s horse follows his bier riderless, without ornaments, and weeping.",
+    "source": "Virgil, Aeneid 11.89–90",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Aletes": [
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "Council before the night mission",
+    "note": "Aletes praises Nisus and Euryalus in the council presided over by Ascanius.",
+    "source": "Virgil, Aeneid 9.246–256",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "other",
+    "myth": "Council before the night mission",
+    "note": "Aletes praises their courage and interprets it as divine favor.",
+    "source": "Virgil, Aeneid 9.246–256",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Allecto": [
+   {
+    "stated_by": "ascanius",
+    "kind": "deceived_by",
+    "myth": "The tame stag hunt",
+    "note": "Allecto inflames Ascanius’s hounds and directs the unwitting hunter toward Silvia’s stag.",
+    "source": "Virgil, Aeneid 7.475–510",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "deceived_by",
+    "myth": "Allecto visits Turnus as Calybe",
+    "note": "Allecto approaches Turnus disguised as Calybe before revealing her Fury form.",
+    "source": "Virgil, Aeneid 7.406–74",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "other",
+    "myth": "Turnus driven into war-fury",
+    "note": "Allecto thrusts divine torches into Turnus and fills him with supernatural war-fury.",
+    "source": "Virgil, Aeneid 7.406–74",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Amastrus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills Amastrus, son of Hippotas.",
+    "source": "Virgil, Aeneid 11.673–675",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Amata": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "fought",
+    "myth": "Opposition to Lavinia's marriage",
+    "note": "Amata opposes Aeneas's marriage to Lavinia and supports Turnus.",
+    "source": "Aeneid 7, 12",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Anchemolus": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas’s aristeia",
+    "note": "Pallas attacks and kills Anchemolus during his battlefield advance.",
+    "source": "Virgil, Aeneid 10.388–389",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Anchises": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Aeneas is the son of Anchises and Aphrodite.",
+    "source": "Iliad 2, 5, 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "rescued",
+    "myth": "Flight from Troy",
+    "note": "Aeneas carries his aged father from burning Troy.",
+    "source": "Archaic Attic vase painting",
+    "date": "ca. 520–490 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Descent to the dead",
+    "note": "Anchises teaches Aeneas the soul-cycle and reveals future Romans.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Anchises is Ascanius’s paternal grandfather.",
+    "source": "Virgil, Aeneid 2",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "Flame omen and escape from Troy",
+    "note": "Anchises interprets Ascanius’s flame omen and flees Troy with him.",
+    "source": "Virgil, Aeneid 2.681–729",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "Funeral games for Anchises",
+    "note": "Ascanius leads a mounted squadron during games honoring his dead grandfather.",
+    "source": "Virgil, Aeneid 5.545–603",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "shared_myth",
+    "myth": "Meeting in Elysium",
+    "note": "The Sibyl delivers Aeneas to Anchises but has no recorded substantive dialogue with him.",
+    "source": "Virgil, Aeneid 6.679–898",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "evander",
+    "kind": "gift",
+    "myth": "Priam’s visit to Arcadia",
+    "note": "Young Evander receives a cloak, weapons, and bridles from Anchises.",
+    "source": "Virgil, Aeneid 8.152–174",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "shared_myth",
+    "myth": "Anchises’ funeral games",
+    "note": "They compete in the footrace held in Anchises’ honor.",
+    "source": "Virgil, Aeneid 5.45–603",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Anchurus": [
+   {
+    "stated_by": "marcus_curtius",
+    "kind": "shared_myth",
+    "myth": "Paired chasm-sacrifice narratives",
+    "note": "Pseudo-Plutarch pairs their parallel voluntary leaps, though they never meet.",
+    "source": "Pseudo-Plutarch, Parallela minora 5",
+    "date": "2nd–3rd c. CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Anna": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "rescued",
+    "myth": "Anna's flight to Latium",
+    "note": "Aeneas receives Dido's refugee sister in Latium.",
+    "source": "Ovid, Fasti 3",
+    "date": "early 1st century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Anna Perenna": [
+   {
+    "stated_by": "lavinia",
+    "kind": "deceived",
+    "myth": "Lavinia’s plot against Anna",
+    "note": "Lavinia promises sisterly treatment but secretly suspects and plots against Anna.",
+    "source": "Ovid, Fasti 3.601–656",
+    "date": "2–8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Arcadian companions": [
+   {
+    "stated_by": "pallas",
+    "kind": "served_by",
+    "myth": "Pallas rallies the Arcadians",
+    "note": "Pallas commands and rallies the retreating Arcadians, who later carry his body.",
+    "source": "Virgil, Aeneid 10.362–379",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Arruns": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed_by",
+    "myth": "Death of Camilla",
+    "note": "Arruns stalks Camilla and mortally wounds her with a spear.",
+    "source": "Virgil, Aeneid 11.759–867",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Assaracus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Aeneas descends through Assaracus's collateral Trojan royal line.",
+    "source": "Iliad 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Astyanax": [
+   {
+    "stated_by": "ascanius",
+    "kind": "other",
+    "myth": "Ascanius visits Buthrotum",
+    "note": "Andromache compares Ascanius’s appearance and age to her dead son Astyanax.",
+    "source": "Virgil, Aeneid 3.489–505",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Atlas": [
+   {
+    "stated_by": "evander",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Evander invokes shared descent from Atlas linking Arcadian and Trojan houses.",
+    "source": "Virgil, Aeneid 8.127–151",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Atys": [
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "The Trojan Ride",
+    "note": "Atys leads another mounted squadron alongside Ascanius in the Trojan youth display.",
+    "source": "Virgil, Aeneid 5.568–603",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Augustus": [
+   {
+    "stated_by": "regulus",
+    "kind": "shared_myth",
+    "myth": "Horatian juxtaposition of Augustus and Regulus",
+    "note": "Horace juxtaposes Augustus's prospective divinity and eastern policy with Regulus's example.",
+    "source": "Horace, Odes 3.5",
+    "date": "23 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Bagradas serpent": [
+   {
+    "stated_by": "regulus",
+    "kind": "fought",
+    "myth": "Battle beside the Bagradas River",
+    "note": "Regulus and his army battle an enormous serpent using artillery.",
+    "source": "Pliny, Natural History 8.37",
+    "date": "77 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "regulus",
+    "kind": "killed",
+    "myth": "Battle beside the Bagradas River",
+    "note": "Regulus's army kills the serpent with siege engines and sends its remains to Rome.",
+    "source": "Pliny, Natural History 8.37",
+    "date": "77 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Brutus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Medieval British genealogy makes Brutus a descendant of Aeneas.",
+    "source": "Historia Brittonum; Geoffrey",
+    "date": "7th–12th centuries",
+    "tier": "late_accretion"
+   }
+  ],
+  "Butes": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla spears Butes from behind between helmet and breastplate.",
+    "source": "Virgil, Aeneid 11.690–693",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Cacus": [
+   {
+    "stated_by": "evander",
+    "kind": "shared_myth",
+    "myth": "Hercules and Cacus",
+    "note": "Evander’s community benefits from Cacus’s death, which Evander narrates to Aeneas.",
+    "source": "Virgil, Aeneid 8.184–279",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Capys": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Capys is Aeneas's grandfather in the Assaracid genealogy.",
+    "source": "Iliad 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Catillus": [
+   {
+    "stated_by": "evander",
+    "kind": "shared_myth",
+    "myth": "Arcadian migration to Italy",
+    "note": "Catillus is associated with Evander’s expedition in later Tibur traditions.",
+    "source": "Late antiquarian tradition",
+    "date": "date unspecified",
+    "tier": "regional_variant"
+   }
+  ],
+  "Celaeno": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Harpy prophecy",
+    "note": "Celaeno prophesies hunger and the Trojans' eating of their tables.",
+    "source": "Aeneid 3",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Chloreus": [
+   {
+    "stated_by": "camilla",
+    "kind": "other",
+    "myth": "Pursuit of Chloreus",
+    "note": "Camilla pursues Chloreus for his conspicuous equipment, leaving herself exposed to Arruns.",
+    "source": "Virgil, Aeneid 11.768–793",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "other",
+    "myth": "Sibylline prophecy reinterpreted as Christian testimony",
+    "note": "Christian writers retrospectively present Sibylline and Cumaean material as pagan testimony to Christ.",
+    "source": "Augustine, City of God 18.23",
+    "date": "410s–420s CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Chromis": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills Chromis in rapid succession with other warriors.",
+    "source": "Virgil, Aeneid 11.675–677",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Chthonian gods": [
+   {
+    "stated_by": "marcus_curtius",
+    "kind": "served",
+    "myth": "Curtius becomes Rome's underworld envoy",
+    "note": "Curtius offers himself as Rome's permanent herald and envoy below.",
+    "source": "Cassius Dio 7, fragment 30",
+    "date": "early 3rd c. CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Creusa": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Creusa is Aeneas's Trojan wife and normally Ascanius's mother.",
+    "source": "Aeneid 2",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Creusa's farewell prophecy",
+    "note": "Her ghost reveals Aeneas's western destiny after she vanishes at Troy.",
+    "source": "Aeneid 2",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Virgil makes the Trojan princess Creusa Ascanius’s mother.",
+    "source": "Virgil, Aeneid 2",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "Escape from burning Troy",
+    "note": "Creusa places Ascanius in Aeneas’s care before disappearing during the escape.",
+    "source": "Virgil, Aeneid 2.673–804",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Dardanus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Aeneas belongs to the Dardanian royal line descending from Dardanus.",
+    "source": "Iliad 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Deiphobus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Meeting among the dead",
+    "note": "Deiphobus's mutilated shade tells Aeneas how Troy fell.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "other",
+    "myth": "Conversation with Deiphobus’ shade",
+    "note": "The Sibyl interrupts Aeneas and Deiphobus because their allotted time is passing.",
+    "source": "Virgil, Aeneid 6.494–547",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Demophoon": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills Demophoon in rapid succession with other warriors.",
+    "source": "Virgil, Aeneid 11.675–677",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Dido": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "seduced",
+    "myth": "Love affair at Carthage",
+    "note": "Aeneas becomes Dido's lover under divine manipulation before leaving Carthage.",
+    "source": "Aeneid 1, 4",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "deceived",
+    "myth": "Abandonment of Dido",
+    "note": "Dido regards Aeneas's secret preparations and departure as betrayal.",
+    "source": "Aeneid 4",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "other",
+    "myth": "Meeting among the dead",
+    "note": "Dido silently rejects Aeneas's explanation and returns to Sychaeus.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "gift",
+    "myth": "Trojan reception at Carthage",
+    "note": "Dido sends Ascanius gifts and a horse that he later rides.",
+    "source": "Virgil, Aeneid 1 and 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "shared_myth",
+    "myth": "Aeneas encounters Dido’s shade",
+    "note": "The Sibyl accompanies Aeneas during his encounter with Dido but does not address her.",
+    "source": "Virgil, Aeneid 6.450–476",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pallas",
+    "kind": "other",
+    "myth": "Dido’s garments cover Pallas",
+    "note": "Two garments Dido made for Aeneas are placed over Pallas’s corpse.",
+    "source": "Virgil, Aeneid 11.72–77",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Diores": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "contest",
+    "myth": "Anchises’ funeral footrace",
+    "note": "Diores competes with the pair and benefits from Salius’ fall.",
+    "source": "Virgil, Aeneid 5.297; 320–361",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Dira": [
+   {
+    "stated_by": "turnus",
+    "kind": "punished_by",
+    "myth": "Jupiter sends the death-omen",
+    "note": "The Dira assumes bird form and terrifies Turnus, announcing his imminent death.",
+    "source": "Virgil, Aeneid 12.843–68",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Dyna": [
+   {
+    "stated_by": "evander",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Marginal mythographic genealogy names Dyna as Evander’s daughter.",
+    "source": "Marginal mythographic genealogy",
+    "date": "date unspecified",
+    "tier": "late_accretion"
+   }
+  ],
+  "Echemus": [
+   {
+    "stated_by": "evander",
+    "kind": "child_of",
+    "myth": "",
+    "note": "A late human genealogy names Echemus, king of Tegea, as Evander’s father.",
+    "source": "Servius on Aeneid 8.130",
+    "date": "late antique",
+    "tier": "regional_variant"
+   }
+  ],
+  "Erichthonius": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Erichthonius is an ancestor in Aeneas's Dardanian genealogy.",
+    "source": "Iliad 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Erulus": [
+   {
+    "stated_by": "evander",
+    "kind": "killed",
+    "myth": "Evander’s combat with Erulus",
+    "note": "Evander kills the three-lived Erulus three times in combat.",
+    "source": "Virgil, Aeneid 8.560–567",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Eryx": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "other",
+    "myth": "Funeral games in Sicily",
+    "note": "Aeneas holds Anchises's funeral games in the deceased hero's region.",
+    "source": "Aeneid 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Eunaeus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills Eunaeus with a spear through his exposed chest.",
+    "source": "Virgil, Aeneid 11.666–669",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Eurydice": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Late mythographic tradition gives Eurydice as an alternative Trojan wife.",
+    "source": "Late mythographic traditions",
+    "date": "late antiquity",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The lost Cypria possibly made Eurydice Ascanius’s mother through her marriage to Aeneas.",
+    "source": "Cypria via Pausanias 10.26.1",
+    "date": "seventh–sixth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Fadus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Euryalus kills Fadus during the night raid.",
+    "source": "Virgil, Aeneid 9.341–342",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Halaesus": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas’s aristeia",
+    "note": "After praying to Tiber, Pallas strikes and kills Halaesus.",
+    "source": "Virgil, Aeneid 10.411–425",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Harpalycus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills the male warrior Harpalycus.",
+    "source": "Virgil, Aeneid 11.675–677",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Helenus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Visit to Epirus",
+    "note": "Helenus hosts Aeneas and gives prophetic instructions for his voyage.",
+    "source": "Aeneid 3",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "gift",
+    "myth": "Departure from Buthrotum",
+    "note": "Helenus hosts the Trojans and provides farewell gifts while Ascanius is present.",
+    "source": "Virgil, Aeneid 3",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Helymus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "contest",
+    "myth": "Anchises’ funeral footrace",
+    "note": "Helymus competes with the pair and passes Salius after his fall.",
+    "source": "Virgil, Aeneid 5.300–361",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Herbesus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Euryalus kills Herbesus during the night raid.",
+    "source": "Virgil, Aeneid 9.341–342",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hercules": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "served",
+    "myth": "Rite at the Ara Maxima",
+    "note": "Aeneas participates in Evander's commemorative rite for Hercules.",
+    "source": "Aeneid 8",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "shared_myth",
+    "myth": "Pallas fights Turnus",
+    "note": "Hercules hears Pallas’s prayer and grieves, but Jupiter prevents him from intervening against Turnus.",
+    "source": "Virgil, Aeneid 10.460–73",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Hersilia": [
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Hersilia is usually Romulus’ Sabine wife and later joins him as Hora.",
+    "source": "Plutarch 14, 18; Ovid, Metamorphoses 14",
+    "date": "first–second century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "shared_myth",
+    "myth": "Hersilia joins Quirinus in heaven",
+    "note": "The deified Romulus receives Hersilia in heaven and renames her Hora.",
+    "source": "Ovid, Metamorphoses 14.829–851",
+    "date": "about 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Hisbo": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas’s aristeia",
+    "note": "Pallas kills the attacking Hisbo with a sword thrust into his lung.",
+    "source": "Virgil, Aeneid 10.384–387",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Horatia": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "She is the sister of the Horatii and mourns her Curiatius fiancé.",
+    "source": "Livy 1.26; Dionysius 3.21",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is betrothed to one of the Curiatii.",
+    "source": "Livy 1.26; Dionysius 3.21",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "killed",
+    "myth": "Horatius kills his mourning sister",
+    "note": "The surviving Horatius stabs her for mourning her slain Curiatius fiancé.",
+    "source": "Livy 1.26; Dionysius 3.21",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Horatius the father": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "child_of",
+    "myth": "",
+    "note": "He is the father of the Horatii and defends the survivor.",
+    "source": "Livy 1.26; Dionysius 3.22",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "rescued_by",
+    "myth": "Trial of the surviving Horatius",
+    "note": "He defends his son before the people and helps secure acquittal.",
+    "source": "Livy 1.26; Dionysius 3.22",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "served_by",
+    "myth": "Purification beneath the Sister's Beam",
+    "note": "He conducts his son's expiation and leads him beneath the beam.",
+    "source": "Livy 1.26",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Hydra of Lerna": [
+   {
+    "stated_by": "regulus",
+    "kind": "shared_myth",
+    "myth": "Comparison with the Bagradas serpent",
+    "note": "The African serpent is compared to the Hydra as a literary monster type.",
+    "source": "Silius, Punica 6",
+    "date": "late first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Hyrtacus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Nisus is explicitly identified by the patronymic Hyrtacides.",
+    "source": "Virgil, Aeneid 9.177",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ilus": [
+   {
+    "stated_by": "pallas",
+    "kind": "fought",
+    "myth": "Missile intercepted by Rhoeteus",
+    "note": "Pallas casts at Ilus, but the fleeing Rhoeteus intercepts the missile.",
+    "source": "Virgil, Aeneid 10.399–404",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Iris": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "fought",
+    "myth": "Burning of the Trojan ships",
+    "note": "Iris incites the Trojan women to burn Aeneas's ships for Juno.",
+    "source": "Aeneid 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "shared_myth",
+    "myth": "Hersilia’s translation",
+    "note": "Iris guides Hersilia to Romulus after his transformation into Quirinus.",
+    "source": "Ovid, Metamorphoses 14",
+    "date": "about 8 CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "other",
+    "myth": "Command to attack the Trojan camp",
+    "note": "Iris delivers Juno’s instruction that Turnus attack the Trojan camp during Aeneas’s absence.",
+    "source": "Virgil, Aeneid 9.1–24",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Janus Curiatius": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "served",
+    "myth": "Purification after Horatia's killing",
+    "note": "Purificatory sacrifice is offered at his paired altar.",
+    "source": "Dionysius 3.22",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Juno Sororia": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "served",
+    "myth": "Purification after Horatia's killing",
+    "note": "Purificatory sacrifice is offered at her altar after the sister's killing.",
+    "source": "Dionysius 3.22",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Jupiter Indiges": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "identified_with",
+    "myth": "Disappearance near the Numicus",
+    "note": "Roman tradition identifies the vanished or deified Aeneas with the local Indiges.",
+    "source": "Livy 1.2",
+    "date": "late 1st century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Jupiter Stator": [
+   {
+    "stated_by": "tarpeia",
+    "kind": "other",
+    "myth": "",
+    "note": "A damaged tradition may locate Tarpeia's image or memorial near his temple.",
+    "source": "Festus/Paulus, p. 496 Lindsay",
+    "date": "imperial to Carolingian transmission",
+    "tier": "late_accretion"
+   }
+  ],
+  "Juturna": [
+   {
+    "stated_by": "pallas",
+    "kind": "other",
+    "myth": "Juturna directs Turnus",
+    "note": "Juturna guides Turnus toward Pallas, though she never exchanges words with him.",
+    "source": "Virgil, Aeneid 10.439–440",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "The divine nymph Juturna is identified as Turnus’s sister.",
+    "source": "Virgil, Aeneid 12; Ovid, Fasti 2",
+    "date": "29–19 BCE; early first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "turnus",
+    "kind": "allied",
+    "myth": "Juturna prolongs the final duel",
+    "note": "Juturna drives Turnus’s chariot, restores his sword, and delays his encounter with Aeneas.",
+    "source": "Virgil, Aeneid 12.134–886",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Lagus": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas’s aristeia",
+    "note": "Pallas spears Lagus while he is lifting a heavy rock.",
+    "source": "Virgil, Aeneid 10.380–384",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Lamus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Nisus kills Lamus while he sleeps.",
+    "source": "Virgil, Aeneid 9.330–334",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Lamyrus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Nisus kills Lamyrus while he sleeps.",
+    "source": "Virgil, Aeneid 9.330–334",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Larides": [
+   {
+    "stated_by": "pallas",
+    "kind": "fought",
+    "myth": "Pallas fights the twins",
+    "note": "Pallas cuts off Larides’s right hand during combat.",
+    "source": "Virgil, Aeneid 10.390–396",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Larina": [
+   {
+    "stated_by": "camilla",
+    "kind": "allied",
+    "myth": "Cavalry battle",
+    "note": "Larina fights as a maiden warrior in Camilla's company.",
+    "source": "Virgil, Aeneid 11.655–658",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Latinus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "allied",
+    "myth": "Settlement in Latium",
+    "note": "Latinus receives Aeneas, promises Lavinia, and becomes his ally and father-in-law.",
+    "source": "Livy 1; Aeneid 7–12",
+    "date": "late 1st century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "fought",
+    "myth": "First encounter in Latium",
+    "note": "One Livian variant has Latinus fight Aeneas before making peace.",
+    "source": "Livy 1",
+    "date": "late 1st century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "other",
+    "myth": "War caused by the stag’s death",
+    "note": "Ascanius’s manipulated hunting shot destabilizes Latinus’s political order and helps ignite war.",
+    "source": "Virgil, Aeneid 7–12",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Lausus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "killed",
+    "myth": "Defense of Mezentius",
+    "note": "Aeneas kills Lausus as he protects Mezentius, then immediately pities him.",
+    "source": "Aeneid 10",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pallas",
+    "kind": "contest",
+    "myth": "Prevented encounter with Lausus",
+    "note": "The opposing youths advance against one another, but Jupiter prevents their duel.",
+    "source": "Virgil, Aeneid 10.426–438",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Lavinia, Evander’s daughter": [
+   {
+    "stated_by": "evander",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Lavinia is Evander’s daughter and Hercules’ partner in Polybius’s genealogy.",
+    "source": "Polybius fragment in Dionysius 1.32",
+    "date": "mid-second century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Leto": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "rescued_by",
+    "myth": "Healing in Apollo's sanctuary",
+    "note": "Leto heals the wounded Aeneas together with Artemis.",
+    "source": "Iliad 5",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Liris": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Paired fall of Liris and Pagasus",
+    "note": "Camilla kills Liris during his paired fall with Pagasus.",
+    "source": "Virgil, Aeneid 11.670–675",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Lyros": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Apollodoran mythography makes Lyros another son of Anchises and Aphrodite.",
+    "source": "Apollodoran mythography",
+    "date": "1st–2nd century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Messapus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "theft",
+    "myth": "Euryalus takes the fatal crested helmet",
+    "note": "Euryalus steals and wears Messapus’ helmet, whose reflection exposes him.",
+    "source": "Virgil, Aeneid 9.347–374",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Metabus": [
+   {
+    "stated_by": "camilla",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Metabus is Camilla's father and raises her in exile.",
+    "source": "Virgil, Aeneid 11.539–584",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mezentius": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "fought",
+    "myth": "Italian war",
+    "note": "Aeneas fights and wounds the Etruscan enemy Mezentius.",
+    "source": "Aeneid 10",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "killed",
+    "myth": "Death of Mezentius",
+    "note": "Aeneas kills Mezentius after the death of Lausus.",
+    "source": "Aeneid 10",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "fought",
+    "myth": "War after Aeneas’s disappearance",
+    "note": "In annalistic variants Ascanius continues the Latin struggle against Mezentius.",
+    "source": "Dionysius, Roman Antiquities 1.65–67",
+    "date": "7 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "evander",
+    "kind": "other",
+    "myth": "Etruscan revolt against Mezentius",
+    "note": "Evander explains Mezentius’s cruelty and the Etruscan revolt to Aeneas.",
+    "source": "Virgil, Aeneid 8.478–519",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Misenus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "served_by",
+    "myth": "Burial before the descent",
+    "note": "Misenus is Aeneas's companion, whose burial permits the underworld journey.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "other",
+    "myth": "Burial required before the descent",
+    "note": "The Sibyl reveals Misenus’ unburied corpse and requires his funeral rites.",
+    "source": "Virgil, Aeneid 6.149–155",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Mnestheus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "shared_myth",
+    "myth": "Council in the besieged Trojan camp",
+    "note": "Mnestheus shares the command and council setting with the pair.",
+    "source": "Virgil, Aeneid 9.171; 226–307",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Neptune Equester": [
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "shared_myth",
+    "myth": "Games and abduction of the women",
+    "note": "Plutarch identifies the festival’s honored deity with Neptune Equester.",
+    "source": "Plutarch, Romulus 14",
+    "date": "late first–second century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Neptune Equestris": [
+   {
+    "stated_by": "evander",
+    "kind": "created",
+    "myth": "Foundation of equestrian rites",
+    "note": "Evander’s Arcadians establish his precinct and equestrian festival.",
+    "source": "Dionysius, Roman Antiquities 1.33.2",
+    "date": "20s BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Numanus Remulus": [
+   {
+    "stated_by": "ascanius",
+    "kind": "killed",
+    "myth": "Ascanius’s first battlefield kill",
+    "note": "Ascanius answers Numanus’s taunts by killing him with an arrow.",
+    "source": "Virgil, Aeneid 9.598–637",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Numicus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "transformed_by",
+    "myth": "Apotheosis as Indiges",
+    "note": "The river washes away Aeneas's mortal portion before his deification.",
+    "source": "Ovid, Metamorphoses 14",
+    "date": "completed 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Opheltes": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Euryalus is the son of Opheltes, who raised him amid war.",
+    "source": "Virgil, Aeneid 9.201–203",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Opis": [
+   {
+    "stated_by": "camilla",
+    "kind": "other",
+    "myth": "Divine vengeance for Camilla",
+    "note": "Opis watches over Camilla and kills Arruns to avenge her death.",
+    "source": "Virgil, Aeneid 11.532–596, 836–867",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ornytus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Killing of Ornytus",
+    "note": "Camilla kills and taunts the Etruscan hunter-warrior Ornytus.",
+    "source": "Virgil, Aeneid 11.677–689",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Orsilochus": [
+   {
+    "stated_by": "camilla",
+    "kind": "deceived",
+    "myth": "Camilla's turning maneuver",
+    "note": "Camilla outmaneuvers Orsilochus by suddenly reversing her flight.",
+    "source": "Virgil, Aeneid 11.690–698",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Killing of Orsilochus",
+    "note": "Camilla kills the pleading Orsilochus with repeated axe blows.",
+    "source": "Virgil, Aeneid 11.690–698",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pagasus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Paired fall of Liris and Pagasus",
+    "note": "Camilla kills Pagasus during his paired fall with Liris.",
+    "source": "Virgil, Aeneid 11.670–675",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pales": [
+   {
+    "stated_by": "regulus",
+    "kind": "gift",
+    "myth": "Temple vow after victory over the Sallentini",
+    "note": "Regulus allegedly vowed or dedicated a temple to Pales after victory.",
+    "source": "Florus 1.15/1.20",
+    "date": "second century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Palinurus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "served_by",
+    "myth": "Voyage toward Italy",
+    "note": "Palinurus serves as Aeneas's helmsman until he is lost at sea.",
+    "source": "Aeneid 5",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "shared_myth",
+    "myth": "Meeting among the dead",
+    "note": "Aeneas encounters the unburied shade of his lost helmsman.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cumaean_sibyl",
+    "kind": "judged",
+    "myth": "Palinurus requests passage across Acheron",
+    "note": "The Sibyl refuses his unlawful crossing but foretells burial and a place named for him.",
+    "source": "Virgil, Aeneid 6.337–383",
+    "date": "c. 29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Pallantia": [
+   {
+    "stated_by": "evander",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Late commentary names Pallantia as Evander’s daughter and possible eponym.",
+    "source": "Late commentary tradition",
+    "date": "late antique",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pallas, Arcadian ancestor": [
+   {
+    "stated_by": "evander",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "An ancestral Pallas is the forebear and eponym of Evander’s Arcadian people.",
+    "source": "Virgil, Aeneid 8.51–54",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Pallas, son of Hercules and Lavinia": [
+   {
+    "stated_by": "evander",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Pallas is Evander’s grandson through Lavinia and Hercules.",
+    "source": "Polybius fragment in Dionysius 1.32",
+    "date": "mid-second century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "evander",
+    "kind": "other",
+    "myth": "Foundation of Pallantium",
+    "note": "Evander raises Pallas’s tomb and names Pallantium for him.",
+    "source": "Polybius fragment in Dionysius 1.32",
+    "date": "mid-second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pan Lycaeus": [
+   {
+    "stated_by": "evander",
+    "kind": "created",
+    "myth": "Arcadian foundation of the Lupercal",
+    "note": "Evander’s Arcadians establish or transfer Pan’s cult to the Lupercal.",
+    "source": "Dionysius 1.32; Ovid, Fasti 2",
+    "date": "20s BCE–c. 8 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pandarus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "allied",
+    "myth": "Battle against Diomedes",
+    "note": "Pandarus fights beside Aeneas from his chariot before Diomedes kills him.",
+    "source": "Iliad 5",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Panopes": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "contest",
+    "myth": "Anchises’ funeral footrace",
+    "note": "Panopes competes against Nisus and Euryalus in the footrace.",
+    "source": "Virgil, Aeneid 5.300–302",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Patron": [
+   {
+    "stated_by": "evander",
+    "kind": "allied",
+    "myth": "Migration from Arcadia",
+    "note": "Patron accompanies Evander during his migration and settlement.",
+    "source": "Plutarch, Romulus 13",
+    "date": "late first–early second century CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "contest",
+    "myth": "Anchises’ funeral footrace",
+    "note": "Patron competes against Nisus and Euryalus in the footrace.",
+    "source": "Virgil, Aeneid 5.298–301",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pilumnus": [
+   {
+    "stated_by": "turnus",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Turnus descends from Pilumnus, an Italian divine or ancestral figure.",
+    "source": "Virgil, Aeneid 9.3–4; 10.619; 12.83",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Polydorus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Bleeding grave in Thrace",
+    "note": "The murdered Trojan's bleeding grave warns Aeneas to leave Thrace.",
+    "source": "Aeneid 3",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Priam, son of Polites": [
+   {
+    "stated_by": "ascanius",
+    "kind": "shared_myth",
+    "myth": "The Trojan Ride",
+    "note": "Priam leads one mounted squadron alongside Ascanius in the Trojan youth display.",
+    "source": "Virgil, Aeneid 5.563–603",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Rhamnes": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Nisus kills Turnus’ sleeping kingly augur.",
+    "source": "Virgil, Aeneid 9.324–326",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "theft",
+    "myth": "Euryalus takes spoils from Rhamnes",
+    "note": "Euryalus takes Rhamnes’ phalerae and golden-studded belt.",
+    "source": "Virgil, Aeneid 9.359–364",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rhoeteus": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas’s aristeia",
+    "note": "Pallas kills fleeing Rhoeteus with a missile originally aimed at Ilus.",
+    "source": "Virgil, Aeneid 10.399–404",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rhoetus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Euryalus kills Rhoetus as he rises from hiding behind a bowl.",
+    "source": "Virgil, Aeneid 9.342–347",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rome": [
+   {
+    "stated_by": "evander",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some late genealogical material assigns Rome as Evander’s daughter.",
+    "source": "Late genealogical material",
+    "date": "date unspecified",
+    "tier": "late_accretion"
+   }
+  ],
+  "Rumina": [
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "other",
+    "myth": "Nursing beneath the sacred fig",
+    "note": "Antiquarians associate the nursing goddess with the twins’ suckling and sacred fig.",
+    "source": "Plutarch, Romulus 4",
+    "date": "late first–second century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sabine": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Corneille invents Sabine as the Alban wife of the Roman Horace.",
+    "source": "Corneille, Horace",
+    "date": "1640",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Corneille's Sabine is an Alban woman related to the Curiatii.",
+    "source": "Corneille, Horace",
+    "date": "1640",
+    "tier": "late_accretion"
+   }
+  ],
+  "Salius": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "contest",
+    "myth": "Anchises’ funeral footrace",
+    "note": "Salius competes against Nisus and Euryalus in the footrace.",
+    "source": "Virgil, Aeneid 5.298–361",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "deceived",
+    "myth": "Nisus obstructs Salius during the footrace",
+    "note": "Nisus deliberately trips Salius so that Euryalus can win.",
+    "source": "Virgil, Aeneid 5.318–361",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Serestus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "shared_myth",
+    "myth": "Council in the besieged Trojan camp",
+    "note": "Serestus shares the command and council setting with the pair.",
+    "source": "Virgil, Aeneid 9.171; 226–307",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Serranus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Massacre in the sleeping Rutulian camp",
+    "note": "Nisus kills the handsome young Serranus after his drinking and gaming.",
+    "source": "Virgil, Aeneid 9.332–337",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Silvia": [
+   {
+    "stated_by": "ascanius",
+    "kind": "other",
+    "myth": "Killing of Silvia’s tame stag",
+    "note": "Ascanius unknowingly kills Silvia’s domesticated stag, and her lament summons the country people.",
+    "source": "Virgil, Aeneid 7.483–510",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Silvius": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Virgil makes Silvius the son of Aeneas and Lavinia.",
+    "source": "Aeneid 6",
+    "date": "29–19 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "ancestor_of",
+    "myth": "",
+    "note": "Alternative annalistic genealogies make Silvius Aeneas's later descendant through Ascanius.",
+    "source": "Roman annalistic tradition",
+    "date": "ancient variant",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Livy and Ovid make Silvius the son and successor of Ascanius.",
+    "source": "Livy 1.3",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ascanius",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Dionysius makes Silvius Ascanius’s younger half-brother through Aeneas and Lavinia.",
+    "source": "Dionysius, Roman Antiquities 1.70",
+    "date": "7 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sol Indiges": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later antiquarian interpretation uncertainly connects Aeneas Indiges with Lavinium's solar divinity.",
+    "source": "Dionysius; antiquarian evidence",
+    "date": "ancient, date disputed",
+    "tier": "syncretism"
+   }
+  ],
+  "Spurius Larcius": [
+   {
+    "stated_by": "horatius_cocles",
+    "kind": "allied",
+    "myth": "Defense of the Pons Sublicius",
+    "note": "Larcius fights beside Cocles, then withdraws on his order.",
+    "source": "Livy 2.10; Dionysius 5.23–24",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Spurius Tarpeius": [
+   {
+    "stated_by": "tarpeia",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Tarpeia is the daughter of the Roman commander of the citadel.",
+    "source": "Livy, Ab urbe condita 1.11",
+    "date": "late 1st century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Sthenius": [
+   {
+    "stated_by": "pallas",
+    "kind": "fought",
+    "myth": "Pallas’s aristeia",
+    "note": "Pallas directly attacks Sthenius during his battlefield advance.",
+    "source": "Virgil, Aeneid 10.388",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Sulmo": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Nisus attacks Euryalus’ captors",
+    "note": "Nisus kills Sulmo with his first missile from concealment.",
+    "source": "Virgil, Aeneid 9.409–413",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tagus": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Nisus attacks Euryalus’ captors",
+    "note": "Nisus kills Tagus with his second missile.",
+    "source": "Virgil, Aeneid 9.414–419",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tarchon": [
+   {
+    "stated_by": "evander",
+    "kind": "allied",
+    "myth": "Etruscan alliance against Mezentius",
+    "note": "Evander directs Aeneas toward Tarchon’s forces, which require a foreign commander.",
+    "source": "Virgil, Aeneid 8.498–519",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Tereus": [
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Camilla's aristeia",
+    "note": "Camilla kills Tereus in rapid succession with other warriors.",
+    "source": "Virgil, Aeneid 11.675–677",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "The immortal gods": [
+   {
+    "stated_by": "marcus_curtius",
+    "kind": "other",
+    "myth": "Consecration before the leap",
+    "note": "Curtius looks toward their temples and raises his hands heavenward.",
+    "source": "Livy, Ab urbe condita 7.6",
+    "date": "late 1st c. BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "regulus",
+    "kind": "other",
+    "myth": "Providential interpretation of Regulus's torture",
+    "note": "They allegedly permit Carthaginian cruelty so Regulus earns greater glory.",
+    "source": "Valerius Maximus 1.1.14",
+    "date": "c. 30 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Thymber": [
+   {
+    "stated_by": "pallas",
+    "kind": "killed",
+    "myth": "Pallas fights the twins",
+    "note": "Pallas severs the head of Thymber, twin brother of Larides.",
+    "source": "Virgil, Aeneid 10.390–396",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tiber": [
+   {
+    "stated_by": "pallas",
+    "kind": "allied",
+    "myth": "Prayer before killing Halaesus",
+    "note": "Pallas prays for aid against Halaesus, vows spoils, and the river-god hears.",
+    "source": "Virgil, Aeneid 10.420–425",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "romulus_and_remus",
+    "kind": "shared_myth",
+    "myth": "Exposure of the infant twins",
+    "note": "The flooded river receives the exposed twins and deposits them near the Palatine.",
+    "source": "Livy 1.4",
+    "date": "first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Tiberinus": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "taught_by",
+    "myth": "Dream beside the Tiber",
+    "note": "The river god appears in a dream and guides Aeneas to Evander.",
+    "source": "Aeneid 8",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "horatius_cocles",
+    "kind": "gift",
+    "myth": "Prayer before the leap into the Tiber",
+    "note": "Cocles asks the river-god to receive his weapons and warrior favorably.",
+    "source": "Livy, Ab urbe condita 2.10",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Timandra": [
+   {
+    "stated_by": "evander",
+    "kind": "child_of",
+    "myth": "",
+    "note": "A late human genealogy names Timandra as Evander’s mother.",
+    "source": "Servius on Aeneid 8.130",
+    "date": "late antique",
+    "tier": "regional_variant"
+   }
+  ],
+  "Titus Herminius": [
+   {
+    "stated_by": "horatius_cocles",
+    "kind": "allied",
+    "myth": "Defense of the Pons Sublicius",
+    "note": "Herminius fights beside Cocles, then withdraws on his order.",
+    "source": "Livy 2.10; Dionysius 5.23–24",
+    "date": "late first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Titus Tatius": [
+   {
+    "stated_by": "tarpeia",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Antigonus alternatively makes Tarpeia Tatius's captive daughter acting for him.",
+    "source": "Antigonus through Plutarch, Romulus 17.5",
+    "date": "uncertain Hellenistic date",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tarpeia",
+    "kind": "deceived_by",
+    "myth": "The bargain for what the Sabines wore",
+    "note": "Seeking gold ornaments, Tarpeia receives the Sabines' crushing shields instead.",
+    "source": "Fabius and Cincius through Dionysius 2.38",
+    "date": "late 3rd century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tarpeia",
+    "kind": "deceived",
+    "myth": "Tarpeia's attempted disarming of the Sabines",
+    "note": "Tarpeia requests Sabine shields intending to disarm Tatius's forces.",
+    "source": "Piso through Dionysius 2.39",
+    "date": "later 2nd century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tarpeia",
+    "kind": "killed_by",
+    "myth": "Tarpeia crushed beneath Sabine shields",
+    "note": "Tatius begins Tarpeia's execution by ordering or casting shields upon her.",
+    "source": "Plutarch, Romulus 17",
+    "date": "late 1st–early 2nd century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tarpeia",
+    "kind": "other",
+    "myth": "Tarpeia's love and betrayal",
+    "note": "Tarpeia loves Tatius, imagines marriage, and offers the citadel as dowry.",
+    "source": "Propertius, Elegies 4.4",
+    "date": "c. 16 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Tros": [
+   {
+    "stated_by": "aeneas_hero",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Tros is an ancestor in Aeneas's Dardanian genealogy.",
+    "source": "Iliad 20",
+    "date": "ca. 700 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tulla": [
+   {
+    "stated_by": "camilla",
+    "kind": "allied",
+    "myth": "Cavalry battle",
+    "note": "Tulla fights as a maiden warrior in Camilla's company.",
+    "source": "Virgil, Aeneid 11.655–658",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tyrrhus": [
+   {
+    "stated_by": "ascanius",
+    "kind": "fought",
+    "myth": "Conflict following the stag’s death",
+    "note": "Tyrrhus joins the armed rural response after Ascanius kills his household’s stag.",
+    "source": "Virgil, Aeneid 7.485–539",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Unnamed son of Aunus": [
+   {
+    "stated_by": "camilla",
+    "kind": "deceived_by",
+    "myth": "Challenge to fight on foot",
+    "note": "The Ligurian tricks Camilla into dismounting by proposing a foot fight.",
+    "source": "Virgil, Aeneid 11.699–724",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "camilla",
+    "kind": "killed",
+    "myth": "Killing of Aunus's son",
+    "note": "Camilla exposes his trick, overtakes him, and kills him.",
+    "source": "Virgil, Aeneid 11.699–724",
+    "date": "c. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Venilia": [
+   {
+    "stated_by": "turnus",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Venilia, a sea-associated nymph or marine divinity, is Turnus’s mother.",
+    "source": "Virgil, Aeneid 10.76",
+    "date": "29–19 BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Venus Cloacina": [
+   {
+    "stated_by": "cloelia",
+    "kind": "identified_with",
+    "myth": "Cloelia statue reinterpretation",
+    "note": "Modern scholars conjecture that the statue called Cloelia originally represented Venus Cloacina.",
+    "source": "Modern scholarship",
+    "date": "19th–21st centuries",
+    "tier": "modern"
+   }
+  ],
+  "Venus Equestris": [
+   {
+    "stated_by": "cloelia",
+    "kind": "identified_with",
+    "myth": "Cloelia statue reinterpretation",
+    "note": "Modern scholars conjecture that the statue called Cloelia originally represented Venus Equestris.",
+    "source": "Modern scholarship",
+    "date": "19th–21st centuries",
+    "tier": "modern"
+   }
+  ],
+  "Vica Pota": [
+   {
+    "stated_by": "cloelia",
+    "kind": "identified_with",
+    "myth": "Cloelia statue reinterpretation",
+    "note": "Modern scholars conjecture that the statue called Cloelia originally represented Vica Pota.",
+    "source": "Modern scholarship",
+    "date": "19th–21st centuries",
+    "tier": "modern"
+   }
+  ],
+  "Victory": [
+   {
+    "stated_by": "evander",
+    "kind": "created",
+    "myth": "Foundation of Palatine cults",
+    "note": "Evander’s Arcadians establish Victory’s Palatine precinct and sacrifices.",
+    "source": "Dionysius, Roman Antiquities 1.32.5–33.1",
+    "date": "20s BCE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Volcens": [
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed_by",
+    "myth": "Euryalus captured by returning cavalry",
+    "note": "Volcens kills Euryalus despite Nisus claiming sole responsibility.",
+    "source": "Virgil, Aeneid 9.367–435",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nisus_and_euryalus",
+    "kind": "killed",
+    "myth": "Nisus avenges Euryalus",
+    "note": "Nisus drives his sword into Volcens’ mouth before dying.",
+    "source": "Virgil, Aeneid 9.438–445",
+    "date": "ca. 29–19 BCE",
+    "tier": "attested"
+   }
+  ],
+  "the Naiads": [
+   {
+    "stated_by": "tarpeia",
+    "kind": "shared_myth",
+    "myth": "Naiads flood the Sabines' path",
+    "note": "Following Tarpeia's betrayal, the Naiads create heated water obstructing the Sabines.",
+    "source": "Ovid, Metamorphoses 14.775–804",
+    "date": "c. 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "the Sun": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "shared_myth",
+    "myth": "Sunward glance before combat",
+    "note": "The champions look toward the Sun before beginning the combat.",
+    "source": "Cassius Dio Book 2 fragment",
+    "date": "early third century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "the common family gods": [
+   {
+    "stated_by": "horatii_and_curiatii",
+    "kind": "served",
+    "myth": "Invocation before the triple combat",
+    "note": "Both related groups invoke their shared ancestral gods before fighting.",
+    "source": "Cassius Dio Book 2 fragment",
+    "date": "early third century CE",
+    "tier": "late_accretion"
+   }
+  ]
+ }
+}

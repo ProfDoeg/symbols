@@ -1,0 +1,140 @@
+{
+ "subject": "lech_czech_and_rus",
+ "relations": [
+  {
+   "other": "Pan, prince of Pannonia",
+   "other_aliases": [
+    "Pan"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pan is named as the father of Lech, Rus, and Czech.",
+   "source": "Greater Poland Chronicle, long prologue",
+   "date": "late thirteenth/fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rus",
+   "other_aliases": [
+    "Rus’"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lech and Rus are brothers and parallel ancestors of Lechites and Ruthenians.",
+   "source": "Greater Poland Chronicle, long prologue",
+   "date": "late thirteenth/fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Czech",
+   "other_aliases": [
+    "Čech",
+    "Boemus",
+    "Bohemus",
+    "Czechus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lech and Czech are brothers and parallel national ancestors.",
+   "source": "Greater Poland Chronicle, long prologue",
+   "date": "late thirteenth/fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Czech",
+   "other_aliases": [
+    "Čech",
+    "Boemus",
+    "Bohemus",
+    "Czechus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint migration and separation",
+   "note": "Later Czech chronicles develop Lech and Czech as related fellow migrants.",
+   "source": "Pulkava’s chronicle",
+   "date": "c. 1370s",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Czech",
+   "other_aliases": [
+    "Čech",
+    "Boemus",
+    "Bohemus",
+    "Czechus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rus and Czech are brothers and parallel ancestors without a distinct adventure.",
+   "source": "Greater Poland Chronicle, long prologue",
+   "date": "late thirteenth/fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rus",
+   "other_aliases": [
+    "Rus’"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Długosz sometimes places Rus within Lech’s posterity instead of among the equal brothers.",
+   "source": "Długosz, Annales",
+   "date": "1455–1480",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rus",
+   "other_aliases": [
+    "Rus’"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Stryjkowski’s learned genealogy sometimes makes Rus a descendant rather than a brother.",
+   "source": "Stryjkowski, Kronika",
+   "date": "1582",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "White Eagle",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lech discovers the White Eagle",
+   "note": "Lech sees the eagle and adopts it as his people’s emblem.",
+   "source": "Modern educational retellings",
+   "date": "nineteenth–twenty-first centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Świętowit",
+   "other_aliases": [
+    "Svantovit"
+   ],
+   "kind": "other",
+   "myth": "Pagan invocations by the three founders",
+   "note": "Some modern stories have the founders invoke Świętowit, unlike medieval accounts.",
+   "source": "Modern retellings",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Meh",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Regional Croatian tradition makes Meh a brother of Čeh and Leh.",
+   "source": "Northern Croatian traditions",
+   "date": "seventeenth–eighteenth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vilina",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some Croatian variants add Vilina as sister of Čeh, Leh, and Meh.",
+   "source": "Northern Croatian traditions",
+   "date": "seventeenth–eighteenth centuries",
+   "tier": "regional_variant"
+  }
+ ]
+}

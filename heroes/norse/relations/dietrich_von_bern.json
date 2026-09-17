@@ -1,0 +1,722 @@
+{
+ "subject": "dietrich_von_bern",
+ "relations": [
+  {
+   "other": "Dietmar",
+   "other_aliases": [
+    "Þetmarr",
+    "Thetmar"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Dietmar or Þetmarr is Dietrich’s father in German and Norse traditions.",
+   "source": "Dietrichs Flucht; Þiðreks saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odilia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Odilia is Þiðrekr’s mother in the saga genealogy.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Samson",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The saga extends Þiðrekr’s royal genealogy through Samson.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diether",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Diether is Dietrich’s younger brother.",
+   "source": "Dietrichs Flucht; Rabenschlacht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Herrad",
+   "other_aliases": [
+    "Herrat"
+   ],
+   "kind": "consort_of",
+   "myth": "Dietrich’s marriage and eventual return",
+   "note": "Dietrich marries Herrad, who is also associated with his final return.",
+   "source": "Þiðreks saga; German heroic texts",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hildebrand",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Dietrich’s youth",
+   "note": "Hildebrand serves as Dietrich’s tutor and weapons-master.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hildebrand",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Exile from Dietrich’s realm",
+   "note": "Hildebrand is Dietrich’s chief counselor, retainer, and exile companion.",
+   "source": "Hildebrandslied",
+   "date": "c. 830–840",
+   "tier": "attested"
+  },
+  {
+   "other": "Hildebrand",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Captivity beneath Sigenot’s mountain",
+   "note": "Hildebrand kills Sigenot and frees the imprisoned Dietrich.",
+   "source": "Sigenot",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hadubrand",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hildebrand’s exile",
+   "note": "Hadubrand knows Dietrich as the lord for whom his father fled.",
+   "source": "Hildebrandslied",
+   "date": "c. 830–840",
+   "tier": "attested"
+  },
+  {
+   "other": "Odoacer",
+   "other_aliases": [
+    "Otacher"
+   ],
+   "kind": "fought",
+   "myth": "Dietrich’s earliest exile",
+   "note": "Otacher’s hostility drives Dietrich and Hildebrand eastward into exile.",
+   "source": "Hildebrandslied",
+   "date": "c. 830–840",
+   "tier": "attested"
+  },
+  {
+   "other": "Widia",
+   "other_aliases": [
+    "Witege",
+    "Viðga",
+    "Wittich"
+   ],
+   "kind": "rescued_by",
+   "myth": "Captivity among monsters",
+   "note": "Widia rescues Theodoric from imprisonment among monsters.",
+   "source": "Waldere",
+   "date": "tenth/eleventh century",
+   "tier": "attested"
+  },
+  {
+   "other": "Widia",
+   "other_aliases": [
+    "Witege",
+    "Viðga",
+    "Wittich"
+   ],
+   "kind": "allied",
+   "myth": "Dietrich’s champion-band",
+   "note": "Witege becomes Dietrich’s companion after challenging or being tested by him.",
+   "source": "Þiðreks saga; German epics",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Widia",
+   "other_aliases": [
+    "Witege",
+    "Viðga",
+    "Wittich"
+   ],
+   "kind": "fought",
+   "myth": "Battle of Ravenna",
+   "note": "Dietrich pursues the deserter Witege after he kills Diether and Etzel’s sons.",
+   "source": "Rabenschlacht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ermanaric",
+   "other_aliases": [
+    "Ermrich",
+    "Erminrik",
+    "Ermenrich"
+   ],
+   "kind": "fought",
+   "myth": "Exile and attempted return",
+   "note": "Dietrich’s usurping uncle or kinsman dispossesses him and provokes repeated wars.",
+   "source": "Dietrichs Flucht; Rabenschlacht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sibich",
+   "other_aliases": [
+    "Sifka"
+   ],
+   "kind": "deceived_by",
+   "myth": "Ermanaric’s persecution of Dietrich",
+   "note": "Sibich’s malicious intrigue helps cause Dietrich’s persecution and war.",
+   "source": "German heroic tradition; Þiðreks saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Etzel",
+   "other_aliases": [
+    "Atli",
+    "Attila"
+   ],
+   "kind": "served",
+   "myth": "Dietrich’s exile at Etzel’s court",
+   "note": "Dietrich resides at Etzel’s court as an exiled military leader.",
+   "source": "Nibelungenlied; Dietrichs Flucht",
+   "date": "c. 1200–late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Etzel",
+   "other_aliases": [
+    "Atli",
+    "Attila"
+   ],
+   "kind": "allied",
+   "myth": "Campaigns and Niflung catastrophe",
+   "note": "Etzel hosts, patronizes, and campaigns alongside Dietrich.",
+   "source": "Rabenschlacht; Þiðreks saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helche",
+   "other_aliases": [
+    "Erka"
+   ],
+   "kind": "allied",
+   "myth": "Dietrich’s campaigns from exile",
+   "note": "Etzel’s queen protects Dietrich and supplies treasure for his warriors.",
+   "source": "Dietrichs Flucht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ort",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Battle of Ravenna",
+   "note": "Etzel entrusts Ort to Dietrich, but Witege kills the young prince.",
+   "source": "Rabenschlacht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scharpfe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Battle of Ravenna",
+   "note": "Etzel entrusts Scharpfe to Dietrich, but Witege kills the young prince.",
+   "source": "Rabenschlacht",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [
+    "Grimhild",
+    "Guðrún"
+   ],
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich opposes Kriemhild’s faction and delivers his captives alive to her.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [
+    "Grimhild",
+    "Guðrún"
+   ],
+   "kind": "other",
+   "myth": "Guðrún’s adultery ordeal",
+   "note": "Guðrún is falsely accused of sleeping with Þjóðrekr and is vindicated.",
+   "source": "Guðrúnarkviða III",
+   "date": "twelfth century or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Herkja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Guðrún’s adultery ordeal",
+   "note": "Herkja falsely accuses Guðrún of sexual relations with Þjóðrekr.",
+   "source": "Guðrúnarkviða III",
+   "date": "twelfth century or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gunther",
+   "other_aliases": [
+    "Gunnarr"
+   ],
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich defeats, binds, and delivers Gunther alive to Kriemhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [
+    "Hǫgni"
+   ],
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Dietrich defeats, binds, and delivers Hagen alive to Kriemhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [
+    "Sigurðr"
+   ],
+   "kind": "fought",
+   "myth": "Rose-garden tournament at Worms",
+   "note": "Dietrich’s rage and supernatural heat overcome Siegfried during their duel.",
+   "source": "Rosengarten zu Worms",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brünhild",
+   "other_aliases": [
+    "Brynhildr"
+   ],
+   "kind": "shared_myth",
+   "myth": "Synthetic life of Þiðrekr",
+   "note": "Brünhild belongs to the heroic complex incorporated into Dietrich’s saga.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rüdiger of Bechelaren",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Etzel’s court and Burgundian catastrophe",
+   "note": "Rüdiger is Dietrich’s fellow leader at Etzel’s court.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rüdiger of Bechelaren",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rüdiger’s death",
+   "note": "Dietrich laments Rüdiger after the latter is killed.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Volker",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Volker opposes Dietrich’s retainers during the hall battle.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wolfhart",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Burgundian hall battle",
+   "note": "Wolfhart is Dietrich’s fierce retainer and dies fighting the Burgundians.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Giselher",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Burgundian hall battle",
+   "note": "Giselher fights Dietrich’s retainers and is killed by Wolfhart.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alphart",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Alphart’s final battle",
+   "note": "Alphart is Dietrich’s young retainer, treacherously killed by Witege and Heime.",
+   "source": "Alpharts Tod",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heime",
+   "other_aliases": [
+    "Heimir"
+   ],
+   "kind": "fought",
+   "myth": "Heime’s challenge",
+   "note": "Heime challenges Dietrich and is defeated before joining him.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heime",
+   "other_aliases": [
+    "Heimir"
+   ],
+   "kind": "served_by",
+   "myth": "Dietrich’s champion-band",
+   "note": "Dietrich recruits Heime, who also provides him the horse Falke.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heime",
+   "other_aliases": [
+    "Heimir"
+   ],
+   "kind": "fought",
+   "myth": "Alphart’s death",
+   "note": "Heime later opposes Dietrich’s party and helps Witege kill Alphart.",
+   "source": "Alpharts Tod",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þetleifr",
+   "other_aliases": [
+    "Dietleib"
+   ],
+   "kind": "served_by",
+   "myth": "Dietrich’s champion-band",
+   "note": "Þetleifr joins Dietrich’s company of champions.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Þetleifr",
+   "other_aliases": [
+    "Dietleib"
+   ],
+   "kind": "rescued_by",
+   "myth": "Escape from Laurin’s mountain",
+   "note": "Dietleib helps Dietrich’s imprisoned party escape Laurin’s mountain realm.",
+   "source": "Laurin",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Biterolf",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dietrich’s heroic fellowship",
+   "note": "Biterolf is a heroic associate within Dietrich’s connected tradition.",
+   "source": "Biterolf und Dietleib",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ecke",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dietrich’s duel with Ecke",
+   "note": "Dietrich reluctantly kills the giant Ecke after a brutal prolonged duel.",
+   "source": "Eckenlied",
+   "date": "early thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fasolt",
+   "other_aliases": [
+    "Fasold"
+   ],
+   "kind": "fought",
+   "myth": "After Ecke’s death",
+   "note": "Ecke’s brother or companion confronts Dietrich.",
+   "source": "Eckenlied",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fasolt",
+   "other_aliases": [
+    "Fasold"
+   ],
+   "kind": "allied",
+   "myth": "Reconciliation after their confrontation",
+   "note": "Some versions make Fasolt accommodate himself to or join Dietrich.",
+   "source": "Eckenlied; Þiðreks saga",
+   "date": "thirteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sigenot",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dietrich’s captivity beneath the mountain",
+   "note": "The giant Sigenot defeats and imprisons Dietrich.",
+   "source": "Sigenot",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eggerich",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sigenot’s giant-captivity story",
+   "note": "Eggerich is a dwarf associated with Dietrich’s Sigenot adventure.",
+   "source": "Sigenot",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hild",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dietrich’s youthful giant combat",
+   "note": "Young Dietrich kills the giantess Hild.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Grim",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dietrich’s youthful giant combat",
+   "note": "Dietrich kills the giant Grim with Alfrikr’s assistance.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alfrikr",
+   "other_aliases": [
+    "Alberich"
+   ],
+   "kind": "allied",
+   "myth": "Combat against Grim",
+   "note": "The dwarf Alfrikr assists Dietrich against Grim and supplies heroic equipment.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alfrikr",
+   "other_aliases": [
+    "Alberich"
+   ],
+   "kind": "gift",
+   "myth": "Dietrich’s youthful giant combat",
+   "note": "Alfrikr provides equipment associated with Dietrich’s victory and heroic career.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Laurin",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Violation of Laurin’s rose garden",
+   "note": "Dietrich violates Laurin’s garden, contests its toll, and battles the dwarf king.",
+   "source": "Laurin",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laurin",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Captivity in Laurin’s mountain",
+   "note": "Laurin magically overcomes and imprisons Dietrich and his companions.",
+   "source": "Laurin",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laurin",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation after Laurin’s defeat",
+   "note": "Reconciliatory versions make the defeated Laurin Dietrich’s subordinate or ally.",
+   "source": "Later Laurin versions",
+   "date": "fourteenth–fifteenth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Walberan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Walberan’s threat to Dietrich’s party",
+   "note": "Laurin’s powerful kinsman initially threatens Dietrich and his companions.",
+   "source": "Laurin/Walberan continuation",
+   "date": "later medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Walberan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement with Walberan",
+   "note": "Dietrich’s party and Walberan eventually reach a settlement.",
+   "source": "Laurin/Walberan continuation",
+   "date": "later medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Künhilt",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from Laurin’s mountain",
+   "note": "Künhilt helps Dietrich and his companions escape Laurin’s captivity.",
+   "source": "Laurin",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Virginal",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense of Queen Virginal",
+   "note": "Dietrich assists Virginal against Orkise, giants, and dragons.",
+   "source": "Virginal",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orkise",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of Queen Virginal",
+   "note": "Dietrich’s side overcomes the heathen oppressor Orkise.",
+   "source": "Virginal",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wunderer",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rescue of Wunderer’s maiden",
+   "note": "Dietrich kills the cannibalistic Wunderer while protecting his intended victim.",
+   "source": "Wunderer",
+   "date": "fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The nameless maiden in Wunderer",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from the Wunderer",
+   "note": "Dietrich saves the maiden from her cannibalistic pursuer.",
+   "source": "Wunderer",
+   "date": "fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The nameless maiden in Wunderer",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Blessing after her rescue",
+   "note": "The rescued maiden gives Dietrich a blessing connected with his final fate.",
+   "source": "Wunderer",
+   "date": "fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "King Isung",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Tournament against Isung’s champions",
+   "note": "Dietrich’s heroes compete against King Isung’s champion-band.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sigurd Svein",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Tournament against Isung’s champions",
+   "note": "Isung’s champion fights within the tournament cycle opposing Dietrich’s heroes.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wenezlan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dietrich’s duel with Wenezlan",
+   "note": "Dietrich fights the Polish king Wenezlan.",
+   "source": "Dietrich und Wenezlan",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wieland",
+   "other_aliases": [
+    "Velent"
+   ],
+   "kind": "other",
+   "myth": "Combats involving Viðga and Mimung",
+   "note": "Wieland’s son Viðga and sword Mimung materially affect Dietrich’s combats.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Christian God",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Penance until Judgment Day",
+   "note": "Dietrich’s endless dragon combat is interpreted as divinely imposed penance.",
+   "source": "Wunderer",
+   "date": "fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Devil",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Dietrich’s infernal ride",
+   "note": "A demonic power carries Dietrich away on a black horse toward punishment.",
+   "source": "San Zeno reliefs; later accounts",
+   "date": "c. 1138–1140 onward",
+   "tier": "late_accretion"
+  }
+ ]
+}

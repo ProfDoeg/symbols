@@ -1,0 +1,636 @@
+{
+ "subject": "minos",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus is Minos’s divine father.",
+   "source": "Iliad 13.450; Odyssey 11.568",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Nine-year consultation",
+   "note": "Minos periodically consults Zeus and derives his laws from the god.",
+   "source": "Plato, Laws 624b",
+   "date": "ca. 350 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ring challenge aboard the tribute ship",
+   "note": "Zeus answers Minos’s invocation with lightning during his contest with Theseus.",
+   "source": "Bacchylides 17",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Europa bears Minos to Zeus.",
+   "source": "Iliad 14.321–322",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asterion",
+   "other_aliases": [
+    "Asterius"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asterion raises Minos as his foster-son and precedes him as king.",
+   "source": "Apollodorus 3.1.2–3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhadamanthus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhadamanthus is Minos’s brother.",
+   "source": "Iliad 14.321–322",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhadamanthus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of naked souls",
+   "note": "Minos and Rhadamanthus judge souls, with Minos holding final authority.",
+   "source": "Plato, Gorgias 523e–524a",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sarpedon is Minos’s brother in the standard genealogy.",
+   "source": "Apollodorus 3.1.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rivalry over Miletus or Atymnius",
+   "note": "Minos quarrels with Sarpedon over rule or a beloved youth and expels him.",
+   "source": "Herodotus 1.173; Apollodorus 3.1.1–2",
+   "date": "fifth century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pasiphae is Minos’s wife and mother of his principal children.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crete",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Crete appears as an alternative wife of Minos.",
+   "source": "Diodorus and genealogical notices",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Itone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Itone appears as an alternative wife of Minos.",
+   "source": "Diodorus and genealogical notices",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The sea bull",
+   "note": "Poseidon sends Minos a magnificent bull after Minos prays for a divine sign.",
+   "source": "Apollodorus 3.1.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Pasiphae and the sea bull",
+   "note": "Poseidon punishes Minos’s broken sacrifice vow by afflicting Pasiphae with desire for the bull.",
+   "source": "Euripides, Cretans; Apollodorus 3.1.3–4",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Pasiphae’s desire",
+   "note": "A late variant makes Aphrodite cause Pasiphae’s desire as punishment involving Minos’s household.",
+   "source": "Later mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ring challenge",
+   "note": "Minos challenges Theseus to retrieve a ring from the sea and prove Poseidon’s paternity.",
+   "source": "Bacchylides 17",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Athenian tribute and Minotaur",
+   "note": "Minos holds Theseus among Athens’s tribute victims; Theseus kills the Minotaur and escapes.",
+   "source": "Plutarch, Theseus 15–19",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defeat of Taurus",
+   "note": "In rationalized variants Minos releases Theseus and the youths after Theseus defeats Taurus.",
+   "source": "Plutarch, Theseus 16–19",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ring challenge",
+   "note": "Amphitrite supports Theseus and gives him gifts, enabling him to defeat Minos’s test.",
+   "source": "Bacchylides 17",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ring challenge",
+   "note": "The Nereids receive Theseus in the sea during Minos’s challenge.",
+   "source": "Bacchylides 17",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of naked souls",
+   "note": "Aeacus and Minos serve together as judges of dead souls.",
+   "source": "Plato, Gorgias 523e–524a",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ariadne is Minos’s daughter.",
+   "source": "Odyssey 11.321–325",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Theseus escapes Crete",
+   "note": "Minos guards or confines Ariadne before she aids Theseus and flees Crete.",
+   "source": "Later mythography",
+   "date": "classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaedra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phaedra is Minos’s daughter by Pasiphae.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Androgeus",
+   "other_aliases": [
+    "Eurygyes"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Androgeus is Minos’s son, whose death precipitates war with Athens.",
+   "source": "Hesiodic Catalogue fr. 145",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deucalion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Deucalion is Minos’s son and successor.",
+   "source": "Iliad 13.451",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Idomeneus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Minos is the grandfather and dynastic ancestor of Idomeneus.",
+   "source": "Iliad 13.451–453",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lycastus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "In Diodorus’s two-Minos scheme, Lycastus is Minos’s son or descendant.",
+   "source": "Diodorus 4.60; 5.78–80",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Glaucus is Minos’s son by Pasiphae.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Glaucus in the honey jar",
+   "note": "Minos compels Polyidus to find and revive his dead son Glaucus.",
+   "source": "Apollodorus 3.3.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Catreus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Catreus is Minos’s son and successor.",
+   "source": "Apollodorus 3.2.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acacallis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Acacallis is listed among Minos’s children by Pasiphae.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Xenodice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Xenodice is listed among Minos’s children by Pasiphae.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euryale",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Euryale is a child of Minos in later genealogical traditions.",
+   "source": "Later mythography",
+   "date": "Hellenistic period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pholegander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pholegander is a child of Minos in regional genealogy.",
+   "source": "Apollonius and later mythography",
+   "date": "third century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anaphe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Anaphe is a child of Minos in regional genealogy.",
+   "source": "Apollonius and later mythography",
+   "date": "third century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eurymedon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eurymedon is attributed to Minos by later genealogical traditions.",
+   "source": "Scholia and later mythography",
+   "date": "Hellenistic period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nephalion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nephalion is attributed to Minos by later genealogical traditions.",
+   "source": "Diodorus and later mythography",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chryses",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chryses is attributed to Minos by later genealogical traditions.",
+   "source": "Scholia and later mythography",
+   "date": "Hellenistic period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Molos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Molos is Minos’s son or illegitimate descendant and father of Meriones.",
+   "source": "Diodorus 5.79; Apollodorus 3.3.1",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterion",
+    "Asterius"
+   ],
+   "kind": "punished",
+   "myth": "Imprisonment in the labyrinth",
+   "note": "Minos confines Pasiphae’s bull-headed child in the labyrinth and supplies it the Athenian tribute.",
+   "source": "Apollodorus 3.1.4; 3.15.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Wooden cow and labyrinth",
+   "note": "Minos employs Daedalus to construct Pasiphae’s wooden cow and the labyrinth.",
+   "source": "Euripides, Cretans; Apollodorus 3.1.4",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Daedalus imprisoned",
+   "note": "Minos confines Daedalus after the artisan assists Pasiphae, Ariadne, or both.",
+   "source": "Diodorus 4.77; Ovid, Metamorphoses 8",
+   "date": "first century BCE–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pursuit to Sicily",
+   "note": "Minos pursues the escaped Daedalus to Cocalus’s court in Sicily.",
+   "source": "Diodorus 4.78–79",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icarus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Escape from Crete",
+   "note": "Minos indirectly confines and pursues Icarus alongside his father Daedalus.",
+   "source": "Diodorus 4.77; Ovid, Metamorphoses 8",
+   "date": "first century BCE–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyidus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Revival of Glaucus",
+   "note": "Minos imprisons or coerces Polyidus until the seer revives Glaucus.",
+   "source": "Apollodorus 3.3.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyidus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Glaucus learns divination",
+   "note": "Minos tries to compel Polyidus to teach divination to Glaucus.",
+   "source": "Apollodorus 3.3.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegeus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "War and Athenian tribute",
+   "note": "Minos holds Aegeus responsible for Androgeus’s death and forces Athens to provide tribute.",
+   "source": "Apollodorus 3.15.7–8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eriboea",
+   "other_aliases": [
+    "Periboea"
+   ],
+   "kind": "seduced",
+   "myth": "Assault aboard the tribute ship",
+   "note": "Minos sexually threatens or assaults Eriboea until Theseus intervenes.",
+   "source": "Bacchylides 17",
+   "date": "early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Taurus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Taurus is Minos’s general or champion in rationalized traditions.",
+   "source": "Plutarch, Theseus 16–19",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nisus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Siege of Megara",
+   "note": "Minos attacks Nisus and takes Megara after Scylla removes her father’s life-preserving lock.",
+   "source": "Apollodorus 3.15.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Betrayal of Nisus",
+   "note": "Scylla falls in love with Minos and betrays her father and city for him.",
+   "source": "Ovid, Metamorphoses 8.6–151",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Death of Scylla",
+   "note": "Minos rejects Scylla and, in some versions, ties her to his ship or has her drowned.",
+   "source": "Apollodorus 3.15.8",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Megareus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Siege of Megara",
+   "note": "Megareus comes to aid Nisus and dies fighting Minos’s forces.",
+   "source": "Pausanias 1.39.5",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cocalus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Search for Daedalus",
+   "note": "Cocalus receives Minos as a guest while secretly protecting Daedalus.",
+   "source": "Diodorus 4.79",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cocalus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death in the Sicilian bath",
+   "note": "Cocalus arranges or permits Minos’s death and reports it as an accident.",
+   "source": "Diodorus 4.79",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cocalus’s daughters",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death in the Sicilian bath",
+   "note": "Cocalus’s daughters scald Minos by pouring boiling water through bath pipes.",
+   "source": "Apollodorus, Epitome 1.14–15",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Miletus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rivalry with Sarpedon",
+   "note": "Minos and Sarpedon contest the favor of Miletus in one version.",
+   "source": "Apollodorus 3.1.1–2",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atymnius",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rivalry with Sarpedon",
+   "note": "Atymnius replaces Miletus as the youth contested by Minos and Sarpedon.",
+   "source": "Antoninus Liberalis 30",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Britomartis",
+   "other_aliases": [
+    "Dictynna"
+   ],
+   "kind": "seduced",
+   "myth": "Nine-month pursuit of Britomartis",
+   "note": "Minos pursues Britomartis for nine months until she escapes into the sea.",
+   "source": "Callimachus, Hymn to Artemis 189–203",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Procris",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Minos and Procris",
+   "note": "Minos desires Procris, who first cures the sexual affliction Pasiphae imposed on him.",
+   "source": "Apollodorus 3.15.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Procris",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Minos and Procris",
+   "note": "Minos rewards Procris with magical hunting gifts after she cures his affliction.",
+   "source": "Apollodorus 3.15.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  }
+ ]
+}

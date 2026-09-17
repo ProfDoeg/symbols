@@ -1,0 +1,87 @@
+{
+ "subject": "jonah",
+ "relations": [
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "the God of Israel",
+    "God"
+   ],
+   "kind": "served",
+   "myth": "Jonah’s two commissions to preach against Nineveh",
+   "note": "YHWH twice commissions Jonah, who eventually delivers the warning to Nineveh.",
+   "source": "Jonah 1:1–3; 3:1–4",
+   "date": "late 6th–4th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "the God of Israel",
+    "God"
+   ],
+   "kind": "punished_by",
+   "myth": "Storm and confinement following Jonah’s flight",
+   "note": "YHWH sends the storm and appoints the fish after Jonah flees.",
+   "source": "Jonah 1:4–17",
+   "date": "late 6th–4th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "the God of Israel",
+    "God"
+   ],
+   "kind": "rescued_by",
+   "myth": "Deliverance from the great fish",
+   "note": "YHWH hears Jonah’s prayer and commands the fish to expel him.",
+   "source": "Jonah 2:1–10",
+   "date": "late 6th–4th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "the God of Israel",
+    "God"
+   ],
+   "kind": "taught_by",
+   "myth": "Plant, worm, wind, and lesson about Nineveh",
+   "note": "YHWH uses appointed creatures and weather to challenge Jonah’s lack of pity.",
+   "source": "Jonah 4:4–11",
+   "date": "late 6th–4th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leviathan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Jonah frightens Leviathan beneath the cosmic sea",
+   "note": "Jonah displays Abraham’s covenantal seal, drives Leviathan away, and vows its future capture.",
+   "source": "Pirke de-Rabbi Eliezer 10",
+   "date": "8th–9th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The sign of Jonah",
+   "note": "Jesus invokes Jonah as a sign, connecting his ordeal with resurrection and Nineveh’s repentance.",
+   "source": "Matthew 12:39–41; Luke 11:29–32",
+   "date": "late first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Son of Man",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Three days in fish and earth",
+   "note": "Matthew compares Jonah’s three days in the fish with the Son of Man’s burial.",
+   "source": "Matthew 12:40",
+   "date": "late first century CE",
+   "tier": "canonical"
+  }
+ ]
+}

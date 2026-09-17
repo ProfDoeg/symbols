@@ -1,0 +1,252 @@
+{
+ "folder": "lakota",
+ "gods": [
+  "falling_star",
+  "stone_boy"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "falling_star",
+   "god": "lakota/wakinyan",
+   "kind": "fought",
+   "myth": "Recovery of the chief’s severed arm",
+   "note": "He scalds the Thunder-beings, recovers the stolen arm, and escapes their storm.",
+   "source": "Black Elk interview",
+   "date": "1931",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "falling_star",
+   "god": "lakota/iktomi",
+   "kind": "fought",
+   "myth": "Recovery of the chief’s severed arm",
+   "note": "Iktomi throws him into a boiling pot; Falling Star overturns it and scalds him.",
+   "source": "Black Elk interview",
+   "date": "1931",
+   "tier": "late_accretion"
+  },
+  {
+   "a": "stone_boy",
+   "god": "lakota/iya",
+   "kind": "fought",
+   "myth": "Monster valley",
+   "note": "Stone Boy withstands Iya’s poison, blows, and deception, then defeats him.",
+   "source": "Sword/Walker, The Stone Boy",
+   "date": "ca. 1900; published 1917",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "stone_boy",
+   "god": "lakota/iya",
+   "kind": "punished",
+   "myth": "Monster valley",
+   "note": "Stone Boy flattens Iya’s hands and feet, interrogates him, and later tramples him.",
+   "source": "Sword/Walker, The Stone Boy",
+   "date": "ca. 1900; published 1917",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "stone_boy",
+   "god": "lakota/iya",
+   "kind": "taught_by",
+   "myth": "Restoration of Iya’s victims",
+   "note": "Under duress, Iya reveals how Stone Boy can restore the flattened victims.",
+   "source": "Sword/Walker, The Stone Boy",
+   "date": "ca. 1900; published 1917",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "stone_boy",
+   "god": "lakota/inyan",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cajete interprets Stone Boy as primordial Iŋyáŋ come to life on earth.",
+   "source": "Cajete, Look to the Mountain",
+   "date": "1994",
+   "tier": "syncretism"
+  },
+  {
+   "a": "stone_boy",
+   "god": "lakota/iktomi",
+   "kind": "shared_myth",
+   "myth": "The Stone Boy and the Spider",
+   "note": "The manuscript title attests a joint narrative, but the interaction and Spider’s identity remain uncertain.",
+   "source": "Allison, The Stone Boy and the Spider",
+   "date": "1 June 1899",
+   "tier": "attested"
+  }
+ ],
+ "unresolved": {
+  "Buffalo Woman": [
+   {
+    "stated_by": "stone_boy",
+    "kind": "contest",
+    "myth": "Buffalo ball game",
+    "note": "Stone Boy defeats an old Buffalo Woman at ball in an attached cycle.",
+    "source": "Later buffalo-ball-game tellings",
+    "date": "date unspecified",
+    "tier": "regional_variant"
+   }
+  ],
+  "Eagle": [
+   {
+    "stated_by": "falling_star",
+    "kind": "gift",
+    "myth": "Gifts for the journey",
+    "note": "Eagle gives Falling Star a plume for protection or transformation.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "late_accretion"
+   }
+  ],
+  "Flying Ant": [
+   {
+    "stated_by": "falling_star",
+    "kind": "allied",
+    "myth": "Gifts for the journey",
+    "note": "A live flying ant accompanies him as a magical helper of unclear function.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "late_accretion"
+   }
+  ],
+  "Large/Bright Star": [
+   {
+    "stated_by": "falling_star",
+    "kind": "child_of",
+    "myth": "",
+    "note": "He is Falling Star’s celestial father and chief of a star camp.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "attested"
+   }
+  ],
+  "Magpie": [
+   {
+    "stated_by": "falling_star",
+    "kind": "rescued_by",
+    "myth": "Discovery of the surviving infant",
+    "note": "Magpie finds Falling Star alive after his mother’s fatal fall.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "falling_star",
+    "kind": "other",
+    "myth": "Naming of Falling Star",
+    "note": "Magpie summons the animals and renames Star Comes Out as Falling Star.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "attested"
+   }
+  ],
+  "Meadowlark": [
+   {
+    "stated_by": "falling_star",
+    "kind": "taught_by",
+    "myth": "Animal upbringing",
+    "note": "His foster-grandfather raises him, teaches survival skills, and sends him outward.",
+    "source": "Iron Shell; Black Elk",
+    "date": "1904; 1931",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "falling_star",
+    "kind": "gift",
+    "myth": "Animal upbringing",
+    "note": "In the Cheyenne version, Meadowlark gives him a bow and feathered arrows.",
+    "source": "Ice White-Bull/Grinnell",
+    "date": "1921",
+    "tier": "regional_variant"
+   }
+  ],
+  "Split-tailed Swallow": [
+   {
+    "stated_by": "falling_star",
+    "kind": "gift",
+    "myth": "Escape from the Thunder-beings",
+    "note": "The swallow gives a feather enabling Falling Star’s extremely rapid flight.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "late_accretion"
+   }
+  ],
+  "Star People": [
+   {
+    "stated_by": "falling_star",
+    "kind": "shared_myth",
+    "myth": "Return to the Star People",
+    "note": "Contemporary teaching says he returns to his father’s celestial people.",
+    "source": "Lakota star-knowledge presentations",
+    "date": "1992–present",
+    "tier": "modern"
+   }
+  ],
+  "Water Monster": [
+   {
+    "stated_by": "falling_star",
+    "kind": "killed",
+    "myth": "Rescue from the water monster",
+    "note": "After being swallowed, Falling Star cuts the monster open with a star-stone.",
+    "source": "Ice White-Bull/Grinnell",
+    "date": "1921",
+    "tier": "regional_variant"
+   }
+  ],
+  "Waziya": [
+   {
+    "stated_by": "falling_star",
+    "kind": "fought",
+    "myth": "Waziya and the starving camp",
+    "note": "Falling Star reverses Waziya’s magic, breaks his power, and restores food.",
+    "source": "Iron Shell; Black Elk",
+    "date": "1904; 1931",
+    "tier": "attested"
+   }
+  ],
+  "Waziya Wicahpi": [
+   {
+    "stated_by": "falling_star",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Contemporary Lakota teaching names the stationary North Star as Falling Star’s father.",
+    "source": "Goodman-derived Lakota curriculum",
+    "date": "Late twentieth–twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "White Crow": [
+   {
+    "stated_by": "falling_star",
+    "kind": "fought",
+    "myth": "White Crow and the buffalo famine",
+    "note": "Falling Star captures the buffalo-warning White Crow, ending its power over hunting.",
+    "source": "Black Elk; Ice White-Bull",
+    "date": "1931; 1921",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wren": [
+   {
+    "stated_by": "falling_star",
+    "kind": "gift",
+    "myth": "Infiltration of the Thunder camp",
+    "note": "Wren gives Falling Star a feather enabling transformation into wren form.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "falling_star",
+    "kind": "taught_by",
+    "myth": "Infiltration of the Thunder camp",
+    "note": "Wren instructs Falling Star how to infiltrate the Thunder camp.",
+    "source": "Black Elk interview",
+    "date": "1931",
+    "tier": "late_accretion"
+   }
+  ]
+ }
+}

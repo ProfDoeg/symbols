@@ -1,0 +1,702 @@
+{
+ "subject": "jason",
+ "relations": [
+  {
+   "other": "Aeson",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aeson is Jason’s essentially unanimous father.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polymede",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus names Polymede, daughter of Autolycus, as Jason’s mother.",
+   "source": "Apollodorus 1.9.16",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcimede",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pherecydes and Apollonius name Alcimede, daughter of Phylacus, as Jason’s mother.",
+   "source": "Apollonius 1.45–48",
+   "date": "mid-3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amphinome",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later genealogical variant names Amphinome as Jason’s mother.",
+   "source": "Later genealogical compilations",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theognete",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later genealogical variant names Theognete as Jason’s mother.",
+   "source": "Later genealogical compilations",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhoeo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later genealogical variant names Rhoeo as Jason’s mother.",
+   "source": "Later genealogical compilations",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arne",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later genealogical variant names Arne as Jason’s mother.",
+   "source": "Later genealogical compilations",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Scarphe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later genealogical variant names Scarphe as Jason’s mother.",
+   "source": "Later genealogical compilations",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cretheus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Cretheus is normally Jason’s paternal grandfather.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic–Roman",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Jason’s concealed upbringing",
+   "note": "Chiron raises Jason and gives him his name.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Jason’s concealed upbringing",
+   "note": "Chariclo participates in the household that fosters Jason.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The quest for the Golden Fleece",
+   "note": "Pelias usurps Aeson’s rule and sends Jason on the lethal fleece quest.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Pelias in the cauldron",
+   "note": "Jason seeks vengeance, while Medea tricks Pelias’s daughters into killing him.",
+   "source": "Apollodorus 1.9.27",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Argo passes the Wandering Rocks",
+   "note": "Hera saves the Argo because Jason is dear to her.",
+   "source": "Odyssey 12.69–72",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Crossing the Anauros",
+   "note": "Jason carries the disguised Hera across the river and loses one sandal.",
+   "source": "Apollodorus 1.9.16",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Building and voyage of the Argo",
+   "note": "Athena directs the Argo’s construction and helps Jason’s ship through the Symplegades.",
+   "source": "Apollonius, Argonautica 1–2",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Jason and the fleece serpent",
+   "note": "Athena attends Jason as the serpent disgorges him in a unique vase image.",
+   "source": "Douris cup",
+   "date": "c. 480–470 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Embasios"
+   ],
+   "kind": "served",
+   "myth": "Sacrifice before departure",
+   "note": "Jason sacrifices to Apollo Embasios before the Argo sails.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Return-route dedication",
+   "note": "Jason dedicates an image or shrine to Artemis during the return voyage.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The iynx charm",
+   "note": "Aphrodite gives Jason the iynx spell that inflames Medea’s desire.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea falls in love",
+   "note": "Eros shoots Medea, indirectly enabling Jason to survive Aeëtes’ trials.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nocturnal rite before Aeëtes’ trials",
+   "note": "Jason performs Medea’s prescribed nocturnal rite to Hecate before using the drug.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [
+    "Eurypylus"
+   ],
+   "kind": "rescued_by",
+   "myth": "The Argonauts stranded in Libya",
+   "note": "The Libyan god assists Jason and the stranded Argonauts and gives guidance or a clod.",
+   "source": "Pindar; Apollonius 4",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Aeëtes’ trials and the fleece",
+   "note": "Medea supplies drugs and instructions enabling Jason to survive and seize the fleece.",
+   "source": "Apollonius, Argonautica 3–4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage during the return voyage",
+   "note": "Jason promises marriage and weds Medea before Aeëtes’ envoys can reclaim her.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Jason’s Corinthian remarriage",
+   "note": "Jason repudiates Medea and breaks their marriage bond to wed Creon’s daughter.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Medea’s Corinthian revenge",
+   "note": "Medea kills Jason’s bride and sons, destroys his house, and predicts his death.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Aeëtes’ trials",
+   "note": "Aeëtes orders Jason to complete lethal tasks before surrendering the fleece.",
+   "source": "Pindar; Apollonius 3",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure of the Golden Fleece",
+   "note": "Jason removes Aeëtes’ fleece and flees while the Colchian king pursues him.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsyrtus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ambush during the flight from Colchis",
+   "note": "Jason ambushes and kills the adult Apsyrtus, then mutilates his corpse with Medea.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hypsipyle",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "The Argonauts at Lemnos",
+   "note": "Jason sleeps with Hypsipyle during the Argonauts’ stay on Lemnos.",
+   "source": "Apollodorus 1.9.17",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euneus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Euneus is Jason’s securely early-attested son by Hypsipyle.",
+   "source": "Iliad 7.467–471",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later sources make Thoas a son of Jason and Hypsipyle.",
+   "source": "Later mythographic tradition",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nebrophonus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later sources name Nebrophonus as Jason and Hypsipyle’s son.",
+   "source": "Later mythographic tradition",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mermerus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mermerus is commonly named as a son of Jason and Medea.",
+   "source": "Euripidean and mythographic tradition",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pheres",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pheres is commonly named as a son of Jason and Medea.",
+   "source": "Euripidean and mythographic tradition",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medeius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cinaethon’s genealogy names Medeius as a child of Jason and Medea.",
+   "source": "Cinaethon, quoted by Pausanias",
+   "date": "archaic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eriopis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cinaethon’s genealogy names Eriopis as a child of Jason and Medea.",
+   "source": "Cinaethon, quoted by Pausanias",
+   "date": "archaic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tisamenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "In an inconsistent later genealogy, Tisamenus is assigned to Jason and Medea.",
+   "source": "Later genealogical tradition",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Construction and voyage of the Argo",
+   "note": "Argus builds the Argo and sails as a member of Jason’s expedition.",
+   "source": "Apollonius; Apollodorus",
+   "date": "3rd c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Election of the Argonautic leader",
+   "note": "Heracles refuses command in Jason’s favor and joins his expedition.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "The Argonauts’ delay on Lemnos",
+   "note": "Heracles rebukes Jason and the crew for lingering with the Lemnian women.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hylas",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Hylas lost in Mysia",
+   "note": "Hylas serves in Jason’s expedition but disappears in Mysia without a distinct exchange.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argo",
+   "note": "Orpheus accompanies Jason, performs rites, and overcomes the Sirens with song.",
+   "source": "Pindar; Apollonius",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argo",
+   "note": "Castor sails as a companion under Jason’s command.",
+   "source": "Pindar; Apollonius",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argo",
+   "note": "Polydeuces accompanies Jason and defeats Amycus during the expedition.",
+   "source": "Pindar; Apollonius",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zetes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Rescue of Phineus",
+   "note": "Zetes accompanies Jason and helps drive the Harpies away from Phineus.",
+   "source": "Pindar; Apollonius 2",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Rescue of Phineus",
+   "note": "Calais accompanies Jason and helps drive the Harpies away from Phineus.",
+   "source": "Pindar; Apollonius 2",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Passage through the Symplegades",
+   "note": "Phineus advises Jason to test the Clashing Rocks with a dove.",
+   "source": "Apollonius 2; Apollodorus",
+   "date": "3rd c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Voyage of the Argo",
+   "note": "Peleus accompanies Jason, advises him, and counters his despair.",
+   "source": "Pindar; Apollonius",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telamon",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Abandonment of Heracles",
+   "note": "Telamon sharply criticizes Jason after Heracles is abandoned, then reconciles with him.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idas",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Debate over divine and magical aid",
+   "note": "Idas challenges Jason’s reliance on divine or magical assistance.",
+   "source": "Apollonius, Argonautica",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idmon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argo",
+   "note": "Idmon serves as a seer under Jason and dies during the voyage.",
+   "source": "Apollonius, Argonautica",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mopsus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Libyan return voyage",
+   "note": "Mopsus serves as a seer under Jason and dies from a Libyan snakebite.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euphemus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Libyan clod and Cyrene prophecy",
+   "note": "Euphemus accompanies Jason and receives the clod foretelling Cyrene’s foundation.",
+   "source": "Pindar; Apollonius 4",
+   "date": "462–mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Variant Argonaut crew list",
+   "note": "Apollodorus includes Atalanta among Jason’s Argonauts.",
+   "source": "Apollodorus 1.9.16",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Exclusion from the Argo",
+   "note": "Apollonius says Jason refuses Atalanta to prevent sexual rivalry among the crew.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyzicus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Argonauts welcomed at Cyzicus",
+   "note": "Cyzicus hospitably receives Jason and the Argonauts before their mistaken nighttime battle.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyzicus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Night battle at Cyzicus",
+   "note": "Jason accidentally kills Cyzicus when the returned Argonauts mistake their former hosts for enemies.",
+   "source": "Apollonius, Argonautica 1",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amycus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Boxing contest in Bebrycia",
+   "note": "Amycus opposes Jason’s company but is personally defeated by Polydeuces.",
+   "source": "Apollonius, Argonautica 2",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Talos attacks the returning Argo",
+   "note": "Talos opposes Jason’s returning ship and is destroyed by Medea.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification after Apsyrtus’s murder",
+   "note": "Circe purifies Jason and Medea from the pollution of Apsyrtus’s killing.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcinous",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Refuge among the Phaeacians",
+   "note": "Alcinous shelters Jason and Medea while Colchian envoys demand Medea’s return.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arete",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Phaeacian marriage arrangement",
+   "note": "Arete arranges Jason’s marriage to Medea before Aeëtes’ envoys can reclaim her.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "mid-3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the Argo",
+   "note": "Acastus, Pelias’s son, joins Jason’s crew in many Argonaut lists.",
+   "source": "Apollodorus 1.9.16",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Settlement after Pelias’s death",
+   "note": "Jason gives Iolcus to Acastus after Pelias’s death.",
+   "source": "Apollodorus 1.9.27",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acastus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Expulsion from Iolcus",
+   "note": "In a divergent tradition, Acastus expels Jason and Medea from Iolcus.",
+   "source": "Divergent mythographic traditions",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Creon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Jason’s Corinthian remarriage",
+   "note": "Creon supports Jason’s proposed marriage to his daughter and opposes Medea.",
+   "source": "Euripides, Medea",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Glauce",
+   "other_aliases": [
+    "Creusa",
+    "Creon’s daughter"
+   ],
+   "kind": "consort_of",
+   "myth": "Jason’s Corinthian remarriage",
+   "note": "Jason intends to replace Medea by marrying Creon’s daughter.",
+   "source": "Euripides; Apollodorus; Pausanias",
+   "date": "431 BCE onward",
+   "tier": "canonical"
+  }
+ ]
+}

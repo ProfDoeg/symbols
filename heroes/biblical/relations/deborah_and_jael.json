@@ -1,0 +1,51 @@
+{
+ "subject": "deborah_and_jael",
+ "relations": [
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God of Israel"
+   ],
+   "kind": "served",
+   "myth": "Deborah commands Barak and sings YHWH’s victory",
+   "note": "Deborah transmits YHWH’s command, announces his aid, and praises his victory.",
+   "source": "Judges 4:6–14; 5:2–31",
+   "date": "first millennium BCE, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God of Israel"
+   ],
+   "kind": "allied",
+   "myth": "Jael fulfills the divinely foretold defeat of Sisera",
+   "note": "YHWH’s victory plan is indirectly fulfilled when Jael kills Sisera.",
+   "source": "Judges 4:9, 21–23; 5:23–27",
+   "date": "first millennium BCE, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Angel of YHWH",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The song quotes the angel’s curse against Meroz",
+   "note": "Deborah’s song voice reports the angel’s curse upon Meroz for withholding aid.",
+   "source": "Judges 5:23",
+   "date": "first millennium BCE, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "the devil",
+   "other_aliases": [
+    "Satan"
+   ],
+   "kind": "fought",
+   "myth": "Jael allegorically defeats the devil",
+   "note": "Medieval Christian allegory casts Sisera as the devil and Jael as his vanquisher.",
+   "source": "Medieval Christian typology",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  }
+ ]
+}

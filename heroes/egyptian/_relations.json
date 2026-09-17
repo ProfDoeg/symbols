@@ -1,0 +1,825 @@
+{
+ "folder": "egyptian",
+ "gods": [
+  "djedi",
+  "nitocris",
+  "rhampsinitus_thief",
+  "setne_khamwas",
+  "shipwrecked_sailor",
+  "sinuhe",
+  "two_brothers",
+  "wenamun"
+ ],
+ "relations": [],
+ "god_relations": [
+  {
+   "a": "djedi",
+   "god": "egyptian/thoth",
+   "kind": "other",
+   "myth": "Hidden knowledge of Thoth’s sanctuary",
+   "note": "Djedi knows where knowledge associated with Thoth’s sanctuary is kept.",
+   "source": "Westcar 7.5–8; 9.1–7",
+   "date": "seventeenth–sixteenth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "djedi",
+   "god": "egyptian/ra",
+   "kind": "other",
+   "myth": "Prophecy of Ra’s three children",
+   "note": "Djedi proclaims that Ra fathered Ruddjedet’s three future royal children.",
+   "source": "Westcar 9.8–12",
+   "date": "seventeenth–sixteenth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "nitocris",
+   "god": "egyptian/horus",
+   "kind": "shared_myth",
+   "myth": "Nitocris gains magical Egyptian divine associations",
+   "note": "Fate/Grand Order associates Nitocris’s magical powers and pharaonic identity with Horus.",
+   "source": "Fate/Grand Order",
+   "date": "2015 onward",
+   "tier": "modern"
+  },
+  {
+   "a": "nitocris",
+   "god": "egyptian/anubis",
+   "kind": "shared_myth",
+   "myth": "Nitocris gains underworld and jackal associations",
+   "note": "Fate/Grand Order associates Nitocris with Anubis through jackal imagery and underworld powers.",
+   "source": "Fate/Grand Order",
+   "date": "2015 onward",
+   "tier": "modern"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/ptah",
+   "kind": "served",
+   "myth": "",
+   "note": "The historical Khaemwaset served as Ptah's sem-priest and high priest at Memphis.",
+   "source": "Ramesside monuments",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/ptah",
+   "kind": "rescued_by",
+   "myth": "Board game in Naneferkaptah's tomb",
+   "note": "Ptah's amulets and magical books restore or protect Setne during his struggle.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/thoth",
+   "kind": "theft",
+   "myth": "Theft of the Book of Thoth",
+   "note": "Setne removes the divine book belonging to Thoth from Naneferkaptah's tomb.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/ennead",
+   "kind": "shared_myth",
+   "myth": "The Book of Thoth's second spell",
+   "note": "The book taken by Setne reveals Re with the Ennead, without personal dialogue.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/isis",
+   "kind": "gift",
+   "myth": "Search for Ahwere and Merib",
+   "note": "Setne gives Isis an ox, goose, wine, burnt offering, and libation.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/harpocrates",
+   "kind": "gift",
+   "myth": "Search for Ahwere and Merib",
+   "note": "Setne gives Harpocrates offerings beside Isis before searching the Coptos cemetery.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/bastet",
+   "kind": "shared_myth",
+   "myth": "Tabubu's punitive illusion",
+   "note": "Tabubu identifies herself through her father's priestly service to Bastet; Setne never meets the goddess.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/neith",
+   "kind": "shared_myth",
+   "myth": "Ahwere's history of the divine book",
+   "note": "Ahwere invokes Neith's curse while addressing Setne, but he has no direct encounter with her.",
+   "source": "Setne I, Cairo CG 30646",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/osiris",
+   "kind": "shared_myth",
+   "myth": "Journey through seven halls of Amenti",
+   "note": "Setne sees Osiris enthroned over judgment in Amenti.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/osiris",
+   "kind": "gift",
+   "myth": "",
+   "note": "Khaemwaset's statue bears a prayer to Osiris as an act of cultic devotion.",
+   "source": "British Museum statue EA 947",
+   "date": "about 1260 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/anubis",
+   "kind": "shared_myth",
+   "myth": "Judgment in Amenti",
+   "note": "Setne witnesses Anubis participating in judgment beside Osiris.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/thoth",
+   "kind": "shared_myth",
+   "myth": "Judgment in Amenti",
+   "note": "Setne witnesses Thoth recording the weighing of the dead's deeds.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/ammit",
+   "kind": "shared_myth",
+   "myth": "Judgment in Amenti",
+   "note": "Setne witnesses the judgment system in which Ammit destroys condemned souls.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/amun",
+   "kind": "shared_myth",
+   "myth": "Denunciation of the Nubian envoy",
+   "note": "Setne hears Si-Osire address the Nubian envoy concerning Amun's power.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/atum",
+   "kind": "gift",
+   "myth": "",
+   "note": "Khaemwaset's statue bears a prayer to Atum.",
+   "source": "British Museum statue EA 947",
+   "date": "about 1260 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/atum",
+   "kind": "shared_myth",
+   "myth": "Embedded contest of Egyptian and Nubian magicians",
+   "note": "Setne hears the embedded magician invoke Atum in an oath.",
+   "source": "Setne II, BM EA 10822",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/imhotep",
+   "kind": "served",
+   "myth": "",
+   "note": "The historical Khaemwaset venerates Imhotep on a monument bearing the epithet son of Ptah.",
+   "source": "Ramesside monument",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "setne_khamwas",
+   "god": "egyptian/apis",
+   "kind": "served",
+   "myth": "",
+   "note": "Khaemwaset officiates in funerary rituals and burials for Apis as a divine manifestation.",
+   "source": "Serapeum monuments",
+   "date": "Ramesses II year 30 onward",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/montu",
+   "kind": "other",
+   "myth": "Victory over the champion",
+   "note": "Sinuhe praises Montu after killing the champion and later invokes him for Senusret.",
+   "source": "P 3022 B134–149; B204–241",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/ra",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Ra as loving Senusret and inspiring worldwide fear of him.",
+   "source": "P 3022 B204–241",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/amun",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Amun to bless Senusret.",
+   "source": "P 3022 B204–214",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/horus",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Horus to bless Senusret, whom the tale calls Horus who seizes.",
+   "source": "P 3022 B204–247",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/hathor",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Hathor to love and sustain Senusret.",
+   "source": "P 3022 B204–241",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/atum",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Atum together with his Ennead to bless Senusret.",
+   "source": "P 3022 B204–214",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/sopdu",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Sopdu as an eastern god of effective power.",
+   "source": "P 3022 B204–214",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "sinuhe",
+   "god": "egyptian/nut",
+   "kind": "other",
+   "myth": "Divine blessing of Senusret",
+   "note": "Sinuhe invokes Nut in the divine assembly blessing Senusret.",
+   "source": "P 3022 B204–214",
+   "date": "Twelfth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "a": "two_brothers",
+   "god": "egyptian/aten",
+   "kind": "judged",
+   "myth": "Bata’s oath at sunrise",
+   "note": "Bata invokes sunrise as the divine forum revealing justice between the brothers.",
+   "source": "Papyrus d’Orbiney",
+   "date": "c. 1215 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "two_brothers",
+   "god": "egyptian/ennead",
+   "kind": "allied",
+   "myth": "The Ennead encounters Bata",
+   "note": "The gods pity Bata and acknowledge that Anubis has avenged him.",
+   "source": "Papyrus d’Orbiney",
+   "date": "c. 1215 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "two_brothers",
+   "god": "egyptian/ennead",
+   "kind": "other",
+   "myth": "Bata named Bull of the Ennead",
+   "note": "The assembled gods confer upon Bata the epithet Bull of the Ennead.",
+   "source": "Papyrus d’Orbiney",
+   "date": "c. 1215 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "two_brothers",
+   "god": "egyptian/khnum",
+   "kind": "gift",
+   "myth": "Creation of Bata’s wife",
+   "note": "Khnum fashions a divinely beautiful wife for Bata at Re-Horakhty’s command.",
+   "source": "Papyrus d’Orbiney",
+   "date": "c. 1215 BCE",
+   "tier": "attested"
+  },
+  {
+   "a": "two_brothers",
+   "god": "egyptian/osiris",
+   "kind": "served",
+   "myth": "Bull-form Bata carries Osiris",
+   "note": "A Jumilhac vignette depicts bull-form Bata carrying the mummy of Osiris.",
+   "source": "Papyrus Jumilhac",
+   "date": "332–30 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "wenamun",
+   "god": "egyptian/amun",
+   "kind": "served",
+   "myth": "Wenamun’s mission to obtain timber for Amun’s sacred bark",
+   "note": "Wenamun serves Amun’s institution, carries his dispatches, and claims the god commissioned and protected his mission.",
+   "source": "Pushkin 120, throughout",
+   "date": "Dynasty 21–22",
+   "tier": "attested"
+  }
+ ],
+ "unresolved": {
+  "Ahwere": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "shared_myth",
+    "myth": "Ahwere's history of the divine book",
+    "note": "Ahwere narrates the book's fatal history and warns Setne within the tomb.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "rescued",
+    "myth": "Recovery of Ahwere from Coptos",
+    "note": "Setne retrieves Ahwere's body and transfers it to Naneferkaptah's Memphis tomb.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Amenemhat I": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "served",
+    "myth": "Court service and Amenemhat’s death",
+    "note": "Sinuhe serves the royal household; Amenemhat’s death precipitates his unexplained flight.",
+    "source": "Berlin P 10499",
+    "date": "late Middle Kingdom",
+    "tier": "attested"
+   }
+  ],
+  "Amun-of-the-Road": [
+   {
+    "stated_by": "wenamun",
+    "kind": "shared_myth",
+    "myth": "Journey to Byblos for timber",
+    "note": "The portable divine image accompanies Wenamun and is presented as Amun’s divine envoy.",
+    "source": "Pushkin 120, 1.29–43; 2.57–60",
+    "date": "Dynasty 21–22",
+    "tier": "attested"
+   }
+  ],
+  "Atum’s Ennead": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe collectively invokes Atum’s Ennead to bless Senusret.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Bedivere": [
+   {
+    "stated_by": "nitocris",
+    "kind": "shared_myth",
+    "myth": "Camelot rescue, combat, and alliance",
+    "note": "Nitocris and Bedivere participate in rescue, combat, and alliance episodes in Camelot.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Hassan of the Hundred Faces": [
+   {
+    "stated_by": "nitocris",
+    "kind": "shared_myth",
+    "myth": "Camelot rescue, combat, and alliance",
+    "note": "Nitocris and Hassan participate in rescue, combat, or alliance episodes in Camelot.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Horus the Easterner": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe invokes this eastern aspect or title of Horus for Senusret.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Horwerra": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe invokes this obscure composite deity in the blessing of Senusret.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "regional_variant"
+   }
+  ],
+  "Khephren": [
+   {
+    "stated_by": "nitocris",
+    "kind": "consort_of",
+    "myth": "Nitocris and Khephren rule hybrid mummies underground",
+    "note": "Lovecraft makes Nitocris Khephren’s subterranean consort and fellow ruler of hybrid mummies.",
+    "source": "Imprisoned with the Pharaohs",
+    "date": "1924",
+    "tier": "modern"
+   }
+  ],
+  "Lady of All": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Prayer and royal intercession",
+    "note": "Feminine divine titles appear in Sinuhe’s prayer and the royal women’s intercession.",
+    "source": "P 3022 B173–177; B268–279",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Lady of the Cavern": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe invokes this uncertainly identified goddess by title in the royal blessing.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "regional_variant"
+   }
+  ],
+  "Lion King": [
+   {
+    "stated_by": "nitocris",
+    "kind": "fought",
+    "myth": "Opposition to the Lion King in Camelot",
+    "note": "Nitocris participates in opposition to the Lion King during the Camelot narrative.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Mash Kyrielight": [
+   {
+    "stated_by": "nitocris",
+    "kind": "shared_myth",
+    "myth": "Camelot rescue, combat, and alliance",
+    "note": "Nitocris and Mash participate in rescue, combat, and alliance episodes in Camelot.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Medjed": [
+   {
+    "stated_by": "nitocris",
+    "kind": "shared_myth",
+    "myth": "Nitocris gains magical Egyptian divine associations",
+    "note": "Fate/Grand Order links Nitocris with Medjed through magical powers and imagery.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Merenre Nemtyemsaf II": [
+   {
+    "stated_by": "nitocris",
+    "kind": "sibling_of",
+    "myth": "Modern identification of Nitocris’s murdered royal brother",
+    "note": "Modern genealogies identify him as the brother whom Nitocris succeeds and avenges.",
+    "source": "Modern dynastic harmonization",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "nitocris",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Modern popular genealogies make him Nitocris’s husband or sister-husband.",
+    "source": "Modern popular genealogy",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Merib": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "rescued",
+    "myth": "Recovery of Merib from Coptos",
+    "note": "Setne retrieves Merib's body and reunites him with his dead parents.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Min-Horus": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe invokes Min-Horus amid the hill-lands.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Naneferkaptah": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "theft",
+    "myth": "Theft of the Book of Thoth",
+    "note": "Setne takes the divine book from Naneferkaptah's tomb despite his warning.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "contest",
+    "myth": "Board game in Naneferkaptah's tomb",
+    "note": "Setne plays Naneferkaptah, whose victories drive him progressively into the ground.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "punished_by",
+    "myth": "Tabubu's punitive illusion",
+    "note": "Naneferkaptah apparently engineers Setne's humiliating illusion, though the precise mechanism remains uncertain.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "gift",
+    "myth": "Restitution of the Book of Thoth",
+    "note": "Setne returns the stolen book and reunites Naneferkaptah with his dead family.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ozymandias": [
+   {
+    "stated_by": "nitocris",
+    "kind": "allied",
+    "myth": "Camelot alliance under Ozymandias",
+    "note": "Nitocris serves as Ozymandias’s ally and subordinate in the Camelot narrative.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "nitocris",
+    "kind": "served",
+    "myth": "Camelot alliance under Ozymandias",
+    "note": "Ozymandias acts as Nitocris’s superior during the Camelot narrative.",
+    "source": "Fate/Grand Order",
+    "date": "2015 onward",
+    "tier": "modern"
+   }
+  ],
+  "Pre-Harakhty": [
+   {
+    "stated_by": "two_brothers",
+    "kind": "rescued_by",
+    "myth": "Divine barrier between the brothers",
+    "note": "He answers Bata’s appeal by creating crocodile-filled water between the brothers.",
+    "source": "Papyrus d’Orbiney",
+    "date": "c. 1215 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "two_brothers",
+    "kind": "gift",
+    "myth": "Creation of Bata’s wife",
+    "note": "He commands Khnum to fashion a wife for the solitary Bata.",
+    "source": "Papyrus d’Orbiney",
+    "date": "c. 1215 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ra-Horakhty": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "shared_myth",
+    "myth": "Denunciation of the Nubian envoy",
+    "note": "Setne hears Egypt described as Ra-Horakhty's footstool or beautiful horizon.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Re": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "shared_myth",
+    "myth": "The Book of Thoth",
+    "note": "Setne's stolen book reveals Re and his Ennead; Setne is later associated with Re's radiance.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Senusret I": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "served",
+    "myth": "Senusret’s Libyan campaign",
+    "note": "Sinuhe accompanies the army commanded by Senusret before fleeing Egypt.",
+    "source": "Berlin P 10499",
+    "date": "late Middle Kingdom",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sinuhe",
+    "kind": "rescued_by",
+    "myth": "Sinuhe’s pardon and return",
+    "note": "Senusret pardons Sinuhe, recalls him from exile and restores his courtly status.",
+    "source": "Berlin P 3022",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sinuhe",
+    "kind": "gift",
+    "myth": "Sinuhe’s tomb establishment",
+    "note": "Senusret grants Sinuhe a pyramid-chapel, statue, funerary personnel and endowed estate.",
+    "source": "Berlin P 3022",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Seth": [
+   {
+    "stated_by": "two_brothers",
+    "kind": "identified_with",
+    "myth": "Jumilhac local theology",
+    "note": "Local theology identifies or closely associates the divine bull-form Bata with Seth.",
+    "source": "Papyrus Jumilhac",
+    "date": "332–30 BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Si-Osire": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Setne fathers the miraculous Si-Osire, temporary reincarnation of Hor son of Pa-neshe.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "taught_by",
+    "myth": "Journey through seven halls of Amenti",
+    "note": "Si-Osire guides Setne through Amenti and teaches that deeds outweigh funerary splendor.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "rescued_by",
+    "myth": "The sealed letter challenge",
+    "note": "Si-Osire saves Setne and Egypt by reading the sealed letter and defeating its Nubian author.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "served",
+    "myth": "Offerings after Si-Osire's disappearance",
+    "note": "Setne continually makes offerings and libations to Hor son of Pa-neshe's spirit.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Sobek-Ra": [
+   {
+    "stated_by": "sinuhe",
+    "kind": "other",
+    "myth": "Divine blessing of Senusret",
+    "note": "Sinuhe invokes Sobek-Ra within the divine assembly blessing Senusret.",
+    "source": "P 3022 B204–214",
+    "date": "Twelfth Dynasty",
+    "tier": "attested"
+   }
+  ],
+  "Sokar-Osiris": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "shared_myth",
+    "myth": "Judgment in Amenti",
+    "note": "Setne learns that souls with balanced deeds are assigned to Sokar-Osiris's service.",
+    "source": "Setne II, BM EA 10822",
+    "date": "first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Tabubu": [
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "seduced",
+    "myth": "Setne's pursuit of Tabubu",
+    "note": "Setne coercively propositions Tabubu and accepts her escalating demands for sexual access.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "setne_khamwas",
+    "kind": "deceived_by",
+    "myth": "Tabubu's punitive illusion",
+    "note": "Tabubu subjects Setne to an illusion of dispossession, child murder, and sexual humiliation.",
+    "source": "Setne I, Cairo CG 30646",
+    "date": "third century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "The Seven Hathors": [
+   {
+    "stated_by": "two_brothers",
+    "kind": "other",
+    "myth": "Prophecy over Bata’s wife",
+    "note": "They inspect Bata’s newly fashioned wife and predict her death by knife.",
+    "source": "Papyrus d’Orbiney",
+    "date": "c. 1215 BCE",
+    "tier": "attested"
+   }
+  ],
+  "deified Old Kingdom Djedi": [
+   {
+    "stated_by": "djedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars controversially identify the Westcar magician with a same-named deified man.",
+    "source": "Troche, chapter 6",
+    "date": "2021",
+    "tier": "modern"
+   }
+  ]
+ }
+}

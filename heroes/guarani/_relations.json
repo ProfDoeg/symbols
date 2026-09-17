@@ -1,0 +1,175 @@
+{
+ "folder": "guarani",
+ "gods": [
+  "anahi",
+  "irupe"
+ ],
+ "relations": [
+  {
+   "a": "anahi",
+   "b": "irupe",
+   "kind": "shared_myth",
+   "myth": "Argentine flower-heroines school canon",
+   "note": "They are paired pedagogically as Indigenous heroines transformed into regional flowers.",
+   "source": "Argentine school canon",
+   "date": "especially after 1943",
+   "tier": "modern",
+   "stated_by": [
+    "irupe"
+   ]
+  }
+ ],
+ "god_relations": [
+  {
+   "a": "anahi",
+   "god": "guarani/tupa",
+   "kind": "other",
+   "myth": "Anahí prays during her execution",
+   "note": "In some modern variants, Anahí sings or prays to Tupã, who hears her.",
+   "source": "Modern school and religious retellings",
+   "date": "Late 20th–21st century",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "anahi",
+   "god": "guarani/tupa",
+   "kind": "transformed_by",
+   "myth": "Transformation into the ceibo",
+   "note": "Some modern variants say Tupã transforms Anahí into the ceibo.",
+   "source": "Modern school and religious retellings",
+   "date": "Late 20th–21st century",
+   "tier": "regional_variant"
+  },
+  {
+   "a": "irupe",
+   "god": "guarani/tupa",
+   "kind": "transformed_by",
+   "myth": "Tupá transforms the drowned moon-lover",
+   "note": "Tupá pities the drowned lover and changes her or him into irupé.",
+   "source": "Perlotti-associated legend; Casullo",
+   "date": "1939; 1957",
+   "tier": "syncretism"
+  }
+ ],
+ "unresolved": {
+  "Akãhatã": [
+   {
+    "stated_by": "irupe",
+    "kind": "contest",
+    "myth": "Rival enters the Irupé–Panambí romance",
+    "note": "Akãhatã is the rival warrior opposing the lovers.",
+    "source": "Susana C. Otero retelling",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "I-Cuñá-Payé": [
+   {
+    "stated_by": "irupe",
+    "kind": "contest",
+    "myth": "Morotí challenges the water-enchantress",
+    "note": "Morotí enters the Paraná to recover Pitá from her enchantment.",
+    "source": "Morales, Leyendas guaraníes",
+    "date": "1925",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jaci": [
+   {
+    "stated_by": "irupe",
+    "kind": "transformed_by",
+    "myth": "Jaci makes Naiá the star of waters",
+    "note": "In the Brazilian cognate, Jaci transforms the drowned heroine into vitória-régia.",
+    "source": "Brazilian Naiá tradition",
+    "date": "twentieth-century print",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jasy": [
+   {
+    "stated_by": "irupe",
+    "kind": "other",
+    "myth": "The maiden pursues the Moon’s reflection",
+    "note": "The moon-lover seeks Jasy, embraces its reflection, and drowns.",
+    "source": "Perlotti-associated legend",
+    "date": "1939",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mburucuyá heroine": [
+   {
+    "stated_by": "irupe",
+    "kind": "shared_myth",
+    "myth": "Guaraní flower-legend genre",
+    "note": "Both belong to the literary genre linking Indigenous heroines with flowers.",
+    "source": "Morales and later anthologies",
+    "date": "1925 onward",
+    "tier": "canonical"
+   }
+  ],
+  "Morotí": [
+   {
+    "stated_by": "irupe",
+    "kind": "identified_with",
+    "myth": "Morotí and Pitá become the irupé",
+    "note": "Morotí’s transformed body forms the flower’s white inner petals.",
+    "source": "Morales, Leyendas guaraníes",
+    "date": "1925",
+    "tier": "attested"
+   }
+  ],
+  "Naiá": [
+   {
+    "stated_by": "irupe",
+    "kind": "identified_with",
+    "myth": "Brazilian lunar flower analogue",
+    "note": "Naiá occupies the corresponding Brazilian heroine role but is not identical historically.",
+    "source": "Brazilian newspaper; Casullo",
+    "date": "1934; 1957",
+    "tier": "regional_variant"
+   }
+  ],
+  "Panambí": [
+   {
+    "stated_by": "irupe",
+    "kind": "consort_of",
+    "myth": "Irupé and Panambí romance",
+    "note": "Panambí loves Irupé and imagines becoming a butterfly to caress her.",
+    "source": "Susana C. Otero retelling",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Paraná": [
+   {
+    "stated_by": "irupe",
+    "kind": "seduced_by",
+    "myth": "The Paraná courts the flower-woman",
+    "note": "The personified river courts and embraces Irupé as its vegetable bride.",
+    "source": "Ramón Ayala, Irupé",
+    "date": "recorded by 1972",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "irupe",
+    "kind": "transformed_by",
+    "myth": "The river creates its vegetable bride",
+    "note": "The personified Paraná supplies the agency for the maiden’s floral transformation.",
+    "source": "Ramón Ayala, Irupé",
+    "date": "recorded by 1972",
+    "tier": "modern"
+   }
+  ],
+  "Pitá": [
+   {
+    "stated_by": "irupe",
+    "kind": "consort_of",
+    "myth": "Morotí and Pitá become the irupé",
+    "note": "Irupé’s Morotí incarnation loves Pitá and joins him in the flower.",
+    "source": "Morales, Leyendas guaraníes",
+    "date": "1925",
+    "tier": "attested"
+   }
+  ]
+ }
+}

@@ -1,0 +1,540 @@
+{
+ "subject": "fereydun",
+ "relations": [
+  {
+   "other": "Āθβiia",
+   "other_aliases": [
+    "Athwya"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "His Haoma pressing is rewarded with the birth of Θraētaona.",
+   "source": "Yasna 9.7–8",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pūrtōrā Āspiyān",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Middle Persian genealogy names Pūrtōrā Āspiyān as Frēdōn’s father.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ābtin",
+   "other_aliases": [
+    "Āṯfīān"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Developed Persian tradition names Ābtin as Fereydun’s father.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Farānak",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Farānak is Fereydun’s mother and protects him from Zahhāk.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Barmāyūn",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Middle Persian genealogy names Barmāyūn as Frēdōn’s brother.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Katāyūn",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Middle Persian genealogy names Katāyūn as Frēdōn’s brother.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yima",
+   "other_aliases": [
+    "Jamshid"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Middle Persian and epic genealogies make Fereydun a descendant of Yima.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Salm",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Salm is Fereydun’s eldest son.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Salm",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Division of the world",
+   "note": "Fereydun grants Salm Rūm and the western lands.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tur",
+   "other_aliases": [
+    "Tūz",
+    "Tūč"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tur is Fereydun’s second son.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tur",
+   "other_aliases": [
+    "Tūz",
+    "Tūč"
+   ],
+   "kind": "gift",
+   "myth": "Division of the world",
+   "note": "Fereydun grants Tur Turan, China, and the eastern lands.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iraj",
+   "other_aliases": [
+    "Airik",
+    "Ērik"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Iraj is Fereydun’s favored youngest son.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iraj",
+   "other_aliases": [
+    "Airik",
+    "Ērik"
+   ],
+   "kind": "gift",
+   "myth": "Division of the world",
+   "note": "Fereydun grants Iraj Iran, the throne, and royal insignia.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manuchehr",
+   "other_aliases": [
+    "Manuščihr"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Manuchehr descends from Fereydun through Iraj’s surviving line.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manuchehr",
+   "other_aliases": [
+    "Manuščihr"
+   ],
+   "kind": "other",
+   "myth": "Vengeance for Iraj",
+   "note": "Fereydun raises or conceals Manuchehr, recognizes him, and commissions Iraj’s vengeance.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arnavāz",
+   "other_aliases": [
+    "Arənawāc"
+   ],
+   "kind": "rescued",
+   "myth": "Rescue from Dahāka",
+   "note": "Fereydun asks for and accomplishes her release from Dahāka.",
+   "source": "Yašts 5 and 15",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arnavāz",
+   "other_aliases": [
+    "Arənawāc"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A widespread later tradition makes the rescued Arnavāz Fereydun’s consort.",
+   "source": "Islamic national histories",
+   "date": "ninth–eleventh centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Shahrnāz",
+   "other_aliases": [
+    "Saŋhavāc",
+    "Šahrnāz"
+   ],
+   "kind": "rescued",
+   "myth": "Rescue from Dahāka",
+   "note": "Fereydun asks for and accomplishes her release from Dahāka.",
+   "source": "Yašts 5 and 15",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shahrnāz",
+   "other_aliases": [
+    "Saŋhavāc",
+    "Šahrnāz"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A widespread later tradition makes the rescued Shahrnāz Fereydun’s consort.",
+   "source": "Islamic national histories",
+   "date": "ninth–eleventh centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Haoma",
+   "other_aliases": [
+    "Hōm"
+   ],
+   "kind": "shared_myth",
+   "myth": "Reward for Āθβiia’s Haoma pressing",
+   "note": "Haoma recounts how Āθβiia’s pressing was rewarded by Fereydun’s birth.",
+   "source": "Yasna 9.7–8",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Dahāg",
+    "Zahhāk"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of Aži Dahāka",
+   "note": "Fereydun defeats the three-headed being created by Angra Mainyu.",
+   "source": "Yasna 9; Yašts 5, 15, 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Dahāg",
+    "Zahhāk"
+   ],
+   "kind": "killed",
+   "myth": "Avestan dragon combat",
+   "note": "The Avestan tradition says Fereydun smote Dahāka and explicitly recalls his killing.",
+   "source": "Yašt 19.36–37, 92",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Dahāg",
+    "Zahhāk"
+   ],
+   "kind": "punished",
+   "myth": "Binding on Damāvand",
+   "note": "Later tradition has Fereydun bind and imprison Dahāg instead of killing him.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [
+    "Dahāg",
+    "Zahhāk"
+   ],
+   "kind": "fought",
+   "myth": "Conquest of Zahhāk",
+   "note": "Fereydun strikes Zahhāk with the ox-headed mace before imprisoning him.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angra Mainyu",
+   "other_aliases": [
+    "Ahriman"
+   ],
+   "kind": "punished_by",
+   "myth": "Loss of immortality",
+   "note": "Ahriman makes the initially immortal Fereydun mortal.",
+   "source": "Mēnōg ī xrad 8.27",
+   "date": "sixth–ninth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arədvī Sūrā Anāhitā",
+   "other_aliases": [
+    "Anāhitā"
+   ],
+   "kind": "gift",
+   "myth": "Petition for victory",
+   "note": "After receiving Fereydun’s sacrifice, Anāhitā grants victory and the captives’ release.",
+   "source": "Yašt 5.33–35",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Petition for victory",
+   "note": "Vāyu receives Fereydun’s request and grants victory over Dahāka.",
+   "source": "Yašt 15.23–24",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Xᵛarənah",
+   "other_aliases": [
+    "Farr",
+    "royal Glory"
+   ],
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "The second portion of Yima’s departed Glory adheres to Fereydun.",
+   "source": "Yašt 19.36–37",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yima",
+   "other_aliases": [
+    "Jamshid"
+   ],
+   "kind": "shared_myth",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Fereydun receives the second portion of the Glory that departed Yima.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yima",
+   "other_aliases": [
+    "Jamshid"
+   ],
+   "kind": "other",
+   "myth": "Vengeance for Yima",
+   "note": "Middle Persian tradition presents Fereydun as the avenger of Yima.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mithra",
+   "other_aliases": [
+    "Mehr"
+   ],
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first portion of Glory before Fereydun receives the second.",
+   "source": "Yašt 19.35–36",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kərəsāspa",
+   "other_aliases": [
+    "Garšāsp"
+   ],
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Kərəsāspa receives the third portion of Glory after Fereydun receives the second.",
+   "source": "Yašt 19.36–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Garšāsp",
+   "other_aliases": [
+    "Kərəsāspa"
+   ],
+   "kind": "shared_myth",
+   "myth": "Dahāg’s final destruction",
+   "note": "Garšāsp ultimately kills the Dahāg whom Fereydun had bound.",
+   "source": "Pahlavi Rivāyat",
+   "date": "Middle Persian tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Garšāsp",
+   "other_aliases": [
+    "Kərəsāspa"
+   ],
+   "kind": "served_by",
+   "myth": "Submission after Zahhāk’s defeat",
+   "note": "Garšāsp acknowledges Fereydun’s sovereignty after Zahhāk is defeated.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ohrmazd",
+   "other_aliases": [
+    "Ahura Mazda"
+   ],
+   "kind": "other",
+   "myth": "Binding of Dahāg",
+   "note": "Ohrmazd commands Fereydun not to kill Dahāg, preventing demonic creatures’ release.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sorūš",
+   "other_aliases": [
+    "Sraoša"
+   ],
+   "kind": "other",
+   "myth": "Binding of Zahhāk",
+   "note": "Sorūš stops Fereydun from killing Zahhāk and orders his imprisonment.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vafra Navāza",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Vafra Navāza bird episode",
+   "note": "Fereydun hurls or transforms Vafra Navāza into a bird.",
+   "source": "Yašt 5.61–65",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Barmāya",
+   "other_aliases": [
+    "Barmāyeh"
+   ],
+   "kind": "served_by",
+   "myth": "Fereydun’s hidden childhood",
+   "note": "The miraculous multicolored cow nurses Fereydun for three years.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kāva",
+   "other_aliases": [
+    "Kāveh"
+   ],
+   "kind": "allied",
+   "myth": "Kāva’s revolt",
+   "note": "Kāva raises the rebellion and leads the people to Fereydun.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kāva",
+   "other_aliases": [
+    "Kāveh"
+   ],
+   "kind": "other",
+   "myth": "Creation of the royal banner",
+   "note": "Fereydun adopts Kāva’s leather apron as the Derafš-e Kāviān.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kiyānuš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign against Zahhāk",
+   "note": "Kiyānuš accompanies Fereydun as a companion or brother-in-arms.",
+   "source": "Šāhnāma manuscripts",
+   "date": "medieval textual tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Barmāya",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Campaign against Zahhāk",
+   "note": "A companion named Barmāya accompanies Fereydun in textually variable accounts.",
+   "source": "Šāhnāma manuscripts",
+   "date": "medieval textual tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Narēmān",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Campaigns in Turan and China",
+   "note": "Narēmān campaigns with Garšāsp under Fereydun’s overlordship.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Noah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Al-Bīrūnī reports a learned equation of Fereydun with Noah.",
+   "source": "al-Āṯār al-bāqiya",
+   "date": "ca. 1000",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Abraham",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Al-Maqdisī compares or identifies Fereydun with Abraham.",
+   "source": "Ketāb al-badʾ wa’l-taʾrīḵ",
+   "date": "late tenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nimrod",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Al-Dīnawarī records a learned equation of Fereydun with Nimrod.",
+   "source": "al-Aḵbār al-ṭewāl",
+   "date": "ninth century",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "subject": "pied_piper",
+ "relations": [
+  {
+   "other": "The Devil",
+   "other_aliases": [
+    "Satan"
+   ],
+   "kind": "identified_with",
+   "myth": "Demonological interpretation of the children’s disappearance",
+   "note": "Fincelius attributes the abduction to the Devil’s power; later moralists describe Satanic seduction.",
+   "source": "Fincelius, Wunderzeichen",
+   "date": "1556",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Mephistopheles called a damned Pied Piper",
+   "note": "Goethe applies the Pied Piper image to Mephistopheles without staging an encounter.",
+   "source": "Goethe, Faust",
+   "date": "nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Modern comparison with a pastoral flute-playing daemon",
+   "note": "Modern comparative readings assimilate the Piper to Pan; medieval sources provide no connection.",
+   "source": "Modern mythographic and psychological discussion",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Wotan"
+   ],
+   "kind": "identified_with",
+   "myth": "Modern Wild Hunt and psychopomp comparison",
+   "note": "Comparativists liken the Piper to Odin as leader of the dead or Wild Hunt.",
+   "source": "Nineteenth- and twentieth-century comparativism",
+   "date": "19th–20th centuries",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "subject": "io",
+ "relations": [
+  {
+   "other": "Inachus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Inachus is Io’s father in a major Argive genealogy.",
+   "source": "Aeschylus; Herodotus; Hyginus 145",
+   "date": "5th c. BCE–Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iasus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Iasus is Io’s father in a competing Argive genealogy.",
+   "source": "Pausanias 2.16.1; Apollodorus 2.1.3",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peiren",
+   "other_aliases": [
+    "Piras"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Peiren or Piras is Io’s father in an archaic genealogy.",
+   "source": "Catalogue of Women; Acusilaus",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Argia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Argia is named as Io’s mother alongside Inachus.",
+   "source": "Hyginus, Fabulae 145",
+   "date": "early Roman Empire",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Leucane",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Leucane is occasionally named as Io’s mother in late genealogies.",
+   "source": "late genealogical notices",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "seduced_by",
+   "myth": "Zeus pursues and sexually coerces Io",
+   "note": "Zeus desires Io; accounts describe seduction, coercion, or rape.",
+   "source": "Prometheus Bound; Ovid, Metamorphoses 1",
+   "date": "5th c. BCE; c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Zeus is Io’s divine partner and father of Epaphus.",
+   "source": "Aeschylus; Apollodorus 2.1.3",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "transformed_by",
+   "myth": "Io is changed into a heifer",
+   "note": "Zeus transforms Io into a cow to conceal their encounter.",
+   "source": "Ovid, Metamorphoses 1; Hyginus 145",
+   "date": "c. 8 CE–early Empire",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Io regains human form in Egypt",
+   "note": "Zeus secures or performs Io’s restoration after her wanderings.",
+   "source": "Aeschylus; Ovid; Hyginus",
+   "date": "5th c. BCE–Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Io serves as Hera’s priestess or cult-attendant at Argos.",
+   "source": "Suppliant Women; Apollodorus 2.1.3",
+   "date": "463 BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera claims Io and sends the gadfly",
+   "note": "Hera confines Io under Argus and drives her wandering with a gadfly.",
+   "source": "Aeschylus; Apollodorus; Ovid",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "transformed_by",
+   "myth": "Hera transforms Io as punishment",
+   "note": "Some later summaries make Hera, rather than Zeus, transform Io.",
+   "source": "later mythographic summaries",
+   "date": "Roman and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "rescued_by",
+   "myth": "Hermes kills Argus and releases Io",
+   "note": "Zeus sends Hermes to free Io by killing her vigilant guard.",
+   "source": "Catalogue fragment; Sophocles, Inachus; Ovid",
+   "date": "7th c. BCE–c. 8 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus",
+    "hundred-eyed Argus"
+   ],
+   "kind": "other",
+   "myth": "Argus guards Io for Hera",
+   "note": "Argus confines and watches Io until Hermes kills him.",
+   "source": "Hesiodic fragments; fifth-century drama",
+   "date": "7th–5th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Prometheus foretells Io’s route and descendants",
+   "note": "The bound Titan explains Io’s suffering and reveals her future wanderings and lineage.",
+   "source": "Prometheus Bound 561–886",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Epaphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Io bears Epaphus in Egypt after union with Zeus.",
+   "source": "Aeschylus; Apollodorus 2.1.3",
+   "date": "5th c. BCE–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Epaphus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Io searches for abducted Epaphus",
+   "note": "Io finds and recovers Epaphus after the Curetes steal him.",
+   "source": "Apollodorus 2.1.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Curetes",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Curetes steal Io’s infant Epaphus",
+   "note": "At Hera’s command, the Curetes abduct Io’s newborn son.",
+   "source": "Apollodorus 2.1.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Byblus’ queen",
+   "other_aliases": [
+    "wife of Byblus"
+   ],
+   "kind": "other",
+   "myth": "Io recovers Epaphus from Byblus’ queen",
+   "note": "The queen raises stolen Epaphus until Io finds and recovers him.",
+   "source": "Apollodorus 2.1.3",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ceroessa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Constantinopolitan local legend makes Ceroessa another child of Io.",
+   "source": "Constantinopolitan local legend",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Libya",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Libya is Io’s granddaughter through Epaphus.",
+   "source": "Aeschylus; Pindar, Pythian 4",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Belus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Belus descends from Io through the Egyptian genealogical line.",
+   "source": "Aeschylus; later mythography",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Some genealogies insert Agenor differently within Io’s descendant line.",
+   "source": "genealogical mythography",
+   "date": "ancient, date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Danaus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Danaus descends from Io and returns from Egypt to Argos.",
+   "source": "Aeschylus, Suppliant Women",
+   "date": "probably 463 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Danaids",
+   "other_aliases": [
+    "daughters of Danaus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The Danaids invoke Io as their Argive ancestress.",
+   "source": "Aeschylus, Suppliant Women",
+   "date": "probably 463 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegyptus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Aegyptus is Io’s descendant and father of the Danaids’ suitors.",
+   "source": "Aeschylus, Suppliant Women",
+   "date": "probably 463 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypermestra",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Hypermestra is Io’s Danaid descendant whose marriage continues the Argive line.",
+   "source": "Prometheus Bound; Danaid tradition",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lynceus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Lynceus joins Io’s descendant line through his marriage to Hypermestra.",
+   "source": "Danaid tradition",
+   "date": "Classical period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Perseus is Io’s remote descendant through Epaphus and Danaus.",
+   "source": "genealogical mythography",
+   "date": "ancient, date uncertain",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Heracles is Io’s remote descendant, prophesied to free Prometheus.",
+   "source": "Prometheus Bound 871–873",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Io becomes the Egyptian goddess Isis",
+   "note": "Greek and Roman writers identify restored Io with the Egyptian goddess.",
+   "source": "Diodorus; Hyginus; Lucian; Nonnus",
+   "date": "1st c. BCE–5th c. CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Callithyia",
+   "other_aliases": [
+    "Callithoe"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Genealogical systematizers sometimes merge Io with Hera’s first Argive priestess.",
+   "source": "Argive genealogical traditions",
+   "date": "ancient, date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Oceanids hear and lament Io’s suffering",
+   "note": "The Oceanid chorus listens sympathetically as Io recounts her persecution.",
+   "source": "Prometheus Bound",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo’s oracle orders Io’s expulsion",
+   "note": "Apollo indirectly commands Inachus to expel Io under threat from Zeus.",
+   "source": "Prometheus Bound 658–672",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,673 @@
+{
+ "subject": "pelops",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Succession of the royal sceptre",
+   "note": "Zeus ultimately gives Pelops the royal sceptre through Hermes.",
+   "source": "Iliad 2.100–108",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Before the chariot race",
+   "note": "Zeus stands centrally between Pelops and Oenomaus before their race.",
+   "source": "Olympia east pediment",
+   "date": "c. 470–456 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Later genealogy makes Pelops Zeus’s descendant through Tantalus.",
+   "source": "Mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Purification after Myrtilus’s murder",
+   "note": "Hephaestus purifies Pelops after the killing of Myrtilus.",
+   "source": "Pseudo-Apollodorus, Epitome 2.9",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Succession of the royal sceptre",
+   "note": "Hermes hands Zeus’s royal sceptre to Pelops.",
+   "source": "Iliad 2.103–104",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration from Tantalus’s cauldron",
+   "note": "One later variant assigns Pelops’s restoration to Hermes.",
+   "source": "Later mythographic accounts",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Poseidon takes Pelops",
+   "note": "Poseidon loves and abducts Pelops, receiving him as his beloved.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pelops in Zeus’s dwelling",
+   "note": "Pelops becomes Poseidon’s intimate attendant in the divine dwelling.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wooing Hippodamia",
+   "note": "Poseidon gives Pelops a golden chariot and tireless winged horses.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cyprian Aphrodite"
+   ],
+   "kind": "other",
+   "myth": "Pelops’s prayer to Poseidon",
+   "note": "Pelops invokes Aphrodite’s reciprocal charis when recalling Poseidon’s love.",
+   "source": "Pindar, Olympian 1.75–78",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration from the cauldron",
+   "note": "Clotho draws restored Pelops from the cauldron with an ivory shoulder.",
+   "source": "Pindar, Olympian 1.25–27",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Tantalus’s banquet",
+   "note": "In later versions, grieving Demeter consumes part of Pelops’s shoulder.",
+   "source": "Scholia to Pindar",
+   "date": "Hellenistic–Byzantine compilation",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Murder of Stymphalus",
+   "note": "Demeter afflicts Greece with barrenness after Pelops dismembers Stymphalus.",
+   "source": "Pseudo-Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration from Tantalus’s banquet",
+   "note": "Some later accounts make Rhea reconstitute Pelops after his dismemberment.",
+   "source": "Roman and scholiastic mythography",
+   "date": "Roman–Byzantine periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Fates",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration from Tantalus’s banquet",
+   "note": "Later accounts assign Pelops’s restoration to the Fates collectively.",
+   "source": "Later mythographic accounts",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tantalus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pelops is consistently identified as the son of Tantalus.",
+   "source": "Pindar and later mythographers",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tantalus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Tantalus’s banquet",
+   "note": "Tantalus kills, dismembers, and serves Pelops to the gods.",
+   "source": "Hyginus, Fabulae 82–83",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus names Dione, daughter of Atlas, as Pelops’s mother.",
+   "source": "Hyginus, Fabulae 82–83",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euryanassa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A scholiastic genealogy names Euryanassa as Pelops’s mother.",
+   "source": "Scholia to Euripides, Orestes 4",
+   "date": "Hellenistic–Byzantine compilation",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clytie",
+   "other_aliases": [
+    "Clytia"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Another scholiastic genealogy names Clytie or Clytia as Pelops’s mother.",
+   "source": "Scholia to Euripides, Orestes 11",
+   "date": "Hellenistic–Byzantine compilation",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Plastene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The local Sipylus tradition identifies Plastene as Pelops’s mother.",
+   "source": "Pausanias 5.13.7",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Niobe is Pelops’s sister in later Tantalid genealogy.",
+   "source": "Ovid, Metamorphoses 6.401–411",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pelops mourns Niobe’s children",
+   "note": "Pelops mourns Niobe’s dead children and exposes his ivory shoulder.",
+   "source": "Ovid, Metamorphoses 6.401–411",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Broteas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Broteas is Pelops’s brother in later Tantalid genealogies.",
+   "source": "Mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oenomaus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Chariot race for Hippodamia",
+   "note": "Pelops challenges Oenomaus in the deadly race for Hippodamia.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oenomaus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Chariot race for Hippodamia",
+   "note": "Pelops defeats Oenomaus through divine aid or Myrtilus’s sabotage.",
+   "source": "Pseudo-Apollodorus, Epitome 2.4–8",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oenomaus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Oenomaus’s death",
+   "note": "In one variant, Pelops directly kills Oenomaus during the contest.",
+   "source": "Later mythographic tradition",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippodamia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pelops wins and marries Hippodamia, mother of many Pelopids.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippodamia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Sabotage of Oenomaus’s chariot",
+   "note": "Hippodamia desires Pelops and recruits Myrtilus to secure his victory.",
+   "source": "Pseudo-Apollodorus, Epitome 2.6",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippodamia",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "After Chrysippus’s death",
+   "note": "Pelops becomes angry with Hippodamia, who withdraws to Midea.",
+   "source": "Pausanias 6.20.7",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Myrtilus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Sabotage of Oenomaus’s chariot",
+   "note": "Myrtilus conspires with Pelops or Hippodamia to sabotage Oenomaus’s chariot.",
+   "source": "Pseudo-Apollodorus, Epitome 2.6",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Myrtilus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Myrtilus’s promised reward",
+   "note": "Pelops refuses Myrtilus the promised kingdom, payment, or sexual reward.",
+   "source": "Scholia and mythographic accounts",
+   "date": "Hellenistic–Byzantine compilation",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Myrtilus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of Myrtilus",
+   "note": "Pelops throws Myrtilus into the sea near Cape Geraestus.",
+   "source": "Sophocles, Electra 504–515",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Myrtilus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Myrtilus’s dying curse",
+   "note": "Dying Myrtilus curses Pelops and his descendants with dynastic ruin.",
+   "source": "Euripides, Orestes",
+   "date": "408 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cillus",
+   "other_aliases": [
+    "Cillas"
+   ],
+   "kind": "served_by",
+   "myth": "Journey to Pisa",
+   "note": "Cillus serves as Pelops’s charioteer before dying on Lesbos.",
+   "source": "Theopompus in later commentary",
+   "date": "fourth century BCE source",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cillus",
+   "other_aliases": [
+    "Cillas"
+   ],
+   "kind": "other",
+   "myth": "Burial of Cillus",
+   "note": "Cillus’s ghost requests burial, which Pelops provides on Lesbos.",
+   "source": "Theopompus in later commentary",
+   "date": "fourth century BCE source",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo Cillaeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Burial of Cillus",
+   "note": "Pelops establishes a sanctuary for Apollo Cillaeus after burying Cillus.",
+   "source": "Lost local account",
+   "date": "preserved in later commentary",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [
+    "Ocean"
+   ],
+   "kind": "other",
+   "myth": "Purification after Myrtilus’s murder",
+   "note": "Some accounts associate Pelops’s purification with the river-god Oceanus.",
+   "source": "Later mythographic tradition",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Stymphalus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "False friendship with Stymphalus",
+   "note": "Pelops pretends friendship with the Arcadian king before attacking him.",
+   "source": "Pseudo-Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Stymphalus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of Stymphalus",
+   "note": "Pelops kills, dismembers, and scatters Stymphalus’s body.",
+   "source": "Pseudo-Apollodorus 3.12.6",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles, son of Zeus",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Pausanias treats Heracles as Pelops’s fourth-generation descendant.",
+   "source": "Pausanias 5.13.2",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles, son of Zeus",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "served_by",
+   "myth": "Honoring Pelops at Olympia",
+   "note": "Heracles assigns Pelops the Pelopion and sacrifices to him in a pit.",
+   "source": "Pausanias 5.13.2",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles, son of Zeus",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "shared_myth",
+   "myth": "Foundation of the Olympic precinct",
+   "note": "Heracles establishes the Olympic precinct beside Pelops’s tomb.",
+   "source": "Pindar, Olympian 10",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Atreus is a recurrent son of Pelops and Hippodamia.",
+   "source": "Iliad 2.104–107",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Succession of the royal sceptre",
+   "note": "Pelops transmits Zeus’s royal sceptre to Atreus.",
+   "source": "Iliad 2.104–107",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Murder of Chrysippus",
+   "note": "Pelops curses and exiles Atreus for involvement in Chrysippus’s murder.",
+   "source": "Scholia and Hyginus 85",
+   "date": "Roman and later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thyestes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thyestes is a recurrent son of Pelops and Hippodamia.",
+   "source": "Iliad 2.106–108",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thyestes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Murder of Chrysippus",
+   "note": "Pelops curses and exiles Thyestes for involvement in Chrysippus’s murder.",
+   "source": "Scholia and Hyginus 85",
+   "date": "Roman and later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pittheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pittheus is Pelops’s son in the dominant Troezenian genealogy.",
+   "source": "Pausanias 2.30.8",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Troezen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Troezen is Pelops’s son or descendant and the city’s eponym.",
+   "source": "Pausanias 2.30.8",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcathous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcathous is Pelops’s son in the Megarian genealogy.",
+   "source": "Pausanias 1.39–43",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hippalcimus",
+   "other_aliases": [
+    "Hippalcmus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hippalcimus appears among Pelops’s sons in later genealogical lists.",
+   "source": "Later mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Dias appears among Pelops’s sons in later genealogical lists.",
+   "source": "Later mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippasus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hippasus appears among Pelops’s sons in later genealogical lists.",
+   "source": "Later mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Copreus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Copreus appears among Pelops’s sons in later genealogical lists.",
+   "source": "Later mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lysidice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lysidice is a daughter of Pelops in later genealogical traditions.",
+   "source": "Hesiodic and mythographic genealogies",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nicippe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nicippe is a daughter of Pelops in later genealogical traditions.",
+   "source": "Hesiodic and mythographic genealogies",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Astydameia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Astydameia is a daughter of Pelops in later genealogical traditions.",
+   "source": "Hesiodic and mythographic genealogies",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Chrysippus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chrysippus is Pelops’s favored son by varying mothers.",
+   "source": "Euripides, Chrysippus testimonia",
+   "date": "c. 410s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chrysippus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "After Chrysippus’s abduction",
+   "note": "Pelops pursues vengeance after Laius abducts and violates Chrysippus.",
+   "source": "Euripides, Chrysippus testimonia",
+   "date": "c. 410s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laius",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Abduction of Chrysippus",
+   "note": "Pelops curses Laius for abducting and sexually violating Chrysippus.",
+   "source": "Euripides, Chrysippus testimonia",
+   "date": "c. 410s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Pelops is Theseus’s great-grandfather through Pittheus and Aethra.",
+   "source": "Pausanias and Plutarch, Theseus 3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agamemnon",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Pelops is Agamemnon’s dynastic ancestor through Atreus.",
+   "source": "Iliad 2.100–108",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The composite genealogy makes Pelops Menelaus’s ancestor through Atreus.",
+   "source": "Mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aegisthus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The dominant genealogy makes Pelops Aegisthus’s ancestor through Thyestes.",
+   "source": "Mythographic genealogies",
+   "date": "Hellenistic–Roman periods",
+   "tier": "late_accretion"
+  }
+ ]
+}

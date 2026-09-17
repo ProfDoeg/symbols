@@ -1,0 +1,597 @@
+{
+ "subject": "marko_kraljevic",
+ "relations": [
+  {
+   "other": "King Vukašin",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Vukašin is Marko’s historical and nearly universal epic father.",
+   "source": "Marko Monastery inscription",
+   "date": "1376/77–1381",
+   "tier": "attested"
+  },
+  {
+   "other": "King Vukašin",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Uroš and the Mrnjavčevići",
+   "note": "Vukašin attacks and curses Marko for awarding the succession to Uroš.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Queen Elena",
+   "other_aliases": [
+    "Alena"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Historical reconstruction identifies Elena as Marko’s mother.",
+   "source": "Marko Monastery inscription",
+   "date": "1376/77–1381",
+   "tier": "attested"
+  },
+  {
+   "other": "Jevrosima",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Epic tradition makes Jevrosima Marko’s mother.",
+   "source": "Marriage of King Vukašin",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jevrosima",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Maternal counsel",
+   "note": "She counsels Marko toward truth, labor, restraint, and justice.",
+   "source": "Multiple Vuk-cycle poems",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andrijaš",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The monastery inscription and early song identify Andrijaš as Marko’s brother.",
+   "source": "Marko Monastery inscription",
+   "date": "1376/77–1381",
+   "tier": "attested"
+  },
+  {
+   "other": "Andrijaš",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Dispute over a captured horse",
+   "note": "Marko kills his brother during their dispute over a captured horse.",
+   "source": "Hektorović, Ribanje",
+   "date": "1555/1568",
+   "tier": "attested"
+  },
+  {
+   "other": "Ivaniš",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The family inscription names Ivaniš among Marko’s brothers.",
+   "source": "Marko Monastery inscription",
+   "date": "1376/77–1381",
+   "tier": "attested"
+  },
+  {
+   "other": "Dmitar",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The family inscription names Dmitar among Marko’s brothers.",
+   "source": "Marko Monastery inscription",
+   "date": "1376/77–1381",
+   "tier": "attested"
+  },
+  {
+   "other": "Duke Momčilo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Epic genealogy makes Momčilo Marko’s maternal uncle and heroic predecessor.",
+   "source": "Marriage of King Vukašin",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Duke Momčilo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Inheritance of Momčilo’s attributes",
+   "note": "Marko inherits or resembles the extraordinary attributes of his epic uncle.",
+   "source": "Marriage of King Vukašin",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vidosava",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marriage of King Vukašin",
+   "note": "Momčilo’s treacherous wife is explicitly rejected as Marko’s mother.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Emperor Uroš",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Uroš and the Mrnjavčevići",
+   "note": "Marko truthfully awards the disputed imperial succession to Uroš.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Emperor Uroš",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Uroš blesses Marko",
+   "note": "Uroš blesses Marko with unsurpassed future fame.",
+   "source": "Uroš and the Mrnjavčevići",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Despot Uglješa",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Uroš and the Mrnjavčevići",
+   "note": "Marko rejects Uglješa’s claim when judging the imperial succession.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gojko Mrnjavčević",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Uroš and the Mrnjavčevići",
+   "note": "Marko rejects his uncle Gojko’s claim to the succession.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Emperor Dušan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Succession to Dušan’s empire",
+   "note": "Dušan is the dead sovereign whose succession and sword connect Marko to the old empire.",
+   "source": "Vuk-cycle poems",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šarac",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marko’s heroic adventures",
+   "note": "Marko’s extraordinary horse serves as his trusted companion in numerous adventures.",
+   "source": "South Slavic heroic songs",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šarac",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Death of Marko Kraljević",
+   "note": "Marko kills Šarac so that no Turk can ride him.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Miloš Obilić",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Courtship of Roksanda",
+   "note": "Miloš accompanies Marko and Relja as a fellow suitor.",
+   "source": "Sister of Captain Leka",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Miloš Obilić",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Marko and the Vila",
+   "note": "Marko forces the vila who shot Miloš to heal him.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Relja Krilatica",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Courtship of Roksanda",
+   "note": "Relja accompanies Marko and Miloš as a fellow hero and suitor.",
+   "source": "Sister of Captain Leka",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Captain Leka",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Courtship of Roksanda",
+   "note": "Leka hosts Marko and the other heroes seeking his sister’s hand.",
+   "source": "Sister of Captain Leka",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Roksanda",
+   "other_aliases": [
+    "Leka’s sister"
+   ],
+   "kind": "punished",
+   "myth": "The Sister of Captain Leka",
+   "note": "After Roksanda insults the suitors, Marko mutilates and blinds her.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vila Ravijojla",
+   "other_aliases": [
+    "Ravijojla-type vila"
+   ],
+   "kind": "fought",
+   "myth": "Marko and the Vila",
+   "note": "Marko pursues and threatens the vila after she shoots Miloš.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vila Ravijojla",
+   "other_aliases": [
+    "Ravijojla-type vila"
+   ],
+   "kind": "punished",
+   "myth": "Marko compels Miloš’s cure",
+   "note": "Marko catches the vila and forces her to heal Miloš.",
+   "source": "Marko and the Vila",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "unnamed vila foster-mother",
+   "other_aliases": [
+    "vila"
+   ],
+   "kind": "child_of",
+   "myth": "Supernatural birth traditions",
+   "note": "Some regional traditions make an unnamed vila Marko’s supernatural mother.",
+   "source": "Regional prose traditions",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "unnamed vila foster-mother",
+   "other_aliases": [
+    "vila"
+   ],
+   "kind": "rescued_by",
+   "myth": "Abandoned infant Marko",
+   "note": "A vila suckles the abandoned Marko and becomes his foster-mother.",
+   "source": "Regional prose traditions",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "unnamed vila foster-mother",
+   "other_aliases": [
+    "vila"
+   ],
+   "kind": "gift",
+   "myth": "Three draughts of vila milk",
+   "note": "A vila rewards Marko with milk that confers supernatural strength.",
+   "source": "Regional prose traditions",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "unnamed vila foster-mother",
+   "other_aliases": [
+    "vila"
+   ],
+   "kind": "taught_by",
+   "myth": "Vila counsel",
+   "note": "In some songs a vila acts as Marko’s supernatural adviser.",
+   "source": "Regional collected songs",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Musa Kesedžija",
+   "other_aliases": [
+    "Musa the Outlaw",
+    "Musa the Highwayman"
+   ],
+   "kind": "fought",
+   "myth": "Marko and Musa the Outlaw",
+   "note": "Marko duels the extraordinarily strong outlaw Musa.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Musa Kesedžija",
+   "other_aliases": [
+    "Musa the Outlaw",
+    "Musa the Highwayman"
+   ],
+   "kind": "killed",
+   "myth": "Marko and Musa the Outlaw",
+   "note": "Using vila advice and a concealed weapon, Marko kills Musa and mourns him.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Black Arab",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Marko Abolishes the Wedding Tax",
+   "note": "Marko kills the oppressor who demands bridal tribute and access to brides.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arab king’s daughter",
+   "other_aliases": [
+    "Moorish king’s daughter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Escape from the Arab king",
+   "note": "The king’s daughter frees or assists Marko during his captivity.",
+   "source": "Marko and the Arab King’s Daughter",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arab king’s daughter",
+   "other_aliases": [
+    "Moorish king’s daughter"
+   ],
+   "kind": "killed",
+   "myth": "Escape with the Arab king’s daughter",
+   "note": "Marko betrays and kills his rescuer when her embrace repels or frightens him.",
+   "source": "Marko and the Arab King’s Daughter",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Twelve Arabs",
+   "other_aliases": [
+    "Twelve Moors"
+   ],
+   "kind": "fought",
+   "myth": "Marko and the Twelve Moors",
+   "note": "Marko confronts and defeats the collective of twelve adversaries.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sultan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Marko’s Ottoman service",
+   "note": "Marko repeatedly appears as the sultan’s warrior and insolent vassal.",
+   "source": "Multiple Vuk-cycle poems",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sultan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Campaign against Musa",
+   "note": "The sultan summons or releases Marko to defeat Musa.",
+   "source": "Marko and Musa the Outlaw",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sultan",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Marko Drinks Wine in Ramadan",
+   "note": "Marko publicly defies the sultan’s regulation and compels tolerance of his drinking.",
+   "source": "Vuk corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mina of Kostur",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Marko’s disguised return",
+   "note": "Marko returns in monastic disguise to recover his woman or home.",
+   "source": "Early manuscripts and Vuk version",
+   "date": "early 18th–19th c.",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mina of Kostur",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Revenge against Mina",
+   "note": "Marko takes revenge after Mina abducts or holds his woman or household.",
+   "source": "Early manuscripts and Vuk version",
+   "date": "early 18th–19th c.",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Đemo the Mountaineer",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marko and Đemo",
+   "note": "After Đemo captures or threatens him, Marko escapes and defeats him.",
+   "source": "Vuk-cycle poem",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "General Vuča",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marko and General Vuča",
+   "note": "Marko defeats Vuča’s forces while rescuing his captured companions.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Miloš of Pocerje",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Marko and General Vuča",
+   "note": "Marko rescues Miloš of Pocerje from General Vuča.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Milan Toplica",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Marko and General Vuča",
+   "note": "Marko rescues Milan Toplica from General Vuča.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ivan Kosančić",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Marko and General Vuča",
+   "note": "Marko rescues Ivan Kosančić from General Vuča.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Beg Kostadin",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Marko and Beg Kostadin",
+   "note": "Marko condemns Kostadin’s broken hospitality and mistreatment of the poor.",
+   "source": "Grujo Mehandžić recording",
+   "date": "1829/1845",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alil-Aga",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marko and Alil-Aga",
+   "note": "Their variable adversarial encounter includes combat, capture, or negotiation.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philip the Magyar",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Marko and Philip the Magyar",
+   "note": "Marko defeats or humiliates the rival Philip.",
+   "source": "Vuk-derived corpus",
+   "date": "19th c.",
+   "tier": "canonical"
+  },
+  {
+   "other": "King Matthias",
+   "other_aliases": [
+    "other Hungarian rulers"
+   ],
+   "kind": "shared_myth",
+   "myth": "Regional chronological conflations",
+   "note": "Regional variants anachronistically place Marko alongside Matthias or other Hungarian rulers.",
+   "source": "Croatian and borderland variants",
+   "date": "early modern–19th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Granting Marko’s strength",
+   "note": "God grants Marko his extraordinary strength in Bulgarian and Macedonian legends.",
+   "source": "Bulgarian and Macedonian prose legends",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Removal of Marko’s strength",
+   "note": "God removes or tests Marko’s supernatural strength in regional legends.",
+   "source": "Bulgarian and Macedonian prose legends",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Marko preserved in the cave",
+   "note": "God preserves Marko in a cave until the people need him again.",
+   "source": "Cave legends",
+   "date": "19th–20th c.",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Saint George",
+   "other_aliases": [
+    "St George"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists propose an analogue; no primary narrative identifies or joins them.",
+   "source": "Kim and Kwon",
+   "date": "2016",
+   "tier": "modern"
+  },
+  {
+   "other": "Alexander the Great",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship proposes Alexander as a contributor to Marko’s conqueror and giant motifs.",
+   "source": "Modern comparativist scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Thracian Horseman",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars hypothesize iconographic ancestry, without direct traditional identification.",
+   "source": "Modern scholarship",
+   "date": "modern",
+   "tier": "modern"
+  }
+ ]
+}

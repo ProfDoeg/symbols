@@ -1,0 +1,262 @@
+{
+ "subject": "callisto",
+ "relations": [
+  {
+   "other": "Lycaon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lycaon is Callisto’s father in the dominant Arcadian genealogy.",
+   "source": "Eumelus testimony via Pseudo-Apollodorus 3.8.2",
+   "date": "seventh–sixth century BCE?",
+   "tier": "attested"
+  },
+  {
+   "other": "Nycteus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asius’ alternative genealogy makes Callisto the daughter of Nycteus.",
+   "source": "Asius testimony via Pseudo-Apollodorus 3.8.2",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceteus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pherecydes’ alternative genealogy makes Callisto the daughter of Ceteus.",
+   "source": "Pherecydes testimony via Pseudo-Apollodorus 3.8.2",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceteus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A scholion names Ceteus as Callisto’s father and Stilbe as her mother.",
+   "source": "Scholion on Euripides’ Orestes 1646",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Stilbe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A scholion names Stilbe as Callisto’s mother.",
+   "source": "Scholion on Euripides’ Orestes 1646",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "seduced_by",
+   "myth": "Zeus assaults Callisto while disguised as Artemis",
+   "note": "Zeus assumes Artemis’ or Apollo’s form and rapes or impregnates Callisto.",
+   "source": "Pseudo-Apollodorus 3.8.2; Ovid Metamorphoses 2",
+   "date": "first century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "transformed_by",
+   "myth": "Zeus conceals Callisto by transforming her",
+   "note": "One variant makes Zeus transform Callisto into a bear to conceal her.",
+   "source": "Pseudo-Apollodorus 3.8.2; Hyginus Astronomica 2.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Zeus catasterizes Callisto and Arcas",
+   "note": "Zeus saves Callisto from death or further danger by placing her among the stars.",
+   "source": "Pseudo-Apollodorus 3.8.2; Ovid Metamorphoses 2",
+   "date": "circa 2–8 CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arcas",
+   "other_aliases": [
+    "Arctophylax",
+    "Boötes"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Callisto bears Arcas, the Arcadian culture hero and son of Zeus.",
+   "source": "Hesiodic testimony; Pseudo-Apollodorus 3.8.2",
+   "date": "archaic testimony; first–second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arcas",
+   "other_aliases": [
+    "Arctophylax",
+    "Boötes"
+   ],
+   "kind": "other",
+   "myth": "Arcas nearly kills his bear-mother",
+   "note": "Unaware of her identity, Arcas prepares to spear Callisto before Jupiter intervenes.",
+   "source": "Ovid Metamorphoses 2.496–507",
+   "date": "circa 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "allied",
+   "myth": "Callisto joins Artemis’ hunting company",
+   "note": "Callisto hunts with Artemis, imitates her clothing, and vows to remain a virgin.",
+   "source": "Pseudo-Apollodorus 3.8.2; Ovid Metamorphoses 2",
+   "date": "first century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "punished_by",
+   "myth": "Artemis discovers Callisto’s pregnancy",
+   "note": "Artemis discovers the pregnancy and expels Callisto from her company.",
+   "source": "Ovid Metamorphoses 2; Fasti 2",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "transformed_by",
+   "myth": "Artemis transforms Callisto into a bear",
+   "note": "Hesiodic and Amphis-derived variants make Artemis transform Callisto as punishment.",
+   "source": "Hyginus Astronomica 2.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "killed_by",
+   "myth": "Artemis shoots the transformed Callisto",
+   "note": "Artemis kills bear-shaped Callisto, either through Hera’s prompting or broken-vow anger.",
+   "source": "Pseudo-Apollodorus 3.8.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana",
+    "Artemis Kalliste"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some modern reconstructions derive Callisto from Artemis Kalliste, but no ancient equation is secure.",
+   "source": "Modern onomastic and cult scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "transformed_by",
+   "myth": "Hera transforms Callisto after Arcas’ birth",
+   "note": "Jealous Hera transforms Callisto into a bear after she bears Arcas.",
+   "source": "Ovid Metamorphoses 2; Hyginus Astronomica 2.1",
+   "date": "circa 2–8 CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera induces Artemis to shoot Callisto",
+   "note": "In one variant Hera persuades Artemis to kill the bear-shaped Callisto.",
+   "source": "Pseudo-Apollodorus 3.8.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Tethys denies Callisto the sea",
+   "note": "At Juno’s request, Tethys prevents catasterized Callisto from entering the sea.",
+   "source": "Hyginus Astronomica 2.1; Ovid Metamorphoses 2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Oceanus denies Callisto his waters",
+   "note": "Juno petitions Oceanus to prevent Callisto and Arcas from setting into his waters.",
+   "source": "Ovid Metamorphoses 2.508–530",
+   "date": "circa 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nomia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Callisto rests beside Nomia in Hades",
+   "note": "Polygnotus depicted Callisto beside Nomia, with Callisto’s feet resting on her knees.",
+   "source": "Polygnotus painting via Pausanias 10.31.10",
+   "date": "circa 460–450 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pero",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Callisto and Pero appear in Hades",
+   "note": "Polygnotus depicted Pero together with Callisto and Nomia in the Delphic underworld.",
+   "source": "Polygnotus painting via Pausanias 10.31.10",
+   "date": "circa 460–450 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Megisto",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Araethus’ regional genealogy replaces Callisto with Megisto, Ceteus’ daughter and Lycaon’s granddaughter.",
+   "source": "Araethus via Hyginus Astronomica 2.1",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Io and Callisto displayed as parallel heroines",
+   "note": "Their Athenian statues were paired because both suffered animal transformation through Zeus and Hera.",
+   "source": "Pausanias 1.25.1",
+   "date": "circa 150–175 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

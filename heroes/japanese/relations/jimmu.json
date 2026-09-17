@@ -1,0 +1,485 @@
+{
+ "subject": "jimmu",
+ "relations": [
+  {
+   "other": "Ugayafukiaezu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jimmu is his son.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Tamayori-hime",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jimmu is her son.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu Ōmikami",
+   "other_aliases": [
+    "Amaterasu"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Jimmu belongs to her heavenly imperial lineage.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu Ōmikami",
+   "other_aliases": [
+    "Amaterasu"
+   ],
+   "kind": "rescued_by",
+   "myth": "Heavenly guidance during the eastern expedition",
+   "note": "She communicates protective guidance and sends Yatagarasu in the Nihon shoki.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ame-no-Oshihomimi",
+   "other_aliases": [
+    "Oshihomimi"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "He is an intermediate ancestor in Jimmu's heavenly lineage.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninigi",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Jimmu descends from Ninigi through Hoori and Ugayafukiaezu.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Hiko-hohodemi",
+   "other_aliases": [
+    "Hoori"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Jimmu is his grandson through Ugayafukiaezu.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Watatsumi",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Watatsumi is Jimmu's maternal great-grandfather.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Itsuse-no-Mikoto",
+   "other_aliases": [
+    "Itsuse"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Itsuse is Jimmu's elder brother.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Itsuse-no-Mikoto",
+   "other_aliases": [
+    "Itsuse"
+   ],
+   "kind": "allied",
+   "myth": "Eastern expedition and battle against Naga-sune-hiko",
+   "note": "He co-leads the expedition and advises approaching Yamato with the sun behind.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Inahi-no-Mikoto",
+   "other_aliases": [
+    "Inahi"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Inahi is one of Jimmu's brothers.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Mikenu-no-Mikoto",
+   "other_aliases": [
+    "Mikenu",
+    "Mikeirinu-no-Mikoto"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mikenu is one of Jimmu's brothers.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ahiratsu-hime",
+   "other_aliases": [
+    "Ahira-hime",
+    "Ahira-tsu-hime"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "She is Jimmu's pre-Yamato consort and mother of Tagishimimi.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Isukeyori-hime",
+   "other_aliases": [
+    "Himetataraisuzu-hime"
+   ],
+   "kind": "consort_of",
+   "myth": "Jimmu courts and marries the Yamato queen",
+   "note": "She becomes Jimmu's formal Yamato queen and mother of his successor's branch.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Tagishimimi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tagishimimi is Jimmu's son by Ahiratsu-hime.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kamu-nunakawamimi",
+   "other_aliases": [
+    "Suizei"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "He is Jimmu's son and eventual imperial successor.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kamuyai-mimi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kamuyai-mimi is Jimmu's son.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōmononushi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "In the Kojiki, he is the divine father of Jimmu's queen Isukeyori-hime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Kotoshironushi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "In the Nihon shoki variant, he is the divine father of Jimmu's queen.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shiotsutsu-no-oji",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Decision to undertake the eastern expedition",
+   "note": "He tells Jimmu of the fine eastern land and its heavenly descendant.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Usatsuhiko",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reception of the expedition at Usa",
+   "note": "He receives and feeds Jimmu's party.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Usatsuhime",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reception of the expedition at Usa",
+   "note": "She receives Jimmu's expedition with Usatsuhiko.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Sao-netsu-hiko",
+   "other_aliases": [
+    "Shiinetsuhiko"
+   ],
+   "kind": "served_by",
+   "myth": "Sea voyage and Mount Kagu clay mission",
+   "note": "He pilots Jimmu's expedition and later obtains sacred clay in disguise.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Naga-sune-hiko",
+   "other_aliases": [
+    "Tomi-biko"
+   ],
+   "kind": "fought",
+   "myth": "Battles for entry into Yamato",
+   "note": "Jimmu fights this Yamato ruler, whose forces mortally wound Itsuse.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Naga-sune-hiko",
+   "other_aliases": [
+    "Tomi-biko"
+   ],
+   "kind": "contest",
+   "myth": "Dispute over heavenly descent and legitimate tokens",
+   "note": "They dispute which heavenly descendant holds legitimate authority in Yamato.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Takagi-no-kami",
+   "other_aliases": [
+    "Takamimusubi"
+   ],
+   "kind": "rescued_by",
+   "myth": "Yatagarasu guides Jimmu through Kumano",
+   "note": "Takagi sends Yatagarasu to guide Jimmu in the Kojiki.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Takagi-no-kami",
+   "other_aliases": [
+    "Takamimusubi"
+   ],
+   "kind": "served",
+   "myth": "Ritual worship during the conquest",
+   "note": "Jimmu appoints Michi-no-omi to oversee public worship of Takamimusubi.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Takemikazuchi",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Divine sword revives Jimmu's army at Kumano",
+   "note": "He sends his land-subduing sword through Takakuraji instead of descending personally.",
+   "source": "Kojiki; Nihon shoki tradition",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Takakuraji",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Divine sword revives Jimmu's army at Kumano",
+   "note": "He delivers the dream-disclosed heavenly sword that revives Jimmu and his force.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Yatagarasu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Guidance from Kumano through the mountains",
+   "note": "The heavenly crow guides Jimmu and, in the expanded chronicle, carries messages to enemies.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Nihe-motsu-no-ko",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Encounter with Yoshino's local beings",
+   "note": "The fishing-associated local deity meets Jimmu, identifies himself, and submits.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ihika",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Encounter with Yoshino's local beings",
+   "note": "The luminous-tailed figure emerges from a well and acknowledges Jimmu.",
+   "source": "Kojiki; Nihon shoki localization",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Iwa-oshi-waku-no-ko",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Encounter with Yoshino's local beings",
+   "note": "The tailed child of the rock-pusher meets and submits to Jimmu.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Eukashi",
+   "other_aliases": [
+    "elder Ukashi"
+   ],
+   "kind": "deceived_by",
+   "myth": "Elder Ukashi's crushing trap",
+   "note": "Eukashi feigns submission while preparing a hall designed to crush Jimmu.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Eukashi",
+   "other_aliases": [
+    "elder Ukashi"
+   ],
+   "kind": "killed",
+   "myth": "Elder Ukashi forced into his own trap",
+   "note": "Jimmu's followers force Eukashi into the trap, then kill and dismember him.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Otoukashi",
+   "other_aliases": [
+    "younger Ukashi"
+   ],
+   "kind": "allied",
+   "myth": "Exposure of Elder Ukashi's trap",
+   "note": "He exposes his brother's plot, submits, and joins Jimmu's adherents.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Michi-no-omi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Conquest stratagems and worship of Takamimusubi",
+   "note": "He serves as Jimmu's chief ritual and military agent.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōkume-no-Mikoto",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ukashi confrontation and Jimmu's courtship",
+   "note": "The warrior-retainer confronts Ukashi and mediates Jimmu's courtship of Isukeyori-hime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Nigihayahi-no-Mikoto",
+   "other_aliases": [
+    "Nigihayahi"
+   ],
+   "kind": "contest",
+   "myth": "Rival heavenly claims in Yamato",
+   "note": "Nigihayahi is another heavenly descendant already established in Yamato.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Nigihayahi-no-Mikoto",
+   "other_aliases": [
+    "Nigihayahi"
+   ],
+   "kind": "served_by",
+   "myth": "Nigihayahi recognizes Jimmu and submits",
+   "note": "He recognizes Jimmu's heavenly status, presents celestial tokens, and joins him.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "the golden kite",
+   "other_aliases": [
+    "kinshi"
+   ],
+   "kind": "rescued_by",
+   "myth": "Golden kite dazzles Jimmu's enemies",
+   "note": "It alights on Jimmu's bow and blinds the hostile army with radiance.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "eighty tailed earth-spiders",
+   "other_aliases": [
+    "tsuchigumo"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of the earth-spiders in an Osaka cave",
+   "note": "Jimmu's forces defeat the cave-dwelling group described derogatorily as earth-spiders.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Umashimaji",
+   "other_aliases": [
+    "Umashimami"
+   ],
+   "kind": "served_by",
+   "myth": "Mononobe ritual service at Jimmu's court",
+   "note": "Later tradition magnifies Nigihayahi's son's ritual relationship to Jimmu's court.",
+   "source": "Sendai kuji hongi",
+   "date": "9th–10th century",
+   "tier": "canonical"
+  }
+ ]
+}
