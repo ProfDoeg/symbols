@@ -1,0 +1,553 @@
+{
+ "subject": "utu_shamash",
+ "relations": [
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nanna/Sîn is Utu’s father in the dominant Mesopotamian genealogy.",
+   "source": "God lists and hymnic traditions",
+   "date": "third–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ningal",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ningal is Utu’s mother; Utu B calls him her son.",
+   "source": "Utu B",
+   "date": "Old Babylonian",
+   "tier": "attested"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Inana/Ištar is Utu’s sister, sometimes characterized as his twin.",
+   "source": "Sumerian Dumuzid cycle",
+   "date": "Old Babylonian copies",
+   "tier": "attested"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "other",
+   "myth": "Bull of Heaven aftermath",
+   "note": "Šamaš answers or confronts Ištar after receiving the slain Bull’s heart.",
+   "source": "Gilgameš VI",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aya",
+   "other_aliases": [
+    "Šerida"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aya/Šerida is Utu’s wife and intercedes favorably with him.",
+   "source": "Prayers and god lists",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aya",
+   "other_aliases": [
+    "Šerida"
+   ],
+   "kind": "served_by",
+   "myth": "Nightly solar return",
+   "note": "Aya prepares Šamaš’s evening meal when he enters his chamber.",
+   "source": "Sunset liturgies",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aya",
+   "other_aliases": [
+    "Šerida"
+   ],
+   "kind": "shared_myth",
+   "myth": "Restoration of the Sippar cult",
+   "note": "Aya leads Nabû-apla-iddina into Šamaš’s presence during the restored cult.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some regional or learned traditions name An/Anu as Šamaš’s father.",
+   "source": "God lists and hymnic traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "served",
+   "myth": "Restoration of the Sippar cult",
+   "note": "An authorizes the divine order underlying restoration of Šamaš’s cult.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some regional or hymnic traditions occasionally name Enlil as Šamaš’s father.",
+   "source": "God lists and hymnic traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Enlil appears as Šamaš’s superior in learned and royal theological arrangements.",
+   "source": "Royal theological traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kittu",
+   "other_aliases": [
+    "Truth"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kittu is sometimes classified as a child of Šamaš.",
+   "source": "An = Anum",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kittu",
+   "other_aliases": [
+    "Truth"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Personified Truth attends Šamaš and participates in his divinatory ritual.",
+   "source": "God lists and divinatory rituals",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mīšaru",
+   "other_aliases": [
+    "Justice",
+    "Right Order"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mīšaru is sometimes classified as Šamaš’s child, though other genealogies exist.",
+   "source": "An = Anum",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mīšaru",
+   "other_aliases": [
+    "Justice",
+    "Right Order"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Personified Right Order belongs to Šamaš’s ritual and cultic entourage.",
+   "source": "Ritual and cultic groupings",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bunene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions identify the solar charioteer Bunene as Šamaš’s son.",
+   "source": "God lists",
+   "date": "third–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bunene",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Daily solar journey",
+   "note": "Bunene serves as Šamaš’s minister and drives his solar chariot.",
+   "source": "God lists, hymns, cult records",
+   "date": "third–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mamu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mamu, the Sippar dream goddess, could be treated as Šamaš’s daughter.",
+   "source": "Sippar god lists",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Manzat",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One isolated Maqlû passage calls Manzat the sister of Šamaš.",
+   "source": "Maqlû",
+   "date": "first millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enmerkar",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Enmerkar bears 'son of Utu' language expressing divine filiation or patronage.",
+   "source": "Sumerian heroic tradition",
+   "date": "Old Babylonian copies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lugalbanda",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lugalbanda sometimes bears 'son of Utu' language expressing divine filiation or patronage.",
+   "source": "Sumerian heroic tradition",
+   "date": "Old Babylonian copies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lugalbanda",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Lugalbanda’s illness in the mountain cave",
+   "note": "Utu’s sunrise and life-giving radiance participate in Lugalbanda’s recovery.",
+   "source": "Lugalbanda in the Mountain Cave",
+   "date": "Old Babylonian copies",
+   "tier": "attested"
+  },
+  {
+   "other": "Lugalbanda",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Tell Harmal Gilgameš variant",
+   "note": "Lugalbanda assists Gilgameš alongside Šamaš in a regional version.",
+   "source": "Tell Harmal variant",
+   "date": "Old Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "allied",
+   "myth": "Extispicy",
+   "note": "Šamaš and Adad jointly disclose truthful omens through sacrificial victims.",
+   "source": "Extispicy prayers",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "allied",
+   "myth": "Instruction of Enmeduranki",
+   "note": "Šamaš and Adad jointly reveal divinatory knowledge to Enmeduranki.",
+   "source": "Enmeduranki tradition",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninsun",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ninsun’s prayer before the Cedar Forest expedition",
+   "note": "Ninsun petitions Šamaš to protect Gilgameš and asks Aya to remind him.",
+   "source": "Epic of Gilgameš",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgameš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cedar Forest expedition",
+   "note": "Utu authorizes Gilgameš’s expedition and aids him with supernatural winds.",
+   "source": "Gilgameš and Huwawa",
+   "date": "Old Babylonian copies",
+   "tier": "attested"
+  },
+  {
+   "other": "Gilgameš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cedar Forest battle",
+   "note": "Šamaš protects Gilgameš and sends winds against Humbaba.",
+   "source": "Epic of Gilgameš",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cedar Forest battle",
+   "note": "Šamaš aids Enkidu and Gilgameš by immobilizing Humbaba with winds.",
+   "source": "Epic of Gilgameš",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Enkidu’s curse of Šamḫat",
+   "note": "Šamaš rebukes Enkidu for cursing Šamḫat and recalls her benefits.",
+   "source": "Epic of Gilgameš",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Enkidu’s ghost and the Netherworld",
+   "note": "Utu opens a route allowing Enkidu’s ghost to communicate with Gilgameš.",
+   "source": "Gilgameš, Enkidu and the Netherworld",
+   "date": "Old Babylonian copies",
+   "tier": "attested"
+  },
+  {
+   "other": "Humbaba",
+   "other_aliases": [
+    "Ḫuwawa"
+   ],
+   "kind": "fought",
+   "myth": "Cedar Forest battle",
+   "note": "Utu/Šamaš deploys winds that immobilize the Cedar Forest guardian.",
+   "source": "Gilgameš traditions",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bull of Heaven",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bull of Heaven aftermath",
+   "note": "Šamaš receives the slain Bull of Heaven’s heart from Gilgameš and Enkidu.",
+   "source": "Gilgameš VI",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dumuzid",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Dumuzid’s flight from the galla",
+   "note": "Utu repeatedly changes Dumuzid’s body or animal form to delay capture.",
+   "source": "Sumerian Dumuzid cycle",
+   "date": "Old Babylonian manuscripts",
+   "tier": "attested"
+  },
+  {
+   "other": "galla",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dumuzid’s flight from the galla",
+   "note": "Utu’s transformations temporarily frustrate the demons pursuing Dumuzid.",
+   "source": "Sumerian Dumuzid cycle",
+   "date": "Old Babylonian manuscripts",
+   "tier": "attested"
+  },
+  {
+   "other": "Eagle",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Eagle and serpent oath",
+   "note": "Šamaš judges the eagle after it violates its oath and eats the serpent’s young.",
+   "source": "Etana",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eagle",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Eagle and serpent oath",
+   "note": "Šamaš enables the eagle’s maiming by teaching the serpent a trap.",
+   "source": "Etana",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eagle",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Etana rescues the trapped eagle",
+   "note": "Šamaš arranges the guilty eagle’s restoration through Etana.",
+   "source": "Etana",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Serpent",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Eagle and serpent oath",
+   "note": "Šamaš teaches the serpent to trap the oath-breaking eagle in a bull carcass.",
+   "source": "Etana",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Etana",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Etana and the trapped eagle",
+   "note": "Šamaš directs childless Etana to the trapped eagle, enabling mutual aid.",
+   "source": "Etana",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The flood signal",
+   "note": "Šamaš supplies the appointed weather signal for Uta-napišti to board his vessel.",
+   "source": "Gilgameš XI",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of the Sippar cult",
+   "note": "Marduk is invoked within the divine order sustaining Šamaš’s restored cult.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Enmešarra’s defeat",
+   "note": "Marduk grants Šamaš radiance taken following Enmešarra’s defeat.",
+   "source": "Enmešarra’s Defeat",
+   "date": "Seleucid or Parthian",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Enmešarra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Enmešarra’s defeat",
+   "note": "Šamaš receives radiance formerly possessed by the defeated Enmešarra.",
+   "source": "Enmešarra’s Defeat",
+   "date": "Seleucid or Parthian",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "shared_myth",
+   "myth": "Restoration of the Sippar cult",
+   "note": "Ea is co-invoked with Šamaš in the theological account of cult restoration.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sîn",
+   "other_aliases": [
+    "Nanna"
+   ],
+   "kind": "shared_myth",
+   "myth": "Astral triad on the Sun God Tablet",
+   "note": "Sîn’s emblem appears with those of Šamaš and Ištar as an astral triad.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ištar",
+   "other_aliases": [
+    "Inana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Astral triad on the Sun God Tablet",
+   "note": "Ištar’s emblem appears with those of Šamaš and Sîn as an astral triad.",
+   "source": "Sun God Tablet",
+   "date": "ninth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šimige",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hurrian Šimige was equated with Šamaš in bilingual and scribal practice.",
+   "source": "Bilingual texts and dUTU writings",
+   "date": "second millennium BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mithra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Iranian and Babylonian solar systems sometimes aligned Mithra with Šamaš.",
+   "source": "Iranian–Babylonian syncretistic traditions",
+   "date": "first millennium BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic interpretation could translate or equate Šamaš with Greek Helios.",
+   "source": "Hellenistic interpretive tradition",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation could translate or equate local Šamaš with Sol.",
+   "source": "Roman interpretive tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

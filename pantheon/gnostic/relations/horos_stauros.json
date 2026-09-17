@@ -1,0 +1,170 @@
+{
+ "subject": "horos_stauros",
+ "relations": [
+  {
+   "other": "Father",
+   "other_aliases": [
+    "Propator",
+    "Bythos"
+   ],
+   "kind": "created_by",
+   "myth": "Generation of Horos after Sophia’s crisis",
+   "note": "The Father produces Horos in his image through Monogenes, without a syzygy.",
+   "source": "Irenaeus, Adversus haereses 1.2.4",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Monogenes",
+   "other_aliases": [
+    "Nous"
+   ],
+   "kind": "created_by",
+   "myth": "Generation of Horos after Sophia’s crisis",
+   "note": "Monogenes serves as the mediating agency through whom the Father produces Horos.",
+   "source": "Irenaeus, Adversus haereses 1.2.3–4",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "upper Sophia"
+   ],
+   "kind": "rescued",
+   "myth": "Restraint and restoration of Sophia",
+   "note": "Horos restrains Sophia’s limitless search, supports and purifies her, and prevents her dissolution.",
+   "source": "Irenaeus, Adversus haereses 1.2.2–4",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "upper Sophia"
+   ],
+   "kind": "transformed",
+   "myth": "Purification and restoration of Sophia",
+   "note": "Horos removes Sophia’s disordered Thought and Passion and restores her within the Pleroma.",
+   "source": "Irenaeus, Adversus haereses 1.2.4; 1.3.3",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theletos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of Sophia to Theletos",
+   "note": "Horos restores Sophia to conjunction with her consort Theletos.",
+   "source": "Irenaeus, Adversus haereses 1.2.4",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sophia’s Enthymesis",
+   "other_aliases": [
+    "Sophia’s Passion",
+    "Thought-with-Passion"
+   ],
+   "kind": "punished",
+   "myth": "Expulsion of Sophia’s defective Thought",
+   "note": "Horos separates, fences off, and expels the shapeless product from the Pleroma.",
+   "source": "Irenaeus, Adversus haereses 1.2.4",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sophia’s Enthymesis",
+   "other_aliases": [
+    "Sophia’s Passion",
+    "Thought-with-Passion"
+   ],
+   "kind": "punished",
+   "myth": "Crucifixion of Sophia’s Passion",
+   "note": "Tertullian says Horos crucifies the Enthymesis and Passion outside the Pleroma.",
+   "source": "Tertullian, Adversus Valentinianos 10",
+   "date": "c. 200–210 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "upper Christ"
+   ],
+   "kind": "served",
+   "myth": "Formation of Achamoth at the Cross-boundary",
+   "note": "As Stauros, Horos provides the boundary through which Christ extends to form Achamoth.",
+   "source": "Irenaeus, Adversus haereses 1.4.1",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Stabilization of the restored Pleroma",
+   "note": "Christ and Holy Spirit are produced after Horos restores Sophia and then stabilize the aeons.",
+   "source": "Irenaeus, Adversus haereses 1.2.5",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achamoth",
+   "other_aliases": [
+    "lower Sophia"
+   ],
+   "kind": "punished",
+   "myth": "Achamoth’s attempted return to the Pleroma",
+   "note": "Horos blocks Achamoth from following Christ into the Pleroma and marks her exclusion.",
+   "source": "Irenaeus, Adversus haereses 1.4.1",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Savior"
+   ],
+   "kind": "served",
+   "myth": "Passage of the spiritual Seed",
+   "note": "As Cross and Limit, Horos enables Jesus to carry the Seed into the Pleroma.",
+   "source": "Excerpta ex Theodoto 42–43",
+   "date": "c. 200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Savior"
+   ],
+   "kind": "shared_myth",
+   "myth": "Revelation of Cross and Limit",
+   "note": "Jesus’s sayings reveal Horos’s sustaining and separating powers.",
+   "source": "Irenaeus, Adversus haereses 1.3.5",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Spiritual Seed",
+   "other_aliases": [
+    "Church"
+   ],
+   "kind": "rescued",
+   "myth": "Crossing the Limit into the Pleroma",
+   "note": "The Cross marks and carries the Seed, whose qualified members may pass the Limit.",
+   "source": "Excerpta ex Theodoto 42, 76–78",
+   "date": "c. 200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the aeons",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Preservation of the ordered Pleroma",
+   "note": "Horos preserves the aeons’ ordered Fullness by limiting extension and excluding deficiency.",
+   "source": "Irenaeus, Adversus haereses 1.2–3",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "subject": "adad_ishkur",
+ "relations": [
+  {
+   "other": "Anu",
+   "other_aliases": [
+    "An"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Canonical learned genealogy names Anu as Adad’s father.",
+   "source": "An = Anum, Tablet III",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anu",
+   "other_aliases": [
+    "An"
+   ],
+   "kind": "shared_myth",
+   "myth": "Anu–Adad double temple at Aššur",
+   "note": "Anu and Adad shared a paired Assyrian temple and cult complex.",
+   "source": "Assyrian royal building inscriptions",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Sumerian literary genealogy identifies Iškur as Enlil’s son.",
+   "source": "NI 12501",
+   "date": "early tradition; later manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Captivity of Iškur",
+   "note": "Enlil convenes the divine assembly to recover his captive son Iškur.",
+   "source": "NI 12501",
+   "date": "early tradition; later manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Droughts and flood against humanity",
+   "note": "Adad obeys Enlil by withholding rain and executing the final deluge.",
+   "source": "Atraḫasīs",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uraš",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One isolated Old Babylonian prayer names Uraš as Iškur’s mother.",
+   "source": "Old Babylonian prayer",
+   "date": "Old Babylonian period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ugaritic and Syrian tradition makes the West Semitic storm god Dagan’s son.",
+   "source": "Ugaritic tradition",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medimša",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Sumerian god-list tradition identifies Medimša as Iškur’s spouse.",
+   "source": "Sumerian god-list tradition",
+   "date": "second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Šala",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Šala is Adad’s regular Akkadian spouse and fertility partner.",
+   "source": "An = Anum, Tablet III",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šala",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint cult and tablet curses",
+   "note": "Adad and Šala receive joint cult and jointly threaten tablet thieves.",
+   "source": "Late Babylonian and Seleucid ritual texts",
+   "date": "late first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "other",
+   "myth": "Assignment of Iškur’s cosmic office",
+   "note": "Enki assigns Iškur authority over winds, storms, rain, and abundance.",
+   "source": "Enki and the World Order",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "contest",
+   "myth": "Droughts and flood against humanity",
+   "note": "Adad enforces destruction while Ea covertly teaches Atraḫasīs how to frustrate the plan.",
+   "source": "Atraḫasīs",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint royal divination",
+   "note": "Šamaš and Adad jointly reveal divine decisions through extispicy.",
+   "source": "Šamaš-and-Adad divination prayers",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šullat",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The world-destroying flood",
+   "note": "Šullat advances before or beside Adad as the deluge begins.",
+   "source": "Gilgameš XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ḫaniš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The world-destroying flood",
+   "note": "Ḫaniš accompanies Šullat and Adad during the flood assault.",
+   "source": "Gilgameš XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The world-destroying flood",
+   "note": "Ninurta releases or overwhelms the waters while Adad thunders.",
+   "source": "Gilgameš XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [
+    "Errakal"
+   ],
+   "kind": "allied",
+   "myth": "The world-destroying flood",
+   "note": "Errakal tears away restraints or moorings as Adad’s storm begins.",
+   "source": "Gilgameš XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunnaki",
+   "other_aliases": [
+    "Anuna"
+   ],
+   "kind": "allied",
+   "myth": "The world-destroying flood",
+   "note": "The Anunnaki raise torches whose glare accompanies Adad’s storm.",
+   "source": "Gilgameš XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nimgir",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Deified lightning Nimgir serves as Adad’s sukkal or minister.",
+   "source": "Mesopotamian learned theology",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Assyrian royal invocations",
+   "note": "Royal inscriptions invoke Aššur and Adad together without a developed narrative encounter.",
+   "source": "Assyrian royal inscriptions",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Wer",
+   "other_aliases": [
+    "Mer"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lexical theology equates the north Babylonian or Syrian weather god Wer with Adad.",
+   "source": "Mesopotamian god lists",
+   "date": "second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hadda",
+   "other_aliases": [
+    "Haddu",
+    "Hadad"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Semitic Hadda and Mesopotamian Adad became broadly equated while retaining local manifestations.",
+   "source": "Eblaite and Mesopotamian records",
+   "date": "third–second millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Teššub",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Multilingual scribal culture translates or equates the Hurrian weather god Teššub with Adad.",
+   "source": "Hurrian multilingual god lists",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tarḫunt",
+   "other_aliases": [
+    "Tarḫunna",
+    "Tarḫunza"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hittite and Luwian writing equates Anatolian Tarḫunt with Adad through the IM logogram.",
+   "source": "Hittite-Luwian lexical writing",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Buriyaš",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Kassite lexical theology equates the weather god Buriyaš with Adad.",
+   "source": "Kassite lexical theology",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Baʿal"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "West Semitic Baal is functionally and scribally equated with Hadad or Adad.",
+   "source": "West Semitic and Mesopotamian equations",
+   "date": "second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic interpretation treated Syrian and Near Eastern weather gods as forms of Zeus.",
+   "source": "Hellenistic interpretive tradition",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation treated Syrian storm gods as forms of Jupiter.",
+   "source": "Roman interpretive tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

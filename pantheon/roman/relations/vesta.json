@@ -1,0 +1,298 @@
+{
+ "subject": "vesta",
+ "relations": [
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ovid names Saturn as Vesta’s father.",
+   "source": "Ovid, Fasti 6.283–294",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ovid names Ops as Vesta’s mother.",
+   "source": "Ovid, Fasti 6.283–294",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ovid presents Juno and Vesta as daughters of Saturn and Ops.",
+   "source": "Ovid, Fasti 6.283–294",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ennius’ catalogue of goddesses",
+   "note": "Juno and Vesta appear together in an early divine catalogue.",
+   "source": "Ennius, Annales fragment 60",
+   "date": "early second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ovid presents Ceres and Vesta as daughters of Saturn and Ops.",
+   "source": "Ovid, Fasti 6.283–294",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ennius’ catalogue of goddesses",
+   "note": "Ceres and Vesta appear together in an early divine catalogue.",
+   "source": "Ennius, Annales fragment 60",
+   "date": "early second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hestia equation makes Vesta a sister of Jupiter.",
+   "source": "Greco-Roman genealogical tradition",
+   "date": "late Republic and Imperial",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus",
+    "Jupiter Pistor"
+   ],
+   "kind": "served",
+   "myth": "Jupiter Pistor and the Gallic siege",
+   "note": "Jupiter orders Vesta to feign abundant grain, and she assents.",
+   "source": "Ovid, Fasti 6.349–394",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hestia equation makes Vesta a sister of Neptune.",
+   "source": "Greco-Roman genealogical tradition",
+   "date": "late Republic and Imperial",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hestia equation makes Vesta a sister of Dis Pater.",
+   "source": "Greco-Roman genealogical tradition",
+   "date": "late Republic and Imperial",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine council during the Gallic siege",
+   "note": "Vesta joins Mars in pleading before Jupiter for Latium.",
+   "source": "Ovid, Fasti 6.349–394",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine council during the Gallic siege",
+   "note": "Vesta and Venus jointly plead before Jupiter for Latium.",
+   "source": "Ovid, Fasti 6.349–394",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ennius’ catalogue of goddesses",
+   "note": "Venus and Vesta appear together in an early divine catalogue.",
+   "source": "Ennius, Annales fragment 60",
+   "date": "early second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine council during the Gallic siege",
+   "note": "Vesta and Quirinus jointly plead before Jupiter for Latium.",
+   "source": "Ovid, Fasti 6.349–394",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Priapus approaches Vesta at Cybele’s feast",
+   "note": "Priapus attempts to assault sleeping Vesta but flees when exposed.",
+   "source": "Ovid, Fasti 6.319–348",
+   "date": "c. 2–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cybele’s divine banquet",
+   "note": "Cybele hosts the feast where Priapus approaches the sleeping Vesta.",
+   "source": "Ovid, Fasti 6.319–348",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priapus approaches Vesta at Cybele’s feast",
+   "note": "Silenus’s unattended ass awakens Vesta and frustrates Priapus.",
+   "source": "Ovid, Fasti 6.319–348",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Pallas Athena",
+    "Pallas"
+   ],
+   "kind": "other",
+   "myth": "Custody of the Trojan Palladium",
+   "note": "Vesta guards the Palladium, the sacred image of armed Pallas.",
+   "source": "Ovid, Fasti 6.417–454",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Pallas Athena",
+    "Pallas"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ennius’ catalogue of goddesses",
+   "note": "Minerva and Vesta appear together in an early divine catalogue.",
+   "source": "Ennius, Annales fragment 60",
+   "date": "early second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Augustus’ Palatine religious household",
+   "note": "Vesta and Apollo share Augustus’ Palatine religious household.",
+   "source": "Ovid, Fasti 4.943–954",
+   "date": "c. 2–8 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penates",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Trojan sacra carried toward Rome",
+   "note": "Vesta and the Penates jointly embody Trojan-Roman sacred continuity.",
+   "source": "Virgil, Aeneid 2.293–297",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tellus",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned Roman theology explicitly identifies Vesta with Earth.",
+   "source": "Augustine, City of God 7.23–24",
+   "date": "early fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [
+    "Ἑστία"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cicero explicitly equates Roman Vesta with Greek Hestia.",
+   "source": "Cicero, De natura deorum 2.67",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Learned theology distinguishes Vesta’s household fire from Vulcan’s violent or smithy fire.",
+   "source": "Augustine, City of God 4.10; 7.16",
+   "date": "early fifth century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Associated priestly cult at Aricia",
+   "note": "Vesta’s local priestly service is associated with Diana’s Arician sanctuary.",
+   "source": "CIL XIV 2213; Servius, Aeneid 9.406",
+   "date": "Imperial and late antique",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ennius’ catalogue of goddesses",
+   "note": "Diana and Vesta appear together in an early divine catalogue.",
+   "source": "Ennius, Annales fragment 60",
+   "date": "early second century BCE",
+   "tier": "attested"
+  }
+ ]
+}

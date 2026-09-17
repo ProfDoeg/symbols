@@ -1,0 +1,219 @@
+{
+ "subject": "phobos_and_deimos",
+ "relations": [
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Both are sons of Ares; Homer explicitly calls Phobos his son.",
+   "source": "Iliad 13.298–300; Theogony 933–937",
+   "date": "late eighth–c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aphrodite bears Phobos and Deimos to Ares.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "around 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Harmonia is born from the same union of Ares and Aphrodite.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "around 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An isolated learned genealogy reportedly makes Phobos a son of Selene.",
+   "source": "Stobaeus, Anthology 1.49.44",
+   "date": "late learned tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "served",
+   "myth": "Ares prepares to avenge Ascalaphus",
+   "note": "Phobos and Deimos harness Ares’ horses and serve as his attendants.",
+   "source": "Iliad 15.119–120",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "rescued",
+   "myth": "Heracles wounds Ares",
+   "note": "They retrieve wounded Ares, lift him aboard, and drive to Olympus.",
+   "source": "Pseudo-Hesiod, Shield 450–466",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine powers move among the combatants",
+   "note": "Eris moves through battle beside Phobos and Deimos.",
+   "source": "Iliad 4.439–445",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Eris leads the martial daimones",
+   "note": "Phobos and Deimos follow Eris through battle.",
+   "source": "Quintus Smyrnaeus, Posthomerica 10.51–59",
+   "date": "third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Seven swear their blood-oath",
+   "note": "Phobos is invoked with Ares and Enyo in the Seven’s oath.",
+   "source": "Aeschylus, Seven 42–48",
+   "date": "467 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "contest",
+   "myth": "Gods drive opposing hosts at Troy",
+   "note": "The pair animate Ares’ side while Athena directs the opposing host.",
+   "source": "Iliad 4.439–445",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "served",
+   "myth": "Judgment of Paris stage spectacle",
+   "note": "Terror and Metus appear as armed attendants of the stage-Athena.",
+   "source": "Apuleius, Metamorphoses 10.30",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gorgon",
+   "other_aliases": [
+    "Gorgo"
+   ],
+   "kind": "shared_myth",
+   "myth": "Agamemnon’s shield",
+   "note": "Deimos and Phobos surround the Gorgon’s glaring face on the shield.",
+   "source": "Iliad 11.32–37",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wounding and rescue of Ares",
+   "note": "After Heracles wounds Ares, the brothers evacuate their father.",
+   "source": "Pseudo-Hesiod, Shield 450–466",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kyknos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kyknos’ skull temple",
+   "note": "Kyknos plans to build Phobos a temple from travelers’ skulls.",
+   "source": "Stesichorus fr. 207",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Zeus arms the brothers against Typhon",
+   "note": "Zeus gives Phobos lightning and Deimos thunder for the battle.",
+   "source": "Nonnus, Dionysiaca 2.414–419",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cosmic struggle against Typhon",
+   "note": "They attack or frighten Typhon using Zeus’ lightning and thunder.",
+   "source": "Nonnus, Dionysiaca 2.414–419",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Indian war",
+   "note": "They drive Ares’ chariot when he joins the war against Dionysus.",
+   "source": "Nonnus, Dionysiaca 29.364 onward",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hera mobilizes Dionysus’ opponents",
+   "note": "They belong to Ares’ contingent indirectly mobilized by Hera.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tisiphone",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Madness in Athamas’ house",
+   "note": "Latin Pavor and Terror accompany Tisiphone as she spreads madness.",
+   "source": "Ovid, Metamorphoses 4.481–485",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Failed return of Hephaestus",
+   "note": "Late summaries associate them with Ares’ failed attempt to compel Hephaestus.",
+   "source": "Suda, mythographic entry",
+   "date": "tenth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

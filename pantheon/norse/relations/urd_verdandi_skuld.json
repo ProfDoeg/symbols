@@ -1,0 +1,100 @@
+{
+ "subject": "urd_verdandi_skuld",
+ "relations": [
+  {
+   "other": "Yggdrasill",
+   "other_aliases": [
+    "the ash",
+    "the world-tree"
+   ],
+   "kind": "served",
+   "myth": "The Norns preserve Yggdrasill from decay",
+   "note": "They pour water and clay over Yggdrasill to preserve its branches.",
+   "source": "Snorri, Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gunnr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Skuld rides with valkyries to battle",
+   "note": "Skuld rides with Gunnr and Róta to choose the slain and govern battles.",
+   "source": "Snorri, Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Róta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Skuld rides with valkyries to battle",
+   "note": "Skuld rides with Róta and Gunnr to choose the slain and govern battles.",
+   "source": "Snorri, Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "gods"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Some norns are described as originating from or descending from the Æsir.",
+   "source": "Fáfnismál 13",
+   "date": "uncertain; preserved c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "elves",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Some norns are described as being of elvish origin.",
+   "source": "Fáfnismál 13",
+   "date": "uncertain; preserved c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Dvalinn",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some norns are called daughters of Dvalinn and understood as dwarfish.",
+   "source": "Fáfnismál 13",
+   "date": "uncertain; preserved c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "the Moirai",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Post-medieval comparison equated the Norns iconographically with the Greek Fates.",
+   "source": "Early-modern antiquarian tradition",
+   "date": "post-medieval",
+   "tier": "modern"
+  },
+  {
+   "other": "the Parcae",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Antiquaries translated nornir as Parcae, encouraging Classical identification.",
+   "source": "Early-modern antiquarian tradition",
+   "date": "post-medieval",
+   "tier": "modern"
+  },
+  {
+   "other": "Erda",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "The Norns recount history before their rope breaks",
+   "note": "Wagner portrays the three Norns as daughters or extensions of Erda’s wisdom.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "premiered 1876",
+   "tier": "modern"
+  }
+ ]
+}

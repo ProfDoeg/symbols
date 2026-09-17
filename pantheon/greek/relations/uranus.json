@@ -1,0 +1,704 @@
+{
+ "subject": "uranus",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia generates starry Uranus alone, equal in extent to herself.",
+   "source": "Hesiod, Theogony 126–128",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "consort_of",
+   "myth": "Generation of the elder gods",
+   "note": "Uranus repeatedly lies over Gaia and fathers several divine generations.",
+   "source": "Hesiod, Theogony 132–154",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "punished",
+   "myth": "Concealment of the children",
+   "note": "Uranus forces their children inside Gaia, causing her great pain.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "deceived_by",
+   "myth": "Castration of Uranus",
+   "note": "Gaia fashions the sickle and arranges Cronus's successful ambush.",
+   "source": "Hesiod, Theogony 161–182",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Akmon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Fragmentary lyric and learned traditions call Uranus the son of Akmon.",
+   "source": "Alcman fragments and later commentators",
+   "date": "seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Roman learned genealogy makes Aether and Day parents of Caelus.",
+   "source": "Cicero, De natura deorum 3.44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [
+    "Day",
+    "Dies"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Roman learned genealogy makes Day and Aether parents of Caelus.",
+   "source": "Cicero, De natura deorum 3.44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oceanus is a Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Coeus is a Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Coeus joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Crius is a Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Crius joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyperion is a Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Hyperion joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Iapetus is a Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Iapetus joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Theia is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Theia joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Rhea joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Themis is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Themis joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pergamon Gigantomachy",
+   "note": "The figure conventionally identified as Uranus fights near Themis.",
+   "source": "Pergamon Altar south frieze",
+   "date": "c. 180–160 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mnemosyne is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Mnemosyne joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phoebe is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Phoebe joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tethys is a Titan daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Revolt of the Titans",
+   "note": "Tethys joins the Titans' attack upon Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.3–4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cronus is the youngest Titan son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 137–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "fought",
+   "myth": "Castration of Uranus",
+   "note": "Cronus ambushes Uranus and severs his genitals with Gaia's sickle.",
+   "source": "Hesiod, Theogony 168–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "other",
+   "myth": "Curse of the Titans",
+   "note": "Uranus names Cronus and his siblings Titans and predicts vengeance.",
+   "source": "Hesiod, Theogony 207–210",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Diodorus's Atlantian history makes Cronus a son of Uranus and Titaea.",
+   "source": "Diodorus, Library 3.56–61",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brontes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Brontes is a Cyclops son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brontes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Cyclopes",
+   "note": "Uranus conceals Brontes within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Steropes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Steropes is a Cyclops son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Steropes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Cyclopes",
+   "note": "Uranus conceals Steropes within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arges",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Arges is a Cyclops son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arges",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Cyclopes",
+   "note": "Uranus conceals Arges within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cottus is a Hundred-Hander son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Hundred-Handers",
+   "note": "Uranus conceals Cottus within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Briareus is a Hundred-Hander son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Hundred-Handers",
+   "note": "Uranus conceals Briareus within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gyes is a Hundred-Hander son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Concealment of the Hundred-Handers",
+   "note": "Uranus conceals Gyes within Gaia; later tradition describes binding.",
+   "source": "Hesiod, Theogony 154–160",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Aphrodite",
+   "note": "Aphrodite grows from foam surrounding Uranus's severed genitals in the sea.",
+   "source": "Hesiod, Theogony 188–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Roman theological enumeration makes Venus daughter of Caelus and Day.",
+   "source": "Cicero, De natura deorum 3.44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Blood-born beings",
+   "note": "The Erinyes arise when Uranus's blood falls upon Gaia.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Blood-born beings",
+   "note": "The Giants arise when Uranus's blood falls upon Gaia.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meliae",
+   "other_aliases": [
+    "ash-tree nymphs"
+   ],
+   "kind": "parent_of",
+   "myth": "Blood-born beings",
+   "note": "The Meliae arise when Uranus's blood falls upon Gaia.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Clotho a daughter of Uranus and Gaia.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lachesis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Lachesis a daughter of Uranus and Gaia.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atropos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Atropos a daughter of Uranus and Gaia.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "taught",
+   "myth": "Prophecy of Cronus's overthrow",
+   "note": "Uranus and Gaia reveal that Cronus is destined for overthrow by his son.",
+   "source": "Hesiod, Theogony 463–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "taught",
+   "myth": "Prophecy concerning Metis",
+   "note": "Uranus and Gaia warn Zeus that Metis will bear a supplanting son.",
+   "source": "Hesiod, Theogony 886–900",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served_by",
+   "myth": "Sacrifice before the Gigantomachy",
+   "note": "Zeus sacrifices a bull to Uranus, Helios, and Gaia.",
+   "source": "Diodorus, Library 5.71.3",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cicero reports a learned genealogy making one Jupiter son of Caelus.",
+   "source": "Cicero, De natura deorum 3.53",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sacrifice before the Gigantomachy",
+   "note": "Helios and Uranus jointly receive Zeus's bull sacrifice with Gaia.",
+   "source": "Diodorus, Library 5.71.3",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sacrifice before the Gigantomachy",
+   "note": "Gaia and Uranus jointly receive Zeus's bull sacrifice with Helios.",
+   "source": "Diodorus, Library 5.71.3",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orphic divine succession",
+   "note": "Orphic Rhapsodic fragments place Night before Uranus in divine kingship.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cicero transmits a genealogy making an early Mercury son of Caelus and Day.",
+   "source": "Cicero, De natura deorum 3.56",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "A learned Roman genealogy makes Caelus grandfather of Minerva through Jupiter.",
+   "source": "Cicero, De natura deorum 3.53",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Titaea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Euhemeristic Uranus",
+   "note": "Diodorus's Atlantian history makes Titaea the wife of Uranus.",
+   "source": "Diodorus, Library 3.56–61",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Euhemeristic Uranus",
+   "note": "Diodorus's Atlantian history includes Atlas among Uranus's many sons.",
+   "source": "Diodorus, Library 3.56–61",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "Caelum",
+    "Caelus Aeternus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin literary mythology equates Greek Uranus with the Roman personified Sky.",
+   "source": "Cicero, De natura deorum",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  }
+ ]
+}

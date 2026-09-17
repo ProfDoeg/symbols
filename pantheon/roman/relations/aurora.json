@@ -1,0 +1,453 @@
+{
+ "subject": "aurora",
+ "relations": [
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Ēōs"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aurora is the Roman literary name and dominant Latin identity of Greek Eos.",
+   "source": "Virgil, Ovid, and Latin literary translation",
+   "date": "first century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eos is a daughter of Hyperion in the canonical Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eos is a daughter of Theia in the canonical Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ovid calls Aurora Pallantias, daughter of an otherwise unexplained Pallas.",
+   "source": "Ovid, Fasti 4.373–374",
+   "date": "Augustan age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eos and Helios are siblings, children of Hyperion and Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daily procession of Dawn and Sun",
+   "note": "Aurora rises before Sol and precedes his daily passage across the sky.",
+   "source": "Greek pottery; Virgil and Ovid",
+   "date": "sixth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eos and Selene are siblings, children of Hyperion and Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astraeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eos and Astraeus procreate the winds and stars.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Zephyrus is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Notus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Notus is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the stars",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eos and Astraeus are parents of the stars.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eosphorus",
+   "other_aliases": [
+    "Phosphorus",
+    "Lucifer",
+    "Morning Star"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Morning Star belongs among Eos and Astraeus' stellar children.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eosphorus",
+   "other_aliases": [
+    "Phosphorus",
+    "Lucifer",
+    "Morning Star"
+   ],
+   "kind": "shared_myth",
+   "myth": "Morning Star rises as Aurora departs",
+   "note": "Lucifer rises from eastern waters while Aurora leaves Tithonus.",
+   "source": "Ovid, Fasti 6.473–474",
+   "date": "Augustan age",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tithonus is Aurora's husband or enduring lover and father of her sons.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Immortality without eternal youth",
+   "note": "Aurora secures his immortality but neglects eternal youth, then tends his endless old age.",
+   "source": "Homeric Hymn to Aphrodite 218–238",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Tithonus becomes a cicada",
+   "note": "Later retellings say Aurora transformed aged Tithonus into a cicada or grasshopper.",
+   "source": "Later interpretation and retelling",
+   "date": "post-Homeric tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Memnon is the son of Aurora and Tithonus.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aurora mourns Memnon and obtains memorial birds",
+   "note": "Aurora mourns Memnon and petitions Jupiter, who creates annually fighting Memnonides from his pyre.",
+   "source": "Ovid, Metamorphoses 13.576–622",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Emathion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Emathion is the son of Eos and Tithonus.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cephalus is an abducted lover of Eos and father of Phaethon in one genealogy.",
+   "source": "Hesiod, Theogony 986–991",
+   "date": "ca. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aurora abducts Cephalus from Hymettus",
+   "note": "Aurora carries the unwilling newlywed Cephalus away and later releases him.",
+   "source": "Ovid, Metamorphoses 7.700–713",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Aurora plants suspicion about Procris",
+   "note": "Angered by his devotion to Procris, Aurora induces Cephalus to test his wife's fidelity.",
+   "source": "Ovid, Metamorphoses 7.700–713",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One Hesiodic genealogy makes Phaethon the child of Eos and Cephalus.",
+   "source": "Hesiod, Theogony 986–991",
+   "date": "ca. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eos carries Orion away",
+   "note": "Eos takes Orion as a mortal lover before Artemis kills him at Ortygia.",
+   "source": "Homer, Odyssey 5.118–124",
+   "date": "ca. eighth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cleitus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eos carries Cleitus to immortality",
+   "note": "Eos abducts the beautiful Cleitus and places him among the immortals.",
+   "source": "Homer, Odyssey 15.250–251",
+   "date": "ca. eighth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Aphrodite curses Eos with mortal desire",
+   "note": "Aphrodite afflicts Eos with continual desire for mortal men after discovering her with Ares.",
+   "source": "Pseudo-Apollodorus, Library 1.4.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "consort_of",
+   "myth": "Eos sleeps with Ares",
+   "note": "Eos has an illicit union with Ares, provoking Aphrodite's punishment.",
+   "source": "Pseudo-Apollodorus, Library 1.4.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Eos requests immortality for Tithonus",
+   "note": "Eos asks Zeus to immortalize Tithonus but fails to request freedom from aging.",
+   "source": "Homeric Hymn to Aphrodite 218–238",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Jupiter grants Memnon's memorial prodigy",
+   "note": "Aurora petitions Jupiter, who honors Memnon by creating the Memnonides from his funeral fire.",
+   "source": "Ovid, Metamorphoses 13.586–622",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Zeus weighs Memnon and Achilles' fates",
+   "note": "Eos participates as Memnon's divine mother while Zeus weighs the opposing heroes' destinies.",
+   "source": "Lost Aethiopis tradition",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "gift",
+   "myth": "Divine armor made for Memnon",
+   "note": "Aurora obtains armor made by Vulcan for her son Memnon.",
+   "source": "Virgil, Aeneid 8.383–384",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine mothers mourn Trojan War champions",
+   "note": "Eos and Thetis plead or grieve respectively for Memnon and Achilles.",
+   "source": "Lost Aethiopis and artistic tradition",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Artemis kills Eos' abducted Orion",
+   "note": "After Eos carries Orion away, Artemis kills him at Ortygia.",
+   "source": "Homer, Odyssey 5.121–124",
+   "date": "ca. eighth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox"
+   ],
+   "kind": "shared_myth",
+   "myth": "Dawn displaces Night",
+   "note": "Eos or Aurora succeeds and drives away Night at daybreak.",
+   "source": "Greek pottery and Latin poetry",
+   "date": "sixth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "the Hours",
+   "other_aliases": [
+    "Horae"
+   ],
+   "kind": "shared_myth",
+   "myth": "Reni's celestial solar procession",
+   "note": "Aurora precedes the procession while the Hours dance around Apollo's chariot.",
+   "source": "Guido Reni, Aurora",
+   "date": "1613–1614",
+   "tier": "modern"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reni's celestial solar procession",
+   "note": "Aurora scatters roses ahead of Apollo's solar chariot.",
+   "source": "Guido Reni, Aurora",
+   "date": "1613–1614",
+   "tier": "modern"
+  },
+  {
+   "other": "Mater Matuta",
+   "other_aliases": [
+    "Matuta"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ancient poetry associates Matuta with dawn, but complete identity with Aurora remains disputed.",
+   "source": "Lucretius 5.656–657; Ovid, Fasti",
+   "date": "ca. 55 BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [
+    "Leucothea"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aurora is indirectly linked to Ino through the learned Ino-Leucothea-Mater Matuta equation.",
+   "source": "Cicero, De natura deorum 3.48",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thesan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Thesan is comparatively equated with Aurora through shared dawn functions, not an ancient recorded meeting.",
+   "source": "Etruscan inscriptions and modern scholarship",
+   "date": "modern comparison",
+   "tier": "modern"
+  },
+  {
+   "other": "Uṣas",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aurora and Uṣas are comparative cognate dawn goddesses without evidence of historical contact.",
+   "source": "Modern comparative linguistics",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "subject": "erymanthian_boar",
+ "relations": [
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of the Erymanthian Boar",
+   "note": "Heracles subdues, snares, and transports the boar alive to Mycenae.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.5.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Killing variant of the labor",
+   "note": "Heracles kills the boar instead of capturing it alive.",
+   "source": "Hyginus, Fabulae 30",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Delivery or capture scenes",
+   "note": "Athena attends or witnesses Heracles with the boar in some vase paintings.",
+   "source": "Sixth–fifth-century BCE vase paintings",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Black-figure capture scene",
+   "note": "Hermes attends or possibly assists Heracles during the boar's capture.",
+   "source": "Harvard 1960.314",
+   "date": "c. 510–500 BCE",
+   "tier": "attested"
+  }
+ ]
+}

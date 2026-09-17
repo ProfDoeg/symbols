@@ -1,0 +1,62 @@
+{
+ "subject": "taranis",
+ "relations": [
+  {
+   "other": "Teutates",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lucan's grouping of blood-propitiated Gaulish gods",
+   "note": "Lucan names Teutates and Taranis together without narrating an interaction.",
+   "source": "Lucan, Bellum civile 1.444–446",
+   "date": "ca. 60–65 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Esus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lucan's grouping of blood-propitiated Gaulish gods",
+   "note": "Lucan names Esus and Taranis together without narrating an interaction.",
+   "source": "Lucan, Bellum civile 1.444–446",
+   "date": "ca. 60–65 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Iuppiter",
+    "Jupiter Optimus Maximus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman inscriptions and Lucan scholia identify Taranic divine forms with Jupiter.",
+   "source": "RIB 452; CIL III 2804; Lucan scholia",
+   "date": "154 CE; Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Ditis pater"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "One medieval scholion equates Taranis with Dis Pater, unsupported by inscriptions.",
+   "source": "Commenta Bernensia on Lucan 1.445",
+   "date": "ninth–eleventh centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diana of the Scythians",
+   "other_aliases": [
+    "Scythian Diana"
+   ],
+   "kind": "other",
+   "myth": "Comparison of their sacrificial altars",
+   "note": "Lucan compares Taranis's cruel altar with hers; the deities never meet.",
+   "source": "Lucan, Bellum civile 1.444–446",
+   "date": "ca. 60–65 CE",
+   "tier": "attested"
+  }
+ ]
+}

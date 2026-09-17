@@ -1,0 +1,560 @@
+{
+ "subject": "chiron",
+ "relations": [
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cronus fathers Chiron on Philyra, assuming equine form in later accounts.",
+   "source": "Pindar; Apollonius; Apollodorus; Hyginus",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philyra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Philyra is Chiron's Oceanid mother and is later transformed into a linden.",
+   "source": "Pindar; Apollonius; Hyginus",
+   "date": "fifth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dolops",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hyginus exceptionally lists Dolops as another son of Saturn and Philyra.",
+   "source": "Hyginus",
+   "date": "Roman antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cronus conceives Chiron in equine form",
+   "note": "Later accounts say Cronus assumes horse form or departs to evade Rhea's discovery.",
+   "source": "Hyginus and scholastic mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chariclo",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Chariclo is Chiron's wife and companion in Hellenistic and Roman tradition.",
+   "source": "Apollonius Argonautica 1; Ovid Metamorphoses 2",
+   "date": "third c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ocyrhoe",
+   "other_aliases": [
+    "Ocyroe"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ocyrhoe is the prophetic daughter of Chiron and Chariclo.",
+   "source": "Ovid Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ocyrhoe",
+   "other_aliases": [
+    "Ocyroe"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ocyrhoe prophesies Chiron's wound and death",
+   "note": "His daughter foretells his incurable wound; Chiron later appeals helplessly when she becomes a mare.",
+   "source": "Ovid Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippe",
+   "other_aliases": [
+    "Melanippe",
+    "Euippe"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Variant dramatic and astronomical traditions name Hippe or related figures as Chiron's daughter.",
+   "source": "Hyginus astronomical variants",
+   "date": "Roman antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Endeis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scholia sometimes make Endeis Chiron and Chariclo's daughter, contrary to other genealogies.",
+   "source": "Scholia and late genealogies",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Carystus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late genealogical sources occasionally call Carystus a son of Chiron.",
+   "source": "Late genealogical sources",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Aristaeus' education",
+   "note": "Aristaeus is normally Apollo and Cyrene's son but is included among Chiron's pupils.",
+   "source": "Classical and later pupil traditions",
+   "date": "fourth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late lists call Aristaeus Chiron's son, apparently conflating fosterage with descent.",
+   "source": "Late pupil and genealogical lists",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apollo entrusts Asclepius to Chiron",
+   "note": "Apollo gives the rescued infant Asclepius to Chiron for upbringing and medical instruction.",
+   "source": "Pindar Pythian 3; Apollodorus 3.10.3",
+   "date": "474 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Hunting instruction",
+   "note": "Xenophon's didactic tradition names Apollo with Chiron as a teacher of hunting.",
+   "source": "Xenophon On Hunting 1",
+   "date": "fourth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ocyrhoe becomes a mare",
+   "note": "Chiron calls upon Apollo unsuccessfully while his prophetic daughter is transformed.",
+   "source": "Ovid Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Hunting instruction",
+   "note": "Later didactic tradition associates Artemis with the hunting knowledge taught by Chiron.",
+   "source": "Xenophon On Hunting 1; scholia",
+   "date": "fourth c. BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Asclepius' medical education",
+   "note": "Chiron raises Asclepius and teaches remedies, surgery, incantations, and medicinal drugs.",
+   "source": "Iliad 4; Pindar Pythian 3",
+   "date": "eighth–fifth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transmission of medicinal drugs",
+   "note": "Chiron gives medicinal drugs to Asclepius, who passes their knowledge to Machaon.",
+   "source": "Iliad 4.216–219",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Achilles' education on Pelion",
+   "note": "Chiron teaches Achilles medicine, hunting, combat, music, endurance, and aristocratic conduct.",
+   "source": "Iliad; Hesiodic Catalogue; Pindar; Statius",
+   "date": "eighth c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "If variant daughter Endeis is accepted, Chiron is Achilles' maternal great-grandfather.",
+   "source": "Scholia and late genealogies",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Chiron's poisoned wound",
+   "note": "In Ovid, Achilles witnesses Chiron's suffering and mourns his teacher like a father.",
+   "source": "Ovid Fasti 5",
+   "date": "c. 8–17 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Jason's fosterage on Pelion",
+   "note": "Chiron protects, raises, and educates Jason away from Pelias before his return.",
+   "source": "Pindar Pythian 4; Apollonius Argonautica",
+   "date": "462 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Chiron occupies a privileged place in the divine wedding procession and related scenes.",
+   "source": "Sophilos dinos; François Vase; Pindar",
+   "date": "c. 580–462 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Peleus seizes transforming Thetis",
+   "note": "Some later versions have Chiron advise Peleus how to hold Thetis through her transformations.",
+   "source": "Apollodorus and scholia",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gift of the Pelian spear",
+   "note": "Chiron gives Peleus the Pelian ash spear later inherited and wielded by Achilles.",
+   "source": "Iliad 16 and 19",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Acastus' treachery",
+   "note": "Later traditions say Chiron rescues or advises Peleus after Acastus betrays him.",
+   "source": "Later mythographic traditions",
+   "date": "Hellenistic–Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Peleus captures Thetis",
+   "note": "Chiron advises Peleus how to retain Thetis despite her successive transformations.",
+   "source": "Apollodorus and scholia",
+   "date": "first–second c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Iris appears with Chiron at the head of the divine wedding procession.",
+   "source": "François Vase",
+   "date": "c. 570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Dionysus and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Claimed education of Dionysus",
+   "note": "Late educational lists sometimes name Dionysus as Chiron's pupil without an early narrative.",
+   "source": "Late educational lists",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Athena and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Hera and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Poseidon and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Amphitrite and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Aphrodite and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Ares and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Hermes and Chiron jointly attend the wedding; later art sometimes joins them in delivery scenes.",
+   "source": "Archaic vases; later art",
+   "date": "sixth c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Hephaestus and Chiron jointly attend the divine wedding procession.",
+   "source": "Archaic vases",
+   "date": "sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [
+    "the Muses"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "The Muses and Chiron jointly attend the wedding procession.",
+   "source": "Archaic vases",
+   "date": "sixth c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Zeus and Chiron jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos; François Vase",
+   "date": "c. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Release from immortality",
+   "note": "Zeus permits or effects Chiron's release from incurable suffering and immortality.",
+   "source": "Apollodorus 2.5.4",
+   "date": "first–second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Chiron's catasterism",
+   "note": "Astronomical tradition says Zeus places Chiron among the stars as Centaurus.",
+   "source": "Hyginus Astronomica 2.38",
+   "date": "second–third c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus Aktaios",
+   "other_aliases": [
+    "Zeus Akraios"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pelion ritual landscape",
+   "note": "Chiron's named cave and Zeus Aktaios' sanctuary share a seasonal Pelion ritual landscape.",
+   "source": "Heraclides Criticus Description of Greece",
+   "date": "third c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Exchange of immortality",
+   "note": "Chiron relinquishes immortality or dies in Prometheus' stead, satisfying the condition for his release.",
+   "source": "Apollodorus 2.5.4",
+   "date": "first–second c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle with the centaurs",
+   "note": "During Heracles' conflict with other centaurs, an arrow accidentally strikes Chiron.",
+   "source": "Diodorus 4; Apollodorus 2.5.4",
+   "date": "first c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Hydra-poisoned arrow wound",
+   "note": "Heracles accidentally inflicts Chiron's incurable poisoned wound, ultimately causing his death or relinquished immortality.",
+   "source": "Diodorus 4; Apollodorus 2.5.4",
+   "date": "first c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles visits Chiron on Pelion",
+   "note": "As Chiron's guest, Heracles displays arrows; one falls or is pressed into Chiron's foot.",
+   "source": "Ovid Fasti 5",
+   "date": "c. 8–17 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hydra",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Hydra venom poisons Chiron",
+   "note": "Venom from the Hydra on Heracles' arrow makes Chiron's wound incurable.",
+   "source": "Diodorus; Apollodorus; Ovid; Hyginus",
+   "date": "first c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "judged_by",
+   "myth": "Ocyrhoe foretells Chiron's death",
+   "note": "Ocyrhoe predicts the Fates will cut Chiron's thread once an immortal may die.",
+   "source": "Ovid Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Centaurus",
+   "other_aliases": [
+    "the constellation Centaurus"
+   ],
+   "kind": "identified_with",
+   "myth": "Chiron's catasterism",
+   "note": "Roman astronomical tradition identifies the constellation Centaurus with the catasterized Chiron.",
+   "source": "Hyginus Astronomica 2.38",
+   "date": "second–third c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sagittarius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Variable astral identification",
+   "note": "Later tradition sometimes identifies Chiron with Sagittarius, though ancient accounts often assign it to Crotus.",
+   "source": "Later astronomical tradition",
+   "date": "late antiquity onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Actaeon",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Actaeon's fosterage",
+   "note": "Fragmentary and later traditions plausibly include Actaeon among Chiron's fosterlings or pupils.",
+   "source": "Hesiodic Catalogue traditions",
+   "date": "seventh–sixth c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Transmission of Chironian medicine",
+   "note": "Patroclus receives medical knowledge indirectly through Achilles, who learned it from Chiron.",
+   "source": "Iliad 11.828–832",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Machaon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Transmission of Chironian drugs",
+   "note": "Machaon inherits knowledge of Chiron's medicinal drugs through his father Asclepius.",
+   "source": "Iliad 4.216–219",
+   "date": "eighth–seventh c. BCE",
+   "tier": "attested"
+  }
+ ]
+}

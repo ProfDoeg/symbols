@@ -1,0 +1,486 @@
+{
+ "subject": "amesha_spentas",
+ "relations": [
+  {
+   "other": "Ahura Mazda",
+   "other_aliases": [
+    "Mazda",
+    "Ohrmazd",
+    "Auramazdā",
+    "Oromazes"
+   ],
+   "kind": "created_by",
+   "myth": "Creation of the divine heptad",
+   "note": "Ahura Mazda produces the Amesha Spentas from himself or his light.",
+   "source": "Bundahišn 1; Mēnōg ī Xrad 8.2",
+   "date": "Pahlavi period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ahura Mazda",
+   "other_aliases": [
+    "Mazda",
+    "Ohrmazd",
+    "Auramazdā",
+    "Oromazes"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The collective recognizes Ahura Mazda as its one father.",
+   "source": "Yasht 19.16–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ahura Mazda",
+   "other_aliases": [
+    "Mazda",
+    "Ohrmazd",
+    "Auramazdā",
+    "Oromazes"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Ahura Mazda is the ruler of the united Amesha Spentas.",
+   "source": "Yasht 19.16–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ahura Mazda",
+   "other_aliases": [
+    "Mazda",
+    "Ohrmazd",
+    "Auramazdā",
+    "Oromazes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mazda mingles himself with the Amesha Spentas",
+   "note": "Ahura Mazda mingles himself with the beneficent collective.",
+   "source": "Yasht 13.81",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Spenta Mainyu",
+   "other_aliases": [
+    "beneficent spirit",
+    "creative spirit"
+   ],
+   "kind": "allied",
+   "myth": "The coordinated divine heptad",
+   "note": "Spenta Mainyu stands with the six and sometimes completes their heptad.",
+   "source": "Yasna 47.1; Yasht 19.16–18",
+   "date": "Old and Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angra Mainyu",
+   "other_aliases": [
+    "Ahriman"
+   ],
+   "kind": "fought",
+   "myth": "The assault of Ahriman",
+   "note": "They and their guarded creations resist Ahriman's invasion until the renovation.",
+   "source": "Bundahišn 1–6",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vohu Manah",
+   "other_aliases": [
+    "Wahman",
+    "Bahman",
+    "Good Mind",
+    "Good Purpose"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Vohu Manah is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aša Vahišta",
+   "other_aliases": [
+    "Aša",
+    "Ardwahišt",
+    "Ordībehešt",
+    "Best Truth",
+    "Best Order",
+    "Best Righteousness"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Aša Vahišta is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Xšaθra Vairya",
+   "other_aliases": [
+    "Šahrewar",
+    "Šahrīvar",
+    "Desirable Dominion",
+    "Chosen Rule"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Xšaθra Vairya is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Spəṇta Ārmaiti",
+   "other_aliases": [
+    "Ārmaiti",
+    "Spandārmad",
+    "Spendarmad",
+    "Esfand",
+    "Bounteous Devotion"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Spəṇta Ārmaiti is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haurvatāt",
+   "other_aliases": [
+    "Hordād",
+    "Khordād",
+    "Wholeness",
+    "Integrity",
+    "Health"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Haurvatāt is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amərətāt",
+   "other_aliases": [
+    "Amurdād",
+    "Mordād",
+    "Amordād",
+    "Immortality",
+    "Deathlessness"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Amərətāt is one of the six canonical Amesha Spentas.",
+   "source": "Yasht 19.15–18",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ātar",
+   "other_aliases": [
+    "Fire"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Ātar is called the most active Amesha Spenta and manifests Aša.",
+   "source": "Yasna 1.2",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haoma",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Haoma serves as swift sacrificer",
+   "note": "Haoma serves as swift sacrificer for Ahura Mazda and the collective.",
+   "source": "Mithra Yasht 10.89–90",
+   "date": "Younger Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mithra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Haoma's sacrifice in the divine ritual order",
+   "note": "Mithra shares their sacrificial order and later becomes a calendrical co-worker.",
+   "source": "Yasht 10.88–90; Bundahišn 26",
+   "date": "Younger Avestan and Pahlavi",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sraoša",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battle against the demons",
+   "note": "Sraoša joins their beneficent divine order and struggle against demons.",
+   "source": "Yasna 57; Vendidad 19",
+   "date": "Avestan",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fravašis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection and watering of the good creation",
+   "note": "The Fravašis assist the good creation and collaborate with Haurvatāt.",
+   "source": "Yasht 13; Greater Bundahišn 26.18",
+   "date": "Younger Avestan and Pahlavi",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tištrya",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Seizing and raining the world's water",
+   "note": "Tištrya assists Haurvatāt in seizing, distributing, and raining water.",
+   "source": "Greater Bundahišn 26.18",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wāta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Seizing and raining the world's water",
+   "note": "Wāta assists Haurvatāt in seizing, distributing, and raining water.",
+   "source": "Greater Bundahišn 26.18",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rashnu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Rashnu serves Amurdād in judgment and protection of plant-life.",
+   "source": "Greater Bundahišn 26.19",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aštād",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Aštād serves Amurdād in judgment and protection of plant-life.",
+   "source": "Greater Bundahišn 26.19",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zamyād",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Zamyād serves Amurdād in judgment and protection of plant-life.",
+   "source": "Greater Bundahišn 26.19",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Glories",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "The Glories serve Amurdād in judgment and protection of plant-life.",
+   "source": "Greater Bundahišn 26.19",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Airyaman",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The final renovation",
+   "note": "Airyaman joins Aša when molten metal purifies creation and defeats evil.",
+   "source": "Zādspram 34.38–39",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saoshyant",
+   "other_aliases": [
+    "the savior"
+   ],
+   "kind": "allied",
+   "myth": "The final renovation",
+   "note": "Saoshyant completes the renovation alongside the beneficent divine powers.",
+   "source": "Younger Avesta and Pahlavi books",
+   "date": "Avestan and Pahlavi",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aka Manah",
+   "other_aliases": [
+    "Akōman",
+    "Evil Mind"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later demonology pairs Aka Manah against Vohu Manah.",
+   "source": "Bundahišn and later summaries",
+   "date": "Pahlavi period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later demonology commonly pairs Indra against Aša Vahišta.",
+   "source": "Vendidad 10.9; Bundahišn",
+   "date": "Avestan and Pahlavi",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Lie",
+   "other_aliases": [
+    "Druj"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Some variable schemes make the Lie Aša Vahišta's opposing power.",
+   "source": "Bundahišn and later summaries",
+   "date": "Pahlavi period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Saurva",
+   "other_aliases": [
+    "Sāwar"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later demonology pairs Saurva's oppressive misrule against Xšaθra Vairya.",
+   "source": "Vendidad 10.9; Bundahišn",
+   "date": "Avestan and Pahlavi",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nåŋhaiθya",
+   "other_aliases": [
+    "Tarōmāiti"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later schemes pair Nåŋhaiθya or Tarōmāiti against Spəṇta Ārmaiti.",
+   "source": "Vendidad 10.9; Bundahišn",
+   "date": "Avestan and Pahlavi",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tauru",
+   "other_aliases": [
+    "Tarīč"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later demonology pairs Tauru's destruction, disease, or thirst against Haurvatāt.",
+   "source": "Bundahišn and later summaries",
+   "date": "Pahlavi period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zairi",
+   "other_aliases": [
+    "Zarīč"
+   ],
+   "kind": "fought",
+   "myth": "The sixfold conflict with archdemons",
+   "note": "Later demonology pairs Zairi's hunger, poison, or decay against Amərətāt.",
+   "source": "Bundahišn and later summaries",
+   "date": "Pahlavi period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Až",
+   "other_aliases": [
+    "Greed"
+   ],
+   "kind": "fought",
+   "myth": "The final renovation",
+   "note": "Aša and Airyaman overcome Až during creation's final purification.",
+   "source": "Zādspram 34.38–39",
+   "date": "ninth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mani's five Light Elements",
+   "other_aliases": [
+    "Five Light Elements"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Manichaean translators applied Amahraspandān to ether, wind, light, water, and fire.",
+   "source": "Middle Persian Manichaean translations",
+   "date": "third century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dhyāni-Buddhas",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with Dhyāni-Buddhas.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Prajāpatis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with Prajāpatis.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Sephiroth",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with the Sephiroth.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Elohim",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with Elohim.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Gnostic cosmocrators",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with Gnostic cosmocrators.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  },
+  {
+   "other": "planetary spirits",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical literature equated the Amesha Spentas with planetary spirits.",
+   "source": "Theosophical literature",
+   "date": "1880s onward",
+   "tier": "modern"
+  }
+ ]
+}

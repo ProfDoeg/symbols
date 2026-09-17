@@ -1,0 +1,313 @@
+{
+ "subject": "victoria",
+ "relations": [
+  {
+   "other": "Nike",
+   "other_aliases": [
+    "Nikē"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Victoria was pervasively equated with Greek Nike and adopted her iconography.",
+   "source": "Roman art and bilingual usage",
+   "date": "Republican and imperial periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Nike’s genealogy transferred to Victoria",
+   "note": "Victoria inherits Nike’s father only through Greco-Roman identification.",
+   "source": "Hesiod, Theogony",
+   "date": "late eighth or early seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Nike’s genealogy transferred to Victoria",
+   "note": "Victoria inherits Nike’s mother only through Greco-Roman identification.",
+   "source": "Hesiod, Theogony",
+   "date": "late eighth or early seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zelos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Nike’s genealogy transferred to Victoria",
+   "note": "Victoria is called his sister only through identification with Nike.",
+   "source": "Hesiod, Theogony",
+   "date": "late eighth or early seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kratos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Nike’s genealogy transferred to Victoria",
+   "note": "Victoria is called his sister only through identification with Nike.",
+   "source": "Hesiod, Theogony",
+   "date": "late eighth or early seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Nike’s genealogy transferred to Victoria",
+   "note": "Victoria is called her sister only through identification with Nike.",
+   "source": "Hesiod, Theogony",
+   "date": "late eighth or early seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vica Pota",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ancient antiquarians assimilated Vica Pota to Victoria, though original identity is unproved.",
+   "source": "Asconius on In Pisonem",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vacuna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Older modern scholarship proposed identification, but decisive ancient evidence is absent.",
+   "source": "Older modern scholarship",
+   "date": "",
+   "tier": "modern"
+  },
+  {
+   "other": "Magna Mater",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Magna Mater’s stone housed with Victoria",
+   "note": "Her sacred stone remained in Victoria’s Palatine temple from 204 to 191 BCE.",
+   "source": "Livy 29.14.13",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Optimus Maximus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria and Jupiter received sacrifices within the same state ceremonies.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Optimus Maximus"
+   ],
+   "kind": "served",
+   "myth": "Jupiter governs victorious success",
+   "note": "Victoria represents the success understood as granted or commanded by Jupiter.",
+   "source": "Cicero, De natura deorum 2.61–62",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Victor"
+   ],
+   "kind": "shared_myth",
+   "myth": "Jupiter carries a victoriola",
+   "note": "A small Victoria appears in the victorious Jupiter’s hand.",
+   "source": "Imperial imagery and cult titulary",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Mars Ultor",
+    "Mars Medocius"
+   ],
+   "kind": "shared_myth",
+   "myth": "Military cult of Mars and Victoria",
+   "note": "Victoria was jointly invoked with Mars and accompanied him in military imagery.",
+   "source": "RIB dedications",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Minerva holds or accompanies Victoria",
+   "note": "Victoria embodies the successful outcome of Minerva’s strategic and martial power.",
+   "source": "Greek-derived imperial iconography",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria and Minerva occur together in imperial sacrificial lists.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Venus Genetrix",
+    "Venus Victrix"
+   ],
+   "kind": "shared_myth",
+   "myth": "Victoria accompanies imperial Venus",
+   "note": "Victoria accompanies Venus in Julian and imperial political imagery.",
+   "source": "Late Republican and imperial iconography",
+   "date": "late Republican and imperial periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Roma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Victoria crowns Roma",
+   "note": "Victoria crowns or accompanies the personified city and empire.",
+   "source": "Imperial state iconography",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ceres holds a Victory figure",
+   "note": "Cicero describes a small Victory held by Ceres at Henna.",
+   "source": "Cicero, In Verrem 2.4.110–113",
+   "date": "70 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [
+    "the Sun"
+   ],
+   "kind": "served",
+   "myth": "Victoria attends a composite solar image",
+   "note": "Victoria signifies that everything submits to the Sun’s power.",
+   "source": "Macrobius, Saturnalia 1.23.67–70",
+   "date": "early fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Spes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared festival date",
+   "note": "Their Roman festivals were both observed on 1 August.",
+   "source": "Fasti Praenestini",
+   "date": "Augustan period",
+   "tier": "attested"
+  },
+  {
+   "other": "Pax",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Victory and Peace jointly dedicated",
+   "note": "Joint dedications present conquest and the regime’s resulting peace as a sequence.",
+   "source": "RIB dedications",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Salus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria and Salus appear together in imperial sacrificial lists.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria and Juno appear together in imperial sacrificial lists.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria and Vesta appear together in imperial sacrificial lists.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "deified emperors",
+   "other_aliases": [
+    "imperial divinities"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint Roman state sacrifices",
+   "note": "Victoria shares imperial state sacrificial lists with deified emperors.",
+   "source": "Acta Fratrum Arvalium",
+   "date": "first–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Campestres",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "British military religious ensemble",
+   "note": "Victoria and the Campestres occur within one provincial military dedication.",
+   "source": "RIB dedications",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "British military religious ensemble",
+   "note": "Victoria and Hercules occur within one provincial military dedication.",
+   "source": "RIB dedications",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Epona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "British military religious ensemble",
+   "note": "Victoria and Epona occur within one provincial military dedication.",
+   "source": "RIB dedications",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Evander",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Evander founds Victoria’s sanctuary",
+   "note": "The Arcadian hero supposedly established her Palatine sanctuary before the Trojan War.",
+   "source": "Dionysius, Roman Antiquities",
+   "date": "late first century BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

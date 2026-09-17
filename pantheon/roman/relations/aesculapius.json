@@ -1,0 +1,490 @@
+{
+ "subject": "aesculapius",
+ "relations": [
+  {
+   "other": "Asclepius",
+   "other_aliases": [
+    "Asklēpiós"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Greek healing god was officially imported and worshipped at Rome as Aesculapius.",
+   "source": "Livy, Ab urbe condita 10.47",
+   "date": "ca. 27 BCE–14 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Esplace",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Esplace is the Etruscan reception and representation of the healing god.",
+   "source": "Etruscan bronze mirror",
+   "date": "ca. 300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Maleatas"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollo fathers Aesculapius with Coronis in the dominant genealogy.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Maleatas"
+   ],
+   "kind": "rescued_by",
+   "myth": "Rescue from Coronis' funeral pyre",
+   "note": "Apollo removes the unborn Aesculapius from Coronis' burning body.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Maleatas"
+   ],
+   "kind": "served",
+   "myth": "Coming of Aesculapius to Rome",
+   "note": "Apollo directs the Roman embassy to seek his son at Epidaurus.",
+   "source": "Ovid, Metamorphoses 15",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Maleatas"
+   ],
+   "kind": "shared_myth",
+   "myth": "Serpent's pause at Antium",
+   "note": "Aesculapius' serpent pauses at Apollo's sanctuary during the voyage to Rome.",
+   "source": "Ovid, Metamorphoses 15",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coronis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Coronis is Aesculapius' mother in the dominant Pindaric and Epidaurian genealogies.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coronis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Kalends of January rites",
+   "note": "Coronis receives Roman calendrical cult beside her son on 1 January.",
+   "source": "Fasti Antiates Maiores",
+   "date": "before 55 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arsinoe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A rival Messenian genealogy names Arsinoe rather than Coronis as his mother.",
+   "source": "Pausanias 2.26; 4.31",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arsippus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero's third Aesculapius is a son of Arsippus and Arsinoe.",
+   "source": "Cicero, De natura deorum 3.57",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Epione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Epione is the usual consort in the expanded healing-family genealogy.",
+   "source": "Later Greek genealogy",
+   "date": "later antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Machaon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Machaon, the surgeon and Trojan War physician, is his son.",
+   "source": "Homer, Iliad",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Machaon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Healing family cult group",
+   "note": "Later cult images and dedications sometimes group Machaon with his father.",
+   "source": "Pausanias, Description of Greece",
+   "date": "ca. 150–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Podalirius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Podalirius, a physician and diagnostician at Troy, is his son.",
+   "source": "Homer, Iliad",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Podalirius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Healing family cult group",
+   "note": "Later cult images and dedications sometimes group Podalirius with his father.",
+   "source": "Pausanias, Description of Greece",
+   "date": "ca. 150–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hygieia",
+   "other_aliases": [
+    "Hygia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hygieia, goddess of health and preservation, is his daughter.",
+   "source": "Greek genealogical tradition",
+   "date": "Classical–Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hygieia",
+   "other_aliases": [
+    "Hygia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint healing cult",
+   "note": "Hygieia regularly appears beside Aesculapius in dedications, associations, and art.",
+   "source": "CIL VI 10234",
+   "date": "153 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Panacea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Panacea, the personification of universal remedy, belongs among his daughters.",
+   "source": "Greek genealogical tradition",
+   "date": "Classical–Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iaso",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Iaso, goddess of healing or recovery, belongs among his daughters.",
+   "source": "Greek genealogical tradition",
+   "date": "Classical–Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aceso",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aceso, goddess of the curing process, belongs among his daughters.",
+   "source": "Greek genealogical tradition",
+   "date": "Classical–Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegle",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aegle, associated with radiance and healthy splendor, belongs among his daughters.",
+   "source": "Greek genealogical tradition",
+   "date": "Classical–Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telesphorus",
+   "other_aliases": [
+    "Euameros"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Telesphorus appears as his subordinate son, embodying convalescence and completed recovery.",
+   "source": "Pergamene iconography",
+   "date": "Roman Imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telesphorus",
+   "other_aliases": [
+    "Euameros"
+   ],
+   "kind": "served_by",
+   "myth": "Pergamene healing cult",
+   "note": "Telesphorus accompanies Aesculapius as a subordinate healing figure.",
+   "source": "Pergamene iconography",
+   "date": "Roman Imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Death of Coronis",
+   "note": "Artemis kills the pregnant Coronis, precipitating Aesculapius' rescue from the pyre.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Education by Chiron",
+   "note": "Chiron raises Aesculapius and teaches him medicine, surgery, drugs, and incantations.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "killed_by",
+   "myth": "Death by thunderbolt",
+   "note": "Zeus kills Aesculapius with lightning after he restores the dead.",
+   "source": "Pindar, Pythian 3",
+   "date": "474 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Restoration and deification",
+   "note": "Some accounts say Zeus later restores or deifies the slain healer.",
+   "source": "Later mythographic accounts",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "judged_by",
+   "myth": "Complaint over resurrections",
+   "note": "Hades complains that Aesculapius' resurrections are emptying the underworld.",
+   "source": "Later mythography",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva",
+    "Menrva"
+   ],
+   "kind": "gift",
+   "myth": "Gift of the Gorgon's blood",
+   "note": "Athena gives him Gorgon blood with deadly and life-restoring powers.",
+   "source": "Pseudo-Apollodorus, Library 3.10.3",
+   "date": "first BCE–second CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [
+    "Virbius"
+   ],
+   "kind": "rescued",
+   "myth": "Revival of Hippolytus",
+   "note": "Aesculapius restores the dead Hippolytus, who later becomes Virbius in Italy.",
+   "source": "Virgil, Aeneid 7.761–782",
+   "date": "ca. 19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Artemis"
+   ],
+   "kind": "allied",
+   "myth": "Revival of Hippolytus",
+   "note": "Diana asks or enables Aesculapius to revive Hippolytus.",
+   "source": "Virgil, Aeneid 7.761–782",
+   "date": "ca. 19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Capaneus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Resurrection of Capaneus",
+   "note": "Capaneus is one variant candidate for the dead person Aesculapius restored.",
+   "source": "Later mythographic traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lycurgus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Resurrection of Lycurgus",
+   "note": "Lycurgus is one variant candidate for the dead person Aesculapius restored.",
+   "source": "Later mythographic traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tyndareus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Resurrection of Tyndareus",
+   "note": "Tyndareus is one variant candidate for the dead person Aesculapius restored.",
+   "source": "Later mythographic traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Resurrection of Glaucus",
+   "note": "Glaucus is one variant candidate for the dead person Aesculapius restored.",
+   "source": "Later mythographic traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hymenaeus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Resurrection of Hymenaeus",
+   "note": "Hymenaeus is one variant candidate for the dead person Aesculapius restored.",
+   "source": "Later mythographic traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Salus",
+   "other_aliases": [
+    "Hygieia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Roman epidemic rites",
+   "note": "Aesculapius and Salus receive joint Roman and provincial dedications and epidemic rites.",
+   "source": "Livy, Ab urbe condita 40.37",
+   "date": "180 BCE event",
+   "tier": "attested"
+  },
+  {
+   "other": "Imhotep",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Egyptian tradition equated the two as deified healers without making them historically identical.",
+   "source": "Ptolemaic and Roman evidence",
+   "date": "Ptolemaic/Roman Egypt",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Eshmun",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bilingual and interpretive evidence equates him with the Phoenician healing god.",
+   "source": "Bilingual Phoenician evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their therapeutic and oracular roles produced partial, inconsistent assimilation and joint representations.",
+   "source": "Egyptian assimilating representations",
+   "date": "Ptolemaic/Roman Egypt",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [
+    "Prumathe"
+   ],
+   "kind": "shared_myth",
+   "myth": "Release or healing of Prometheus",
+   "note": "Esplace participates in a scene of Prometheus being released or healed.",
+   "source": "Etruscan bronze mirror",
+   "date": "ca. 300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules",
+    "Hercle"
+   ],
+   "kind": "shared_myth",
+   "myth": "Release or healing of Prometheus",
+   "note": "Esplace and Hercules jointly appear during Prometheus' debated release or healing.",
+   "source": "Etruscan bronze mirror",
+   "date": "ca. 300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Menrva",
+   "other_aliases": [
+    "Minerva",
+    "Athena"
+   ],
+   "kind": "shared_myth",
+   "myth": "Release or healing of Prometheus",
+   "note": "Esplace and Menrva jointly appear during Prometheus' debated release or healing.",
+   "source": "Etruscan bronze mirror",
+   "date": "ca. 300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ophiuchus",
+   "other_aliases": [
+    "Serpent-Bearer"
+   ],
+   "kind": "identified_with",
+   "myth": "Celestial afterlife",
+   "note": "Learned astral traditions identify the restored or deified healer with Ophiuchus.",
+   "source": "Astral traditions",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

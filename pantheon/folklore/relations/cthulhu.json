@@ -1,0 +1,259 @@
+{
+ "subject": "cthulhu",
+ "relations": [
+  {
+   "other": "Great Old Ones",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Cthulhu is described as their great priest or leader.",
+   "source": "The Call of Cthulhu",
+   "date": "1926/1928",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yog-Sothoth",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Necronomicon cousin passage",
+   "note": "Cthulhu is called cousin to an ambiguous plurality associated with Yog-Sothoth.",
+   "source": "The Dunwich Horror",
+   "date": "1928/1929",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yog-Sothoth",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The jocular family tree makes Yog-Sothoth Cthulhu's ancestor through Nug.",
+   "source": "Letter to James F. Morton",
+   "date": "27 April 1933",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shub-Niggurath",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recorded nonhuman ritual",
+   "note": "Cthulhu and Shub-Niggurath receive praise within overlapping liturgical networks.",
+   "source": "The Whisperer in Darkness",
+   "date": "1930/1931",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shub-Niggurath",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The jocular family tree makes Shub-Niggurath Cthulhu's ancestor through Nug.",
+   "source": "Letter to James F. Morton",
+   "date": "27 April 1933",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tsathoggua",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recorded nonhuman ritual",
+   "note": "Tsathoggua is praised alongside Cthulhu without narrated alliance or combat.",
+   "source": "The Whisperer in Darkness",
+   "date": "1930/1931",
+   "tier": "canonical"
+  },
+  {
+   "other": "Him Who is not to be Named",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recorded nonhuman ritual",
+   "note": "The unnamed entity receives praise in the same ritual sequence as Cthulhu.",
+   "source": "The Whisperer in Darkness",
+   "date": "1930/1931",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nug",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lovecraft's playful family tree makes Nug Cthulhu's immediate progenitor.",
+   "source": "Letter to James F. Morton",
+   "date": "27 April 1933",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Elder Things",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Prehistoric war for terrestrial territory",
+   "note": "Cthulhu's star-spawn wage war against the Elder Things for territory.",
+   "source": "At the Mountains of Madness",
+   "date": "1931/1936",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elder Things",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Territorial settlement after the prehistoric war",
+   "note": "Their peoples reach a settlement dividing land and sea between them.",
+   "source": "At the Mountains of Madness",
+   "date": "1931/1936",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idh-Yaa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "The Xothic dynasty",
+   "note": "Carter made Idh-Yaa Cthulhu's consort and mother of their children.",
+   "source": "Carter's Xothic cycle",
+   "date": "1970s",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ghatanothoa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "The Xothic dynasty",
+   "note": "Carter's system makes Ghatanothoa a son of Cthulhu and Idh-Yaa.",
+   "source": "Carter's Xothic stories",
+   "date": "1970s",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ythogtha",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "The Xothic dynasty",
+   "note": "Carter created Ythogtha as a son of Cthulhu and Idh-Yaa.",
+   "source": "Carter's Xothic cycle",
+   "date": "1970s",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zoth-Ommog",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "The Xothic dynasty",
+   "note": "Carter created Zoth-Ommog as another son of Cthulhu and Idh-Yaa.",
+   "source": "Zoth-Ommog",
+   "date": "1976",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cthylla",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Cthylla and dynastic survival",
+   "note": "Lumley made Cthylla Cthulhu's daughter and possible means of reincarnation.",
+   "source": "Brian Lumley's fiction",
+   "date": "post-Lovecraftian",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hastur",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Elemental and cosmic rivalry",
+   "note": "Derlethian and game traditions sometimes position Hastur and Cthulhu as rivals.",
+   "source": "Derlethian and game traditions",
+   "date": "post-1937",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Elder Gods",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Derleth's cosmic rebellion",
+   "note": "Derleth's Elder Gods defeat and imprison Cthulhu with other rebellious Old Ones.",
+   "source": "Derleth's Mythos",
+   "date": "1940s–1960s",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dagon",
+   "other_aliases": [
+    "Father Dagon"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occultists and writers equate them through marine resemblance, without ancient evidence.",
+   "source": "Modern occult and fictional reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Leviathan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern interpreters equate them through marine and chaotic resemblance.",
+   "source": "Modern occult and fictional reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kraken",
+   "other_aliases": [
+    "Kraken traditions"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern interpreters compare or equate Cthulhu with Kraken traditions.",
+   "source": "Modern occult and fictional reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occultists equate them through chaotic or monstrous resemblance.",
+   "source": "Modern occult reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern interpreters equate them through marine, draconic, and chaotic resemblance.",
+   "source": "Modern occult and fictional reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Set",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occultists construct an identification between Cthulhu and Set.",
+   "source": "Modern occult reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Choronzon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occultists construct an identification based on transhuman and chaotic associations.",
+   "source": "Modern occult reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tangaroa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern interpreters equate Cthulhu with Tangaroa through marine resemblance.",
+   "source": "Modern occult and fictional reception",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  }
+ ]
+}

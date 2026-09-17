@@ -1,0 +1,125 @@
+{
+ "subject": "sphinx",
+ "relations": [
+  {
+   "other": "Orthus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orthus fathers Phix with a grammatically uncertain female.",
+   "source": "Hesiod, Theogony 326",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chimera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chimera is a possible mother of Phix by Orthus.",
+   "source": "Hesiod, Theogony 319–326",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Echidna is a possible mother under the ambiguous Hesiodic syntax.",
+   "source": "Hesiod, Theogony 319–326",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Echidna mothers the Sphinx with Typhon.",
+   "source": "Lasus fragment 706A",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Typhon fathers the Sphinx with Echidna.",
+   "source": "Lasus fragment 706A",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Echidna mothers the Sphinx with Typhon.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.5.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Typhon fathers the Sphinx with Echidna.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.5.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Typhon is named as the Sphinx's father; her mother is omitted.",
+   "source": "Hyginus, Fabulae 67",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Nemean Lion is her sibling if Chimera and Orthus are her parents.",
+   "source": "Hesiod, Theogony 319–326",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Hera sends the Sphinx to Thebes",
+   "note": "Hera dispatches the Sphinx to ravage Thebes.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.5.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Punishment for Laius' crime against Chrysippus",
+   "note": "Hera sends her from Ethiopia because Laius' crime remained unpunished.",
+   "source": "Scholion citing Pisander F10",
+   "date": "later scholion",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "The Sphinx learns her riddle",
+   "note": "The Muses teach the Sphinx the riddle she poses at Thebes.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.5.8",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  }
+ ]
+}

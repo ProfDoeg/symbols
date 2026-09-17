@@ -1,0 +1,537 @@
+{
+ "subject": "mercury",
+ "relations": [
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Hermēs"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin literature and art identified Mercury with Greek Hermes and transferred his myths and attributes.",
+   "source": "Plautus, Amphitruo",
+   "date": "ca. 190 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Turms",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan Turms converged iconographically and functionally with Hermes and Mercury in central Italy.",
+   "source": "Etruscan and Roman iconography",
+   "date": "antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jupiter fathers Mercury by Maia in the dominant Greco-Roman genealogy.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Maia bears Mercury by Jupiter in the standard Greek-derived genealogy.",
+   "source": "Augustan poetry",
+   "date": "Augustan period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mercury is Atlas' grandson through Maia.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pleione",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Mercury descends from Pleione through her daughter Maia.",
+   "source": "Augustan genealogy",
+   "date": "Augustan period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "highest Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One learned genealogy makes a distinct Mercury the son of Caelus.",
+   "source": "Cicero, De natura deorum 3.56",
+   "date": "45–44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dies",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Mercury in Cicero's learned catalogue is born of Caelus and Dies.",
+   "source": "Cicero, De natura deorum 3.56",
+   "date": "45–44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "highest Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Arnobius' polemical catalogue includes a Mercury born from the highest Heaven.",
+   "source": "Arnobius, Adversus nationes 4.14",
+   "date": "ca. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Trophonius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned catalogues identify or closely associate a subterranean Mercury with Trophonius.",
+   "source": "Cicero, De natura deorum 3.56",
+   "date": "45–44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Nile",
+   "other_aliases": [
+    "Nile"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Arnobius includes a secret-named Egyptian Mercury born from the Nile.",
+   "source": "Arnobius, Adversus nationes 4.14",
+   "date": "ca. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Egyptian syncretism joined Hermes and Thoth, producing the Latin Mercurius Trismegistus.",
+   "source": "Greco-Egyptian Hermetic literature",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes Trismegistus",
+   "other_aliases": [
+    "Mercurius Trismegistus",
+    "Hermes–Thoth"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mercurius became the Latin designation of the syncretistic Hermes–Thoth revealer.",
+   "source": "Greco-Egyptian Hermetic literature",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Wodan",
+   "other_aliases": [
+    "Odin",
+    "Woden"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman and later Germanic interpretation equated Mercury with Wodan, though Tacitus supplies no native name.",
+   "source": "Tacitus, Germania 9",
+   "date": "ca. 98 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lugus",
+   "other_aliases": [
+    "Lug"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lugus is a scholarly candidate for some Gallic Mercuries, but the equation remains unproven.",
+   "source": "Caesar, Bellum Gallicum 6.17",
+   "date": "ca. 52–51 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "North African dedications fuse or juxtapose the gods as Mercurius Silvanus and Silvanus Mercurius.",
+   "source": "North African inscriptions",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Amphitruo impersonation",
+   "note": "Mercury impersonates Sosia and prevents interference while Jupiter impersonates Amphitryon.",
+   "source": "Plautus, Amphitruo",
+   "date": "ca. 190 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Io and Argus",
+   "note": "Mercury obeys Jupiter's command to kill Argus and release Io.",
+   "source": "Ovid, Metamorphoses 1.668–721",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Mercury prepares Carthaginian hospitality",
+   "note": "Mercury obeys Jupiter by disposing the Carthaginians favorably toward the arriving Trojans.",
+   "source": "Virgil, Aeneid 1.297–304",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Aeneas commanded to leave Carthage",
+   "note": "Mercury carries Jupiter's command that Aeneas abandon Carthage and pursue Italy.",
+   "source": "Virgil, Aeneid 4.219–278",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Cupid and Psyche's wedding",
+   "note": "At Jupiter's instruction, Mercury summons the gods to the wedding assembly.",
+   "source": "Apuleius, Metamorphoses 6.23",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of Apollo's cattle",
+   "note": "The infant Mercury steals Apollo's cattle using deception and reversed tracks.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of Apollo's quiver",
+   "note": "Mercury steals Apollo's quiver during their confrontation, causing Apollo to laugh.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Reconciliation after the cattle theft",
+   "note": "Mercury and Apollo reconcile through exchanges involving the lyre and heraldic gifts.",
+   "source": "Greek sources and Roman mythography",
+   "date": "classical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Io and Argus",
+   "note": "Mercury defeats Juno's plan by killing her guardian Argus and freeing Io.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Herse and Aglauros",
+   "note": "Mercury and Minerva act in linked sequences concerning Herse and Aglauros without meeting.",
+   "source": "Ovid, Metamorphoses 2.708–832",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Roman household worship",
+   "note": "Mercury and Minerva appear together in some domestic assemblages without a narrated interaction.",
+   "source": "Roman domestic assemblages",
+   "date": "imperial period",
+   "tier": "attested"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Venus' warrant against Psyche",
+   "note": "At Venus' command, Mercury advertises a reward for the capture of Psyche.",
+   "source": "Apuleius, Metamorphoses 6.7–8",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cupid and Psyche's wedding",
+   "note": "Mercury attends the divine resolution and wedding involving Venus, Cupid, and Psyche.",
+   "source": "Apuleius, Metamorphoses 6.23–24",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Literary and artistic traditions pair Mercury with Venus as parents of Hermaphroditus, without a canonical Roman marriage cult.",
+   "source": "Latin mythographic tradition",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermaphroditus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mercury and Venus are parents of Hermaphroditus in Greek-derived genealogical tradition.",
+   "source": "Latin mythographic tradition",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [
+    "Amor"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cupid and Psyche's wedding",
+   "note": "Mercury serves as herald during the divine resolution of Cupid's marriage to Psyche.",
+   "source": "Apuleius, Metamorphoses 6",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Venus' warrant against Psyche",
+   "note": "Mercury proclaims that the fugitive Psyche should be captured for Venus' promised reward.",
+   "source": "Apuleius, Metamorphoses 6.7–8",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Psyche's immortality and wedding",
+   "note": "Mercury summons the assembly where Psyche receives ambrosia, becomes immortal, and marries Cupid.",
+   "source": "Apuleius, Metamorphoses 6.23",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Conduction of souls",
+   "note": "Mercury conducts souls into the underworld governed by Proserpina and its other divine rulers.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Learned catalogue of Mercuries",
+   "note": "Cicero associates one Mercury with Proserpina in a sexually aggressive learned tradition.",
+   "source": "Cicero, De natura deorum 3.56",
+   "date": "45–44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "served",
+   "myth": "Conduction of souls",
+   "note": "Mercury delivers and controls souls within the infernal domain ruled by Dis Pater.",
+   "source": "Horace, Odes 1.10",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pompeian tavern shrine",
+   "note": "Mercury and Bacchus flank the Lares and household Genius in a Pompeian tavern shrine.",
+   "source": "Tavern of Lucius Vetutius Placidus",
+   "date": "before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Lares",
+   "other_aliases": [
+    "Lares"
+   ],
+   "kind": "parent_of",
+   "myth": "Lara and the birth of the Lares",
+   "note": "Mercury rapes Lara during her escort; she subsequently bears the twin Lares.",
+   "source": "Ovid, Fasti 2.583–616",
+   "date": "ca. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Lares",
+   "other_aliases": [
+    "Lares"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pompeian tavern shrine",
+   "note": "Mercury appears beside the Lares in the tavern shrine of Lucius Vetutius Placidus.",
+   "source": "Tavern of Lucius Vetutius Placidus",
+   "date": "before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "household Genius",
+   "other_aliases": [
+    "Genius"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pompeian tavern shrine",
+   "note": "Mercury appears with the household Genius, Bacchus, and Lares in a Pompeian tavern shrine.",
+   "source": "Tavern of Lucius Vetutius Placidus",
+   "date": "before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lara",
+   "other_aliases": [
+    "Larunda"
+   ],
+   "kind": "other",
+   "myth": "Lara and the birth of the Lares",
+   "note": "While escorting the mutilated nymph underground, Mercury rapes her; she later bears the Lares.",
+   "source": "Ovid, Fasti 2.583–616",
+   "date": "ca. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rosmerta",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Inscriptions and reliefs frequently pair Rosmerta with Mercury, although surviving evidence rarely explicitly calls them married.",
+   "source": "Gaulish and Germanic inscriptions",
+   "date": "first–third centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Epona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Provincial co-worship",
+   "note": "Mercury and Epona occur together in some provincial domestic or sanctuary assemblages without a narrative.",
+   "source": "Provincial material evidence",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sirona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Provincial co-worship",
+   "note": "Mercury and Sirona occur together in some provincial domestic or sanctuary assemblages without a narrative.",
+   "source": "Provincial material evidence",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "imperial numen",
+   "other_aliases": [
+    "emperor's divine power"
+   ],
+   "kind": "shared_myth",
+   "myth": "Puy de Dôme joint dedication",
+   "note": "A dedication jointly honors the imperial numen and Mercurius Dumiatis.",
+   "source": "Puy de Dôme bronze dedication",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Io and Argus",
+   "note": "Disguised as a shepherd, Mercury charms Argus with music and narrative and induces sleep.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Io and Argus",
+   "note": "Mercury decapitates the sleeping hundred-eyed guardian, earning the epithet Argicida.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Io and Argus",
+   "note": "Mercury frees Io from Argus' guardianship by lulling and killing her watcher.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philology",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage of Mercury and Philology",
+   "note": "Mercury marries the personified Philology in an educational allegory attended by the liberal arts.",
+   "source": "Martianus Capella, De nuptiis",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

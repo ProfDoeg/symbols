@@ -1,0 +1,1007 @@
+{
+ "subject": "poseidon",
+ "relations": [
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cronus fathers, swallows, and later disgorges Poseidon.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rhea bears Poseidon as one of the children of Cronus.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Poseidon’s Arcadian infancy",
+   "note": "Rhea hides Poseidon with nymphs and deceives Cronus about his birth.",
+   "source": "Pausanias 8.8.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arne",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Poseidon’s Arcadian infancy",
+   "note": "The nymph Arne helps conceal and rear infant Poseidon.",
+   "source": "Pausanias 8.8.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Theisoa",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Poseidon’s Arcadian infancy",
+   "note": "The nymph Theisoa receives and helps rear infant Poseidon.",
+   "source": "Pausanias 8.8.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hagno",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Poseidon’s Arcadian infancy",
+   "note": "The nymph Hagno receives and helps rear infant Poseidon.",
+   "source": "Pausanias 8.8.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Zeus and Poseidon are brothers, both children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmos",
+   "note": "They cast lots; Zeus receives sky while Poseidon receives sea.",
+   "source": "Iliad 15.187–193",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Poseidon challenges Zeus’ precedence",
+   "note": "Poseidon asserts equal birth-status but obeys Zeus’ command to withdraw.",
+   "source": "Iliad 15",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Olympian conspiracy against Zeus",
+   "note": "Poseidon joins Hera and Athena in binding or threatening Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Aegina",
+   "note": "Poseidon contests Zeus for Aegina and loses.",
+   "source": "Plutarch, Greek Questions",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hades and Poseidon are brothers, both children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmos",
+   "note": "They cast lots; Hades receives darkness while Poseidon receives sea.",
+   "source": "Iliad 15.187–193",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hera and Poseidon are siblings, both children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine support for the Achaeans",
+   "note": "Hera distracts Zeus while Poseidon aids the Achaeans.",
+   "source": "Iliad 13–15",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Olympian conspiracy against Zeus",
+   "note": "Poseidon and Hera participate in the attempt to bind or threaten Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Argos",
+   "note": "River gods award Argos to Hera; Poseidon retaliates against local waters.",
+   "source": "Pausanias 2.15.5, 2.22.4",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Demeter Erinys",
+    "Black Demeter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Demeter and Poseidon are siblings, both children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Demeter Erinys",
+    "Black Demeter"
+   ],
+   "kind": "seduced",
+   "myth": "Demeter’s equine flight",
+   "note": "Poseidon pursues Demeter, becomes a stallion, and coerces her after her mare transformation.",
+   "source": "Pausanias 8.25, 8.42",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hestia and Poseidon are siblings, both children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Amphitrite is Poseidon’s wife and mother of Triton.",
+   "source": "Hesiod, Theogony 930–933",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers Triton with Amphitrite.",
+   "source": "Hesiod, Theogony 930–933",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhode",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography names Rhode among Poseidon and Amphitrite’s children.",
+   "source": "Apollodorus and later sources",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Benthesicyme",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography names Benthesicyme among Poseidon and Amphitrite’s children.",
+   "source": "Apollodorus and later sources",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Demeter’s equine flight",
+   "note": "Poseidon fathers the divine horse Arion with Demeter.",
+   "source": "Pausanias 8.25, 8.42",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Despoina",
+   "other_aliases": [
+    "Mistress"
+   ],
+   "kind": "parent_of",
+   "myth": "Demeter’s equine flight",
+   "note": "Poseidon fathers Demeter’s mystery-goddess daughter, whose true name remained secret.",
+   "source": "Pausanias 8.25, 8.42",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Meadow union",
+   "note": "Poseidon lies with Medusa in a meadow; their offspring emerge after her beheading.",
+   "source": "Hesiod, Theogony 276–281",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Violation in Minerva’s temple",
+   "note": "Neptune violates Medusa inside Minerva’s temple in Ovid’s Roman retelling.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Birth from Medusa",
+   "note": "Pegasus springs from Medusa after Poseidon fathered him.",
+   "source": "Hesiod, Theogony 276–281",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chrysaor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Birth from Medusa",
+   "note": "Chrysaor springs from Medusa after Poseidon fathered him.",
+   "source": "Hesiod, Theogony 276–281",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogies pair Poseidon and Gaia as parents of giants or monsters.",
+   "source": "Apollodorus and later mythography",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Antaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies make Antaeus a son of Poseidon and Gaia.",
+   "source": "Later genealogies",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Charybdis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later genealogies make Charybdis a child of Poseidon and Gaia.",
+   "source": "Later genealogies",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aethra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Dual paternity of Theseus",
+   "note": "Poseidon sleeps with Aethra in the tradition giving Theseus divine and mortal fathers.",
+   "source": "Greek mythographic tradition",
+   "date": "date uncertain",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon is Theseus’ divine father in a dual-paternity tradition.",
+   "source": "Aeschylus, Eumenides",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Three curses",
+   "note": "Poseidon grants Theseus three curses, one used fatally against Hippolytus.",
+   "source": "Euripides, Hippolytus",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Theseus’ curse",
+   "note": "Poseidon sends a sea-bull causing Hippolytus’ fatal chariot wreck.",
+   "source": "Euripides, Hippolytus",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyro",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Poseidon mates with Tyro and fathers Pelias and Neleus.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers Pelias with Tyro.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neleus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers Neleus with Tyro.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iphimedeia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Iphimedeia says she lay with Poseidon and bore the Aloadae.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Otus",
+   "other_aliases": [
+    "Aloadae"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers the giant Otus with Iphimedeia.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ephialtes",
+   "other_aliases": [
+    "Aloadae"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers the giant Ephialtes with Iphimedeia.",
+   "source": "Odyssey 11",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoosa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Poseidon fathers Polyphemus with the nymph Thoosa.",
+   "source": "Odyssey 1",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polyphemus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon is the Cyclops Polyphemus’ father.",
+   "source": "Odyssey 1",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polyphemus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Polyphemus’ curse",
+   "note": "Poseidon answers his blinded son’s prayer by delaying Odysseus’ return.",
+   "source": "Odyssey 9",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amymone",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Amymone at Lerna",
+   "note": "Poseidon drives away the satyr attacking Amymone.",
+   "source": "Later mythography",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amymone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Amymone at Lerna",
+   "note": "Poseidon has intercourse with Amymone and reveals or creates a spring.",
+   "source": "Later mythography",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nauplius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography makes Nauplius the son of Poseidon and Amymone.",
+   "source": "Later mythography",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caenis",
+   "other_aliases": [
+    "Caeneus"
+   ],
+   "kind": "consort_of",
+   "myth": "Caenis becomes Caeneus",
+   "note": "Poseidon has intercourse with Caenis before granting her transformative wish.",
+   "source": "Ovid, Metamorphoses 12",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caenis",
+   "other_aliases": [
+    "Caeneus"
+   ],
+   "kind": "transformed",
+   "myth": "Caenis becomes Caeneus",
+   "note": "Poseidon transforms Caenis into the invulnerable man Caeneus at her request.",
+   "source": "Ovid, Metamorphoses 12",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theophane",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Parentage of the golden ram",
+   "note": "Poseidon mates with Theophane in the golden ram’s parentage.",
+   "source": "Hyginus, Fabulae",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melanippe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Poseidon fathers Aeolus and Boeotus with Melanippe.",
+   "source": "Euripidean and mythographic traditions",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers Aeolus with Melanippe.",
+   "source": "Euripidean and mythographic traditions",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Boeotus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon fathers Boeotus with Melanippe.",
+   "source": "Euripidean and mythographic traditions",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cleito",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Foundation of Atlantis",
+   "note": "Poseidon mates with Cleito and encloses her hill with concentric rings.",
+   "source": "Plato, Critias",
+   "date": "c. 360s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Atlantis dynasty",
+   "note": "Poseidon fathers Atlas, eldest of five pairs of Atlantean twins.",
+   "source": "Plato, Critias",
+   "date": "c. 360s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cymopoleia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cymopoleia is Poseidon’s daughter.",
+   "source": "Hesiod, Theogony 817–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareos",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage of Cymopoleia",
+   "note": "Poseidon gives his daughter Cymopoleia to Briareos in marriage.",
+   "source": "Hesiod, Theogony 817–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareos",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Contest for Corinth",
+   "note": "Briareos awards Poseidon the Isthmus and Helios Acrocorinth.",
+   "source": "Pausanias 2.1.6",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Divine support for the Achaeans",
+   "note": "Poseidon and Athena both support the Achaeans during the Trojan War.",
+   "source": "Iliad",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "fought",
+   "myth": "Olympian conspiracy against Zeus",
+   "note": "Poseidon and Athena participate in the attempt to bind or threaten Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "contest",
+   "myth": "Contest for Athens",
+   "note": "Poseidon produces seawater or a horse; Athena’s olive wins possession of Athens.",
+   "source": "Herodotus 8.55; Apollodorus",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Destruction of the Greek fleet",
+   "note": "Poseidon joins Athena in planning storms against Greeks returning from Troy.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Building Troy’s walls",
+   "note": "Poseidon and Apollo build Troy’s walls for Laomedon and are denied payment.",
+   "source": "Iliad 7.452–453, 21.441–457",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Battle of the gods",
+   "note": "Poseidon challenges Apollo, who refuses to fight him over mortals.",
+   "source": "Iliad 21.435–469",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange of sanctuaries",
+   "note": "Poseidon exchanges Delphi or Pytho for Tainaron in antiquarian tradition.",
+   "source": "Pausanias 2.33.2; Strabo 8",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange of sanctuaries",
+   "note": "Poseidon exchanges Delos for Kalaureia with Leto or Apollo.",
+   "source": "Pausanias 2.33.2; Strabo 8",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Prophecy of Thetis’ son",
+   "note": "Poseidon desires Thetis but abandons pursuit after hearing the prophecy.",
+   "source": "Pindar, Isthmian 8",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Hephaestus’ adultery net",
+   "note": "Poseidon intercedes for the trapped Aphrodite and Ares.",
+   "source": "Odyssey 8.344–358",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hephaestus’ adultery net",
+   "note": "Poseidon negotiates with Hephaestus for Ares’ release from the net.",
+   "source": "Odyssey 8.344–358",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Hephaestus’ adultery net",
+   "note": "Poseidon guarantees Ares’ payment so Hephaestus will release him.",
+   "source": "Odyssey 8.344–358",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Corinth",
+   "note": "Poseidon contests Corinth with Helios and receives the Isthmus.",
+   "source": "Pausanias 2.1.6",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Naxos",
+   "note": "Later local catalogues make Poseidon contest Naxos with Dionysus.",
+   "source": "Plutarch and scholia",
+   "date": "first century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus orders Poseidon’s withdrawal",
+   "note": "Iris carries Zeus’ command that Poseidon leave the battlefield.",
+   "source": "Iliad 15",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "allied",
+   "myth": "Deception of Zeus",
+   "note": "Poseidon’s Achaean intervention coincides with Sleep helping Hera deceive Zeus.",
+   "source": "Iliad 14",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [
+    "Leucothea"
+   ],
+   "kind": "contest",
+   "myth": "Odysseus’ shipwreck",
+   "note": "Poseidon wrecks Odysseus while Ino helps the hero survive.",
+   "source": "Odyssey 5",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Later sources sometimes describe Proteus as Poseidon’s servant.",
+   "source": "Apollodorus; later literature",
+   "date": "first–second century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later sources sometimes make Proteus a son of Poseidon.",
+   "source": "Apollodorus; later literature",
+   "date": "first–second century CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marriage into the sea family",
+   "note": "Marriage to Amphitrite incorporates Nereus’ older sea family into Poseidon’s household.",
+   "source": "Hesiod onward",
+   "date": "c. 700 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marriage into the sea family",
+   "note": "Marriage to Amphitrite incorporates the Nereids into Poseidon’s household.",
+   "source": "Hesiod onward",
+   "date": "c. 700 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "the Telchines",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Poseidon’s Rhodian upbringing",
+   "note": "Conflicting Rhodian sources associate the Telchines with raising Poseidon.",
+   "source": "Diodorus 5",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Telchines",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Conflicting late traditions connect Poseidon genealogically with the Telchines.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Halia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Rhodian genealogy",
+   "note": "A Rhodian tradition makes Poseidon’s relationship with Halia central.",
+   "source": "Diodorus 5.55",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Neptunus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek Poseidon becomes equated with the Roman water-god Neptune.",
+   "source": "Republican and imperial Latin literature",
+   "date": "Roman Republic and Empire",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nethuns",
+   "other_aliases": [
+    "Neθuns"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan water-god adopts Poseidon-like trident imagery through assimilation.",
+   "source": "Etruscan mirrors and inscriptions",
+   "date": "first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Salacia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Roman interpretation equates Neptune’s consort Salacia with Poseidon’s Amphitrite.",
+   "source": "Roman literary tradition",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Aeneas rescued from Achilles",
+   "note": "Poseidon saves Aeneas because fate requires continuation of Dardanus’ lineage.",
+   "source": "Iliad 20",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aeneas rescued from Achilles",
+   "note": "Poseidon intervenes against Achilles to remove the endangered Aeneas.",
+   "source": "Iliad 20",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Odysseus and Polyphemus",
+   "note": "Poseidon answers Polyphemus’ curse with storms, losses, and delayed homecoming.",
+   "source": "Odyssey 5, 9",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Inland propitiation",
+   "note": "Odysseus must establish Poseidon’s inland cult and sacrifice after returning home.",
+   "source": "Odyssey 11, 23",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Pelops carried to Olympus",
+   "note": "Poseidon loves Pelops and carries him to Olympus.",
+   "source": "Pindar, Olympian 1",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Race against Oenomaus",
+   "note": "Poseidon grants Pelops a golden chariot or horses for his race.",
+   "source": "Pindar, Olympian 1",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polybotes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Poseidon battles Polybotes during the gods’ war against the Giants.",
+   "source": "Archaic and Classical art",
+   "date": "Archaic–Classical periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polybotes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Poseidon crushes Polybotes beneath a fragment of Kos or Nisyros.",
+   "source": "Later literary tradition",
+   "date": "date uncertain",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cymopoleia",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage of Cymopoleia",
+   "note": "Poseidon gives Cymopoleia in marriage to Briareos.",
+   "source": "Hesiod, Theogony 817–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erechtheus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Athenian cult closely fuses Poseidon with the ancestral figure Erechtheus.",
+   "source": "Athenian cult evidence",
+   "date": "Classical period onward",
+   "tier": "syncretism"
+  }
+ ]
+}

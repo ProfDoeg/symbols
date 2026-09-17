@@ -1,0 +1,217 @@
+{
+ "subject": "taweret",
+ "relations": [
+  {
+   "other": "Ipet",
+   "other_aliases": [
+    "Ipy",
+    "Ipi",
+    "Apet",
+    "Opet",
+    "Ipet-weret"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ipet and Taweret become effectively interchangeable in some later contexts while retaining distinct local theologies.",
+   "source": "Late Egyptian temple and funerary evidence",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Reret",
+   "other_aliases": [
+    "Reret-weret"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Reret shares Taweret's hippopotamus form and protective functions, especially in astronomical and funerary systems.",
+   "source": "Astronomical and funerary compositions",
+   "date": "Ramesside period and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hedjet",
+   "other_aliases": [
+    "the White One"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hedjet is a related protective hippopotamus goddess, though her precise identification with Taweret remains disputed.",
+   "source": "Egyptian hippopotamus-goddess tradition",
+   "date": "Date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Sobek issues as inundation from the Great One",
+   "note": "Sobek issues from the Great One, but identifying that maternal figure as Taweret is uncertain.",
+   "source": "Pyramid Text utterance 317",
+   "date": "Late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Taweret or Ipet is assimilated with Hathor through funerary settings and Hathoric crown iconography.",
+   "source": "Book of the Dead spell 186",
+   "date": "Dynasty 19",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Protective Isis assumes hippopotamus-goddess forms, with explicit identifications in Ptolemaic temple and birth-house theology.",
+   "source": "Ptolemaic temple reliefs",
+   "date": "Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mut of Isheru",
+   "other_aliases": [
+    "Mut"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint protection of pregnancy or birth",
+   "note": "Mut and Taweret appear together on a Theban votive stela seeking maternal protection.",
+   "source": "Dynasty 18 Theban votive stela",
+   "date": "Reign of Amenhotep III",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint protection of mother and child",
+   "note": "Bes and Taweret jointly protect domestic and birth settings; no ancient marriage narrative survives.",
+   "source": "Domestic and birth magical ensembles",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "consort_of",
+   "myth": "Thueris deserts Typhon",
+   "note": "Plutarch calls Thueris Typhon's concubine, a late Greek relationship absent from earlier Egyptian narratives.",
+   "source": "Plutarch, De Iside et Osiride 19",
+   "date": "Approximately 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "other",
+   "myth": "Thueris deserts Typhon",
+   "note": "Thueris abandons Typhon's faction and transfers her allegiance to Horus.",
+   "source": "Plutarch, De Iside et Osiride 19",
+   "date": "Approximately 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Thueris deserts Typhon",
+   "note": "Thueris joins Horus after abandoning Typhon, and Horus's followers destroy her pursuer.",
+   "source": "Plutarch, De Iside et Osiride 19",
+   "date": "Approximately 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the pursuing serpent",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Serpent pursues Thueris after her defection",
+   "note": "An unnamed serpent pursues Thueris until Horus's followers cut it apart.",
+   "source": "Plutarch, De Iside et Osiride 19",
+   "date": "Approximately 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Osiris regenerated within Ipet",
+   "note": "Theban theology makes Ipet the maternal container in which Osiris is renewed.",
+   "source": "Opet temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [
+    "Amun"
+   ],
+   "kind": "parent_of",
+   "myth": "Amun-Re reborn through Ipet",
+   "note": "Amun-Re emerges reborn through Ipet in the Opet temple's regeneration theology.",
+   "source": "Opet temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Divine regeneration within the maternal body",
+   "note": "Opet theology connects Ipet with Nut as the mother who receives and rebirths the solar god.",
+   "source": "Opet temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Northern guardian restrains Seth's foreleg",
+   "note": "The celestial hippopotamus goddess restrains or guards the dangerous constellation identified as Seth's foreleg.",
+   "source": "Book of Day and Book of Night",
+   "date": "Ramesside period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "the solar child"
+   ],
+   "kind": "parent_of",
+   "myth": "Hippopotamus mother births the solar child",
+   "note": "Late texts assign a hippopotamus mother a solar-birth role, though her precise divine identity varies.",
+   "source": "Late cosmological and temple texts",
+   "date": "Late Period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eye of Ra",
+   "other_aliases": [
+    "the Returning Goddess"
+   ],
+   "kind": "identified_with",
+   "myth": "Returning Eye becomes a hippopotamus goddess",
+   "note": "Late temple imagery combines Taweret-like, lioness, Hathoric, Isiac, and inundation forms without establishing one stable narrative.",
+   "source": "Late Egyptian temple texts",
+   "date": "Late Period–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Minoan genius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Taweret imagery becomes the Minoan genius",
+   "note": "Cretan artists adapted Taweret's visual form into a locally transformed ritual being.",
+   "source": "Middle Bronze Age Aegean iconography",
+   "date": "Eighteenth–seventeenth centuries BCE",
+   "tier": "attested"
+  }
+ ]
+}

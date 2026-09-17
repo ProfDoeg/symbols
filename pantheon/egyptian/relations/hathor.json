@@ -1,0 +1,473 @@
+{
+ "subject": "hathor",
+ "relations": [
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hathor mothers, contains, nourishes, and legitimates Horus or the Horus-king.",
+   "source": "Pyramid Texts and Old Kingdom royal monuments",
+   "date": "late third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some local genealogies make Hathor the wife rather than mother of Horus.",
+   "source": "Local temple theologies",
+   "date": "multiple periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus of Edfu",
+   "other_aliases": [
+    "Behedety"
+   ],
+   "kind": "consort_of",
+   "myth": "Beautiful Reunion",
+   "note": "Hathor journeys from Dendera to unite with Horus as his divine spouse.",
+   "source": "Edfu and Dendera festival texts",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Harsomtus",
+   "other_aliases": [
+    "Horus-sematawy"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hathor is Harsomtus's mother in the Dendera triad.",
+   "source": "Dendera inscriptions",
+   "date": "Ptolemaic-Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ihy",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hathor is mother of Ihy, embodiment of sistrum music and jubilation.",
+   "source": "Dendera temple texts",
+   "date": "Ptolemaic-Roman synthesis",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Solar-Eye theology calls Hathor the daughter and emitted power of Re.",
+   "source": "Middle Kingdom and later temple texts",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hathor can function as Re's consort-like feminine complement.",
+   "source": "Solar-Eye temple theology",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Destruction of Mankind",
+   "note": "As Re's Eye, Hathor attacks rebellious humanity and defends his rule.",
+   "source": "Book of the Heavenly Cow",
+   "date": "New Kingdom copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Destruction of Mankind",
+   "note": "Re ends Hathor's slaughter by flooding fields with blood-colored beer.",
+   "source": "Book of the Heavenly Cow",
+   "date": "New Kingdom copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Destruction of Mankind",
+   "note": "During humanity's slaughter, Hathor becomes or is named the raging Sekhmet.",
+   "source": "Book of the Heavenly Cow",
+   "date": "New Kingdom copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Eye theology treats peaceful Hathor and raging Sekhmet as alternate conditions.",
+   "source": "Later Eye theology",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ra-Horakhty",
+   "other_aliases": [
+    "Pre-Harakhty"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Depending on ritual grammar, Hathor can be Ra-Horakhty's daughter or Eye.",
+   "source": "Ritual and temple texts",
+   "date": "multiple periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra-Horakhty",
+   "other_aliases": [
+    "Pre-Harakhty"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some ritual systems make Hathor Ra-Horakhty's consort or feminine complement.",
+   "source": "Ritual and temple texts",
+   "date": "multiple periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra-Horakhty",
+   "other_aliases": [
+    "Pre-Harakhty"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some ritual arrangements treat Hathor as Ra-Horakhty's maternal source.",
+   "source": "Ritual and temple texts",
+   "date": "multiple periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra-Horakhty",
+   "other_aliases": [
+    "Pre-Harakhty"
+   ],
+   "kind": "other",
+   "myth": "Hathor and the laughing solar judge",
+   "note": "Hathor exposes herself, making the angry solar judge laugh and resume judgment.",
+   "source": "Papyrus Chester Beatty I, Contendings",
+   "date": "ca. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Contendings of Horus and Seth",
+   "note": "Hathor participates in the tribunal deciding Seth's conflict with Horus.",
+   "source": "Papyrus Chester Beatty I, Contendings",
+   "date": "ca. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Contendings of Horus and Seth",
+   "note": "Hathor and Isis participate in Horus's cause before the divine tribunal.",
+   "source": "Papyrus Chester Beatty I, Contendings",
+   "date": "ca. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their maternal, royal, funerary, and cow-goddess functions merge in Isis-Hathor forms.",
+   "source": "Temple and funerary material",
+   "date": "New Kingdom–Greco-Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mortuary renewal",
+   "note": "Hathor protects and nourishes Osiris within mortuary systems and funerary renewal.",
+   "source": "Coffin Texts and Book of the Dead",
+   "date": "Middle Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some local and late systems make Thoth Hathor's partner or consort.",
+   "source": "Mortuary and temple traditions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Distant Goddess",
+   "note": "Thoth fetches, restores, accompanies, or pacifies Hathor as the departed solar Eye.",
+   "source": "New Kingdom and later ritual texts",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Distant Goddess",
+   "note": "Shu helps retrieve or pacify Hathor in versions of the returning-Eye cycle.",
+   "source": "Late temple versions",
+   "date": "Late Period–Greco-Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Distant Goddess",
+   "note": "Hathor is equated with Tefnut as the returned and pacified solar Eye.",
+   "source": "Late temple Eye theology",
+   "date": "New Kingdom antecedents onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "At Thebes, Hathor and Mut assimilate as royal mothers and solar Eyes.",
+   "source": "Karnak temple theology",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bastet and Hathor are paired or assimilated as peaceful manifestations of the Eye.",
+   "source": "Later Eye theology",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Wadjet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hathor and Wadjet share solar-Eye, uraeus, royal-protection, and fire-bearing identities.",
+   "source": "Temple liturgies and royal iconography",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nekhbet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Hathor and Nekhbet jointly protect the king in royal female-divinity systems.",
+   "source": "Royal and temple imagery",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bat",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hathor absorbs or is equated with Bat and adopts her double-faced emblem.",
+   "source": "Pyramid Texts and Middle Kingdom formulas",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hathor and Nut overlap as celestial cows and sycamore goddesses nourishing the dead.",
+   "source": "Coffin Texts and Book of the Dead",
+   "date": "Middle Kingdom–New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Destruction of Mankind",
+   "note": "After Hathor's slaughter ends, Re ascends upon Nut as the heavenly cow.",
+   "source": "Book of the Heavenly Cow",
+   "date": "New Kingdom copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nebethetepet",
+   "other_aliases": [
+    "Lady of the Offering"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hathor is locally identified with Atum's female generative hand, Nebethetepet.",
+   "source": "Heliopolitan theology",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Heliopolitan creation",
+   "note": "As Hathor-Nebethetepet, she functions as Atum's female creative complement.",
+   "source": "Heliopolitan ritual and temple texts",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Memphite divine ordering",
+   "note": "Hathor appears with Ptah within the Memphite organization of the gods.",
+   "source": "Shabaka Stone",
+   "date": "ca. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Montu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Theban return festivals",
+   "note": "Local Hathor manifestations accompany Montu's cult in pacified-goddess return liturgies.",
+   "source": "Theban and Medamud evidence",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal divine birth",
+   "note": "Hathor supplies royal maternity alongside Amun's role in divine-birth theology.",
+   "source": "New Kingdom Theban monuments",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Hathoric music performed by royal women and Divine Adoratrices pacifies Amun-Re.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom–Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Coptos processions",
+   "note": "Hathor and Min share fertility, desert-route, and festival settings.",
+   "source": "Temple and processional evidence",
+   "date": "multiple periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hathoric birth-house rites",
+   "note": "Bes joins Hathoric settings of music, sexuality, childbirth, dance, and protection.",
+   "source": "Objects and birth-house imagery",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Returning-Eye cycle",
+   "note": "Astarte sometimes enters the returning-Eye complex near Hathor in Egyptian religion.",
+   "source": "New Kingdom texts and images",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Qudshu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Erotic-fertility cult imagery",
+   "note": "Qudshu occupies an erotic-fertility field overlapping Hathor, sometimes with Min and Reshep.",
+   "source": "Levantine-Egyptian stelae",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baalat Gebal",
+   "other_aliases": [
+    "Lady of Byblos"
+   ],
+   "kind": "identified_with",
+   "myth": "Hathor of Byblos",
+   "note": "Egyptians recognized Hathor in Byblos's city goddess, who retained her local name.",
+   "source": "Coffin Texts and Byblos inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpreters equated Hathor's beauty, sexuality, music, and fertility with Aphrodite.",
+   "source": "Greek and bilingual evidence",
+   "date": "Ptolemaic-Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Roman Venus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman settings continued the Greek equation of Hathor with Aphrodite as Venus.",
+   "source": "Roman-period syncretic evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis-Thermouthis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dendera sacred geography",
+   "note": "Isis-Thermouthis shares Dendera's late maternal-fertility system without universally being Hathor.",
+   "source": "Dendera Greek and Demotic inscriptions",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Seven Hathors",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Seven Hathors are a collective plurality or sevenfold manifestation of Hathor.",
+   "source": "Book of the Dead Spell 148",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "subject": "christ",
+ "relations": [
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Jesus Christ",
+    "Christ Jesus",
+    "the Lord Jesus Christ"
+   ],
+   "kind": "identified_with",
+   "myth": "Jesus proclaimed as the Christ",
+   "note": "Earliest Christian sources treat Christ, Jesus, and Lord as referentially continuous.",
+   "source": "Pauline letters",
+   "date": "c. 50–60 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "earthly Jesus",
+    "psychic Jesus"
+   ],
+   "kind": "other",
+   "myth": "Celestial Christ descends upon Jesus",
+   "note": "Some separationist systems distinguish Christ from Jesus and join them at baptism.",
+   "source": "Irenaeus, Against Heresies I",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "God the Father",
+   "other_aliases": [
+    "God",
+    "Father"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Christ is God's Son, eternally begotten rather than created in Nicene theology.",
+   "source": "Nicene Creed",
+   "date": "325 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "God the Father",
+   "other_aliases": [
+    "God",
+    "Father"
+   ],
+   "kind": "created",
+   "myth": "Creation through Christ",
+   "note": "Christ mediates creation as the divine agent through whom all things exist.",
+   "source": "1 Corinthians 8:6",
+   "date": "50s CE",
+   "tier": "attested"
+  },
+  {
+   "other": "God the Father",
+   "other_aliases": [
+    "God",
+    "Father"
+   ],
+   "kind": "gift",
+   "myth": "Christ exalted and given supreme authority",
+   "note": "The Father raises, enthrones, glorifies, and grants Christ authority and the supreme name.",
+   "source": "Philippians 2; John",
+   "date": "50s–110 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "God the Father",
+   "other_aliases": [
+    "God",
+    "Father"
+   ],
+   "kind": "served",
+   "myth": "Christ hands the kingdom to God",
+   "note": "After defeating hostile powers, Christ subjects himself and delivers the kingdom to God.",
+   "source": "1 Corinthians 15:20–28",
+   "date": "50s CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Spirit"
+   ],
+   "kind": "gift",
+   "myth": "Spirit descends at Christ's baptism",
+   "note": "The Holy Spirit descends upon Jesus at baptism and empowers his mission.",
+   "source": "Synoptic Gospels",
+   "date": "c. 65–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Spirit"
+   ],
+   "kind": "other",
+   "myth": "Son sends the Spirit",
+   "note": "The Spirit proceeds or is sent from the Father through or alongside the Son.",
+   "source": "John 14–16",
+   "date": "c. 90–110 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Holy Spirit as aeon",
+    "Spirit"
+   ],
+   "kind": "shared_myth",
+   "myth": "Christ and Spirit stabilize the pleroma",
+   "note": "Some Valentinian accounts pair Christ and Spirit as products or stabilizing aeons.",
+   "source": "Irenaeus, Against Heresies I",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "Devil"
+   ],
+   "kind": "fought",
+   "myth": "Temptation in the wilderness",
+   "note": "Satan tests Christ, who rebuffs each temptation with scripture.",
+   "source": "Matthew 4; Luke 4",
+   "date": "c. 80–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "Devil"
+   ],
+   "kind": "fought",
+   "myth": "Recapitulation defeats Satan",
+   "note": "Christ reverses Adam's failure and defeats Satan through obedience and death.",
+   "source": "Irenaeus, Against Heresies V.21",
+   "date": "late second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "ruler of the underworld"
+   ],
+   "kind": "punished",
+   "myth": "Harrowing of Hell",
+   "note": "Christ breaks Hell's gates, binds its ruler, and frees the righteous dead.",
+   "source": "Gospel of Nicodemus",
+   "date": "late antique form",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rulers and authorities",
+   "other_aliases": [
+    "cosmic powers",
+    "hostile powers"
+   ],
+   "kind": "fought",
+   "myth": "Triumph over cosmic powers",
+   "note": "Christ disarms and triumphs over the hostile rulers and authorities.",
+   "source": "Colossians 2:15",
+   "date": "c. 60–90 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Death",
+   "other_aliases": [
+    "last enemy"
+   ],
+   "kind": "fought",
+   "myth": "Destruction of the last enemy",
+   "note": "Christ reigns until the personified power Death is finally destroyed.",
+   "source": "1 Corinthians 15:26",
+   "date": "50s CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [
+    "first Adam"
+   ],
+   "kind": "shared_myth",
+   "myth": "Christ reverses Adam's transgression",
+   "note": "As last or second Adam, Christ reverses the first Adam's failure.",
+   "source": "Romans 5; 1 Corinthians 15",
+   "date": "50s CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [
+    "first Adam"
+   ],
+   "kind": "rescued",
+   "myth": "Harrowing of Hell",
+   "note": "Christ liberates Adam and the other righteous dead from the underworld.",
+   "source": "Gospel of Nicodemus",
+   "date": "late antique form",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eve",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Harrowing of Hell",
+   "note": "Christ liberates Eve with Adam and the righteous dead from the underworld.",
+   "source": "Gospel of Nicodemus",
+   "date": "late antique form",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Angels",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Angelic service and heavenly enthronement",
+   "note": "Angels announce, worship, serve, accompany, and are subordinated to Christ.",
+   "source": "Gospels; Hebrews; Revelation",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apocalyptic war in heaven",
+   "note": "Michael and Christ appear in the same apocalyptic war cycle without direct conversation.",
+   "source": "Revelation 12 and 19",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Annunciation of Christ's conception",
+   "note": "Gabriel announces to Mary the conception and future kingship of Christ.",
+   "source": "Luke 1",
+   "date": "c. 80–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transfiguration",
+   "note": "Moses appears and converses with Christ during the transfiguration.",
+   "source": "Mark 9 and parallels",
+   "date": "c. 65–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elijah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transfiguration",
+   "note": "Elijah appears and converses with Christ during the transfiguration.",
+   "source": "Mark 9 and parallels",
+   "date": "c. 65–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "Wisdom"
+   ],
+   "kind": "rescued",
+   "myth": "Valentinian restoration of the pleroma",
+   "note": "Christ or Savior restores order after Sophia's disruptive passion.",
+   "source": "Irenaeus; Valentinian texts",
+   "date": "second–third centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Church",
+   "other_aliases": [
+    "Ekklesia",
+    "heavenly Church"
+   ],
+   "kind": "other",
+   "myth": "Restoration of the heavenly Church",
+   "note": "Christ unites with, clothes, or perfects the heavenly aeon Church.",
+   "source": "Tripartite Tractate",
+   "date": "third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demiurge",
+   "other_aliases": [
+    "ignorant creator"
+   ],
+   "kind": "taught",
+   "myth": "Savior transcends the ignorant creator",
+   "note": "In several Gnostic systems Christ secretly instructs the ignorant Demiurge.",
+   "source": "Valentinian and related texts",
+   "date": "second–third centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demiurge",
+   "other_aliases": [
+    "ignorant creator"
+   ],
+   "kind": "contest",
+   "myth": "Savior displaces the ignorant creator",
+   "note": "Some Gnostic variants present Christ as transcending and displacing the Demiurge.",
+   "source": "Valentinian and related texts",
+   "date": "second–third centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Virgin of Light",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Manichaean salvation cosmology",
+   "note": "The Virgin of Light is closely associated with Jesus the Splendor.",
+   "source": "Iranian Manichaean fragments",
+   "date": "third century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Great Nous",
+   "other_aliases": [
+    "saving Mind"
+   ],
+   "kind": "identified_with",
+   "myth": "Jesus the Splendor awakens Adam",
+   "note": "Jesus the Splendor represents or embodies the Manichaean saving Mind.",
+   "source": "Manichaean texts",
+   "date": "third century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Jesus the Splendor awakens Adam",
+   "note": "The Manichaean Christ awakens Adam and reveals his divine origin.",
+   "source": "Manichaean texts",
+   "date": "third century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mani",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophetic succession culminating in Mani",
+   "note": "Historical Christ precedes Mani, who claims to renew and complete his revelation.",
+   "source": "Manichaean scriptures",
+   "date": "third century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Antichrist",
+   "other_aliases": [
+    "eschatological opponent"
+   ],
+   "kind": "killed",
+   "myth": "Christ's eschatological return",
+   "note": "Christ destroys the eschatological opponent at his coming.",
+   "source": "2 Thessalonians 2; patristic apocalypses",
+   "date": "first century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [
+    "Word"
+   ],
+   "kind": "identified_with",
+   "myth": "The Word becomes flesh",
+   "note": "John identifies Christ with the pre-existent divine Word and creative agent.",
+   "source": "John 1",
+   "date": "c. 90–110 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Savior",
+   "other_aliases": [
+    "Savior-Son"
+   ],
+   "kind": "identified_with",
+   "myth": "Valentinian economy of restoration",
+   "note": "Some Valentinian texts use Christ among the revealed names of the Savior-Son.",
+   "source": "Tripartite Tractate",
+   "date": "third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Lamb",
+   "other_aliases": [
+    "slaughtered Lamb",
+    "Lamb of God"
+   ],
+   "kind": "identified_with",
+   "myth": "The Lamb opens the heavenly seals",
+   "note": "Revelation portrays Christ as the slaughtered yet living and victorious Lamb.",
+   "source": "Revelation",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,929 @@
+{
+ "subject": "juno",
+ "relations": [
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Developed Greek-derived genealogy names Saturn as Juno’s father.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Developed Greek-derived genealogy names Ops as Juno’s mother.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Jupiter is Juno’s brother in the developed Greek-derived genealogy.",
+   "source": "Ennius, Virgil, Ovid, Hyginus",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Jupiter is Juno’s husband and sovereign partner.",
+   "source": "Ennius, Virgil, Ovid, Hyginus",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "contest",
+   "myth": "Tiresias judges erotic pleasure",
+   "note": "Juno disputes Jupiter over which sex experiences greater erotic pleasure.",
+   "source": "Ovid, Metamorphoses 3.316–338",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "allied",
+   "myth": "Trojan-Latin settlement",
+   "note": "Juno ends her opposition after Jupiter accepts the Trojans’ assimilation into Latin identity.",
+   "source": "Virgil, Aeneid 12.791–842",
+   "date": "19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Neptune is Juno’s brother in the developed literary genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "other",
+   "myth": "Storm against Aeneas",
+   "note": "Neptune calms the storm Juno procures and rebukes the winds.",
+   "source": "Virgil, Aeneid 1.124–156",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Hades"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pluto is Juno’s brother in the developed literary genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ceres is Juno’s sister in the developed literary genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Venus consults them about Psyche",
+   "note": "Juno and Ceres both decline to shelter Psyche against Venus.",
+   "source": "Apuleius, Metamorphoses 5.31",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Vesta is Juno’s sister in the developed literary genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One genealogy makes Mars the son of Juno and Jupiter.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Mars without Jupiter",
+   "note": "Juno conceives Mars without Jupiter after touching Flora’s magical flower.",
+   "source": "Ovid, Fasti 5.229–258",
+   "date": "c. 2–8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some authors make Vulcan the ordinary son of Juno and Jupiter.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "parent_of",
+   "myth": "Juno generates Vulcan alone",
+   "note": "Juno alone produces Vulcan in retaliation for Jupiter producing Minerva.",
+   "source": "Ovidian and mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "punished",
+   "myth": "Casting out Vulcan",
+   "note": "Juno rejects her malformed son and casts him from heaven.",
+   "source": "Hyginus and mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "other",
+   "myth": "Vulcan traps Juno",
+   "note": "Greek-derived traditions make Vulcan trap and later reconcile with Juno.",
+   "source": "Hyginus and mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Minerva is Juno’s sister in the developed literary genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "other",
+   "myth": "Retaliatory birth of Vulcan",
+   "note": "Juno’s exclusion from Minerva’s birth motivates her independent generation of Vulcan.",
+   "source": "Ovidian and mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Juno and Minerva compete against Venus for the divine beauty prize.",
+   "source": "Hyginus and Roman mythography",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "shared_myth",
+   "myth": "Capitoline triad",
+   "note": "Juno shares official Capitoline cult with Jupiter and Minerva.",
+   "source": "Roman inscriptions and Capitolia",
+   "date": "Republic onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Juventas",
+   "other_aliases": [
+    "Hebe"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Juventas is Juno’s daughter and the Olympian cupbearer.",
+   "source": "Ovid and imperial mythography",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lucina",
+   "other_aliases": [
+    "Eileithyia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogical lists differentiate Lucina as a daughter of Juno and Jupiter.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lucina",
+   "other_aliases": [
+    "Eileithyia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman texts sometimes identify the childbirth goddess Lucina with Juno herself.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lucina",
+   "other_aliases": [
+    "Eileithyia"
+   ],
+   "kind": "served_by",
+   "myth": "Obstruction of Alcmena’s labor",
+   "note": "Juno commands the childbirth power to obstruct Alcmena’s delivery of Hercules.",
+   "source": "Ovid, Metamorphoses 9.281–323",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Flora",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Birth of Mars without Jupiter",
+   "note": "Flora gives Juno the magical flower that enables her to conceive Mars.",
+   "source": "Ovid, Fasti 5.229–258",
+   "date": "c. 2–8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Counsel concerning Thetis",
+   "note": "Themis appears as counsellor or divine authority in birth traditions involving Thetis.",
+   "source": "Roman adaptations of Greek epic",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Juno competes with Venus and Minerva; Paris awards Venus the prize.",
+   "source": "Hyginus and Roman mythography",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "fought",
+   "myth": "Opposing patrons in the Aeneid",
+   "note": "Juno opposes Venus and repeatedly attacks or obstructs Venus’ Trojan son.",
+   "source": "Virgil, Aeneid 1, 5, 10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "other",
+   "myth": "Venus seeks Psyche",
+   "note": "Venus asks Juno to deny Psyche shelter; Juno declines open opposition.",
+   "source": "Apuleius, Metamorphoses 5.31",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Juno’s opposition to Aeneas",
+   "note": "Juno repeatedly obstructs Aeneas’ voyage, settlement and destined Roman posterity.",
+   "source": "Virgil, Aeneid",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Storm against Aeneas",
+   "note": "Juno promises Aeolus the nymph Deiopea for unleashing winds against Aeneas.",
+   "source": "Virgil, Aeneid 1.50–80",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Storm against Aeneas",
+   "note": "Aeolus unleashes a storm at Juno’s request.",
+   "source": "Virgil, Aeneid 1.50–80",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deiopea",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Storm against Aeneas",
+   "note": "Juno promises Deiopea in marriage to Aeolus as payment for the storm.",
+   "source": "Virgil, Aeneid 1.50–80",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Juno’s messenger in the Aeneid",
+   "note": "Iris carries Juno’s commands concerning Dido, Trojan women and Turnus.",
+   "source": "Virgil, Aeneid 4, 5, 9",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Allecto",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "War in Latium",
+   "note": "Juno summons Allecto to infect Amata and Turnus with war-fury.",
+   "source": "Virgil, Aeneid 7.323–571",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Turnus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War in Latium",
+   "note": "Juno protects Turnus, creates a phantom Aeneas and prolongs his resistance.",
+   "source": "Virgil, Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juturna",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Final battle with Turnus",
+   "note": "Juno authorizes Juturna to delay Turnus’ death and break the truce.",
+   "source": "Virgil, Aeneid 12.134–160",
+   "date": "19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Somnus",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "other",
+   "myth": "Death of Palinurus",
+   "note": "Somnus contributes indirectly to Juno’s hostile program without receiving her direct command.",
+   "source": "Virgil, Aeneid 5.835–871",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furies",
+   "other_aliases": [
+    "Dirae"
+   ],
+   "kind": "other",
+   "myth": "End of Juturna’s resistance",
+   "note": "Jupiter’s Dira ends resistance after Jupiter and Juno reach their settlement.",
+   "source": "Virgil, Aeneid 12.843–886",
+   "date": "19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fate",
+   "other_aliases": [
+    "Fata"
+   ],
+   "kind": "fought",
+   "myth": "Destined foundation of Rome",
+   "note": "Juno delays but cannot abolish Fate’s decree concerning Rome.",
+   "source": "Virgil, Aeneid 1 and 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "other",
+   "myth": "Io and Argus",
+   "note": "Mercury acts for Jupiter against Juno’s effort to guard Io.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus"
+   ],
+   "kind": "served_by",
+   "myth": "Io and Argus",
+   "note": "Juno appoints hundred-eyed Argus to guard Io.",
+   "source": "Ovid, Metamorphoses 1.624–723",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus"
+   ],
+   "kind": "other",
+   "myth": "Eyes of Argus",
+   "note": "After Mercury kills Argus, Juno preserves his eyes in the peacock’s tail.",
+   "source": "Ovid, Metamorphoses 1.624–723",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Io and Argus",
+   "note": "Juno confines transformed Io under Argus and persecutes her with a gadfly.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Restoration of Io",
+   "note": "Juno eventually permits Io’s restoration after Jupiter promises to stop pursuing her.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Death of Semele",
+   "note": "Disguised as Beroe, Juno induces Semele to demand Jupiter’s lethal divine manifestation.",
+   "source": "Ovid, Metamorphoses 3.256–315",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Semele",
+   "note": "Juno’s deception causes Semele to be burned by Jupiter’s divine manifestation.",
+   "source": "Ovid, Metamorphoses 3.256–315",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [
+    "Dionysus"
+   ],
+   "kind": "fought",
+   "myth": "Persecution of Bacchus",
+   "note": "Juno pursues or obstructs Jupiter’s child and attacks his maternal family.",
+   "source": "Ovid, Metamorphoses 3–4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Latona",
+   "other_aliases": [
+    "Leto"
+   ],
+   "kind": "punished",
+   "myth": "Birth of Apollo and Diana",
+   "note": "Juno prevents lands from receiving pregnant Latona, delaying her delivery.",
+   "source": "Ovid, Metamorphoses 6",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Children of Latona",
+   "note": "Juno’s hostility extends to Apollo as Jupiter’s child by Latona.",
+   "source": "Ovid and mythography",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Artemis"
+   ],
+   "kind": "fought",
+   "myth": "Children of Latona",
+   "note": "Juno’s hostility extends to Diana as Jupiter’s child by Latona.",
+   "source": "Ovid and mythography",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Artemis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Punishment of Callisto",
+   "note": "Juno’s and Diana’s roles in exposing or punishing Callisto vary by source.",
+   "source": "Ovid and Hyginus",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation of Callisto",
+   "note": "One version makes Juno transform Jupiter’s pregnant lover Callisto.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Persecution of Callisto",
+   "note": "Juno persecutes Callisto, though sources disagree about who transforms her.",
+   "source": "Ovid and Hyginus",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "fought",
+   "myth": "Persecution of Hercules",
+   "note": "Juno persecutes Hercules through serpents, madness, labors, storms and other obstacles.",
+   "source": "Virgil, Ovid, Seneca, Hyginus",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "allied",
+   "myth": "Reconciliation after apotheosis",
+   "note": "Juno ultimately reconciles with the deified Hercules and permits his marriage to Juventas.",
+   "source": "Roman mythographic tradition",
+   "date": "imperial antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "other",
+   "myth": "Creation of the Milky Way",
+   "note": "Variant mythography makes Juno’s spilled milk while nursing Hercules form the galaxy.",
+   "source": "Hyginus, Astronomica",
+   "date": "imperial antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcmena",
+   "other_aliases": [
+    "Alcmene"
+   ],
+   "kind": "punished",
+   "myth": "Birth of Hercules",
+   "note": "Juno attempts to delay Alcmena’s labor by commanding the childbirth goddess.",
+   "source": "Ovid, Metamorphoses 9.281–323",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Galanthis",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Birth of Hercules",
+   "note": "Juno changes Galanthis into a weasel for tricking the birth-goddess.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Echo",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Echo loses autonomous speech",
+   "note": "Juno restricts Echo’s speech because Echo distracted her during Jupiter’s affairs.",
+   "source": "Ovid, Metamorphoses 3.356–369",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Dispute over erotic pleasure",
+   "note": "Tiresias adjudicates Juno and Jupiter’s dispute, ruling in Jupiter’s favor.",
+   "source": "Ovid, Metamorphoses 3.316–338",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Dispute over erotic pleasure",
+   "note": "Juno blinds Tiresias after his judgment favors Jupiter.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Madness of Ino and Athamas",
+   "note": "Juno sends infernal madness against Ino’s household for sheltering Bacchus.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athamas",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Madness of Ino and Athamas",
+   "note": "Juno commissions the destruction of Athamas and Ino through madness.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tisiphone",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Madness of Ino and Athamas",
+   "note": "Juno commissions Tisiphone to destroy Athamas and Ino.",
+   "source": "Ovid, Metamorphoses 4.432–511",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "other",
+   "myth": "Destruction of Ino’s household",
+   "note": "Juno enters or invokes Proserpina’s infernal realm against Ino’s household.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sleep",
+   "other_aliases": [
+    "Hypnos"
+   ],
+   "kind": "deceived",
+   "myth": "Deception of Zeus",
+   "note": "Greek Hera’s deception of Zeus employs Sleep in Latin Homeric reception.",
+   "source": "Latin Homeric reception",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [
+    "Nyx"
+   ],
+   "kind": "shared_myth",
+   "myth": "Deception of Zeus",
+   "note": "Night appears with Juno in Roman reception of Hera’s deception of Zeus.",
+   "source": "Latin Homeric reception",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Protection of Thetis",
+   "note": "Roman epic allusion preserves traditions in which Juno protects or fosters Thetis.",
+   "source": "Roman epic allusion",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marriage traditions of Thetis",
+   "note": "Juno participates in traditions concerning Thetis’ marriage.",
+   "source": "Roman epic allusion",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Venus seeks Psyche",
+   "note": "Juno declines to shelter Psyche because she will not openly oppose Venus.",
+   "source": "Apuleius, Metamorphoses 5.31",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanit",
+   "other_aliases": [
+    "Caelestis",
+    "Iuno Caelestis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman African religion identifies Punic Tanit as Juno Caelestis.",
+   "source": "Imperial inscriptions and Carthage cult",
+   "date": "imperial era",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Evocatio from Veii",
+   "note": "Roman tradition identifies Veii’s Uni-like sovereign goddess as Juno Regina.",
+   "source": "Livy 5.21–23",
+   "date": "c. 27 BCE–17 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Evocatio from Veii",
+   "note": "The Veientine goddess consents to transfer from conquered Veii to Rome.",
+   "source": "Livy 5.21–23",
+   "date": "c. 27 BCE–17 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Latin literary culture progressively equates Juno with Hera.",
+   "source": "Greek-Latin literary culture",
+   "date": "Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Capitoline triad",
+   "note": "Juno shares official Capitoline cult with Jupiter and Minerva.",
+   "source": "Roman inscriptions and Capitolia",
+   "date": "Republic onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter Dolichenus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Imperial military dedications sometimes pair Juno Regina with Jupiter Dolichenus as consort.",
+   "source": "Provincial military dedications",
+   "date": "imperial era",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "shared_myth",
+   "myth": "Carlisle state-pantheon dedication",
+   "note": "A Carlisle dedication lists Juno with Mars and other state gods.",
+   "source": "RIB 3460",
+   "date": "213–222 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Victory",
+   "other_aliases": [
+    "Victoria"
+   ],
+   "kind": "shared_myth",
+   "myth": "Carlisle state-pantheon dedication",
+   "note": "A Carlisle dedication lists Juno with Victory and other state gods.",
+   "source": "RIB 3460",
+   "date": "213–222 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [
+    "Inuus",
+    "Lupercus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Roman fertility crisis",
+   "note": "Ovid links Juno Lucina to a fertility rite otherwise associated with Faunus.",
+   "source": "Ovid, Fasti 2.425–452",
+   "date": "c. 2–8 CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

@@ -1,0 +1,1369 @@
+{
+ "folder": "iberian",
+ "gods": [
+  "aker_basque",
+  "anjana",
+  "ataecina",
+  "bandua",
+  "basajaun",
+  "busgosu",
+  "cuelebre",
+  "eguzki_amandrea",
+  "endovelicus",
+  "gaueko",
+  "herensuge",
+  "ilargi_amandrea",
+  "jentilak",
+  "lamiak",
+  "mari",
+  "meigas",
+  "mouras",
+  "nuberu",
+  "ojancanu",
+  "olentzero",
+  "santa_compana",
+  "sugaar",
+  "tartalo",
+  "trasgu",
+  "xana"
+ ],
+ "relations": [
+  {
+   "a": "anjana",
+   "b": "ojancanu",
+   "kind": "fought",
+   "myth": "Pursuit of the Anjanas",
+   "note": "He pursues the Anjanas, but they evade capture by becoming invisible.",
+   "source": "Llano, “El Ojáncano,” Rabel",
+   "date": "1934",
+   "tier": "attested",
+   "stated_by": [
+    "ojancanu"
+   ]
+  },
+  {
+   "a": "anjana",
+   "b": "ojancanu",
+   "kind": "other",
+   "myth": "The daily works of the Anjanas",
+   "note": "Anjanas repair natural damage caused by Ojáncanos and embody their moral opposite.",
+   "source": "Llano, Las anjanas and Rabel",
+   "date": "1931–1934",
+   "tier": "canonical",
+   "stated_by": [
+    "anjana"
+   ]
+  },
+  {
+   "a": "anjana",
+   "b": "ojancanu",
+   "kind": "other",
+   "myth": "",
+   "note": "Later systematizations contrast the beneficent Anjana with the destructive female ogress.",
+   "source": "Later Cantabrian systematizations",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "anjana"
+   ]
+  },
+  {
+   "a": "anjana",
+   "b": "xana",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern regional mythographies present the Cantabrian Anjana as the Xana's counterpart.",
+   "source": "Modern regional mythographies",
+   "date": "20th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "xana"
+   ]
+  },
+  {
+   "a": "basajaun",
+   "b": "busgosu",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Llano argued writers imported and reshaped Basajaun as the Busgosu.",
+   "source": "Llano, Del folklore asturiano",
+   "date": "1922",
+   "tier": "modern",
+   "stated_by": [
+    "busgosu"
+   ]
+  },
+  {
+   "a": "basajaun",
+   "b": "gaueko",
+   "kind": "identified_with",
+   "myth": "Inhurria daughter’s nocturnal abduction",
+   "note": "Basajaun substitutes for or represents Gaueko as the nocturnal abductor.",
+   "source": "Lower Navarre/Beyrie oral versions summarized by Barandiarán",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gaueko"
+   ]
+  },
+  {
+   "a": "cuelebre",
+   "b": "xana",
+   "kind": "other",
+   "myth": "Angry xanas become cuélebres",
+   "note": "A literary fiction depicts angry xanas transforming themselves into cuélebres.",
+   "source": "1993 literary fiction",
+   "date": "1993",
+   "tier": "late_accretion",
+   "stated_by": [
+    "cuelebre"
+   ]
+  },
+  {
+   "a": "cuelebre",
+   "b": "xana",
+   "kind": "other",
+   "myth": "Captive Xana and cuélebre",
+   "note": "The cuélebre guards treasure and imprisons an enchanted Xana in later syntheses.",
+   "source": "Asturian folklore and later systematizations",
+   "date": "20th century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "xana"
+   ]
+  },
+  {
+   "a": "cuelebre",
+   "b": "xana",
+   "kind": "served",
+   "myth": "Guardians of the xanas’ subterranean riches",
+   "note": "Cuélebres guard the xanas’ palaces and riches from mortal access.",
+   "source": "Arias Miranda, “Apuntes…”",
+   "date": "1 November 1862",
+   "tier": "attested",
+   "stated_by": [
+    "cuelebre"
+   ]
+  },
+  {
+   "a": "eguzki_amandrea",
+   "b": "ilargi_amandrea",
+   "kind": "sibling_of",
+   "myth": "The two daughters of Earth",
+   "note": "Later systematic accounts represent the female Moon as Eguzki's sister.",
+   "source": "Modern mythology accounts",
+   "date": "late twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "eguzki_amandrea"
+   ]
+  },
+  {
+   "a": "eguzki_amandrea",
+   "b": "mari",
+   "kind": "child_of",
+   "myth": "The sunset return",
+   "note": "Some modern accounts make Mari Eguzki's mother, often by identifying Mari with Earth or Amalur.",
+   "source": "Modern mythology retellings",
+   "date": "late twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "eguzki_amandrea"
+   ]
+  },
+  {
+   "a": "gaueko",
+   "b": "jentilak",
+   "kind": "served_by",
+   "myth": "Abduction of Kattalin of Elaunde",
+   "note": "Jentilak abduct Kattalin and proclaim Gaueko’s night-rule as his interpreted instruments.",
+   "source": "Barandiarán, Eusko-Folklore no. 69",
+   "date": "1926",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gaueko"
+   ]
+  },
+  {
+   "a": "herensuge",
+   "b": "sugaar",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Folklorists proposed equation or motif-transfer between the two serpentine beings.",
+   "source": "Barandiarán’s twentieth-century synthesis",
+   "date": "twentieth century",
+   "tier": "syncretism",
+   "stated_by": [
+    "herensuge",
+    "sugaar"
+   ]
+  },
+  {
+   "a": "herensuge",
+   "b": "tartalo",
+   "kind": "allied",
+   "myth": "The Grateful Tartaro and the Heren-Suge",
+   "note": "Tartalo equips and advises Petit Yorge to defeat Heren-Suge.",
+   "source": "Webster, Basque Legends",
+   "date": "1877",
+   "tier": "attested",
+   "stated_by": [
+    "tartalo"
+   ]
+  },
+  {
+   "a": "herensuge",
+   "b": "tartalo",
+   "kind": "shared_myth",
+   "myth": "The Grateful Tartaro and the Heren-Suge",
+   "note": "Tartaro helps equip the hero who later kills Herensuge; they never interact directly.",
+   "source": "Webster, The Grateful Tartaro and the Heren-Suge",
+   "date": "1877",
+   "tier": "attested",
+   "stated_by": [
+    "herensuge"
+   ]
+  },
+  {
+   "a": "jentilak",
+   "b": "olentzero",
+   "kind": "identified_with",
+   "myth": "Olentzero as the surviving Jentil",
+   "note": "Barandiarán identified the survivor who announces Christ’s birth with Olentzero.",
+   "source": "Barandiarán’s synthesized Jentil tradition",
+   "date": "1956–1970s",
+   "tier": "modern",
+   "stated_by": [
+    "jentilak"
+   ]
+  },
+  {
+   "a": "jentilak",
+   "b": "olentzero",
+   "kind": "shared_myth",
+   "myth": "The last of the jentilak",
+   "note": "Later systematization identifies Olentzero as the lone jentil survivor who announces Kixmi.",
+   "source": "Barandiarán-related Kixmi retellings",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "olentzero"
+   ]
+  },
+  {
+   "a": "lamiak",
+   "b": "mari",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some Souletin traditions describe maide as the husbands of lamias.",
+   "source": "Barandiarán’s collected traditions",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "lamiak"
+   ]
+  },
+  {
+   "a": "lamiak",
+   "b": "mari",
+   "kind": "shared_myth",
+   "myth": "Lamiako Maskarada",
+   "note": "Modern pageantry places Mari and the lamiak together in a festive drama.",
+   "source": "Lamiako Maskarada history",
+   "date": "1978 onward",
+   "tier": "modern",
+   "stated_by": [
+    "lamiak"
+   ]
+  },
+  {
+   "a": "lamiak",
+   "b": "sugaar",
+   "kind": "shared_myth",
+   "myth": "Lamiako Maskarada",
+   "note": "Modern mythological pageantry presents Sugaar and the lamiak as separate characters.",
+   "source": "Lamiako Maskarada history",
+   "date": "1978 onward",
+   "tier": "modern",
+   "stated_by": [
+    "lamiak"
+   ]
+  },
+  {
+   "a": "lamiak",
+   "b": "xana",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Caro Baroja compares Basque lamia stories with corresponding Asturian Xana traditions.",
+   "source": "Caro Baroja comparative writings",
+   "date": "mid-20th century",
+   "tier": "syncretism",
+   "stated_by": [
+    "xana"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "consort_of",
+   "myth": "Mari and Maju meet on Fridays",
+   "note": "Mari’s husband visits her; their union produces violent rain and hail.",
+   "source": "Azkoitia and Zarautz oral traditions",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "mari"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "consort_of",
+   "myth": "Mari and Sugaar cause storms",
+   "note": "The serpent-like Sugaar is Mari’s husband; their meeting causes storms.",
+   "source": "Goierri and Azkoitia-region testimony",
+   "date": "twentieth-century publication",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mari"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Maju is explicitly described as Mari's husband in Azkoitia tradition.",
+   "source": "Azkoitia oral report; Barandiarán synthesis",
+   "date": "published 1960/1972",
+   "tier": "attested",
+   "stated_by": [
+    "sugaar"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "served_by",
+   "myth": "Maju combs Mari’s hair",
+   "note": "Maju visits Mari on Friday afternoons and combs her hair.",
+   "source": "Zarautz oral tradition",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mari"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "served_by",
+   "myth": "Friday hair-combing visit",
+   "note": "Maju visits Mari on Friday afternoons to comb her hair.",
+   "source": "Zarautz oral report; Barandiarán synthesis",
+   "date": "published 1972",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sugaar"
+   ]
+  },
+  {
+   "a": "mari",
+   "b": "sugaar",
+   "kind": "shared_myth",
+   "myth": "Friday union and violent storm",
+   "note": "Maju meets Mari on Fridays, and their union produces a violent storm.",
+   "source": "Azkoitia oral report; Barandiarán synthesis",
+   "date": "published 1960/1972",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sugaar"
+   ]
+  },
+  {
+   "a": "meigas",
+   "b": "santa_compana",
+   "kind": "shared_myth",
+   "myth": "Meigas and Santa Compaña share supernatural imagery",
+   "note": "They appear together in modern imagery and the queimada text without a stable narrative relation.",
+   "source": "Folklore collections; queimada text",
+   "date": "1967/1974 and later",
+   "tier": "modern",
+   "stated_by": [
+    "meigas"
+   ]
+  },
+  {
+   "a": "mouras",
+   "b": "xana",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Galician lexicography treats the moura encantada as the Xana's regional equivalent.",
+   "source": "Real Academia Galega",
+   "date": "modern",
+   "tier": "syncretism",
+   "stated_by": [
+    "xana"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Aherbelste": [
+   {
+    "stated_by": "aker_basque",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship proposes Aherbelste as Akerbeltz’s linguistic predecessor, but historical identity remains unproved.",
+    "source": "Aquitanian-Basque linguistic scholarship",
+    "date": "late nineteenth century onward",
+    "tier": "modern"
+   }
+  ],
+  "Akerbeltz": [
+   {
+    "stated_by": "mari",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Modern retellings sometimes portray Akerbeltz as Mari’s servant.",
+    "source": "Modern popular and neopagan retellings",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "mari",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Modern retellings sometimes portray Akerbeltz as Mari’s consort.",
+    "source": "Modern popular and neopagan retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Ama Lur": [
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later mythographic synthesis presents Earth as Ilargi’s mother.",
+    "source": "Barandiarán’s mythographic syntheses",
+    "date": "1960–1972",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "created_by",
+    "myth": "Earth creates Moon to protect humans from nocturnal beings",
+    "note": "Expanded modern cosmogony says Earth deliberately created Ilargi as protection.",
+    "source": "Later popular retellings",
+    "date": "late 20th–21st centuries",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "shared_myth",
+    "myth": "Moon returns nightly into Earth after crossing the sky",
+    "note": "Later synthesis extends the celestial earth-return motif to Ilargi.",
+    "source": "Barandiarán’s mythographic syntheses",
+    "date": "1960–1972",
+    "tier": "late_accretion"
+   }
+  ],
+  "Amalur": [
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "child_of",
+    "myth": "The two daughters of Earth",
+    "note": "Modern accounts present Eguzki and Ilargi as daughters of Amalur.",
+    "source": "Modern mythology retellings",
+    "date": "late twentieth century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "created_by",
+    "myth": "Amalur creation myth",
+    "note": "In the modern synthetic legend, Amalur creates Eguzki to repel nocturnal beings.",
+    "source": "Recent popular retellings",
+    "date": "late 20th–21st century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "mari",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern philosophical and popular literature identifies Mari with Mother Earth, Amalur.",
+    "source": "Philosophical and popular literature",
+    "date": "twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Andobellicus": [
+   {
+    "stated_by": "endovelicus",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Name similarity prompted a disputed theory of identity or related local hypostases.",
+    "source": "Modern linguistic reconstruction",
+    "date": "",
+    "tier": "modern"
+   }
+  ],
+  "Atarrabi": [
+   {
+    "stated_by": "mari",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some versions make the beneficent guardian Atarrabi Mari’s child.",
+    "source": "Sara and related traditions",
+    "date": "twentieth-century publication",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sugaar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Modern mythographies call Atarrabi Sugaar's son, but early localized testimony is unverified.",
+    "source": "Modern mythographic genealogies",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Atto": [
+   {
+    "stated_by": "sugaar",
+    "kind": "shared_myth",
+    "myth": "Atto travels with Sugaar",
+    "note": "Atto journeys with Sugaar through Euskal Herria in a children's story.",
+    "source": "Atto eta Sugaar",
+    "date": "2019",
+    "tier": "modern"
+   }
+  ],
+  "Axular": [
+   {
+    "stated_by": "mari",
+    "kind": "shared_myth",
+    "myth": "The cave-school cycle",
+    "note": "Axular sometimes replaces or accompanies Atarrabi among the cave-school companions.",
+    "source": "Collected folklore",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ayalgas": [
+   {
+    "stated_by": "cuelebre",
+    "kind": "served",
+    "myth": "Guardians of ayalgas’ enchanted palaces",
+    "note": "Cuélebres block access to the ayalgas’ fabulous wealth and palaces.",
+    "source": "Laverde Ruiz, “Mitología asturiana”",
+    "date": "2 November 1862",
+    "tier": "attested"
+   }
+  ],
+  "Basandere": [
+   {
+    "stated_by": "basajaun",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Basandere is repeatedly described as Basajaun's wife and supernatural accomplice.",
+    "source": "Webster, Basque Legends",
+    "date": "1877",
+    "tier": "attested"
+   }
+  ],
+  "Berstuk": [
+   {
+    "stated_by": "busgosu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Menéndez Pidal included Berstuk among Slavic beings equated with Asturian Busgosos.",
+    "source": "Menéndez Pidal, Poesía popular",
+    "date": "1885",
+    "tier": "syncretism"
+   }
+  ],
+  "Candamo": [
+   {
+    "stated_by": "busgosu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Popular synthesis alleges that the Asturian horned god evolved into Busgosu.",
+    "source": "Modern popular synthesis",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern summaries describe the Moon as God’s face.",
+    "source": "Modern Basque mythographic websites",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Cosus": [
+   {
+    "stated_by": "bandua",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship proposes both as regional names for similar protective or martial power.",
+    "source": "Olivares Pedreño distributional studies",
+    "date": "1990s–2000s",
+    "tier": "modern"
+   }
+  ],
+  "Culebro": [
+   {
+    "stated_by": "sugaar",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later interpretation identifies Sugaar with the medieval Biscayan serpent-demon Culebro.",
+    "source": "Crónica de Vizcaya; later interpretation",
+    "date": "1454; modern identification",
+    "tier": "syncretism"
+   }
+  ],
+  "Diañu Burlón": [
+   {
+    "stated_by": "trasgu",
+    "kind": "other",
+    "myth": "",
+    "note": "This mischievous devil overlaps with the Trasgu, especially outdoors, but early collectors distinguish them.",
+    "source": "Asturian folklore collections",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Duende": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Early-modern lexicography treats duende as an ordinary Spanish equivalent and umbrella category.",
+    "source": "Landucci, Dictionarium linguae Cantabricae",
+    "date": "1562",
+    "tier": "attested"
+   }
+  ],
+  "Earth": [
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "child_of",
+    "myth": "The sunset return",
+    "note": "Barandiarán interpreted Earth as the mother to whom Eguzki returns nightly.",
+    "source": "Barandiarán, Folklore vasco; later dictionary",
+    "date": "1922; later synthesis",
+    "tier": "modern"
+   }
+  ],
+  "Eate": [
+   {
+    "stated_by": "mari",
+    "kind": "served_by",
+    "myth": "Mari directs storms through Eate",
+    "note": "Eate moves destructive weather as a subordinate associated with Mari.",
+    "source": "Twentieth-century folklore collection",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Eguzki": [
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Modern handbooks commonly present Moon and Sun as Earth’s sister daughters.",
+    "source": "Later Basque mythology handbooks",
+    "date": "20th century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Eluauso": [
+   {
+    "stated_by": "mari",
+    "kind": "served_by",
+    "myth": "Mari directs storms through Eluauso",
+    "note": "Eluauso is named among Mari’s storm-directing subordinate beings.",
+    "source": "Barandiarán’s collected material",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Etxajaun": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Landucci presents the Basque household being as a translation-equivalent of drasgo or duende.",
+    "source": "Landucci, Dictionarium linguae Cantabricae",
+    "date": "1562",
+    "tier": "syncretism"
+   }
+  ],
+  "Guirrio": [
+   {
+    "stated_by": "busgosu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Cabal linked masked Guirrio traditions with the Busgosu and Faun pattern.",
+    "source": "Cabal, Busgoso newspaper interventions",
+    "date": "1926",
+    "tier": "modern"
+   }
+  ],
+  "Gurmantes": [
+   {
+    "stated_by": "cuelebre",
+    "kind": "fought",
+    "myth": "Cabrales hailstorm capture",
+    "note": "Gurmantes capture a cuélebre while a hailstorm is expected.",
+    "source": "Later Asturian folklore publications",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Haxerihargaitz": [
+   {
+    "stated_by": "basajaun",
+    "kind": "theft",
+    "myth": "The theft of marvellous golden objects",
+    "note": "The trickster Haxerihargaitz steals wondrous golden possessions from Basajauns.",
+    "source": "Cerquand, Légendes et récits populaires",
+    "date": "1875–1882",
+    "tier": "attested"
+   }
+  ],
+  "Hodei": [
+   {
+    "stated_by": "mari",
+    "kind": "killed_by",
+    "myth": "Hodei kills Mari",
+    "note": "Internet-era summaries claim the rival Hodei killed Mari; ethnographic support is absent.",
+    "source": "Internet-era retelling",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Horned God": [
+   {
+    "stated_by": "aker_basque",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern witchcraft and occult reception treat Akerbeltz as an analogue of the Horned God.",
+    "source": "Modern occult and neopagan discourse",
+    "date": "late twentieth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Jaun Zuria": [
+   {
+    "stated_by": "sugaar",
+    "kind": "parent_of",
+    "myth": "Culebro and the Scottish princess",
+    "note": "Modern retellings make Sugaar the founder's father by identifying him with Culebro.",
+    "source": "Crónica de Vizcaya; modern retellings",
+    "date": "1454; modern identification",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jayanes": [
+   {
+    "stated_by": "cuelebre",
+    "kind": "allied",
+    "myth": "Joint guardians of the xanas’ riches",
+    "note": "Cuélebres and jayanes jointly guard the subterranean riches of the xanas.",
+    "source": "Arias Miranda, “Apuntes…”",
+    "date": "1 November 1862",
+    "tier": "attested"
+   }
+  ],
+  "Jentil": [
+   {
+    "stated_by": "tartalo",
+    "kind": "identified_with",
+    "myth": "The Gentil of Muskia",
+    "note": "A jentil occupies Tartalo's role in a speaking-ring escape variant.",
+    "source": "Auzmendi account recorded by Barandiarán",
+    "date": "1910",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus": [
+   {
+    "stated_by": "olentzero",
+    "kind": "other",
+    "myth": "The charcoal burner announces Jesus’s birth",
+    "note": "Olentzero returns from the mountain and proclaims that Jesus has been born.",
+    "source": "Aita Donostia Christmas-song corpus",
+    "date": "early twentieth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "olentzero",
+    "kind": "other",
+    "myth": "The last jentil announces Kixmi",
+    "note": "Later retellings make Olentzero the surviving jentil who spreads news of Christ’s arrival.",
+    "source": "Barandiarán-related Kixmi retellings",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "aker_basque",
+    "kind": "other",
+    "myth": "Witches’ sabbath",
+    "note": "As the sabbath Devil, Aker allegedly instructs initiates not to utter Jesus’s name.",
+    "source": "Logroño auto relation",
+    "date": "1610/printed 1611",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jentilak",
+    "kind": "shared_myth",
+    "myth": "Kixmi’s birth ends the Jentil age",
+    "note": "Their blind elder recognizes a portent of Christ’s birth and foretells their destruction.",
+    "source": "Barandiarán’s Ataun and Aralar traditions",
+    "date": "early twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "meigas",
+    "kind": "shared_myth",
+    "myth": "Christ's baptism is invoked in a healing formula",
+    "note": "Ana de Castro invoked Christ's baptism in the Jordan while performing a cure.",
+    "source": "Ana de Castro inquisitorial record",
+    "date": "1626",
+    "tier": "attested"
+   }
+  ],
+  "Kobold": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Folklorists compare the Trasgu with Germanic kobolds while proposing speculative origin theories.",
+    "source": "De Llano, Del folklore asturiano",
+    "date": "1922",
+    "tier": "late_accretion"
+   }
+  ],
+  "Lutin": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Oudin translates trasgo through French household-spirit terms lutin and esprit follet.",
+    "source": "César Oudin, dictionary",
+    "date": "early modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Mari Domingi": [
+   {
+    "stated_by": "olentzero",
+    "kind": "allied",
+    "myth": "Modern Christmas gift-bringing",
+    "note": "Mari Domingi works alongside Olentzero as an autonomous co-gift-bringer.",
+    "source": "Antiguako Bagera initiative",
+    "date": "1994",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "olentzero",
+    "kind": "consort_of",
+    "myth": "Modern companion portrayal",
+    "note": "Later portrayals sometimes call her his wife or girlfriend, controversially and without traditional basis.",
+    "source": "Later ikastola literature",
+    "date": "after 1994",
+    "tier": "modern"
+   }
+  ],
+  "Marije Kobako": [
+   {
+    "stated_by": "mari",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Markina tradition calls Marije Kobako the sister of the Lady of Anboto.",
+    "source": "Markina oral tradition",
+    "date": "twentieth-century collection",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mari",
+    "kind": "shared_myth",
+    "myth": "The sister-Ladies visit each other",
+    "note": "Marije Kobako and the Lady of Anboto travel to visit one another.",
+    "source": "Markina oral tradition",
+    "date": "twentieth-century collection",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mikelats": [
+   {
+    "stated_by": "mari",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some accounts make the destructive storm-maker Mikelats Mari’s child.",
+    "source": "Oral material published by Barandiarán",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sugaar",
+    "kind": "other",
+    "myth": "Supernatural helper and punisher tale",
+    "note": "Mikelats replaces Sugoi in an analogous Sara version; they never meet.",
+    "source": "Eusko-Folklore and Axular'en itzala",
+    "date": "1921 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sugaar",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Modern mythographies call Mikelats Sugaar's son, but early localized testimony is unverified.",
+    "source": "Modern mythographic genealogies",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Musgosu": [
+   {
+    "stated_by": "busgosu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later regional syntheses increasingly conflate the Cantabrian woodland helper with Busgosu.",
+    "source": "Twentieth-century regional synthesis",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nuberos": [
+   {
+    "stated_by": "cuelebre",
+    "kind": "fought",
+    "myth": "Valle Baju pothole blood-drawing",
+    "note": "Men called nuberos enter potholes and draw blood from cuélebres.",
+    "source": "Later Asturian folklore publications",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Odei": [
+   {
+    "stated_by": "mari",
+    "kind": "served_by",
+    "myth": "Mari directs storms through Odei",
+    "note": "Odei directs clouds or weather on Mari’s behalf in Barandiarán’s synthesis.",
+    "source": "Twentieth-century folklore collection",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Polkan": [
+   {
+    "stated_by": "busgosu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Menéndez Pidal equated Polkans with the Busgosos of Asturias.",
+    "source": "Menéndez Pidal, Poesía popular",
+    "date": "1885",
+    "tier": "syncretism"
+   }
+  ],
+  "Providence": [
+   {
+    "stated_by": "mouras",
+    "kind": "shared_myth",
+    "myth": "Divine court for Beatriz’s voyage",
+    "note": "Providence initiates the divine arrangements within the drama containing the Moura Encantada.",
+    "source": "Gil Vicente, Cortes de Júpiter",
+    "date": "1521",
+    "tier": "attested"
+   }
+  ],
+  "Ramidreju": [
+   {
+    "stated_by": "anjana",
+    "kind": "other",
+    "myth": "The Ramidreju's healing gall",
+    "note": "Anjanas drink its gall, which cures disease and reveals buried treasure.",
+    "source": "Viaña story attributed to Llano",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Robin Goodfellow": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "An early-modern bilingual dictionary uses Robin Goodfellow and hobgoblin as English equivalents.",
+    "source": "Percivale-Minsheu lexicographic tradition",
+    "date": "early modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Anthony": [
+   {
+    "stated_by": "basajaun",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Hartsuaga proposes Saint Anthony as a Christianized successor to the livestock-protecting Basajaun.",
+    "source": "Hartsuaga, Basajaun",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Clare": [
+   {
+    "stated_by": "ilargi_amandrea",
+    "kind": "identified_with",
+    "myth": "Lunar greeting becomes a Christianized Saint Clare song",
+    "note": "At Ondarroa, Saint Clare substitutes for Moon in the greeting formula.",
+    "source": "Barandiarán, La religion des anciens Basques",
+    "date": "1923",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint John": [
+   {
+    "stated_by": "meigas",
+    "kind": "shared_myth",
+    "myth": "John appears in a formula against magical affliction",
+    "note": "Saint John appears in Ana de Castro's cure and later protective seasonal folklore.",
+    "source": "Inquisitorial record; later folklore",
+    "date": "1626 and later",
+    "tier": "attested"
+   }
+  ],
+  "Saint Marina": [
+   {
+    "stated_by": "mari",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Folklorists propose Saint Marina as a Christianized survival or analogue of Mari.",
+    "source": "Modern folkloristic interpretation",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Saint Peter": [
+   {
+    "stated_by": "meigas",
+    "kind": "shared_myth",
+    "myth": "Peter accompanies Christ in a healing formula",
+    "note": "Ana de Castro's formula describes Saint Peter holding Christ by the hand.",
+    "source": "Ana de Castro inquisitorial record",
+    "date": "1626",
+    "tier": "attested"
+   }
+  ],
+  "San Martín Txiki": [
+   {
+    "stated_by": "basajaun",
+    "kind": "contest",
+    "myth": "Leap across the Basajauns' wheat heap",
+    "note": "San Martín challenges the Basajauns to leap across their grain heap.",
+    "source": "Barandiarán and Azkue collections",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "theft",
+    "myth": "The theft of wheat at Muskia",
+    "note": "San Martín steals the Basajauns' wheat by filling his broad sandals.",
+    "source": "Barandiarán and Azkue collections",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "deceived",
+    "myth": "The stolen sowing formula",
+    "note": "San Martín secretly overhears a Basajaun's song explaining when crops should be sown.",
+    "source": "Barandiarán and Azkue collections",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "deceived",
+    "myth": "The invention of the saw",
+    "note": "San Martín's false claim induces Basajaun to reveal the chestnut-leaf model.",
+    "source": "Barandiarán folklore synthesis",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "taught",
+    "myth": "Basajaun sets the saw teeth",
+    "note": "Trying to spoil the saw, Basajaun accidentally improves it by alternating its teeth.",
+    "source": "Barandiarán folklore synthesis",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "deceived",
+    "myth": "The secret of welding iron",
+    "note": "San Martín tricks or overhears Basajaun into revealing a welding or foundry technique.",
+    "source": "Satrústegi and Etxebarria collections",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "basajaun",
+    "kind": "deceived",
+    "myth": "The secret of the watermill",
+    "note": "San Martín falsely claims success, prompting Basajaun to reveal the missing mill component.",
+    "source": "Barandiarán folklore synthesis",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Satyrs": [
+   {
+    "stated_by": "busgosu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "His goatlike body and pursuit of women prompted comparison with satyrs.",
+    "source": "Jove, Mitos y supersticiones de Asturias",
+    "date": "1903",
+    "tier": "syncretism"
+   }
+  ],
+  "Sorginak": [
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "other",
+    "myth": "The eguzkilore protection cycle",
+    "note": "Eguzki's light or floral representation blocks, immobilizes, or repels supernatural witches.",
+    "source": "Eusko-Folklore field reports",
+    "date": "1917–1925",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "gaueko",
+    "kind": "shared_myth",
+    "myth": "Baraibar water-fetching abduction",
+    "note": "Witches seize María and recite the formula assigning night to night-beings.",
+    "source": "Sukaldetxiki oral testimony",
+    "date": "30 December 1965",
+    "tier": "regional_variant"
+   }
+  ],
+  "Suarra": [
+   {
+    "stated_by": "mari",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "This Betelu serpent figure was compared with Sugaar, Mari’s partner.",
+    "source": "Twentieth-century ethnography",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sugoi": [
+   {
+    "stated_by": "mari",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Collectors equated this Dima serpent being with Sugaar, Mari’s partner.",
+    "source": "Barandiarán’s synthesis",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sumiciu": [
+   {
+    "stated_by": "trasgu",
+    "kind": "other",
+    "myth": "",
+    "note": "Cabal treats Sumiciu as a specialized Trasgu, while de Llano questions its independent personification.",
+    "source": "Cabal, La mitología asturiana",
+    "date": "1925–1928",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Virgin Mary": [
+   {
+    "stated_by": "meigas",
+    "kind": "shared_myth",
+    "myth": "Mary is invoked in cures against meigallo",
+    "note": "Healing formulas invoke Mary, while O Corpiño pilgrims seek her intercession against meigallo.",
+    "source": "Healing formulas and pilgrimage practice",
+    "date": "early-modern and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Trasno": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Trasno is the Galician and western Asturian regional form of the household-spirit complex.",
+    "source": "Galician lexicography and folklore",
+    "date": "modern folklore record",
+    "tier": "regional_variant"
+   }
+  ],
+  "Urtzi": [
+   {
+    "stated_by": "mari",
+    "kind": "contest",
+    "myth": "",
+    "note": "Modern mythographic systems sometimes place Mari in conflict with this sky god.",
+    "source": "Modern mythographic systems",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Vaelicus": [
+   {
+    "stated_by": "endovelicus",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Proposed as a linguistically related or identical regional deity; the identity remains disputed.",
+    "source": "Modern linguistic reconstruction",
+    "date": "",
+    "tier": "modern"
+   }
+  ],
+  "Vellicus": [
+   {
+    "stated_by": "endovelicus",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Name similarity prompted a disputed theory of identity or related local hypostases.",
+    "source": "Modern linguistic reconstruction",
+    "date": "",
+    "tier": "modern"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "aker_basque",
+    "kind": "other",
+    "myth": "Witches’ sabbath",
+    "note": "As the sabbath Devil, Aker allegedly requires initiates to renounce or avoid invoking the Virgin.",
+    "source": "Logroño auto relation",
+    "date": "1610/1611",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "child_of",
+    "myth": "The sunset return",
+    "note": "Local Christian explanations identify the Virgin as Eguzki's mother and nightly destination.",
+    "source": "Barandiarán's later synthesis",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "mari",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Mari is interpreted as the Virgin’s pre-Christian counterpart or Christianized substitute.",
+    "source": "Christian environment and modern theory",
+    "date": "medieval to modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Vosegus": [
+   {
+    "stated_by": "busgosu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Modern speculation proposes Vosegus as a name or functional ancestor.",
+    "source": "Modern etymological speculation",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "enchanted maiden": [
+   {
+    "stated_by": "anjana",
+    "kind": "rescued",
+    "myth": "The Anjana beneath the river pool",
+    "note": "The Anjana gives a woodcutter instructions for releasing the maiden from a tree.",
+    "source": "Jovita Coloma's Palencia notebook",
+    "date": "1930",
+    "tier": "attested"
+   }
+  ],
+  "incubus": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Nebrija translates the domestic drasgo with the classical demonological term incubus.",
+    "source": "Nebrija, vocabulary",
+    "date": "c. 1490s",
+    "tier": "attested"
+   }
+  ],
+  "lamina of Mondarrain": [
+   {
+    "stated_by": "eguzki_amandrea",
+    "kind": "other",
+    "myth": "The Sun rescues the shepherd",
+    "note": "Eguzki's first ray halts the lamina's pursuit and forces her into her cave.",
+    "source": "Ezpeleta oral tradition, Barandiarán",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "lemures": [
+   {
+    "stated_by": "trasgu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Learned writers compare the Trasgu with classical lemures; no narrative encounter is recorded.",
+    "source": "De Llano, Del folklore asturiano",
+    "date": "1922",
+    "tier": "late_accretion"
+   }
+  ],
+  "nymph": [
+   {
+    "stated_by": "xana",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Writers classify the Xana by analogy with classical water nymphs and ondines.",
+    "source": "Nineteenth- and twentieth-century writers",
+    "date": "19th–20th centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "olano": [
+   {
+    "stated_by": "tartalo",
+    "kind": "served_by",
+    "myth": "Variant involving three Tartaros",
+    "note": "Three intelligent dog-like olano serve as extraordinary messenger-beasts.",
+    "source": "Webster, Basque Legends",
+    "date": "1877",
+    "tier": "attested"
+   }
+  ],
+  "xanín": [
+   {
+    "stated_by": "xana",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Xanas bear xaninos, sometimes exchanging them for human infants.",
+    "source": "De Llano, Del folklore asturiano",
+    "date": "1922",
+    "tier": "attested"
+   }
+  ]
+ }
+}

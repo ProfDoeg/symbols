@@ -1,0 +1,481 @@
+{
+ "subject": "gilgamesh_deified",
+ "relations": [
+  {
+   "other": "Ninsun",
+   "other_aliases": [
+    "Wild Cow Ninsun"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ninsun is consistently Gilgamesh’s mother in the mature literary tradition.",
+   "source": "Old Babylonian epic; Standard Babylonian Tablets I–III",
+   "date": "eighteenth–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninsun",
+   "other_aliases": [
+    "Wild Cow Ninsun"
+   ],
+   "kind": "allied",
+   "myth": "Ninsun interprets dreams and intercedes for the expedition",
+   "note": "She interprets Gilgamesh’s dreams and petitions Šamaš to protect him.",
+   "source": "Standard Babylonian Tablets I–III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lugalbanda",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The dominant later genealogy makes the deified Lugalbanda Gilgamesh’s father.",
+   "source": "God lists and Babylonian epic genealogy",
+   "date": "Old Babylonian–first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "lillû",
+   "other_aliases": [
+    "phantom",
+    "spirit",
+    "supernatural being"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some King List manuscripts name a lillû as Gilgamesh’s father.",
+   "source": "Sumerian King List manuscripts",
+   "date": "Old Babylonian period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peštur",
+   "other_aliases": [
+    "Pectur"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Sumerian Bull composition calls Peštur Gilgamesh’s little sister.",
+   "source": "Gilgamesh and the Bull of Heaven",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aruru",
+   "other_aliases": [
+    "Bēlet-ilī"
+   ],
+   "kind": "other",
+   "myth": "Creation of Enkidu",
+   "note": "At Anu’s command, Aruru creates Enkidu as Gilgamesh’s equal and check.",
+   "source": "Standard Babylonian Tablet I",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Wrestling at Uruk",
+   "note": "Enkidu blocks Gilgamesh, and the two wrestle before becoming companions.",
+   "source": "Old Babylonian and Standard Babylonian epic",
+   "date": "eighteenth–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cedar Forest expedition",
+   "note": "The companions journey together and defeat and kill Humbaba.",
+   "source": "Sumerian Huwawa; Babylonian Tablets II–V",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Killing the Bull of Heaven",
+   "note": "Gilgamesh and Enkidu jointly kill the divine Bull attacking Uruk.",
+   "source": "Sumerian Bull; Standard Babylonian Tablet VI",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Enkidu descends for the pukku and mēkku",
+   "note": "Enkidu volunteers as Gilgamesh’s servant to retrieve objects from the netherworld.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Enkidu’s death and Gilgamesh’s mourning",
+   "note": "Enkidu’s death causes Gilgamesh’s grief and quest against mortality.",
+   "source": "Standard Babylonian Tablets VII–IX",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pairing among underworld divine figures",
+   "note": "Learned god lists pair Gilgamesh and Enkidu as underworld-related divine figures.",
+   "source": "An = Anum Tablet VI",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Humbaba",
+   "other_aliases": [
+    "Huwawa"
+   ],
+   "kind": "deceived",
+   "myth": "Stratagem against Huwawa’s protective auras",
+   "note": "Gilgamesh offers deceptive gifts or marriages to strip Huwawa’s protections.",
+   "source": "Gilgamesh and Huwawa Versions A–B",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Humbaba",
+   "other_aliases": [
+    "Huwawa"
+   ],
+   "kind": "killed",
+   "myth": "Defeat of the Cedar Forest guardian",
+   "note": "Gilgamesh kills Humbaba with Enkidu despite the guardian’s plea for mercy.",
+   "source": "Sumerian Huwawa; Babylonian Tablets IV–V",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [
+    "Utu"
+   ],
+   "kind": "allied",
+   "myth": "Divine assistance against Humbaba",
+   "note": "Šamaš authorizes the expedition and sends winds that immobilize Humbaba.",
+   "source": "Sumerian Huwawa; Babylonian Tablets III–V",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [
+    "Utu"
+   ],
+   "kind": "allied",
+   "myth": "Divine council over Enkidu",
+   "note": "Šamaš argues in favor of Gilgamesh and Enkidu before the gods.",
+   "source": "Standard Babylonian Tablet VII",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [
+    "Utu"
+   ],
+   "kind": "rescued",
+   "myth": "Release of Enkidu’s shade",
+   "note": "At Enki’s command, Utu opens a fissure and returns Enkidu’s shade.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment after Humbaba’s killing",
+   "note": "Enlil responds angrily to Humbaba’s killing and redistributes the guardian’s auras.",
+   "source": "Gilgamesh and Huwawa",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Divine council after the Bull’s death",
+   "note": "Enlil supports the judgment that one of the two heroes must die.",
+   "source": "Standard Babylonian Tablet VII",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Appeal for Enkidu’s release",
+   "note": "Gilgamesh appeals to Enlil, who does not release Enkidu from below.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Suen",
+   "other_aliases": [
+    "Sîn"
+   ],
+   "kind": "other",
+   "myth": "Appeal for Enkidu’s release",
+   "note": "Gilgamesh appeals to Suen, who does not grant Enkidu’s release.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "allied",
+   "myth": "Release of Enkidu’s shade",
+   "note": "Enki answers Gilgamesh’s appeal and orders Utu to release Enkidu’s shade.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "served",
+   "myth": "Clearing Inana’s ḫalub tree",
+   "note": "Gilgamesh expels its occupants, cuts the tree, and fashions implements for Inana.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "contest",
+   "myth": "Conflict over the Bull of Heaven",
+   "note": "Inana releases the Bull against Uruk; Gilgamesh kills it and insults her.",
+   "source": "Gilgamesh and the Bull of Heaven",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "other",
+   "myth": "Rejection of Ištar’s proposal",
+   "note": "Gilgamesh rejects Ištar’s sexual or marital proposal and recounts her lovers’ fates.",
+   "source": "Standard Babylonian Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bull of Heaven",
+   "other_aliases": [
+    "Gugalanna"
+   ],
+   "kind": "fought",
+   "myth": "Bull of Heaven attacks Uruk",
+   "note": "Gilgamesh and Enkidu battle the divine Bull released against Uruk.",
+   "source": "Sumerian Bull; Standard Babylonian Tablet VI",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bull of Heaven",
+   "other_aliases": [
+    "Gugalanna"
+   ],
+   "kind": "killed",
+   "myth": "Killing the Bull of Heaven",
+   "note": "Gilgamesh and Enkidu kill the Bull after it devastates Uruk.",
+   "source": "Sumerian Bull; Standard Babylonian Tablet VI",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "other",
+   "myth": "Release of the Bull of Heaven",
+   "note": "An gives Inana the Bull whose attack brings Gilgamesh into conflict.",
+   "source": "Sumerian Bull; Standard Babylonian Tablet VI",
+   "date": "Old Babylonian–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "judged_by",
+   "myth": "Divine council after the Bull’s death",
+   "note": "Anu joins the council judging the heroes and deciding Enkidu must die.",
+   "source": "Standard Babylonian Tablet VII",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aya",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ninsun’s prayer for the Cedar expedition",
+   "note": "Aya participates indirectly when Ninsun petitions Šamaš and his wife.",
+   "source": "Standard Babylonian Tablet III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [
+    "Ziusudra"
+   ],
+   "kind": "taught",
+   "myth": "Flood account and lesson on mortality",
+   "note": "The immortal flood survivor recounts the flood and explains mortality to Gilgamesh.",
+   "source": "Old Babylonian antecedents; Standard Tablets X–XI",
+   "date": "eighteenth–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [
+    "Ziusudra"
+   ],
+   "kind": "judged_by",
+   "myth": "The failed sleep test",
+   "note": "Uta-napišti tests Gilgamesh, who fails to remain awake.",
+   "source": "Standard Babylonian Tablet XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [
+    "Ziusudra"
+   ],
+   "kind": "gift",
+   "myth": "Revelation of the rejuvenating plant",
+   "note": "Uta-napišti tells Gilgamesh where to obtain the youth-renewing plant.",
+   "source": "Standard Babylonian Tablet XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "snake",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The rejuvenating plant is stolen",
+   "note": "A snake steals Gilgamesh’s plant while he bathes and sheds its skin.",
+   "source": "Standard Babylonian Tablet XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siduri",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Siduri advises the wandering Gilgamesh",
+   "note": "Siduri counsels Gilgamesh during his search for the immortal flood survivor.",
+   "source": "Old Babylonian Sippar; Standard Tablet X",
+   "date": "eighteenth–late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ur-šanabi",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Crossing the Waters of Death",
+   "note": "Ur-šanabi ferries Gilgamesh across the Waters of Death to Uta-napišti.",
+   "source": "Standard Babylonian Tablet X",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "scorpion-beings",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Passage through the mountains of Māšu",
+   "note": "Gilgamesh encounters the scorpion-beings while seeking the road beyond Māšu.",
+   "source": "Standard Babylonian Tablet IX",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anzud bird",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Clearing the ḫalub tree",
+   "note": "Gilgamesh drives the Anzud bird from Inana’s occupied tree.",
+   "source": "Gilgamesh, Enkidu and the Netherworld",
+   "date": "nineteenth–eighteenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ereškigal",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Gilgamesh’s postmortem judgeship",
+   "note": "Gilgamesh exercises judicial office within the underworld realm ruled by Ereškigal.",
+   "source": "Death of Gilgamesh; god lists",
+   "date": "Old Babylonian–first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Gilgamesh’s place in underworld administration",
+   "note": "Later theology places Gilgamesh’s judicial office within Nergal’s underworld administration.",
+   "source": "God lists and chthonic theology",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint funerary and underworld setting",
+   "note": "Gilgamesh and Dumuzi share chthonic offering contexts without secure direct dialogue.",
+   "source": "Death of Gilgamesh; ritual texts",
+   "date": "Ur III–Old Babylonian",
+   "tier": "attested"
+  },
+  {
+   "other": "Ningishzida",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint funerary and chthonic context",
+   "note": "Gilgamesh and Ningishzida appear together among underworld powers and offerings.",
+   "source": "Death of Gilgamesh; incantation traditions",
+   "date": "Ur III–Old Babylonian",
+   "tier": "attested"
+  },
+  {
+   "other": "Bēlet-ṣēri",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Accounting of the dead",
+   "note": "The underworld scribe shares the Tablet XII setting with Gilgamesh.",
+   "source": "Standard Babylonian Tablet XII tradition",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  }
+ ]
+}

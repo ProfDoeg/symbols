@@ -1,0 +1,305 @@
+{
+ "subject": "gwyn_ap_nudd",
+ "relations": [
+  {
+   "other": "Nudd",
+   "other_aliases": [
+    "Nudd Llaw Ereint"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gwyn is consistently named as Nudd's son.",
+   "source": "Dialogue; Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Lludd Llaw Ereint",
+   "other_aliases": [
+    "Lludd"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogy sometimes identifies or confuses Gwyn's father Nudd with Lludd.",
+   "source": "Later genealogical tradition",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Creiddylad ferch Lludd",
+   "other_aliases": [
+    "Creiddylad"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gwyn calls himself Creiddylad's lover; she is also his contested bride.",
+   "source": "Dialogue; Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Creiddylad ferch Lludd",
+   "other_aliases": [
+    "Creiddylad"
+   ],
+   "kind": "other",
+   "myth": "Abduction of Creiddylad",
+   "note": "Gwyn carries Creiddylad away by force before her union with Gwythyr.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creiddylad ferch Lludd",
+   "other_aliases": [
+    "Creiddylad"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "They become siblings only if the disputed identification of Nudd with Lludd is accepted.",
+   "source": "Comparative genealogical reconstruction",
+   "date": "modern",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gwythyr ap Greidawl",
+   "other_aliases": [
+    "Gwythyr"
+   ],
+   "kind": "fought",
+   "myth": "War for Creiddylad",
+   "note": "Gwyn defeats Gwythyr's army after abducting Creiddylad.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwythyr ap Greidawl",
+   "other_aliases": [
+    "Gwythyr"
+   ],
+   "kind": "contest",
+   "myth": "Annual Calan Mai combat",
+   "note": "Arthur orders both rivals to fight each May Day until Doomsday.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwythyr ap Greidawl",
+   "other_aliases": [
+    "Gwythyr"
+   ],
+   "kind": "allied",
+   "myth": "Counsel concerning Orddu",
+   "note": "The former rivals jointly advise Arthur about confronting Orddu.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Hunt of Twrch Trwyth",
+   "note": "Arthur recruits Gwyn as an indispensable member of the boar hunt.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Arbitration of Creiddylad's abduction",
+   "note": "Arthur subordinates Gwyn, frees his prisoners, and imposes the annual contest.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arthur",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Counsel concerning Orddu",
+   "note": "Arthur consults Gwyn and Gwythyr about who should confront the witch.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Twrch Trwyth",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hunt of Twrch Trwyth",
+   "note": "Gwyn is required for Arthur's hunt of the transformed king and monstrous boar.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orddu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Counsel concerning Orddu",
+   "note": "Gwyn advises Arthur who should confront Orddu; no direct combat occurs.",
+   "source": "Culhwch ac Olwen",
+   "date": "12th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dormarch",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Dormarch is described as Gwyn's finest hound, formerly belonging to Maelgwn.",
+   "source": "Dialogue of Gwyn and Gwyddno",
+   "date": "late 11th–12th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Cŵn Annwn",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Later Welsh poetry associates Gwyn with the supernatural hounds of Annwn.",
+   "source": "Later Welsh poetry",
+   "date": "15th–16th centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gwallog ap Lleenog",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A late genealogical note makes Gwallog Gwyn's brother through a shared mother.",
+   "source": "Peniarth MS 132",
+   "date": "late manuscript note",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caradog Freichfras",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A late genealogical note makes Caradog Gwyn's brother through a shared mother.",
+   "source": "Peniarth MS 132",
+   "date": "late manuscript note",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arawn",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern summaries and neopagan discourse sometimes blend Annwn's two distinct rulers.",
+   "source": "Modern neopagan discourse",
+   "date": "20th–21st centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Fionn mac Cumhaill",
+   "other_aliases": [
+    "Fionn"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparison and practice sometimes blend the cognately named supernatural hunters.",
+   "source": "Modern comparative mythology",
+   "date": "19th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Hades"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "John Rhŷs interpreted Gwyn as a Welsh equivalent of the classical underworld ruler.",
+   "source": "John Rhŷs comparative writings",
+   "date": "1888–91",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cernunnos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Rhŷs and later occultists compared or equated Gwyn with Cernunnos.",
+   "source": "Comparative and occult writings",
+   "date": "19th–20th centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "John Rhŷs proposed Heimdallr as a comparative equivalent of Gwyn.",
+   "source": "John Rhŷs comparative writings",
+   "date": "1888–91",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Robert Graves equated Gwyn with Osiris within a seasonal dying-god system.",
+   "source": "The White Goddess",
+   "date": "1948 and later editions",
+   "tier": "modern"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparative mythology placed Gwyn alongside Horus without premodern evidence.",
+   "source": "Modern comparative mythology",
+   "date": "19th–20th centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparative mythology linked Gwyn with Dionysus as a seasonal dying god.",
+   "source": "Modern comparative mythology",
+   "date": "20th century",
+   "tier": "modern"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparative mythology linked Gwyn with Attis as a seasonal dying god.",
+   "source": "Modern comparative mythology",
+   "date": "20th century",
+   "tier": "modern"
+  },
+  {
+   "other": "Tammuz",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparative mythology linked Gwyn with Tammuz as a seasonal dying god.",
+   "source": "Modern comparative mythology",
+   "date": "20th century",
+   "tier": "modern"
+  },
+  {
+   "other": "Herne",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occult and neopagan interpretations sometimes blend Gwyn with Herne.",
+   "source": "Modern occult discourse",
+   "date": "20th–21st centuries",
+   "tier": "modern"
+  }
+ ]
+}

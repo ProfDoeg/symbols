@@ -1,0 +1,543 @@
+{
+ "subject": "hanuman",
+ "relations": [
+  {
+   "other": "Añjanā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Añjanā is Hanuman’s mother in the mainstream epic genealogy.",
+   "source": "Vālmīki Rāmāyaṇa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kesarī",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kesarī is Añjanā’s husband and Hanuman’s social father.",
+   "source": "Vālmīki Rāmāyaṇa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Wind"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Vāyu is Hanuman’s divine father in mainstream epic tradition.",
+   "source": "Vālmīki Rāmāyaṇa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [
+    "Wind"
+   ],
+   "kind": "identified_with",
+   "myth": "Vāyu’s first major manifestation",
+   "note": "Madhva traditions identify Hanuman as Vāyu’s first major manifestation.",
+   "source": "Medieval Madhva theology",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "identified_with",
+   "myth": "Śaiva birth tradition",
+   "note": "Later Śaiva texts identify Hanuman as Śiva’s portion or incarnation.",
+   "source": "Śiva Purāṇa, Śatarudrasaṃhitā",
+   "date": "later Purāṇic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "child_of",
+   "myth": "Śaiva birth tradition",
+   "note": "Some later traditions describe Hanuman as Śiva’s son.",
+   "source": "Śiva Purāṇa and allied texts",
+   "date": "later Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "created_by",
+   "myth": "Śiva’s energy conveyed through Vāyu",
+   "note": "Śiva’s generative energy is transmitted through Vāyu into Añjanā.",
+   "source": "Śiva Purāṇa, Śatarudrasaṃhitā",
+   "date": "later Purāṇic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vishnu",
+   "other_aliases": [
+    "Mohinī"
+   ],
+   "kind": "created_by",
+   "myth": "Mohinī occasions Śiva’s emission",
+   "note": "Vishnu’s Mohinī form occasions the emission eventually producing Hanuman.",
+   "source": "Śiva Purāṇa, Śatarudrasaṃhitā",
+   "date": "later Purāṇic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Suvarcalā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some regional Indian traditions give Suvarcalā as Hanuman’s wife.",
+   "source": "Regional marriage traditions",
+   "date": "regional and late",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Search for Sītā and war in Laṅkā",
+   "note": "Hanuman becomes Rāma’s scout, messenger, warrior, and exemplary servant.",
+   "source": "Vālmīki Rāmāyaṇa, Kiṣkindhā–Yuddha books",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Mission to find Sītā",
+   "note": "Rāma gives Hanuman his ring as proof for Sītā.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Mahirāvaṇa’s underworld",
+   "note": "Hanuman rescues Rāma from the underworld and kills Mahirāvaṇa.",
+   "source": "Regional Rāmāyaṇa cycles",
+   "date": "late and regional",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Discovery in the aśoka grove",
+   "note": "Hanuman delivers Rāma’s ring and receives Sītā’s jewel and message.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Discovery in the aśoka grove",
+   "note": "Hanuman finds and reassures Sītā, then carries her message to Rāma.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmaṇa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "The mountain of herbs",
+   "note": "Hanuman carries the medicinal mountain whose herbs revive wounded Lakṣmaṇa.",
+   "source": "Vālmīki Rāmāyaṇa, Yuddhakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmaṇa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Mahirāvaṇa’s underworld",
+   "note": "Hanuman rescues Lakṣmaṇa from Mahirāvaṇa’s underworld.",
+   "source": "Regional Rāmāyaṇa cycles",
+   "date": "late and regional",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Childhood leap at the sun",
+   "note": "Indra strikes the child Hanuman with his thunderbolt, injuring his jaw.",
+   "source": "Vālmīki Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "later epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gods placate Vāyu",
+   "note": "After injuring Hanuman, Indra grants him protection or boons.",
+   "source": "Vālmīki Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "later epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Childhood leap at the sun",
+   "note": "The infant Hanuman mistakes Sūrya for fruit and leaps toward him.",
+   "source": "Vālmīki Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "later epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Lessons beside the moving sun",
+   "note": "Later accounts make Sūrya Hanuman’s teacher while traversing the sky.",
+   "source": "Later epic and Purāṇic accounts",
+   "date": "later epic/Purāṇic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gods placate Vāyu",
+   "note": "Brahmā protects or releases Hanuman and grants him boons.",
+   "source": "Vālmīki Rāmāyaṇa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture in Laṅkā",
+   "note": "Hanuman strategically submits to Brahmā’s weapon so he can confront Rāvaṇa.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Burning of Hanuman’s tail",
+   "note": "Agni’s fire does not injure Hanuman while his burning tail ignites Laṅkā.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 53–55",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Varuṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Childhood divine boons",
+   "note": "Varuṇa grants Hanuman a protective boon in expanded childhood accounts.",
+   "source": "Uttarakāṇḍa and later retellings",
+   "date": "later epic and post-epic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Childhood divine boons",
+   "note": "Yama grants Hanuman a protective boon in expanded childhood accounts.",
+   "source": "Uttarakāṇḍa and later retellings",
+   "date": "later epic and post-epic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Childhood divine boons",
+   "note": "Kubera grants Hanuman a protective boon in expanded childhood accounts.",
+   "source": "Uttarakāṇḍa and later retellings",
+   "date": "later epic and post-epic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sugrīva",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Alliance with Rāma",
+   "note": "Hanuman serves as Sugrīva’s minister and supports his alliance and kingship.",
+   "source": "Vālmīki Rāmāyaṇa, Kiṣkindhākāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jāmbavān",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Preparation for the ocean leap",
+   "note": "Jāmbavān reminds Hanuman of his forgotten strength and prompts his leap.",
+   "source": "Vālmīki Rāmāyaṇa, Kiṣkindhākāṇḍa 65–67",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maināka",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ocean crossing",
+   "note": "Maināka offers Hanuman rest; Hanuman politely touches the mountain and continues.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 1",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Surasā",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Surasā’s test",
+   "note": "Hanuman outwits Surasā’s demand to enter her mouth by changing size.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 1",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siṃhikā",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ocean crossing",
+   "note": "After Siṃhikā seizes his shadow, Hanuman enters her body and kills her.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 1",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laṅkinī",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Entry into Laṅkā",
+   "note": "Hanuman defeats Laṅkā’s guardian, who recognizes the city’s prophesied destruction.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 3",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Confrontation and burning of Laṅkā",
+   "note": "Hanuman confronts and warns Rāvaṇa, then burns much of his city.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 49–54",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Burning of Hanuman’s tail",
+   "note": "Rāvaṇa sentences Hanuman to have his tail wrapped and burned.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa 49–54",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indrajit",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Capture in Laṅkā",
+   "note": "Indrajit captures Hanuman with the Brahmāstra after Hanuman devastates the grove.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vibhīṣaṇa",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hanuman’s audience with Rāvaṇa",
+   "note": "Vibhīṣaṇa prevents Hanuman’s execution by invoking the legal immunity of envoys.",
+   "source": "Vālmīki Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vibhīṣaṇa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War in Laṅkā",
+   "note": "Vibhīṣaṇa later fights beside Hanuman and Rāma’s allied forces.",
+   "source": "Vālmīki Rāmāyaṇa, Yuddhakāṇḍa",
+   "date": "fourth/third century BCE–third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hanuman and Bhīma are half-brothers through their common father Vāyu.",
+   "source": "Mahābhārata, Vana Parvan 145–150",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The immovable tail",
+   "note": "Hanuman humbles Bhīma by making him unable to lift his tail.",
+   "source": "Mahābhārata, Vana Parvan 145–150",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Bhīma and Hanuman",
+   "note": "Hanuman teaches Bhīma humility and reveals his immense expanded form.",
+   "source": "Mahābhārata, Vana Parvan 145–150",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Bhīma and Hanuman",
+   "note": "Hanuman blesses Bhīma and promises to strengthen the Pāṇḍavas’ battle cries.",
+   "source": "Mahābhārata, Vana Parvan 145–150",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Kurukṣetra war",
+   "note": "Hanuman occupies Arjuna’s banner during the Kurukṣetra war.",
+   "source": "Mahābhārata tradition",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Bridge-building contest",
+   "note": "Later tales pit Hanuman against Arjuna in a bridge-building contest.",
+   "source": "Post-epic bridge-building tales",
+   "date": "post-epic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hanuman on Arjuna’s banner",
+   "note": "Hanuman is associated with Kṛṣṇa through his presence on Arjuna’s banner.",
+   "source": "Mahābhārata tradition",
+   "date": "fourth century BCE–fourth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Bridge-building contest",
+   "note": "Kṛṣṇa arbitrates the later bridge-building contest between Hanuman and Arjuna.",
+   "source": "Post-epic bridge-building tales",
+   "date": "post-epic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Narasiṃha",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Pañcamukhī Hanuman",
+   "note": "Narasiṃha’s head is fused into the five-faced form of Hanuman.",
+   "source": "Tantric Pañcamukhī tradition",
+   "date": "late-medieval/early-modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Garuḍa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Pañcamukhī Hanuman",
+   "note": "Garuḍa’s head is fused into the five-faced form of Hanuman.",
+   "source": "Tantric Pañcamukhī tradition",
+   "date": "late-medieval/early-modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Varāha",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Pañcamukhī Hanuman",
+   "note": "Varāha’s head is fused into the five-faced form of Hanuman.",
+   "source": "Tantric Pañcamukhī tradition",
+   "date": "late-medieval/early-modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hayagrīva",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Pañcamukhī Hanuman",
+   "note": "Hayagrīva’s head is fused into the five-faced form of Hanuman.",
+   "source": "Tantric Pañcamukhī tradition",
+   "date": "late-medieval/early-modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śani",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "rescued",
+   "myth": "Hanuman and Saturn",
+   "note": "One popular legend says Hanuman rescues Śani, who promises to spare his devotees.",
+   "source": "Popular Hanuman legends",
+   "date": "late folklore",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śani",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "fought",
+   "myth": "Hanuman subdues Saturn",
+   "note": "Another popular formulation says Hanuman subdues Śani and wins protection for devotees.",
+   "source": "Popular Hanuman legends",
+   "date": "late folklore",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mahirāvaṇa",
+   "other_aliases": [
+    "Ahirāvaṇa"
+   ],
+   "kind": "killed",
+   "myth": "Pañcamukhī Hanuman and Mahirāvaṇa",
+   "note": "Hanuman assumes five faces, extinguishes directional lamps, and kills the underworld demon.",
+   "source": "Regional Rāmāyaṇa cycles",
+   "date": "late and regional",
+   "tier": "late_accretion"
+  }
+ ]
+}

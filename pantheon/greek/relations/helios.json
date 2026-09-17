@@ -1,0 +1,814 @@
+{
+ "subject": "helios",
+ "relations": [
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyperion fathers Helios with Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Homeric and later usage sometimes treats Hyperion as Helios's solar name.",
+   "source": "Homeric diction; later mythography",
+   "date": "archaic onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [
+    "Euryphaessa"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Theia, called Euryphaessa in the hymn, mothers Helios.",
+   "source": "Hesiod, Theogony; Homeric Hymn 31",
+   "date": "ca. 700 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Selene is Helios's sister and complementary celestial power.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Opposed rising and setting",
+   "note": "Helios rises while Selene descends across the pediment's cosmic day.",
+   "source": "Parthenon east pediment",
+   "date": "438–432 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eos is Helios's sister and partner in daily celestial movement.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Helios rises as Eos advances",
+   "note": "The inscribed vase presents Helios rising alongside advancing Eos.",
+   "source": "Sappho Painter lekythos",
+   "date": "ca. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhodos",
+   "other_aliases": [
+    "Rhode"
+   ],
+   "kind": "consort_of",
+   "myth": "Rhodes allotment",
+   "note": "Helios claims Rhodes and unites with its eponymous nymph.",
+   "source": "Pindar, Olympian 7",
+   "date": "464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Heliadai",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Helios fathers seven Rhodian sons with Rhodos.",
+   "source": "Pindar, Olympian 7",
+   "date": "464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Electryone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later Rhodian accounts make Electryone a daughter of Helios and Rhodos.",
+   "source": "Later Rhodian accounts",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Perse",
+   "other_aliases": [
+    "Perseis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Oceanid Perse bears Helios's children Aeetes and Circe.",
+   "source": "Hesiodic tradition",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aeetes, king of Colchis, is a son of Helios and Perse.",
+   "source": "Hesiodic tradition",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Circe is explicitly identified as Helios's divine daughter.",
+   "source": "Odyssey; Hesiod, Theogony 956–962",
+   "date": "8th–7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies make Pasiphae a daughter of Helios and Perse.",
+   "source": "Later mythographic sources",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography adds Perses among Helios's children by Perse.",
+   "source": "Later mythography",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Phaethon's conception",
+   "note": "Clymene bears Helios's son Phaethon while married to Merops.",
+   "source": "Euripides, Phaethon",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Helios fathers Phaethon; scattered variants name other mothers.",
+   "source": "Euripides, Phaethon",
+   "date": "5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Phaethon's fatal chariot drive",
+   "note": "Bound by an oath, Helios lets Phaethon drive the solar chariot.",
+   "source": "Ovid, Metamorphoses 1–2",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Heliades",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Developed Phaethon traditions make the mourning Heliades Helios's daughters.",
+   "source": "Aeschylus; Ovid, Metamorphoses 2",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neaera",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Neaera bears Helios's divine cattle-herding daughters.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lampetie",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lampetie is Helios's daughter by Neaera.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lampetie",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle of Helios",
+   "note": "Lampetie guards Helios's herds and reports their slaughter.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phaethusa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phaethusa is Helios's daughter by Neaera.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phaethusa",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cattle of Helios",
+   "note": "Phaethusa guards Helios's immortal livestock on Thrinacia.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aegle",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A local or late genealogy pairs Aegle with Helios.",
+   "source": "Local or late genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Charites",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A local or late genealogy makes Helios their father by Aegle.",
+   "source": "Local or late genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Augeas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later catalogues sometimes count Augeas among Helios's children.",
+   "source": "Later genealogical catalogues",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aloeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later catalogues attribute Aloeus to Helios.",
+   "source": "Later genealogical catalogues",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ochimus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ochimus is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cercaphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cercaphus is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Macar",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later catalogues attribute Macar to Helios.",
+   "source": "Later genealogical catalogues",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tenages",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tenages is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Triopas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Triopas is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Actis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Actis is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Candalus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Candalus is listed among Helios's Rhodian sons.",
+   "source": "Later Rhodian catalogues",
+   "date": "Hellenistic or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Medea is Helios's granddaughter through Aeetes.",
+   "source": "Greek mythic genealogy",
+   "date": "archaic onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Medea's escape from Corinth",
+   "note": "Helios supplies Medea a dragon-drawn chariot for her escape.",
+   "source": "Euripides, Medea 1317–1322",
+   "date": "431 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Ariadne descends from Helios through Pasiphae.",
+   "source": "Later Pasiphae genealogy",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Minotaur",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "The Minotaur descends from Helios through Pasiphae.",
+   "source": "Later Pasiphae genealogy",
+   "date": "post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Oath before the duel",
+   "note": "Helios and Zeus are jointly invoked as divine oath witnesses.",
+   "source": "Iliad 3",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Odysseus's crew",
+   "note": "Zeus grants Helios's demand and destroys the cattle thieves' ship.",
+   "source": "Odyssey 12",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rhodes allotment",
+   "note": "Zeus accepts Helios's claim to the newly risen island.",
+   "source": "Pindar, Olympian 7",
+   "date": "464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fireless sacrifice at Rhodes",
+   "note": "Zeus commands the Heliadai's sacrifice and rains gold afterward.",
+   "source": "Pindar, Olympian 7",
+   "date": "464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Early sunset during Patroclus battle",
+   "note": "Hera compels or prompts Helios to set in Ocean.",
+   "source": "Iliad 18",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "deceived",
+   "myth": "Ares and Aphrodite exposed",
+   "note": "Helios discovers Ares's secret adultery and exposes him to Hephaestus.",
+   "source": "Odyssey 8",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "deceived",
+   "myth": "Ares and Aphrodite exposed",
+   "note": "Helios observes Aphrodite's adultery and reports it to Hephaestus.",
+   "source": "Odyssey 8",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Leucothoe and Clytie",
+   "note": "Aphrodite retaliates by making Helios desire Leucothoe.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ares and Aphrodite exposed",
+   "note": "Helios informs Hephaestus that Ares and Aphrodite are committing adultery.",
+   "source": "Odyssey 8",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Golden nocturnal bowl",
+   "note": "Hephaestus fashions the golden bowl carrying Helios across Ocean.",
+   "source": "Mimnermus fr. 12",
+   "date": "7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Retreat from the Gigantomachy",
+   "note": "Helios carries the exhausted Hephaestus away from the giants' battle.",
+   "source": "Apollonius and learned tradition",
+   "date": "Hellenistic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "allied",
+   "myth": "Demeter's search for Persephone",
+   "note": "Helios tells Demeter who abducted Persephone and who authorized it.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "shared_myth",
+   "myth": "Persephone's abduction",
+   "note": "Helios witnesses or hears Persephone's seizure but does not rescue her.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Persephone's abduction",
+   "note": "Helios identifies Hades as Persephone's abductor without confronting him.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Demeter's search for Persephone",
+   "note": "Hecate and Helios are the divine witnesses consulted during Demeter's search.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo's stolen cattle",
+   "note": "Apollo fears Helios may reveal Hermes's theft, though no encounter occurs.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Atreus's solar kingship sign",
+   "note": "Hermes carries Zeus's arrangement for Helios to reverse his course.",
+   "source": "Pseudo-Apollodorus, Epitome 2.12",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Division of Corinth",
+   "note": "Helios contests Corinth with Poseidon and receives Acrocorinth.",
+   "source": "Pausanias 2.1.6",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division of Corinth",
+   "note": "Briareus arbitrates Helios's territorial dispute with Poseidon.",
+   "source": "Pausanias 2.1.6",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fireless sacrifice at Rhodes",
+   "note": "Helios's sons sacrifice to Athena, who rewards them with craftsmanship.",
+   "source": "Pindar, Olympian 7",
+   "date": "464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Heracles challenges the sun",
+   "note": "Heracles threatens or shoots at Helios while crossing the burning west.",
+   "source": "Stesichorus and later summaries",
+   "date": "6th–5th c. BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Voyage to Erytheia",
+   "note": "Helios lends Heracles the golden cup used to cross Ocean.",
+   "source": "Stesichorus, Geryoneis",
+   "date": "6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [
+    "Ocean"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daily solar journey",
+   "note": "Helios rises from, enters, and traverses Ocean in solar cosmography.",
+   "source": "Homer; Mimnermus; vase art",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Helios rises as Night retreats",
+   "note": "Nyx withdraws before the rising chariot of Helios.",
+   "source": "Sappho Painter lekythos",
+   "date": "ca. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atreus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reversal of the sun",
+   "note": "Helios reverses course as the divine sign confirming Atreus's kingship.",
+   "source": "Euripidean fragments; Apollodorus Epitome",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thyestes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Reversal of the sun",
+   "note": "Helios's reversed course defeats Thyestes's claim in the kingship contest.",
+   "source": "Euripidean fragments; Apollodorus Epitome",
+   "date": "5th c. BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An Egyptian magical invocation fuses the gods as great Helios Mithras.",
+   "source": "PGM IV.475–829",
+   "date": "3rd–4th c. CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mithraic banquet and handshake",
+   "note": "Mithraic monuments show distinct Sol and Mithras banqueting, clasping hands, or traveling.",
+   "source": "Roman Mithraic monuments",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sarapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Egyptian ritual combines Sarapis and Helios in composite divine invocations.",
+   "source": "Greek Magical Papyri",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harpocrates",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Egyptian spells and gems assimilate Helios with solar child imagery and names.",
+   "source": "PGM and magical gems",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aion",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ritual ascent to solar divinity",
+   "note": "The ascending ritualist passes Aionic powers before encountering Helios.",
+   "source": "PGM IV.475–829",
+   "date": "3rd–4th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late exegesis assimilates Helios to the Orphic first-born light god.",
+   "source": "Late Orphic and Neoplatonic exegesis",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Classical wordplay and later poetry and iconography increasingly assimilate Apollo and Helios.",
+   "source": "Euripides, Phaethon onward",
+   "date": "5th c. BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysus's cosmic campaign",
+   "note": "Helios advises or participates in Dionysus's campaign in late epic.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Hours",
+   "other_aliases": [
+    "the Seasons"
+   ],
+   "kind": "served_by",
+   "myth": "Preparation of the solar chariot",
+   "note": "The Hours tend, harness, or surround Helios's chariot.",
+   "source": "Ovid and Roman art",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [
+    "Sol Indiges",
+    "Sol Invictus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Latin translation and imperial imagery identify Helios with Roman Sol.",
+   "source": "Greek-Roman literary and iconographic evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Leucothoe",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Leucothoe and Clytie",
+   "note": "Helios enters disguised as Leucothoe's mother, reveals himself, and sleeps with her.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Leucothoe",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Leucothoe becomes frankincense",
+   "note": "Unable to revive the buried Leucothoe, Helios transforms or sanctifies her as frankincense.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clytie",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Clytie's rejected love",
+   "note": "Helios rejects Clytie, who wastes away turning toward him.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "subject": "hecatoncheires",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia is mother of Cottus, Briareus, and Gyges.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "allied",
+   "myth": "Liberation before the Titanomachy",
+   "note": "Gaia advises Zeus to free and recruit the imprisoned brothers.",
+   "source": "Hesiod, Theogony 617–628",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Uranus is father of Cottus, Briareus, and Gyges.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Heaven"
+   ],
+   "kind": "punished_by",
+   "myth": "Imprisonment within Gaia",
+   "note": "Uranus hates his extraordinary sons and confines them within Earth.",
+   "source": "Hesiod, Theogony 154–159, 617–620",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cronus is their Titan brother in the Gaia–Uranus genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "They fight and defeat the Titan faction led by Cronus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.1–2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titans collectively"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Titans share Gaia and Uranus as parents with the Hundred-Handers.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titans collectively"
+   ],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "The brothers bombard, overwhelm, bind, and consign the Titans to Tartarus.",
+   "source": "Hesiod, Theogony 669–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titans collectively"
+   ],
+   "kind": "served",
+   "myth": "Guardianship of Tartarus",
+   "note": "The brothers guard the defeated Titans after the Olympian victory.",
+   "source": "Hesiod, Theogony 734–735, 807–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titans collectively"
+   ],
+   "kind": "allied",
+   "myth": "Rival Titanomachy",
+   "note": "In a competing tradition, Aegaeon fights as an ally of the Titans.",
+   "source": "Titanomachy fragment via Apollonius scholion",
+   "date": "late seventh century BCE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Cyclopes",
+   "other_aliases": [
+    "Cyclopes"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Cyclopes share Gaia and Uranus as parents with the Hundred-Handers.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Olympian binding conspiracy",
+   "note": "Briareus frightens Zeus's conspirators away and prevents them from binding him.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "later eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Liberation before the Titanomachy",
+   "note": "Zeus releases the brothers from confinement and restores them with divine food.",
+   "source": "Hesiod, Theogony 617–643",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Titanomachy",
+   "note": "The brothers pledge support to Zeus and provide decisive force against the Titans.",
+   "source": "Hesiod, Theogony 644–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Briareus saves Zeus",
+   "note": "Thetis summons Briareus to Olympus to prevent the conspirators binding Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "later eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Olympian binding conspiracy",
+   "note": "Briareus intimidates Hera into abandoning the plan to bind Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "later eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Olympian binding conspiracy",
+   "note": "Briareus frustrates Poseidon's participation in the attempt to bind Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "later eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Olympian binding conspiracy",
+   "note": "Briareus frustrates Athena's participation in the attempt to bind Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "later eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homeric scholia infer Poseidon as Aegaeon's unnamed father.",
+   "source": "Homeric scholia on Iliad 1",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage to Cymopoleia",
+   "note": "Poseidon gives his daughter Cymopoleia to Briareus as wife.",
+   "source": "Hesiod, Theogony 817–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Poseidon defeats Aegaeon",
+   "note": "A fragment attributed to Cinaethon says Poseidon defeated Aegaeon.",
+   "source": "Cinaethon fragment via Apollonius scholion",
+   "date": "archaic period, uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Dispute over Corinth",
+   "note": "Briareus awards the Isthmus and neighboring territory to Poseidon.",
+   "source": "Pausanias 2.1.6; 2.4.6–7",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cymopoleia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage to Cymopoleia",
+   "note": "Poseidon's daughter Cymopoleia becomes the wife of Briareus.",
+   "source": "Hesiod, Theogony 817–819",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Dispute over Corinth",
+   "note": "Briareus awards Acrocorinth to Helios in his territorial judgment.",
+   "source": "Pausanias 2.1.6; 2.4.6–7",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aegaeon is a son of Pontus and Gaia in a competing genealogy.",
+   "source": "Titanomachy fragment via Apollonius scholion",
+   "date": "late seventh century BCE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thalassa",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ion of Chios makes Aegaeon the son of the personified Sea.",
+   "source": "Ion of Chios fragment 741 PMG",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Campe",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Imprisonment before the Titanomachy",
+   "note": "Campe guards the Hundred-Handers while they remain imprisoned in Tartarus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Aegaeon's rebellion against Jupiter",
+   "note": "Aegaeon opposes Jupiter with fifty shields, swords, and fire-breathing mouths.",
+   "source": "Virgil, Aeneid 10.565–568",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

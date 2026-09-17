@@ -1,0 +1,722 @@
+{
+ "subject": "hera",
+ "relations": [
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hera is the daughter of Cronus in the dominant genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cronus swallows his children",
+   "note": "Cronus swallows Hera together with his other children.",
+   "source": "Hesiodic tradition and later mythography",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rhea is Hera's mother in the dominant genealogy.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hestia and Hera are daughters of Cronus and Rhea.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Demeter and Hera are daughters of Cronus and Rhea.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hades and Hera are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Poseidon and Hera are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Zeus and Hera are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hera is Zeus's sister-wife and final wife in Hesiod's scheme.",
+   "source": "Iliad; Hesiod, Theogony",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Attempted binding of Zeus",
+   "note": "Hera, Athena, and Poseidon attempt to bind Zeus before Briareus intervenes.",
+   "source": "Iliad 1.396–406",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Hera suspended from Olympus",
+   "note": "Zeus hangs Hera with anvils attached to her feet.",
+   "source": "Iliad 15.18–24",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deception of Zeus",
+   "note": "Hera seduces Zeus and has Sleep incapacitate him to aid the Achaeans.",
+   "source": "Iliad 14",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Daedala reconciliation",
+   "note": "Hera discovers Zeus's false wooden bride and reconciles with him.",
+   "source": "Pausanias, Description of Greece",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Courtship of Hera",
+   "note": "Zeus assumes cuckoo form while courting the maiden Hera.",
+   "source": "Pausanias 2.17.4",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hera claims Oceanus fostered her during the divine conflict.",
+   "source": "Iliad 14.200–207",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hera claims Tethys fostered her during the divine conflict.",
+   "source": "Iliad 14.200–207",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deception of Zeus",
+   "note": "Hera falsely claims she intends to reconcile Tethys and Oceanus.",
+   "source": "Iliad 14.200–210",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Athena restrains Achilles",
+   "note": "Hera sends Athena to prevent Achilles from killing Agamemnon.",
+   "source": "Iliad 1.194–222",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War against Troy and Ares",
+   "note": "Hera and Athena support the Achaeans and attack Ares together.",
+   "source": "Iliad 5 and 8",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attempted binding of Zeus",
+   "note": "Athena joins Hera and Poseidon in attempting to bind Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Jason and the Argo",
+   "note": "Athena assists Hera in protecting Jason and securing Medea's help.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Trojan War",
+   "note": "Aphrodite supports Paris and Troy against Hera's favored Achaeans.",
+   "source": "Iliad 3–5",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deception of Zeus",
+   "note": "Hera deceives Aphrodite into lending her desire-producing breastband.",
+   "source": "Iliad 14.188–223",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea's love for Jason",
+   "note": "Hera and Athena recruit Aphrodite to make Medea love Jason.",
+   "source": "Apollonius Rhodius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "gift",
+   "myth": "Deception of Zeus",
+   "note": "Hera promises Hypnos marriage to Pasithea for subduing Zeus.",
+   "source": "Iliad 14.231–291",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attempted binding of Zeus",
+   "note": "Poseidon joins Hera and Athena in attempting to bind Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Deception of Zeus",
+   "note": "Poseidon aids the Achaeans after Hera arranges for Zeus to sleep.",
+   "source": "Iliad 14",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hera bears Ares to Zeus.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of gods",
+   "note": "Hera rebukes Ares and supports Athena's attack against him.",
+   "source": "Iliad 5",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hera bears Hebe to Zeus.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hera bears the childbirth goddess Eileithyia to Zeus.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Births of Apollo and Heracles",
+   "note": "Hera detains or directs Eileithyia to obstruct Leto and Alcmene.",
+   "source": "Homeric Hymn to Apollo; Iliad 19",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hera produces Hephaestus without sexual union in retaliation for Athena's birth.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Homeric variant treats Hephaestus as the son of Hera and Zeus.",
+   "source": "Iliad",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Casting out Hephaestus",
+   "note": "One tradition says Hera casts Hephaestus from Olympus because of his disability.",
+   "source": "Homeric Hymn to Apollo; later mythography",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Olympian quarrel",
+   "note": "Hephaestus intervenes to calm the quarrel between Hera and Zeus.",
+   "source": "Iliad 1",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Birth of Apollo",
+   "note": "Hera obstructs Leto's labor and pressures lands to deny her refuge.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Apollo",
+   "note": "Hera attempts to prevent Apollo's birth by obstructing Leto's labor.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Apollo and Artemis",
+   "note": "Hera's obstruction of Leto's delivery encompasses Leto's divine children.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of the gods",
+   "note": "Hera beats and humiliates Artemis during the divine battle.",
+   "source": "Iliad 21.479–496",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Olympian messages",
+   "note": "Hera repeatedly dispatches Iris as her divine messenger.",
+   "source": "Iliad",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Madness of Heracles",
+   "note": "Iris conveys Hera's command that Heracles be driven mad.",
+   "source": "Euripides, Heracles",
+   "date": "ca. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lyssa",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Madness of Heracles",
+   "note": "Hera sends Lyssa through Iris to drive Heracles mad.",
+   "source": "Euripides, Heracles",
+   "date": "ca. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Persecution of Dionysus",
+   "note": "Later traditions make Hera persecute Dionysus as well as his mother.",
+   "source": "Euripides and later mythography",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhaon",
+   "other_aliases": [
+    "Typhon",
+    "Typhoeus"
+   ],
+   "kind": "created",
+   "myth": "Hera's autonomous maternity",
+   "note": "Hera independently produces Typhaon in revenge for Zeus's production of Athena.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "other",
+   "myth": "Production of Typhaon",
+   "note": "Hera prays to Gaia before independently producing Typhaon.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Titans",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Production of Typhaon",
+   "note": "Hera invokes the Titans before independently producing Typhaon.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Attempted binding of Zeus",
+   "note": "Thetis defeats Hera's conspiracy by summoning Briareus to protect Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Hera attends the divine wedding at which the Trojan conflict begins.",
+   "source": "Epic Cycle and later mythography",
+   "date": "Archaic tradition onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [
+    "Aegaeon"
+   ],
+   "kind": "contest",
+   "myth": "Attempted binding of Zeus",
+   "note": "Briareus's arrival ends Hera, Athena, and Poseidon's conspiracy against Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Eris's excluded arrival initiates the beauty contest involving Hera.",
+   "source": "Epic Cycle and later mythography",
+   "date": "Archaic tradition onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment of Paris",
+   "note": "Paris judges Aphrodite more beautiful than Hera and Athena.",
+   "source": "Epic Cycle and later sources",
+   "date": "Archaic tradition onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Hera fights the Giants in the war against Olympus.",
+   "source": "Bibliotheca 1.6.2; visual tradition",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Porphyrion",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Porphyrion attacks and desires Hera before Zeus and Heracles kill him.",
+   "source": "Bibliotheca 1.6.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Charites",
+   "other_aliases": [
+    "the Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Crown of Argive Hera",
+   "note": "The Charites appear on the crown of Polycleitus's cult statue of Hera.",
+   "source": "Pausanias 2.17.4",
+   "date": "ca. 150–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Horae",
+   "other_aliases": [
+    "the Seasons"
+   ],
+   "kind": "shared_myth",
+   "myth": "Crown of Argive Hera",
+   "note": "The Horae appear on the crown of Polycleitus's cult statue of Hera.",
+   "source": "Pausanias 2.17.4",
+   "date": "ca. 150–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Delayed birth of Heracles",
+   "note": "Hera delays Heracles' birth so Eurystheus gains kingship over him.",
+   "source": "Iliad 19",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Infant Heracles and the snakes",
+   "note": "Hera sends snakes against the infant Heracles, who strangles them.",
+   "source": "Pindar and fifth-century art",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Labors of Heracles",
+   "note": "Hera's hostility works through Eurystheus and monsters to impose Heracles' labors.",
+   "source": "Homer through later mythography",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Madness of Heracles",
+   "note": "Hera sends Iris and Lyssa, causing Heracles to kill his family.",
+   "source": "Euripides, Heracles",
+   "date": "ca. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apotheosis and reconciliation",
+   "note": "Heracles enters Olympus and marries Hera's daughter Hebe, structurally resolving their enmity.",
+   "source": "Odyssey 11; later Heracles traditions",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Wanderings of Io",
+   "note": "Hera guards Io through Argus and sends a gadfly to drive her wandering.",
+   "source": "Aeschylus; Bibliotheca; Ovid",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation of Io",
+   "note": "Some variants make Hera responsible for transforming Io into a cow.",
+   "source": "Greek and Roman mythographic variants",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Guarding Io",
+   "note": "Hera appoints many-eyed Argus to guard Io.",
+   "source": "Aeschylus; Bibliotheca; Ovid",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eyes of Argus",
+   "note": "Juno places dead Argus's eyes in the peacock's tail.",
+   "source": "Ovid, Metamorphoses",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Death of Semele",
+   "note": "Hera disguises herself and induces Semele to demand Zeus's fatal divine appearance.",
+   "source": "Hellenistic and Roman mythography",
+   "date": "Hellenistic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Crossing the Anauros",
+   "note": "Jason carries Hera, disguised as an old woman, across the flooded Anauros.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Jason and the Argo",
+   "note": "Hera becomes Jason's divine patron and helps him obtain the Golden Fleece.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Iūnō"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman authors regularly identify Hera with the Roman goddess Juno.",
+   "source": "Greek and Roman literary tradition",
+   "date": "Roman Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tanit",
+   "other_aliases": [
+    "Juno Caelestis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Through Juno Caelestis, Roman North Africa indirectly associated Hera's Roman counterpart with Tanit.",
+   "source": "Roman North African evidence",
+   "date": "Roman Imperial era",
+   "tier": "syncretism"
+  }
+ ]
+}

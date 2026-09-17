@@ -1,0 +1,199 @@
+{
+ "subject": "fafnir",
+ "relations": [
+  {
+   "other": "Hreiðmarr",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Fáfnir is Hreiðmarr’s son.",
+   "source": "Reginsmál; Skáldskaparmál; Völsunga saga",
+   "date": "c. 1220–late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hreiðmarr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Fáfnir seizes Ótr’s ransom",
+   "note": "Fáfnir kills his sleeping father and takes the entire hoard.",
+   "source": "Reginsmál prose",
+   "date": "Codex Regius, c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Reginn",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Reginn is Fáfnir’s brother.",
+   "source": "Reginsmál; Skáldskaparmál; Völsunga saga",
+   "date": "c. 1220–late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Reginn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dispute over Hreiðmarr’s inheritance",
+   "note": "Fáfnir refuses Reginn a share; Reginn subsequently engineers Fáfnir’s death.",
+   "source": "Reginsmál; Fáfnismál",
+   "date": "Codex Regius, c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ótr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ótr, whose killing prompts the ransom, is Fáfnir’s brother.",
+   "source": "Reginsmál; Skáldskaparmál",
+   "date": "c. 1220–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lyngheiðr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lyngheiðr is Fáfnir’s sister.",
+   "source": "Reginsmál prose and verse",
+   "date": "Codex Regius, c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lofnheiðr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lofnheiðr is Fáfnir’s sister.",
+   "source": "Reginsmál",
+   "date": "Codex Regius, c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigurðr Fáfnisbani",
+   "other_aliases": [
+    "Sigurðr"
+   ],
+   "kind": "killed_by",
+   "myth": "The pit killing on Gnitaheiðr",
+   "note": "Sigurðr hides beneath Fáfnir’s path and stabs him with Gram.",
+   "source": "Ramsund carving; Fáfnismál",
+   "date": "c. 1010–1040; c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigurðr Fáfnisbani",
+   "other_aliases": [
+    "Sigurðr"
+   ],
+   "kind": "contest",
+   "myth": "Fáfnir’s death dialogue",
+   "note": "The dying Fáfnir questions Sigurðr and exchanges warnings and cosmological knowledge.",
+   "source": "Fáfnismál",
+   "date": "Codex Regius, c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andvari",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ótr’s ransom and Andvari’s curse",
+   "note": "Fáfnir takes possession of Andvari’s cursed gold without meeting him directly.",
+   "source": "Reginsmál; Skáldskaparmál",
+   "date": "c. 1220–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ótr’s ransom",
+   "note": "Óðinn helps pay the ransom that later becomes Fáfnir’s hoard.",
+   "source": "Reginsmál prose; Skáldskaparmál",
+   "date": "c. 1220–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ótr’s ransom and Andvari’s curse",
+   "note": "Loki kills Ótr and obtains the cursed treasure later seized by Fáfnir.",
+   "source": "Reginsmál prose; Skáldskaparmál",
+   "date": "c. 1220–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hœnir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ótr’s ransom",
+   "note": "Hœnir is among the captured gods whose ransom later becomes Fáfnir’s hoard.",
+   "source": "Reginsmál prose; Skáldskaparmál",
+   "date": "c. 1220–1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fasolt",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Wagner’s Fafner is the giant Fasolt’s brother.",
+   "source": "Wagner, Der Ring des Nibelungen",
+   "date": "1848–1876",
+   "tier": "modern"
+  },
+  {
+   "other": "Fasolt",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Division of the Rhine treasure",
+   "note": "Fafner kills Fasolt and takes the treasure paid to them.",
+   "source": "Wagner, Das Rheingold",
+   "date": "premiered 1869",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Construction of Valhalla",
+   "note": "Fafner and Fasolt construct Valhalla for Wotan.",
+   "source": "Wagner, Das Rheingold",
+   "date": "premiered 1869",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Payment of the giants",
+   "note": "Wotan pays Fafner and Fasolt with Alberich’s seized treasure.",
+   "source": "Wagner, Das Rheingold",
+   "date": "premiered 1869",
+   "tier": "modern"
+  },
+  {
+   "other": "Freia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Payment for Valhalla",
+   "note": "Freia is pledged to Fafner and Fasolt as payment for Valhalla.",
+   "source": "Wagner, Das Rheingold",
+   "date": "premiered 1869",
+   "tier": "modern"
+  },
+  {
+   "other": "Siegfried",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Siegfried kills the dragon Fafner",
+   "note": "Wagner’s Siegfried kills the dragon-transformed Fafner.",
+   "source": "Wagner, Siegfried",
+   "date": "premiered 1876",
+   "tier": "modern"
+  }
+ ]
+}

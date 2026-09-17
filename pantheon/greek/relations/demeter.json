@@ -1,0 +1,547 @@
+{
+ "subject": "demeter",
+ "relations": [
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hesiod names Kronos as Demeter’s father.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hesiod names Rhea as Demeter’s mother.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rhea mediates the divine settlement",
+   "note": "Rhea reconciles Demeter and conveys Zeus’ promised honors and settlement.",
+   "source": "Homeric Hymn to Demeter 441–471",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hestia and Demeter are daughters of Kronos and Rhea.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hera and Demeter are daughters of Kronos and Rhea.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Aidoneus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hades and Demeter are children of Kronos and Rhea.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Aidoneus"
+   ],
+   "kind": "fought",
+   "myth": "Abduction and negotiated return of Persephone",
+   "note": "Demeter’s famine forces terms after Hades abducts Persephone, though they never directly battle.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Poseidon Hippios"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Poseidon and Demeter are children of Kronos and Rhea.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Poseidon Hippios"
+   ],
+   "kind": "other",
+   "myth": "Poseidon pursues Demeter in equine form",
+   "note": "Poseidon pursues and sexually assaults mare-shaped Demeter after becoming a stallion.",
+   "source": "Pausanias 8.25",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Zeus and Demeter are children of Kronos and Rhea.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Persephone",
+   "note": "Zeus fathers Persephone with Demeter.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Zeus secretly authorizes Persephone’s abduction",
+   "note": "Zeus gives Persephone to Hades without Demeter’s consent.",
+   "source": "Homeric Hymn to Demeter 3–9",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Famine forces negotiation over Persephone",
+   "note": "Demeter defies Zeus and withholds crops until Persephone’s partial return is arranged.",
+   "source": "Homeric Hymn to Demeter 305–473",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Demeter bears Persephone to Zeus.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "rescued",
+   "myth": "Search, famine, and reunion",
+   "note": "Demeter’s search and crop famine secure Persephone’s partial return from Hades.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Two Goddesses share Eleusinian honors",
+   "note": "Mother and daughter share cultic honors and jointly anchor the Eleusinian Mysteries.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iasion",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Union in a thrice-ploughed field",
+   "note": "Demeter sleeps with Iasion in a thrice-ploughed field.",
+   "source": "Homer, Odyssey 5.125–128",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iasion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Iasion attempts to violate Demeter",
+   "note": "A later variant recasts their mutual union as Iasion’s attempted violation.",
+   "source": "Apollodoran Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ploutos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Demeter bears wealth-personified Ploutos to Iasion.",
+   "source": "Hesiod, Theogony 969–974",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Areion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Equine union with Poseidon",
+   "note": "The Thelpusan tradition makes divine horse Areion Demeter’s son by Poseidon.",
+   "source": "Pausanias 8.25 and scholia",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Despoina",
+   "other_aliases": [
+    "Mistress"
+   ],
+   "kind": "parent_of",
+   "myth": "Equine union with Poseidon",
+   "note": "The Phigalian and Lycosuran tradition makes Despoina Demeter’s daughter by Poseidon.",
+   "source": "Pausanias 8.37, 8.42",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philomelos",
+   "other_aliases": [
+    "Boötes"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies make plough-inventor Philomelos a son of Demeter.",
+   "source": "Later genealogical sources",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Search for abducted Persephone",
+   "note": "Hecate hears Persephone, meets torch-bearing Demeter, and joins her search.",
+   "source": "Homeric Hymn to Demeter 22–61",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Helios reveals Persephone’s abductor",
+   "note": "Helios tells Demeter that Hades took Persephone with Zeus’ consent.",
+   "source": "Homeric Hymn to Demeter 62–87",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Iris summons Demeter from Eleusis",
+   "note": "Zeus sends Iris to summon Demeter, but Demeter refuses to return.",
+   "source": "Homeric Hymn to Demeter 314–333",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hermes retrieves Persephone from Hades",
+   "note": "Hermes escorts Persephone upward, enabling her reunion with Demeter.",
+   "source": "Homeric Hymn to Demeter 334–386",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Gaia produces the abduction narcissus",
+   "note": "Gaia produces the narcissus that draws Persephone toward Hades’ ambush.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later theological systems sometimes assimilate Demeter to Gaia despite their early separation.",
+   "source": "Orphic and philosophical materials",
+   "date": "date varies",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Iacchus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint Eleusinian presence",
+   "note": "Later art and theology place Dionysus or Iacchus among the Eleusinian deities.",
+   "source": "Classical art and later testimony",
+   "date": "classical–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Zagreus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Orphic divine family traditions",
+   "note": "Fragmentary Orphic traditions connect Demeter, Persephone, and Dionysus or Zagreus.",
+   "source": "Orphic poetry and gold tablets",
+   "date": "dates vary",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [
+    "Cybele",
+    "Great Mother",
+    "Mountain Mother"
+   ],
+   "kind": "identified_with",
+   "myth": "Fusion of the grieving divine Mother",
+   "note": "Poetic and theological traditions fuse Demeter’s grieving motherhood with Rhea or Cybele.",
+   "source": "Euripides, Helen",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Athenian and Eleusinian cult contexts",
+   "note": "Demeter and Athena appear together in votive contexts without a major narrative interaction.",
+   "source": "Rheitoi relief and votives",
+   "date": "classical period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hunger",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Erysichthon",
+   "note": "Demeter invokes personified Hunger to torment Erysichthon for violating her grove.",
+   "source": "Callimachus, Hymn to Demeter",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hunger",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ceres commissions Hunger",
+   "note": "In Ovid’s version, Hunger carries out Ceres’ punishment of Erysichthon.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ascalaphus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Revelation of the pomegranate",
+   "note": "Demeter pins Ascalaphus beneath a stone for reporting Persephone’s pomegranate consumption.",
+   "source": "Apollodoran Bibliotheca 1.5.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman authors explicitly equate or visually fuse Demeter with Isis.",
+   "source": "Herodotus 2.59, 2.156",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation made Ceres Demeter’s standard literary and artistic counterpart.",
+   "source": "Roman literary and artistic tradition",
+   "date": "middle Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Romanized abduction and reunion cycle",
+   "note": "Latin authors transfer Demeter’s maternal relationship with Persephone to Ceres and Proserpina.",
+   "source": "Cicero, Ovid, and Hyginus",
+   "date": "first century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Foundation of the Eleusinian rites",
+   "note": "Demeter teaches Triptolemus the Eleusinian rites.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Triptolemus receives grain and chariot",
+   "note": "Later tradition gives Triptolemus seed and a serpent-drawn chariot to spread agriculture.",
+   "source": "Classical art and later texts",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Hostile kings attack Triptolemus",
+   "note": "Demeter rescues Triptolemus from rulers attempting to kill him or steal agriculture.",
+   "source": "Apollodorus and Hyginus",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demophon",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Failed immortalization of Demophon",
+   "note": "Demeter treats Demophon with ambrosia and fire, attempting to make him ageless.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erysichthon",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Violation of Demeter’s sacred grove",
+   "note": "Demeter condemns Erysichthon to insatiable hunger after he cuts her sacred grove.",
+   "source": "Callimachus, Hymn to Demeter",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ascalabus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Mockery of Demeter’s eager drinking",
+   "note": "Demeter transforms Ascalabus into a spotted lizard after he mocks her.",
+   "source": "Later compilers and Roman poets",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lyncus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Plot against Triptolemus",
+   "note": "Demeter transforms Lyncus into a lynx for plotting against Triptolemus.",
+   "source": "Later travel narratives",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Carnabon",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Attack on Triptolemus",
+   "note": "Demeter punishes Carnabon for attacking Triptolemus.",
+   "source": "Hyginus",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minthe",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation of Hades’ lover",
+   "note": "One variant makes Demeter transform Minthe into mint; another assigns the act to Persephone.",
+   "source": "Later variant traditions",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Discovery of Black Demeter",
+   "note": "Pan discovers Demeter hiding in her Phigalian cave after the equine union.",
+   "source": "Pausanias 8.42",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "allied",
+   "myth": "Persuasion of Black Demeter",
+   "note": "The Moirai persuade the grieving, enraged Demeter to leave her cave and relent.",
+   "source": "Pausanias 8.42",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arethusa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Arethusa reveals Persephone’s location",
+   "note": "Ovid’s nymph Arethusa informs Ceres about the abducted Proserpina.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Persephone gathers flowers before abduction",
+   "note": "The Oceanids accompany Persephone while she gathers flowers before Hades abducts her.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  }
+ ]
+}

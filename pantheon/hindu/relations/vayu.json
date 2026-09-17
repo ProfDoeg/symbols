@@ -1,0 +1,443 @@
+{
+ "subject": "vayu",
+ "relations": [
+  {
+   "other": "Puruṣa",
+   "other_aliases": [
+    "cosmic Person"
+   ],
+   "kind": "created_by",
+   "myth": "Vāyu emerges from the cosmic Person’s breath",
+   "note": "Vāyu or wind arises from Puruṣa’s breath in a late Vedic cosmogony.",
+   "source": "Ṛgveda 10.90.13",
+   "date": "c. 1100 BCE or later",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Purāṇic creation of Vāyu",
+   "note": "Some Purāṇic accounts incorporate Vāyu into creation by Brahmā.",
+   "source": "Multiple Purāṇas",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [
+    "fire"
+   ],
+   "kind": "created",
+   "myth": "Wind generates fire in elemental creation",
+   "note": "The elemental sequence states that wind arises from ether and generates fire.",
+   "source": "Taittirīya Upaniṣad 2.1",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [
+    "Vāyu-putra",
+    "Vātātmaja",
+    "Mārutātmaja"
+   ],
+   "kind": "parent_of",
+   "myth": "Kuntī invokes Vāyu and conceives Bhīma",
+   "note": "The epic presents Vāyu as Bhīma’s divine father and source of his strength.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [
+    "Vāyu-putra",
+    "Vātātmaja",
+    "Mārutātmaja"
+   ],
+   "kind": "identified_with",
+   "myth": "Vāyu’s second salvific descent",
+   "note": "Dvaita theology identifies Bhīma as Vāyu’s second incarnation serving Kṛṣṇa.",
+   "source": "Madhva commentarial tradition",
+   "date": "thirteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [
+    "Pavana-tanaya",
+    "Pavana-putra",
+    "Vāyu-putra",
+    "Vātātmaja",
+    "Māruti"
+   ],
+   "kind": "parent_of",
+   "myth": "Vāyu engenders or empowers Añjanā’s son",
+   "note": "Hanumān is Vāyu’s divine or spiritual son, equal to him in speed and power.",
+   "source": "Vālmīki Rāmāyaṇa, Kiṣkindhākāṇḍa 4.66",
+   "date": "c. 300 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [
+    "Pavana-tanaya",
+    "Pavana-putra",
+    "Vāyu-putra",
+    "Vātātmaja",
+    "Māruti"
+   ],
+   "kind": "rescued",
+   "myth": "Vāyu withdraws air after Hanumān is struck",
+   "note": "Vāyu suffocates the worlds until the gods revive and bless the injured Hanumān.",
+   "source": "Rāmāyaṇa and later recensions",
+   "date": "Epic, later elaborated",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [
+    "Pavana-tanaya",
+    "Pavana-putra",
+    "Vāyu-putra",
+    "Vātātmaja",
+    "Māruti"
+   ],
+   "kind": "identified_with",
+   "myth": "Vāyu’s first salvific descent",
+   "note": "Dvaita theology identifies Hanumān as Vāyu’s first incarnation and Rāma’s servant.",
+   "source": "Madhva commentarial tradition",
+   "date": "thirteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Maruts",
+   "other_aliases": [
+    "storm-gods"
+   ],
+   "kind": "parent_of",
+   "myth": "Maruts born from Vāyu’s belly",
+   "note": "An isolated Vedic genealogy says the Maruts arise from Vāyu’s belly.",
+   "source": "Ṛgveda 1.134.4",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Maruts",
+   "other_aliases": [
+    "storm-gods"
+   ],
+   "kind": "shared_myth",
+   "myth": "Shared sacrificial and atmospheric invocations",
+   "note": "Vāyu and the Maruts appear together in sacrificial and atmospheric contexts.",
+   "source": "Scattered Ṛgvedic hymns",
+   "date": "second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indrāvāyū share Soma and a chariot",
+   "note": "Vāyu and Indra arrive jointly and receive the first Soma pressing.",
+   "source": "Ṛgveda 1.135; 4.47–48; 7.90–92",
+   "date": "c. 1500–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Indra earns a share of Vāyu’s cup",
+   "note": "Vāyu’s formerly exclusive Soma cup is shared with Indra as payment for service.",
+   "source": "Yajurvedic Saṃhitā and Brāhmaṇa traditions",
+   "date": "roughly 1000–700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Indra wounds Hanumān and Vāyu withdraws air",
+   "note": "After Indra strikes Hanumān, Vāyu withholds breath until the gods placate him.",
+   "source": "Rāmāyaṇa and later recensions",
+   "date": "Epic, later elaborated",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Pavamāna"
+   ],
+   "kind": "gift",
+   "myth": "Vāyu receives Soma’s first draught",
+   "note": "Pressed and purified Soma is poured expressly for Vāyu to drink first.",
+   "source": "Ṛgveda 1.2; 1.134–135",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [
+    "fire"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fire and wind coordinate across cosmic regions",
+   "note": "Agni and Vāyu are coordinated as terrestrial and atmospheric cosmic powers.",
+   "source": "Brāhmaṇas",
+   "date": "c. 900–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [
+    "fire"
+   ],
+   "kind": "other",
+   "myth": "Fire resolves into Vāyu",
+   "note": "In the absorber doctrine, fire is gathered or resolved into cosmic Vāyu.",
+   "source": "Chāndogya Upaniṣad 4.3",
+   "date": "c. 800–500 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [
+    "Āditya",
+    "sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sun and wind form cosmic counterparts",
+   "note": "Later Vedic systems correlate celestial Sūrya with atmospheric Vāyu and cosmic Prāṇa.",
+   "source": "Praśna Upaniṣad 2–3",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [
+    "sun"
+   ],
+   "kind": "other",
+   "myth": "Hanumān seeks instruction from Sūrya",
+   "note": "Vāyu’s relation to Sūrya is mediated through his son Hanumān’s later education.",
+   "source": "Later Hanumān narratives",
+   "date": "Later canonical",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vāc",
+   "other_aliases": [
+    "Speech"
+   ],
+   "kind": "contest",
+   "myth": "Speech challenges the supremacy of breath",
+   "note": "Speech can depart without killing the body but fails when chief breath prepares to leave.",
+   "source": "Bṛhadāraṇyaka 1.3, 1.5; Chāndogya 5.1",
+   "date": "c. 800–500 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the personified faculties",
+   "other_aliases": [
+    "eye, ear, and mind"
+   ],
+   "kind": "contest",
+   "myth": "Faculties dispute supremacy with Prāṇa",
+   "note": "The faculties survive one another’s departure but are uprooted when Prāṇa attempts to leave.",
+   "source": "Early Upaniṣads",
+   "date": "c. 800–500 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Brahmā appeases Vāyu after Hanumān’s injury",
+   "note": "Brahmā helps revive and bless Hanumān, ending Vāyu’s withdrawal of cosmic breath.",
+   "source": "Epic and Purāṇic Hanumān cycle",
+   "date": "first millennium CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Hari"
+   ],
+   "kind": "served",
+   "myth": "Vāyu serves as Viṣṇu’s chief mediator",
+   "note": "Madhva theology ranks Vāyu beneath Viṣṇu as his perfect servant and salvific mediator.",
+   "source": "Madhva commentarial tradition",
+   "date": "thirteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu as Rāma"
+   ],
+   "kind": "served",
+   "myth": "Hanumān accompanies and serves Rāma",
+   "note": "Vāyu serves Viṣṇu’s Rāma incarnation through his first descent, Hanumān.",
+   "source": "Madhva commentarial tradition",
+   "date": "thirteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [
+    "Viṣṇu as Kṛṣṇa"
+   ],
+   "kind": "served",
+   "myth": "Bhīma executes Kṛṣṇa’s purpose",
+   "note": "Vāyu serves Kṛṣṇa through his second descent, Bhīma.",
+   "source": "Madhva readings of Mahābhārata",
+   "date": "thirteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vyāsa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Madhva meets Vyāsa and receives instruction",
+   "note": "Vāyu’s third incarnation Madhva receives authoritative instruction from Vyāsa.",
+   "source": "Sumadhva-vijaya",
+   "date": "late thirteenth–fourteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Madhva",
+   "other_aliases": [
+    "Ānandatīrtha"
+   ],
+   "kind": "identified_with",
+   "myth": "Vāyu’s third salvific descent",
+   "note": "Dvaita tradition identifies Madhva as Vāyu’s third incarnation and teacher of Vedānta.",
+   "source": "Sumadhva-vijaya",
+   "date": "late thirteenth–fourteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Rudra’s power is transmitted through Vāyu",
+   "note": "Some Śaiva accounts make Hanumān Rudra’s manifestation while Vāyu carries or transmits the power.",
+   "source": "Śiva Purāṇa and regional traditions",
+   "date": "Later canonical",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vāsuki",
+   "other_aliases": [
+    "serpent-king"
+   ],
+   "kind": "contest",
+   "myth": "Vāyu and Vāsuki struggle around a mountain",
+   "note": "Vāyu’s wind tears away a mountain peak during a strength contest with Vāsuki.",
+   "source": "Later epic and Purāṇic tradition",
+   "date": "first millennium CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mount Meru",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Vāyu assaults and breaks a mountain peak",
+   "note": "Epic and Purāṇic variants describe Vāyu breaking or moving peaks with his force.",
+   "source": "Epic and Purāṇic accretions",
+   "date": "first millennium CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ahura Mazdā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ahura Mazdā petitions Vayu for victory",
+   "note": "Iranian Vayu receives Ahura Mazdā’s sacrifice or petition and grants martial victory.",
+   "source": "Yašt 15",
+   "date": "early Iranian",
+   "tier": "attested"
+  },
+  {
+   "other": "Spənta Mainyu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vayu moves between the rival creations",
+   "note": "Iranian Vayu operates in the intermediate space between the good and evil creations.",
+   "source": "Yašt 15 and later exegesis",
+   "date": "early Iranian and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Aŋra Mainyu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vayu moves between the rival creations",
+   "note": "Iranian Vayu operates in the intermediate space between the good and evil creations.",
+   "source": "Yašt 15 and later exegesis",
+   "date": "early Iranian and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Aži Dahāka",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Vayu refuses a destructive petitioner",
+   "note": "Aži Dahāka petitions Vayu for victory, but Vayu refuses destructive claimants.",
+   "source": "Yašt 15",
+   "date": "early Iranian",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Early hymns distinguish Vāta from Vāyu, but later lexicons and mythography merge them.",
+   "source": "Later Sanskrit lexicons and mythography",
+   "date": "post-Vedic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Prāṇa",
+   "other_aliases": [
+    "Mukhya-prāṇa",
+    "chief breath"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later systems correlate Vāyu with vital breath; Madhva identifies Mukhya-prāṇa as the conscious deity Vāyu.",
+   "source": "Upaniṣads and Madhva commentaries",
+   "date": "c. 800 BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Fūten",
+   "other_aliases": [
+    "Buddhist Vāyu"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Indian Vāyu entered East Asian Buddhism as the directional or elemental deity Fūten.",
+   "source": "Buddhist transmission tradition",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Wēšparkar",
+   "other_aliases": [
+    "Viśvaparikara"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Wēšparkar is an eastern-Iranian development possibly connected with Vayu uparō.kairyō.",
+   "source": "Eastern-Iranian religious evidence",
+   "date": "first millennium CE",
+   "tier": "syncretism"
+  }
+ ]
+}

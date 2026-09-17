@@ -1,0 +1,3368 @@
+# greek: interaction matrix
+
+137 gods, 2796 distinct relations (723 kinship, 2073 meetings, myths and identifications), 2006 mentions of beings without a dossier here. Built by tools/build_matrix.py from relations/*.json (Codex extraction of each dossier's genealogy and interaction sections). Matrix of counts in _matrix.csv; full records with sources in _relations.json.
+
+## Most connected
+
+| god | relations with | distinct gods |
+|---|---|---|
+| zeus | 362 | 109 |
+| hera | 177 | 73 |
+| apollo | 175 | 71 |
+| athena | 153 | 69 |
+| gaia | 119 | 66 |
+| aphrodite | 127 | 65 |
+| hermes | 131 | 65 |
+| poseidon | 141 | 61 |
+| heracles_god | 149 | 58 |
+| dionysus | 115 | 55 |
+| helios | 94 | 48 |
+| oceanus | 60 | 42 |
+| uranus | 72 | 41 |
+| ares | 101 | 40 |
+| themis | 70 | 40 |
+
+## Each god
+
+### aeolus  (7 gods)
+- **iris**: other; Storm against the returning Greeks; The Argo’s passage
+- **anemoi**: other; Aeolus’ bag of winds; Confinement and command of the winds
+- **notus_and_eurus**: served_by; Aeolus confines the troublesome winds; Storm against Aeneas
+- **poseidon**: child_of, contest; Neptune calms Aeolus' storm
+- **zeus**: served; Appointment as steward of the winds; Cosmic imprisonment of the winds
+- **hephaestus**: shared_myth; Liparian civic offerings
+- **zephyrus**: other; Odysseus receives the winds
+
+### aether  (20 gods)
+- **chaos**: child_of, created, sibling_of; Birth of the Orphic cosmic egg; Chronos produces Aether and Chaos; Hyginus genealogy; Orphic cosmic egg cycle
+- **erebus**: child_of, shared_myth, sibling_of; Birth of brightness from darkness; Chronos produces three cosmic principles; Hieronyman cosmogony
+- **chronos_primordial**: child_of, created_by; Chronos produces Aether and Chaos; Chronos produces Aether and Phanes; Chronos produces moist Aether; The cosmic egg and Phanes
+- **hemera**: consort_of, sibling_of; Hyginus’s cosmogony; Roman learned cosmogony
+- **nyx**: child_of, consort_of, sibling_of; Birth of brightness from darkness; Variant birth of Eros
+- **phanes**: parent_of, shared_myth; First manifestation in Aether; Phanes emerges from the cosmic egg; Phanes separates Aether from Chasm
+- **eros_primordial**: created, parent_of; The Orphic cosmic egg
+- **gaia**: consort_of, parent_of; Cosmic marriage of Aether and Earth
+- **zeus**: identified_with, shared_myth; Aether dwells in Zeus's celestial realm
+- **ananke**: shared_myth; Orphic cosmogony
+- **erinyes**: parent_of
+- **hyperion**: parent_of
+- **metis**: sibling_of
+- **oceanus**: parent_of
+- **pan**: parent_of
+- **pontus**: parent_of
+- **rhea**: parent_of
+- **tartarus**: parent_of
+- **themis**: parent_of
+- **uranus**: parent_of
+
+### amphitrite  (25 gods)
+- **poseidon**: consort_of, other, shared_myth; Abduction after the Nereid dance; Coercive seizure from Ocean’s halls; Delphinus arranges Amphitrite’s marriage; Marine sovereignty and divine household service
+- **atlas**: child_of, rescued_by; Amphitrite flees Poseidon’s courtship
+- **hestia**: shared_myth; Glaucus's Olympia sculptural dedication
+- **nereids**: shared_myth, sibling_of; Dance on Naxos before Amphitrite’s abduction
+- **triton**: parent_of, served_by; Amphitrite’s marine procession
+- **aphrodite**: gift; Amphitrite’s wedding wreath
+- **apollo**: served; Apollo’s birth on Delos
+- **athena**: shared_myth; Underwater reception of Theseus
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **dionysus**: shared_myth; Divine assembly or banquet
+- **eileithyia**: shared_myth; Delian birth of Apollo
+- **glaucus_sea**: shared_myth; Reception into the marine realm
+- **hera**: shared_myth; Divine assembly or banquet
+- **heracles_god**: shared_myth; Heracles fights Triton
+- **hermes**: shared_myth
+- **iris**: shared_myth
+- **leto**: served; Apollo’s birth on Delos
+- **nereus**: child_of
+- **oceanus**: rescued_by; Amphitrite hides in Ocean’s halls
+- **rhea**: shared_myth; Apollo’s birth on Delos
+- **scylla_and_charybdis**: transformed; Jealous transformation of Scylla
+- **talos**: shared_myth; Amphitrite witnesses Talos’s death
+- **tethys**: child_of
+- **themis**: shared_myth; Apollo’s birth on Delos
+- **zeus**: shared_myth; Divine assembly or banquet
+
+### ananke  (14 gods)
+- **atropos**: parent_of, served_by; Myth of Er
+- **chronos_primordial**: consort_of; Birth of serpent-Time; Orphic cosmogony
+- **clotho**: parent_of, served_by; The cosmic spindle
+- **lachesis**: parent_of, served_by; Operation of Ananke's cosmic spindle
+- **phanes**: shared_myth; Hieronyman cosmic egg; Orphic cosmogony
+- **zeus**: other; Necessity overcomes every remedy; Prometheus foretells Zeus' destined danger
+- **aether**: shared_myth; Orphic cosmogony
+- **aphrodite**: shared_myth; Reception of Aphrodite
+- **chaos**: shared_myth; Orphic cosmogony
+- **charites**: other; Charis hates intolerable Necessity
+- **erebus**: shared_myth; Orphic cosmogony
+- **erinyes**: served_by; Prometheus foretells Zeus' destined danger
+- **eros_primordial**: shared_myth; Hieronyman cosmogony
+- **sirens**: shared_myth; The spindle of Necessity
+
+### anemoi  (10 gods)
+- **iris**: allied, consort_of; Auster and Iris sustain the deluge; The winds kindle Patroclus’ funeral pyre
+- **poseidon**: punished_by, served, shared_myth; Neptune disperses Aeolus’ released storm; Poseidon rescues Chione’s exposed infant; Poseidon’s storm against Odysseus
+- **aeolus**: other; Aeolus’ bag of winds; Confinement and command of the winds
+- **apollo**: contest, gift; Apollo’s oracle commands prayers to the Winds; Zephyrus rivals Apollo for Hyacinthus
+- **astraeus**: child_of, served; Demeter’s consultation
+- **zeus**: served; Auster helps Jupiter unleash the deluge; Divine command of weather
+- **eos**: child_of
+- **hera**: served; Juno unleashes the Venti against Aeneas
+- **notus_and_eurus**: allied; Psyllus’s war against Notus
+- **oceanus**: shared_myth; Iris leaves the winds’ feast
+
+### aphrodite  (65 gods)
+- **charites**: served_by, shared_myth; Aphrodite’s beauty cult; Aphrodite’s sea-birth; Aphrodite’s toilette; Aphrodite’s weaving contest
+- **hera**: allied, contest, deceived_by, gift; Cupid and Psyche; Deception of Zeus; Judgment of Paris; Medea's love for Jason
+- **zeus**: child_of, deceived, judged_by, other, parent_of, punished_by; Aphrodite and Anchises; Aphrodite wounded; Cupid and Psyche; Deception of Zeus
+- **ares**: consort_of, fought, parent_of, rescued_by, shared_myth; Aphrodite draws Ares toward Troy; Aphrodite wounded; Ares and Aphrodite’s affair; Ares, Hephaestus, and the net
+- **horae**: gift, served_by, shared_myth; Apollo's Olympian performance; Ariadne receives her wedding crown; Birth and presentation of Aphrodite; Making Aphrodite's flower-dyed garments
+- **artemis**: fought, other; Death of Adonis; Death of Hippolytus; Hippolytus and Phaedra; Three immune goddesses
+- **athena**: contest, fought, other; Aphrodite wounded; Battlefield opposition at Troy; Judgment of Paris; Three immune goddesses
+- **eros**: parent_of, served_by, shared_myth; Aphrodite's sea-birth and divine reception; Cupid impersonates Ascanius; Eros serves Aphrodite's purposes
+- **hephaestus**: consort_of, punished_by, seduced; Adultery net; Ares, Hephaestus, and the net; Forging Aeneas's armor
+- **hermes**: consort_of, served_by, shared_myth; Exposure in Hephaestus's net; Judgment of Paris; Venus searches for Psyche
+- **harmonia**: allied, gift, parent_of; Samothracian courtship; Wedding gifts
+- **helios**: deceived_by, punished; Ares and Aphrodite exposed; Ares, Hephaestus, and the net; Leucothoe and Clytie
+- **poseidon**: consort_of, rescued_by; Ares, Hephaestus, and the net; Hephaestus’ adultery net
+- **apollo**: fought, other; Death of Adonis; Rescue of Aeneas
+- **ariadne**: gift, identified_with; Aphrodite Ariadne at Amathus; Bridal crown
+- **circe**: other, punished; Conception of Circe’s sons; Venus influences Circe’s desires
+- **dionysus**: consort_of; Conception of Priapus
+- **eos**: punished, shared_myth; Abduction of Phaethon; Aphrodite curses Eos
+- **europa**: other; Aphrodite directs Zeus’s desire toward Europa; Venus predicts Europa’s continental fame
+- **hermaphroditus**: gift, parent_of; Enchantment of the Salmacis spring
+- **hestia**: other; Hestia remains beyond Aphrodite's power; Three immune goddesses
+- **nymphs**: served_by, shared_myth; Aphrodite explains tree nymph lifespans; Aphrodite's nymph attendants
+- **persephone**: contest; Adonis's divided year; Dispute over Adonis
+- **thetis**: gift, shared_myth; Wedding of Peleus and Thetis
+- **tyche**: other, parent_of
+- **typhon**: created, other; Gaia and Tartarus conceive Typhoeus; The gods flee to Egypt
+- **uranus**: child_of; Birth of Aphrodite
+- **amphitrite**: gift; Amphitrite’s wedding wreath
+- **ananke**: shared_myth; Reception of Aphrodite
+- **astraeus**: other; Persephone’s horoscope
+- **calypso**: allied; Venus sends Cupid to Ogygia
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **clotho**: other; Nonnus' divine plan
+- **cronos**: created_by; Birth from the sea foam
+- **eileithyia**: allied
+- **eris**: contest; Beauty dispute at Peleus' wedding
+- **eros_primordial**: shared_myth; Eros conceived at Aphrodite’s birthday feast
+- **gaia**: shared_myth; Birth of Aphrodite
+- **ganymede**: rescued; Escape from mortal death
+- **gigantes**: deceived; Aphrodite’s Phanagoreian deception
+- **harpies**: shared_myth; Seizure of Pandareus' daughters
+- **hebe**: shared_myth; Wedding of Heracles and Hebe
+- **hemera**: theft; Seizure of Phaethon
+- **hypnos**: shared_myth; Courtship of Pasithea
+- **iris**: rescued_by; Aphrodite wounded at Troy
+- **metis**: shared_myth; Poros attends Aphrodite's birthday feast
+- **minotaur**: created; Venus punishes Pasiphaë's neglected rites
+- **momus**: judged_by; Momus and Aphrodite
+- **muses**: shared_myth; Sacred Attic landscape
+- **nereids**: shared_myth; Aphrodite’s sea birth and triumph
+- **nereus**: other; Aphrodite's marine upbringing
+- **nyx**: identified_with
+- **pan**: other; Pan’s resisted sexual approach
+- **pasiphae**: punished; Aphrodite implants desire for the bull
+- **phobos_and_deimos**: parent_of
+- **priapus**: parent_of
+- **rhea**: other; Zeus summons the wandering Mother
+- **selene**: shared_myth; Selene discusses Endymion
+- **sirens**: shared_myth; Aphrodite rescues Butes
+- **styx**: shared_myth; Psyche fetches Stygian water
+- **tartarus**: other; Aphrodite mediates Tartarus’s union with Gaia
+- **tethys**: child_of
+- **themis**: shared_myth; Divine marriage traditions
+- **triton**: served_by; Europa’s marine procession
+- **zephyrus**: served_by; Aphrodite’s passage to Cyprus
+
+### apollo  (71 gods)
+- **hermes**: allied, contest, deceived_by, gift, served_by, sibling_of, theft; Dispute over the stolen cattle; Exchange after the cattle theft; Hermes denies stealing Apollo's cattle; Lyre exchanged for cattle and privileges
+- **python**: gift, killed; Apollo conquers Gaia's Delphic oracle; Apollo defeats the brigand Python; Apollo destroys post-flood Python; Apollo kills the dragoness beside the Delphic spring
+- **artemis**: allied, deceived, other, shared_myth, sibling_of; Apollo reconciles Admetus with Artemis; Apollo tricks Artemis into shooting Orion; Artemis assists at Apollo’s birth; Artemis leads dancing at Apollo’s Delphic house
+- **asclepius**: allied, parent_of, rescued, shared_myth; Apollo avenges Asclepius; Divine parentage; Joint Epidaurian healing cult; Rescue from Coronis' pyre
+- **muses**: allied, consort_of, judged_by, served_by, shared_myth; Divine origin of musicians; Music among the Olympians; Musical contest with Marsyas; Wedding of Peleus and Thetis
+- **poseidon**: allied, contest, fought, gift; Battle of the gods; Building Troy’s walls; Exchange of Delphi; Exchange of sanctuaries
+- **themis**: allied, contest, gift, other, shared_myth; Birth of Apollo; Conflictual Delphic succession; Creation of Delphi’s oracle; Peaceful Delphic succession
+- **chiron**: allied, gift, shared_myth, taught; Apollo entrusts Asclepius to Chiron; Cyrene's Libyan destiny; Education of Asclepius; Hunting instruction
+- **leto**: allied, child_of, rescued; Apollo's birth on Delos; Attack of Tityos; Defense against Tityus; Slaughter of Niobe's children
+- **asteria**: gift, other, served_by, transformed; Apollo fixes the wandering island; Apollo grants Asteria's body to Ionians; Birth of Apollo on Delos
+- **cyclopes**: gift, killed; Apollo avenges Asclepius; Apollo kills the junior Cyclopes; Cyclopean weapons for Apollo; Vengeance for Asclepius
+- **pan**: contest, parent_of, taught_by; Learning prophecy; Music contest judged by Tmolus; Pan teaches Apollo prophecy
+- **phoebe**: descendant_of, gift, other; Delphic succession; Naming of Phoebus; Peaceful Delphic succession
+- **zeus**: child_of, punished_by, served; Proclamation of Zeus's will; Vengeance for Asclepius
+- **ares**: allied, contest, shared_myth; Apollo urges Ares against Diomedes; Apollo’s Olympian feast; Primordial Olympic boxing match
+- **athena**: allied, other, served_by; Settlement of Ion’s identity; Trial of Orestes
+- **charites**: shared_myth; Charites enthroned beside Pythian Apollo; Charites held by Delian Apollo; Olympian dance at Apollo’s music
+- **dionysus**: rescued, shared_myth; Burial of Dionysus’s remains; Seasonal sharing of Delphi; Shared ritual year at Delphi
+- **eileithyia**: other, rescued_by, served_by; Birth of Iamus; Birth on Delos; Delian birth of Apollo
+- **gaia**: fought, gift; Antagonistic Delphic takeover; Hostile Delphic succession; Peaceful Delphic succession
+- **heracles_god**: allied, contest, judged; Delphic tripod conflict; Purification and servitude; Rescue of Alcestis
+- **hestia**: contest, other, served_by; Hestia in Apollo's Delphic sanctuary; Hestia refuses Apollo's marriage proposal; Suitors of Hestia
+- **iris**: allied, other, rescued_by; Apollo’s birth reported; Birth of Apollo; Birth on Delos
+- **anemoi**: contest, gift; Apollo’s oracle commands prayers to the Winds; Zephyrus rivals Apollo for Hyacinthus
+- **aphrodite**: fought, other; Death of Adonis; Rescue of Aeneas
+- **boreas**: contest, other; Hyperborean offerings reach Delos; Rivalry for Hyacinthus
+- **clotho**: deceived, shared_myth; Admetus' death substitution; Delphic fate configuration
+- **dioscuri**: other, served_by; Apollo's epiphany at Thynias
+- **erinyes**: contest, fought; Orestes’ pursuit and trial; Trial of Orestes
+- **gigantes**: fought, killed; Blinding of Ephialtes; Defeat of Porphyrion
+- **hades**: shared_myth; Admetus’ substitute death
+- **hephaestus**: gift, shared_myth; Adultery net spectacle; Hephaestian sanctuary artifacts
+- **hera**: other, punished_by; Birth of Apollo; Birth on Delos
+- **horae**: gift, shared_myth; Apollo's Olympian performance; The Horae bring Apollo's Theban banquet
+- **lachesis**: deceived, shared_myth; Apollo's reprieve for Admetus; Delphic temple image arrangement
+- **nymphs**: allied, seduced; Apollo pursues and loves local nymphs; Shared cave cult at Vari
+- **thanatos**: contest, gift; Apollo disputes Alcestis's death; Transport of Sarpedon
+- **typhon**: other, shared_myth; Python's fosterage; The gods flee to Egypt
+- **urania**: other; Apollo kills Linus
+- **zephyrus**: contest, fought; Jealousy over Hyacinthus; Rivalry for Hyacinthus
+- **amphitrite**: served_by; Apollo’s birth on Delos
+- **atropos**: deceived; Admetus escapes his allotted death
+- **coeus**: descendant_of
+- **danae**: other; Oracle of Acrisius
+- **echidna**: shared_myth; Figures on Apollo’s Amyclaean throne
+- **eros**: contest; Apollo and Daphne
+- **glaucus_sea**: taught_by; Glaucus teaches Apollo prophecy
+- **harmonia**: shared_myth; Wedding of Cadmus and Harmonia
+- **harpies**: taught; Celaeno's table-eating prophecy
+- **hebe**: shared_myth; Olympian music and dance
+- **hecate**: other
+- **helios**: identified_with
+- **hyperion**: contest; Succession of Apollo
+- **hypnos**: allied; Transport of Sarpedon
+- **keres**: allied; Pursuit of Laius's murderer
+- **mnemosyne**: shared_myth; Athenian sanctuary image group
+- **momus**: other; Lucian's divine citizenship purge
+- **morpheus**: parent_of
+- **nemesis**: allied; Foundation of relocated Smyrna
+- **nereids**: shared_myth; Ritual invocation
+- **notus_and_eurus**: served_by; Apollo’s Cretan ship reaches Crisa
+- **nyx**: contest; Contest for Delphi
+- **pasiphae**: other; Apollo pursues Daphne
+- **persephone**: shared_myth; Return of Alcestis
+- **ploutos**: other; Apollo’s oracle initiates Ploutos’ cure
+- **rhea**: other; Apollo's birth on Delos
+- **sirens**: other; Wandering after Proserpina’s rape
+- **styx**: shared_myth; Apollo requests Hermes’ oath
+- **thetis**: shared_myth; Wedding of Peleus and Thetis
+- **triton**: gift; The Argonauts dedicate Apollo’s tripod
+- **tyche**: shared_myth; Nurturing of youths
+
+### ares  (40 gods)
+- **enyo**: allied, child_of, consort_of, other, parent_of, served_by, shared_myth, sibling_of; Ares leads the Trojans with Enyo; Ares supports Deriades; Enyo and Ares madden Troy's sackers; Neoptolemus fights Eurypylus
+- **aphrodite**: child_of, consort_of, fought, rescued, shared_myth; Aphrodite draws Ares toward Troy; Aphrodite wounded; Ares and Aphrodite’s affair; Ares, Hephaestus, and the net
+- **hephaestus**: deceived, fought, punished_by, served_by; Adultery net; Ares and Aphrodite’s affair; Ares tries forcing Hephaestus back; Failed retrieval of Hephaestus
+- **athena**: allied, fought, punished_by; Ares attempts to avenge Ascalaphus; Ares promises to support the Achaeans; Battle of the gods; Diomedes wounds Ares
+- **hera**: allied, child_of, fought, punished_by; Ares attempts to avenge Ascalaphus; Ares promises to support the Achaeans; Battle of gods; Juno conceives Mars using Flora’s flower
+- **phobos_and_deimos**: allied, parent_of, rescued_by, served_by; Ares prepares to avenge Ascalaphus; Ares’s chariot in battle; Heracles wounds Ares; Oath of the Seven
+- **eris**: allied, shared_myth, sibling_of; Ares answers Eris' terrible war cry; Battlefield companions amplify the fighting; Divine companions amid battle
+- **hermes**: rescued_by, shared_myth; Apollo’s Olympian feast; Ares imprisoned by the Aloadae; Exposure in Hephaestus's net; Protective images against brigandage
+- **apollo**: allied, contest, shared_myth; Apollo urges Ares against Diomedes; Apollo’s Olympian feast; Primordial Olympic boxing match
+- **harmonia**: parent_of, rescued, shared_myth; Apollo’s Olympian feast; Rescue after serpent transformation
+- **hebe**: served_by, sibling_of; Ares is restored after his wounding; Care of wounded Ares
+- **heracles_god**: fought; Ares avenges Cycnus; Combat over Cycnus; War at Pylos
+- **poseidon**: judged_by, rescued_by; Hephaestus’ adultery net; Release from Hephaestus’s net; Trial for killing Halirrhothius
+- **zeus**: child_of, judged_by, punished_by; Ares returns wounded from Troy; Rebuke of Ares
+- **artemis**: shared_myth; Apollo’s Olympian feast; Olympian theomachy
+- **dionysus**: shared_myth; Ares urged to yield to revelry; Hephaestus returns to Olympus
+- **gigantes**: killed; Death of Mimas; Death of Mimon
+- **helios**: deceived_by; Ares and Aphrodite exposed; Exposure of Aphrodite’s affair
+- **iris**: allied, other; Hera’s ban against Leto; Iris impersonates Ares
+- **muses**: other, shared_myth; Apollo’s Olympian feast; Music softens Ares
+- **stymphalian_birds**: identified_with, other; Stymphalides identified as Mars's nurslings; The projectile-feathered birds of Ares
+- **thanatos**: rescued; Sisyphus binds Death; Sisyphus chains Death
+- **uranus**: child_of, punished_by; Concealment of the Cyclopes
+- **asteria**: shared_myth; Hera blocks refuge for Leto
+- **astraeus**: other; Persephone’s horoscope
+- **boreas**: other; The fire-breathing horses of Ares
+- **charites**: shared_myth; Apollo’s Olympian feast
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **crius**: sibling_of
+- **cyclopes**: created_by; Work in Vulcan's forge
+- **demeter**: shared_myth; Weapons exchanged for agriculture
+- **dioscuri**: parent_of
+- **eileithyia**: sibling_of
+- **eos**: consort_of; Affair of Eos and Ares
+- **eros**: parent_of
+- **gaia**: child_of
+- **leto**: fought; Hera's ban on refuge
+- **nike**: parent_of
+- **triton**: other
+- **typhon**: other; Gods flee Typhon into Egypt
+
+### argus_panoptes  (5 gods)
+- **hermes**: deceived_by, fought, killed_by; Armed attack beside Io; Direct slaying of Argus; Disguised shepherd lulls Argus; Liberation of Io
+- **echidna**: killed; Argus surprises Echidna asleep; Killing of sleeping Echidna
+- **hera**: served, transformed_by; Custody of Io; Peacock’s eyes
+- **gaia**: child_of
+- **zeus**: other; Custody of Io
+
+### ariadne  (17 gods)
+- **dionysus**: consort_of, deceived_by, gift, other, punished_by, rescued_by, transformed_by; Ariadne’s apotheosis; Ariadne’s deification; Bacchus and the Indian woman; Crown of Ariadne
+- **glaucus_sea**: consort_of, seduced_by, sibling_of; Glaucus loves Ariadne on Dia; Union after Theseus abandons Ariadne
+- **minotaur**: other, sibling_of; Ariadne supplies Theseus with the thread; Theseus and the Labyrinth
+- **aphrodite**: gift, identified_with; Aphrodite Ariadne at Amathus; Bridal crown
+- **perses_titan**: descendant_of, killed_by; Argive war with Dionysus
+- **zeus**: descendant_of, transformed_by; Ariadne’s immortality
+- **artemis**: killed_by; Death on Dia
+- **athena**: other; Theseus’ divinely authorized departure
+- **europa**: descendant_of
+- **helios**: descendant_of
+- **hephaestus**: other; Making Ariadne’s crown
+- **hermes**: shared_myth; Reconciliation after Ariadne’s death
+- **horae**: gift; Ariadne receives her wedding crown
+- **hypnos**: shared_myth; Sleep before Dionysus’ arrival
+- **medusa**: killed_by; Argive war with Dionysus
+- **pasiphae**: child_of
+- **thanatos**: shared_myth; Death-like sleep
+
+### artemis  (39 gods)
+- **apollo**: allied, deceived_by, other, shared_myth, sibling_of; Apollo reconciles Admetus with Artemis; Apollo tricks Artemis into shooting Orion; Artemis assists at Apollo’s birth; Artemis leads dancing at Apollo’s Delphic house
+- **leto**: allied, child_of, rescued, shared_myth; Apollo's birth; Artemis among the nymphs; Artemis's birth at Ortygia; Punishment of Niobe
+- **hecate**: allied, identified_with, other, transformed; Gigantomachy; Iphigenia becomes Hecate; Iphigenia’s rescue at Aulis
+- **aphrodite**: fought, other; Death of Adonis; Death of Hippolytus; Hippolytus and Phaedra; Three immune goddesses
+- **persephone**: allied, identified_with, shared_myth; Divine search for the lost maiden; Flower gathering before the abduction; Persephone before her abduction; Roman Egyptian magical invocations
+- **zeus**: child_of, gift, other, rescued_by; Artemis flees Hera’s beating; Catasterism of Orion; Child Artemis petitions Zeus
+- **asteria**: other, shared_myth, transformed_by; Apollo and Artemis bind Delos; Birth of Artemis on Delos
+- **calydonian_boar**: created, other; Artemis sends the boar against Calydon; Calydonian boar hunt; Quarrel over the boar's trophies
+- **cyclopes**: gift, other; Artemis visits the Cyclopean forge; Artemis visits the Cyclopes; Child Artemis meets Brontes
+- **hera**: fought, other; Battle of the gods; Birth of Apollo and Artemis; Olympian theomachy
+- **ares**: shared_myth; Apollo’s Olympian feast; Olympian theomachy
+- **asclepius**: other; Death of Coronis; Resurrection of Hippolytus
+- **athena**: allied, shared_myth; Persephone before her abduction; Taurian image and cult settlement
+- **dionysus**: fought, other; Death of Ariadne on Dia; Madness of Artemis’ companions
+- **eileithyia**: allied, identified_with
+- **erinyes**: shared_myth; Orestes at Delphi; Retrieval of Artemis’ Taurian image
+- **heracles_god**: contest, shared_myth; Capture of the Ceryneian hind; Ceryneian hind
+- **nemesis**: allied, identified_with; Punishment of Aura
+- **nymphs**: allied, punished; Artemis leads the mountain nymphs; Callisto's pregnancy and expulsion
+- **pan**: gift; Artemis gathers hunting equipment; Exchange of hunting dogs
+- **phoebe**: descendant_of, identified_with
+- **ariadne**: killed; Death on Dia
+- **charites**: served_by; Artemis leads the divine dance
+- **chiron**: taught; Hunting instruction
+- **coeus**: descendant_of
+- **eos**: shared_myth; Death of Orion
+- **eros**: contest; Gods resistant to Eros
+- **gaia**: allied; Earth’s scorpion kills Orion
+- **gigantes**: killed; Death of Aegaeon
+- **harpies**: shared_myth; Seizure of Pandareus' daughters
+- **hephaestus**: shared_myth; Visit to the Liparian forge
+- **hermes**: shared_myth; Divine missions and processional scenes
+- **horae**: shared_myth; Ascent of Hyacinthus and Polyboea
+- **oceanus**: other; Artemis chooses her attendants
+- **oneiroi**: shared_myth
+- **python**: killed; Apollo and Artemis kill Pytho
+- **selene**: identified_with
+- **styx**: shared_myth; Persephone gathers flowers
+- **typhon**: other; The gods flee to Egypt
+
+### asclepius  (16 gods)
+- **apollo**: allied, child_of, rescued_by, shared_myth; Apollo avenges Asclepius; Divine parentage; Joint Epidaurian healing cult; Rescue from Coronis' pyre
+- **chiron**: gift, taught_by; Asclepius' medical education; Education by Chiron; Transmission of medicinal drugs
+- **artemis**: other; Death of Coronis; Resurrection of Hippolytus
+- **hades**: other, punished_by; Asclepius restores the dead; Complaint against resurrection
+- **zeus**: killed_by, transformed_by; Apotheosis after death; Thunderbolt of Zeus
+- **athena**: gift; Gift of Gorgon blood
+- **clotho**: fought; Asclepius reverses death
+- **cyclopes**: other; Death of Asclepius
+- **demeter**: shared_myth; Admission to Eleusinian Mysteries
+- **glaucus_sea**: rescued; Resurrection of Glaucus
+- **lachesis**: shared_myth; Epidaurian sacred birth genealogy
+- **medusa**: other; Blood of the Gorgon
+- **mnemosyne**: shared_myth; Incubation dream liturgies
+- **momus**: other; Lucian's divine citizenship purge
+- **oneiroi**: shared_myth
+- **prometheus**: identified_with; Disputed Panopean statue
+
+### asteria  (18 gods)
+- **apollo**: gift, other, served, transformed_by; Apollo fixes the wandering island; Apollo grants Asteria's body to Ionians; Birth of Apollo on Delos
+- **artemis**: other, shared_myth, transformed; Apollo and Artemis bind Delos; Birth of Artemis on Delos
+- **leto**: rescued, rescued_by, sibling_of; Asteria receives Leto for Apollo's birth; Leto's appeal raises submerged Asteria
+- **zeus**: seduced_by, transformed_by; Asteria escapes Zeus; Jupiter petrifies the fleeing quail; Jupiter transforms Asteria into a quail
+- **perses_titan**: consort_of; Marriage to Asteria and birth of Hecate
+- **phoebe**: allied, child_of; Pergamon Gigantomachy
+- **poseidon**: other, shared_myth; Creation and fixing of the islands; First consecration of Delos
+- **ares**: shared_myth; Hera blocks refuge for Leto
+- **boreas**: shared_myth; Boreas carries Leto to Asteria
+- **coeus**: child_of
+- **eileithyia**: shared_myth; Delian birth of Apollo
+- **gaia**: descendant_of
+- **hecate**: parent_of
+- **hera**: other; Asteria defies Hera's ban
+- **heracles_god**: parent_of
+- **iris**: other; Iris denounces Asteria to Hera
+- **muses**: shared_myth; Song around sacred Delos
+- **uranus**: descendant_of
+
+### astraeus  (17 gods)
+- **anemoi**: parent_of, served_by; Demeter’s consultation
+- **eos**: consort_of; Celestial genealogy
+- **aphrodite**: other; Persephone’s horoscope
+- **ares**: other; Persephone’s horoscope
+- **boreas**: parent_of
+- **crius**: child_of
+- **demeter**: other; Demeter’s consultation
+- **gaia**: child_of
+- **helios**: other; Persephone’s horoscope
+- **notus_and_eurus**: parent_of
+- **pallas_titan**: sibling_of
+- **persephone**: other; Persephone’s horoscope
+- **perses_titan**: sibling_of
+- **selene**: other; Persephone’s horoscope
+- **tartarus**: child_of
+- **zephyrus**: parent_of
+- **zeus**: other; Persephone’s horoscope
+
+### ate  (6 gods)
+- **zeus**: child_of, deceived, punished_by; Ate blinds Zeus during Hera’s birth scheme; Birth oath of Herakles; Expulsion of Ate; Zeus casts Ate from Olympus
+- **hera**: served, shared_myth; Ate deceives Ampelus to gratify Hera; Hera manipulates births while Ate blinds Zeus
+- **dionysus**: other; Ate causes the death of Dionysus’s beloved
+- **eileithyia**: shared_myth; Manipulation of Heracles’ and Eurystheus’s births
+- **eris**: child_of
+- **heracles_god**: other; Heracles loses his intended kingship
+
+### athena  (69 gods)
+- **hephaestus**: allied, consort_of, other, shared_myth, taught_by; Birth from Zeus’s head; Birth of Athena; Civilizing gift of crafts; Conception of Erichthonius
+- **medusa**: fought, killed, other, transformed; Athena receives the gorgoneion; Beauty rivalry; Beheading of Medusa; Gaia’s Gorgon in the Gigantomachy
+- **poseidon**: allied, child_of, contest, fought; Contest for Athens; Contest for Attica; Destruction of the Greek fleet; Dispute over Odysseus
+- **hera**: allied, contest; Athena restrains Achilles; Attempted binding of Zeus; Jason and the Argo; Judgment of Paris
+- **heracles_god**: allied, gift, rescued, served, shared_myth; Apotheosis escort; Heracles enters Olympus; Hesperidean apples; Labors and battles of Heracles
+- **zeus**: allied, child_of, gift, other; Athena petitions for Odysseus; Attempted binding of Zeus; Bearing Zeus’s aegis; Birth from Zeus’s head
+- **ares**: allied, fought, punished; Ares attempts to avenge Ascalaphus; Ares promises to support the Achaeans; Battle of the gods; Diomedes wounds Ares
+- **hermes**: allied, served_by, shared_myth; Birth of Athena; Creation of Pandora; Equipping Perseus; Joint assistance to heroes
+- **aphrodite**: contest, fought, other; Aphrodite wounded; Battlefield opposition at Troy; Judgment of Paris; Three immune goddesses
+- **gigantes**: fought, killed; Athena seizes Alcyoneus; Death and flaying of Pallas; Enceladus buried beneath Sicily; Gigantomachy
+- **prometheus**: allied, other, theft; Animation of clay humanity; Birth from Zeus’s head; Entry into heaven; Theft from the divine workshop
+- **apollo**: allied, other, served; Settlement of Ion’s identity; Trial of Orestes
+- **erinyes**: allied, judged; Settlement after Orestes’ trial; Settlement of the Erinyes; Trial of Orestes
+- **gaia**: fought, gift, shared_myth; Birth and fostering of Erichthonius; Birth of Erichthonius; Gigantomachy
+- **pallas_titan**: killed, other; Creation of the Palladium; Death of Pallas; Gigantomachy
+- **triton**: child_of, other, shared_myth; Athena’s childhood with Pallas; Heracles wrestles Triton
+- **artemis**: allied, shared_myth; Persephone before her abduction; Taurian image and cult settlement
+- **calypso**: contest; Athena advocates Odysseus's release; Mentor opposes Calypso
+- **eileithyia**: other, shared_myth; Birth from Zeus’s head; Birth of Athena from Zeus's head
+- **enyo**: shared_myth; Goddesses governing mortal warfare; The Homoloia festival
+- **eris**: contest, shared_myth; Athena explains swelling Strife; Beauty dispute at Peleus' wedding
+- **eros**: allied, contest; Gods resistant to Eros; Medea's enchantment
+- **hades**: gift, shared_myth; Athena borrows the cap; Heracles’ descent for Cerberus
+- **harmonia**: gift, shared_myth; Wedding gifts; Wedding procession
+- **helios**: shared_myth; Athena’s cosmic birth; Fireless sacrifice at Rhodes
+- **horae**: served_by, shared_myth; Ascent of Hyacinthus and Polyboea; Athena passes through Olympus' cloud-gates
+- **iris**: other, served_by; Hera and Athena restrained; Storm against the returning Greeks
+- **metis**: child_of; Metis swallowed before Athena’s birth
+- **nike**: identified_with, other; Pheidias’s Athena Parthenos
+- **pegasus**: gift, other; Athena bridles Pegasus; The golden bridle
+- **persephone**: allied, shared_myth; Divine search for the lost maiden; Flower gathering before the abduction
+- **perses_titan**: allied, gift; Gift of Medusa’s head; Killing of Medusa
+- **phobos_and_deimos**: contest, served_by; Gods drive opposing hosts at Troy; Judgment of Paris stage spectacle
+- **ploutos**: other, shared_myth; Installation beside Athena’s treasury; Ploutos salutes Athens
+- **stymphalian_birds**: other, shared_myth; Athena supplies Heracles with bronze clappers; Olympia's Stymphalian Birds metope
+- **styx**: shared_myth; Heracles escapes the underworld; Persephone gathers flowers
+- **thetis**: fought, served; Rescue of Zeus from binding; Wedding of Peleus and Thetis
+- **amphitrite**: shared_myth; Underwater reception of Theseus
+- **ariadne**: other; Theseus’ divinely authorized departure
+- **asclepius**: gift; Gift of Gorgon blood
+- **atlas**: shared_myth; Athena assists beneath Atlas's returning sky
+- **cerberus_hound**: shared_myth; The Cerberus labour
+- **charites**: shared_myth; Aphrodite’s weaving contest
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **circe**: other; Settlement after Odysseus’s death
+- **cyclopes**: created_by; Work in Vulcan's forge
+- **danae**: other; Asylum from Polydectes
+- **demeter**: shared_myth; Joint Athenian and Eleusinian cult contexts
+- **dionysus**: rescued; Dismemberment of Orphic Dionysus
+- **dioscuri**: shared_myth; Argonautic expedition
+- **epimetheus**: shared_myth; Prometheus repairs Epimetheus's omission
+- **erymanthian_boar**: shared_myth; Delivery or capture scenes
+- **ganymede**: shared_myth; Image on Dionysus' shield
+- **geryon**: other; Divine council before Geryon's death
+- **graeae**: shared_myth; Journey to the Graeae
+- **harpies**: shared_myth; Seizure of Pandareus' daughters
+- **hebe**: shared_myth; Mantinean temple group
+- **hecatoncheires**: fought; Olympian binding conspiracy
+- **ladon**: shared_myth; Heracles arrives at the garden
+- **lernaean_hydra**: other; Athena directs the Hydra's defeat
+- **momus**: judged_by; Judgment of divine craftsmanship
+- **muses**: shared_myth; Minerva visits Helicon
+- **nemean_lion**: fought; Athena supports Heracles during the lion combat
+- **nymphs**: allied; Treasure hidden in the Naiads' cave
+- **oneiroi**: other; Dreamlike apparitions sent to Penelope and Nausicaa
+- **orthrus**: shared_myth; Athena observes the Geryon combat
+- **sirens**: shared_myth; Roman musical-contest sarcophagus
+- **themis**: shared_myth; Divine assembly vase scene
+- **uranus**: descendant_of
+
+### atlas  (20 gods)
+- **heracles_god**: allied, deceived_by, served_by, taught; Apples of the Hesperides; Atlas fetches the Hesperidean apples; Atlas teaches Heracles astronomy; Heracles tricks Atlas into resuming heaven
+- **zeus**: fought, punished_by; Aftermath of Titanomachy; Atlas leads the renewed Titan revolt; Jupiter punishes the Titan revolt; Zeus assigns Atlas the burden of heaven
+- **amphitrite**: parent_of, rescued; Amphitrite flees Poseidon’s courtship
+- **medusa**: transformed_by; Medusa's severed head petrifies Atlas; Petrification of Atlas
+- **prometheus**: shared_myth, sibling_of; Brothers' punishments
+- **athena**: shared_myth; Athena assists beneath Atlas's returning sky
+- **calypso**: parent_of
+- **epimetheus**: sibling_of
+- **hades**: parent_of
+- **hermaphroditus**: ancestor_of
+- **hermes**: ancestor_of
+- **iapetus**: child_of
+- **ladon**: shared_myth; Atlas fetches the golden apples
+- **menoetius**: sibling_of
+- **nymphs**: parent_of
+- **pasiphae**: parent_of
+- **perses_titan**: transformed_by; Perseus petrifies Atlas into a mountain
+- **poseidon**: child_of; Atlantis dynasty
+- **themis**: other; Themis foretells theft from Atlas's tree
+- **uranus**: child_of; Euhemeristic Uranus
+
+### atropos  (20 gods)
+- **clotho**: allied, shared_myth, sibling_of; Allotment of destiny at birth; The cosmic spindle
+- **lachesis**: allied, shared_myth, sibling_of; Allotment of destiny at birth; Ratification of the souls' chosen lives
+- **ananke**: child_of, served; Myth of Er
+- **themis**: child_of, other; Themis escorted to Olympus
+- **zeus**: child_of, gift; Bestowal of honor upon the Moirai
+- **apollo**: deceived_by; Admetus escapes his allotted death
+- **erebus**: child_of
+- **erinyes**: sibling_of
+- **eris**: sibling_of
+- **gaia**: child_of
+- **hades**: served
+- **hypnos**: sibling_of
+- **nemesis**: sibling_of
+- **nyx**: child_of
+- **persephone**: shared_myth; Abduction of Proserpina
+- **sirens**: shared_myth; Harmony of the cosmic spindle
+- **thanatos**: sibling_of
+- **thetis**: shared_myth; Wedding of Peleus and Thetis
+- **tyche**: sibling_of
+- **uranus**: child_of
+
+### boreas  (14 gods)
+- **zephyrus**: allied, other, shared_myth, sibling_of; Burning Patroclus’ funeral pyre; Kindling Patroclus's pyre; Precedent for Chloris’ seizure; Storm winds churn the sea
+- **notus_and_eurus**: other, shared_myth, sibling_of; Boreas stirs Notus’s onset; Dawn changes the sailors’ winds
+- **apollo**: contest, other; Hyperborean offerings reach Delos; Rivalry for Hyacinthus
+- **eos**: child_of, served; The Winds carry Memnon
+- **iris**: other, shared_myth; Patroclus’s funeral pyre; Summoning the winds to Patroclus's pyre
+- **ares**: other; The fire-breathing horses of Ares
+- **asteria**: shared_myth; Boreas carries Leto to Asteria
+- **astraeus**: child_of
+- **demeter**: fought; Demeter's dragon-chariot journey
+- **erinyes**: consort_of
+- **harpies**: consort_of; Aellopos bears Boreas' horses
+- **helios**: contest; The North Wind and the Sun
+- **pan**: contest; Rivalry for Pitys
+- **poseidon**: other
+
+### calydonian_boar  (1 gods)
+- **artemis**: created_by, other; Artemis sends the boar against Calydon; Calydonian boar hunt; Quarrel over the boar's trophies
+
+### calypso  (13 gods)
+- **hermes**: consort_of, other, served_by; Hermes's embassy to Ogygia; Order to release Odysseus
+- **athena**: contest; Athena advocates Odysseus's release; Mentor opposes Calypso
+- **poseidon**: allied, other; Neptune drives Telemachus toward Ogygia; Odysseus detained for Poseidon
+- **zeus**: other, served; Release of Odysseus; Zeus orders Odysseus's release
+- **aphrodite**: allied; Venus sends Cupid to Ogygia
+- **atlas**: child_of
+- **circe**: other; Conflicting maternity of Telegonus
+- **helios**: shared_myth; Complaint over Helios's cattle
+- **nereus**: child_of
+- **oceanus**: child_of
+- **persephone**: shared_myth; Persephone's Oceanid companions
+- **styx**: shared_myth; Calypso’s promise to Odysseus
+- **tethys**: child_of
+
+### cerberus_hound  (15 gods)
+- **hades**: other, served; Capture of Cerberus; Guarding Hades’ house; Heracles’ capture of Cerberus
+- **heracles_god**: fought, killed_by; Attempted abduction of Persephone; Capture of Cerberus; The twelfth labour
+- **athena**: shared_myth; The Cerberus labour
+- **charon**: shared_myth; Heracles’ descent for Cerberus
+- **chimera**: sibling_of
+- **coeus**: fought; Coeus’s escape from Tartarus
+- **echidna**: child_of
+- **erebus**: other; Capture of Cerberus
+- **hecate**: shared_myth; Heracles and Cerberus in the underworld
+- **hermes**: shared_myth; The Cerberus labour
+- **lernaean_hydra**: sibling_of
+- **morpheus**: contest; Orpheus’ descent for Eurydice
+- **orthrus**: sibling_of
+- **persephone**: allied; Attempted abduction of Persephone
+- **typhon**: child_of
+
+### chaos  (11 gods)
+- **aether**: created_by, parent_of, sibling_of; Birth of the Orphic cosmic egg; Chronos produces Aether and Chaos; Hyginus genealogy; Orphic cosmic egg cycle
+- **erebus**: parent_of, shared_myth, sibling_of; Hesiodic beginning; Hieronyman cosmogony; Hyginus genealogy; Orphic cosmic egg cycle
+- **nyx**: parent_of; Hesiodic beginning; Hyginus genealogy
+- **chronos_primordial**: child_of, created_by; Orphic cosmic egg cycle; The cosmic egg and Phanes
+- **eros_primordial**: consort_of, created; Night’s cosmic egg; The Orphic cosmic egg
+- **hemera**: parent_of; Hyginus genealogy; Roman cosmogony
+- **phanes**: other, shared_myth; Illumination of the primordial chasm; Orphic cosmic egg cycle
+- **ananke**: shared_myth; Orphic cosmogony
+- **eros**: consort_of; Comic bird cosmogony
+- **lachesis**: parent_of
+- **zeus**: other; Titanomachy and Typhonomachy
+
+### charites  (22 gods)
+- **aphrodite**: served, shared_myth; Aphrodite’s beauty cult; Aphrodite’s sea-birth; Aphrodite’s toilette; Aphrodite’s weaving contest
+- **dionysus**: child_of, gift, other, shared_myth; Common altar at Olympia; Dionysus reclaims his daughters from Aphrodite; Making Dionysus’s purple robe; Pasithea mourns maddened Dionysus
+- **horae**: shared_myth; Apollo's Olympian performance; Making Aphrodite's flower-dyed garments; Olympian wrist-to-wrist dance; Persephone emerges from darkness
+- **muses**: allied, shared_myth; Cadmus's wedding song; Olympian dance near the Muses; Wedding of Cadmus and Harmonia
+- **apollo**: shared_myth; Charites enthroned beside Pythian Apollo; Charites held by Delian Apollo; Olympian dance at Apollo’s music
+- **hera**: child_of, other, shared_myth; Crown of Argive Hera; Hera bargains with Sleep
+- **harmonia**: shared_myth; Olympian wrist-to-wrist dance; Wedding of Cadmus and Harmonia
+- **hephaestus**: consort_of; Charis welcomes Thetis
+- **thetis**: other, shared_myth; Charis welcomes Thetis; Wedding of Peleus and Thetis
+- **ananke**: other; Charis hates intolerable Necessity
+- **ares**: shared_myth; Apollo’s Olympian feast
+- **artemis**: served; Artemis leads the divine dance
+- **athena**: shared_myth; Aphrodite’s weaving contest
+- **clotho**: shared_myth; Seasonal processional imagery
+- **hebe**: shared_myth; Olympian wrist-to-wrist dance
+- **helios**: child_of
+- **hermes**: shared_myth; Song, persuasion, beauty, and cult
+- **hypnos**: consort_of; Hera bargains with Sleep
+- **nemesis**: other
+- **nymphs**: allied; Joint cave cult at Vari
+- **ploutos**: shared_myth; Thesmophorian joint invocation
+- **zeus**: child_of
+
+### charon  (8 gods)
+- **heracles_god**: fought, served; Heracles coerces the ferryman; Heracles’ descent to capture Cerberus
+- **hermes**: allied, other; Accounting for the underworld ferry; Conducting the dead to Charon’s shore
+- **cerberus_hound**: shared_myth; Heracles’ descent for Cerberus
+- **dionysus**: served; Dionysus crosses the underworld lake
+- **hades**: served
+- **morpheus**: served; Orpheus’ descent for Eurydice
+- **persephone**: served
+- **styx**: served; Charon ferries souls across Styx
+
+### chimera  (12 gods)
+- **lernaean_hydra**: child_of, shared_myth, sibling_of; Monsters at Hades' entrance
+- **orthrus**: consort_of, sibling_of; Birth of the Sphinx and Nemean Lion; Disputed parentage of Phix and the Nemean lion
+- **pegasus**: fought, killed_by; Bellerophon's Lycian ordeal; Combat with the Chimaera
+- **echidna**: child_of, descendant_of
+- **nemean_lion**: parent_of, sibling_of
+- **sphinx**: parent_of, sibling_of
+- **cerberus_hound**: sibling_of
+- **geryon**: shared_myth; Monsters at Hades' entrance
+- **harpies**: shared_myth; Monsters at Hades' entrance
+- **ladon**: sibling_of
+- **scylla_and_charybdis**: shared_myth; Monsters at Hades' entrance
+- **typhon**: child_of
+
+### chiron  (22 gods)
+- **apollo**: allied, gift, shared_myth, taught_by; Apollo entrusts Asclepius to Chiron; Cyrene's Libyan destiny; Education of Asclepius; Hunting instruction
+- **heracles_god**: fought, killed_by, shared_myth; Battle at Pholus’s cave; Battle with the centaurs; Heracles visits Chiron on Pelion; Hydra-poisoned arrow wound
+- **asclepius**: gift, taught; Asclepius' medical education; Education by Chiron; Transmission of medicinal drugs
+- **zeus**: rescued_by, shared_myth, transformed_by; Chiron's catasterism; Release from immortality; Wedding of Peleus and Thetis
+- **dionysus**: shared_myth, taught; Claimed education of Dionysus; Wedding of Peleus and Thetis
+- **thetis**: deceived, shared_myth; Peleus seizes transforming Thetis; Wedding of Peleus and Thetis
+- **amphitrite**: shared_myth; Wedding of Peleus and Thetis
+- **aphrodite**: shared_myth; Wedding of Peleus and Thetis
+- **ares**: shared_myth; Wedding of Peleus and Thetis
+- **artemis**: taught_by; Hunting instruction
+- **athena**: shared_myth; Wedding of Peleus and Thetis
+- **cronos**: child_of
+- **gigantes**: other; Damysos’s ankle transplanted
+- **hephaestus**: shared_myth; Wedding of Peleus and Thetis
+- **hera**: shared_myth; Wedding of Peleus and Thetis
+- **hermes**: shared_myth; Wedding of Peleus and Thetis
+- **iris**: shared_myth; Wedding of Peleus and Thetis
+- **lernaean_hydra**: other; The poisoned-arrow cycle
+- **muses**: shared_myth; Wedding of Peleus and Thetis
+- **poseidon**: shared_myth; Wedding of Peleus and Thetis
+- **prometheus**: rescued; Exchange of immortality
+- **rhea**: shared_myth; Cronus conceives Chiron in equine form
+
+### chronos_primordial  (12 gods)
+- **phanes**: created; Chronos produces two-natured Eros; Cosmic egg and first manifestation; Generation of two-natured Eros; Hieronyman cosmic egg
+- **aether**: created, parent_of; Chronos produces Aether and Chaos; Chronos produces Aether and Phanes; Chronos produces moist Aether; The cosmic egg and Phanes
+- **ananke**: consort_of; Birth of serpent-Time; Orphic cosmogony
+- **chaos**: created, parent_of; Orphic cosmic egg cycle; The cosmic egg and Phanes
+- **erebus**: created; Hieronyman cosmogony; The cosmic egg and Phanes
+- **cronos**: identified_with
+- **eros**: parent_of
+- **eros_primordial**: created; The Orphic cosmic egg
+- **hemera**: parent_of
+- **heracles_god**: identified_with; Birth of serpent-Time
+- **horae**: parent_of
+- **nyx**: consort_of; Parentage of personified day
+
+### circe  (16 gods)
+- **glaucus_sea**: other, seduced; Circe offers herself to Glaucus; Glaucus requests a charm for Scylla; Glaucus seeks a charm for Scylla
+- **aphrodite**: other, punished_by; Conception of Circe’s sons; Venus influences Circe’s desires
+- **hecate**: child_of, taught_by; Circe learns pharmacology
+- **helios**: child_of, rescued_by; Circe’s journey west
+- **hermes**: contest; Countering Circe's enchantments; Moly defeats Circe’s magic
+- **scylla_and_charybdis**: transformed; Circe transforms Scylla; Scylla’s transformation
+- **athena**: other; Settlement after Odysseus’s death
+- **calypso**: other; Conflicting maternity of Telegonus
+- **erinyes**: served; Purification after Apsyrtus’s murder
+- **oceanus**: descendant_of
+- **pasiphae**: sibling_of
+- **perses_titan**: child_of
+- **poseidon**: consort_of
+- **sirens**: other; Circe’s warning to Odysseus
+- **styx**: shared_myth; Directions to the underworld
+- **zeus**: served; Purification after Apsyrtus’s murder
+
+### clotho  (21 gods)
+- **lachesis**: shared_myth, sibling_of; Battlefield death on Heracles' shield; Ratification of the souls' chosen lives; The cosmic spindle
+- **atropos**: allied, shared_myth, sibling_of; Allotment of destiny at birth; The cosmic spindle
+- **ananke**: child_of, served; The cosmic spindle
+- **apollo**: deceived_by, shared_myth; Admetus' death substitution; Delphic fate configuration
+- **zeus**: child_of, shared_myth; Olympian fate cult
+- **aphrodite**: other; Nonnus' divine plan
+- **asclepius**: fought; Asclepius reverses death
+- **charites**: shared_myth; Seasonal processional imagery
+- **demeter**: shared_myth; Pelops' restoration
+- **gaia**: child_of
+- **hades**: shared_myth; Underworld and return imagery
+- **hecate**: identified_with
+- **hermes**: shared_myth; Invention of letters
+- **nyx**: child_of
+- **persephone**: shared_myth; Underworld and return imagery
+- **poseidon**: shared_myth; Pelops and the cauldron
+- **rhea**: other; Pelops' restoration
+- **sirens**: shared_myth; The cosmic spindle
+- **themis**: child_of
+- **typhon**: deceived; Typhon cycle
+- **uranus**: child_of
+
+### coeus  (21 gods)
+- **phoebe**: allied, consort_of, sibling_of; Birth of Leto and Asteria; Overthrow of Uranus
+- **uranus**: child_of, fought; Overthrow of Uranus; Revolt of the Titans
+- **crius**: allied, sibling_of; Overthrow of Uranus
+- **gaia**: allied, child_of; Overthrow of Uranus
+- **hyperion**: allied, sibling_of; Overthrow of Uranus
+- **iapetus**: allied, sibling_of; Overthrow of Uranus
+- **mnemosyne**: allied, sibling_of; Overthrow of Uranus
+- **oceanus**: other, sibling_of; Overthrow of Uranus
+- **rhea**: allied, sibling_of; Overthrow of Uranus
+- **tethys**: allied, sibling_of; Overthrow of Uranus
+- **theia**: allied, sibling_of; Overthrow of Uranus
+- **themis**: allied, sibling_of; Overthrow of Uranus
+- **zeus**: fought, punished_by; Defeat and imprisonment of the Titans; Titanomachy
+- **apollo**: ancestor_of
+- **artemis**: ancestor_of
+- **asteria**: parent_of
+- **cerberus_hound**: fought; Coeus’s escape from Tartarus
+- **glaucus_sea**: parent_of
+- **hecate**: ancestor_of
+- **leto**: parent_of
+- **tartarus**: child_of
+
+### crius  (19 gods)
+- **uranus**: child_of, fought; Overthrow of Uranus; Revolt of the Titans
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **oceanus**: other, sibling_of; Overthrow of Uranus
+- **zeus**: fought, rescued_by; Release of the Titans; Titanomachy
+- **ares**: sibling_of
+- **astraeus**: parent_of
+- **cyclopes**: rescued; Overthrow of Uranus
+- **gaia**: child_of
+- **hecatoncheires**: fought; Titanomachy
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **mnemosyne**: sibling_of
+- **pallas_titan**: parent_of
+- **perses_titan**: parent_of
+- **phoebe**: sibling_of
+- **rhea**: sibling_of
+- **tethys**: sibling_of
+- **theia**: sibling_of
+- **themis**: sibling_of
+
+### cronos  (17 gods)
+- **zeus**: deceived, fought, parent_of, punished_by, rescued_by; Attempted swallowing of Zeus; Deposition and confinement; Release to the Blessed Isles; Titanomachy
+- **poseidon**: deceived_by, other, parent_of; Arcadian foal substitution; Swallowing and disgorgement
+- **rhea**: consort_of, deceived_by, sibling_of; Saving the infant Zeus
+- **cyclopes**: fought, punished; Imprisonment of the Cyclopes; Titanomachy
+- **demeter**: other, parent_of; Swallowing and disgorgement
+- **gaia**: allied, child_of; Conspiracy against Ouranos
+- **hades**: other, parent_of; Swallowing and disgorgement
+- **hera**: other, parent_of; Swallowing and disgorgement
+- **hestia**: other, parent_of; Swallowing and disgorgement
+- **aphrodite**: created; Birth from the sea foam
+- **chiron**: parent_of
+- **chronos_primordial**: identified_with
+- **erinyes**: created; Birth from Ouranos’s blood
+- **helios**: deceived_by; Helios discovers the secret union
+- **hermes**: other; Circumvention of Helios’s curse
+- **metis**: deceived_by; Drug-induced disgorgement
+- **selene**: other; Creation of extra calendar days
+
+### cyclopes  (20 gods)
+- **zeus**: allied, gift, killed_by, rescued_by; Arming Zeus for the Titan war; Destruction of the thunderbolt-makers; Gift of the thunderbolt; Preparation for Titanomachy
+- **apollo**: gift, killed_by; Apollo avenges Asclepius; Apollo kills the junior Cyclopes; Cyclopean weapons for Apollo; Vengeance for Asclepius
+- **artemis**: gift, other; Artemis visits the Cyclopean forge; Artemis visits the Cyclopes; Child Artemis meets Brontes
+- **poseidon**: child_of, created, gift; Arming the three divine brothers; The horse-trough commission
+- **cronos**: fought, punished_by; Imprisonment of the Cyclopes; Titanomachy
+- **dionysus**: allied, other; Dionysus's Indian war; Polyphemus enslaves Dionysus's satyrs
+- **hades**: gift; Arming the three divine brothers; Weapons of the Titanomachy
+- **hephaestus**: served; The volcanic divine forge; Volcanic forge
+- **uranus**: child_of, punished_by; Imprisonment of Gaia's children
+- **ares**: created; Work in Vulcan's forge
+- **asclepius**: other; Death of Asclepius
+- **athena**: created; Work in Vulcan's forge
+- **crius**: rescued_by; Overthrow of Uranus
+- **gaia**: child_of
+- **gigantes**: other
+- **hecatoncheires**: sibling_of
+- **hermes**: other; Hermes impersonates a nursery Cyclops
+- **polyphemus**: shared_myth; Neighboring Cyclopes answer Polyphemus’s cries
+- **tartarus**: other; Imprisonment and release of the Cyclopes
+- **thetis**: shared_myth; Divinely commissioned armor
+
+### danae  (5 gods)
+- **zeus**: deceived_by, other, seduced_by; Arachne’s tapestry; Conception of Perseus; Golden shower; Prayer from the sea-borne chest
+- **perses_titan**: parent_of, shared_myth; Exposure in the sea-borne chest
+- **apollo**: other; Oracle of Acrisius
+- **athena**: other; Asylum from Polydectes
+- **heracles_god**: ancestor_of
+
+### demeter  (32 gods)
+- **zeus**: consort_of, deceived_by, fought, sibling_of; Conception of Persephone; Famine forces negotiation over Persephone; Zeus secretly authorizes Persephone’s abduction
+- **dionysus**: parent_of, shared_myth; Eleusinian and Orphic rites; Joint Eleusinian presence; Orphic divine family traditions
+- **persephone**: parent_of, rescued, shared_myth; Abduction, famine, reunion, and divided residence; Search, famine, and reunion; The Two Goddesses share Eleusinian honors
+- **ploutos**: parent_of, served_by, shared_myth; Birth in the thrice-ploughed field; Dispatch to favored households; Thesmophorian joint invocation
+- **rhea**: allied, child_of, identified_with, other; Demeter's reconciliation; Fusion of the grieving divine Mother; Rhea mediates the divine settlement
+- **gaia**: identified_with, shared_myth; Gaia produces the abduction narcissus; Thesmophoria invocation
+- **hades**: contest, fought, sibling_of; Abduction and negotiated return of Persephone; Famine and Persephone’s return
+- **hecate**: allied, parent_of; Search for Persephone; Search for abducted Persephone
+- **poseidon**: other, seduced_by, sibling_of; Demeter’s equine flight; Poseidon pursues Demeter in equine form
+- **cronos**: child_of, other; Swallowing and disgorgement
+- **helios**: allied, taught_by; Demeter's search for Persephone; Helios reveals Persephone’s abductor
+- **hermes**: allied; Hermes retrieves Persephone from Hades; Settlement of the Persephone crisis
+- **hestia**: shared_myth, sibling_of; Procession to Peleus and Thetis's wedding
+- **iris**: other; Demeter’s withdrawal; Iris summons Demeter from Eleusis
+- **ares**: shared_myth; Weapons exchanged for agriculture
+- **asclepius**: shared_myth; Admission to Eleusinian Mysteries
+- **astraeus**: other; Demeter’s consultation
+- **athena**: shared_myth; Joint Athenian and Eleusinian cult contexts
+- **boreas**: fought; Demeter's dragon-chariot journey
+- **clotho**: shared_myth; Pelops' restoration
+- **enyo**: shared_myth; The Homoloia festival
+- **erebus**: other; Return of Persephone
+- **erinyes**: identified_with; Demeter’s anger after Poseidon’s pursuit
+- **hera**: sibling_of
+- **horae**: shared_myth; Persephone emerges from darkness
+- **muses**: other; Calliope sings Ceres's search
+- **nemesis**: allied; Punishment of Erysichthon
+- **nymphs**: shared_myth; Inquiry after Persephone's abduction
+- **pan**: allied; Discovery of Black Demeter
+- **prometheus**: gift; Cabeiric sacred deposit
+- **sirens**: transformed; Punishment after Proserpina’s abduction
+- **themis**: shared_myth; Prophecy of the Theban wars
+
+### dionysus  (55 gods)
+- **ariadne**: consort_of, deceived, gift, other, punished, rescued, transformed; Ariadne’s apotheosis; Ariadne’s deification; Bacchus and the Indian woman; Crown of Ariadne
+- **rhea**: allied, other, shared_myth, taught_by; Convergence of Mother and Bacchic rites; Dionysus's initiation in Phrygia; Dionysus's purification in Phrygia; Initiation of the maddened Dionysus
+- **charites**: gift, other, parent_of, shared_myth; Common altar at Olympia; Dionysus reclaims his daughters from Aphrodite; Making Dionysus’s purple robe; Pasithea mourns maddened Dionysus
+- **demeter**: child_of, shared_myth; Eleusinian and Orphic rites; Joint Eleusinian presence; Orphic divine family traditions
+- **horae**: gift, judged_by, served_by, shared_myth; Dionysus bathes in a flowering landscape; Dionysus seeks admission to Olympus; Gestation and birth of Dionysus; The world before wine
+- **zeus**: child_of, rescued_by; Birth from Zeus’s thigh; Orphic birth of Dionysos; Semele and the twice-born god
+- **apollo**: rescued_by, shared_myth; Burial of Dionysus’s remains; Seasonal sharing of Delphi; Shared ritual year at Delphi
+- **gigantes**: fought, killed; Death of Eurytus; Delphic Gigantomachy; Dionysus against Rhoikos
+- **glaucus_sea**: allied, fought, punished; Bound with Dionysian vines; Marine forces in the Indian war; Rivalry over Ariadne
+- **hermes**: allied, rescued_by; Hermes supports Dionysus; Removal of the newborn Dionysus; Transport of the infant Dionysus
+- **nymphs**: allied, rescued_by, served_by; Dionysiac processions; Nurture at Nysa; Nymphs nurse the infant Dionysus
+- **pan**: allied, shared_myth; Dionysus’s Indian campaign; Indian campaign; Infant Pan received on Olympus
+- **persephone**: child_of, shared_myth; Bacchic release of dead initiates; Birth of Orphic Dionysus
+- **phanes**: descendant_of, identified_with; Renewal in Dionysus
+- **priapus**: parent_of, shared_myth; Priapic element in Dionysian rites; The ass's sexual contest
+- **aphrodite**: consort_of; Conception of Priapus
+- **ares**: shared_myth; Ares urged to yield to revelry; Hephaestus returns to Olympus
+- **artemis**: fought, other; Death of Ariadne on Dia; Madness of Artemis’ companions
+- **chiron**: shared_myth, taught_by; Claimed education of Dionysus; Wedding of Peleus and Thetis
+- **cyclopes**: allied, other; Dionysus's Indian war; Polyphemus enslaves Dionysus's satyrs
+- **enyo**: allied, other; Dionysus' Indian War; Enyo recalls Dionysus to war
+- **gaia**: shared_myth; Joint cult at Phlya; Titanic dismemberment and punishment
+- **hades**: identified_with, shared_myth; Descent to recover Semele
+- **harmonia**: descendant_of, judged; Judgment of the Theban house
+- **hephaestus**: deceived, rescued; Return of Hephaestus; Return to Olympus
+- **hera**: punished_by; Hera persecutes Dionysus; Persecution of Dionysus
+- **heracles_god**: shared_myth; Divine banquet; Divine drinking and banqueting
+- **iris**: deceived_by, other; Dionysus commissioned for India; Hera’s Dionysian intrigues
+- **muses**: rescued_by, shared_myth; Agrionia flight to the Muses; Governance of choral education
+- **proteus**: allied, taught_by; Indian campaign; Lycurgus’ punishment
+- **thetis**: rescued_by; Dionysus flees Lycurgus; Flight from Lycurgus
+- **urania**: allied, sibling_of; Hydaspes floods Dionysus' army
+- **amphitrite**: shared_myth; Divine assembly or banquet
+- **ate**: other; Ate causes the death of Dionysus’s beloved
+- **athena**: rescued_by; Dismemberment of Orphic Dionysus
+- **charon**: served_by; Dionysus crosses the underworld lake
+- **eros**: served_by; Dionysus's erotic adventures
+- **eros_primordial**: identified_with
+- **hebe**: other; Hera's unrealized marriage proposal
+- **helios**: allied; Dionysus's cosmic campaign
+- **hypnos**: allied; Indian war
+- **metis**: identified_with; Orphic chain of divine identities
+- **mnemosyne**: shared_myth; Athenian Dionysiac sanctuary
+- **momus**: other; Lucian's divine citizenship purge
+- **nemesis**: shared_myth; Late divine-generation sequences
+- **nereids**: fought; Contest over Beroe
+- **nereus**: fought; Marine war against Dionysus
+- **nyx**: other; Night's oracles concerning Bacchus
+- **oceanus**: shared_myth; Mildenhall Great Dish
+- **phobos_and_deimos**: fought; Indian war
+- **polyphemus**: other; Dionysian wine enables Polyphemus’s blinding
+- **poseidon**: contest; Contest for Naxos
+- **triton**: fought; Tanagra’s Triton attacks women
+- **tyche**: shared_myth
+- **typhon**: other; The gods flee to Egypt
+
+### dioscuri  (13 gods)
+- **zeus**: child_of, gift, transformed_by; Catasterism as Gemini; Choice of shared immortality
+- **apollo**: other, served; Apollo's epiphany at Thynias
+- **heracles_god**: allied, shared_myth; Argonautic expedition; Patronage of Spartan games
+- **hermes**: gift, shared_myth; Gift of divine horses; Patronage of Spartan games
+- **ares**: child_of
+- **athena**: shared_myth; Argonautic expedition
+- **erinyes**: shared_myth; Prediction of Orestes’ pursuit
+- **glaucus_sea**: other; Prophecy of the Dioscuri's honors
+- **harpies**: gift; Gift of Podarge's foals
+- **hera**: gift; Gift of divine horses
+- **nemesis**: child_of
+- **phoebe**: consort_of; Marriage or abduction of the Leucippides
+- **talos**: other; The Dioscuri control the collapsing Talos
+
+### echidna  (19 gods)
+- **argus_panoptes**: killed_by; Argus surprises Echidna asleep; Killing of sleeping Echidna
+- **chimera**: ancestor_of, parent_of
+- **nemean_lion**: ancestor_of, parent_of
+- **orthrus**: consort_of, parent_of; Disputed parentage of Phix and the Nemean lion
+- **sphinx**: ancestor_of, parent_of
+- **typhon**: consort_of; Union producing the first monster brood
+- **apollo**: shared_myth; Figures on Apollo’s Amyclaean throne
+- **cerberus_hound**: parent_of
+- **gaia**: child_of
+- **geryon**: sibling_of
+- **graeae**: sibling_of
+- **ladon**: parent_of
+- **lernaean_hydra**: parent_of
+- **medusa**: parent_of
+- **python**: identified_with
+- **scylla_and_charybdis**: parent_of
+- **styx**: child_of
+- **tartarus**: child_of
+- **triton**: shared_myth; Opposing sides of the Amyclaean throne
+
+### eileithyia  (22 gods)
+- **hera**: child_of, identified_with, other, served; Births of Apollo and Heracles; Manipulated births of Heracles and Eurystheus
+- **apollo**: other, rescued, served; Birth of Iamus; Birth on Delos; Delian birth of Apollo
+- **zeus**: child_of, deceived, served; Births of Herakles and Eurystheus; Zeus's decree concerning his Perseid descendant
+- **artemis**: allied, identified_with
+- **athena**: other, shared_myth; Birth from Zeus’s head; Birth of Athena from Zeus's head
+- **hephaestus**: allied, shared_myth; Birth of Athena; Birth of Athena from Zeus's head
+- **heracles_god**: punished; Manipulated births of Heracles and Eurystheus; Obstruction of Alcmene’s delivery
+- **iris**: gift, other; Birth of Apollo; Delian birth of Apollo
+- **lachesis**: identified_with, served
+- **leto**: rescued; Apollo's prolonged birth; Delian birth of Apollo
+- **themis**: shared_myth; Birth of Apollo; Delian birth of Apollo
+- **amphitrite**: shared_myth; Delian birth of Apollo
+- **aphrodite**: allied
+- **ares**: sibling_of
+- **asteria**: shared_myth; Delian birth of Apollo
+- **ate**: shared_myth; Manipulation of Heracles’ and Eurystheus’s births
+- **eros**: parent_of
+- **hebe**: sibling_of
+- **hermes**: shared_myth; Birth of Athena
+- **nymphs**: allied; Childbirth cult on the Xenokrateia relief
+- **rhea**: shared_myth; Delian birth of Apollo
+- **tethys**: shared_myth; Wedding procession of Peleus and Thetis
+
+### enyo  (13 gods)
+- **ares**: allied, child_of, consort_of, other, parent_of, served, shared_myth, sibling_of; Ares leads the Trojans with Enyo; Ares supports Deriades; Enyo and Ares madden Troy's sackers; Neoptolemus fights Eurypylus
+- **eris**: identified_with, shared_myth, sibling_of; Enyo balances the Typhonomachy; Post-Homeric battles at Troy; The bloody sack of Troy
+- **athena**: shared_myth; Goddesses governing mortal warfare; The Homoloia festival
+- **dionysus**: allied, other; Dionysus' Indian War; Enyo recalls Dionysus to war
+- **hera**: allied, child_of; Hera sends Ares against Dionysus
+- **keres**: allied, shared_myth; Battlefield slaughter at Troy; Late epic battlefield tableau
+- **phobos_and_deimos**: shared_myth; Divine horrors stalk the battlefield; The Seven swear their blood oath
+- **zeus**: child_of, other; Enyo balances the Typhonomachy
+- **demeter**: shared_myth; The Homoloia festival
+- **medusa**: other
+- **nike**: shared_myth; Enyo balances the Typhonomachy
+- **thetis**: other; Neoptolemus fights Eurypylus
+- **typhon**: other; Enyo balances the Typhonomachy
+
+### eos  (21 gods)
+- **helios**: shared_myth, sibling_of; Cosmic dawn procession; Helios rises as Eos advances
+- **notus_and_eurus**: parent_of, served_by, shared_myth; Dawn changes the sailors’ winds; The Winds carry Memnon
+- **nyx**: child_of, shared_myth; Celestial transition; Cosmic dawn procession
+- **theia**: child_of, shared_myth; Birth of Sun, Moon, and Dawn; Pergamon celestial grouping
+- **aphrodite**: punished_by, shared_myth; Abduction of Phaethon; Aphrodite curses Eos
+- **astraeus**: consort_of; Celestial genealogy
+- **boreas**: parent_of, served_by; The Winds carry Memnon
+- **hemera**: identified_with, shared_myth; Daphne cosmic procession
+- **selene**: shared_myth, sibling_of; Celestial procession
+- **thetis**: contest, shared_myth; Psychostasia of Achilles and Memnon; Weighing of Achilles and Memnon
+- **zephyrus**: parent_of, served_by; The Winds carry Memnon
+- **zeus**: gift; Immortality without youth; Immortalization of Memnon
+- **anemoi**: parent_of
+- **ares**: consort_of; Affair of Eos and Ares
+- **artemis**: shared_myth; Death of Orion
+- **gaia**: shared_myth; Gigantomachy herb search
+- **hyperion**: child_of
+- **keres**: shared_myth; Psychostasia of Achilles and Memnon
+- **oceanus**: shared_myth; Daily rising from Ocean
+- **pallas_titan**: child_of
+- **pegasus**: served_by
+
+### epimetheus  (10 gods)
+- **prometheus**: allied, other, sibling_of, taught_by; Distribution of mortal capacities; Distribution of powers among mortal creatures; Epimetheus accepts Pandora; Marriage of Pyrrha and Deucalion
+- **zeus**: deceived_by, served; Distribution of powers among mortal creatures; Gift of Pandora; Zeus sends Pandora as a hostile gift
+- **hermes**: gift, served_by; Delivery of Pandora; Hermes delivers Pandora to Epimetheus
+- **athena**: shared_myth; Prometheus repairs Epimetheus's omission
+- **atlas**: sibling_of
+- **hephaestus**: shared_myth; Prometheus repairs Epimetheus's omission
+- **iapetus**: child_of
+- **menoetius**: sibling_of
+- **oceanus**: other
+- **tethys**: other
+
+### erebus  (28 gods)
+- **aether**: parent_of, shared_myth, sibling_of; Birth of brightness from darkness; Chronos produces three cosmic principles; Hieronyman cosmogony
+- **chaos**: child_of, shared_myth, sibling_of; Hesiodic beginning; Hieronyman cosmogony; Hyginus genealogy; Orphic cosmic egg cycle
+- **nyx**: consort_of, other, sibling_of; Birth of Aether and Hemera; Invocation of Night
+- **chronos_primordial**: created_by; Hieronyman cosmogony; The cosmic egg and Phanes
+- **erinyes**: other; Althaea’s curse
+- **hemera**: parent_of; Generation of Day
+- **oneiroi**: other, parent_of; Journey of dreams
+- **persephone**: other; Return of Persephone
+- **ananke**: shared_myth; Orphic cosmogony
+- **atropos**: parent_of
+- **cerberus_hound**: other; Capture of Cerberus
+- **demeter**: other; Return of Persephone
+- **eris**: parent_of
+- **hades**: other; Althaea’s curse
+- **heracles_god**: other; Capture of Cerberus
+- **hermes**: other; Return of Persephone
+- **iris**: shared_myth; The birds challenge Iris
+- **keres**: parent_of
+- **lachesis**: parent_of
+- **menoetius**: other; Punishment of Menoetius
+- **metis**: parent_of
+- **momus**: parent_of
+- **nemesis**: parent_of
+- **phobos_and_deimos**: parent_of
+- **styx**: parent_of
+- **tartarus**: shared_myth; The birds’ primordial cosmogony
+- **thanatos**: parent_of
+- **zeus**: other; Menoetius and the Hundred-Handers
+
+### erinyes  (33 gods)
+- **athena**: allied, judged_by; Settlement after Orestes’ trial; Settlement of the Erinyes; Trial of Orestes
+- **hades**: child_of, shared_myth; Althaea’s curse against Meleager
+- **persephone**: allied, child_of, served; Parental curses against Phoenix and Meleager
+- **zeus**: contest, served, shared_myth; Agamemnon’s oath; Final terror of Turnus; Trial of Orestes
+- **apollo**: contest, fought; Orestes’ pursuit and trial; Trial of Orestes
+- **artemis**: shared_myth; Orestes at Delphi; Retrieval of Artemis’ Taurian image
+- **erebus**: other; Althaea’s curse
+- **gaia**: child_of; Birth from Uranus’ blood
+- **harpies**: other, sibling_of; Seizure of Pandareus' daughters
+- **hecate**: identified_with; Syncretistic magical invocations
+- **hera**: served, shared_myth; Allecto instigates war in Latium; Xanthus prophesies Achilles’ death
+- **lachesis**: shared_myth; Adjacent rites near Sicyon; Joint invocation as Night-born powers
+- **uranus**: child_of; Birth from Uranus’ blood; Blood-born beings
+- **aether**: child_of
+- **ananke**: served; Prometheus foretells Zeus' destined danger
+- **atropos**: sibling_of
+- **boreas**: consort_of
+- **circe**: served_by; Purification after Apsyrtus’s murder
+- **cronos**: created_by; Birth from Ouranos’s blood
+- **demeter**: identified_with; Demeter’s anger after Poseidon’s pursuit
+- **dioscuri**: shared_myth; Prediction of Orestes’ pursuit
+- **eris**: shared_myth; Birth of Horkos
+- **gigantes**: sibling_of
+- **hermes**: shared_myth; Orestes escapes Delphi
+- **iapetus**: punished; Iapetus pleads from Acheron
+- **iris**: shared_myth; Iris warns Poseidon
+- **keres**: identified_with; Destruction of Oedipus's house
+- **nyx**: child_of
+- **poseidon**: shared_myth; Poseidon pursues Demeter Erinys
+- **selene**: identified_with; Syncretistic magical invocations
+- **tartarus**: served; Punishment within Tartarus
+- **thanatos**: child_of
+- **themis**: allied; Thief-detection rite
+
+### eris  (23 gods)
+- **enyo**: identified_with, shared_myth, sibling_of; Enyo balances the Typhonomachy; Post-Homeric battles at Troy; The bloody sack of Troy
+- **zeus**: other, served, shared_myth; Divine plan initiates the Trojan War; Epic strife; Eris carries Zeus' war sign; Judgment of Paris tradition
+- **ares**: allied, shared_myth, sibling_of; Ares answers Eris' terrible war cry; Battlefield companions amplify the fighting; Divine companions amid battle
+- **hera**: contest, served, shared_myth; Beauty dispute at Peleus' wedding; Contest of Aedon and Polytechnos; Juno summons infernal Discord; Wedding of Peleus and Thetis
+- **keres**: allied, shared_myth, sibling_of; Battle on Achilles' shield; Death-powers delight in Trojan slaughter
+- **athena**: contest, shared_myth; Athena explains swelling Strife; Beauty dispute at Peleus' wedding
+- **phobos_and_deimos**: served_by, shared_myth; Divine powers move among the combatants; Eris leads the martial daimones
+- **themis**: shared_myth; Divine plan initiates the Trojan War; Wedding of Peleus and Thetis
+- **aphrodite**: contest; Beauty dispute at Peleus' wedding
+- **ate**: parent_of
+- **atropos**: sibling_of
+- **erebus**: child_of
+- **erinyes**: shared_myth; Birth of Horkos
+- **harmonia**: other; Discordian opposition of disorder and order
+- **heracles_god**: contest; Heracles strikes swelling Strife
+- **hermes**: shared_myth; Judgment of Paris
+- **lachesis**: sibling_of
+- **momus**: sibling_of
+- **nemesis**: sibling_of
+- **nike**: contest; Zeus battles Typhon
+- **nyx**: child_of
+- **thanatos**: sibling_of
+- **thetis**: other; Golden apple at Thetis’s wedding
+
+### eros  (19 gods)
+- **aphrodite**: child_of, served, shared_myth; Aphrodite's sea-birth and divine reception; Cupid impersonates Ascanius; Eros serves Aphrodite's purposes
+- **athena**: allied, contest; Gods resistant to Eros; Medea's enchantment
+- **pan**: contest; Eros wrestles Pan; Omnia Vincit Amor
+- **zeus**: gift, judged_by; Aphrodite's bribe; Recognition of Psyche's marriage
+- **apollo**: contest; Apollo and Daphne
+- **ares**: child_of
+- **artemis**: contest; Gods resistant to Eros
+- **chaos**: consort_of; Comic bird cosmogony
+- **chronos_primordial**: child_of
+- **dionysus**: served; Dionysus's erotic adventures
+- **eileithyia**: child_of
+- **ganymede**: contest; Knucklebones game
+- **hera**: allied; Medea's enchantment
+- **iris**: child_of
+- **muses**: contest; Gods resistant to Eros
+- **persephone**: shared_myth; Psyche's underworld task
+- **phanes**: identified_with; Orphic cosmic egg
+- **uranus**: child_of
+- **zephyrus**: child_of
+
+### eros_primordial  (13 gods)
+- **nyx**: child_of, gift, parent_of; Night’s cosmic egg; Orphic divine succession
+- **aether**: child_of, created_by; The Orphic cosmic egg
+- **chaos**: consort_of, created_by; Night’s cosmic egg; The Orphic cosmic egg
+- **zeus**: identified_with, other; Zeus swallows Phanes
+- **ananke**: shared_myth; Hieronyman cosmogony
+- **aphrodite**: shared_myth; Eros conceived at Aphrodite’s birthday feast
+- **chronos_primordial**: created_by; The Orphic cosmic egg
+- **dionysus**: identified_with
+- **gaia**: created; Eros mixes the world’s elements
+- **metis**: identified_with
+- **oceanus**: created; Eros mixes the world’s elements
+- **pan**: identified_with
+- **priapus**: identified_with
+
+### erymanthian_boar  (3 gods)
+- **heracles_god**: fought, killed_by, other; Capture of the Erymanthian Boar; Erymanthian boar labor; Killing variant of the labor
+- **athena**: shared_myth; Delivery or capture scenes
+- **hermes**: shared_myth; Black-figure capture scene
+
+### europa  (13 gods)
+- **zeus**: consort_of, deceived_by, gift, seduced_by; Abduction of Europa; Marvelous protections for Europa’s Cretan household; Zeus as the bull carries Europa to Crete
+- **aphrodite**: other; Aphrodite directs Zeus’s desire toward Europa; Venus predicts Europa’s continental fame
+- **talos**: other, served_by; Guardianship of Europa and Crete; Talos guards Europa’s Cretan household
+- **ariadne**: ancestor_of
+- **hecate**: gift; Angelos steals Hera's ointments
+- **hera**: identified_with
+- **hermes**: shared_myth; Mercury drives Agenor’s cattle to Europa’s shore
+- **horae**: served_by; Europa’s bridal union in Crete
+- **nereids**: allied; Divine escort across the sea
+- **oceanus**: child_of
+- **poseidon**: allied; Divine escort across the sea
+- **thanatos**: shared_myth; Apulian Sarpedon composition
+- **triton**: allied; Divine escort across the sea
+
+### gaia  (66 gods)
+- **zeus**: allied, ancestor_of, fought; Concealment and succession; Delphic dream-oracles; Gigantomachy; Preservation and rise of Zeus
+- **uranus**: consort_of, deceived, fought, parent_of, punished_by, shared_myth; Castration of Uranus; Concealment of the children; Generation of the elder gods; Sacrifice before the Gigantomachy
+- **pontus**: consort_of, parent_of; Generation of the old marine family; Hyginian cosmogony; The Sea born from Earth alone
+- **python**: created, parent_of, served_by; Earth generates Python after Deucalion's flood; Guardian of Gaia's oracle; Guarding Delphi
+- **themis**: gift, identified_with, parent_of; Delphic oracle succession; Peaceful Delphic succession; Prometheus reveals his mother’s identity
+- **apollo**: fought, gift; Antagonistic Delphic takeover; Hostile Delphic succession; Peaceful Delphic succession
+- **athena**: fought, gift, shared_myth; Birth and fostering of Erichthonius; Birth of Erichthonius; Gigantomachy
+- **demeter**: identified_with, shared_myth; Gaia produces the abduction narcissus; Thesmophoria invocation
+- **gigantes**: gift, parent_of, rescued; Gaia’s invulnerability herb; Survival of Aristaios
+- **hephaestus**: consort_of, created, other; Conception of Erichthonius
+- **rhea**: allied, parent_of; Preservation of infant Zeus; The concealment of Zeus
+- **aether**: child_of, consort_of; Cosmic marriage of Aether and Earth
+- **coeus**: allied, parent_of; Overthrow of Uranus
+- **cronos**: allied, parent_of; Conspiracy against Ouranos
+- **dionysus**: shared_myth; Joint cult at Phlya; Titanic dismemberment and punishment
+- **erinyes**: parent_of; Birth from Uranus’ blood
+- **hades**: allied, shared_myth; Narcissus lure for Persephone
+- **hecate**: fought, shared_myth; Gigantomachy; Late magical invocations
+- **hecatoncheires**: allied, parent_of; Liberation before the Titanomachy
+- **helios**: allied, shared_myth; Achaean-Trojan oath sacrifice; Zeus takes the Giants’ herb
+- **hemera**: child_of, shared_myth; Daphne cosmic procession; Hyginus’s cosmogony
+- **hera**: other, shared_myth; Hera’s oath; Production of Typhaon
+- **metis**: other, shared_myth; Counsel before Zeus swallows Metis; Prophecy concerning Metis
+- **pan**: parent_of, shared_myth; Preservation of Echo’s voice
+- **persephone**: deceived, shared_myth; Narcissus snare; Thesmophoria invocation
+- **phoebe**: parent_of, shared_myth; Delphic oracle succession
+- **poseidon**: consort_of, shared_myth; Joint ownership of Delphi
+- **tartarus**: consort_of; Gaia and Tartarus conceive Typhoeus
+- **typhon**: created, parent_of; Revenge after the Gigantomachy
+- **aphrodite**: shared_myth; Birth of Aphrodite
+- **ares**: parent_of
+- **argus_panoptes**: parent_of
+- **artemis**: allied; Earth’s scorpion kills Orion
+- **asteria**: ancestor_of
+- **astraeus**: parent_of
+- **atropos**: parent_of
+- **clotho**: parent_of
+- **crius**: parent_of
+- **cyclopes**: parent_of
+- **echidna**: parent_of
+- **eos**: shared_myth; Gigantomachy herb search
+- **eros_primordial**: created_by; Eros mixes the world’s elements
+- **harpies**: parent_of
+- **heracles_god**: shared_myth; Wrestling Antaeus
+- **hyperion**: parent_of
+- **iapetus**: parent_of
+- **lachesis**: parent_of
+- **medusa**: created; Gaia’s Gorgon in the Gigantomachy
+- **mnemosyne**: parent_of
+- **muses**: parent_of
+- **nemesis**: parent_of
+- **nereids**: ancestor_of
+- **nereus**: parent_of
+- **nymphs**: parent_of; Birth of the Meliae
+- **nyx**: child_of
+- **oceanus**: parent_of
+- **oneiroi**: parent_of
+- **pallas_titan**: ancestor_of
+- **pasiphae**: gift; Gaia grants Daphne prophecy
+- **perses_titan**: ancestor_of
+- **phanes**: descendant_of
+- **scylla_and_charybdis**: parent_of
+- **selene**: shared_myth; Selene approaches sleeping Endymion
+- **styx**: shared_myth; Zeus’s supreme oath
+- **tethys**: parent_of
+- **theia**: parent_of
+
+### ganymede  (8 gods)
+- **zeus**: other, seduced_by, served, transformed_by; Abduction of Ganymede; Cupbearer of Zeus; Ganymede made immortal; Ganymede’s translation
+- **hebe**: contest, shared_myth; Displacement of Hebe; Hebe–Ganymede cupbearer rivalry; Parallel Olympian cupbearers
+- **hera**: other; Hera denounces Ganymede; Juno's jealousy
+- **aphrodite**: rescued_by; Escape from mortal death
+- **athena**: shared_myth; Image on Dionysus' shield
+- **eros**: contest; Knucklebones game
+- **momus**: other; Lucian's divine citizenship purge
+- **thetis**: served; Wedding of Peleus and Thetis
+
+### geryon  (9 gods)
+- **heracles_god**: consort_of, fought, killed_by, theft; Battle for Geryon's cattle on Erytheia; Cattle of Geryon; Death beside the cattle on Erytheia; Heracles' tenth labor
+- **orthrus**: served_by; Guarding Geryon's cattle; Guarding Geryon's cattle on Erytheia
+- **poseidon**: descendant_of, other; Divine council before Geryon's death
+- **athena**: other; Divine council before Geryon's death
+- **chimera**: shared_myth; Monsters at Hades' entrance
+- **echidna**: sibling_of
+- **medusa**: descendant_of
+- **tethys**: descendant_of
+- **zeus**: shared_myth; Divine council concerning Geryon's fate
+
+### gigantes  (21 gods)
+- **zeus**: fought, killed_by, served; Burning of Enceladus; Death of Mimas; Death of Mylinos; Defeat of Porphyrion
+- **heracles_god**: fought, killed_by; Blinding of Ephialtes; Death of Alcyoneus; Death of Leon; Defeat of Porphyrion
+- **athena**: fought, killed_by; Athena seizes Alcyoneus; Death and flaying of Pallas; Enceladus buried beneath Sicily; Gigantomachy
+- **dionysus**: fought, killed_by; Death of Eurytus; Delphic Gigantomachy; Dionysus against Rhoikos
+- **gaia**: child_of, gift, rescued_by; Gaia’s invulnerability herb; Survival of Aristaios
+- **hera**: fought, killed_by, seduced; Death of Phoitios; Eurymedon assaults young Hera; Porphyrion attacks Hera
+- **apollo**: fought, killed_by; Blinding of Ephialtes; Defeat of Porphyrion
+- **ares**: killed_by; Death of Mimas; Death of Mimon
+- **helios**: killed_by, theft; Death of the Moly Giant; Theft of Helios’s cattle
+- **aphrodite**: deceived_by; Aphrodite’s Phanagoreian deception
+- **artemis**: killed_by; Death of Aegaeon
+- **chiron**: other; Damysos’s ankle transplanted
+- **cyclopes**: other
+- **erinyes**: sibling_of
+- **hecate**: killed_by; Death of Clytius
+- **hephaestus**: killed_by; Death of Mimas
+- **hermes**: killed_by; Death of Hippolytus
+- **poseidon**: killed_by; Polybotes buried beneath Nisyros
+- **rhea**: allied; Defense of pregnant Rhea
+- **tartarus**: child_of
+- **uranus**: child_of
+
+### glaucus_sea  (23 gods)
+- **nereus**: child_of, other, seduced_by, served; Nereus loves Glaucus; Nereus' love for Glaucus; Prophecy beside the Argo; Prophecy of Agamemnon's murder
+- **circe**: other, seduced_by; Circe offers herself to Glaucus; Glaucus requests a charm for Scylla; Glaucus seeks a charm for Scylla
+- **scylla_and_charybdis**: gift, seduced, shared_myth; Courtship gifts in Scylla's cave; Glaucus courts Scylla; Glaucus unsuccessfully courts Scylla; Scylla's transformation by Circe
+- **ariadne**: consort_of, seduced, sibling_of; Glaucus loves Ariadne on Dia; Union after Theseus abandons Ariadne
+- **dionysus**: allied, fought, punished_by; Bound with Dionysian vines; Marine forces in the Indian war; Rivalry over Ariadne
+- **heracles_god**: other; Argonautic prophecy during the storm; Prophecy of Heracles' destiny
+- **morpheus**: shared_myth; Epiphany after Orpheus' storm-prayer; Prophecy beside the Argo
+- **poseidon**: child_of, served; Poseidon's marine retinue
+- **proteus**: allied, shared_myth; Marine gods propel Aeneas' fleet; Poseidon's late marine company
+- **zeus**: other, transformed_by; Apotheosis after the Tyrrhenian battle; Storm prompts Glaucus' sea-leap
+- **amphitrite**: shared_myth; Reception into the marine realm
+- **apollo**: taught; Glaucus teaches Apollo prophecy
+- **asclepius**: rescued_by; Resurrection of Glaucus
+- **coeus**: child_of
+- **dioscuri**: other; Prophecy of the Dioscuri's honors
+- **helios**: other; Helios' immortal herb
+- **hermes**: descendant_of
+- **nereids**: allied; Shared Delian oracle
+- **oceanus**: transformed_by; Purification and apotheosis
+- **tethys**: transformed_by; Purification and apotheosis
+- **thetis**: allied; Marine gods propel Aeneas' fleet
+- **triton**: allied; Marine gods propel Aeneas' fleet
+- **zephyrus**: shared_myth; Sacrifice before the Argo sails
+
+### graeae  (9 gods)
+- **perses_titan**: taught, theft; Directions to the equipment-bearing nymphs; Ovid's two Graeae; The discarded eye; The eye-and-tooth ransom
+- **athena**: shared_myth; Journey to the Graeae
+- **echidna**: sibling_of
+- **hades**: other; Quest for Hades' cap
+- **helios**: other; The Graeae beyond celestial sight
+- **hermes**: shared_myth; Journey to the Graeae
+- **medusa**: sibling_of
+- **scylla_and_charybdis**: sibling_of
+- **selene**: other; The Graeae beyond celestial sight
+
+### hades  (33 gods)
+- **zeus**: allied, identified_with, shared_myth, sibling_of; Abduction and return of Persephone; Division of the cosmos; Persephone’s marriage
+- **heracles_god**: fought, judged, other; Capture of Cerberus; Hades defends Pylos; Heracles wounds Hades at Pylos; War at Pylos
+- **persephone**: consort_of, deceived, gift, other, punished; Abduction into the underworld; Abduction of Persephone; Pomegranate and seasonal settlement; Pomegranate before Persephone’s release
+- **cerberus_hound**: other, served_by; Capture of Cerberus; Guarding Hades’ house; Heracles’ capture of Cerberus
+- **hermes**: served_by, shared_myth; Conduction of souls into Hades; Mission for Persephone's release; Release of Persephone
+- **poseidon**: allied, other, shared_myth, sibling_of; Division of the cosmos; Poseidon shakes the earth
+- **demeter**: contest, fought, sibling_of; Abduction and negotiated return of Persephone; Famine and Persephone’s return
+- **erinyes**: parent_of, shared_myth; Althaea’s curse against Meleager
+- **apollo**: shared_myth; Admetus’ substitute death
+- **asclepius**: other, punished; Asclepius restores the dead; Complaint against resurrection
+- **athena**: gift, shared_myth; Athena borrows the cap; Heracles’ descent for Cerberus
+- **cronos**: child_of, other; Swallowing and disgorgement
+- **cyclopes**: gift; Arming the three divine brothers; Weapons of the Titanomachy
+- **dionysus**: identified_with, shared_myth; Descent to recover Semele
+- **gaia**: allied, shared_myth; Narcissus lure for Persephone
+- **helios**: other, shared_myth; Abduction of Persephone; Persephone's abduction
+- **atlas**: child_of
+- **atropos**: served_by
+- **charon**: served_by
+- **clotho**: shared_myth; Underworld and return imagery
+- **erebus**: other; Althaea’s curse
+- **graeae**: other; Quest for Hades' cap
+- **hecate**: shared_myth; Abduction and return of Persephone
+- **hera**: sibling_of
+- **hestia**: sibling_of
+- **medusa**: other; Perseus’s escape
+- **morpheus**: judged; Orpheus seeks Eurydice
+- **muses**: other; Calliope sings Proserpina's abduction
+- **nymphs**: fought; Cyane opposes Persephone's abduction
+- **ploutos**: identified_with
+- **rhea**: child_of
+- **tartarus**: other
+- **thanatos**: shared_myth; Death of Alcestis
+
+### harmonia  (18 gods)
+- **aphrodite**: allied, child_of, gift; Samothracian courtship; Wedding gifts
+- **ares**: child_of, rescued_by, shared_myth; Apollo’s Olympian feast; Rescue after serpent transformation
+- **zeus**: child_of, gift, other; Marriage of Cadmus and Harmonia; Necklace of Harmonia
+- **athena**: gift, shared_myth; Wedding gifts; Wedding procession
+- **charites**: shared_myth; Olympian wrist-to-wrist dance; Wedding of Cadmus and Harmonia
+- **dionysus**: ancestor_of, judged_by; Judgment of the Theban house
+- **hephaestus**: gift, punished_by; Curse of Harmonia's necklace; Necklace and robe
+- **muses**: parent_of, shared_myth; Wedding of Cadmus and Harmonia
+- **apollo**: shared_myth; Wedding of Cadmus and Harmonia
+- **eris**: other; Discordian opposition of disorder and order
+- **hebe**: shared_myth; Harmonia's bridal preparation
+- **hera**: punished_by; Crime-infused wedding robe
+- **heracles_god**: shared_myth; Wedding procession
+- **hermes**: shared_myth; Wedding procession
+- **horae**: shared_myth; Apollo's Olympian performance
+- **nike**: served_by; Wedding of Cadmus and Harmonia
+- **persephone**: shared_myth; Harmonia's bridal preparation
+- **phobos_and_deimos**: sibling_of
+
+### harpies  (17 gods)
+- **iris**: rescued_by, sibling_of; Harpies pursued by the Boreads; Iris halts the Boreads
+- **erinyes**: other, sibling_of; Seizure of Pandareus' daughters
+- **hermes**: other, rescued_by; Gift of Podarge's foals; Hermes halts the Boreads
+- **zeus**: served, taught_by; Celaeno's table-eating prophecy; Punishment of Phineus
+- **aphrodite**: shared_myth; Seizure of Pandareus' daughters
+- **apollo**: taught_by; Celaeno's table-eating prophecy
+- **artemis**: shared_myth; Seizure of Pandareus' daughters
+- **athena**: shared_myth; Seizure of Pandareus' daughters
+- **boreas**: consort_of; Aellopos bears Boreas' horses
+- **chimera**: shared_myth; Monsters at Hades' entrance
+- **dioscuri**: gift; Gift of Podarge's foals
+- **gaia**: child_of
+- **hera**: shared_myth; Seizure of Pandareus' daughters
+- **pontus**: child_of
+- **poseidon**: child_of
+- **styx**: other; Oath ending the pursuit
+- **zephyrus**: consort_of; Podarge conceives the divine horses
+
+### hebe  (15 gods)
+- **ares**: served, sibling_of; Ares is restored after his wounding; Care of wounded Ares
+- **ganymede**: contest, shared_myth; Displacement of Hebe; Hebe–Ganymede cupbearer rivalry; Parallel Olympian cupbearers
+- **hera**: child_of, served; Hera conceives Hebe by eating lettuce; Preparing Hera's divine chariot
+- **heracles_god**: consort_of, gift; Heracles' apotheosis and Olympian marriage; Rejuvenation of Iolaus
+- **themis**: other, punished_by; Debate after Iolaus' rejuvenation; Prophecy of the Theban wars
+- **zeus**: child_of, served
+- **aphrodite**: shared_myth; Wedding of Heracles and Hebe
+- **apollo**: shared_myth; Olympian music and dance
+- **athena**: shared_myth; Mantinean temple group
+- **charites**: shared_myth; Olympian wrist-to-wrist dance
+- **dionysus**: other; Hera's unrealized marriage proposal
+- **eileithyia**: sibling_of
+- **harmonia**: shared_myth; Harmonia's bridal preparation
+- **horae**: shared_myth; Apollo's Olympian performance
+- **proteus**: child_of
+
+### hecate  (28 gods)
+- **artemis**: allied, identified_with, other, transformed_by; Gigantomachy; Iphigenia becomes Hecate; Iphigenia’s rescue at Aulis
+- **persephone**: allied, identified_with, served, shared_myth; Persephone's abduction; Persephone's return; Roman Egyptian magical invocations; Search and reunion
+- **demeter**: allied, child_of; Search for Persephone; Search for abducted Persephone
+- **helios**: descendant_of, shared_myth; Demeter's search for Persephone; Investigation of Persephone's abduction
+- **phoebe**: descendant_of, identified_with, shared_myth; Pergamon Gigantomachy; Triple magical manifestation
+- **circe**: parent_of, taught; Circe learns pharmacology
+- **erinyes**: identified_with; Syncretistic magical invocations
+- **gaia**: fought, shared_myth; Gigantomachy; Late magical invocations
+- **hera**: child_of, theft; Angelos steals Hera's ointments
+- **hermes**: identified_with, shared_myth; Chthonic invocations and mystery rites
+- **scylla_and_charybdis**: other, parent_of; Circe transforms Scylla
+- **zeus**: child_of, gift; Hesiodic grant of honors
+- **apollo**: other
+- **asteria**: child_of
+- **cerberus_hound**: shared_myth; Heracles and Cerberus in the underworld
+- **clotho**: identified_with
+- **coeus**: descendant_of
+- **europa**: gift; Angelos steals Hera's ointments
+- **gigantes**: killed; Death of Clytius
+- **hades**: shared_myth; Abduction and return of Persephone
+- **heracles_god**: allied; Gigantomachy
+- **nyx**: child_of
+- **pallas_titan**: other
+- **perses_titan**: child_of
+- **rhea**: identified_with
+- **selene**: identified_with
+- **stymphalian_birds**: gift; Medea's offering of a Stymphalian feather
+- **tartarus**: other; Authority over Tartarean punishments
+
+### hecatoncheires  (11 gods)
+- **poseidon**: child_of, fought, gift, judged; Dispute over Corinth; Marriage to Cymopoleia; Olympian binding conspiracy; Poseidon defeats Aegaeon
+- **zeus**: allied, rescued, rescued_by; Liberation before the Titanomachy; Olympian binding conspiracy; Preparation for Titanomachy; Titanomachy
+- **gaia**: allied, child_of; Liberation before the Titanomachy
+- **uranus**: child_of, punished_by; Imprisonment within Gaia
+- **athena**: fought; Olympian binding conspiracy
+- **crius**: fought; Titanomachy
+- **cyclopes**: sibling_of
+- **helios**: judged; Dispute over Corinth
+- **hera**: fought; Olympian binding conspiracy
+- **pontus**: child_of
+- **thetis**: allied; Briareus saves Zeus
+
+### helios  (48 gods)
+- **selene**: consort_of, parent_of, shared_myth, sibling_of; Birth of the Horae; Helios murdered and Selene transformed; Opposed rising and setting; Sun and Moon balance Zeus’s throne
+- **zeus**: allied, identified_with, shared_myth; Cattle of Helios; Fireless sacrifice at Rhodes; Oath before the duel; Punishment of Odysseus's crew
+- **hephaestus**: allied, gift, other, rescued; Ares and Aphrodite exposed; Exposure of Aphrodite's adultery; Golden cup of Helios; Golden nocturnal bowl
+- **heracles_god**: fought, gift; Heracles challenges the sun; Journey to Geryon; Voyage to Erytheia
+- **aphrodite**: deceived, punished_by; Ares and Aphrodite exposed; Ares, Hephaestus, and the net; Leucothoe and Clytie
+- **eos**: shared_myth, sibling_of; Cosmic dawn procession; Helios rises as Eos advances
+- **hecate**: ancestor_of, shared_myth; Demeter's search for Persephone; Investigation of Persephone's abduction
+- **hemera**: shared_myth; Fall of Phaethon; Funeral of Memnon; Shared altar on Kos
+- **hermes**: shared_myth; Apollo's stolen cattle; Atreus's solar kingship sign; Investigation of Apollo's stolen cattle
+- **oceanus**: rescued, served_by, shared_myth; Daily solar journey; Helios's nightly passage; Heracles threatens Oceanus
+- **theia**: allied, child_of; Birth of Sun, Moon, and Dawn; Pergamon Gigantomachy
+- **ares**: deceived; Ares and Aphrodite exposed; Exposure of Aphrodite’s affair
+- **athena**: shared_myth; Athena’s cosmic birth; Fireless sacrifice at Rhodes
+- **circe**: parent_of, rescued; Circe’s journey west
+- **demeter**: allied, taught; Demeter's search for Persephone; Helios reveals Persephone’s abductor
+- **gaia**: allied, shared_myth; Achaean-Trojan oath sacrifice; Zeus takes the Giants’ herb
+- **gigantes**: killed, theft; Death of the Moly Giant; Theft of Helios’s cattle
+- **hades**: other, shared_myth; Abduction of Persephone; Persephone's abduction
+- **horae**: parent_of, served_by; The twelve Horae attend the solar course
+- **hyperion**: child_of, identified_with
+- **nymphs**: parent_of, served_by; Guarding the cattle of Helios
+- **nyx**: contest, shared_myth; Helios rises as Night retreats; Night departs as Sun rises
+- **pasiphae**: parent_of, shared_myth; Bronze images at Thalamai
+- **persephone**: shared_myth; Persephone's abduction; Witness to Persephone’s abduction
+- **perses_titan**: consort_of, parent_of
+- **poseidon**: contest; Contest for Corinth; Division of Corinth
+- **apollo**: identified_with
+- **ariadne**: ancestor_of
+- **astraeus**: other; Persephone’s horoscope
+- **boreas**: contest; The North Wind and the Sun
+- **calypso**: shared_myth; Complaint over Helios's cattle
+- **charites**: parent_of
+- **cronos**: deceived; Helios discovers the secret union
+- **dionysus**: allied; Dionysus's cosmic campaign
+- **glaucus_sea**: other; Helios' immortal herb
+- **graeae**: other; The Graeae beyond celestial sight
+- **hecatoncheires**: judged_by; Dispute over Corinth
+- **hera**: other; Early sunset during Patroclus battle
+- **lachesis**: gift; Allotment of Rhodes to Helios
+- **minotaur**: ancestor_of
+- **muses**: served_by; Solar divine choruses
+- **nereus**: other; Cup of Helios
+- **phanes**: identified_with
+- **prometheus**: theft; Fire taken from the Sun's chariot
+- **tethys**: served_by; Reception of the setting sun
+- **thanatos**: other; The dark house of Sleep and Death
+- **themis**: allied; Thief-detection rite
+- **uranus**: shared_myth; Sacrifice before the Gigantomachy
+
+### hemera  (15 gods)
+- **nyx**: child_of, punished_by, shared_myth; Daphne cosmic procession; Day and Night exchange places; Fall of Phaethon; Generation of Day
+- **aether**: consort_of, sibling_of; Hyginus’s cosmogony; Roman learned cosmogony
+- **helios**: shared_myth; Fall of Phaethon; Funeral of Memnon; Shared altar on Kos
+- **chaos**: child_of; Hyginus genealogy; Roman cosmogony
+- **eos**: identified_with, shared_myth; Daphne cosmic procession
+- **erebus**: child_of; Generation of Day
+- **gaia**: parent_of, shared_myth; Daphne cosmic procession; Hyginus’s cosmogony
+- **aphrodite**: theft; Seizure of Phaethon
+- **chronos_primordial**: child_of
+- **horae**: shared_myth; Fall of Phaethon
+- **hyperion**: child_of
+- **theia**: child_of
+- **thetis**: shared_myth; Mothers petition before the duel
+- **uranus**: parent_of
+- **zeus**: shared_myth; Mothers petition before the duel
+
+### hephaestus  (34 gods)
+- **athena**: allied, consort_of, other, shared_myth, taught; Birth from Zeus’s head; Birth of Athena; Civilizing gift of crafts; Conception of Erichthonius
+- **hera**: allied, child_of, punished, punished_by, rescued, served; Battle with Scamander; Binding throne; Casting out Hephaestus; Maternal rejection and fall
+- **zeus**: child_of, gift, other, punished_by, served; Binding Prometheus; Birth of Athena; Divine scepter; Olympian feast
+- **ares**: deceived_by, fought, punished, served; Adultery net; Ares and Aphrodite’s affair; Ares tries forcing Hephaestus back; Failed retrieval of Hephaestus
+- **prometheus**: punished, shared_myth, theft; Athenian torch cults; Binding Prometheus; Chaining in Scythia; Creation of Pandora
+- **helios**: allied, gift, other, rescued_by; Ares and Aphrodite exposed; Exposure of Aphrodite's adultery; Golden cup of Helios; Golden nocturnal bowl
+- **aphrodite**: consort_of, punished, seduced_by; Adultery net; Ares, Hephaestus, and the net; Forging Aeneas's armor
+- **gaia**: consort_of, created_by, other; Conception of Erichthonius
+- **hermes**: shared_myth; Adultery net spectacle; Creation of Pandora; Exposure of Ares and Aphrodite
+- **talos**: child_of, created; Bronze guardian; Hephaestus manufactures the bronze guardian
+- **thetis**: gift, rescued_by; Forging Achilles' armor; Rescue beneath Ocean; Sheltering the fallen Hephaestus
+- **apollo**: gift, shared_myth; Adultery net spectacle; Hephaestian sanctuary artifacts
+- **charites**: consort_of; Charis welcomes Thetis
+- **cyclopes**: served_by; The volcanic divine forge; Volcanic forge
+- **dionysus**: deceived_by, rescued_by; Return of Hephaestus; Return to Olympus
+- **eileithyia**: allied, shared_myth; Birth of Athena; Birth of Athena from Zeus's head
+- **harmonia**: gift, punished; Curse of Harmonia's necklace; Necklace and robe
+- **hypnos**: gift, other; Hera’s bribery of Hypnos; House of Sleep
+- **poseidon**: other; Hephaestus’ adultery net; Release of the adulterers
+- **aeolus**: shared_myth; Liparian civic offerings
+- **ariadne**: other; Making Ariadne’s crown
+- **artemis**: shared_myth; Visit to the Liparian forge
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **epimetheus**: shared_myth; Prometheus repairs Epimetheus's omission
+- **gigantes**: killed; Death of Mimas
+- **heracles_god**: gift; Divine equipment
+- **iris**: other; The Argo’s passage
+- **momus**: judged_by; Judgment of divine craftsmanship
+- **nereids**: shared_myth; Delivery of Achilles’ armor
+- **nymphs**: rescued_by; Sheltering Hephaestus after his fall
+- **oceanus**: created; Shield of Achilles
+- **phobos_and_deimos**: fought; Failed return of Hephaestus
+- **proteus**: other; Cabeiro’s Cabeirian offspring
+- **stymphalian_birds**: other; The bronze clappers used against the birds
+
+### hera  (73 gods)
+- **heracles_god**: deceived, fought, other, punished, shared_myth, transformed; Apotheosis and reconciliation; Delayed birth of Heracles; Infant Heracles and the snakes; Infant snakes
+- **hephaestus**: allied, parent_of, punished, punished_by, rescued_by, served_by; Battle with Scamander; Binding throne; Casting out Hephaestus; Maternal rejection and fall
+- **zeus**: consort_of, deceived, deceived_by, fought, other, punished_by, sibling_of; Attempted binding of Zeus; Courtship of Hera; Daedala reconciliation; Deception of Zeus
+- **aphrodite**: allied, contest, deceived, gift; Cupid and Psyche; Deception of Zeus; Judgment of Paris; Medea's love for Jason
+- **athena**: allied, contest; Athena restrains Achilles; Attempted binding of Zeus; Jason and the Argo; Judgment of Paris
+- **poseidon**: allied, contest, fought, sibling_of; Attempted binding of Zeus; Contest for Argos; Deception of Zeus; Divine support for the Achaeans
+- **ares**: allied, fought, parent_of, punished; Ares attempts to avenge Ascalaphus; Ares promises to support the Achaeans; Battle of gods; Juno conceives Mars using Flora’s flower
+- **thetis**: allied, contest, fought, gift, shared_myth; Attempted binding of Zeus; Grant of Lacinion; Rescue of Zeus from binding; Rescue of the Argo
+- **eileithyia**: identified_with, other, parent_of, served_by; Births of Apollo and Heracles; Manipulated births of Heracles and Eurystheus
+- **eris**: contest, served_by, shared_myth; Beauty dispute at Peleus' wedding; Contest of Aedon and Polytechnos; Juno summons infernal Discord; Wedding of Peleus and Thetis
+- **horae**: other, served_by, shared_myth; Crown of Argive Hera; Hera passes through Olympus' cloud-gates; Nursing the infant Hera
+- **hypnos**: allied, gift, served_by; Deception of Zeus; Dream of Ceyx; First conspiracy against Zeus
+- **iris**: other, served_by; Hera and Athena restrained; Hera’s divine messenger; Madness of Heracles; Olympian messages
+- **nemean_lion**: created, served, transformed; Hera nurtures the lion near Nemean Zeus; Hera orders the lion’s lunar production; Hera places the lion among the stars; Hera rears and settles the lion at Nemea
+- **artemis**: fought, other; Battle of the gods; Birth of Apollo and Artemis; Olympian theomachy
+- **charites**: other, parent_of, shared_myth; Crown of Argive Hera; Hera bargains with Sleep
+- **gigantes**: fought, killed, seduced_by; Death of Phoitios; Eurymedon assaults young Hera; Porphyrion attacks Hera
+- **hebe**: parent_of, served_by; Hera conceives Hebe by eating lettuce; Preparing Hera's divine chariot
+- **hermes**: deceived_by, rescued, served_by; Hera nurses Hermes through disguise; Judgment of Paris; Secret conception of Hermes
+- **leto**: punished; Birth of Apollo; Leto's worldwide flight; Obstruction of Apollo's birth
+- **rhea**: child_of, other; Hera's fostering; Jupiter's concealment
+- **tethys**: deceived, other; Deception of Zeus; Nursing of Hera
+- **typhon**: created, other, parent_of; Hera's autonomous maternity; The gods flee to Egypt
+- **apollo**: other, punished; Birth of Apollo; Birth on Delos
+- **argus_panoptes**: served_by, transformed; Custody of Io; Peacock’s eyes
+- **ate**: served_by, shared_myth; Ate deceives Ampelus to gratify Hera; Hera manipulates births while Ate blinds Zeus
+- **cronos**: child_of, other; Swallowing and disgorgement
+- **dionysus**: punished; Hera persecutes Dionysus; Persecution of Dionysus
+- **enyo**: allied, parent_of; Hera sends Ares against Dionysus
+- **erinyes**: served_by, shared_myth; Allecto instigates war in Latium; Xanthus prophesies Achilles’ death
+- **gaia**: other, shared_myth; Hera’s oath; Production of Typhaon
+- **ganymede**: other; Hera denounces Ganymede; Juno's jealousy
+- **hecate**: parent_of, theft; Angelos steals Hera's ointments
+- **hestia**: shared_myth, sibling_of; Procession to Peleus and Thetis's wedding
+- **ladon**: served_by, transformed; Catasterism of the slain dragon; Hera appoints the apple-tree guardian
+- **lernaean_hydra**: allied; Hera raises an enemy for Heracles; Hera sends the giant crab
+- **nymphs**: punished; Hera deprives Echo of independent speech; Hera persecutes Zeus's nymph lovers
+- **oceanus**: other; Hera's fosterage
+- **prometheus**: parent_of, shared_myth; Prometheus and Hera
+- **sirens**: other, shared_myth; Contest with the Muses; Roman musical-contest sarcophagus
+- **sphinx**: served_by; Hera sends the Sphinx to Thebes; Punishment for Laius' crime against Chrysippus
+- **styx**: shared_myth; Hera denies directing Poseidon; Hera’s bargain with Hypnos
+- **amphitrite**: shared_myth; Divine assembly or banquet
+- **anemoi**: served_by; Juno unleashes the Venti against Aeneas
+- **asteria**: other; Asteria defies Hera's ban
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **demeter**: sibling_of
+- **dioscuri**: gift; Gift of divine horses
+- **eros**: allied; Medea's enchantment
+- **europa**: identified_with
+- **hades**: sibling_of
+- **harmonia**: punished; Crime-infused wedding robe
+- **harpies**: shared_myth; Seizure of Pandareus' daughters
+- **hecatoncheires**: fought; Olympian binding conspiracy
+- **helios**: other; Early sunset during Patroclus battle
+- **momus**: shared_myth; Lucian's divine citizenship purge
+- **nereids**: served_by; Rescue of the Argo
+- **nereus**: served_by; Rescue of the Argo
+- **notus_and_eurus**: served_by; Storm against Aeneas’s fleet
+- **nyx**: other; Hera's plot against Heracles
+- **oneiroi**: served_by; Morpheus visits Alcyone
+- **phobos_and_deimos**: allied; Hera mobilizes Dionysus’ opponents
+- **priapus**: punished; Prenatal curse
+- **proteus**: allied; Phantom Helen plot
+- **python**: other; Hera entrusts Typhaon to the dragoness
+- **scylla_and_charybdis**: other; The Argonauts pass the monsters
+- **selene**: served_by; Descent of the Nemean lion
+- **talos**: shared_myth; Argonautic program of the Talos krater
+- **tartarus**: shared_myth; Hera’s independent conception of Typhaon
+- **thanatos**: shared_myth; Apulian Sarpedon composition
+- **themis**: gift; Hera’s distressed return to Olympus
+- **tyche**: other
+- **zephyrus**: served_by; Hera’s reconstructed wind-drawn chariot
+
+### heracles_god  (58 gods)
+- **hera**: deceived_by, fought, other, punished_by, shared_myth, transformed_by; Apotheosis and reconciliation; Delayed birth of Heracles; Infant Heracles and the snakes; Infant snakes
+- **stymphalian_birds**: fought, killed; Heracles attacks the flock with a sling; Heracles clears the crop-destroying flock; Heracles expels the birds with rattles; Heracles kills the birds on Mars's island
+- **athena**: allied, gift, rescued_by, served_by, shared_myth; Apotheosis escort; Heracles enters Olympus; Hesperidean apples; Labors and battles of Heracles
+- **gigantes**: fought, killed; Blinding of Ephialtes; Death of Alcyoneus; Death of Leon; Defeat of Porphyrion
+- **zeus**: allied, child_of, rescued_by, shared_myth, transformed_by; Apotheosis from Oeta; Conception of Herakles; Heracles’ mortal suffering; Hera’s storm after Troy
+- **atlas**: allied, deceived, served, taught_by; Apples of the Hesperides; Atlas fetches the Hesperidean apples; Atlas teaches Heracles astronomy; Heracles tricks Atlas into resuming heaven
+- **chiron**: fought, killed, shared_myth; Battle at Pholus’s cave; Battle with the centaurs; Heracles visits Chiron on Pelion; Hydra-poisoned arrow wound
+- **geryon**: consort_of, fought, killed, theft; Battle for Geryon's cattle on Erytheia; Cattle of Geryon; Death beside the cattle on Erytheia; Heracles' tenth labor
+- **hades**: fought, judged_by, other; Capture of Cerberus; Hades defends Pylos; Heracles wounds Hades at Pylos; War at Pylos
+- **nemean_lion**: fought, killed, other; Heracles kills the lion at Nemea; Heracles skins and wears the slain lion; Heracles’ first Labour; Nemean lion labor
+- **orthrus**: fought, killed; Arrow-death during the Geryon combat; Cattle of Geryon; Club-blow death at Erytheia; Raid on Geryon's cattle
+- **helios**: fought, gift; Heracles challenges the sun; Journey to Geryon; Voyage to Erytheia
+- **lernaean_hydra**: fought, killed, killed_by; Lernaean Hydra labor; The destruction of the Hydra; The poisoned garment; The second labour at Lerna
+- **nereus**: fought, gift, taught_by; Heracles wrestles Nereus; Search for the Hesperides; Voyage to Geryon
+- **apollo**: allied, contest, judged_by; Delphic tripod conflict; Purification and servitude; Rescue of Alcestis
+- **ares**: fought; Ares avenges Cycnus; Combat over Cycnus; War at Pylos
+- **cerberus_hound**: fought, killed; Attempted abduction of Persephone; Capture of Cerberus; The twelfth labour
+- **erymanthian_boar**: fought, killed, other; Capture of the Erymanthian Boar; Erymanthian boar labor; Killing variant of the labor
+- **hebe**: consort_of, gift; Heracles' apotheosis and Olympian marriage; Rejuvenation of Iolaus
+- **ladon**: killed, other; Apples of the Hesperides; Heracles kills the apple guardian; Heracles uses Atlas to obtain apples
+- **prometheus**: rescued; Heracles kills the eagle; Liberation of Prometheus; Release of Prometheus
+- **scylla_and_charybdis**: killed, theft; Charybdis takes Heracles' cattle; Heracles kills Scylla; Scylla steals Geryon's cattle
+- **artemis**: contest, shared_myth; Capture of the Ceryneian hind; Ceryneian hind
+- **charon**: fought, served_by; Heracles coerces the ferryman; Heracles’ descent to capture Cerberus
+- **dionysus**: shared_myth; Divine banquet; Divine drinking and banqueting
+- **dioscuri**: allied, shared_myth; Argonautic expedition; Patronage of Spartan games
+- **eileithyia**: punished_by; Manipulated births of Heracles and Eurystheus; Obstruction of Alcmene’s delivery
+- **glaucus_sea**: other; Argonautic prophecy during the storm; Prophecy of Heracles' destiny
+- **iris**: other, punished_by; Madness and family killing; Release of Prometheus
+- **oceanus**: contest, fought; Voyage in Helios's cup; Western voyage
+- **thanatos**: fought; Heracles wrestles Death for Alcestis; Rescue of Alcestis
+- **triton**: contest, fought; Combat with Triton; Heracles wrestles Triton
+- **amphitrite**: shared_myth; Heracles fights Triton
+- **asteria**: child_of
+- **ate**: other; Heracles loses his intended kingship
+- **chronos_primordial**: identified_with; Birth of serpent-Time
+- **danae**: descendant_of
+- **erebus**: other; Capture of Cerberus
+- **eris**: contest; Heracles strikes swelling Strife
+- **gaia**: shared_myth; Wrestling Antaeus
+- **harmonia**: shared_myth; Wedding procession
+- **hecate**: allied; Gigantomachy
+- **hephaestus**: gift; Divine equipment
+- **hermes**: rescued_by; Underworld descent
+- **hypnos**: other; Storm-driven voyage to Cos
+- **keres**: fought; Heracles drives away baleful Keres
+- **minotaur**: shared_myth; Etruscan mirror recomposition
+- **momus**: other; Lucian's divine citizenship purge
+- **nike**: shared_myth; Heracles victorious
+- **nymphs**: theft; Heracles obtains the golden apples
+- **nyx**: other; Rescue of Hypnos
+- **pegasus**: allied; Hercules’ childhood companion
+- **persephone**: judged_by; Underworld descent
+- **phobos_and_deimos**: shared_myth; Wounding and rescue of Ares
+- **ploutos**: other; Heracles rejects Ploutos
+- **poseidon**: fought; War at Pylos
+- **styx**: contest; Heracles descends for Cerberus
+- **themis**: other; Hebe’s rejuvenation of Iolaos
+
+### hermaphroditus  (5 gods)
+- **aphrodite**: child_of, gift; Enchantment of the Salmacis spring
+- **hermes**: child_of, gift; Enchantment of the Salmacis spring
+- **atlas**: descendant_of
+- **pan**: shared_myth; Erotic pursuit and revelation
+- **priapus**: sibling_of
+
+### hermes  (65 gods)
+- **apollo**: allied, contest, deceived, gift, served, sibling_of, theft; Dispute over the stolen cattle; Exchange after the cattle theft; Hermes denies stealing Apollo's cattle; Lyre exchanged for cattle and privileges
+- **argus_panoptes**: deceived, fought, killed; Armed attack beside Io; Direct slaying of Argus; Disguised shepherd lulls Argus; Liberation of Io
+- **zeus**: allied, child_of, judged_by, rescued, served; Hermes executes Zeus's divine missions; Judgment over Apollo's stolen cattle; Recovery of Zeus's severed sinews; Recovery of Zeus’s sinews
+- **athena**: allied, served, shared_myth; Birth of Athena; Creation of Pandora; Equipping Perseus; Joint assistance to heroes
+- **aphrodite**: consort_of, served, shared_myth; Exposure in Hephaestus's net; Judgment of Paris; Venus searches for Psyche
+- **ares**: rescued, shared_myth; Apollo’s Olympian feast; Ares imprisoned by the Aloadae; Exposure in Hephaestus's net; Protective images against brigandage
+- **hades**: served, shared_myth; Conduction of souls into Hades; Mission for Persephone's release; Release of Persephone
+- **pan**: parent_of, served, shared_myth; Birth and reception on Olympus; Comic dispute over Pan’s paternity; Presentation of the infant Pan
+- **calypso**: consort_of, other, served; Hermes's embassy to Ogygia; Order to release Odysseus
+- **dionysus**: allied, rescued; Hermes supports Dionysus; Removal of the newborn Dionysus; Transport of the infant Dionysus
+- **helios**: shared_myth; Apollo's stolen cattle; Atreus's solar kingship sign; Investigation of Apollo's stolen cattle
+- **hephaestus**: shared_myth; Adultery net spectacle; Creation of Pandora; Exposure of Ares and Aphrodite
+- **hera**: deceived, rescued_by, served; Hera nurses Hermes through disguise; Judgment of Paris; Secret conception of Hermes
+- **nymphs**: allied, consort_of; Birth of Pan; Finite-lived tree nymphs; Hermes leads the nymphs' dance
+- **persephone**: rescued, shared_myth; Chthonic binding formula; Persephone’s negotiated return; Return of Persephone
+- **prometheus**: contest, punished, shared_myth; Demand for Zeus's hidden secret; Demand for the succession prophecy; Distribution of civic virtues
+- **typhon**: other, theft; Recovery of Zeus's severed sinews; Recovery of Zeus's sinews; The gods flee to Egypt
+- **charon**: allied, other; Accounting for the underworld ferry; Conducting the dead to Charon’s shore
+- **circe**: contest; Countering Circe's enchantments; Moly defeats Circe’s magic
+- **demeter**: allied; Hermes retrieves Persephone from Hades; Settlement of the Persephone crisis
+- **dioscuri**: gift, shared_myth; Gift of divine horses; Patronage of Spartan games
+- **epimetheus**: gift, served; Delivery of Pandora; Hermes delivers Pandora to Epimetheus
+- **harpies**: other, rescued; Gift of Podarge's foals; Hermes halts the Boreads
+- **hecate**: identified_with, shared_myth; Chthonic invocations and mystery rites
+- **hermaphroditus**: gift, parent_of; Enchantment of the Salmacis spring
+- **hestia**: allied, shared_myth; Hestia and Hermes dwell together; Joint household invocation
+- **ploutos**: other, shared_myth; Hermes escorts Ploutos to Timon; Thesmophorian joint invocation
+- **priapus**: child_of, parent_of
+- **themis**: allied, shared_myth; Divine assembly vase scene; Thief-detection rite
+- **amphitrite**: shared_myth
+- **ariadne**: shared_myth; Reconciliation after Ariadne’s death
+- **artemis**: shared_myth; Divine missions and processional scenes
+- **atlas**: descendant_of
+- **cerberus_hound**: shared_myth; The Cerberus labour
+- **charites**: shared_myth; Song, persuasion, beauty, and cult
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **clotho**: shared_myth; Invention of letters
+- **cronos**: other; Circumvention of Helios’s curse
+- **cyclopes**: other; Hermes impersonates a nursery Cyclops
+- **eileithyia**: shared_myth; Birth of Athena
+- **erebus**: other; Return of Persephone
+- **erinyes**: shared_myth; Orestes escapes Delphi
+- **eris**: shared_myth; Judgment of Paris
+- **erymanthian_boar**: shared_myth; Black-figure capture scene
+- **europa**: shared_myth; Mercury drives Agenor’s cattle to Europa’s shore
+- **gigantes**: killed; Death of Hippolytus
+- **glaucus_sea**: ancestor_of
+- **graeae**: shared_myth; Journey to the Graeae
+- **harmonia**: shared_myth; Wedding procession
+- **heracles_god**: rescued; Underworld descent
+- **hypnos**: allied; Transport of Sarpedon
+- **iris**: identified_with
+- **keres**: judged; Kerostasia of Achilles and Memnon
+- **ladon**: shared_myth; Heracles arrives at the garden
+- **leto**: contest; Battle of the gods
+- **medusa**: other; Perseus’s quest
+- **mnemosyne**: other; Hermes’s theogonic song
+- **momus**: allied; Lucian's divine citizenship purge
+- **oneiroi**: other
+- **poseidon**: shared_myth; Negotiation over Ares's release
+- **proteus**: other; Hermes entrusts Helen to Proteus
+- **styx**: shared_myth; Apollo requests Hermes’ oath
+- **thanatos**: served_by; Transport of Sarpedon
+- **urania**: other
+- **uranus**: child_of
+
+### hestia  (13 gods)
+- **zeus**: allied, gift, rescued_by, shared_myth, sibling_of; Hestia's vow and central honors; Invitation into the singer's house; Joint council-house cult; Release of Cronus's swallowed children
+- **apollo**: contest, other, served; Hestia in Apollo's Delphic sanctuary; Hestia refuses Apollo's marriage proposal; Suitors of Hestia
+- **poseidon**: other, shared_myth, sibling_of; Glaucus's Olympia sculptural dedication; Hestia refuses Poseidon's marriage proposal
+- **amphitrite**: shared_myth; Glaucus's Olympia sculptural dedication
+- **aphrodite**: other; Hestia remains beyond Aphrodite's power; Three immune goddesses
+- **cronos**: child_of, other; Swallowing and disgorgement
+- **demeter**: shared_myth, sibling_of; Procession to Peleus and Thetis's wedding
+- **hera**: shared_myth, sibling_of; Procession to Peleus and Thetis's wedding
+- **hermes**: allied, shared_myth; Hestia and Hermes dwell together; Joint household invocation
+- **hades**: sibling_of
+- **priapus**: other; Vesta and the ass
+- **rhea**: child_of
+- **thetis**: shared_myth; Wedding of Peleus and Thetis
+
+### horae  (24 gods)
+- **aphrodite**: gift, served, shared_myth; Apollo's Olympian performance; Ariadne receives her wedding crown; Birth and presentation of Aphrodite; Making Aphrodite's flower-dyed garments
+- **charites**: shared_myth; Apollo's Olympian performance; Making Aphrodite's flower-dyed garments; Olympian wrist-to-wrist dance; Persephone emerges from darkness
+- **dionysus**: gift, judged, served, shared_myth; Dionysus bathes in a flowering landscape; Dionysus seeks admission to Olympus; Gestation and birth of Dionysus; The world before wine
+- **hera**: other, served, shared_myth; Crown of Argive Hera; Hera passes through Olympus' cloud-gates; Nursing the infant Hera
+- **zeus**: allied, child_of, served; Guarding the cloud-gates of Olympus; Zeus returns victorious after defeating Typhon
+- **apollo**: gift, shared_myth; Apollo's Olympian performance; The Horae bring Apollo's Theban banquet
+- **athena**: served, shared_myth; Ascent of Hyacinthus and Polyboea; Athena passes through Olympus' cloud-gates
+- **helios**: child_of, served; The twelve Horae attend the solar course
+- **selene**: child_of; Birth of the Horae
+- **ariadne**: gift; Ariadne receives her wedding crown
+- **artemis**: shared_myth; Ascent of Hyacinthus and Polyboea
+- **chronos_primordial**: child_of
+- **demeter**: shared_myth; Persephone emerges from darkness
+- **europa**: served; Europa’s bridal union in Crete
+- **harmonia**: shared_myth; Apollo's Olympian performance
+- **hebe**: shared_myth; Apollo's Olympian performance
+- **hemera**: shared_myth; Fall of Phaethon
+- **iris**: shared_myth; Dionysus seeks admission to Olympus
+- **muses**: shared_myth; Apollo's Olympian performance
+- **nike**: allied; Zeus returns victorious after defeating Typhon
+- **persephone**: served; Persephone emerges from darkness
+- **themis**: child_of
+- **typhon**: fought; Typhon assaults heaven
+- **zephyrus**: shared_myth; Aphrodite arrives on Cyprus
+
+### hyperion  (19 gods)
+- **theia**: consort_of, sibling_of; Birth of Sun, Moon, and Dawn; Birth of the luminous triad
+- **uranus**: child_of, fought; Overthrow of Uranus; Revolt of the Titans
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **helios**: identified_with, parent_of
+- **aether**: child_of
+- **apollo**: contest; Succession of Apollo
+- **crius**: sibling_of
+- **eos**: parent_of
+- **gaia**: child_of
+- **hemera**: parent_of
+- **iapetus**: sibling_of
+- **mnemosyne**: sibling_of
+- **oceanus**: sibling_of
+- **phoebe**: sibling_of
+- **rhea**: sibling_of
+- **selene**: parent_of
+- **tethys**: sibling_of
+- **themis**: sibling_of
+- **zeus**: fought; Titanomachy
+
+### hypnos  (24 gods)
+- **nyx**: child_of, other, rescued_by; Hypnos takes refuge from Zeus; Night carries Sleep; Nyx restrains Zeus again; Rescue of Hypnos
+- **hera**: allied, gift, served; Deception of Zeus; Dream of Ceyx; First conspiracy against Zeus
+- **zeus**: deceived, punished_by; Deception of Zeus; Earlier sleep deception; First conspiracy against Zeus; Zeus pursues Hypnos
+- **iris**: deceived_by, other; Dream of Ceyx; Dream sent to Alcyone; Iris impersonates Nyx
+- **morpheus**: parent_of, served_by; Dream of Ceyx; Somnus dispatches Morpheus to Alcyone
+- **oneiroi**: parent_of, served_by, sibling_of; Morpheus visits Alcyone
+- **thanatos**: allied, shared_myth, sibling_of; The dark house of Sleep and Death; Transport of Sarpedon
+- **hephaestus**: gift, other; Hera’s bribery of Hypnos; House of Sleep
+- **styx**: other, shared_myth; Hera’s bargain with Hypnos; Hera’s oath
+- **aphrodite**: shared_myth; Courtship of Pasithea
+- **apollo**: allied; Transport of Sarpedon
+- **ariadne**: shared_myth; Sleep before Dionysus’ arrival
+- **atropos**: sibling_of
+- **charites**: consort_of; Hera bargains with Sleep
+- **dionysus**: allied; Indian war
+- **heracles_god**: other; Storm-driven voyage to Cos
+- **hermes**: allied; Transport of Sarpedon
+- **keres**: sibling_of
+- **lachesis**: sibling_of
+- **momus**: sibling_of
+- **muses**: allied; Troezenian joint worship
+- **nemesis**: sibling_of
+- **poseidon**: allied; Deception of Zeus
+- **selene**: shared_myth; Selene approaches sleeping Endymion
+
+### iapetus  (18 gods)
+- **zeus**: fought, judged_by, punished_by; Iapetus pleads from Acheron; Imprisonment of the defeated Titans; Jupiter's battle with fierce Iapetus
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **prometheus**: other, parent_of; Iapetus pleads after hearing Prometheus suffer
+- **tethys**: consort_of, sibling_of
+- **uranus**: child_of, fought; Revolt of the Titans
+- **atlas**: parent_of
+- **crius**: sibling_of
+- **epimetheus**: parent_of
+- **erinyes**: punished_by; Iapetus pleads from Acheron
+- **gaia**: child_of
+- **hyperion**: sibling_of
+- **menoetius**: parent_of
+- **mnemosyne**: sibling_of
+- **oceanus**: sibling_of
+- **phoebe**: sibling_of
+- **rhea**: sibling_of
+- **theia**: sibling_of
+- **themis**: sibling_of
+
+### iris  (37 gods)
+- **hera**: other, served; Hera and Athena restrained; Hera’s divine messenger; Madness of Heracles; Olympian messages
+- **zephyrus**: consort_of, other, served_by; Birth of Eros; Patroclus’s funeral pyre; Summons to Patroclus’ funeral pyre
+- **aeolus**: other; Storm against the returning Greeks; The Argo’s passage
+- **anemoi**: allied, consort_of; Auster and Iris sustain the deluge; The winds kindle Patroclus’ funeral pyre
+- **apollo**: allied, other, rescued; Apollo’s birth reported; Birth of Apollo; Birth on Delos
+- **harpies**: rescued, sibling_of; Harpies pursued by the Boreads; Iris halts the Boreads
+- **hypnos**: deceived, other; Dream of Ceyx; Dream sent to Alcyone; Iris impersonates Nyx
+- **leto**: allied, other; Birth of Apollo; Hera’s ban against Leto; Summoning Eileithyia
+- **thetis**: other, served; The Argo’s passage; Thetis summoned to Zeus; Zeus summons Thetis
+- **ares**: allied, other; Hera’s ban against Leto; Iris impersonates Ares
+- **athena**: other, served; Hera and Athena restrained; Storm against the returning Greeks
+- **boreas**: other, shared_myth; Patroclus’s funeral pyre; Summoning the winds to Patroclus's pyre
+- **demeter**: other; Demeter’s withdrawal; Iris summons Demeter from Eleusis
+- **dionysus**: deceived, other; Dionysus commissioned for India; Hera’s Dionysian intrigues
+- **eileithyia**: gift, other; Birth of Apollo; Delian birth of Apollo
+- **heracles_god**: other, punished; Madness and family killing; Release of Prometheus
+- **nyx**: deceived, other; Iris impersonates Nyx
+- **poseidon**: other; Poseidon withdraws from battle; Zeus orders Poseidon’s withdrawal
+- **styx**: served; Oath ordeal of the gods; The divine oath ritual
+- **zeus**: served; Demeter’s withdrawal; Trojan War missions
+- **amphitrite**: shared_myth
+- **aphrodite**: rescued; Aphrodite wounded at Troy
+- **asteria**: other; Iris denounces Asteria to Hera
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **erebus**: shared_myth; The birds challenge Iris
+- **erinyes**: shared_myth; Iris warns Poseidon
+- **eros**: parent_of
+- **hephaestus**: other; The Argo’s passage
+- **hermes**: identified_with
+- **horae**: shared_myth; Dionysus seeks admission to Olympus
+- **morpheus**: other; Revelation of Ceyx’s death
+- **nereids**: allied; Rescue of the Argo
+- **nereus**: shared_myth; Summoning Thetis for the Argo
+- **notus_and_eurus**: served_by; Zeus’s four-wind chariot
+- **oneiroi**: served_by; Morpheus visits Alcyone
+- **prometheus**: rescued; Release of Prometheus
+- **rhea**: other; Dionysus commissioned for India
+
+### keres  (18 gods)
+- **eris**: allied, shared_myth, sibling_of; Battle on Achilles' shield; Death-powers delight in Trojan slaughter
+- **zeus**: judged_by; Psychostasia of Achilles and Memnon; Zeus weighs Achilles' and Hector's death-lots; Zeus weighs the armies' Keres
+- **enyo**: allied, shared_myth; Battlefield slaughter at Troy; Late epic battlefield tableau
+- **thanatos**: allied, sibling_of; Battlefield march
+- **apollo**: allied; Pursuit of Laius's murderer
+- **eos**: shared_myth; Psychostasia of Achilles and Memnon
+- **erebus**: child_of
+- **erinyes**: identified_with; Destruction of Oedipus's house
+- **heracles_god**: fought; Heracles drives away baleful Keres
+- **hermes**: judged_by; Kerostasia of Achilles and Memnon
+- **hypnos**: sibling_of
+- **lachesis**: sibling_of
+- **momus**: sibling_of
+- **nemesis**: sibling_of
+- **nyx**: child_of
+- **oneiroi**: sibling_of
+- **talos**: other; Medea invokes the Keres against Talos
+- **thetis**: shared_myth; Psychostasia of Achilles and Memnon
+
+### lachesis  (24 gods)
+- **clotho**: shared_myth, sibling_of; Battlefield death on Heracles' shield; Ratification of the souls' chosen lives; The cosmic spindle
+- **atropos**: allied, shared_myth, sibling_of; Allotment of destiny at birth; Ratification of the souls' chosen lives
+- **zeus**: allied, child_of, shared_myth; Allotment of Rhodes to Helios; Moiragetes cult settings
+- **ananke**: child_of, served; Operation of Ananke's cosmic spindle
+- **apollo**: deceived_by, shared_myth; Apollo's reprieve for Admetus; Delphic temple image arrangement
+- **eileithyia**: identified_with, served_by
+- **erinyes**: shared_myth; Adjacent rites near Sicyon; Joint invocation as Night-born powers
+- **themis**: child_of, shared_myth; Neighboring sanctuaries at Thebes
+- **asclepius**: shared_myth; Epidaurian sacred birth genealogy
+- **chaos**: child_of
+- **erebus**: child_of
+- **eris**: sibling_of
+- **gaia**: child_of
+- **helios**: gift; Allotment of Rhodes to Helios
+- **hypnos**: sibling_of
+- **keres**: sibling_of
+- **nemesis**: sibling_of
+- **nymphs**: shared_myth; Annual offerings at Corcyra
+- **nyx**: child_of
+- **oceanus**: child_of
+- **sirens**: allied; Harmony around Ananke's spindle
+- **thanatos**: sibling_of
+- **tyche**: sibling_of
+- **uranus**: child_of
+
+### ladon  (13 gods)
+- **heracles_god**: killed_by, other; Apples of the Hesperides; Heracles kills the apple guardian; Heracles uses Atlas to obtain apples
+- **hera**: served, transformed_by; Catasterism of the slain dragon; Hera appoints the apple-tree guardian
+- **athena**: shared_myth; Heracles arrives at the garden
+- **atlas**: shared_myth; Atlas fetches the golden apples
+- **chimera**: sibling_of
+- **echidna**: child_of
+- **hermes**: shared_myth; Heracles arrives at the garden
+- **lernaean_hydra**: sibling_of
+- **nemean_lion**: sibling_of
+- **nymphs**: parent_of
+- **oceanus**: shared_myth; Peaceful scene in the Hesperidean garden
+- **tethys**: child_of
+- **typhon**: child_of
+
+### lernaean_hydra  (12 gods)
+- **heracles_god**: fought, killed, killed_by; Lernaean Hydra labor; The destruction of the Hydra; The poisoned garment; The second labour at Lerna
+- **chimera**: parent_of, shared_myth, sibling_of; Monsters at Hades' entrance
+- **hera**: allied; Hera raises an enemy for Heracles; Hera sends the giant crab
+- **athena**: other; Athena directs the Hydra's defeat
+- **cerberus_hound**: sibling_of
+- **chiron**: other; The poisoned-arrow cycle
+- **echidna**: child_of
+- **ladon**: sibling_of
+- **nemean_lion**: sibling_of
+- **orthrus**: sibling_of
+- **sphinx**: sibling_of
+- **typhon**: child_of
+
+### leto  (17 gods)
+- **artemis**: allied, parent_of, rescued_by, shared_myth; Apollo's birth; Artemis among the nymphs; Artemis's birth at Ortygia; Punishment of Niobe
+- **apollo**: allied, parent_of, rescued_by; Apollo's birth on Delos; Attack of Tityos; Defense against Tityus; Slaughter of Niobe's children
+- **asteria**: rescued, rescued_by, sibling_of; Asteria receives Leto for Apollo's birth; Leto's appeal raises submerged Asteria
+- **hera**: punished_by; Birth of Apollo; Leto's worldwide flight; Obstruction of Apollo's birth
+- **iris**: allied, other; Birth of Apollo; Hera’s ban against Leto; Summoning Eileithyia
+- **eileithyia**: rescued_by; Apollo's prolonged birth; Delian birth of Apollo
+- **phoebe**: child_of, shared_myth; Pergamon Gigantomachy
+- **poseidon**: gift, rescued_by; Exchange of sanctuaries; Stabilization of floating Delos
+- **themis**: allied, shared_myth; Birth of Apollo; Feeding the newborn Apollo
+- **zeus**: consort_of; Tityos assaults Leto
+- **amphitrite**: served_by; Apollo’s birth on Delos
+- **ares**: fought; Hera's ban on refuge
+- **coeus**: child_of
+- **hermes**: contest; Battle of the gods
+- **python**: fought; Python persecutes pregnant Leto
+- **rhea**: served_by; Apollo's birth on Delos
+- **tyche**: shared_myth
+
+### medusa  (14 gods)
+- **athena**: fought, killed_by, other, transformed_by; Athena receives the gorgoneion; Beauty rivalry; Beheading of Medusa; Gaia’s Gorgon in the Gigantomachy
+- **poseidon**: consort_of, other, seduced_by; Meadow union; Union in the flowered meadow; Violation in Minerva’s temple
+- **atlas**: transformed; Medusa's severed head petrifies Atlas; Petrification of Atlas
+- **perses_titan**: killed_by; Beheading of Medusa; Rationalized Libyan queen
+- **ariadne**: killed; Argive war with Dionysus
+- **asclepius**: other; Blood of the Gorgon
+- **echidna**: child_of
+- **enyo**: other
+- **gaia**: created_by; Gaia’s Gorgon in the Gigantomachy
+- **geryon**: ancestor_of
+- **graeae**: sibling_of
+- **hades**: other; Perseus’s escape
+- **hermes**: other; Perseus’s quest
+- **pegasus**: parent_of
+
+### menoetius  (6 gods)
+- **zeus**: punished_by; Menoetius in the Titanomachy; Punishment of Menoetius
+- **atlas**: sibling_of
+- **epimetheus**: sibling_of
+- **erebus**: other; Punishment of Menoetius
+- **iapetus**: child_of
+- **prometheus**: sibling_of
+
+### metis  (15 gods)
+- **zeus**: consort_of, deceived_by, other, punished_by, served; Metis counsels Zeus from within; Metis evades Zeus by changing shape; Swallowing of Metis; Zeus swallows Metis
+- **athena**: parent_of; Metis swallowed before Athena’s birth
+- **gaia**: other, shared_myth; Counsel before Zeus swallows Metis; Prophecy concerning Metis
+- **phanes**: identified_with; Orphic primordial identity
+- **aether**: sibling_of
+- **aphrodite**: shared_myth; Poros attends Aphrodite's birthday feast
+- **cronos**: deceived; Drug-induced disgorgement
+- **dionysus**: identified_with; Orphic chain of divine identities
+- **erebus**: child_of
+- **eros_primordial**: identified_with
+- **nyx**: child_of
+- **oceanus**: child_of
+- **pan**: identified_with
+- **tethys**: child_of
+- **uranus**: shared_myth; Counsel before Zeus swallows Metis
+
+### minotaur  (7 gods)
+- **ariadne**: other, sibling_of; Ariadne supplies Theseus with the thread; Theseus and the Labyrinth
+- **pasiphae**: child_of; Birth of the Minotaur
+- **aphrodite**: created_by; Venus punishes Pasiphaë's neglected rites
+- **helios**: descendant_of
+- **heracles_god**: shared_myth; Etruscan mirror recomposition
+- **perses_titan**: descendant_of
+- **poseidon**: created_by; Punishment for Minos's withheld sacrifice
+
+### mnemosyne  (18 gods)
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **uranus**: child_of, fought; Revolt of the Titans
+- **zeus**: consort_of; Conception of the Muses; Nine nights in Pieria
+- **apollo**: shared_myth; Athenian sanctuary image group
+- **asclepius**: shared_myth; Incubation dream liturgies
+- **crius**: sibling_of
+- **dionysus**: shared_myth; Athenian Dionysiac sanctuary
+- **gaia**: child_of
+- **hermes**: other; Hermes’s theogonic song
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **muses**: parent_of; Birth of the nine Muses
+- **oceanus**: sibling_of
+- **phoebe**: sibling_of
+- **rhea**: sibling_of
+- **theia**: sibling_of
+- **themis**: sibling_of
+- **urania**: parent_of; Birth of the nine Muses
+
+### momus  (22 gods)
+- **zeus**: allied, judged, other, punished_by; Expulsion after craftsmanship contest; Judgment of divine craftsmanship; Lucian's divine councils; Population crisis and Trojan War
+- **aphrodite**: judged; Momus and Aphrodite
+- **apollo**: other; Lucian's divine citizenship purge
+- **asclepius**: other; Lucian's divine citizenship purge
+- **athena**: judged; Judgment of divine craftsmanship
+- **dionysus**: other; Lucian's divine citizenship purge
+- **erebus**: child_of
+- **eris**: sibling_of
+- **ganymede**: other; Lucian's divine citizenship purge
+- **hephaestus**: judged; Judgment of divine craftsmanship
+- **hera**: shared_myth; Lucian's divine citizenship purge
+- **heracles_god**: other; Lucian's divine citizenship purge
+- **hermes**: allied; Lucian's divine citizenship purge
+- **hypnos**: sibling_of
+- **keres**: sibling_of
+- **nemesis**: sibling_of
+- **nyx**: child_of
+- **poseidon**: judged; Judgment of divine craftsmanship
+- **prometheus**: judged; Judgment of divine craftsmanship
+- **styx**: shared_myth; Lucian's divine citizenship purge
+- **thanatos**: sibling_of
+- **thetis**: other; Population crisis and Trojan War
+
+### morpheus  (12 gods)
+- **hypnos**: child_of, served; Dream of Ceyx; Somnus dispatches Morpheus to Alcyone
+- **glaucus_sea**: shared_myth; Epiphany after Orpheus' storm-prayer; Prophecy beside the Argo
+- **apollo**: child_of
+- **cerberus_hound**: contest; Orpheus’ descent for Eurydice
+- **charon**: served_by; Orpheus’ descent for Eurydice
+- **hades**: judged_by; Orpheus seeks Eurydice
+- **iris**: other; Revelation of Ceyx’s death
+- **muses**: child_of
+- **nymphs**: consort_of; Death of Eurydice
+- **oneiroi**: other; Morpheus visits Alcyone
+- **pontus**: other; Orpheus and the listening Euxine
+- **sirens**: contest; Argonauts pass Anthemoessa
+
+### muses  (27 gods)
+- **apollo**: allied, consort_of, judged, served, shared_myth; Divine origin of musicians; Music among the Olympians; Musical contest with Marsyas; Wedding of Peleus and Thetis
+- **sirens**: contest, parent_of, punished; Contest with the Muses; Feather crowns after the contest; Musical contest with the Sirens
+- **charites**: allied, shared_myth; Cadmus's wedding song; Olympian dance near the Muses; Wedding of Cadmus and Harmonia
+- **zeus**: child_of, served, shared_myth; Birth of the nine Muses; Olympian songs delight Zeus
+- **ares**: other, shared_myth; Apollo’s Olympian feast; Music softens Ares
+- **dionysus**: rescued, shared_myth; Agrionia flight to the Muses; Governance of choral education
+- **harmonia**: child_of, shared_myth; Wedding of Cadmus and Harmonia
+- **pegasus**: shared_myth; Creation of Hippocrene; Hippocrene and the Muses
+- **thetis**: shared_myth; Mourning for Achilles; Wedding of Peleus and Thetis
+- **aphrodite**: shared_myth; Sacred Attic landscape
+- **asteria**: shared_myth; Song around sacred Delos
+- **athena**: shared_myth; Minerva visits Helicon
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **demeter**: other; Calliope sings Ceres's search
+- **eros**: contest; Gods resistant to Eros
+- **gaia**: child_of
+- **hades**: other; Calliope sings Proserpina's abduction
+- **helios**: served; Solar divine choruses
+- **horae**: shared_myth; Apollo's Olympian performance
+- **hypnos**: allied; Troezenian joint worship
+- **mnemosyne**: child_of; Birth of the nine Muses
+- **morpheus**: parent_of
+- **nereids**: shared_myth; Funeral of Achilles
+- **nymphs**: judged_by; Contest with the Pierides
+- **persephone**: other; Calliope sings Proserpina's abduction
+- **sphinx**: taught; The Sphinx learns her riddle
+- **uranus**: child_of
+
+### nemean_lion  (11 gods)
+- **heracles_god**: fought, killed_by, other; Heracles kills the lion at Nemea; Heracles skins and wears the slain lion; Heracles’ first Labour; Nemean lion labor
+- **hera**: created_by, served_by, transformed_by; Hera nurtures the lion near Nemean Zeus; Hera orders the lion’s lunar production; Hera places the lion among the stars; Hera rears and settles the lion at Nemea
+- **selene**: child_of, created_by, served_by; Descent of the Nemean lion; Lion in the two-mouthed cave; Selene nourishes the lion in its cave; Selene produces or casts forth the lion
+- **chimera**: child_of, sibling_of
+- **echidna**: child_of, descendant_of
+- **athena**: fought; Athena supports Heracles during the lion combat
+- **ladon**: sibling_of
+- **lernaean_hydra**: sibling_of
+- **orthrus**: child_of
+- **sphinx**: sibling_of
+- **typhon**: child_of
+
+### nemesis  (22 gods)
+- **zeus**: other, seduced_by; Conception of Helen; Swan and goose union; Zeus pursues shape-changing Nemesis
+- **artemis**: allied, identified_with; Punishment of Aura
+- **themis**: other, shared_myth; Shared sanctuary at Rhamnous
+- **tyche**: identified_with, shared_myth; Scenes concerning Helen’s fate
+- **apollo**: allied; Foundation of relocated Smyrna
+- **atropos**: sibling_of
+- **charites**: other
+- **demeter**: allied; Punishment of Erysichthon
+- **dionysus**: shared_myth; Late divine-generation sequences
+- **dioscuri**: parent_of
+- **erebus**: child_of
+- **eris**: sibling_of
+- **gaia**: child_of
+- **hypnos**: sibling_of
+- **keres**: sibling_of
+- **lachesis**: sibling_of
+- **momus**: sibling_of
+- **nike**: other
+- **nyx**: child_of
+- **oneiroi**: sibling_of
+- **tartarus**: consort_of; Birth of the Telchines
+- **thanatos**: sibling_of
+
+### nereids  (19 gods)
+- **thetis**: allied, shared_myth, sibling_of; Funeral of Achilles; Lament for Patroclus; Rescue of the Argo
+- **nereus**: allied, child_of, shared_myth; Marine war against Dionysus; Undersea household
+- **poseidon**: allied, other, served; Marriage into the sea family; Neptune escorts Aeneas’s fleet; Punishment for Cassiopeia’s boast
+- **amphitrite**: shared_myth, sibling_of; Dance on Naxos before Amphitrite’s abduction
+- **triton**: shared_myth; Marine processions of Tritons and Nereids; Marine thiasos
+- **aphrodite**: shared_myth; Aphrodite’s sea birth and triumph
+- **apollo**: shared_myth; Ritual invocation
+- **dionysus**: fought; Contest over Beroe
+- **europa**: allied; Divine escort across the sea
+- **gaia**: descendant_of
+- **glaucus_sea**: allied; Shared Delian oracle
+- **hephaestus**: shared_myth; Delivery of Achilles’ armor
+- **hera**: served; Rescue of the Argo
+- **iris**: allied; Rescue of the Argo
+- **muses**: shared_myth; Funeral of Achilles
+- **oceanus**: descendant_of
+- **pontus**: descendant_of
+- **scylla_and_charybdis**: contest; The Argonauts pass the monsters
+- **tethys**: descendant_of
+
+### nereus  (19 gods)
+- **glaucus_sea**: other, parent_of, seduced, served_by; Nereus loves Glaucus; Nereus' love for Glaucus; Prophecy beside the Argo; Prophecy of Agamemnon's murder
+- **heracles_god**: fought, gift, taught; Heracles wrestles Nereus; Search for the Hesperides; Voyage to Geryon
+- **nereids**: allied, parent_of, shared_myth; Marine war against Dionysus; Undersea household
+- **oceanus**: contest, other; Donor of Helios' cup
+- **pontus**: child_of, parent_of
+- **poseidon**: allied, other; Marine war against Dionysus; Marriage into the sea family
+- **thetis**: parent_of, shared_myth; Summoning Thetis for the Argo
+- **triton**: other, shared_myth; Heracles wrestles Triton; Heracles wrestles the sea elder
+- **amphitrite**: parent_of
+- **aphrodite**: other; Aphrodite's marine upbringing
+- **calypso**: parent_of
+- **dionysus**: fought; Marine war against Dionysus
+- **gaia**: child_of
+- **helios**: other; Cup of Helios
+- **hera**: served; Rescue of the Argo
+- **iris**: shared_myth; Summoning Thetis for the Argo
+- **nymphs**: parent_of
+- **proteus**: other; Marine divinities revere Proteus
+- **uranus**: child_of
+
+### nike  (15 gods)
+- **zeus**: gift, other, served, shared_myth; Nike judges excellence beside Zeus; Paionios’s victory dedication; Pheidias’s Olympian cult statue; Pheidias’s Olympian image
+- **athena**: identified_with, other; Pheidias’s Athena Parthenos
+- **styx**: allied, child_of; Styx joins Zeus
+- **ares**: child_of
+- **enyo**: shared_myth; Enyo balances the Typhonomachy
+- **eris**: contest; Zeus battles Typhon
+- **harmonia**: served; Wedding of Cadmus and Harmonia
+- **heracles_god**: shared_myth; Heracles victorious
+- **horae**: allied; Zeus returns victorious after defeating Typhon
+- **nemesis**: other
+- **pallas_titan**: child_of
+- **talos**: shared_myth; Argonautic program of the Talos krater
+- **tyche**: shared_myth
+- **typhon**: fought; Zeus battles Typhon
+- **urania**: allied; Praise of an athletic victor
+
+### notus_and_eurus  (11 gods)
+- **zephyrus**: fought, other, shared_myth, sibling_of; Epic storm scenes; Eurus melts Zephyrus’s snow; Winds oppose each other over woodland
+- **boreas**: other, shared_myth, sibling_of; Boreas stirs Notus’s onset; Dawn changes the sailors’ winds
+- **eos**: child_of, served, shared_myth; Dawn changes the sailors’ winds; The Winds carry Memnon
+- **zeus**: served, shared_myth; Autumn rain and dangerous sailing; Flood of Deucalion; Zeus’s four-wind chariot
+- **aeolus**: served; Aeolus confines the troublesome winds; Storm against Aeneas
+- **poseidon**: punished_by, served; Neptune disperses Aeolus’s storm; Poseidon’s storm against Odysseus
+- **anemoi**: allied; Psyllus’s war against Notus
+- **apollo**: served; Apollo’s Cretan ship reaches Crisa
+- **astraeus**: child_of
+- **hera**: served; Storm against Aeneas’s fleet
+- **iris**: served; Zeus’s four-wind chariot
+
+### nymphs  (32 gods)
+- **pan**: allied, other, served, shared_myth; Mountain dances and rustic music; Nymphs rear Pan; Pan dances beside the spring; Pan's pursuit of Echo
+- **dionysus**: allied, rescued, served; Dionysiac processions; Nurture at Nysa; Nymphs nurse the infant Dionysus
+- **hermes**: allied, consort_of; Birth of Pan; Finite-lived tree nymphs; Hermes leads the nymphs' dance
+- **zeus**: child_of, seduced_by, served; Nymphs rear the hidden infant Zeus; Zeus's unions with Aegina and Callisto
+- **aphrodite**: served, shared_myth; Aphrodite explains tree nymph lifespans; Aphrodite's nymph attendants
+- **apollo**: allied, seduced_by; Apollo pursues and loves local nymphs; Shared cave cult at Vari
+- **artemis**: allied, punished_by; Artemis leads the mountain nymphs; Callisto's pregnancy and expulsion
+- **helios**: child_of, served; Guarding the cattle of Helios
+- **hera**: punished_by; Hera deprives Echo of independent speech; Hera persecutes Zeus's nymph lovers
+- **athena**: allied; Treasure hidden in the Naiads' cave
+- **atlas**: child_of
+- **charites**: allied; Joint cave cult at Vari
+- **demeter**: shared_myth; Inquiry after Persephone's abduction
+- **eileithyia**: allied; Childbirth cult on the Xenokrateia relief
+- **gaia**: child_of; Birth of the Meliae
+- **hades**: fought; Cyane opposes Persephone's abduction
+- **hephaestus**: rescued; Sheltering Hephaestus after his fall
+- **heracles_god**: theft; Heracles obtains the golden apples
+- **lachesis**: shared_myth; Annual offerings at Corcyra
+- **ladon**: child_of
+- **morpheus**: consort_of; Death of Eurydice
+- **muses**: judged; Contest with the Pierides
+- **nereus**: child_of
+- **oceanus**: child_of
+- **persephone**: allied; Flower gathering before Persephone's abduction
+- **poseidon**: seduced_by; Poseidon's pursuit and union with Amymone
+- **priapus**: other; Lotis flees Priapus
+- **proteus**: other; Marine divinities revere Proteus
+- **tethys**: child_of
+- **themis**: child_of
+- **thetis**: allied; Nereids console Thetis
+- **uranus**: child_of; Birth of the Meliae
+
+### nyx  (38 gods)
+- **hemera**: parent_of, punished, shared_myth; Daphne cosmic procession; Day and Night exchange places; Fall of Phaethon; Generation of Day
+- **hypnos**: other, parent_of, rescued; Hypnos takes refuge from Zeus; Night carries Sleep; Nyx restrains Zeus again; Rescue of Hypnos
+- **aether**: consort_of, parent_of, sibling_of; Birth of brightness from darkness; Variant birth of Eros
+- **eros_primordial**: child_of, gift, parent_of; Night’s cosmic egg; Orphic divine succession
+- **phanes**: child_of, consort_of, gift; Phanes gives Nyx the sceptre; Transfer of the sceptre
+- **chaos**: child_of; Hesiodic beginning; Hyginus genealogy
+- **eos**: parent_of, shared_myth; Celestial transition; Cosmic dawn procession
+- **erebus**: consort_of, other, sibling_of; Birth of Aether and Hemera; Invocation of Night
+- **thanatos**: other, parent_of, shared_myth; Nyx holds Sleep and Death; Nyx holds Sleep and Death as infants
+- **uranus**: child_of, consort_of, parent_of; Birth of Lyssa
+- **zeus**: other, taught; Night advises Zeus; Zeus abandons pursuit of Hypnos; Zeus reared in Night's cave
+- **helios**: contest, shared_myth; Helios rises as Night retreats; Night departs as Sun rises
+- **iris**: deceived_by, other; Iris impersonates Nyx
+- **tartarus**: parent_of, shared_myth; Cosmic boundaries surrounding Tartarus
+- **aphrodite**: identified_with
+- **apollo**: contest; Contest for Delphi
+- **atropos**: parent_of
+- **chronos_primordial**: consort_of; Parentage of personified day
+- **clotho**: parent_of
+- **dionysus**: other; Night's oracles concerning Bacchus
+- **erinyes**: parent_of
+- **eris**: parent_of
+- **gaia**: parent_of
+- **hecate**: parent_of
+- **hera**: other; Hera's plot against Heracles
+- **heracles_god**: other; Rescue of Hypnos
+- **keres**: parent_of
+- **lachesis**: parent_of
+- **metis**: parent_of
+- **momus**: parent_of
+- **nemesis**: parent_of
+- **oceanus**: child_of
+- **oneiroi**: parent_of
+- **poseidon**: contest; Contest for Delphi
+- **python**: other; Delphic oracle succession
+- **selene**: shared_myth; Common dream oracle
+- **styx**: parent_of
+- **themis**: contest; Delphic oracle succession
+
+### oceanus  (42 gods)
+- **tethys**: consort_of, other, shared_myth, sibling_of; Generation of rivers and Oceanids; Gigantomachy; Hera's deceptive reconciliation story; Phaethon's catastrophe
+- **helios**: rescued_by, served, shared_myth; Daily solar journey; Helios's nightly passage; Heracles threatens Oceanus
+- **zeus**: allied, other, served; Cosmic subordination; Styx joins Zeus; Titanomachy
+- **coeus**: other, sibling_of; Overthrow of Uranus
+- **crius**: other, sibling_of; Overthrow of Uranus
+- **hera**: other; Hera's fosterage
+- **heracles_god**: contest, fought; Voyage in Helios's cup; Western voyage
+- **nereus**: contest, other; Donor of Helios' cup
+- **rhea**: parent_of, sibling_of
+- **styx**: parent_of, taught; Styx joins Zeus
+- **aether**: child_of
+- **amphitrite**: rescued; Amphitrite hides in Ocean’s halls
+- **anemoi**: shared_myth; Iris leaves the winds’ feast
+- **artemis**: other; Artemis chooses her attendants
+- **calypso**: parent_of
+- **circe**: ancestor_of
+- **dionysus**: shared_myth; Mildenhall Great Dish
+- **eos**: shared_myth; Daily rising from Ocean
+- **epimetheus**: other
+- **eros_primordial**: created_by; Eros mixes the world’s elements
+- **europa**: parent_of
+- **gaia**: child_of
+- **glaucus_sea**: transformed; Purification and apotheosis
+- **hephaestus**: created_by; Shield of Achilles
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **lachesis**: parent_of
+- **ladon**: shared_myth; Peaceful scene in the Hesperidean garden
+- **metis**: parent_of
+- **mnemosyne**: sibling_of
+- **nereids**: ancestor_of
+- **nymphs**: parent_of
+- **nyx**: parent_of
+- **perses_titan**: parent_of
+- **phoebe**: sibling_of
+- **pontus**: shared_myth; Imperial cosmic iconography
+- **poseidon**: identified_with
+- **prometheus**: allied; Oceanus visits bound Prometheus
+- **theia**: sibling_of
+- **themis**: sibling_of
+- **tyche**: parent_of
+- **uranus**: child_of
+
+### oneiroi  (16 gods)
+- **hypnos**: child_of, served, sibling_of; Morpheus visits Alcyone
+- **erebus**: child_of, other; Journey of dreams
+- **artemis**: shared_myth
+- **asclepius**: shared_myth
+- **athena**: other; Dreamlike apparitions sent to Penelope and Nausicaa
+- **gaia**: child_of
+- **hera**: served; Morpheus visits Alcyone
+- **hermes**: other
+- **iris**: served; Morpheus visits Alcyone
+- **keres**: sibling_of
+- **morpheus**: other; Morpheus visits Alcyone
+- **nemesis**: sibling_of
+- **nyx**: child_of
+- **pan**: shared_myth
+- **thanatos**: sibling_of
+- **zeus**: served; The false dream sent to Agamemnon
+
+### orthrus  (10 gods)
+- **heracles_god**: fought, killed_by; Arrow-death during the Geryon combat; Cattle of Geryon; Club-blow death at Erytheia; Raid on Geryon's cattle
+- **chimera**: consort_of, sibling_of; Birth of the Sphinx and Nemean Lion; Disputed parentage of Phix and the Nemean lion
+- **echidna**: child_of, consort_of; Disputed parentage of Phix and the Nemean lion
+- **geryon**: served; Guarding Geryon's cattle; Guarding Geryon's cattle on Erytheia
+- **athena**: shared_myth; Athena observes the Geryon combat
+- **cerberus_hound**: sibling_of
+- **lernaean_hydra**: sibling_of
+- **nemean_lion**: parent_of
+- **sphinx**: parent_of
+- **typhon**: child_of
+
+### pallas_titan  (13 gods)
+- **athena**: killed_by, other; Creation of the Palladium; Death of Pallas; Gigantomachy
+- **styx**: consort_of; Pallas and Styx beget four personified powers
+- **astraeus**: sibling_of
+- **crius**: child_of
+- **eos**: parent_of
+- **gaia**: descendant_of
+- **hecate**: other
+- **nike**: parent_of
+- **perses_titan**: sibling_of
+- **pontus**: descendant_of
+- **scylla_and_charybdis**: parent_of
+- **triton**: child_of
+- **uranus**: descendant_of
+
+### pan  (22 gods)
+- **nymphs**: allied, other, served_by, shared_myth; Mountain dances and rustic music; Nymphs rear Pan; Pan dances beside the spring; Pan's pursuit of Echo
+- **apollo**: child_of, contest, taught; Learning prophecy; Music contest judged by Tmolus; Pan teaches Apollo prophecy
+- **hermes**: child_of, served_by, shared_myth; Birth and reception on Olympus; Comic dispute over Pan’s paternity; Presentation of the infant Pan
+- **zeus**: allied, child_of, identified_with, rescued; Later combat traditions; Recovery of Zeus’s sinews
+- **dionysus**: allied, shared_myth; Dionysus’s Indian campaign; Indian campaign; Infant Pan received on Olympus
+- **selene**: deceived, seduced; Pan and the white fleece; Seduction with snowy fleece
+- **typhon**: fought, other, theft; Aigipan and the stolen sinews; Recovery of Zeus's sinews; The gods flee to Egypt
+- **artemis**: gift; Artemis gathers hunting equipment; Exchange of hunting dogs
+- **eros**: contest; Eros wrestles Pan; Omnia Vincit Amor
+- **gaia**: child_of, shared_myth; Preservation of Echo’s voice
+- **phanes**: identified_with, parent_of
+- **priapus**: identified_with, shared_myth; Feast of the rustic gods
+- **aether**: child_of
+- **aphrodite**: other; Pan’s resisted sexual approach
+- **boreas**: contest; Rivalry for Pitys
+- **demeter**: allied; Discovery of Black Demeter
+- **eros_primordial**: identified_with
+- **hermaphroditus**: shared_myth; Erotic pursuit and revelation
+- **metis**: identified_with
+- **oneiroi**: shared_myth
+- **rhea**: shared_myth; Nocturnal Mother worship at Thebes
+- **tyche**: other
+
+### pasiphae  (12 gods)
+- **helios**: child_of, shared_myth; Bronze images at Thalamai
+- **minotaur**: parent_of; Birth of the Minotaur
+- **perses_titan**: child_of, sibling_of
+- **poseidon**: other, punished_by; Divine madness after Minos's offense; Minos breaks his sacrificial vow
+- **aphrodite**: punished_by; Aphrodite implants desire for the bull
+- **apollo**: other; Apollo pursues Daphne
+- **ariadne**: parent_of
+- **atlas**: child_of
+- **circe**: sibling_of
+- **gaia**: gift; Gaia grants Daphne prophecy
+- **selene**: identified_with
+- **zeus**: consort_of; Conception of Ammon
+
+### pegasus  (9 gods)
+- **chimera**: fought, killed; Bellerophon's Lycian ordeal; Combat with the Chimaera
+- **poseidon**: child_of, served; Birth from Medusa; Pegasus halts Helicon
+- **zeus**: created_by, served, transformed_by; Catasterism of Pegasus; Pegasus created from clouds; Zeus’s thunder-bearer
+- **athena**: gift, other; Athena bridles Pegasus; The golden bridle
+- **muses**: shared_myth; Creation of Hippocrene; Hippocrene and the Muses
+- **perses_titan**: created_by, served; Birth from Medusa; Perseus rides Pegasus
+- **eos**: served
+- **heracles_god**: allied; Hercules’ childhood companion
+- **medusa**: child_of
+
+### persephone  (32 gods)
+- **zeus**: child_of, consort_of, deceived_by, judged_by, rescued_by; Conception of Dionysus-Zagreus; Conception of Melinoe; Division of Adonis’s time; Narcissus trap and authorized abduction
+- **hades**: consort_of, deceived_by, gift, other, punished_by; Abduction into the underworld; Abduction of Persephone; Pomegranate and seasonal settlement; Pomegranate before Persephone’s release
+- **hecate**: allied, identified_with, served_by, shared_myth; Persephone's abduction; Persephone's return; Roman Egyptian magical invocations; Search and reunion
+- **artemis**: allied, identified_with, shared_myth; Divine search for the lost maiden; Flower gathering before the abduction; Persephone before her abduction; Roman Egyptian magical invocations
+- **demeter**: child_of, rescued_by, shared_myth; Abduction, famine, reunion, and divided residence; Search, famine, and reunion; The Two Goddesses share Eleusinian honors
+- **sirens**: other, served_by; Attendance upon unmarried Persephone; Failure to aid Proserpina; Helen’s funerary lament; Search for abducted Proserpina
+- **dionysus**: parent_of, shared_myth; Bacchic release of dead initiates; Birth of Orphic Dionysus
+- **erinyes**: allied, parent_of, served_by; Parental curses against Phoenix and Meleager
+- **hermes**: rescued_by, shared_myth; Chthonic binding formula; Persephone’s negotiated return; Return of Persephone
+- **aphrodite**: contest; Adonis's divided year; Dispute over Adonis
+- **athena**: allied, shared_myth; Divine search for the lost maiden; Flower gathering before the abduction
+- **erebus**: other; Return of Persephone
+- **gaia**: deceived_by, shared_myth; Narcissus snare; Thesmophoria invocation
+- **helios**: shared_myth; Persephone's abduction; Witness to Persephone’s abduction
+- **ploutos**: served_by, shared_myth; Dispatch to favored households; Thesmophorian joint invocation
+- **rhea**: allied, shared_myth; Final reconciliation after Persephone’s return; Persephone's reunion with Demeter
+- **selene**: identified_with; Roman Egyptian magical invocations
+- **styx**: child_of, shared_myth; Persephone gathers flowers
+- **apollo**: shared_myth; Return of Alcestis
+- **astraeus**: other; Persephone’s horoscope
+- **atropos**: shared_myth; Abduction of Proserpina
+- **calypso**: shared_myth; Persephone's Oceanid companions
+- **cerberus_hound**: allied; Attempted abduction of Persephone
+- **charon**: served_by
+- **clotho**: shared_myth; Underworld and return imagery
+- **eros**: shared_myth; Psyche's underworld task
+- **harmonia**: shared_myth; Harmonia's bridal preparation
+- **heracles_god**: judged; Underworld descent
+- **horae**: served_by; Persephone emerges from darkness
+- **muses**: other; Calliope sings Proserpina's abduction
+- **nymphs**: allied; Flower gathering before Persephone's abduction
+- **tyche**: shared_myth; The meadow before Persephone’s abduction
+
+### perses_titan  (22 gods)
+- **graeae**: taught_by, theft; Directions to the equipment-bearing nymphs; Ovid's two Graeae; The discarded eye; The eye-and-tooth ransom
+- **ariadne**: ancestor_of, killed; Argive war with Dionysus
+- **asteria**: consort_of; Marriage to Asteria and birth of Hecate
+- **athena**: allied, gift; Gift of Medusa’s head; Killing of Medusa
+- **danae**: child_of, shared_myth; Exposure in the sea-borne chest
+- **helios**: child_of, consort_of
+- **medusa**: killed; Beheading of Medusa; Rationalized Libyan queen
+- **pasiphae**: parent_of, sibling_of
+- **pegasus**: created, served_by; Birth from Medusa; Perseus rides Pegasus
+- **astraeus**: sibling_of
+- **atlas**: transformed; Perseus petrifies Atlas into a mountain
+- **circe**: parent_of
+- **crius**: child_of
+- **gaia**: descendant_of
+- **hecate**: parent_of
+- **minotaur**: ancestor_of
+- **oceanus**: child_of
+- **pallas_titan**: sibling_of
+- **pontus**: descendant_of
+- **tethys**: child_of
+- **uranus**: descendant_of
+- **zeus**: child_of; Golden shower
+
+### phanes  (14 gods)
+- **chronos_primordial**: created_by; Chronos produces two-natured Eros; Cosmic egg and first manifestation; Generation of two-natured Eros; Hieronyman cosmic egg
+- **nyx**: consort_of, gift, parent_of; Phanes gives Nyx the sceptre; Transfer of the sceptre
+- **aether**: child_of, shared_myth; First manifestation in Aether; Phanes emerges from the cosmic egg; Phanes separates Aether from Chasm
+- **dionysus**: ancestor_of, identified_with; Renewal in Dionysus
+- **zeus**: ancestor_of, identified_with, other; Zeus swallows Phanes
+- **ananke**: shared_myth; Hieronyman cosmic egg; Orphic cosmogony
+- **chaos**: other, shared_myth; Illumination of the primordial chasm; Orphic cosmic egg cycle
+- **metis**: identified_with; Orphic primordial identity
+- **pan**: child_of, identified_with
+- **eros**: identified_with; Orphic cosmic egg
+- **gaia**: ancestor_of
+- **helios**: identified_with
+- **priapus**: identified_with
+- **uranus**: ancestor_of
+
+### phobos_and_deimos  (14 gods)
+- **ares**: allied, child_of, rescued, served; Ares prepares to avenge Ascalaphus; Ares’s chariot in battle; Heracles wounds Ares; Oath of the Seven
+- **athena**: contest, served; Gods drive opposing hosts at Troy; Judgment of Paris stage spectacle
+- **enyo**: shared_myth; Divine horrors stalk the battlefield; The Seven swear their blood oath
+- **eris**: served, shared_myth; Divine powers move among the combatants; Eris leads the martial daimones
+- **aphrodite**: child_of
+- **dionysus**: fought; Indian war
+- **erebus**: child_of
+- **harmonia**: sibling_of
+- **hephaestus**: fought; Failed return of Hephaestus
+- **hera**: allied; Hera mobilizes Dionysus’ opponents
+- **heracles_god**: shared_myth; Wounding and rescue of Ares
+- **selene**: child_of
+- **typhon**: fought; Cosmic struggle against Typhon
+- **zeus**: gift; Zeus arms the brothers against Typhon
+
+### phoebe  (19 gods)
+- **apollo**: ancestor_of, gift, other; Delphic succession; Naming of Phoebus; Peaceful Delphic succession
+- **coeus**: allied, consort_of, sibling_of; Birth of Leto and Asteria; Overthrow of Uranus
+- **hecate**: ancestor_of, identified_with, shared_myth; Pergamon Gigantomachy; Triple magical manifestation
+- **artemis**: ancestor_of, identified_with
+- **asteria**: allied, parent_of; Pergamon Gigantomachy
+- **gaia**: child_of, shared_myth; Delphic oracle succession
+- **leto**: parent_of, shared_myth; Pergamon Gigantomachy
+- **themis**: gift, sibling_of; Delphic succession
+- **uranus**: child_of, fought; Revolt of the Titans
+- **crius**: sibling_of
+- **dioscuri**: consort_of; Marriage or abduction of the Leucippides
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **mnemosyne**: sibling_of
+- **oceanus**: sibling_of
+- **rhea**: sibling_of
+- **selene**: identified_with
+- **tethys**: sibling_of
+- **theia**: sibling_of
+
+### ploutos  (10 gods)
+- **demeter**: child_of, served, shared_myth; Birth in the thrice-ploughed field; Dispatch to favored households; Thesmophorian joint invocation
+- **zeus**: consort_of, punished_by, served; Timon and the reluctant god; Zeus blinds Wealth
+- **athena**: other, shared_myth; Installation beside Athena’s treasury; Ploutos salutes Athens
+- **hermes**: other, shared_myth; Hermes escorts Ploutos to Timon; Thesmophorian joint invocation
+- **persephone**: served, shared_myth; Dispatch to favored households; Thesmophorian joint invocation
+- **tyche**: child_of, other; Tyche carries infant Ploutos
+- **apollo**: other; Apollo’s oracle initiates Ploutos’ cure
+- **charites**: shared_myth; Thesmophorian joint invocation
+- **hades**: identified_with
+- **heracles_god**: other; Heracles rejects Ploutos
+
+### polyphemus  (4 gods)
+- **poseidon**: allied, child_of, other; Polyphemus invokes Poseidon’s curse against Odysseus; Polyphemus’ curse
+- **cyclopes**: shared_myth; Neighboring Cyclopes answer Polyphemus’s cries
+- **dionysus**: other; Dionysian wine enables Polyphemus’s blinding
+- **zeus**: other; Polyphemus rejects Zeus’s protection of strangers
+
+### pontus  (13 gods)
+- **gaia**: child_of, consort_of; Generation of the old marine family; Hyginian cosmogony; The Sea born from Earth alone
+- **nereus**: child_of, parent_of
+- **aether**: child_of
+- **harpies**: parent_of
+- **hecatoncheires**: parent_of
+- **morpheus**: other; Orpheus and the listening Euxine
+- **nereids**: ancestor_of
+- **oceanus**: shared_myth; Imperial cosmic iconography
+- **pallas_titan**: ancestor_of
+- **perses_titan**: ancestor_of
+- **poseidon**: parent_of
+- **tyche**: shared_myth; Tomis civic-maritime iconography
+- **uranus**: fought; Phoenician war-cycle
+
+### poseidon  (61 gods)
+- **athena**: allied, contest, fought, parent_of; Contest for Athens; Contest for Attica; Destruction of the Greek fleet; Dispute over Odysseus
+- **zeus**: allied, contest, fought, shared_myth, sibling_of; Contest for Aegina; Division of the cosmos; Olympian conspiracy against Zeus; Poseidon challenges Zeus’ precedence
+- **apollo**: allied, contest, fought, gift; Battle of the gods; Building Troy’s walls; Exchange of Delphi; Exchange of sanctuaries
+- **hera**: allied, contest, fought, sibling_of; Attempted binding of Zeus; Contest for Argos; Deception of Zeus; Divine support for the Achaeans
+- **amphitrite**: consort_of, other, shared_myth; Abduction after the Nereid dance; Coercive seizure from Ocean’s halls; Delphinus arranges Amphitrite’s marriage; Marine sovereignty and divine household service
+- **hecatoncheires**: fought, gift, judged_by, parent_of; Dispute over Corinth; Marriage to Cymopoleia; Olympian binding conspiracy; Poseidon defeats Aegaeon
+- **hades**: allied, other, shared_myth, sibling_of; Division of the cosmos; Poseidon shakes the earth
+- **medusa**: consort_of, other, seduced; Meadow union; Union in the flowered meadow; Violation in Minerva’s temple
+- **rhea**: child_of, other, rescued_by; Poseidon's Rhodian fostering; Poseidon’s Arcadian infancy; The Arcadian foal substitution
+- **triton**: gift, parent_of, served_by; Poseidon’s marine procession; Recall of the floodwaters; Triton guides the Argonauts from Lake Tritonis
+- **anemoi**: punished, served_by, shared_myth; Neptune disperses Aeolus’ released storm; Poseidon rescues Chione’s exposed infant; Poseidon’s storm against Odysseus
+- **aphrodite**: consort_of, rescued; Ares, Hephaestus, and the net; Hephaestus’ adultery net
+- **ares**: judged, rescued; Hephaestus’ adultery net; Release from Hephaestus’s net; Trial for killing Halirrhothius
+- **cronos**: child_of, deceived, other; Arcadian foal substitution; Swallowing and disgorgement
+- **cyclopes**: created_by, gift, parent_of; Arming the three divine brothers; The horse-trough commission
+- **demeter**: other, seduced, sibling_of; Demeter’s equine flight; Poseidon pursues Demeter in equine form
+- **hestia**: other, shared_myth, sibling_of; Glaucus's Olympia sculptural dedication; Hestia refuses Poseidon's marriage proposal
+- **nereids**: allied, other, served_by; Marriage into the sea family; Neptune escorts Aeneas’s fleet; Punishment for Cassiopeia’s boast
+- **pegasus**: parent_of, served_by; Birth from Medusa; Pegasus halts Helicon
+- **polyphemus**: allied, other, parent_of; Polyphemus invokes Poseidon’s curse against Odysseus; Polyphemus’ curse
+- **proteus**: parent_of, served_by; Proteus tends Poseidon’s seals
+- **thetis**: contest, seduced; Prophecy of Thetis’ son; Prophecy of the greater son; Rivalry for Thetis
+- **aeolus**: contest, parent_of; Neptune calms Aeolus' storm
+- **asteria**: other, shared_myth; Creation and fixing of the islands; First consecration of Delos
+- **calypso**: allied, other; Neptune drives Telemachus toward Ogygia; Odysseus detained for Poseidon
+- **gaia**: consort_of, shared_myth; Joint ownership of Delphi
+- **geryon**: ancestor_of, other; Divine council before Geryon's death
+- **glaucus_sea**: parent_of, served_by; Poseidon's marine retinue
+- **helios**: contest; Contest for Corinth; Division of Corinth
+- **hephaestus**: other; Hephaestus’ adultery net; Release of the adulterers
+- **iris**: other; Poseidon withdraws from battle; Zeus orders Poseidon’s withdrawal
+- **leto**: gift, rescued; Exchange of sanctuaries; Stabilization of floating Delos
+- **nereus**: allied, other; Marine war against Dionysus; Marriage into the sea family
+- **notus_and_eurus**: punished, served_by; Neptune disperses Aeolus’s storm; Poseidon’s storm against Odysseus
+- **pasiphae**: other, punished; Divine madness after Minos's offense; Minos breaks his sacrificial vow
+- **scylla_and_charybdis**: parent_of, served_by; Charybdis floods land
+- **atlas**: parent_of; Atlantis dynasty
+- **boreas**: other
+- **chiron**: shared_myth; Wedding of Peleus and Thetis
+- **circe**: consort_of
+- **clotho**: shared_myth; Pelops and the cauldron
+- **dionysus**: contest; Contest for Naxos
+- **erinyes**: shared_myth; Poseidon pursues Demeter Erinys
+- **europa**: allied; Divine escort across the sea
+- **gigantes**: killed; Polybotes buried beneath Nisyros
+- **harpies**: parent_of
+- **heracles_god**: fought; War at Pylos
+- **hermes**: shared_myth; Negotiation over Ares's release
+- **hypnos**: allied; Deception of Zeus
+- **minotaur**: created; Punishment for Minos's withheld sacrifice
+- **momus**: judged_by; Judgment of divine craftsmanship
+- **nymphs**: seduced; Poseidon's pursuit and union with Amymone
+- **nyx**: contest; Contest for Delphi
+- **oceanus**: identified_with
+- **pontus**: child_of
+- **prometheus**: other; Abandonment of pursuit of Thetis
+- **styx**: shared_myth; Hera denies directing Poseidon
+- **talos**: shared_myth; Poseidon witnesses Talos’s death
+- **tartarus**: other; Building the Titan prison
+- **themis**: taught_by; Marriage of Thetis
+- **zephyrus**: shared_myth; Sacrifice before the Argo sails
+
+### priapus  (11 gods)
+- **dionysus**: child_of, shared_myth; Priapic element in Dionysian rites; The ass's sexual contest
+- **hermes**: child_of, parent_of
+- **pan**: identified_with, shared_myth; Feast of the rustic gods
+- **aphrodite**: child_of
+- **eros_primordial**: identified_with
+- **hera**: punished_by; Prenatal curse
+- **hermaphroditus**: sibling_of
+- **hestia**: other; Vesta and the ass
+- **nymphs**: other; Lotis flees Priapus
+- **phanes**: identified_with
+- **zeus**: child_of
+
+### prometheus  (23 gods)
+- **zeus**: allied, contest, deceived, punished_by, theft; Binding and the eagle; Binding of Prometheus; Division of the ox at Mecone; Sacrifice at Mekone
+- **epimetheus**: allied, other, sibling_of, taught; Distribution of mortal capacities; Distribution of powers among mortal creatures; Epimetheus accepts Pandora; Marriage of Pyrrha and Deucalion
+- **hephaestus**: punished_by, shared_myth, theft; Athenian torch cults; Binding Prometheus; Chaining in Scythia; Creation of Pandora
+- **athena**: allied, other, theft; Animation of clay humanity; Birth from Zeus’s head; Entry into heaven; Theft from the divine workshop
+- **heracles_god**: rescued_by; Heracles kills the eagle; Liberation of Prometheus; Release of Prometheus
+- **hermes**: contest, punished_by, shared_myth; Demand for Zeus's hidden secret; Demand for the succession prophecy; Distribution of civic virtues
+- **themis**: child_of, shared_myth, taught_by; Prophecy of divine succession; Thetis marriage prophecy
+- **atlas**: shared_myth, sibling_of; Brothers' punishments
+- **hera**: child_of, shared_myth; Prometheus and Hera
+- **iapetus**: child_of, other; Iapetus pleads after hearing Prometheus suffer
+- **thetis**: other, shared_myth; Prometheus reveals the marriage prophecy; Prophecy concerning Thetis's son
+- **asclepius**: identified_with; Disputed Panopean statue
+- **chiron**: rescued_by; Exchange of immortality
+- **demeter**: gift; Cabeiric sacred deposit
+- **helios**: theft; Fire taken from the Sun's chariot
+- **iris**: rescued_by; Release of Prometheus
+- **menoetius**: sibling_of
+- **momus**: judged_by; Judgment of divine craftsmanship
+- **oceanus**: allied; Oceanus visits bound Prometheus
+- **poseidon**: other; Abandonment of pursuit of Thetis
+- **tyche**: parent_of
+- **typhon**: other; Prometheus recalls Typhon's defeat
+- **uranus**: child_of
+
+### proteus  (11 gods)
+- **poseidon**: child_of, served; Proteus tends Poseidon’s seals
+- **dionysus**: allied, taught; Indian campaign; Lycurgus’ punishment
+- **glaucus_sea**: allied, shared_myth; Marine gods propel Aeneas' fleet; Poseidon's late marine company
+- **thetis**: taught; Prophecy of Thetis’ son; Proteus foretells the greater son
+- **zeus**: other, served; Helen’s displacement to Egypt; Prophecy concerning Thetis
+- **hebe**: parent_of
+- **hephaestus**: other; Cabeiro’s Cabeirian offspring
+- **hera**: allied; Phantom Helen plot
+- **hermes**: other; Hermes entrusts Helen to Proteus
+- **nereus**: other; Marine divinities revere Proteus
+- **nymphs**: other; Marine divinities revere Proteus
+
+### python  (9 gods)
+- **apollo**: gift, killed_by; Apollo conquers Gaia's Delphic oracle; Apollo defeats the brigand Python; Apollo destroys post-flood Python; Apollo kills the dragoness beside the Delphic spring
+- **gaia**: child_of, created_by, served; Earth generates Python after Deucalion's flood; Guardian of Gaia's oracle; Guarding Delphi
+- **typhon**: identified_with, other; The dragoness fosters Typhaon
+- **artemis**: killed_by; Apollo and Artemis kill Pytho
+- **echidna**: identified_with
+- **hera**: other; Hera entrusts Typhaon to the dragoness
+- **leto**: fought; Python persecutes pregnant Leto
+- **nyx**: other; Delphic oracle succession
+- **themis**: served; Guardian of Themis's oracle
+
+### rhea  (33 gods)
+- **dionysus**: allied, other, shared_myth, taught; Convergence of Mother and Bacchic rites; Dionysus's initiation in Phrygia; Dionysus's purification in Phrygia; Initiation of the maddened Dionysus
+- **demeter**: allied, identified_with, other, parent_of; Demeter's reconciliation; Fusion of the grieving divine Mother; Rhea mediates the divine settlement
+- **poseidon**: other, parent_of, rescued; Poseidon's Rhodian fostering; Poseidon’s Arcadian infancy; The Arcadian foal substitution
+- **zeus**: other, parent_of, rescued, served; Demeter's reconciliation; The concealment of Zeus; Transformation of Aeneas's ships
+- **cronos**: consort_of, deceived, sibling_of; Saving the infant Zeus
+- **gaia**: allied, child_of; Preservation of infant Zeus; The concealment of Zeus
+- **hera**: other, parent_of; Hera's fostering; Jupiter's concealment
+- **tethys**: child_of, other, sibling_of; Nursing of Hera
+- **uranus**: allied, child_of, fought; Revolt of the Titans; The plan against Cronus
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **oceanus**: child_of, sibling_of
+- **persephone**: allied, shared_myth; Final reconciliation after Persephone’s return; Persephone's reunion with Demeter
+- **aether**: child_of
+- **amphitrite**: shared_myth; Apollo’s birth on Delos
+- **aphrodite**: other; Zeus summons the wandering Mother
+- **apollo**: other; Apollo's birth on Delos
+- **chiron**: shared_myth; Cronus conceives Chiron in equine form
+- **clotho**: other; Pelops' restoration
+- **crius**: sibling_of
+- **eileithyia**: shared_myth; Delian birth of Apollo
+- **gigantes**: allied; Defense of pregnant Rhea
+- **hades**: parent_of
+- **hecate**: identified_with
+- **hestia**: parent_of
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **iris**: other; Dionysus commissioned for India
+- **leto**: served; Apollo's birth on Delos
+- **mnemosyne**: sibling_of
+- **pan**: shared_myth; Nocturnal Mother worship at Thebes
+- **phoebe**: sibling_of
+- **theia**: sibling_of
+- **themis**: sibling_of
+
+### scylla_and_charybdis  (18 gods)
+- **glaucus_sea**: gift, seduced_by, shared_myth; Courtship gifts in Scylla's cave; Glaucus courts Scylla; Glaucus unsuccessfully courts Scylla; Scylla's transformation by Circe
+- **heracles_god**: killed_by, theft; Charybdis takes Heracles' cattle; Heracles kills Scylla; Scylla steals Geryon's cattle
+- **circe**: transformed_by; Circe transforms Scylla; Scylla’s transformation
+- **hecate**: child_of, other; Circe transforms Scylla
+- **poseidon**: child_of, served; Charybdis floods land
+- **thetis**: contest, other; Rescue of the Argo; The Argonauts pass the monsters
+- **amphitrite**: transformed_by; Jealous transformation of Scylla
+- **chimera**: shared_myth; Monsters at Hades' entrance
+- **echidna**: child_of
+- **gaia**: child_of
+- **graeae**: sibling_of
+- **hera**: other; The Argonauts pass the monsters
+- **nereids**: contest; The Argonauts pass the monsters
+- **pallas_titan**: child_of
+- **styx**: child_of
+- **triton**: child_of
+- **typhon**: child_of
+- **zeus**: punished_by; Zeus casts Charybdis into sea
+
+### selene  (23 gods)
+- **helios**: child_of, consort_of, shared_myth, sibling_of; Birth of the Horae; Helios murdered and Selene transformed; Opposed rising and setting; Sun and Moon balance Zeus’s throne
+- **nemean_lion**: created, parent_of, served; Descent of the Nemean lion; Lion in the two-mouthed cave; Selene nourishes the lion in its cave; Selene produces or casts forth the lion
+- **theia**: child_of, other, shared_myth; Birth of Sun, Moon, and Dawn; Pergamon celestial grouping; The Moon’s garment
+- **pan**: deceived_by, seduced_by; Pan and the white fleece; Seduction with snowy fleece
+- **eos**: shared_myth, sibling_of; Celestial procession
+- **horae**: parent_of; Birth of the Horae
+- **persephone**: identified_with; Roman Egyptian magical invocations
+- **zeus**: consort_of, shared_myth; Birth of Pandia; Endymion chooses eternal sleep
+- **aphrodite**: shared_myth; Selene discusses Endymion
+- **artemis**: identified_with
+- **astraeus**: other; Persephone’s horoscope
+- **cronos**: other; Creation of extra calendar days
+- **erinyes**: identified_with; Syncretistic magical invocations
+- **gaia**: shared_myth; Selene approaches sleeping Endymion
+- **graeae**: other; The Graeae beyond celestial sight
+- **hecate**: identified_with
+- **hera**: served; Descent of the Nemean lion
+- **hyperion**: child_of
+- **hypnos**: shared_myth; Selene approaches sleeping Endymion
+- **nyx**: shared_myth; Common dream oracle
+- **pasiphae**: identified_with
+- **phobos_and_deimos**: parent_of
+- **phoebe**: identified_with
+
+### sirens  (14 gods)
+- **muses**: child_of, contest, punished_by; Contest with the Muses; Feather crowns after the contest; Musical contest with the Sirens
+- **persephone**: other, served; Attendance upon unmarried Persephone; Failure to aid Proserpina; Helen’s funerary lament; Search for abducted Proserpina
+- **hera**: other, shared_myth; Contest with the Muses; Roman musical-contest sarcophagus
+- **ananke**: shared_myth; The spindle of Necessity
+- **aphrodite**: shared_myth; Aphrodite rescues Butes
+- **apollo**: other; Wandering after Proserpina’s rape
+- **athena**: shared_myth; Roman musical-contest sarcophagus
+- **atropos**: shared_myth; Harmony of the cosmic spindle
+- **circe**: other; Circe’s warning to Odysseus
+- **clotho**: shared_myth; The cosmic spindle
+- **demeter**: transformed_by; Punishment after Proserpina’s abduction
+- **lachesis**: allied; Harmony around Ananke's spindle
+- **morpheus**: contest; Argonauts pass Anthemoessa
+- **zeus**: shared_myth; Roman musical-contest sarcophagus
+
+### sphinx  (8 gods)
+- **chimera**: child_of, sibling_of
+- **echidna**: child_of, descendant_of
+- **hera**: served; Hera sends the Sphinx to Thebes; Punishment for Laius' crime against Chrysippus
+- **lernaean_hydra**: sibling_of
+- **muses**: taught_by; The Sphinx learns her riddle
+- **nemean_lion**: sibling_of
+- **orthrus**: child_of
+- **typhon**: child_of
+
+### stymphalian_birds  (5 gods)
+- **heracles_god**: fought, killed_by; Heracles attacks the flock with a sling; Heracles clears the crop-destroying flock; Heracles expels the birds with rattles; Heracles kills the birds on Mars's island
+- **ares**: identified_with, other; Stymphalides identified as Mars's nurslings; The projectile-feathered birds of Ares
+- **athena**: other, shared_myth; Athena supplies Heracles with bronze clappers; Olympia's Stymphalian Birds metope
+- **hecate**: gift; Medea's offering of a Stymphalian feather
+- **hephaestus**: other; The bronze clappers used against the birds
+
+### styx  (28 gods)
+- **zeus**: allied, consort_of, gift, punished; Death of Semele; Institution of the divine oath; Styx joins Zeus
+- **athena**: shared_myth; Heracles escapes the underworld; Persephone gathers flowers
+- **hera**: shared_myth; Hera denies directing Poseidon; Hera’s bargain with Hypnos
+- **hypnos**: other, shared_myth; Hera’s bargain with Hypnos; Hera’s oath
+- **iris**: served_by; Oath ordeal of the gods; The divine oath ritual
+- **nike**: allied, parent_of; Styx joins Zeus
+- **oceanus**: child_of, taught_by; Styx joins Zeus
+- **pallas_titan**: consort_of; Pallas and Styx beget four personified powers
+- **persephone**: parent_of, shared_myth; Persephone gathers flowers
+- **aphrodite**: shared_myth; Psyche fetches Stygian water
+- **apollo**: shared_myth; Apollo requests Hermes’ oath
+- **artemis**: shared_myth; Persephone gathers flowers
+- **calypso**: shared_myth; Calypso’s promise to Odysseus
+- **charon**: served_by; Charon ferries souls across Styx
+- **circe**: shared_myth; Directions to the underworld
+- **echidna**: parent_of
+- **erebus**: child_of
+- **gaia**: shared_myth; Zeus’s supreme oath
+- **harpies**: other; Oath ending the pursuit
+- **heracles_god**: contest; Heracles descends for Cerberus
+- **hermes**: shared_myth; Apollo requests Hermes’ oath
+- **momus**: shared_myth; Lucian's divine citizenship purge
+- **nyx**: child_of
+- **poseidon**: shared_myth; Hera denies directing Poseidon
+- **scylla_and_charybdis**: parent_of
+- **tartarus**: shared_myth; Cosmic boundaries surrounding Tartarus
+- **tethys**: child_of
+- **thetis**: shared_myth; Achilles’ immersion
+
+### talos  (9 gods)
+- **hephaestus**: created_by, parent_of; Bronze guardian; Hephaestus manufactures the bronze guardian
+- **europa**: other, served; Guardianship of Europa and Crete; Talos guards Europa’s Cretan household
+- **amphitrite**: shared_myth; Amphitrite witnesses Talos’s death
+- **dioscuri**: other; The Dioscuri control the collapsing Talos
+- **hera**: shared_myth; Argonautic program of the Talos krater
+- **keres**: other; Medea invokes the Keres against Talos
+- **nike**: shared_myth; Argonautic program of the Talos krater
+- **poseidon**: shared_myth; Poseidon witnesses Talos’s death
+- **zeus**: gift; Zeus gives Talos to Europa
+
+### tartarus  (20 gods)
+- **typhon**: other, parent_of; Birth of Typhoeus; Zeus imprisons Typhoeus
+- **zeus**: other; Defeat and imprisonment of Typhoeus; Imprisonment of the Titans; Zeus threatens the disobedient gods
+- **gaia**: consort_of; Gaia and Tartarus conceive Typhoeus
+- **nyx**: child_of, shared_myth; Cosmic boundaries surrounding Tartarus
+- **aether**: child_of
+- **aphrodite**: other; Aphrodite mediates Tartarus’s union with Gaia
+- **astraeus**: parent_of
+- **coeus**: parent_of
+- **cyclopes**: other; Imprisonment and release of the Cyclopes
+- **echidna**: parent_of
+- **erebus**: shared_myth; The birds’ primordial cosmogony
+- **erinyes**: served_by; Punishment within Tartarus
+- **gigantes**: parent_of
+- **hades**: other
+- **hecate**: other; Authority over Tartarean punishments
+- **hera**: shared_myth; Hera’s independent conception of Typhaon
+- **nemesis**: consort_of; Birth of the Telchines
+- **poseidon**: other; Building the Titan prison
+- **styx**: shared_myth; Cosmic boundaries surrounding Tartarus
+- **uranus**: other; First imprisonment of Zeus’s future allies
+
+### tethys  (28 gods)
+- **oceanus**: consort_of, other, shared_myth, sibling_of; Generation of rivers and Oceanids; Gigantomachy; Hera's deceptive reconciliation story; Phaethon's catastrophe
+- **hera**: deceived_by, other; Deception of Zeus; Nursing of Hera
+- **rhea**: other, parent_of, sibling_of; Nursing of Hera
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **iapetus**: consort_of, sibling_of
+- **thetis**: ancestor_of, shared_myth; Wedding of Peleus and Thetis
+- **uranus**: child_of, fought; Revolt of the Titans
+- **amphitrite**: parent_of
+- **aphrodite**: parent_of
+- **calypso**: parent_of
+- **crius**: sibling_of
+- **eileithyia**: shared_myth; Wedding procession of Peleus and Thetis
+- **epimetheus**: other
+- **gaia**: child_of
+- **geryon**: ancestor_of
+- **glaucus_sea**: transformed; Purification and apotheosis
+- **helios**: served; Reception of the setting sun
+- **hyperion**: sibling_of
+- **ladon**: parent_of
+- **metis**: parent_of
+- **nereids**: ancestor_of
+- **nymphs**: parent_of
+- **perses_titan**: parent_of
+- **phoebe**: sibling_of
+- **styx**: parent_of
+- **theia**: sibling_of
+- **themis**: sibling_of
+- **tyche**: parent_of
+
+### thanatos  (21 gods)
+- **hypnos**: allied, shared_myth, sibling_of; The dark house of Sleep and Death; Transport of Sarpedon
+- **nyx**: child_of, other, shared_myth; Nyx holds Sleep and Death; Nyx holds Sleep and Death as infants
+- **zeus**: served, shared_myth; Apulian Sarpedon composition; Sisyphus chains Death; Transport of Sarpedon
+- **apollo**: contest, gift; Apollo disputes Alcestis's death; Transport of Sarpedon
+- **ares**: rescued_by; Sisyphus binds Death; Sisyphus chains Death
+- **heracles_god**: fought; Heracles wrestles Death for Alcestis; Rescue of Alcestis
+- **keres**: allied, sibling_of; Battlefield march
+- **ariadne**: shared_myth; Death-like sleep
+- **atropos**: sibling_of
+- **erebus**: child_of
+- **erinyes**: parent_of
+- **eris**: sibling_of
+- **europa**: shared_myth; Apulian Sarpedon composition
+- **hades**: shared_myth; Death of Alcestis
+- **helios**: other; The dark house of Sleep and Death
+- **hera**: shared_myth; Apulian Sarpedon composition
+- **hermes**: served; Transport of Sarpedon
+- **lachesis**: sibling_of
+- **momus**: sibling_of
+- **nemesis**: sibling_of
+- **oneiroi**: sibling_of
+
+### theia  (16 gods)
+- **selene**: other, parent_of, shared_myth; Birth of Sun, Moon, and Dawn; Pergamon celestial grouping; The Moon’s garment
+- **eos**: parent_of, shared_myth; Birth of Sun, Moon, and Dawn; Pergamon celestial grouping
+- **helios**: allied, parent_of; Birth of Sun, Moon, and Dawn; Pergamon Gigantomachy
+- **hyperion**: consort_of, sibling_of; Birth of Sun, Moon, and Dawn; Birth of the luminous triad
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **uranus**: child_of, fought; Revolt of the Titans
+- **crius**: sibling_of
+- **gaia**: child_of
+- **hemera**: parent_of
+- **iapetus**: sibling_of
+- **mnemosyne**: sibling_of
+- **oceanus**: sibling_of
+- **phoebe**: sibling_of
+- **rhea**: sibling_of
+- **tethys**: sibling_of
+- **themis**: sibling_of
+
+### themis  (40 gods)
+- **zeus**: allied, consort_of, served, taught; Assembly of the gods; Divine counsel; Establishment of Zeus’s ordered reign; Marriage establishing ordered sovereignty
+- **apollo**: allied, contest, gift, other, shared_myth; Birth of Apollo; Conflictual Delphic succession; Creation of Delphi’s oracle; Peaceful Delphic succession
+- **gaia**: child_of, gift, identified_with; Delphic oracle succession; Peaceful Delphic succession; Prometheus reveals his mother’s identity
+- **prometheus**: parent_of, shared_myth, taught; Prophecy of divine succession; Thetis marriage prophecy
+- **uranus**: child_of, fought, shared_myth; Pergamon Gigantomachy; Revolt of the Titans
+- **atropos**: other, parent_of; Themis escorted to Olympus
+- **coeus**: allied, sibling_of; Overthrow of Uranus
+- **eileithyia**: shared_myth; Birth of Apollo; Delian birth of Apollo
+- **eris**: shared_myth; Divine plan initiates the Trojan War; Wedding of Peleus and Thetis
+- **hebe**: other, punished; Debate after Iolaus' rejuvenation; Prophecy of the Theban wars
+- **hermes**: allied, shared_myth; Divine assembly vase scene; Thief-detection rite
+- **lachesis**: parent_of, shared_myth; Neighboring sanctuaries at Thebes
+- **leto**: allied, shared_myth; Birth of Apollo; Feeding the newborn Apollo
+- **nemesis**: other, shared_myth; Shared sanctuary at Rhamnous
+- **phoebe**: gift, sibling_of; Delphic succession
+- **thetis**: judged; Marriage of Thetis; Prophecy of the greater son
+- **aether**: child_of
+- **amphitrite**: shared_myth; Apollo’s birth on Delos
+- **aphrodite**: shared_myth; Divine marriage traditions
+- **athena**: shared_myth; Divine assembly vase scene
+- **atlas**: other; Themis foretells theft from Atlas's tree
+- **clotho**: parent_of
+- **crius**: sibling_of
+- **demeter**: shared_myth; Prophecy of the Theban wars
+- **erinyes**: allied; Thief-detection rite
+- **helios**: allied; Thief-detection rite
+- **hera**: gift; Hera’s distressed return to Olympus
+- **heracles_god**: other; Hebe’s rejuvenation of Iolaos
+- **horae**: parent_of
+- **hyperion**: sibling_of
+- **iapetus**: sibling_of
+- **mnemosyne**: sibling_of
+- **nymphs**: parent_of
+- **nyx**: contest; Delphic oracle succession
+- **oceanus**: sibling_of
+- **poseidon**: taught; Marriage of Thetis
+- **python**: served_by; Guardian of Themis's oracle
+- **rhea**: sibling_of
+- **tethys**: sibling_of
+- **theia**: sibling_of
+
+### thetis  (35 gods)
+- **zeus**: other, rescued, seduced_by, served; Command to return Hector; Prophecy of the greater son; Rescue of Zeus from binding; Return of Hector’s body
+- **hera**: allied, contest, fought, gift, shared_myth; Attempted binding of Zeus; Grant of Lacinion; Rescue of Zeus from binding; Rescue of the Argo
+- **nereids**: allied, shared_myth, sibling_of; Funeral of Achilles; Lament for Patroclus; Rescue of the Argo
+- **hephaestus**: gift, rescued; Forging Achilles' armor; Rescue beneath Ocean; Sheltering the fallen Hephaestus
+- **iris**: other, served_by; The Argo’s passage; Thetis summoned to Zeus; Zeus summons Thetis
+- **poseidon**: contest, seduced_by; Prophecy of Thetis’ son; Prophecy of the greater son; Rivalry for Thetis
+- **aphrodite**: gift, shared_myth; Wedding of Peleus and Thetis
+- **athena**: fought, served_by; Rescue of Zeus from binding; Wedding of Peleus and Thetis
+- **charites**: other, shared_myth; Charis welcomes Thetis; Wedding of Peleus and Thetis
+- **chiron**: deceived_by, shared_myth; Peleus seizes transforming Thetis; Wedding of Peleus and Thetis
+- **dionysus**: rescued; Dionysus flees Lycurgus; Flight from Lycurgus
+- **eos**: contest, shared_myth; Psychostasia of Achilles and Memnon; Weighing of Achilles and Memnon
+- **muses**: shared_myth; Mourning for Achilles; Wedding of Peleus and Thetis
+- **nereus**: child_of, shared_myth; Summoning Thetis for the Argo
+- **prometheus**: other, shared_myth; Prometheus reveals the marriage prophecy; Prophecy concerning Thetis's son
+- **proteus**: taught_by; Prophecy of Thetis’ son; Proteus foretells the greater son
+- **scylla_and_charybdis**: contest, other; Rescue of the Argo; The Argonauts pass the monsters
+- **tethys**: descendant_of, shared_myth; Wedding of Peleus and Thetis
+- **themis**: judged_by; Marriage of Thetis; Prophecy of the greater son
+- **apollo**: shared_myth; Wedding of Peleus and Thetis
+- **atropos**: shared_myth; Wedding of Peleus and Thetis
+- **cyclopes**: shared_myth; Divinely commissioned armor
+- **enyo**: other; Neoptolemus fights Eurypylus
+- **eris**: other; Golden apple at Thetis’s wedding
+- **ganymede**: served_by; Wedding of Peleus and Thetis
+- **glaucus_sea**: allied; Marine gods propel Aeneas' fleet
+- **hecatoncheires**: allied; Briareus saves Zeus
+- **hemera**: shared_myth; Mothers petition before the duel
+- **hestia**: shared_myth; Wedding of Peleus and Thetis
+- **keres**: shared_myth; Psychostasia of Achilles and Memnon
+- **momus**: other; Population crisis and Trojan War
+- **nymphs**: allied; Nereids console Thetis
+- **styx**: shared_myth; Achilles’ immersion
+- **urania**: shared_myth; Wedding of Peleus and Thetis
+- **zephyrus**: shared_myth; Sacrifice before the Argo sails
+
+### triton  (16 gods)
+- **poseidon**: child_of, gift, served; Poseidon’s marine procession; Recall of the floodwaters; Triton guides the Argonauts from Lake Tritonis
+- **athena**: other, parent_of, shared_myth; Athena’s childhood with Pallas; Heracles wrestles Triton
+- **amphitrite**: child_of, served; Amphitrite’s marine procession
+- **heracles_god**: contest, fought; Combat with Triton; Heracles wrestles Triton
+- **nereids**: shared_myth; Marine processions of Tritons and Nereids; Marine thiasos
+- **nereus**: other, shared_myth; Heracles wrestles Triton; Heracles wrestles the sea elder
+- **zeus**: shared_myth; Athena accidentally kills Pallas; Eurypylus gives Euphemus Libyan earth
+- **aphrodite**: served; Europa’s marine procession
+- **apollo**: gift; The Argonauts dedicate Apollo’s tripod
+- **ares**: other
+- **dionysus**: fought; Tanagra’s Triton attacks women
+- **echidna**: shared_myth; Opposing sides of the Amyclaean throne
+- **europa**: allied; Divine escort across the sea
+- **glaucus_sea**: allied; Marine gods propel Aeneas' fleet
+- **pallas_titan**: parent_of
+- **scylla_and_charybdis**: parent_of
+
+### tyche  (17 gods)
+- **aphrodite**: child_of, other
+- **nemesis**: identified_with, shared_myth; Scenes concerning Helen’s fate
+- **ploutos**: other, parent_of; Tyche carries infant Ploutos
+- **zeus**: child_of, other; Appointment of the Oceanids
+- **apollo**: shared_myth; Nurturing of youths
+- **atropos**: sibling_of
+- **dionysus**: shared_myth
+- **hera**: other
+- **lachesis**: sibling_of
+- **leto**: shared_myth
+- **nike**: shared_myth
+- **oceanus**: child_of
+- **pan**: other
+- **persephone**: shared_myth; The meadow before Persephone’s abduction
+- **pontus**: shared_myth; Tomis civic-maritime iconography
+- **prometheus**: child_of
+- **tethys**: child_of
+
+### typhon  (27 gods)
+- **zeus**: fought, other, punished, punished_by, theft; Battle with Typhoeus; Defeat of Typhoeus; Hesiodic Typhonomachy; Nonnus's cosmic war
+- **hera**: child_of, created_by, other; Hera's autonomous maternity; The gods flee to Egypt
+- **hermes**: other, theft; Recovery of Zeus's severed sinews; Recovery of Zeus's sinews; The gods flee to Egypt
+- **pan**: fought, other, theft; Aigipan and the stolen sinews; Recovery of Zeus's sinews; The gods flee to Egypt
+- **tartarus**: child_of, other; Birth of Typhoeus; Zeus imprisons Typhoeus
+- **aphrodite**: created_by, other; Gaia and Tartarus conceive Typhoeus; The gods flee to Egypt
+- **apollo**: other, shared_myth; Python's fosterage; The gods flee to Egypt
+- **echidna**: consort_of; Union producing the first monster brood
+- **gaia**: child_of, created_by; Revenge after the Gigantomachy
+- **python**: identified_with, other; The dragoness fosters Typhaon
+- **ares**: other; Gods flee Typhon into Egypt
+- **artemis**: other; The gods flee to Egypt
+- **cerberus_hound**: parent_of
+- **chimera**: parent_of
+- **clotho**: deceived_by; Typhon cycle
+- **dionysus**: other; The gods flee to Egypt
+- **enyo**: other; Enyo balances the Typhonomachy
+- **horae**: fought; Typhon assaults heaven
+- **ladon**: parent_of
+- **lernaean_hydra**: parent_of
+- **nemean_lion**: parent_of
+- **nike**: fought; Zeus battles Typhon
+- **orthrus**: parent_of
+- **phobos_and_deimos**: fought; Cosmic struggle against Typhon
+- **prometheus**: other; Prometheus recalls Typhon's defeat
+- **scylla_and_charybdis**: parent_of
+- **sphinx**: parent_of
+
+### urania  (7 gods)
+- **apollo**: other; Apollo kills Linus
+- **dionysus**: allied, sibling_of; Hydaspes floods Dionysus' army
+- **hermes**: other
+- **mnemosyne**: child_of; Birth of the nine Muses
+- **nike**: allied; Praise of an athletic victor
+- **thetis**: shared_myth; Wedding of Peleus and Thetis
+- **zeus**: child_of; Birth of the nine Muses
+
+### uranus  (41 gods)
+- **gaia**: child_of, consort_of, deceived_by, fought, punished, shared_myth; Castration of Uranus; Concealment of the children; Generation of the elder gods; Sacrifice before the Gigantomachy
+- **zeus**: parent_of, served_by, taught; Prophecy concerning Metis; Prophecy of Cronus's overthrow; Sacrifice before the Gigantomachy
+- **coeus**: fought, parent_of; Overthrow of Uranus; Revolt of the Titans
+- **crius**: fought, parent_of; Overthrow of Uranus; Revolt of the Titans
+- **hyperion**: fought, parent_of; Overthrow of Uranus; Revolt of the Titans
+- **nyx**: child_of, consort_of, parent_of; Birth of Lyssa
+- **rhea**: allied, fought, parent_of; Revolt of the Titans; The plan against Cronus
+- **themis**: fought, parent_of, shared_myth; Pergamon Gigantomachy; Revolt of the Titans
+- **aphrodite**: parent_of; Birth of Aphrodite
+- **ares**: parent_of, punished; Concealment of the Cyclopes
+- **cyclopes**: parent_of, punished; Imprisonment of Gaia's children
+- **erinyes**: parent_of; Birth from Uranus’ blood; Blood-born beings
+- **hecatoncheires**: parent_of, punished; Imprisonment within Gaia
+- **iapetus**: fought, parent_of; Revolt of the Titans
+- **mnemosyne**: fought, parent_of; Revolt of the Titans
+- **phoebe**: fought, parent_of; Revolt of the Titans
+- **tethys**: fought, parent_of; Revolt of the Titans
+- **theia**: fought, parent_of; Revolt of the Titans
+- **aether**: child_of
+- **asteria**: ancestor_of
+- **athena**: ancestor_of
+- **atlas**: parent_of; Euhemeristic Uranus
+- **atropos**: parent_of
+- **clotho**: parent_of
+- **eros**: parent_of
+- **gigantes**: parent_of
+- **helios**: shared_myth; Sacrifice before the Gigantomachy
+- **hemera**: child_of
+- **hermes**: parent_of
+- **lachesis**: parent_of
+- **metis**: shared_myth; Counsel before Zeus swallows Metis
+- **muses**: parent_of
+- **nereus**: parent_of
+- **nymphs**: parent_of; Birth of the Meliae
+- **oceanus**: parent_of
+- **pallas_titan**: ancestor_of
+- **perses_titan**: ancestor_of
+- **phanes**: descendant_of
+- **pontus**: fought; Phoenician war-cycle
+- **prometheus**: parent_of
+- **tartarus**: other; First imprisonment of Zeus’s future allies
+
+### zephyrus  (16 gods)
+- **boreas**: allied, other, shared_myth, sibling_of; Burning Patroclus’ funeral pyre; Kindling Patroclus's pyre; Precedent for Chloris’ seizure; Storm winds churn the sea
+- **iris**: consort_of, other, served; Birth of Eros; Patroclus’s funeral pyre; Summons to Patroclus’ funeral pyre
+- **notus_and_eurus**: fought, other, shared_myth, sibling_of; Epic storm scenes; Eurus melts Zephyrus’s snow; Winds oppose each other over woodland
+- **apollo**: contest, fought; Jealousy over Hyacinthus; Rivalry for Hyacinthus
+- **eos**: child_of, served; The Winds carry Memnon
+- **aeolus**: other; Odysseus receives the winds
+- **aphrodite**: served; Aphrodite’s passage to Cyprus
+- **astraeus**: child_of
+- **eros**: parent_of
+- **glaucus_sea**: shared_myth; Sacrifice before the Argo sails
+- **harpies**: consort_of; Podarge conceives the divine horses
+- **hera**: served; Hera’s reconstructed wind-drawn chariot
+- **horae**: shared_myth; Aphrodite arrives on Cyprus
+- **poseidon**: shared_myth; Sacrifice before the Argo sails
+- **thetis**: shared_myth; Sacrifice before the Argo sails
+- **zeus**: served; Zeus’ wind-drawn chariot
+
+### zeus  (109 gods)
+- **typhon**: fought, other, punished, punished_by, theft; Battle with Typhoeus; Defeat of Typhoeus; Hesiodic Typhonomachy; Nonnus's cosmic war
+- **gaia**: allied, descendant_of, fought; Concealment and succession; Delphic dream-oracles; Gigantomachy; Preservation and rise of Zeus
+- **gigantes**: fought, killed, served_by; Burning of Enceladus; Death of Mimas; Death of Mylinos; Defeat of Porphyrion
+- **hera**: consort_of, deceived, deceived_by, fought, other, punished, sibling_of; Attempted binding of Zeus; Courtship of Hera; Daedala reconciliation; Deception of Zeus
+- **prometheus**: allied, contest, deceived_by, punished, theft; Binding and the eagle; Binding of Prometheus; Division of the ox at Mecone; Sacrifice at Mekone
+- **themis**: allied, consort_of, served_by, taught_by; Assembly of the gods; Divine counsel; Establishment of Zeus’s ordered reign; Marriage establishing ordered sovereignty
+- **aphrodite**: child_of, deceived_by, judged, other, parent_of, punished; Aphrodite and Anchises; Aphrodite wounded; Cupid and Psyche; Deception of Zeus
+- **hephaestus**: gift, other, parent_of, punished, served_by; Binding Prometheus; Birth of Athena; Divine scepter; Olympian feast
+- **persephone**: consort_of, deceived, judged, parent_of, rescued; Conception of Dionysus-Zagreus; Conception of Melinoe; Division of Adonis’s time; Narcissus trap and authorized abduction
+- **poseidon**: allied, contest, fought, shared_myth, sibling_of; Contest for Aegina; Division of the cosmos; Olympian conspiracy against Zeus; Poseidon challenges Zeus’ precedence
+- **athena**: allied, gift, other, parent_of; Athena petitions for Odysseus; Attempted binding of Zeus; Bearing Zeus’s aegis; Birth from Zeus’s head
+- **cyclopes**: allied, gift, killed, rescued; Arming Zeus for the Titan war; Destruction of the thunderbolt-makers; Gift of the thunderbolt; Preparation for Titanomachy
+- **ganymede**: other, seduced, served_by, transformed; Abduction of Ganymede; Cupbearer of Zeus; Ganymede made immortal; Ganymede’s translation
+- **hades**: allied, identified_with, shared_myth, sibling_of; Abduction and return of Persephone; Division of the cosmos; Persephone’s marriage
+- **helios**: allied, identified_with, shared_myth; Cattle of Helios; Fireless sacrifice at Rhodes; Oath before the duel; Punishment of Odysseus's crew
+- **heracles_god**: allied, parent_of, rescued, shared_myth, transformed; Apotheosis from Oeta; Conception of Herakles; Heracles’ mortal suffering; Hera’s storm after Troy
+- **hermes**: allied, judged, parent_of, rescued_by, served_by; Hermes executes Zeus's divine missions; Judgment over Apollo's stolen cattle; Recovery of Zeus's severed sinews; Recovery of Zeus’s sinews
+- **nike**: gift, other, served_by, shared_myth; Nike judges excellence beside Zeus; Paionios’s victory dedication; Pheidias’s Olympian cult statue; Pheidias’s Olympian image
+- **thetis**: other, rescued_by, seduced, served_by; Command to return Hector; Prophecy of the greater son; Rescue of Zeus from binding; Return of Hector’s body
+- **ate**: deceived_by, parent_of, punished; Ate blinds Zeus during Hera’s birth scheme; Birth oath of Herakles; Expulsion of Ate; Zeus casts Ate from Olympus
+- **cronos**: child_of, deceived_by, fought, punished, rescued; Attempted swallowing of Zeus; Deposition and confinement; Release to the Blessed Isles; Titanomachy
+- **demeter**: consort_of, deceived, fought, sibling_of; Conception of Persephone; Famine forces negotiation over Persephone; Zeus secretly authorizes Persephone’s abduction
+- **eris**: other, served_by, shared_myth; Divine plan initiates the Trojan War; Epic strife; Eris carries Zeus' war sign; Judgment of Paris tradition
+- **hestia**: allied, gift, rescued, shared_myth, sibling_of; Hestia's vow and central honors; Invitation into the singer's house; Joint council-house cult; Release of Cronus's swallowed children
+- **metis**: consort_of, deceived, other, punished, served_by; Metis counsels Zeus from within; Metis evades Zeus by changing shape; Swallowing of Metis; Zeus swallows Metis
+- **apollo**: parent_of, punished, served_by; Proclamation of Zeus's will; Vengeance for Asclepius
+- **artemis**: gift, other, parent_of, rescued; Artemis flees Hera’s beating; Catasterism of Orion; Child Artemis petitions Zeus
+- **atlas**: fought, punished; Aftermath of Titanomachy; Atlas leads the renewed Titan revolt; Jupiter punishes the Titan revolt; Zeus assigns Atlas the burden of heaven
+- **danae**: deceived, other, seduced; Arachne’s tapestry; Conception of Perseus; Golden shower; Prayer from the sea-borne chest
+- **dionysus**: parent_of, rescued; Birth from Zeus’s thigh; Orphic birth of Dionysos; Semele and the twice-born god
+- **europa**: consort_of, deceived, gift, seduced; Abduction of Europa; Marvelous protections for Europa’s Cretan household; Zeus as the bull carries Europa to Crete
+- **hecatoncheires**: allied, rescued, rescued_by; Liberation before the Titanomachy; Olympian binding conspiracy; Preparation for Titanomachy; Titanomachy
+- **hypnos**: deceived_by, punished; Deception of Zeus; Earlier sleep deception; First conspiracy against Zeus; Zeus pursues Hypnos
+- **momus**: allied, judged_by, other, punished; Expulsion after craftsmanship contest; Judgment of divine craftsmanship; Lucian's divine councils; Population crisis and Trojan War
+- **muses**: parent_of, served_by, shared_myth; Birth of the nine Muses; Olympian songs delight Zeus
+- **pan**: allied, identified_with, parent_of, rescued_by; Later combat traditions; Recovery of Zeus’s sinews
+- **rhea**: child_of, other, rescued_by, served_by; Demeter's reconciliation; The concealment of Zeus; Transformation of Aeneas's ships
+- **styx**: allied, consort_of, gift, punished_by; Death of Semele; Institution of the divine oath; Styx joins Zeus
+- **uranus**: child_of, served, taught_by; Prophecy concerning Metis; Prophecy of Cronus's overthrow; Sacrifice before the Gigantomachy
+- **ares**: judged, parent_of, punished; Ares returns wounded from Troy; Rebuke of Ares
+- **asteria**: seduced, transformed; Asteria escapes Zeus; Jupiter petrifies the fleeing quail; Jupiter transforms Asteria into a quail
+- **chiron**: rescued, shared_myth, transformed; Chiron's catasterism; Release from immortality; Wedding of Peleus and Thetis
+- **dioscuri**: gift, parent_of, transformed; Catasterism as Gemini; Choice of shared immortality
+- **eileithyia**: deceived_by, parent_of, served_by; Births of Herakles and Eurystheus; Zeus's decree concerning his Perseid descendant
+- **epimetheus**: deceived, served_by; Distribution of powers among mortal creatures; Gift of Pandora; Zeus sends Pandora as a hostile gift
+- **erinyes**: contest, served_by, shared_myth; Agamemnon’s oath; Final terror of Turnus; Trial of Orestes
+- **harmonia**: gift, other, parent_of; Marriage of Cadmus and Harmonia; Necklace of Harmonia
+- **horae**: allied, parent_of, served_by; Guarding the cloud-gates of Olympus; Zeus returns victorious after defeating Typhon
+- **iapetus**: fought, judged, punished; Iapetus pleads from Acheron; Imprisonment of the defeated Titans; Jupiter's battle with fierce Iapetus
+- **keres**: judged; Psychostasia of Achilles and Memnon; Zeus weighs Achilles' and Hector's death-lots; Zeus weighs the armies' Keres
+- **lachesis**: allied, parent_of, shared_myth; Allotment of Rhodes to Helios; Moiragetes cult settings
+- **nemesis**: other, seduced; Conception of Helen; Swan and goose union; Zeus pursues shape-changing Nemesis
+- **notus_and_eurus**: served_by, shared_myth; Autumn rain and dangerous sailing; Flood of Deucalion; Zeus’s four-wind chariot
+- **nymphs**: parent_of, seduced, served_by; Nymphs rear the hidden infant Zeus; Zeus's unions with Aegina and Callisto
+- **nyx**: other, taught_by; Night advises Zeus; Zeus abandons pursuit of Hypnos; Zeus reared in Night's cave
+- **oceanus**: allied, other, served_by; Cosmic subordination; Styx joins Zeus; Titanomachy
+- **pegasus**: created, served_by, transformed; Catasterism of Pegasus; Pegasus created from clouds; Zeus’s thunder-bearer
+- **phanes**: descendant_of, identified_with, other; Zeus swallows Phanes
+- **ploutos**: consort_of, punished, served_by; Timon and the reluctant god; Zeus blinds Wealth
+- **tartarus**: other; Defeat and imprisonment of Typhoeus; Imprisonment of the Titans; Zeus threatens the disobedient gods
+- **thanatos**: served_by, shared_myth; Apulian Sarpedon composition; Sisyphus chains Death; Transport of Sarpedon
+- **aeolus**: served_by; Appointment as steward of the winds; Cosmic imprisonment of the winds
+- **aether**: identified_with, shared_myth; Aether dwells in Zeus's celestial realm
+- **ananke**: other; Necessity overcomes every remedy; Prometheus foretells Zeus' destined danger
+- **anemoi**: served_by; Auster helps Jupiter unleash the deluge; Divine command of weather
+- **ariadne**: ancestor_of, transformed; Ariadne’s immortality
+- **asclepius**: killed, transformed; Apotheosis after death; Thunderbolt of Zeus
+- **atropos**: gift, parent_of; Bestowal of honor upon the Moirai
+- **calypso**: other, served_by; Release of Odysseus; Zeus orders Odysseus's release
+- **clotho**: parent_of, shared_myth; Olympian fate cult
+- **coeus**: fought, punished; Defeat and imprisonment of the Titans; Titanomachy
+- **crius**: fought, rescued; Release of the Titans; Titanomachy
+- **enyo**: other, parent_of; Enyo balances the Typhonomachy
+- **eos**: gift; Immortality without youth; Immortalization of Memnon
+- **eros**: gift, judged; Aphrodite's bribe; Recognition of Psyche's marriage
+- **eros_primordial**: identified_with, other; Zeus swallows Phanes
+- **glaucus_sea**: other, transformed; Apotheosis after the Tyrrhenian battle; Storm prompts Glaucus' sea-leap
+- **harpies**: served_by, taught; Celaeno's table-eating prophecy; Punishment of Phineus
+- **hebe**: parent_of, served_by
+- **hecate**: gift, parent_of; Hesiodic grant of honors
+- **iris**: served_by; Demeter’s withdrawal; Trojan War missions
+- **leto**: consort_of; Tityos assaults Leto
+- **menoetius**: punished; Menoetius in the Titanomachy; Punishment of Menoetius
+- **mnemosyne**: consort_of; Conception of the Muses; Nine nights in Pieria
+- **proteus**: other, served_by; Helen’s displacement to Egypt; Prophecy concerning Thetis
+- **selene**: consort_of, shared_myth; Birth of Pandia; Endymion chooses eternal sleep
+- **triton**: shared_myth; Athena accidentally kills Pallas; Eurypylus gives Euphemus Libyan earth
+- **tyche**: other, parent_of; Appointment of the Oceanids
+- **amphitrite**: shared_myth; Divine assembly or banquet
+- **argus_panoptes**: other; Custody of Io
+- **astraeus**: other; Persephone’s horoscope
+- **chaos**: other; Titanomachy and Typhonomachy
+- **charites**: parent_of
+- **circe**: served_by; Purification after Apsyrtus’s murder
+- **erebus**: other; Menoetius and the Hundred-Handers
+- **geryon**: shared_myth; Divine council concerning Geryon's fate
+- **hemera**: shared_myth; Mothers petition before the duel
+- **hyperion**: fought; Titanomachy
+- **oneiroi**: served_by; The false dream sent to Agamemnon
+- **pasiphae**: consort_of; Conception of Ammon
+- **perses_titan**: parent_of; Golden shower
+- **phobos_and_deimos**: gift; Zeus arms the brothers against Typhon
+- **polyphemus**: other; Polyphemus rejects Zeus’s protection of strangers
+- **priapus**: parent_of
+- **scylla_and_charybdis**: punished; Zeus casts Charybdis into sea
+- **sirens**: shared_myth; Roman musical-contest sarcophagus
+- **talos**: gift; Zeus gives Talos to Europa
+- **urania**: parent_of; Birth of the nine Muses
+- **zephyrus**: served_by; Zeus’ wind-drawn chariot
+
+## Named but without a dossier here
+
+- Cronus (33): chiron, crius, cyclopes, eileithyia, erinyes, gaia, gigantes, glaucus_sea
+- Eros (28): aether, ananke, anemoi, chaos, charites, dionysus, eileithyia, epimetheus
+- Odysseus (27): aeolus, athena, calypso, circe, cyclopes, polyphemus, poseidon, sirens
+- Achilles (23): apollo, athena, atropos, boreas, chiron, eos, hemera, iris
+- Medea (17): anemoi, aphrodite, circe, eros, hecate, helios, iris, selene
+- Theseus (16): amphitrite, ariadne, charon, dionysus, dioscuri, hades, minotaur, poseidon
+- Ouranos (15): aether, aphrodite, atropos, cronos, eros_primordial, hemera, themis, zeus
+- Dione (14): amphitrite, aphrodite, atlas, cronos, dionysus, eileithyia, hyperion, phoebe
+- Briareus (14): chimera, crius, cronos, gaia, helios, hera, hyperion, tartarus
+- Moirai (13): chiron, demeter, gigantes, hades, horae, keres, nyx, tyche
+- Peleus (12): atropos, charites, chiron, hestia, muses, tethys, thetis, urania
+- Doris (11): amphitrite, asteria, calypso, nereids, nereus, nymphs, oceanus, tethys
+- Helen (11): aphrodite, dioscuri, iris, nemesis, zeus
+- Psyche (11): aphrodite, cerberus_hound, charites, charon, eros, pan, styx, zephyrus
+- Cadmus (11): ares, europa, harmonia, nike, typhon
+- Aeneas (10): aeolus, aphrodite, apollo, cerberus_hound, charon, cyclopes, nymphs, polyphemus
+- Clymene (10): aeolus, atlas, epimetheus, helios, iapetus, menoetius, oceanus, prometheus
+- Peitho (10): aphrodite, ate, charites, eros, harmonia, hermes, tethys, thanatos
+- Phaethon (10): aphrodite, eos, helios, hemera, horae, tethys
+- Semele (10): ariadne, dionysus, harmonia, hera, horae, styx, zeus
+- Pandora (10): athena, charites, epimetheus, hephaestus, hermes, horae, prometheus, zeus
+- Electra (10): atlas, harmonia, harpies, iris, oceanus, tethys, tyche, zeus
+- Cottus (10): crius, cronos, erebus, gaia, hyperion, tartarus, uranus
+- Phorcys (10): cyclopes, echidna, gaia, graeae, ladon, nereus, nymphs, polyphemus
+- Galatea (10): cyclopes, nereus, polyphemus
+- Hyacinthus (9): anemoi, apollo, boreas, horae, muses, zephyrus
+- Io (9): argus_panoptes, dionysus, europa, hera, hermes, prometheus, zeus
+- the Hesperides (9): atlas, atropos, calypso, lachesis, momus, nemesis, thanatos
+- Moros (9): atropos, eris, keres, lachesis, momus, nemesis, nyx, thanatos
+- Eurynome (9): charites, cronos, hephaestus, oceanus, rhea, tethys, thetis, zeus
+- Jason (9): chiron, circe, dioscuri, eros, glaucus_sea, hecate, hera, iris
+- Geras (8): atropos, heracles_god, keres, momus, nemesis, nyx, thanatos
+- Giants (8): cronos, erinyes, gaia, nyx, rhea, tethys, uranus
+- the Titans (7): aether, atlas, hecatoncheires, tartarus
+- Adrasteia (7): ananke, atropos, chronos_primordial, nemesis, nyx, rhea
+- Kronos (7): aphrodite, demeter, phanes, talos, themis, zeus
+- Aristaeus (7): apollo, chiron, hecate, nymphs, proteus
+- Oceanids (7): artemis, demeter, oceanus, persephone, prometheus, tethys
+- Orion (7): artemis, eos, gaia
+- Eurybia (7): astraeus, crius, gaia, nereus, pallas_titan, perses_titan, pontus
+- Asia (7): atlas, europa, iapetus, menoetius, oceanus, prometheus
+- Ceto (7): echidna, gaia, graeae, ladon, nereus, nymphs, pontus
+- Ino (6): amphitrite, dionysus, harmonia, nereids, pasiphae, poseidon
+- Bia (6): ananke, nike, pallas_titan, prometheus, styx
+- Himeros (6): aphrodite, charites, eros, harmonia
+- Paris (6): aphrodite, apollo, hera, nereus
+- Deucalion (6): ariadne, epimetheus, iapetus, prometheus, zeus
+- Brontes (6): artemis, crius, gaia, metis, uranus
+- Eosphorus (6): astraeus, boreas, eos, notus_and_eurus, zephyrus
+- Apate (6): atropos, keres, momus, nemesis, nyx, thanatos
+- Titans (6): cyclopes, dionysus, gigantes, hades, zeus
+- Achelous (6): heracles_god, muses, oceanus, sirens, tethys
+- Caligo (5): aether, chaos, nyx, thanatos
+- the Moirai (5): ananke, momus, nemesis, thanatos, typhon
+- Zelos (5): ananke, nike, pallas_titan, styx
+- Xanthus (5): anemoi, erinyes, harpies, zephyrus
+- Zetes (5): anemoi, boreas, harpies, iris
+- Calais (5): anemoi, boreas, harpies, iris
+- Chione (5): anemoi, apollo, boreas, hermes, priapus
+- Pothos (5): anemoi, aphrodite, europa, iris, zephyrus

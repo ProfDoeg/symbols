@@ -1,0 +1,332 @@
+{
+ "subject": "priapus",
+ "relations": [
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Priapus is her son by Dionysus.",
+   "source": "Diodorus 4.6.1; Pausanias 9.31.2",
+   "date": "first century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Priapus is his son by Aphrodite.",
+   "source": "Diodorus 4.6.1; Pausanias 9.31.2",
+   "date": "first century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Priapus is his son by an unnamed nymph.",
+   "source": "Strabo 13.1.12",
+   "date": "Augustan age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Priapic element in Dionysian rites",
+   "note": "Priapic obscenity appears in sacrifices and rites associated with Dionysus.",
+   "source": "Diodorus 4.6",
+   "date": "first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chione",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late tradition makes the nymph Chione Priapus's mother by Dionysus.",
+   "source": "Hyginus Fabulae 161 tradition",
+   "date": "late mythographic tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A poorly anchored late genealogy makes Adonis his father by Aphrodite.",
+   "source": "Late scholia and mythographic notices",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One inconsistent late genealogy makes Hermes Priapus's father by Aphrodite.",
+   "source": "Late mythographic and lexicographic tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A confused late notice instead makes Priapus the father of Hermes.",
+   "source": "Confused late notices",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late polemical and mythographic tradition names Zeus as Priapus's father.",
+   "source": "Arnobius Adversus nationes 3",
+   "date": "around 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Prenatal curse",
+   "note": "Late retellings claim Hera deformed unborn Priapus through jealousy.",
+   "source": "Late summaries and modern handbooks",
+   "date": "late and modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lotis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lotis and the ass",
+   "note": "Priapus attempts to assault sleeping Lotis, but an ass awakens her.",
+   "source": "Ovid Fasti 1.391–440",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lotis",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Lotis becomes the lotus tree",
+   "note": "Lotis becomes a lotus tree while fleeing Priapus.",
+   "source": "Ovid Metamorphoses 9.324–393",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "other",
+   "myth": "Vesta and the ass",
+   "note": "Priapus approaches sleeping Vesta for assault, but an ass awakens her.",
+   "source": "Ovid Fasti 6.319–348",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lotis and Vesta ass episodes",
+   "note": "Silenus brings the ass whose braying exposes and frustrates Priapus.",
+   "source": "Ovid Fasti 1 and 6",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Silenus's ass",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Lotis and the ass",
+   "note": "Priapus kills or demands sacrifice of the ass that exposed him.",
+   "source": "Ovid Fasti 1.391–440",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater",
+    "turret-crowned Mother"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cybele's divine feast",
+   "note": "Priapus attends Cybele's feast, where he approaches sleeping Vesta.",
+   "source": "Ovid Fasti 6.319–348",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Feast of the rustic gods",
+   "note": "Pan and Priapus attend the feast preceding the Lotis episode.",
+   "source": "Ovid Fasti 1.391–440",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Satyrs and nymphs",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cybele's divine feast",
+   "note": "They attend Cybele's feast with Priapus but have no direct exchange.",
+   "source": "Ovid Fasti 6.319–348",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lucian presents Eros as Priapus's maternal brother through Aphrodite.",
+   "source": "Lucian Dialogues of the Gods 3",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermaphroditus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lucian presents Hermaphroditus as Priapus's maternal sibling through Aphrodite.",
+   "source": "Lucian Dialogues of the Gods 3",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Osiris's lost phallus",
+   "note": "Diodorus interprets worship of Osiris's unrecovered phallus as Priapic.",
+   "source": "Diodorus 4.6.3",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Worship of Osiris's lost phallus",
+   "note": "Isis institutes honors for Osiris's lost organ, interpreted as Priapus.",
+   "source": "Diodorus 4.6.3",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Roman interpretation equates the ithyphallic Egyptian Min with Priapus or Pan.",
+   "source": "Greco-Roman interpretive tradition",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Roman interpretations overlap Priapus and Pan when explaining Egyptian Min.",
+   "source": "Greco-Roman interpretive tradition",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Orthanes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Strabo describes the Attic ithyphallic Orthanes as resembling Priapus.",
+   "source": "Strabo 13.1.12",
+   "date": "Augustan age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Conisalus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Strabo describes the Attic ithyphallic Conisalus as resembling Priapus.",
+   "source": "Strabo 13.1.12",
+   "date": "Augustan age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tychon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Diodorus reports Tychon as another name for Priapus.",
+   "source": "Diodorus 4.6.4",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tychon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Strabo instead distinguishes Tychon as an Attic being resembling Priapus.",
+   "source": "Strabo 13.1.12",
+   "date": "Augustan age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mutunus Tutunus",
+   "other_aliases": [
+    "Mutunus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late Roman and Christian authors compare or equate the Roman phallic god with Priapus.",
+   "source": "Late Roman and Christian writers",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the ass",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The ass's sexual contest",
+   "note": "An ass challenges Priapus over genital size or prowess; Priapus wins.",
+   "source": "Late fragmentary tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the ass",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The ass's sexual contest",
+   "note": "Priapus kills the ass after defeating it in their sexual contest.",
+   "source": "Late fragmentary tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The ass's sexual contest",
+   "note": "Dionysus gives the ass speech and later places it among the stars.",
+   "source": "Late fragmentary tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

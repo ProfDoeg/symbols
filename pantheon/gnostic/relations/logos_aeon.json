@@ -1,0 +1,383 @@
+{
+ "subject": "logos_aeon",
+ "relations": [
+  {
+   "other": "Bythos",
+   "other_aliases": [
+    "Propator",
+    "Depth"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Bythos belongs to the primordial pair ancestral to Logos.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sige",
+   "other_aliases": [
+    "Ennoia",
+    "Silence",
+    "Thought"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sige belongs to the primordial pair ancestral to Logos.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Monogenes",
+    "Mind",
+    "Intellect"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nous emits Logos together with Zoe, with Aletheia as co-parent.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aletheia",
+   "other_aliases": [
+    "Truth",
+    "Veritas"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aletheia is Logos' co-parent with Nous in the principal Ogdoad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [
+    "Life",
+    "Vita"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Zoe is Logos' syzygy and co-progenitor of subsequent aeons.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anthropos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe emit Anthropos with Ecclesia in the standard genealogy.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anthropos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Anthropos produces Logos by speaking",
+   "note": "A competing scheme makes Anthropos the immediate source of Logos.",
+   "source": "Irenaeus, Against Heresies 1.12",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ecclesia",
+   "other_aliases": [
+    "Church"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe emit Ecclesia together with Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bythios",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Bythios as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mixis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Mixis as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ageratos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Ageratos as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Henosis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Henosis as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Autophyes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Autophyes as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hedone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Hedone as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Acinetos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Acinetos as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Syncrasis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Syncrasis as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Monogenes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit this Monogenes as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Macaria",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Logos and Zoe jointly emit Macaria as an aeon of the Decad.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Father",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Logos attempts to comprehend the Father",
+   "note": "Logos reaches toward the incomprehensible Father without proper mediation, precipitating division.",
+   "source": "Tripartite Tractate 74–81",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Son",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "The Son reveals himself to converted Logos",
+   "note": "The Son gives Logos knowledge, stability, and the pattern for restoration.",
+   "source": "Tripartite Tractate 81–90",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Church",
+   "other_aliases": [
+    "Totality"
+   ],
+   "kind": "other",
+   "myth": "Logos separates from and returns toward the Totality",
+   "note": "Logos acts individually within the Totality; his separated members require reintegration.",
+   "source": "Tripartite Tractate",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demiurge",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Logos organizes the lower cosmic economy",
+   "note": "The Demiurge operates ignorantly but providentially within the economy produced by Logos.",
+   "source": "Tripartite Tractate 100–104",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Savior",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "The Savior completes Logos' restorative economy",
+   "note": "The Savior completes what Logos cannot and gathers the spiritual members toward restoration.",
+   "source": "Tripartite Tractate",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Aeons are instructed after Sophia's disturbance",
+   "note": "Christ stabilizes and instructs Logos with the other aeons.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Spirit"
+   ],
+   "kind": "taught_by",
+   "myth": "Aeons are instructed after Sophia's disturbance",
+   "note": "Holy Spirit stabilizes and instructs Logos with the other aeons.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Savior"
+   ],
+   "kind": "parent_of",
+   "myth": "The Pleroma jointly produces Jesus",
+   "note": "Logos joins all aeons in contributing excellence to produce the common fruit Jesus.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Savior",
+   "other_aliases": [
+    "Jesus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "The Decad produces the Savior",
+   "note": "One faction derives the Savior specifically from the ten descendants of Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.12",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Gabriel occupies Logos' place at Jesus' birth",
+   "note": "Gabriel corresponds to Logos' position in one account of Jesus' birth.",
+   "source": "Irenaeus, Against Heresies 1.15",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "Wisdom"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "In the standard genealogy, Sophia is a remote descendant of Logos within the Dodecad.",
+   "source": "Irenaeus, Against Heresies 1.1–2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "Wisdom"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One marked Tripartite Tractate passage describes Logos as an offspring of Wisdom.",
+   "source": "Tripartite Tractate",
+   "date": "probably third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Error",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Error persecutes the revealer and knowledge dissolves Error",
+   "note": "Error persecutes the revelatory Logos and is dissolved when he reveals the Father.",
+   "source": "Gospel of Truth",
+   "date": "c. 140–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Protennoia",
+   "other_aliases": [
+    "First Thought"
+   ],
+   "kind": "identified_with",
+   "myth": "Protennoia manifests as Logos in her third descent",
+   "note": "Logos is Protennoia's third revelatory manifestation, not an independent offspring.",
+   "source": "Trimorphic Protennoia, NHC XIII,1",
+   "date": "later second century proposed",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poimandres",
+   "other_aliases": [
+    "divine Nous",
+    "divine Mind"
+   ],
+   "kind": "created_by",
+   "myth": "A luminous Logos emerges from divine Mind",
+   "note": "In the Hermetic account, divine Mind generates a luminous Logos.",
+   "source": "Corpus Hermeticum I, Poimandres",
+   "date": "c. 100–300 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "creative Mind",
+   "other_aliases": [
+    "demiurgic Mind"
+   ],
+   "kind": "allied",
+   "myth": "Logos joins creative Mind to order the cosmos",
+   "note": "The Hermetic Logos joins the creative Mind in separating and ordering the elements.",
+   "source": "Corpus Hermeticum I, Poimandres",
+   "date": "c. 100–300 CE",
+   "tier": "syncretism"
+  }
+ ]
+}

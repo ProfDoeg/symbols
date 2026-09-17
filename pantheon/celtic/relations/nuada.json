@@ -1,0 +1,317 @@
+{
+ "subject": "nuada",
+ "relations": [
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Romano-British dedications explicitly identify Nodens with the Roman god Mars.",
+   "source": "RIB 305, 307, 616",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A disputed reading associates Nodens with Silvanus, perhaps through hunting or woodland functions.",
+   "source": "RIB 306",
+   "date": "late Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Echtach",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some learned genealogies name Nuada as Echtach's son.",
+   "source": "Lebor Gabála Érenn",
+   "date": "c. 1150–1160 witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Etarlám",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Some genealogies make Etarlám Nuada's grandfather through Echtach.",
+   "source": "Lebor Gabála Érenn",
+   "date": "c. 1150–1160 witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sreng",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Nuada fights Sreng, who severs his hand or right arm.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sreng",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Expanded First Battle of Mag Tuired",
+   "note": "Sreng cuts Nuada's right arm off at the shoulder with shield attached.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "late medieval/early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fir Bolg",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Nuada leads the Túatha Dé against the Fir Bolg for Ireland.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dían Cécht",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Making of the silver hand",
+   "note": "Dían Cécht fits Nuada with an articulated silver hand.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crédne",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Making of the silver hand",
+   "note": "Crédne assists Dían Cécht in making or fitting Nuada's silver hand.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Míach",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Restoration of Nuada's natural hand",
+   "note": "Míach replaces the prosthesis and regenerates Nuada's natural limb over nine days.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abdication and Bres's reign",
+   "note": "Bres succeeds the blemished Nuada; after Bres's deposition, Nuada resumes kingship.",
+   "source": "Cath Maige Tuired; Lebor Gabála",
+   "date": "medieval Irish",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lug's admission to Tara",
+   "note": "Nuada admits Lug after learning that he possesses every necessary art.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Thirteen-day transfer of authority",
+   "note": "Nuada exchanges seats with Lug so Lug can direct resistance to the Fomoire.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dagda",
+   "other_aliases": [
+    "the Dagda"
+   ],
+   "kind": "shared_myth",
+   "myth": "War council at Grellach Dollaid",
+   "note": "Nuada and the Dagda participate together in the war council.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "War council at Grellach Dollaid",
+   "note": "Ogma participates with Nuada and Lug in the war council.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goibniu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "War council at Grellach Dollaid",
+   "note": "Goibniu is summoned to the council convened by Nuada and Lug.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fomoire",
+   "other_aliases": [
+    "Fomorians"
+   ],
+   "kind": "fought",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Nuada joins the Túatha Dé coalition resisting Fomorian domination.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Balor kills Nuada Silverhand and Macha during the battle.",
+   "source": "Cath Maige Tuired §133",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Macha daughter of Ernmas",
+   "other_aliases": [
+    "Macha"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint death at Mag Tuired",
+   "note": "Macha falls beside Nuada at Balor's hands; no separate exchange is narrated.",
+   "source": "Cath Maige Tuired",
+   "date": "c. 9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uiscias",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sword of Findias",
+   "note": "Uiscias is associated as teacher or guardian with Nuada's irresistible sword.",
+   "source": "Four Jewels of Túatha Dé Danann",
+   "date": "Middle Irish",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gwyn ap Nudd",
+   "other_aliases": [
+    "Gwyn"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Welsh tradition identifies Gwyn as Nudd's son.",
+   "source": "Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Edern ap Nudd",
+   "other_aliases": [
+    "Edern"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Welsh tradition identifies Edern as Nudd's son.",
+   "source": "Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Creiddylad",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Creiddylad is named as the daughter of Lludd Silver-Hand.",
+   "source": "Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Beli Mawr",
+   "other_aliases": [
+    "Beli"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Learned Welsh pseudo-history makes Lludd the son and royal successor of Beli.",
+   "source": "Lludd and Llefelys",
+   "date": "c. 1225–1250 witness",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Llefelys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lludd and Llefelys are brothers in medieval Welsh tradition.",
+   "source": "Lludd and Llefelys",
+   "date": "c. 1225–1250 witness",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Llefelys",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Britain's three plagues",
+   "note": "Lludd consults Llefelys and follows his remedies for Britain's three plagues.",
+   "source": "Lludd and Llefelys",
+   "date": "c. 1225–1250 witness",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caswallon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The wider learned British genealogy makes Caswallon a brother of Lludd.",
+   "source": "associated Welsh genealogical tradition",
+   "date": "medieval Welsh",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tadg",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Some Fenian genealogies make a possibly conflated Nuada an ancestor of Tadg.",
+   "source": "Irish Fenian genealogies",
+   "date": "medieval Irish",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fionn",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Some disputed genealogies make a possibly conflated Nuada Fionn's ancestor through Muirne.",
+   "source": "Irish Fenian genealogies",
+   "date": "medieval Irish",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nyarlathotep",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dream-Quest of Unknown Kadath",
+   "note": "Lovecraft reinvents Nodens as an elder supernatural power opposed to Nyarlathotep.",
+   "source": "The Dream-Quest of Unknown Kadath",
+   "date": "written 1926–1927",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "subject": "nodens",
+ "relations": [
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Nodens is probably identified as Mars Nodens in dedications and the Lydney mosaic.",
+   "source": "RIB 305; RIB 2448.3",
+   "date": "later third–fourth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A damaged phrase and hunting associations prompted an uncertain equation with Silvanus.",
+   "source": "RIB 306; modern commentary",
+   "date": "third–fourth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Nuadu",
+   "other_aliases": [
+    "Núadu",
+    "Nuada",
+    "Nuadu Airgetlám",
+    "Nuada Airgetlám"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Nuadu is considered a probable Irish linguistic and mythological reflex of Nodens.",
+   "source": "Tolkien, The Name ‘Nodens’",
+   "date": "1932",
+   "tier": "modern"
+  },
+  {
+   "other": "Nudd",
+   "other_aliases": [
+    "Nudd Llaw Ereint"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Nudd is considered a probable Welsh linguistic and mythological reflex of Nodens.",
+   "source": "Tolkien, The Name ‘Nodens’",
+   "date": "1932",
+   "tier": "modern"
+  },
+  {
+   "other": "Lludd",
+   "other_aliases": [
+    "Lludd Llaw Eraint",
+    "Lludd Llaw Ereint"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lludd is philologically associated with Nudd and comparatively identified with Nodens.",
+   "source": "Medieval Welsh texts; modern philology",
+   "date": "medieval; modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Echtach",
+   "other_aliases": [
+    "Etarlám"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Variant Irish genealogies make Nuadu the son of Echtach or Etarlám.",
+   "source": "Lebor Gabála Érenn",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lugaid",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lugaid is named as Nuadu’s son and is killed in battle.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sreng",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Sreng fights Nuadu and severs his right arm at the shoulder.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sreng",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Negotiation after Nuadu’s mutilation",
+   "note": "Nuadu and Sreng later negotiate rather than fight under unequal conditions.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aengaba",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Aengaba protects the wounded Nuadu after his arm is severed.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dagda",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Dagda stands over wounded Nuadu and helps remove him from battle.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dian Cécht",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration of Nuadu’s arm",
+   "note": "The divine physician gives Nuadu a functioning silver hand.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Miach",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration of Nuadu’s arm",
+   "note": "Miach restores natural flesh over Nuadu’s injured limb in nine days.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Bres’s reign and Nuadu’s restoration",
+   "note": "Bres succeeds blemished Nuadu, then loses the kingship after his oppressive reign.",
+   "source": "Cath Maige Tuired; Lebor Gabála",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [
+    "Samildánach"
+   ],
+   "kind": "judged",
+   "myth": "Lug’s admission to Tara",
+   "note": "Nuadu tests and recognizes Lug’s many arts before admitting him to Tara.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [
+    "Samildánach"
+   ],
+   "kind": "other",
+   "myth": "Transfer of battle command",
+   "note": "Nuadu yields the royal seat or battle command to the exceptionally skilled Lug.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Balor kills Nuadu with his destructive eye during the battle.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Macha",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death at the Second Battle",
+   "note": "A Macha is killed alongside Nuadu by Balor in the battle account.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Goibniu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Túatha Dé councils and battle",
+   "note": "Goibniu and Nuadu appear in the same divine councils or army.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Credne",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Túatha Dé councils and battle",
+   "note": "Credne and Nuadu appear in the same divine councils or army.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Túatha Dé councils and battle",
+   "note": "Ogma and Nuadu appear in the same divine councils or army.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Morrígan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Túatha Dé councils and battle",
+   "note": "Morrígan and Nuadu appear in the same divine councils or army.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brigid",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Túatha Dé councils and battle",
+   "note": "Brigid and Nuadu appear in the same divine councils or army.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval; sixteenth-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Túatha Dé Danann",
+   "other_aliases": [
+    "Túatha Dé"
+   ],
+   "kind": "allied",
+   "myth": "Battles of Mag Tuired",
+   "note": "Nuadu rules and fights among the Túatha Dé Danann.",
+   "source": "Cath Maige Tuired; Lebor Gabála",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fir Bolg",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Nuadu fights among the Túatha Dé Danann against the Fir Bolg.",
+   "source": "Cath Maige Tuired Cunga",
+   "date": "medieval; early-modern manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gwyn ap Nudd",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nudd is named as the father of Gwyn ap Nudd.",
+   "source": "Culhwch ac Olwen",
+   "date": "c. 1100 or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Creiddylad",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nudd is named as Creiddylad’s father.",
+   "source": "Culhwch ac Olwen",
+   "date": "c. 1100 or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Beli Mawr",
+   "other_aliases": [
+    "Beli"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lludd is named as a son of Beli Mawr.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Llefelys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lludd and Llefelys are brothers, ruling Britain and France respectively.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Llefelys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lludd and the three plagues",
+   "note": "Lludd consults Llefelys, who prescribes remedies for Britain’s three plagues.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Coraniaid",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Lludd and the three plagues",
+   "note": "Lludd destroys the supernaturally perceptive Coraniaid using Llefelys’s prescribed substance.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "two fighting dragons",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Lludd and the three plagues",
+   "note": "Lludd intoxicates the battling dragons and buries them at Dinas Emrys.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "provision-stealing magician",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Lludd and the three plagues",
+   "note": "Lludd confronts the magician responsible for stealing the royal household’s provisions.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval Welsh",
+   "tier": "regional_variant"
+  }
+ ]
+}

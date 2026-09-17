@@ -1,0 +1,108 @@
+{
+ "subject": "tages",
+ "relations": [
+  {
+   "other": "Genius",
+   "other_aliases": [
+    "Genius Iovialis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Festus names Genius as Tages’ father.",
+   "source": "Festus 359 Lindsay",
+   "date": "early imperial; transmitted eighth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Tinia"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tages is Jupiter’s grandson; identification with Tinia is probable but unconfirmed.",
+   "source": "Festus 359; Bern scholia on Lucan",
+   "date": "early imperial and later scholia",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tarchon",
+   "other_aliases": [
+    "avl tarχunus"
+   ],
+   "kind": "taught",
+   "myth": "Tarchon questions the earth-born Tages",
+   "note": "Tages rebukes Tarchon’s incredulity and answers his questions about sacred doctrine.",
+   "source": "John Lydus, De ostentis 2–3",
+   "date": "sixth century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tarchon",
+   "other_aliases": [
+    "avl tarχunus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tuscania mirror liver consultation",
+   "note": "The possible Tages examines a liver beside Tarchon in a disputed identification.",
+   "source": "Tuscania bronze mirror",
+   "date": "c. 325–275 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Veltune",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tuscania mirror liver consultation",
+   "note": "Veltune witnesses or frames the possible Tages’ haruspical consultation.",
+   "source": "Tuscania bronze mirror",
+   "date": "c. 325–275 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Raθlθ",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tuscania mirror liver consultation",
+   "note": "Raθlθ stands opposite Veltune during the possible Tages’ liver consultation.",
+   "source": "Tuscania bronze mirror",
+   "date": "c. 325–275 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thesan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dawn chariot above liver consultation",
+   "note": "A solar or dawn chariot above the scene is commonly interpreted as Thesan.",
+   "source": "Tuscania bronze mirror",
+   "date": "c. 325–275 BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Vegoia",
+   "other_aliases": [
+    "Vecu",
+    "Vecuvia"
+   ],
+   "kind": "other",
+   "myth": "Tagetic and Vegoic books paired",
+   "note": "Their prophetic corpora are cited together as overlapping authorities without a personal encounter.",
+   "source": "Arnobius, Adversus nationes 2.69",
+   "date": "c. 300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bacitis",
+   "other_aliases": [
+    "Bacchetes"
+   ],
+   "kind": "other",
+   "myth": "Tagetic and Bacitic disciplines paired",
+   "note": "Labeo reportedly treated their disciplines together, without narrating a personal encounter.",
+   "source": "Fulgentius, Expositio sermonum antiquorum 4.48",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  }
+ ]
+}

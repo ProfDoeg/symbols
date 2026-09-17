@@ -1,0 +1,522 @@
+{
+ "subject": "set",
+ "relations": [
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb is Set's father in the Heliopolitan Ennead.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nut is Set's mother in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Set and Osiris are sons of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Set and Isis are children of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Set and Nephthys are children of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus the Elder",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Plutarch numbers Set and Horus the Elder among Nut's five children.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Set and Nephthys form the conventional enneadic pair.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Neith's proposed settlement",
+   "note": "Neith is proposed as a prospective wife for Set.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Neith's proposed settlement",
+   "note": "Neith proposes compensating Set with Anat as a wife or companion.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Neith's proposed settlement",
+   "note": "Neith proposes compensating Set with Astarte as a wife or companion.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Taweret",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later traditions sometimes describe Taweret as Set's former consort.",
+   "source": "Later Egyptian sources",
+   "date": "Late Period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maga",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maga is a crocodilian son or manifestation of Set.",
+   "source": "Late magical and temple texts",
+   "date": "Late and Greco-Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some local or late sources assign Sobek Sethian parentage.",
+   "source": "Local and late Egyptian sources",
+   "date": "Late Period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Concealment of Anubis",
+   "note": "Nephthys conceals Osiris's child Anubis from Set, her husband.",
+   "source": "Plutarch, De Iside 14",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Osiris",
+   "note": "Set violently fells or kills Osiris.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The fitted chest",
+   "note": "Typhon traps Osiris in a fitted chest and casts it away.",
+   "source": "Plutarch, De Iside 13–19",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dismemberment of Osiris",
+   "note": "Typhon cuts Osiris's body into fourteen pieces.",
+   "source": "Plutarch, De Iside 18",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Kingship litigation",
+   "note": "Osiris pressures the tribunal until Horus receives his office over Set.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Horus and Set conflict",
+   "note": "Set and Horus mutilate one another during their struggle.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "c. 2350–1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Succession trial",
+   "note": "Set contests Horus's claim to inherit Osiris's kingship.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hippopotamus combat",
+   "note": "Set and Horus transform into hippopotami and fight underwater.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Sexual domination contest",
+   "note": "Set sexually penetrates or attempts to penetrate Horus to establish dominance.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Lettuce and semen episode",
+   "note": "Horus's semen is secretly fed to Set and emerges from his head.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Stone boat race",
+   "note": "Set's stone boat sinks while Horus disguises a wooden boat.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cooperative kingship",
+   "note": "Set and Horus jointly purify, crown, bind, or embody the king.",
+   "source": "Pyramid Texts and royal iconography",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reunification of Egypt",
+   "note": "The reconciled rivals represent complementary powers united in kingship.",
+   "source": "Khasekhemwy royal imagery",
+   "date": "Late Second Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Wadjet/Eye of Horus",
+   "other_aliases": [
+    "Eye of Horus"
+   ],
+   "kind": "other",
+   "myth": "The injured Eye",
+   "note": "Set tears out or damages Horus's divine eye.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "c. 2350–1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "The widow's cattle parable",
+   "note": "Disguised Isis makes Set judge a parable that condemns his succession claim.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hippopotamus harpooning",
+   "note": "Isis harpoons Set but releases him when he invokes their sibling relationship.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Succession judgment",
+   "note": "Neith advises awarding Osiris's office to Horus and compensating Set.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division of Egypt",
+   "note": "Geb first divides Egypt between Set and Horus, then awards all to Horus.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Horus and Set tribunal",
+   "note": "Atum judges or advises during the rivals' succession dispute.",
+   "source": "Coffin Texts; Chester Beatty I",
+   "date": "c. 2100–1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra/Re-Horakhty",
+   "other_aliases": [
+    "Ra",
+    "Re-Horakhty"
+   ],
+   "kind": "judged_by",
+   "myth": "Horus and Set tribunal",
+   "note": "Ra initially favors Set's strength or hesitates to recognize Horus.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hathor restores Ra's laughter",
+   "note": "Hathor intervenes during the tribunal by making the angered Ra laugh.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Lettuce and semen judgment",
+   "note": "Thoth summons sexual evidence and takes Horus's disk from Set's head.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of Horus's eye",
+   "note": "Thoth heals the eye damaged by Set within the older conflict.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apophis/Apep",
+   "other_aliases": [
+    "Apophis",
+    "Apep"
+   ],
+   "kind": "fought",
+   "myth": "Defense of Ra's solar bark",
+   "note": "Set spears or magically subdues the serpent attacking Ra's bark.",
+   "source": "New Kingdom solar and funerary texts",
+   "date": "c. 1550–1070 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra/Re-Horakhty",
+   "other_aliases": [
+    "Ra",
+    "Re-Horakhty"
+   ],
+   "kind": "served",
+   "myth": "Defense of the solar bark",
+   "note": "Set serves aboard Ra's bark and defends it from Apophis.",
+   "source": "New Kingdom solar texts",
+   "date": "c. 1550–1070 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra/Re-Horakhty",
+   "other_aliases": [
+    "Ra",
+    "Re-Horakhty"
+   ],
+   "kind": "allied",
+   "myth": "Set joins Ra's service",
+   "note": "After the succession dispute, Ra takes Set into celestial service.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus of Behdet",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Triumph of Horus",
+   "note": "Horus of Behdet pursues and destroys Set and his followers.",
+   "source": "Edfu temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Horus of Behdet",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Triumph of Horus",
+   "note": "Set's animal forms are harpooned, trampled, burned, or dismembered.",
+   "source": "Edfu temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Taweret",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Taweret's defection",
+   "note": "Late accounts say Taweret deserts Set and joins Horus's side.",
+   "source": "Late Egyptian accounts",
+   "date": "Late Period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Memphite creation theology",
+   "note": "Ptah creates or organizes the gods within the cosmos containing Set's settlement.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Enneadic assembly",
+   "note": "Shu and Set appear together in enneadic and tribunal assemblies.",
+   "source": "Egyptian funerary and tribunal texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Ash",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Set and Ash share western-desert functions and sometimes the Seth-animal form.",
+   "source": "Egyptian iconographic evidence",
+   "date": "Early Dynastic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Set and Min have cultic proximity and occasional assimilation in Upper Egyptian desert theology.",
+   "source": "Coptite regional theology",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baal/Hadad",
+   "other_aliases": [
+    "Baal",
+    "Hadad"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Delta Sutekh absorbs the Levantine god's storm function and warrior iconography.",
+   "source": "Avaris and New Kingdom monuments",
+   "date": "c. 1700–1070 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hittite storm gods",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Egyptian treaty language renders foreign storm deities as forms of Sutekh.",
+   "source": "Egyptian-Hittite treaty",
+   "date": "Thirteenth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretatio identifies Set with Typhon, the monstrous opponent of Zeus.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occultism identifies Set with Satan without ancient Egyptian precedent.",
+   "source": "Temple of Set theology",
+   "date": "1975 onward",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "subject": "fenrir",
+ "relations": [
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Hveðrungr"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Fenrir is identified as Loki’s son.",
+   "source": "Völuspá 53–54; Gylfaginning 34",
+   "date": "c. 1000/c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Angrboða",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri identifies Angrboða as Fenrir’s mother.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri makes Hel and Fenrir siblings.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jörmungandr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri makes Jörmungandr and Fenrir siblings.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hati",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hati is called the son of Hróðvitnir, identified with Fenrir.",
+   "source": "Grímnismál 39",
+   "date": "Viking Age, uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Sköll",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sköll’s sonship is inferred from Fenrir’s brood, not explicitly stated.",
+   "source": "Grímnismál 39; Völuspá 40",
+   "date": "Viking Age/c. 1000",
+   "tier": "modern"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Seizure of Loki’s monstrous children",
+   "note": "Odin orders Fenrir and his siblings seized after a prophecy.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ragnarök",
+   "note": "Odin rides against Fenrir in the final battle.",
+   "source": "Völuspá 53; Gylfaginning 51",
+   "date": "c. 1000/c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ragnarök",
+   "note": "Fenrir kills Odin by swallowing him.",
+   "source": "Völuspá 53–54; Gylfaginning 51",
+   "date": "c. 1000/c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fenrir’s upbringing",
+   "note": "Týr alone dares to feed Fenrir while the gods raise him.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Binding with Gleipnir",
+   "note": "Týr pledges his hand, but the gods refuse to release Fenrir.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding with Gleipnir",
+   "note": "Fenrir bites off Týr’s hand when the pledged release is denied.",
+   "source": "Lokasenna 38–40",
+   "date": "date disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Víðarr’s vengeance at Ragnarök",
+   "note": "Víðarr attacks Fenrir immediately after Odin’s death.",
+   "source": "Völuspá 54",
+   "date": "probably c. 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Sword vengeance at Ragnarök",
+   "note": "Víðarr kills Fenrir with a sword in the conventional poetic reading.",
+   "source": "Völuspá 54",
+   "date": "probably c. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Jaw-rending at Ragnarök",
+   "note": "Víðarr tears Fenrir’s jaws apart and kills him.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skírnir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Making of Gleipnir",
+   "note": "Skírnir obtains the fetter Gleipnir from the dwarfs for Fenrir’s binding.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sól",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Celestial catastrophe",
+   "note": "Fenrir attacks or takes Sól before her daughter replaces her.",
+   "source": "Vafþrúðnismál 46–47",
+   "date": "often tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "deceived_by",
+   "myth": "Binding with Gleipnir",
+   "note": "The Æsir promise release if Fenrir fails, then break their pledge.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "punished_by",
+   "myth": "Binding with Gleipnir",
+   "note": "The Æsir bind, gag, and anchor Fenrir until Ragnarök.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "contest",
+   "myth": "Trials of Lædingr and Drómi",
+   "note": "The gods challenge Fenrir to test his strength against successive fetters.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pyrrhus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Euhemerizing Trojan equivalence",
+   "note": "Snorri equates Fenrir with Achilles’ son Pyrrhus.",
+   "source": "Skáldskaparmál epilogue",
+   "date": "c. 1220",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hela",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Marvel’s Thor: Ragnarok",
+   "note": "Marvel reinvents Fenris as Hela’s enormous female wolf.",
+   "source": "Thor: Ragnarok",
+   "date": "2017",
+   "tier": "modern"
+  },
+  {
+   "other": "Hulk",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marvel’s Thor: Ragnarok",
+   "note": "Hulk fights Marvel’s reinvented Fenris Wolf.",
+   "source": "Thor: Ragnarok",
+   "date": "2017",
+   "tier": "modern"
+  }
+ ]
+}

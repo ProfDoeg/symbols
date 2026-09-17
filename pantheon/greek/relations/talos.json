@@ -1,0 +1,219 @@
+{
+ "subject": "talos",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Zeus gives Talos to Europa",
+   "note": "Zeus gives Talos to Europa as Crete’s guardian.",
+   "source": "Apollonius, Argonautica 4.1641–1648",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Guardianship of Europa and Crete",
+   "note": "Talos is given to Europa and guards her Cretan territory.",
+   "source": "Apollonius, Argonautica 4.1641–1648",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Hephaestus manufactures the bronze guardian",
+   "note": "Hephaestus manufactures or supplies Talos before giving him to Minos.",
+   "source": "Simonides PMG 568; Pseudo-Apollodorus 1.9.26",
+   "date": "sixth–fifth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Medea magically causes Talos’s fatal fall",
+   "note": "Medea’s hostile magic bewilders Talos, who wounds his ankle and loses his ichor.",
+   "source": "Apollonius, Argonautica 4.1654–1688",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Medea drives Talos mad with drugs",
+   "note": "One variant says Medea destroys Talos by inducing madness with drugs.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.9.26",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Medea promises Talos immortality",
+   "note": "Medea falsely promises immortality so she can remove Talos’s bronze nail.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.9.26",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Medea removes Talos’s bronze nail",
+   "note": "Medea removes the nail sealing Talos’s vein, causing his life-giving ichor to drain.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.9.26",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Keres",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Medea invokes the Keres against Talos",
+   "note": "Medea summons the death spirits as agents of her magical assault on Talos.",
+   "source": "Apollonius, Argonautica 4.1665–1672",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Dioscuri control the collapsing Talos",
+   "note": "Castor supports or restrains Talos as the bronze guardian collapses.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Polydeuces",
+   "other_aliases": [
+    "Pollux"
+   ],
+   "kind": "other",
+   "myth": "The Dioscuri control the collapsing Talos",
+   "note": "Polydeuces accompanies Castor in physically controlling or receiving the falling Talos.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Poseidon witnesses Talos’s death",
+   "note": "Poseidon observes Talos’s collapse without taking an active role.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Amphitrite witnesses Talos’s death",
+   "note": "Amphitrite appears beside Poseidon observing Talos’s collapse.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Argonautic program of the Talos krater",
+   "note": "Hera appears in the vase’s associated Argonautic register, not in direct interaction with Talos.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Argonautic program of the Talos krater",
+   "note": "Nike appears elsewhere in the vase ensemble without a depicted direct interaction with Talos.",
+   "source": "Talos Painter krater",
+   "date": "c. 400–390 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cres",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A genealogical Talos, possibly distinct from the guardian, is named as Cres’s son.",
+   "source": "Cinaethon through Pausanias 8.53.5",
+   "date": "archaic genealogy",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A problematic genealogy makes Talos father of Hephaestus, possibly reversing the usual maker relationship.",
+   "source": "Cinaethon through Pausanias 8.53.5",
+   "date": "archaic genealogy",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phaestus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An alternative reading makes the genealogical Talos father of Phaestus rather than Hephaestus.",
+   "source": "Cinaethon through Pausanias 8.53.5",
+   "date": "archaic genealogy",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Argonauts",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Talos prevents the Argonauts landing on Crete",
+   "note": "Talos tears rocks from the cliffs and hurls them at the approaching Argonauts.",
+   "source": "Apollonius, Argonautica 4.1638–1688",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus Tallaios",
+   "other_aliases": [
+    "Talaios"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars proposed identifying Talos with the similarly named Cretan Zeus Tallaios.",
+   "source": "Hesychius; Cretan treaties",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "other": "Moloch",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Disputed comparativists equated Talos with a Phoenician or Carthaginian bronze sacrificial deity.",
+   "source": "Modern comparativist scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparisons linked Talos’s heated embrace with reported Sardinian or Carthaginian sacrifice to Kronos.",
+   "source": "Modern comparativist scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  }
+ ]
+}

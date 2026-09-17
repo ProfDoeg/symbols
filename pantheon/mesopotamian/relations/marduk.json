@@ -1,0 +1,433 @@
+{
+ "subject": "marduk",
+ "relations": [
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ea fathers Marduk after defeating Apsû.",
+   "source": "Enūma eliš I",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "taught_by",
+   "myth": "Marduk–Ea incantation formula",
+   "note": "Marduk reports afflictions to Ea, who transmits the ritual remedies.",
+   "source": "Marduk–Ea incantation traditions",
+   "date": "Old Babylonian onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation of humanity",
+   "note": "Marduk plans humanity while Ea advises using a guilty god's blood.",
+   "source": "Enūma eliš VI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Damkina",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Damkina bears Marduk and rejoices in his extraordinary form.",
+   "source": "Enūma eliš I",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ṣarpānītu",
+   "other_aliases": [
+    "Zarpanītu"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ṣarpānītu is Marduk's principal consort and Babylon's goddess.",
+   "source": "Cult texts and inscriptions",
+   "date": "Old Babylonian onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nabû",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nabû is principally the son of Marduk and Zarpanītu.",
+   "source": "Babylonian theological traditions",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nabû",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Nisannu akītu",
+   "note": "Nabû travels from Borsippa and joins Marduk's divine assembly.",
+   "source": "Akītu rituals and inscriptions",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tašmētu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Tašmētu is Marduk's daughter-in-law as Nabû's consort.",
+   "source": "Babylonian theological tradition",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Election of Marduk as champion",
+   "note": "Anšar accepts Ea's proposal that Marduk confront Tiamat.",
+   "source": "Enūma eliš II–III",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marduk receives the four winds",
+   "note": "Anu gives Marduk the four winds and later praises his bow.",
+   "source": "Enūma eliš II, VI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "Anu and Enlil grant Marduk authority and Babylonian pre-eminence.",
+   "source": "Hammurabi law prologue",
+   "date": "ca. eighteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "Enlil and Anu grant Marduk authority and Babylonian pre-eminence.",
+   "source": "Hammurabi law prologue",
+   "date": "ca. eighteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Marduk receives Enlil's titles, authority, number fifty, and sometimes name.",
+   "source": "God lists; Enūma eliš VI–VII",
+   "date": "late second millennium onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [
+    "Tauthe"
+   ],
+   "kind": "fought",
+   "myth": "Battle against Tiamat",
+   "note": "Marduk challenges Tiamat and traps her with his net and winds.",
+   "source": "Enūma eliš IV",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [
+    "Tauthe"
+   ],
+   "kind": "killed",
+   "myth": "Battle against Tiamat",
+   "note": "Marduk shoots Tiamat with an arrow and crushes her skull.",
+   "source": "Enūma eliš IV",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [
+    "Tauthe"
+   ],
+   "kind": "created",
+   "myth": "Creation from Tiamat's body",
+   "note": "Marduk forms the organized cosmos from Tiamat's divided body.",
+   "source": "Enūma eliš IV–V",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qingu",
+   "other_aliases": [
+    "Kingu"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of Tiamat's army",
+   "note": "Marduk captures Tiamat's commander and removes the Tablet of Destinies.",
+   "source": "Enūma eliš IV",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qingu",
+   "other_aliases": [
+    "Kingu"
+   ],
+   "kind": "killed",
+   "myth": "Creation of humanity",
+   "note": "Marduk has Qingu executed so humanity can be made from his blood.",
+   "source": "Enūma eliš VI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mummu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Proclamation of Marduk's names",
+   "note": "Marduk receives Mummu as a learned name or title.",
+   "source": "Enūma eliš VII",
+   "date": "first-millennium manuscripts",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ga-ga",
+   "other_aliases": [
+    "Gaga"
+   ],
+   "kind": "shared_myth",
+   "myth": "Election of Marduk as champion",
+   "note": "Gaga reports Marduk's proposed kingship to the older gods.",
+   "source": "Enūma eliš III",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "The great gods",
+   "other_aliases": [
+    "Anunnaki",
+    "Igigi"
+   ],
+   "kind": "contest",
+   "myth": "Test of Marduk's command",
+   "note": "The gods test Marduk by ordering him to destroy and restore an object.",
+   "source": "Enūma eliš III–IV",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "The great gods",
+   "other_aliases": [
+    "Anunnaki",
+    "Igigi"
+   ],
+   "kind": "gift",
+   "myth": "Election and fifty names",
+   "note": "The gods elect Marduk king and confer supreme authority and fifty names.",
+   "source": "Enūma eliš III–VII",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "The great gods",
+   "other_aliases": [
+    "Anunnaki",
+    "Igigi"
+   ],
+   "kind": "served_by",
+   "myth": "Building Babylon and Esagila",
+   "note": "The gods build Babylon and Esagila for Marduk before feasting.",
+   "source": "Enūma eliš VI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eleven monsters of Tiamat",
+   "other_aliases": [
+    "Tiamat's composite troops"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of Tiamat's army",
+   "note": "Marduk defeats and binds the eleven monsters serving Tiamat.",
+   "source": "Enūma eliš IV–V",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration procession to Babylon",
+   "note": "Nergal's statue joins the procession restoring Marduk to Babylon.",
+   "source": "Assyrian restoration accounts",
+   "date": "seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration procession to Babylon",
+   "note": "Šamaš's statue joins Marduk's restoration procession.",
+   "source": "First-millennium royal inscriptions",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erra",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Marduk's withdrawal from Babylon",
+   "note": "Erra persuades Marduk to withdraw for image renewal, enabling catastrophic violence.",
+   "source": "Erra and Išum",
+   "date": "early first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Išum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration after Erra's violence",
+   "note": "Išum moderates Erra, allowing the order associated with Marduk to return.",
+   "source": "Erra and Išum",
+   "date": "early first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asalluhi",
+   "other_aliases": [
+    "Asarluhi"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Marduk absorbs Asalluhi's identity, exorcistic functions, and filial relationship to Ea.",
+   "source": "Old Babylonian cult and incantations",
+   "date": "Old Babylonian onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tutu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Proclamation of Marduk's names",
+   "note": "Marduk absorbs Tutu through learned theological equations and name explanations.",
+   "source": "Enūma eliš VII",
+   "date": "late second millennium onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tišpak",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Marduk acquires the mušḫuššu, which was previously associated with Tišpak.",
+   "source": "Iconographic material sequence",
+   "date": "second millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninazu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Marduk acquires the mušḫuššu, which was previously associated with Ninazu.",
+   "source": "Iconographic material sequence",
+   "date": "second millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Assyrian adaptation of Enūma eliš",
+   "note": "Assyrian adaptations substitute Aššur for Marduk in the Babylonian creation epic.",
+   "source": "Assyrian Enūma eliš adaptations",
+   "date": "seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Marduk Ordeal",
+   "note": "Assyrian theology interprets Marduk's ritual ordeal through Aššur's supremacy.",
+   "source": "Marduk Ordeal texts",
+   "date": "seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sîn",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Nabonidus's promotion of Sîn",
+   "note": "Babylonian polemic portrays Sîn's promotion as an offense against Marduk.",
+   "source": "Verse Account; Cyrus Cylinder",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeus Belos",
+    "Bēlos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretatio identifies Babylonian Bēl-Marduk with Zeus.",
+   "source": "Herodotus, Histories 1.181–182",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Belus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretatio identifies Babylonian Bēl-Marduk with Jupiter.",
+   "source": "Roman-era authors",
+   "date": "Roman era",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Belos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Late Babylonian cosmogony",
+   "note": "Damascius preserves Marduk as Belos, a demiurgic organizer of the cosmos.",
+   "source": "Damascius",
+   "date": "late fifth–sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Marduk's epic role reallocates Ninurta's champion and monster-slayer achievements.",
+   "source": "Enūma eliš",
+   "date": "late second millennium onward",
+   "tier": "syncretism"
+  }
+ ]
+}

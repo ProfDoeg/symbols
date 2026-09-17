@@ -1,0 +1,331 @@
+{
+ "subject": "wepwawet",
+ "relations": [
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "First Procession at Abydos",
+   "note": "Wepwawet repels Osiris’s enemies and opens the road to Peqer.",
+   "source": "Ikhernofret stela",
+   "date": "nineteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Osiris festival processions",
+   "note": "Wepwawet’s standard precedes Osiris in Abydene festival and temple processions.",
+   "source": "Abydos inscriptions and temple reliefs",
+   "date": "Middle Kingdom–Greco-Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Abydene theology calls or treats Wepwawet as Osiris’s son.",
+   "source": "Later Abydene material",
+   "date": "later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Victorious royal heir theology",
+   "note": "Temple theology equates Wepwawet’s victorious royal aspect with Horus.",
+   "source": "New Kingdom and later temple texts",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal ascent formulas",
+   "note": "The king is identified successively with Horus and Wepwawet in ascent formulas.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later theology sometimes arranges the paired canid gods as brothers or counterparts.",
+   "source": "Later theological traditions",
+   "date": "later periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal ascent formula",
+   "note": "PT 537 juxtaposes Wepwawet upon his standard with Anubis.",
+   "source": "Pyramid Texts, PT 537",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Asyut complementary cult offices",
+   "note": "Their separate temple personnel and complementary processional and necropolis offices are documented at Asyut.",
+   "source": "Djefaihapy contracts and Salakhana stelae",
+   "date": "Middle–New Kingdoms",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their canid forms and funerary functions encouraged assimilation, although primary evidence preserves distinctions.",
+   "source": "Later Egyptian theology",
+   "date": "later periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later Abydene and Asyut traditions call Wepwawet the son of Isis.",
+   "source": "Later Abydene and Asyut material",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense of Osiris",
+   "note": "Wepwawet appears with Isis as a loyal defender of Osiris.",
+   "source": "Later Abydene and Asyut material",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "First Procession at Abydos",
+   "note": "Later interpretation identifies Seth as leader of the enemies Wepwawet attacks.",
+   "source": "Later interpretations of Ikhernofret",
+   "date": "later periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Wadjet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Emergence in the Per-nu",
+   "note": "Wepwawet’s birth or emergence is located in Wadjet’s Per-nu shrine.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "served",
+   "myth": "Solar-barque journey",
+   "note": "Wepwawet clears the sun god’s course from the prow of the solar barque.",
+   "source": "Later temple and funerary iconography",
+   "date": "later periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [
+    "Amun-Re Kamutef"
+   ],
+   "kind": "shared_myth",
+   "myth": "Salakhana votive worship",
+   "note": "A votive stela presents both gods receiving worship, with Amun-Re behind Wepwawet.",
+   "source": "Salakhana stela of Ramose and Wepmose",
+   "date": "Nineteenth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Khentamentiu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abydos festival and offerings",
+   "note": "Middle Kingdom stelae place Khentamentiu and Wepwawet within the same festival and offering environment.",
+   "source": "Middle Kingdom Abydos stelae",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Shu and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Tefnut and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Thoth and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Khnum and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Sokar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Sokar and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Geb and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Nut and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Min and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Onuris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Onuris and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Amun and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Ptah and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Neith and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Heket",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Heket and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Hathor and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Isis and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint temple offerings",
+   "note": "Nephthys and Wepwawet are listed together as beneficiaries of offerings.",
+   "source": "Wepwawet-aa stela",
+   "date": "",
+   "tier": "attested"
+  }
+ ]
+}

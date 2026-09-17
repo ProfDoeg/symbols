@@ -1,0 +1,265 @@
+{
+ "subject": "inari",
+ "relations": [
+  {
+   "other": "Susanoo",
+   "other_aliases": [
+    "Susanoo-no-mikoto"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Susanoo and Kamu-Ōichihime generate Ukanomitama.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Kamu-Ōichihime",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kamu-Ōichihime and Susanoo generate Ukanomitama.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōtoshi",
+   "other_aliases": [
+    "Ōtoshi-no-kami"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ōtoshi and Ukanomitama are children of Susanoo and Kamu-Ōichihime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōyamatsumi",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ukanomitama descends from Ōyamatsumi through his daughter Kamu-Ōichihime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Izanagi",
+   "other_aliases": [
+    "Izanagi-no-mikoto"
+   ],
+   "kind": "child_of",
+   "myth": "Ukanomitama generated during the divine pair's hunger",
+   "note": "A variant makes Izanagi and Izanami the parents of Ukanomitama.",
+   "source": "Nihon shoki variant account",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Izanami",
+   "other_aliases": [
+    "Izanami-no-mikoto"
+   ],
+   "kind": "child_of",
+   "myth": "Ukanomitama generated during the divine pair's hunger",
+   "note": "A variant makes Izanami and Izanagi the parents of Ukanomitama.",
+   "source": "Nihon shoki variant account",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Satahiko",
+   "other_aliases": [
+    "Satahiko-no-Ōkami"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fushimi's collective Inari sanctuary",
+   "note": "Satahiko shares Fushimi's principal seats and later five-kami Inari collective.",
+   "source": "Engishiki and later shrine tradition",
+   "date": "927 and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ōmiyanome",
+   "other_aliases": [
+    "Ōmiyanome-no-Ōkami"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fushimi's collective Inari sanctuary",
+   "note": "Ōmiyanome shares Fushimi's principal seats and later five-kami Inari collective.",
+   "source": "Engishiki and later shrine tradition",
+   "date": "927 and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanaka-no-Ōkami",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fushimi's fivefold Inari collective",
+   "note": "Tanaka is an auxiliary member of the later fivefold Fushimi Inari.",
+   "source": "Fushimi shrine tradition",
+   "date": "later shrine tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shi-no-Ōkami",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fushimi's fivefold Inari collective",
+   "note": "Shi is an auxiliary member of the later fivefold Fushimi Inari.",
+   "source": "Fushimi shrine tradition",
+   "date": "later shrine tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakiniten",
+   "other_aliases": [
+    "Toyokawa Dakini Shinten",
+    "Dakini Shinten"
+   ],
+   "kind": "identified_with",
+   "myth": "Medieval Inari-Dakiniten ritual fusion",
+   "note": "Esoteric traditions fuse Inari with the fox-riding, wish-granting Buddhist deity Dakiniten.",
+   "source": "Inari ichiryū daiji",
+   "date": "1408",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Monju",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Monju manifests as Inari and Celestial Fox divinities",
+   "note": "Medieval ritual texts describe Inari and related fox divinities as Monju's temporary manifestation.",
+   "source": "Ototari shingū saimon",
+   "date": "late 13th–early 14th century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Monju",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Monju manifests as Inari and Celestial Fox divinities",
+   "note": "A secret ritual complex identifies Inari-related fox divinities as manifestations of Monju.",
+   "source": "Inari ichiryū daiji",
+   "date": "1408",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Celestial Fox King",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Ototari and the catfish",
+   "note": "Rescued divinities are identified as the Celestial Fox King and integrated into Inari practice.",
+   "source": "Ototari shingū saimon",
+   "date": "late 13th–early 14th century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Celestial Fox King",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Secret Inari and Dakiniten rites",
+   "note": "The Celestial Fox King is incorporated into the ritual identity complex surrounding Inari.",
+   "source": "Inari ichiryū daiji",
+   "date": "1408",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ukemochi-no-kami",
+   "other_aliases": [
+    "Ukemochi"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later learned and cultic traditions compare or equate this food deity with Ukanomitama and Inari.",
+   "source": "Later learned and cultic traditions",
+   "date": "later tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ōgetsuhime",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later learned and cultic traditions compare or equate this food deity with Ukanomitama and Inari.",
+   "source": "Later learned and cultic traditions",
+   "date": "later tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Toyouke",
+   "other_aliases": [
+    "Toyouke-hime",
+    "Toyouke Ōmikami"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Exegetical traditions equate Toyouke with Ukanomitama, though their institutions remain distinct.",
+   "source": "Later exegetical tradition",
+   "date": "later tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ugajin",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Ugajin is linked with Inari through food, fertility, serpent, jewel, and prosperity symbolism.",
+   "source": "Medieval iconographic and theological networks",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Uga Benzaiten",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Uga Benzaiten shares Inari's medieval fertility, food, serpent, jewel, and wish-granting complexes.",
+   "source": "Medieval iconographic and theological networks",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Benzaiten",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Benzaiten and Inari share medieval networks of jewels, prosperity, water, fertility, and serpentine symbolism.",
+   "source": "Medieval iconographic and theological networks",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kannon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some local and textual honji systems identify Kannon as Inari's Buddhist original ground.",
+   "source": "Local and textual honji traditions",
+   "date": "medieval and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osusuki",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "White-fox family petitions Inari",
+   "note": "Inari accepts the benevolent male white fox as a retainer and names him Osusuki.",
+   "source": "Inari ryūki",
+   "date": "medieval recension",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Akomachi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "White-fox family petitions Inari",
+   "note": "Inari accepts the benevolent female white fox as a retainer and names her Akomachi.",
+   "source": "Inari ryūki",
+   "date": "medieval recension",
+   "tier": "late_accretion"
+  }
+ ]
+}

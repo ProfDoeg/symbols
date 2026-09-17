@@ -1,0 +1,501 @@
+{
+ "subject": "eros",
+ "relations": [
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aphrodite's sea-birth and divine reception",
+   "note": "Eros and Himeros accompany Aphrodite when she enters the divine assembly.",
+   "source": "Hesiod, Theogony 201–06",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Eros serves Aphrodite's purposes",
+   "note": "Fragmentary lyric portrays Eros as Aphrodite's servant or agent.",
+   "source": "Sappho fragments",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One fragmentary genealogy makes Eros the child of Aphrodite and Uranus.",
+   "source": "Sappho fr. 198",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One fragmentary genealogy makes Uranus and Aphrodite Eros's parents.",
+   "source": "Sappho fr. 198",
+   "date": "c. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A genealogy attributed to Alcaeus makes Eros the son of Iris.",
+   "source": "Alcaeus, later scholium",
+   "date": "c. 600 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A genealogy attributed to Alcaeus makes Zephyrus Eros's father.",
+   "source": "Alcaeus, later scholium",
+   "date": "c. 600 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Simonides explicitly names Aphrodite and Ares as Eros's parents.",
+   "source": "Simonides fr. 575 PMG",
+   "date": "late sixth–early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Simonides explicitly names Ares and Aphrodite as Eros's parents.",
+   "source": "Simonides fr. 575 PMG",
+   "date": "late sixth–early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A hymn attributed to Olen reportedly names Eileithyia as Eros's mother.",
+   "source": "Pausanias 9.27.2",
+   "date": "c. 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poros",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diotima's philosophical myth makes Eros the son of Poros and Penia.",
+   "source": "Plato, Symposium 203b–e",
+   "date": "c. 385–370 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Penia conceives Eros from Poros during Aphrodite's birthday feast.",
+   "source": "Plato, Symposium 203b–e",
+   "date": "c. 385–370 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Night's cosmic egg",
+   "note": "Night lays the egg in Erebus from which golden-winged Eros hatches.",
+   "source": "Aristophanes, Birds 693–702",
+   "date": "414 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Comic bird cosmogony",
+   "note": "Golden-winged Eros mates with winged Chaos and generates the birds.",
+   "source": "Aristophanes, Birds 693–702",
+   "date": "414 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the birds",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Comic bird cosmogony",
+   "note": "The birds arise as offspring of Eros's union with Chaos.",
+   "source": "Aristophanes, Birds 693–702",
+   "date": "414 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some Orphic genealogies connect cosmic Eros's origin with Chronos.",
+   "source": "Orphic theogonical testimonia",
+   "date": "Hellenistic–late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Protogonos",
+    "Metis",
+    "Erikepaios"
+   ],
+   "kind": "identified_with",
+   "myth": "Orphic cosmic egg",
+   "note": "Late Orphic systems identify primordial Eros with the radiant cosmic firstborn.",
+   "source": "Orphic theogonical testimonia",
+   "date": "Hellenistic–late antique",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Roman antiquarian catalogue makes one of several Cupids Mercury's son.",
+   "source": "Cicero, De natura deorum 3.59–60",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Roman antiquarian catalogue makes Diana mother of one Cupid.",
+   "source": "Cicero, De natura deorum 3.59–60",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Himeros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite's divine reception",
+   "note": "Eros and Himeros jointly attend Aphrodite after her sea-birth.",
+   "source": "Hesiod, Theogony 201–06",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Himeros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite's attendants",
+   "note": "Eros and Himeros appear together as attendants of Aphrodite.",
+   "source": "Homeric Hymn 6",
+   "date": "probably sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite's divine circle",
+   "note": "Peitho appears beside Eros and Aphrodite in literary and visual configurations.",
+   "source": "Athena Nike frieze",
+   "date": "late fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anteros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Companion who enables Eros to grow",
+   "note": "Aphrodite produces Anteros as reciprocal love and a companion for Eros.",
+   "source": "Later antiquarian tradition",
+   "date": "later antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite Urania",
+   "other_aliases": [
+    "Heavenly Aphrodite"
+   ],
+   "kind": "shared_myth",
+   "myth": "Two Aphrodites and two Erotes",
+   "note": "Pausanias's speech assigns Heavenly Aphrodite her corresponding form of Eros.",
+   "source": "Plato, Symposium 180d–181c",
+   "date": "c. 385–370 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite Pandemos",
+   "other_aliases": [
+    "Common Aphrodite"
+   ],
+   "kind": "shared_myth",
+   "myth": "Two Aphrodites and two Erotes",
+   "note": "Pausanias's speech assigns Common Aphrodite her corresponding form of Eros.",
+   "source": "Plato, Symposium 180d–181c",
+   "date": "c. 385–370 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Knucklebones game",
+   "note": "Eros cheats or defeats Ganymede at knucklebones before Aphrodite summons him.",
+   "source": "Apollonius, Argonautica 3.114–28",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea's enchantment",
+   "note": "Hera helps arrange Eros's intervention so Medea will aid Jason.",
+   "source": "Apollonius, Argonautica 3.25–112",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea's enchantment",
+   "note": "Athena joins Hera in arranging for Eros to strike Medea.",
+   "source": "Apollonius, Argonautica 3.25–112",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Aphrodite's bribe",
+   "note": "Aphrodite promises Eros a marvelous ball formerly belonging to infant Zeus.",
+   "source": "Apollonius, Argonautica 3.129–44",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Medea struck by Eros",
+   "note": "Eros shoots Medea, igniting the desire that leads her to aid Jason.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Medea's enchantment",
+   "note": "Eros induces Medea's love so that she will help Jason survive.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "mid-third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Apollo and Daphne",
+   "note": "After Apollo mocks his bow, Eros boasts superior power and strikes him with love.",
+   "source": "Ovid, Metamorphoses 1.452–73",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daphne",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo and Daphne",
+   "note": "Eros strikes Daphne with a lead-tipped arrow that produces aversion to love.",
+   "source": "Ovid, Metamorphoses 1.472–80",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Cupid impersonates Ascanius",
+   "note": "Cupid follows Venus's plan, assumes Ascanius's form, and inflames Dido.",
+   "source": "Virgil, Aeneid 1.657–722",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ascanius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cupid impersonates Ascanius",
+   "note": "Cupid assumes Ascanius's appearance while Venus conceals the boy.",
+   "source": "Virgil, Aeneid 1.657–722",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Cupid and Psyche",
+   "note": "Cupid becomes Psyche's hidden lover and ultimately her divinely recognized husband.",
+   "source": "Apuleius, Metamorphoses 4.28–6.24",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Psyche's deathlike sleep",
+   "note": "Cupid removes the underworld sleep from Psyche and revives her.",
+   "source": "Apuleius, Metamorphoses 6.21",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Voluptas",
+   "other_aliases": [
+    "Pleasure"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cupid and Psyche become the parents of Voluptas, divine Pleasure.",
+   "source": "Apuleius, Metamorphoses 6.24",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "judged_by",
+   "myth": "Recognition of Psyche's marriage",
+   "note": "Cupid petitions Jupiter, who recognizes the marriage and grants Psyche immortality.",
+   "source": "Apuleius, Metamorphoses 6.22–24",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Assembly for Cupid's marriage",
+   "note": "Mercury announces Jupiter's divine assembly concerning Cupid and Psyche.",
+   "source": "Apuleius, Metamorphoses 6.23",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Psyche's underworld task",
+   "note": "Psyche retrieves Proserpina's beauty, whose released sleep Cupid later removes.",
+   "source": "Apuleius, Metamorphoses 6.19–21",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Eros wrestles Pan",
+   "note": "Cupid wrestles and defeats Pan as an emblem of love conquering all.",
+   "source": "Roman visual tradition",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Omnia Vincit Amor",
+   "note": "Renaissance imagery revives Cupid's wrestling victory over Pan.",
+   "source": "Agostino Carracci engraving",
+   "date": "1599",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Gods resistant to Eros",
+   "note": "Eros says he avoids or fears the Muses and cannot readily subdue them.",
+   "source": "Lucian, Dialogues of the Gods",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Gods resistant to Eros",
+   "note": "Eros discusses Athena's resistance and the danger posed by her weapons.",
+   "source": "Lucian, Dialogues of the Gods",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Gods resistant to Eros",
+   "note": "Eros discusses Artemis's chastity, resistance, and dangerous weapons.",
+   "source": "Lucian, Dialogues of the Gods",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Dionysus's erotic adventures",
+   "note": "Eros assists Dionysus's amours by stirring the god or prospective lovers.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Eros-assistant ritual",
+   "note": "A magical invocation assimilates an Eros-assistant to Egyptian royal and Osirian powers.",
+   "source": "PGM XII.14–95",
+   "date": "third-century CE manuscript",
+   "tier": "syncretism"
+  }
+ ]
+}

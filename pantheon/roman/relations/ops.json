@@ -1,0 +1,389 @@
+{
+ "subject": "ops",
+ "relations": [
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "Uranus",
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Hellenized genealogies make Caelus the father of Ops.",
+   "source": "Hellenized Roman genealogy",
+   "date": "late Roman tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Terra",
+   "other_aliases": [
+    "Gaia",
+    "Tellus",
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The translated Greek genealogy makes Terra the mother of Ops.",
+   "source": "Hellenized Roman genealogy",
+   "date": "late Roman tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ops is Saturn's wife in the Romanized Cronus–Rhea genealogy.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ovid describes Ops as Saturn's blood-relative as well as wife.",
+   "source": "Ovid, Metamorphoses 9.497–501",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "deceived",
+   "myth": "Substitution of the wrapped stone",
+   "note": "Ops substitutes a wrapped stone so Saturn does not consume Jupiter.",
+   "source": "Tertullian, Ad nationes 2.12",
+   "date": "about 197 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Titan imprisons the royal couple",
+   "note": "Titan and his sons imprison Ops and Saturn after discovering her deception.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "other",
+   "myth": "Circus procession",
+   "note": "Their divine images appear together in the ceremonial circus procession.",
+   "source": "Fabius Pictor fragment",
+   "date": "late third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "other",
+   "myth": "Heaven and Earth doctrine",
+   "note": "Learned theology pairs Saturn as Heaven with Ops as Earth.",
+   "source": "Varro, De lingua Latina 5.57–58",
+   "date": "47–45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Consus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Ops Consiva and paired festivals establish a secure but unexplained cultic association.",
+   "source": "Roman calendars and Varro",
+   "date": "archaic through 45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Plautus identifies Jupiter as the son of Ops.",
+   "source": "Plautus, Persa 251",
+   "date": "around 200 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "rescued",
+   "myth": "Rescue of the infant Jupiter",
+   "note": "Ops conceals Jupiter and substitutes a stone to save him from Saturn.",
+   "source": "Ovid, Fasti 4.179–372",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "rescued_by",
+   "myth": "Titan's imprisonment of Ops",
+   "note": "Jupiter defeats the Titans and frees his imprisoned parents.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The standard Rhea genealogy makes Juno a daughter of Ops.",
+   "source": "Hellenized Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Plautus instead calls Juno Ops's granddaughter through Jupiter.",
+   "source": "Plautus, Cistellaria 512–15",
+   "date": "around 200 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later translated Greek genealogies name Neptune among Saturn and Ops's children.",
+   "source": "Christian and mythographic accounts",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dis",
+   "other_aliases": [
+    "Orcus",
+    "Pluto",
+    "Hades"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later translated Greek genealogies make Dis a child of Saturn and Ops.",
+   "source": "Christian and mythographic accounts",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter",
+    "Ceres Mater"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The standard Rhea–Demeter genealogy makes Ceres a daughter of Ops.",
+   "source": "Hellenized Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter",
+    "Ceres Mater"
+   ],
+   "kind": "sibling_of",
+   "myth": "Saturn's disputed kingship",
+   "note": "Ennius presents Ceres among Ops's sisters urging Saturn to retain kingship.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter",
+    "Ceres Mater"
+   ],
+   "kind": "other",
+   "myth": "Vicus Iugarius altar",
+   "note": "Ceres Mater and Ops Augusta jointly received a votive altar.",
+   "source": "Inscribed Roman calendars",
+   "date": "10 August 7 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The standard Rhea–Hestia genealogy makes Vesta a daughter of Ops.",
+   "source": "Hellenized Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "sibling_of",
+   "myth": "Saturn's disputed kingship",
+   "note": "Ennius presents Vesta and Ops as sisters involved in Saturn's succession.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Varro's functional Earth theology treats Vesta and Ops as names of one power.",
+   "source": "Augustine, City of God 7.23–24",
+   "date": "413–426 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Titan",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Ops secretly preserves Saturn's children",
+   "note": "Ops secretly preserves children despite the succession agreement claimed by Titan.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Titan",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Titan imprisons Saturn and Ops",
+   "note": "Titan seizes and imprisons Ops with Saturn after discovering her deception.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titani",
+    "Titan's sons"
+   ],
+   "kind": "punished_by",
+   "myth": "Titan imprisons Saturn and Ops",
+   "note": "Titan's sons assist in seizing and imprisoning Ops and Saturn.",
+   "source": "Ennius, Euhemerus",
+   "date": "early second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin authors used Ops as the Roman name or equivalent of Rhea.",
+   "source": "Fabius Pictor and early Latin tradition",
+   "date": "late third century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater",
+    "Idaean Mother"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ops acquired an indirect learned equivalence with Cybele through Rhea.",
+   "source": "Ovid, Fasti 4",
+   "date": "early first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Terra",
+   "other_aliases": [
+    "Tellus",
+    "Earth",
+    "Gaia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Varro and later antiquarians identify Ops with Earth.",
+   "source": "Varro, De lingua Latina 5.64",
+   "date": "47–45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Varro's functional theology treats Proserpina and Ops as names of Earth.",
+   "source": "Augustine, City of God 7.23–24",
+   "date": "413–426 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amalthea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Care of the infant Jupiter",
+   "note": "Ops entrusts the infant Jupiter to Amalthea, whose goat nurses him.",
+   "source": "Hyginus",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Care of the infant Jupiter",
+   "note": "Ops gives the infant Jupiter to Themis for protection or care.",
+   "source": "Hyginus",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Curetes",
+   "other_aliases": [
+    "Corybantes"
+   ],
+   "kind": "allied",
+   "myth": "Concealment of the infant Jupiter",
+   "note": "Through her Rhea identity, Ops benefits from their weapon-clashing concealment of Jupiter.",
+   "source": "Ovid, Fasti 4.179–372",
+   "date": "early first century CE",
+   "tier": "canonical"
+  }
+ ]
+}

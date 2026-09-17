@@ -1,0 +1,337 @@
+{
+ "subject": "pluto_dis_pater",
+ "relations": [
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Plouton"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Pluto was identified with the Greek ruler of the underworld.",
+   "source": "Ennius, Euhemerus fr. 7",
+   "date": "early second century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Orcus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ennius calls Orcus another Latin name for Pluto, though later taxonomy distinguishes him.",
+   "source": "Ennius fr. 7; Varro via Augustine",
+   "date": "second century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aita",
+   "other_aliases": [
+    "Eita"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan underworld ruler was comparatively identified with Hades and Pluto.",
+   "source": "Etruscan iconographic and linguistic evidence",
+   "date": "fourth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Pluto a son of Saturn.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Pluto a son of Ops.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pluto and Jupiter are brothers in the imported Hellenized genealogy.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "judged_by",
+   "myth": "Settlement of Proserpina's divided residence",
+   "note": "Jupiter authorizes or ratifies the marriage and arbitrates Proserpina's return.",
+   "source": "Ovid, Metamorphoses 5; Hyginus 146",
+   "date": "c. 8 CE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "sibling_of",
+   "myth": "Division of cosmic sovereignty",
+   "note": "Pluto and Neptune are brothers who receive separate cosmic realms.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Juno Pluto's sister.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Ceres Pluto's sister.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "contest",
+   "myth": "Ceres' search and famine",
+   "note": "Ceres' famine pressures the gods to negotiate her abducted daughter's return.",
+   "source": "Ovid, Metamorphoses 5; Fasti 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Vesta Pluto's sister.",
+   "source": "Roman mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Proserpina is Pluto's wife, queen, and joint ruler beneath the earth.",
+   "source": "Tarentum tradition and imperial inscriptions",
+   "date": "249 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "other",
+   "myth": "Abduction of Proserpina",
+   "note": "Pluto abducts Proserpina from Sicily and carries her into his kingdom.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Nocturnal rites at the Tarentum",
+   "note": "Dis and Proserpina jointly receive nocturnal sacrifices and games.",
+   "source": "Livy epitome; Valerius Maximus; Festus",
+   "date": "249 BCE tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Provincial worship of the infernal rulers",
+   "note": "The married rulers receive joint provincial dedications.",
+   "source": "CIL XIII 6322",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Proserpina",
+   "note": "Venus targets Pluto's untouched realm and orders Cupid to inspire his desire.",
+   "source": "Ovid, Metamorphoses 5.363–384",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Proserpina",
+   "note": "Cupid shoots Pluto with an arrow, causing his desire for Proserpina.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Mercurius Nuntius"
+   ],
+   "kind": "shared_myth",
+   "myth": "Infernal divine administration",
+   "note": "Mercury serves as messenger between worlds and appears beside Dis in provincial evidence.",
+   "source": "CIL V 725; mythographic tradition",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aeracura",
+   "other_aliases": [
+    "Eracura",
+    "Aericura",
+    "Juno inferna"
+   ],
+   "kind": "shared_myth",
+   "myth": "Provincial worship of infernal divine pairs",
+   "note": "Aeracura is paired with Dis in northern and Danubian provincial worship.",
+   "source": "CIL III 4395; VI 142; XIII 8177",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fates",
+   "other_aliases": [
+    "Fata",
+    "Parcae",
+    "Moerae"
+   ],
+   "kind": "shared_myth",
+   "myth": "Infernal divine administration",
+   "note": "The Fates appear within Dis's infernal administration and alongside him epigraphically.",
+   "source": "CIL V 725; Claudian",
+   "date": "imperial and late antique",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ascalaphus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pomegranate and Proserpina's return",
+   "note": "Ascalaphus reports Proserpina's eating, preventing her complete release from Pluto's realm.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Removal of Cerberus",
+   "note": "Hercules enters Pluto's underworld and carries away its guardian Cerberus.",
+   "source": "Virgilian and mythographic tradition",
+   "date": "classical Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Substitution for human offerings",
+   "note": "Hercules substitutes modeled heads or lights for offerings allegedly demanded by Dis.",
+   "source": "Macrobius, Saturnalia 1.7",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Cerberus guards Pluto's realm but is not securely described as his child.",
+   "source": "Virgil, Aeneid 6; Ovid",
+   "date": "first century BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aeneas' descent into the underworld",
+   "note": "Aeneas enters Dis's kingdom with Sibylline authorization and Proserpina's golden bough.",
+   "source": "Virgil, Aeneid 6",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Substitution for human offerings",
+   "note": "Macrobius pairs Saturn and Dis in a legend explaining substituted human offerings.",
+   "source": "Macrobius, Saturnalia 1.7",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Augustan reform of the Secular Games",
+   "note": "Apollo's daytime prominence replaces the older Dis-Proserpina focus in the surviving ritual record.",
+   "source": "Acta of 17 BCE; Horace",
+   "date": "17 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Augustan reform of the Secular Games",
+   "note": "Diana's daytime prominence replaces the older Dis-Proserpina focus in the surviving ritual record.",
+   "source": "Acta of 17 BCE; Horace",
+   "date": "17 BCE",
+   "tier": "attested"
+  }
+ ]
+}

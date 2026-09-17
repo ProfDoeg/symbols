@@ -1,0 +1,379 @@
+{
+ "subject": "hypnos",
+ "relations": [
+  {
+   "other": "Somnus",
+   "other_aliases": [
+    "Sopor",
+    "Hypnus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman poets identify Hypnos with the personified Latin god Somnus.",
+   "source": "Greek and Roman literary tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx bears Hypnos without union with a male.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "rescued_by",
+   "myth": "Hypnos takes refuge from Zeus",
+   "note": "Nyx protects Hypnos when Zeus angrily pursues him.",
+   "source": "Homer, Iliad 14.256–261",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hypnos and Thanatos are brothers, explicitly called twins by Homer.",
+   "source": "Homer, Iliad 16.671–683",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "allied",
+   "myth": "Transport of Sarpedon",
+   "note": "The twins carry Sarpedon’s body from Troy to Lycia.",
+   "source": "Homer, Iliad 16.671–683",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Oneiroi",
+   "other_aliases": [
+    "the Dreams"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nyx bears Hypnos and the tribe of Dreams without a father.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "allied",
+   "myth": "First conspiracy against Zeus",
+   "note": "Hypnos sleeps Zeus so Hera can persecute the homeward-bound Heracles.",
+   "source": "Homer, Iliad 14.249–261",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "allied",
+   "myth": "Deception of Zeus",
+   "note": "Hypnos accepts Hera’s bargain and sleeps Zeus during her seduction.",
+   "source": "Homer, Iliad 14.231–362",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "Dream of Ceyx",
+   "note": "Somnus fulfills Juno’s commission by dispatching Morpheus to Alcyone.",
+   "source": "Ovid, Metamorphoses 11.583–673",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Storm-driven voyage to Cos",
+   "note": "Sleeping Zeus indirectly enables Hera to drive Heracles toward Cos.",
+   "source": "Homer, Iliad 14.249–261",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "First conspiracy against Zeus",
+   "note": "Hypnos overcomes Zeus with sleep while Hera attacks Heracles.",
+   "source": "Homer, Iliad 14.249–261",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Zeus pursues Hypnos",
+   "note": "Zeus angrily hunts Hypnos, who escapes punishment through Nyx’s protection.",
+   "source": "Homer, Iliad 14.256–261",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deception of Zeus",
+   "note": "Hypnos subdues Zeus after Hera seduces him on Ida.",
+   "source": "Homer, Iliad 14.352–362",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Mulciber",
+    "Vulcan"
+   ],
+   "kind": "gift",
+   "myth": "Hera’s bribery of Hypnos",
+   "note": "Hypnos refuses Hera’s offer of a throne and footstool made by Hephaestus.",
+   "source": "Homer, Iliad 14.238–246",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Mulciber",
+    "Vulcan"
+   ],
+   "kind": "other",
+   "myth": "House of Sleep",
+   "note": "Mulciber fashions images of Somnus displayed within the House of Sleep.",
+   "source": "Statius, Thebaid 10",
+   "date": "c. 90 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pasithea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Hera’s bribery of Hypnos",
+   "note": "Hera promises the desired Pasithea to Hypnos as his wife.",
+   "source": "Homer, Iliad 14.267–280",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera’s oath",
+   "note": "Hypnos requires Hera to swear by Styx before accepting Pasithea.",
+   "source": "Homer, Iliad 14.271–279",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Deception of Zeus",
+   "note": "Hypnos tells Poseidon that Zeus sleeps and urges aid for the Achaeans.",
+   "source": "Homer, Iliad 14.352–362",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Transport of Sarpedon",
+   "note": "Apollo prepares Sarpedon’s corpse before entrusting it to Hypnos and Thanatos.",
+   "source": "Homer, Iliad 16.666–683",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Transport of Sarpedon",
+   "note": "Hermes supervises or accompanies Hypnos and Thanatos carrying Sarpedon.",
+   "source": "Euphronios krater",
+   "date": "c. 515 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oneiros",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lulling the lion",
+   "note": "Oneiros and Hypnos Epidotēs jointly put a lion to sleep.",
+   "source": "Pausanias 2.10.2",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Troezenian joint worship",
+   "note": "Troezenians sacrifice jointly to Hypnos and the Muses, who cherish him.",
+   "source": "Pausanias 2.31.3",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Endymion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hypnos and Endymion",
+   "note": "Hypnos loves Endymion and keeps his eyes open during sleep.",
+   "source": "Athenaeus 13.564c",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lethe",
+   "other_aliases": [
+    "Oblivion"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The hymn names Lethe as Hypnos’s sister.",
+   "source": "Orphic Hymn 85",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dream of Ceyx",
+   "note": "Iris enters Somnus’s cave and delivers Juno’s command.",
+   "source": "Ovid, Metamorphoses 11.585–632",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Morpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ovid makes Morpheus one of Somnus’s thousand dream-children.",
+   "source": "Ovid, Metamorphoses 11.633–649",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Morpheus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Dream of Ceyx",
+   "note": "Somnus commands Morpheus to assume Ceyx’s form and visit Alcyone.",
+   "source": "Ovid, Metamorphoses 11.633–673",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icelos/Phobetor",
+   "other_aliases": [
+    "Icelos",
+    "Phobetor"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ovid names Icelos, called Phobetor by mortals, among Somnus’s dream-sons.",
+   "source": "Ovid, Metamorphoses 11.638–645",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phantasos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ovid names the inanimate-form dream Phantasos as Somnus’s son.",
+   "source": "Ovid, Metamorphoses 11.642–645",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Colchian dragon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Sleeping the Colchian dragon",
+   "note": "Invoked by Medea, Somnus overcomes the dragon guarding the Golden Fleece.",
+   "source": "Valerius Flaccus, Argonautica 8",
+   "date": "c. 70–90 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Courtship of Pasithea",
+   "note": "Aphrodite discusses dark Hypnos’s courtship with Pasithea.",
+   "source": "Nonnus, Dionysiaca 33.4–25",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Erotes",
+   "other_aliases": [
+    "the Loves"
+   ],
+   "kind": "served",
+   "myth": "Renewed seduction of Zeus",
+   "note": "Nonnus describes Hypnos as a servant or attendant of the Loves.",
+   "source": "Nonnus, Dionysiaca 32",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indian war",
+   "note": "Hypnos’s sleep-working aids Dionysus during the Indian war.",
+   "source": "Nonnus, Dionysiaca 15, 31–35",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Megaera",
+   "other_aliases": [
+    "Erinys Megaera"
+   ],
+   "kind": "allied",
+   "myth": "Madness of Dionysus",
+   "note": "Hypnos keeps Zeus asleep while Hera deploys Megaera against Dionysus.",
+   "source": "Nonnus, Dionysiaca 31–35",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

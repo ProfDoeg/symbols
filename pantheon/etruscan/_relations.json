@@ -1,0 +1,2168 @@
+{
+ "folder": "etruscan",
+ "gods": [
+  "aita",
+  "charun",
+  "fufluns",
+  "menrva",
+  "sethlans",
+  "tages",
+  "tinia",
+  "turan",
+  "turms",
+  "uni",
+  "vanth",
+  "voltumna"
+ ],
+ "relations": [
+  {
+   "a": "aita",
+   "b": "turms",
+   "kind": "served_by",
+   "myth": "Turms escorts Teiresias before Odysseus",
+   "note": "The chthonic Turms operates under Aita’s jurisdiction, although Aita is absent.",
+   "source": "Vulci engraved mirror",
+   "date": "late fifth–early fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "aita"
+   ]
+  },
+  {
+   "a": "aita",
+   "b": "turms",
+   "kind": "served_by",
+   "myth": "",
+   "note": "The title Turmś Aitaś associates Turms functionally with Aita's underworld realm.",
+   "source": "Turmś Aitaś mirror",
+   "date": "fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "aita",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "Abduction or return of Phersipnai",
+   "note": "Turms appears near Aita in imagery concerning movement through the underworld.",
+   "source": "Vulci stamnos and funerary imagery",
+   "date": "later Etruscan period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "aita",
+   "b": "vanth",
+   "kind": "served_by",
+   "myth": "Abduction of Phersipnai",
+   "note": "Probable Vanth-like winged death demons attend Aita’s abduction journey.",
+   "source": "Volterran cinerary urn reliefs",
+   "date": "chiefly second century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "aita"
+   ]
+  },
+  {
+   "a": "charun",
+   "b": "vanth",
+   "kind": "allied",
+   "myth": "Funerary journey of the deceased",
+   "note": "Charun and Vanth jointly escort deceased persons in funerary processions.",
+   "source": "Etruscan sarcophagi and urns",
+   "date": "third–second centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "charun"
+   ]
+  },
+  {
+   "a": "charun",
+   "b": "vanth",
+   "kind": "allied",
+   "myth": "Guardians at the tomb doorway",
+   "note": "Torch-bearing Vanth and hammer-bearing Charun flank a false tomb door.",
+   "source": "Tomb of the Anina paintings",
+   "date": "late fourth/third century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "vanth"
+   ]
+  },
+  {
+   "a": "charun",
+   "b": "vanth",
+   "kind": "shared_myth",
+   "myth": "Achilles sacrifices Trojan prisoners",
+   "note": "Charun and Vanth attend Achilles’ killing of captives at Patroclus’ tomb.",
+   "source": "François Tomb, Vulci",
+   "date": "ca. 340–320 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "charun"
+   ]
+  },
+  {
+   "a": "charun",
+   "b": "vanth",
+   "kind": "shared_myth",
+   "myth": "Guardians at the tomb entrance",
+   "note": "Named Charun and Vanth stand on opposite sides of the entrance.",
+   "source": "Anina family tomb, Tarquinia",
+   "date": "early third century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "charun"
+   ]
+  },
+  {
+   "a": "charun",
+   "b": "vanth",
+   "kind": "shared_myth",
+   "myth": "Sacrifice of Trojan captives for Patroclus",
+   "note": "Vanth and Charun jointly attend Achilles’ sacrifice of Trojan captives.",
+   "source": "François Tomb paintings, Vulci",
+   "date": "last quarter fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "vanth"
+   ]
+  },
+  {
+   "a": "fufluns",
+   "b": "menrva",
+   "kind": "shared_myth",
+   "myth": "Artamis carries Esia before Fuflunus",
+   "note": "Menarva and Fuflunus observe Artamis carrying or seizing Esia.",
+   "source": "Bologna and Praenestine mirrors",
+   "date": "about 475–350 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "fufluns"
+   ]
+  },
+  {
+   "a": "fufluns",
+   "b": "sethlans",
+   "kind": "allied",
+   "myth": "Return to the divine assembly",
+   "note": "Fufluns mediates Sethlans's return or admission to the divine company.",
+   "source": "Berlin mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "sethlans"
+   ]
+  },
+  {
+   "a": "fufluns",
+   "b": "tinia",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tinia is reconstructed as Fufluns’s father by transferring the Zeus–Semele genealogy.",
+   "source": "Dionysian genealogy and unlabelled mirror",
+   "date": "date not specified",
+   "tier": "modern",
+   "stated_by": [
+    "fufluns"
+   ]
+  },
+  {
+   "a": "fufluns",
+   "b": "turms",
+   "kind": "other",
+   "myth": "Infant Fufluns",
+   "note": "Turms carries, receives, or delivers the infant Fufluns to his carers.",
+   "source": "Etruscan mirrors",
+   "date": "later Etruscan period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "sethlans",
+   "kind": "other",
+   "myth": "Birth of Menrva from Tinia’s head",
+   "note": "Sethlans observes or facilitates the birth with an axe or implement.",
+   "source": "Related Etruscan birth mirrors",
+   "date": "fourth century BCE",
+   "tier": "syncretism",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "sethlans",
+   "kind": "other",
+   "myth": "Birth of Menrva",
+   "note": "Sethlans assists when Menrva emerges from Tinia's head.",
+   "source": "Inscribed Arezzo mirror",
+   "date": "fourth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "sethlans"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "tinia",
+   "kind": "child_of",
+   "myth": "Birth of Menrva from Tinia’s head",
+   "note": "Menrva emerges fully armed from Tinia’s skull.",
+   "source": "British Museum mirror 1856,1213.4",
+   "date": "350–300 BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "menrva",
+    "tinia"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "tinia",
+   "kind": "shared_myth",
+   "myth": "Assisted head-birth at Palestrina",
+   "note": "Tinia gives birth to Menrva while Thanr and Ethausva assist.",
+   "source": "British Museum mirror 1873,0820.103",
+   "date": "350–300 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "tinia",
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Menrva attends with Tinia as Hercle becomes the son of Uni.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Menrva competes against Turan and Uni for Elcsntre’s judgment.",
+   "source": "Etruscan Judgment of Paris mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "menrva",
+    "turan"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Menrva and the Maris children",
+   "note": "Turan attends Menrva, Laran, and the divine carers of Maris children.",
+   "source": "British Museum mirror 1868,0606.1",
+   "date": "330–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Hercle and Epiur presentation",
+   "note": "Turan attends Menrva, Hercle, Epiur, and Mean during the presentation.",
+   "source": "Berlin mirror",
+   "date": "about 350 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Divine colloquy before an architectural setting",
+   "note": "Turan appears with Menrva, Aplu, and Laran in an unexplained scene.",
+   "source": "Etruscan divine-colloquy mirror",
+   "date": "300–270 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Presentation of the Mariś infants",
+   "note": "Turan watches while Menrva holds the infant Mariś Husrnana.",
+   "source": "British Museum 1868,0606.1",
+   "date": "330–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turan"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Turan and Atunis embrace",
+   "note": "Menrva witnesses an embrace between Turan and Atunis.",
+   "source": "Etruscan engraved mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turan"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turms",
+   "kind": "other",
+   "myth": "Menrva and the Maris children",
+   "note": "Turms carries one Maris child while Menrva holds another.",
+   "source": "British Museum mirror 1868,0606.1",
+   "date": "330–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turms",
+   "kind": "other",
+   "myth": "Judgment of Paris",
+   "note": "Turms conducts Menrva with Uni and Turan to the judgment.",
+   "source": "Boccanera plaques and mirrors",
+   "date": "about 560–550 BCE onward",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "Oracular-head scene",
+   "note": "Turms appears with Menrva, Aplu, Umalee, and a speaking head.",
+   "source": "Oracular-head mirror",
+   "date": "later Etruscan period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "Perseus and Medusa",
+   "note": "Turms sits beside Menrva as she displays or holds Medusa's head.",
+   "source": "Menerva–Pherse–Turms mirror",
+   "date": "about 400–350 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "The Maris infants",
+   "note": "Menrva and Turms each hold infants bearing forms of the name Maris.",
+   "source": "Bolsena mirror",
+   "date": "about 330–300 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "uni",
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Uni and Menrva are rival contestants before Elcsntre.",
+   "source": "Etruscan Judgment of Paris mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "uni",
+   "kind": "contest",
+   "myth": "Judgment of Elcsntre",
+   "note": "Uni and Menrva compete with Turan before Elcsntre.",
+   "source": "Inscribed Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "uni",
+   "kind": "fought",
+   "myth": "Uni’s confrontation with Hercle",
+   "note": "Menrva supports Hercle against Uni while Tinia supports Uni.",
+   "source": "Pontic amphora",
+   "date": "late sixth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva from Tinia’s head",
+   "note": "Uni witnesses Menrva’s emergence but is not explicitly her mother.",
+   "source": "British Museum mirror 1856,1213.4",
+   "date": "350–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "menrva"
+   ]
+  },
+  {
+   "a": "menrva",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Uni witnesses Menrva springing armed from Tinia’s head.",
+   "source": "Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "sethlans",
+   "b": "tinia",
+   "kind": "other",
+   "myth": "Birth of Menrva",
+   "note": "Sethlans stands beside Tinia, apparently prepared to open his head.",
+   "source": "Inscribed Arezzo mirror",
+   "date": "fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "sethlans"
+   ]
+  },
+  {
+   "a": "sethlans",
+   "b": "tinia",
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Sethlans stands with an axe, corresponding to Hephaestus in the Greek version.",
+   "source": "Etruscan engraved mirrors",
+   "date": "Fourth century BCE",
+   "tier": "syncretism",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "sethlans",
+   "b": "uni",
+   "kind": "rescued",
+   "myth": "Binding and liberation of Uni",
+   "note": "Sethlans approaches the immobilized Uni to release or aid her.",
+   "source": "Inscribed Dresden mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sethlans"
+   ]
+  },
+  {
+   "a": "tages",
+   "b": "tinia",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tages is Jupiter’s grandson; identification with Tinia is probable but unconfirmed.",
+   "source": "Festus 359; Bern scholia on Lucan",
+   "date": "early imperial and later scholia",
+   "tier": "canonical",
+   "stated_by": [
+    "tages"
+   ]
+  },
+  {
+   "a": "tages",
+   "b": "voltumna",
+   "kind": "shared_myth",
+   "myth": "Revelation of the Etruscan discipline",
+   "note": "Veltune stands armed beside Tages during the revelation of haruspicy.",
+   "source": "Tuscania mirror, ET AT S.11",
+   "date": "c. 330–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "voltumna"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "turan",
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Turan attends with Tinia during Hercle’s adoption through Uni’s nursing.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "turms",
+   "kind": "served_by",
+   "myth": "Turms before the seated Tinia",
+   "note": "Turms stands before Tinia in an apparent heraldic audience.",
+   "source": "Late-fourth-century BCE mirror",
+   "date": "late fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "turms",
+   "kind": "served_by",
+   "myth": "Reconciliation of Hercle and Apulu",
+   "note": "Turms acts under Tinia's authority to mediate the conflict.",
+   "source": "Portonaccio roof terracottas",
+   "date": "about 510–490 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "Unidentified divine consultation",
+   "note": "Turms accompanies Tinia and sometimes touches his shoulder in an unexplained scene.",
+   "source": "Orvieto/Settecamini mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "uni",
+   "kind": "allied",
+   "myth": "Uni confronts Hercle",
+   "note": "Tinia stands behind Uni while Menrva supports Hercle.",
+   "source": "Pontic amphora",
+   "date": "c. 540–520 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "uni",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later accounts and paired images treat Uni as Tinia’s divine consort.",
+   "source": "Later accounts and Etruscan images",
+   "date": "Later Etruscan period",
+   "tier": "canonical",
+   "stated_by": [
+    "tinia",
+    "uni"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Uni appears beside Tinia during Menrva’s birth in the mirror tradition.",
+   "source": "Etruscan engraved mirrors",
+   "date": "Fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption through Uni’s nursing",
+   "note": "Tinia presides while Uni nurses Hercle and makes him her son.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tinia"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption by Uni",
+   "note": "Tinia points to the inscribed tablet authorizing or explaining Hercle’s adoption.",
+   "source": "Inscribed Volterra mirror",
+   "date": "fourth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "tinia",
+   "b": "voltumna",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some scholarship identifies Voltumna as Tinia’s title or local manifestation, but the equation remains contested.",
+   "source": "Modern interpretation of sanctuary evidence",
+   "date": "Modern scholarship",
+   "tier": "modern",
+   "stated_by": [
+    "tinia",
+    "voltumna"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "turms",
+   "kind": "other",
+   "myth": "Judgment of Paris",
+   "note": "Turms conducts Turan with Uni and Menrva to the judgment.",
+   "source": "Boccanera plaques and mirrors",
+   "date": "about 560–550 BCE onward",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "Presentation of the Mariś infants",
+   "note": "Turan and Turms co-attend the episode while Turms holds an infant Mariś.",
+   "source": "British Museum 1868,0606.1",
+   "date": "330–300 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "turan"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "turms",
+   "kind": "shared_myth",
+   "myth": "The Maris infants",
+   "note": "Turan attends while Turms and other deities hold the Maris infants.",
+   "source": "Bolsena mirror",
+   "date": "about 330–300 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "uni",
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Turan competes with Uni and Menrva before Paris.",
+   "source": "Etruscan Judgment mirrors",
+   "date": "fourth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "turan"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "uni",
+   "kind": "contest",
+   "myth": "Judgment of Elcsntre",
+   "note": "Uni, Menrva, and Turan compete before Elcsntre.",
+   "source": "Inscribed Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "turan",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Aftermath of Elcsntre’s judgment",
+   "note": "In some post-judgment scenes Uni and Menrva attend or honor Turan.",
+   "source": "Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "uni"
+   ]
+  },
+  {
+   "a": "turms",
+   "b": "uni",
+   "kind": "other",
+   "myth": "Judgment of Paris",
+   "note": "Turms conducts Uni with Menrva and Turan to the judgment.",
+   "source": "Boccanera plaques and mirrors",
+   "date": "about 560–550 BCE onward",
+   "tier": "attested",
+   "stated_by": [
+    "turms"
+   ]
+  },
+  {
+   "a": "turms",
+   "b": "uni",
+   "kind": "shared_myth",
+   "myth": "Judgment of Elcsntre",
+   "note": "Turms sometimes leads Uni and the other goddesses or mediates their encounter.",
+   "source": "Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "uni"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Acheron": [
+   {
+    "stated_by": "charun",
+    "kind": "allied",
+    "myth": "Alcestis intervenes for Admetus",
+    "note": "Alternatively, Charun’s fellow demon coming for Admetus is identified as Acheron.",
+    "source": "BnF De Ridder 918",
+    "date": "ca. 350–340 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Achilles": [
+   {
+    "stated_by": "charun",
+    "kind": "shared_myth",
+    "myth": "Achilles sacrifices Trojan prisoners",
+    "note": "Charun witnesses Achilles killing Trojan captives at Patroclus’ tomb.",
+    "source": "François Tomb, Vulci",
+    "date": "ca. 340–320 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Sacrifice of Trojan captives for Patroclus",
+    "note": "Vanth witnesses Achilles cutting a Trojan captive’s throat during the funeral sacrifice.",
+    "source": "François Tomb paintings, Vulci",
+    "date": "last quarter fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Achle": [
+   {
+    "stated_by": "tinia",
+    "kind": "judged",
+    "myth": "Judgment over Memnun and Achle",
+    "note": "Tinia acts as arbiter of the fixed destiny governing Achle’s conflict.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth–third century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Achviz": [
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Turan and Atunis",
+    "note": "Achviz attends the lovers, sometimes carrying an alabastron.",
+    "source": "Etruscan engraved mirrors",
+    "date": "fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Admetus": [
+   {
+    "stated_by": "charun",
+    "kind": "other",
+    "myth": "Alcestis intervenes for Admetus",
+    "note": "Charun comes for Admetus while Alcestis intervenes on her husband’s behalf.",
+    "source": "BnF De Ridder 918",
+    "date": "ca. 350–340 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ajax": [
+   {
+    "stated_by": "charun",
+    "kind": "shared_myth",
+    "myth": "Ajax sacrifices a Trojan prisoner",
+    "note": "Charun stands present while Ajax kills or prepares to kill a captive.",
+    "source": "BnF De Ridder 920",
+    "date": "ca. 350–330 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Alcestis": [
+   {
+    "stated_by": "charun",
+    "kind": "other",
+    "myth": "Alcestis intervenes for Admetus",
+    "note": "Alcestis embraces Admetus or interposes herself between him and Charun.",
+    "source": "BnF De Ridder 918",
+    "date": "ca. 350–340 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Alpan": [
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Turan and Atunis",
+    "note": "Alpan appears as a winged attendant in the Turan–Atunis assemblage.",
+    "source": "Later Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Amamtunia": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Menrva and the Maris children",
+    "note": "Amamtunia carries a Maris child beside Menrva in the Bolsena scene.",
+    "source": "British Museum mirror 1868,0606.1",
+    "date": "330–300 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Presentation of the Mariś infants",
+    "note": "Turan and Amamtunia co-attend the episode while Amamtunia holds another Mariś.",
+    "source": "British Museum 1868,0606.1",
+    "date": "330–300 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "shared_myth",
+    "myth": "The Maris infants",
+    "note": "Turms and Amamtunia flank the scene, each holding an infant Maris.",
+    "source": "Bolsena mirror",
+    "date": "about 330–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Amazons": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Amazonomachy",
+    "note": "A probable Vanth-type figure attends the deadly battle between Amazons and Greeks.",
+    "source": "Alabaster funerary urn",
+    "date": "second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aminth": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Aminth presents a patera over Eiasun",
+    "note": "The winged love figure gestures with a patera during Eiasun’s supplication of Fufluns.",
+    "source": "Bolsena mirror",
+    "date": "about 300–275 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Apa": [
+   {
+    "stated_by": "tinia",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Van der Meer interprets Apa as a hypostasis of infernal Tinia at Campo della Fiera.",
+    "source": "Campo della Fiera interpretation",
+    "date": "Modern scholarship",
+    "tier": "modern"
+   }
+  ],
+  "Aphrodite Ourania": [
+   {
+    "stated_by": "turan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Clackson hypothetically derives Turan’s name from Aphrodite’s epithet Ourania.",
+    "source": "Clackson, Etruscan Turms and Turan",
+    "date": "2021",
+    "tier": "modern"
+   }
+  ],
+  "Aplu": [
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Unidentified divine consultation",
+    "note": "Aplu appears with Tinia and Turms in a consultation scene whose myth is lost.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Apulu": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Fufluns embraces Semla beside Apulu",
+    "note": "Apulu stands beside Fufluns and Semla; a later label also couples their names.",
+    "source": "Vulci mirror and Perugia label",
+    "date": "fourth century BCE and later",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sethlans",
+    "kind": "shared_myth",
+    "myth": "Return to the divine assembly",
+    "note": "Apulu attends the divine assembly scene marking Sethlans's return or entrance.",
+    "source": "Berlin mirror",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "other",
+    "myth": "Reconciliation of Hercle and Apulu",
+    "note": "Turms intervenes between Apulu and Hercle during their struggle over the hind.",
+    "source": "Portonaccio roof terracottas",
+    "date": "about 510–490 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Athrpa": [
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Fate presides over the lovers",
+    "note": "Athrpa presides over a grave Turan–Atunis scene while holding a hammer.",
+    "source": "Turan–Atunis Fate mirror",
+    "date": "c. 320 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Bacitis": [
+   {
+    "stated_by": "tages",
+    "kind": "other",
+    "myth": "Tagetic and Bacitic disciplines paired",
+    "note": "Labeo reportedly treated their disciplines together, without narrating a personal encounter.",
+    "source": "Fulgentius, Expositio sermonum antiquorum 4.48",
+    "date": "fifth–sixth century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Calu": [
+   {
+    "stated_by": "aita",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars compare or equate Aita with the older wolf-associated death god.",
+    "source": "Modern scholarly reconstruction",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "served",
+    "myth": "Paired celestial and infernal messengers",
+    "note": "An infernal Turms figure is interpreted as mediating in Calu-Aita's sphere.",
+    "source": "Spina bronze handle",
+    "date": "fourth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Castur": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Castur attends Eiasun’s supplication",
+    "note": "Castur attends the scene in which Eiasun clasps Fufluns’s leg.",
+    "source": "Bolsena mirror",
+    "date": "about 300–275 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Castur is identified epigraphically as one of the sons of Tinia.",
+    "source": "Tinas cliniiar inscription",
+    "date": "Late sixth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Catha": [
+   {
+    "stated_by": "fufluns",
+    "kind": "other",
+    "myth": "",
+    "note": "Catha occupies an adjoining divine sector; a paired cosmic relationship is scholarly inference.",
+    "source": "Piacenza Liver",
+    "date": "late second–early first century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Cilen": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Bolsena antefix accompaniment",
+    "note": "Cilen accompanies a Menrva figure; the identity and action remain uncertain.",
+    "source": "Bolsena antefix",
+    "date": "late third–early second BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Cilens": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "",
+    "note": "Cilens shares Tinia’s marginal sector in the Piacenza liver’s cosmological arrangement.",
+    "source": "Piacenza liver",
+    "date": "Late second–first century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Culsu": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Underworld farewell procession",
+    "note": "Separately labeled Vanth and Culsu attend a procession near an underworld gate.",
+    "source": "Sarcophagus of Hasti Afunei",
+    "date": "final quarter third century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Dii superiores et involuti": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "Consultation before the third thunderbolt",
+    "note": "Tinia consults hidden superior gods before releasing the destructive third thunderbolt.",
+    "source": "Seneca, Natural Questions 2.41",
+    "date": "First century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Eiasun": [
+   {
+    "stated_by": "fufluns",
+    "kind": "other",
+    "myth": "Eiasun supplicates Fufluns",
+    "note": "Eiasun kneels and clasps Fufluns’s leg in an otherwise unknown local narrative.",
+    "source": "Bolsena mirror",
+    "date": "about 300–275 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Elcsntre": [
+   {
+    "stated_by": "menrva",
+    "kind": "judged_by",
+    "myth": "Judgment of Paris",
+    "note": "Elcsntre judges Menrva alongside Uni and Turan.",
+    "source": "Etruscan Judgment of Paris mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "uni",
+    "kind": "judged_by",
+    "myth": "Judgment of Elcsntre",
+    "note": "Elcsntre judges the competition among Uni, Menrva, and Turan.",
+    "source": "Inscribed Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Epiur": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Presentation of Epiur",
+    "note": "Hercle lifts or presents Epiur before Menrva; genealogy remains uncertain.",
+    "source": "Berlin and related mirrors",
+    "date": "fifth–fourth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Presentation of Epiur",
+    "note": "The child Epiur is presented to Tinia by Hercle.",
+    "source": "Etruscan engraved mirror",
+    "date": "Mid-to-late fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Esia": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Artamis carries Esia before Fuflunus",
+    "note": "Fuflunus witnesses Artamis carrying Esia, whose identity and fate remain disputed.",
+    "source": "Bologna and Praenestine mirrors",
+    "date": "about 475–350 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Eteocles": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Mutual killing of the Theban brothers",
+    "note": "Vanth occupies the central space as Eteocles and Polynices kill one another.",
+    "source": "Hellenistic Chiusi and Volterra urns",
+    "date": "third–second centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ethausva": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Assisted head-birth at Palestrina",
+    "note": "Ethausva supports emerging Menrva or tends Tinia’s head.",
+    "source": "British Museum mirror 1873,0820.103",
+    "date": "350–300 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva",
+    "note": "Ethausva attends Tinia during Menrva’s birth; her precise role is obscure.",
+    "source": "British Museum mirror 1873,0820.103",
+    "date": "350–300 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Greeks": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Amazonomachy",
+    "note": "A probable Vanth-type figure attends the deadly battle between Greeks and Amazons.",
+    "source": "Alabaster funerary urn",
+    "date": "second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Helen": [
+   {
+    "stated_by": "turan",
+    "kind": "allied",
+    "myth": "Turan directs Helen toward Paris",
+    "note": "Turan touches, presents, or directs Helen toward Paris.",
+    "source": "Praeneste and Met mirrors",
+    "date": "fifth–fourth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hephaistos": [
+   {
+    "stated_by": "sethlans",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Etruscan artists label Sethlans in recognizable scenes adapted from Hephaistos myths.",
+    "source": "Inscribed Etruscan mirrors",
+    "date": "fourth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Hercle": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Hercle awaits Fufluns’s divination",
+    "note": "Hercle sits with his club, awaiting or witnessing the possible divinatory rite.",
+    "source": "Castelgiorgio mirror",
+    "date": "about 325–300 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Hercle’s adoption into the divine family",
+    "note": "Tinia witnesses or authorizes Hercle’s admission into Uni’s divine household.",
+    "source": "Volterra mirror",
+    "date": "Fourth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Presentation of Epiur",
+    "note": "Hercle presents the child Epiur to Tinia in an unexplained divine scene.",
+    "source": "Etruscan engraved mirror",
+    "date": "Mid-to-late fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "other",
+    "myth": "Reconciliation of Hercle and Apulu",
+    "note": "Turms mediates between Hercle and Apulu in their contest for the hind.",
+    "source": "Portonaccio roof terracottas",
+    "date": "about 510–490 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hermione": [
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Paris approaches Helen",
+    "note": "Turan presides as Paris approaches Helen, who lies beside Hermione.",
+    "source": "Praeneste mirror",
+    "date": "fifth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hinthial Teraśiaś": [
+   {
+    "stated_by": "turms",
+    "kind": "other",
+    "myth": "Odysseus consults Tiresias",
+    "note": "Turmś Aitaś accompanies Tiresias's shade and enables communication across the life-death boundary.",
+    "source": "Turmś Aitaś mirror",
+    "date": "fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Hydra": [
+   {
+    "stated_by": "aita",
+    "kind": "shared_myth",
+    "myth": "Underworld assembly",
+    "note": "The Hydra appears among monsters in Aita’s underworld without a discrete exchange.",
+    "source": "Tomb of Orcus II paintings",
+    "date": "late fourth–second century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Laran": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Laran accompanies the supported Fufluns",
+    "note": "Laran appears with a drunken or supported Fufluns, Śeθlans, and Mariś.",
+    "source": "Etruscan mirror",
+    "date": "third century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva",
+    "note": "Laran attends Menrva’s birth in a fuller mirror composition.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Probable prophetic encounter",
+    "note": "Laran may be the youthful armed listener during Tinia’s encounter with Lur.",
+    "source": "Engraved mirror interpreted by de Grummond",
+    "date": "Fourth–third century BCE",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Unidentified divine consultation",
+    "note": "Laran appears with youthful Tinia and Turms in a scene of unknown narrative.",
+    "source": "Orvieto/Settecamini mirror",
+    "date": "Fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Presentation of the Mariś infants",
+    "note": "Turan and Laran stand together observing the infant-centered Mariś episode.",
+    "source": "British Museum 1868,0606.1",
+    "date": "330–300 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "shared_myth",
+    "myth": "The Maris infants",
+    "note": "Laran attends the scene while Turms holds one infant Maris.",
+    "source": "Bolsena mirror",
+    "date": "about 330–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Leucothea": [
+   {
+    "stated_by": "uni",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Greek tradition applies Leucothea’s name to Pyrgi’s female divinity or sanctuary.",
+    "source": "Greek literary tradition on Pyrgi",
+    "date": "classical antiquity",
+    "tier": "syncretism"
+   }
+  ],
+  "Liber": [
+   {
+    "stated_by": "fufluns",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Roman and late-antique interpretation equated Fufluns with Liber without proving primordial identity.",
+    "source": "Martianus Capella, De nuptiis 1.45–61",
+    "date": "fifth century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Lur": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "Probable prophetic encounter",
+    "note": "Tinia may elicit or receive a prophecy from Lur or an oracular head.",
+    "source": "Engraved mirror interpreted by de Grummond",
+    "date": "Fourth–third century BCE",
+    "tier": "modern"
+   }
+  ],
+  "Mae": [
+   {
+    "stated_by": "uni",
+    "kind": "other",
+    "myth": "",
+    "note": "Uni and Mae share one celestial compartment, but no action between them is stated.",
+    "source": "Piacenza liver",
+    "date": "c. 150–100 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mantus": [
+   {
+    "stated_by": "aita",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Mantus is comparatively or syncretistically identified with Aita, not securely equated.",
+    "source": "Comparative scholarship",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Maris": [
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva",
+    "note": "One or more Maris figures attend Menrva’s birth in an expanded composition.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "other",
+    "myth": "The Maris infants",
+    "note": "Turms physically holds and guards one infant labeled Maris.",
+    "source": "Bolsena mirror",
+    "date": "about 330–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Maris Halna": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Menrva and the Maris children",
+    "note": "Menrva shares divine care of Maris Halna and other Maris children.",
+    "source": "Bolsena and related Berlin mirrors",
+    "date": "late fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Maris Husrnana": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Menrva and the Maris children",
+    "note": "Menrva holds or assists him during a vessel-centered child-care ritual.",
+    "source": "British Museum mirror 1868,0606.1",
+    "date": "330–300 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turms",
+    "kind": "shared_myth",
+    "myth": "The Maris infants",
+    "note": "Turms holds another Maris infant while Menrva holds Maris Husrnana.",
+    "source": "Bolsena mirror",
+    "date": "about 330–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Maris Tiusta": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva from Tinia’s head",
+    "note": "The disputed bearded Maris Tiusta attends Menrva’s birth.",
+    "source": "British Museum mirror 1856,1213.4",
+    "date": "350–300 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mariś Husrnana": [
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Presentation of the Mariś infants",
+    "note": "Turan attends while Menrva holds Mariś Husrnana; maternity is not established.",
+    "source": "British Museum 1868,0606.1",
+    "date": "330–300 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Mean": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Hercle and Epiur presentation",
+    "note": "Mean crowns Hercle or attends the presentation alongside Menrva.",
+    "source": "Berlin mirror",
+    "date": "about 350 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Hercle’s adoption into the divine family",
+    "note": "Mean witnesses or ratifies the adoption over which Tinia presides.",
+    "source": "Volterra mirror",
+    "date": "Fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Expanded Turan imagery",
+    "note": "Mean appears as an attendant or personification within expanded Turan imagery.",
+    "source": "Later Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "uni",
+    "kind": "shared_myth",
+    "myth": "Hercle’s adoption or divine assembly",
+    "note": "Mean appears among named divine witnesses in some Uni-related mirror scenes.",
+    "source": "Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Memnun": [
+   {
+    "stated_by": "tinia",
+    "kind": "judged",
+    "myth": "Judgment over Memnun and Achle",
+    "note": "Tinia acts as arbiter of the fixed destiny leading to Memnun’s death.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth–third century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mine": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Composite Cretan cycle",
+    "note": "Mine co-appears with Menrva in a composite scene lacking explanatory text.",
+    "source": "Labeled composite Cretan mirror",
+    "date": "late Etruscan period",
+    "tier": "syncretism"
+   }
+  ],
+  "Munθuχ": [
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Expanded Turan imagery",
+    "note": "Munθuχ appears as an attendant within expanded Turan imagery.",
+    "source": "Later Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Neθuns": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "",
+    "note": "Neθuns shares an interior liver field with Tinia; their association is unexplained.",
+    "source": "Piacenza liver",
+    "date": "Late second–first century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Odysseus": [
+   {
+    "stated_by": "aita",
+    "kind": "shared_myth",
+    "myth": "Odysseus consults Teiresias’s shade",
+    "note": "Odysseus receives Teiresias within Aita’s implied jurisdiction; Aita remains absent.",
+    "source": "Vulci engraved mirror",
+    "date": "late fifth–early fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "vanth",
+    "kind": "rescued",
+    "myth": "Escape from Polyphemus",
+    "note": "Vanth shields Odysseus’ escape from Polyphemus’ stones with her mantle and sword.",
+    "source": "Volterran alabaster cinerary urn",
+    "date": "c. 200–50 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Panes": [
+   {
+    "stated_by": "voltumna",
+    "kind": "contest",
+    "myth": "Rival suitors of Pomona",
+    "note": "The Panes and Vertumnus are rival suitors, though no direct confrontation is narrated.",
+    "source": "Ovid, Metamorphoses 14",
+    "date": "c. 8 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Paris": [
+   {
+    "stated_by": "turan",
+    "kind": "allied",
+    "myth": "Paris approaches Helen",
+    "note": "Turan oversees or actively facilitates Paris’s approach to Helen.",
+    "source": "Praeneste and Met mirrors",
+    "date": "fifth–fourth centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "judged_by",
+    "myth": "Judgment of Paris",
+    "note": "Paris judges Turan against Uni and Menrva; Turan apparently wins.",
+    "source": "Etruscan Judgment mirrors",
+    "date": "fourth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Patroclus": [
+   {
+    "stated_by": "charun",
+    "kind": "shared_myth",
+    "myth": "Sacrifice at Patroclus’ tomb",
+    "note": "Charun attends the sacrifice performed at Patroclus’ tomb or for his shade.",
+    "source": "François Tomb, Vulci",
+    "date": "ca. 340–320 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Peirithoos": [
+   {
+    "stated_by": "aita",
+    "kind": "shared_myth",
+    "myth": "Descent of Theseus and Peirithoos",
+    "note": "Peirithoos appears as a subject or prisoner in Aita’s realm.",
+    "source": "Tomb of Orcus II paintings",
+    "date": "late fourth–second century BCE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Penthesilea": [
+   {
+    "stated_by": "charun",
+    "kind": "shared_myth",
+    "myth": "Charun encounters Amazonian shades",
+    "note": "Charun receives or confronts the shade of Penthesilea with another Amazon.",
+    "source": "BnF De Ridder 920",
+    "date": "ca. 350–330 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pherse": [
+   {
+    "stated_by": "menrva",
+    "kind": "allied",
+    "myth": "Perseus and the Medusa cycle",
+    "note": "Menrva accompanies and protects Pherse in Etruscan Medusa-cycle images.",
+    "source": "Etruscan Medusa-cycle objects",
+    "date": "later Etruscan period",
+    "tier": "syncretism"
+   }
+  ],
+  "Phersipnai": [
+   {
+    "stated_by": "turms",
+    "kind": "shared_myth",
+    "myth": "Abduction or return of Phersipnai",
+    "note": "Turms appears in infernal imagery associated with Phersipnai's movement between realms.",
+    "source": "Vulci stamnos and funerary imagery",
+    "date": "later Etruscan period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Polynices": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Mutual killing of the Theban brothers",
+    "note": "Vanth occupies the central space as Polynices and Eteocles kill one another.",
+    "source": "Hellenistic Chiusi and Volterra urns",
+    "date": "third–second centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pultuce": [
+   {
+    "stated_by": "tinia",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Pultuce is identified epigraphically as one of the sons of Tinia.",
+    "source": "Tinas cliniiar inscription",
+    "date": "Late sixth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rath": [
+   {
+    "stated_by": "turms",
+    "kind": "other",
+    "myth": "",
+    "note": "The genitives of Turms and Rath occur together on a possible joint dedication.",
+    "source": "Caere bronze weight ET Cr 4.22",
+    "date": "late fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "voltumna",
+    "kind": "shared_myth",
+    "myth": "Tuscania mirror haruspicy scene",
+    "note": "Veltune appears with a figure or location ambiguously associated with Rath.",
+    "source": "Tuscania mirror, ET AT S.11",
+    "date": "c. 330–300 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Raθlθ": [
+   {
+    "stated_by": "tages",
+    "kind": "shared_myth",
+    "myth": "Tuscania mirror liver consultation",
+    "note": "Raθlθ stands opposite Veltune during the possible Tages’ liver consultation.",
+    "source": "Tuscania bronze mirror",
+    "date": "c. 325–275 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Satyrs": [
+   {
+    "stated_by": "voltumna",
+    "kind": "contest",
+    "myth": "Rival suitors of Pomona",
+    "note": "The Satyrs and Vertumnus are rival suitors, though no direct confrontation is narrated.",
+    "source": "Ovid, Metamorphoses 14",
+    "date": "c. 8 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Selvans": [
+   {
+    "stated_by": "fufluns",
+    "kind": "other",
+    "myth": "",
+    "note": "Selvans stands beside Fufluns in the Liver’s reconstructed terrestrial divine sequence.",
+    "source": "Piacenza Liver",
+    "date": "late second–early first century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Semla": [
+   {
+    "stated_by": "fufluns",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Semla is understood as Fufluns’s mother through the adopted Dionysian genealogy.",
+    "source": "Labelled Etruscan mirrors",
+    "date": "fourth century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Fufluns embraces Semla",
+    "note": "Adult Fufluns embraces his mother; proposed resurrection interpretations remain unproved.",
+    "source": "Vulci and Chiusi mirrors",
+    "date": "fourth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "sethlans",
+    "kind": "shared_myth",
+    "myth": "Return to the divine assembly",
+    "note": "Semla attends the divine assembly scene involving Sethlans and Fufluns.",
+    "source": "Berlin mirror",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Shade of Patroclus": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Sacrifice of Trojan captives for Patroclus",
+    "note": "Vanth attends the blood sacrifice performed for the wounded shade of Patroclus.",
+    "source": "François Tomb paintings, Vulci",
+    "date": "last quarter fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Sime": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Sime witnesses Fufluns and Areatha",
+    "note": "The named satyr attends the embrace between Fufluns and Areatha.",
+    "source": "Chiusi British Museum mirror",
+    "date": "about 350–325 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Soranus": [
+   {
+    "stated_by": "aita",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Soranus is comparatively or syncretistically identified with Aita, not securely equated.",
+    "source": "Comparative scholarship",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Svutaf": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Svutaf guides Vesuna during divination",
+    "note": "Svutaf guides Vesuna’s gaze toward reflective liquid while Fufluns officiates.",
+    "source": "Castelgiorgio mirror",
+    "date": "about 325–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tarchon": [
+   {
+    "stated_by": "tages",
+    "kind": "taught",
+    "myth": "Tarchon questions the earth-born Tages",
+    "note": "Tages rebukes Tarchon’s incredulity and answers his questions about sacred doctrine.",
+    "source": "John Lydus, De ostentis 2–3",
+    "date": "sixth century CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tages",
+    "kind": "shared_myth",
+    "myth": "Tuscania mirror liver consultation",
+    "note": "The possible Tages examines a liver beside Tarchon in a disputed identification.",
+    "source": "Tuscania bronze mirror",
+    "date": "c. 325–275 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Teiresias": [
+   {
+    "stated_by": "aita",
+    "kind": "shared_myth",
+    "myth": "Turms escorts Teiresias’s shade",
+    "note": "Teiresias’s shade appears under Aita’s implied sovereignty; they do not meet.",
+    "source": "Vulci engraved mirror",
+    "date": "late fifth–early fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Thalna": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Birth of Menrva from Tinia’s head",
+    "note": "Thalna assists or attends Menrva’s birth from Tinia.",
+    "source": "Etruscan head-birth mirrors",
+    "date": "fourth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva",
+    "note": "Thalna assists Tinia during Menrva’s emergence in regional mirror versions.",
+    "source": "Arezzo and related mirrors",
+    "date": "Fourth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "other",
+    "myth": "Turan crowns Thalna",
+    "note": "Turan apparently places a crown upon Thalna.",
+    "source": "Louvre Cp 7121",
+    "date": "c. 325 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Turan and Atunis",
+    "note": "Thalna attends Turan and Atunis on related mirrors.",
+    "source": "Related Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "uni",
+    "kind": "shared_myth",
+    "myth": "Hercle’s adoption by Uni",
+    "note": "Thalna or Thanr appears among the divine witnesses in some nursing mirrors.",
+    "source": "Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Thanr": [
+   {
+    "stated_by": "menrva",
+    "kind": "other",
+    "myth": "Assisted head-birth at Palestrina",
+    "note": "Thanr participates in Menrva’s delivery from Tinia’s head.",
+    "source": "British Museum mirror 1873,0820.103",
+    "date": "350–300 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "shared_myth",
+    "myth": "Birth of Menrva",
+    "note": "Thanr assists or attends while Menrva emerges from Tinia’s head.",
+    "source": "British Museum mirror 1873,0820.103",
+    "date": "350–300 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Thesan": [
+   {
+    "stated_by": "tages",
+    "kind": "shared_myth",
+    "myth": "Dawn chariot above liver consultation",
+    "note": "A solar or dawn chariot above the scene is commonly interpreted as Thesan.",
+    "source": "Tuscania bronze mirror",
+    "date": "c. 325–275 BCE",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinia",
+    "kind": "judged",
+    "myth": "Appeal over Memnun’s destiny",
+    "note": "Thesan appeals to Tinia concerning her doomed son Memnun.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth–third century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Theseus": [
+   {
+    "stated_by": "aita",
+    "kind": "shared_myth",
+    "myth": "Descent of Theseus and Peirithoos",
+    "note": "Theseus appears as a subject or prisoner in Aita’s realm.",
+    "source": "Tomb of Orcus II paintings",
+    "date": "late fourth–second century BCE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Thethis": [
+   {
+    "stated_by": "tinia",
+    "kind": "judged",
+    "myth": "Appeal over Achle’s destiny",
+    "note": "Thethis appeals alongside Thesan while Tinia arbitrates their sons’ fixed destinies.",
+    "source": "Etruscan engraved mirror",
+    "date": "Fourth–third century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Thevrumines": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Composite Cretan cycle",
+    "note": "Menrva and the bull-human Thevrumines share a recombined Cretan mythic scene.",
+    "source": "Labeled composite Cretan mirror",
+    "date": "late Etruscan period",
+    "tier": "syncretism"
+   }
+  ],
+  "Thufltha": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "",
+    "note": "Thufltha is compounded or juxtaposed with Tinia, possibly as a punitive power.",
+    "source": "Piacenza liver",
+    "date": "Late second–first century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Troilus": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Troilus’ death",
+    "note": "Vanth holds a tall torch beside Troilus after his beheading by Achilles.",
+    "source": "Inscribed bronze mirror from Bolsena",
+    "date": "third century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Trojan captives": [
+   {
+    "stated_by": "vanth",
+    "kind": "shared_myth",
+    "myth": "Sacrifice of Trojan captives for Patroclus",
+    "note": "Vanth witnesses the captives’ ritual throat-cutting but does not kill them.",
+    "source": "François Tomb paintings, Vulci",
+    "date": "last quarter fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tuchulcha": [
+   {
+    "stated_by": "charun",
+    "kind": "allied",
+    "myth": "Alcestis intervenes for Admetus",
+    "note": "Charun and a demon possibly identified as Tuchulcha jointly come for Admetus.",
+    "source": "BnF De Ridder 918",
+    "date": "ca. 350–340 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Turnu": [
+   {
+    "stated_by": "turan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Turnu is commonly reconstructed as Turan’s son from repeated iconographic association.",
+    "source": "Turan–Turnu engraved mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "turan",
+    "kind": "allied",
+    "myth": "Turnu manipulates the iynx",
+    "note": "Turnu accompanies Turan and uses an iynx to facilitate or foretell desire.",
+    "source": "Turan–Turnu engraved mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tusna": [
+   {
+    "stated_by": "turan",
+    "kind": "shared_myth",
+    "myth": "Turan and Atunis",
+    "note": "The named swan Tusna appears beside Turan and Atunis.",
+    "source": "Labeled engraved mirror",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Twelve dii consentes": [
+   {
+    "stated_by": "tinia",
+    "kind": "other",
+    "myth": "Consultation before the second thunderbolt",
+    "note": "Tinia consults twelve gods before releasing the second, more serious thunderbolt.",
+    "source": "Seneca, Natural Questions 2.41",
+    "date": "First century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Umalee": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Oracular-head scene",
+    "note": "The uncertain Umalee appears with Menrva in an unrecoverable divinatory narrative.",
+    "source": "Oracular-head mirror",
+    "date": "later Etruscan period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vegoia": [
+   {
+    "stated_by": "tages",
+    "kind": "other",
+    "myth": "Tagetic and Vegoic books paired",
+    "note": "Their prophetic corpora are cited together as overlapping authorities without a personal encounter.",
+    "source": "Arnobius, Adversus nationes 2.69",
+    "date": "c. 300 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Vei": [
+   {
+    "stated_by": "uni",
+    "kind": "other",
+    "myth": "",
+    "note": "Vei received a distinct but complementary cult within Uni’s precinct at Kainua.",
+    "source": "Kainua archaeology and inscriptions",
+    "date": "fifth–third centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Veiovis": [
+   {
+    "stated_by": "tinia",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Roman and modern systematizations tentatively equate chthonic Tinia with Veiovis or Vedius.",
+    "source": "Roman and modern systematization",
+    "date": "Roman era–modern",
+    "tier": "modern"
+   }
+  ],
+  "Veltune": [
+   {
+    "stated_by": "tages",
+    "kind": "shared_myth",
+    "myth": "Tuscania mirror liver consultation",
+    "note": "Veltune witnesses or frames the possible Tages’ haruspical consultation.",
+    "source": "Tuscania bronze mirror",
+    "date": "c. 325–275 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Vesuna": [
+   {
+    "stated_by": "fufluns",
+    "kind": "shared_myth",
+    "myth": "Fufluns and Vesuna perform bowl divination",
+    "note": "Vesuna turns toward a vessel while Fufluns handles wine implements in a possible divination.",
+    "source": "Castelgiorgio mirror",
+    "date": "about 325–300 BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vile": [
+   {
+    "stated_by": "menrva",
+    "kind": "shared_myth",
+    "myth": "Composite Cretan cycle",
+    "note": "Vile co-appears with Menrva in the composite Cretan mirror scene.",
+    "source": "Labeled composite Cretan mirror",
+    "date": "late Etruscan period",
+    "tier": "syncretism"
+   }
+  ],
+  "Zipna": [
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Turan’s toilette",
+    "note": "Zipna attends Turan in toilette and Turan–Atunis scenes.",
+    "source": "Etruscan engraved mirrors",
+    "date": "fourth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "the Lasa figures": [
+   {
+    "stated_by": "turan",
+    "kind": "served_by",
+    "myth": "Erotic and adornment scenes",
+    "note": "Winged Lasa spirits accompany Turan’s erotic, domestic, and adornment scenes.",
+    "source": "Multiple Etruscan mirrors",
+    "date": "fourth–third centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Śeθlans": [
+   {
+    "stated_by": "fufluns",
+    "kind": "allied",
+    "myth": "Fufluns returns Śeθlans to Olympus",
+    "note": "Fufluns intoxicates and escorts the smith god back to Olympus.",
+    "source": "Chiusi Berlin mirror",
+    "date": "fourth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Śuri": [
+   {
+    "stated_by": "aita",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Aita’s equation with Śuri is a contested modern reconstruction without direct ancient testimony.",
+    "source": "Modern scholarly reconstruction",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ]
+ }
+}

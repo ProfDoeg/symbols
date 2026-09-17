@@ -1,0 +1,1013 @@
+{
+ "subject": "aphrodite",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer calls Aphrodite the daughter of Zeus and Dione.",
+   "source": "Iliad 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer identifies Dione as Aphrodite's mother.",
+   "source": "Iliad 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Foam birth",
+   "note": "Aphrodite forms around Ouranos's severed genitals in sea foam.",
+   "source": "Hesiod, Theogony 176–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Foam birth",
+   "note": "Kronos casts Ouranos's genitals into the sea, indirectly generating Aphrodite.",
+   "source": "Hesiod, Theogony 176–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "punished_by",
+   "myth": "Aphrodite and Anchises",
+   "note": "Zeus makes Aphrodite desire Anchises to punish her boasting.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment of Paris",
+   "note": "Zeus orders Aphrodite, Hera, and Athena submitted to Paris's judgment.",
+   "source": "Cypria, Proclus summary",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Aphrodite wounded",
+   "note": "Zeus comforts Aphrodite but orders her to leave warfare to others.",
+   "source": "Iliad 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Aphrodite wounded",
+   "note": "Dione receives, comforts, and heals her wounded daughter.",
+   "source": "Iliad 5.370–417",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aphrodite is Hephaestus's wife in the Odyssey's adultery song.",
+   "source": "Odyssey 8.266–366",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Ares, Hephaestus, and the net",
+   "note": "Hephaestus traps and publicly exposes Aphrodite for adultery with Ares.",
+   "source": "Odyssey 8.266–366",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "consort_of",
+   "myth": "Ares, Hephaestus, and the net",
+   "note": "Aphrodite conducts a secret affair with Ares.",
+   "source": "Odyssey 8.266–366",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "rescued_by",
+   "myth": "Aphrodite wounded",
+   "note": "Ares lends Aphrodite his chariot after Diomedes wounds her.",
+   "source": "Iliad 5.355–367",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aphrodite and Ares are parents of Harmonia.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Harmonia is the daughter of Aphrodite and Ares.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phobos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later traditions sometimes make Aphrodite mother of Phobos by Ares.",
+   "source": "later mythographic tradition",
+   "date": "classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Deimos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later traditions sometimes make Aphrodite mother of Deimos by Ares.",
+   "source": "later mythographic tradition",
+   "date": "classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Ares, Hephaestus, and the net",
+   "note": "Helios discovers Aphrodite's concealed affair and reports it to Hephaestus.",
+   "source": "Odyssey 8.266–366",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ares, Hephaestus, and the net",
+   "note": "Poseidon guarantees Ares's fine and persuades Hephaestus to release them.",
+   "source": "Odyssey 8.266–366",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rescue of Aeneas",
+   "note": "Apollo takes wounded Aeneas from Aphrodite after Diomedes attacks her.",
+   "source": "Iliad 5.431–448",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Aphrodite wounded",
+   "note": "Athena authorizes Diomedes to wound Aphrodite and later mocks her injury.",
+   "source": "Iliad 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Aphrodite competes with Athena for Paris's judgment.",
+   "source": "Iliad 24; Cypria",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Three immune goddesses",
+   "note": "Aphrodite cannot bend Athena to sexual desire.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Aphrodite competes with Hera for Paris's judgment.",
+   "source": "Iliad 24; Cypria",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "gift",
+   "myth": "Deception of Zeus",
+   "note": "Aphrodite lends Hera her girdle containing desire, persuasion, and deception.",
+   "source": "Iliad 14.188–223",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "allied",
+   "myth": "Medea's passion",
+   "note": "Aphrodite helps Hera and Athena overcome Medea by directing Eros.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Three immune goddesses",
+   "note": "Aphrodite cannot bend Artemis to sexual desire.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hippolytus and Phaedra",
+   "note": "Aphrodite destroys Artemis's devotee; Artemis promises reciprocal vengeance.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Three immune goddesses",
+   "note": "Aphrodite cannot bend Hestia to sexual desire.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "shared_myth",
+   "myth": "Foam birth",
+   "note": "Eros accompanies Aphrodite from her birth but is not her son here.",
+   "source": "Hesiod, Theogony 201–202",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later lyric, cult, and Hellenistic traditions make Eros Aphrodite's son.",
+   "source": "later lyric and cult tradition",
+   "date": "classical and Hellenistic periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "gift",
+   "myth": "Medea's passion",
+   "note": "Aphrodite bribes Eros with a golden ball to shoot Medea.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Himeros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Foam birth",
+   "note": "Himeros accompanies Aphrodite from her birth.",
+   "source": "Hesiod, Theogony 201–202",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Himeros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later genealogies recast Aphrodite's companion Himeros as her son.",
+   "source": "later genealogical tradition",
+   "date": "classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anteros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later traditions assign Anteros to Aphrodite as a son.",
+   "source": "later genealogical tradition",
+   "date": "classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pothos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later traditions assign Pothos to Aphrodite as a son.",
+   "source": "later genealogical tradition",
+   "date": "classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Judgment of Paris",
+   "note": "The Charites clothe and ornament Aphrodite for the judgment.",
+   "source": "Cypria fragment",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horai",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Judgment of Paris",
+   "note": "The Horai clothe and ornament Aphrodite for the judgment.",
+   "source": "Cypria fragment",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Peitho recurrently accompanies Aphrodite in courtship and civic concord.",
+   "source": "vase painting, inscriptions, Pausanias",
+   "date": "classical period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "contest",
+   "myth": "Adonis's divided year",
+   "note": "Persephone refuses to return Adonis after Aphrodite entrusts him to her.",
+   "source": "Pseudo-Apollodorus 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Adonis",
+   "note": "Adonis becomes Aphrodite's beautiful mortal or hero-lover.",
+   "source": "classical and Hellenistic tradition",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Adonis's infancy",
+   "note": "Aphrodite hides infant Adonis in a chest and entrusts him to Persephone.",
+   "source": "Pseudo-Apollodorus 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One variant makes Adonis the father of Priapos by Aphrodite.",
+   "source": "later variant tradition",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "fought",
+   "myth": "Death of Adonis",
+   "note": "One variant makes jealous Ares the boar that kills Aphrodite's lover.",
+   "source": "later Adonis variants",
+   "date": "classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death of Adonis",
+   "note": "One variant makes Adonis's death Apollo's retaliation against Aphrodite.",
+   "source": "later Adonis variants",
+   "date": "classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death of Adonis",
+   "note": "One variant makes Artemis or her agent responsible for Adonis's death.",
+   "source": "later Adonis variants",
+   "date": "classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later traditions make Hermes Aphrodite's lover and Hermaphroditos's father.",
+   "source": "Diodorus and mythographic traditions",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermaphroditos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermaphroditos is the child of Aphrodite and Hermes.",
+   "source": "Diodorus and mythographic traditions",
+   "date": "Hellenistic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later traditions make Dionysus Aphrodite's lover.",
+   "source": "scholia and mythographers",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Priapos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aphrodite is assigned Priapos as a son, usually by Dionysus.",
+   "source": "scholia and mythographers",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One variant names Zeus as Priapos's father by Aphrodite.",
+   "source": "later variant tradition",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later variants couple Aphrodite with Poseidon.",
+   "source": "later genealogical traditions",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eryx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A later variant makes Eryx the son of Aphrodite and Poseidon.",
+   "source": "later genealogical tradition",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Herophilos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A variant makes Herophilos the child of Aphrodite and Poseidon.",
+   "source": "later genealogical tradition",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Aphrodite and Phaethon",
+   "note": "Hesiodic tradition makes Phaethon Aphrodite's lover or abducted youth.",
+   "source": "Hesiodic fragment",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Aphrodite and Phaethon",
+   "note": "Aphrodite abducts Phaethon and appoints him keeper of her sanctuary.",
+   "source": "Hesiod, Theogony 986–991",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Boutes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A local or later tradition names Boutes as Aphrodite's lover.",
+   "source": "local and later traditions",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nerites",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A local or later tradition names Nerites as Aphrodite's lover.",
+   "source": "local and later traditions",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phaon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A local or later love tradition links Aphrodite with Phaon.",
+   "source": "local and later traditions",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Aphrodite and Anchises",
+   "note": "Disguised as a Phrygian princess, Aphrodite seduces Anchises.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Aphrodite and Anchises",
+   "note": "Aphrodite conceals her divinity from Anchises until after intercourse.",
+   "source": "Homeric Hymn 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aeneas is Aphrodite's son by Anchises.",
+   "source": "Iliad; Homeric Hymn 5",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue of Aeneas",
+   "note": "Aphrodite shields Aeneas from Diomedes and is wounded while rescuing him.",
+   "source": "Iliad 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment of Paris",
+   "note": "Paris awards Aphrodite victory after she promises him Helen.",
+   "source": "Iliad 24; Cypria",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Judgment of Paris",
+   "note": "Aphrodite promises Paris the most beautiful woman, Helen.",
+   "source": "Cypria tradition",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Paris and Menelaus",
+   "note": "Aphrodite removes Paris from his duel with Menelaus.",
+   "source": "Iliad 3",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Paris and Helen",
+   "note": "Aphrodite approaches Helen disguised as an old woman.",
+   "source": "Iliad 3",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Paris and Helen",
+   "note": "Aphrodite threatens Helen and compels her to return to Paris's bed.",
+   "source": "Iliad 3",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Medea's passion",
+   "note": "Through Eros's arrow, Aphrodite induces Medea's passion.",
+   "source": "Apollonius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Hippolytus and Phaedra",
+   "note": "Aphrodite destroys Hippolytus for rejecting her honors.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaedra",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Hippolytus and Phaedra",
+   "note": "Aphrodite afflicts Phaedra with destructive desire for Hippolytus.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lemnian women",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Lemnian women",
+   "note": "Aphrodite afflicts the neglectful Lemnian women with a repellent odor.",
+   "source": "Apollonius and mythographic summaries",
+   "date": "Hellenistic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pygmalion",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Pygmalion",
+   "note": "Venus answers Pygmalion's prayer by animating his ivory woman.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atalanta",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Atalanta and Hippomenes",
+   "note": "Venus transforms Atalanta into a lion after being denied thanks.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippomenes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Atalanta and Hippomenes",
+   "note": "Venus gives Hippomenes three golden apples to win his race.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippomenes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Atalanta and Hippomenes",
+   "note": "Venus incites sacrilegious intercourse and transforms Hippomenes into a lion.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Cupid and Psyche",
+   "note": "Venus persecutes Psyche and imposes four dangerous tasks.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cupid and Psyche",
+   "note": "Venus ultimately becomes Psyche's divine mother-in-law.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [
+    "Eros"
+   ],
+   "kind": "parent_of",
+   "myth": "Cupid and Psyche",
+   "note": "Venus orders her son Cupid to punish Psyche.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [
+    "Eros"
+   ],
+   "kind": "fought",
+   "myth": "Cupid and Psyche",
+   "note": "Venus opposes Cupid's relationship with Psyche until Jupiter intervenes.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "judged_by",
+   "myth": "Cupid and Psyche",
+   "note": "Jupiter overrules Venus and grants Psyche immortality and lawful marriage.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "served_by",
+   "myth": "Venus searches for Psyche",
+   "note": "Mercury publicly proclaims Venus's search and reward for Psyche.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cupid and Psyche",
+   "note": "Ceres refuses Psyche protection rather than openly oppose Venus.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "allied",
+   "myth": "Cupid and Psyche",
+   "note": "Juno refuses Psyche protection rather than openly oppose Venus.",
+   "source": "Apuleius, Metamorphoses 4–6",
+   "date": "late second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Venus increasingly assimilates to Aphrodite while retaining distinct Roman functions.",
+   "source": "Greco-Roman cult and literature",
+   "date": "third century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "ʿAštart"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aphrodite was historically equated with the West Semitic goddess Astarte.",
+   "source": "Herodotus and later inscriptions",
+   "date": "fifth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic and Roman cults locally identified or fused Aphrodite with Isis.",
+   "source": "Hellenistic and Roman inscriptions",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic religious interpretation locally equated Aphrodite with Hathor.",
+   "source": "Hellenistic cult evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Atargatis",
+   "other_aliases": [
+    "Syrian Goddess"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic and Roman interpretation locally equated Aphrodite with Atargatis.",
+   "source": "Hellenistic and Roman cult evidence",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mylitta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus interprets Mylitta through the Greek category of Aphrodite.",
+   "source": "Herodotus 1.131",
+   "date": "c. 430–420 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Alilat",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus interprets Alilat through a Greek Aphrodite identification.",
+   "source": "Herodotus 3.8",
+   "date": "c. 430–420 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhodos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An individual late or local genealogy assigns Rhodos to Aphrodite.",
+   "source": "late or local genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An individual late or local genealogy assigns Peitho to Aphrodite.",
+   "source": "late or local genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An individual late or local genealogy assigns Tyche to Aphrodite.",
+   "source": "late or local genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eunomia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An individual late or local genealogy assigns Eunomia to Aphrodite.",
+   "source": "late or local genealogy",
+   "date": "uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Later wedding traditions have Aphrodite supply adornment for Thetis.",
+   "source": "later wedding traditions",
+   "date": "classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine marriage traditions",
+   "note": "Fragmentary lyric associates Themis with regulating marriages in Aphrodite's sphere.",
+   "source": "fragmentary lyric accounts",
+   "date": "archaic or classical period",
+   "tier": "regional_variant"
+  }
+ ]
+}

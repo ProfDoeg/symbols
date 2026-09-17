@@ -1,0 +1,205 @@
+{
+ "subject": "pasiphae",
+ "relations": [
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Helios is Pasiphae's father in the standard solar genealogy.",
+   "source": "Apollonius, Argonautica 3.997–1004",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bronze images at Thalamai",
+   "note": "Separate bronze images of Pasiphae and Helios stood outside the sanctuary.",
+   "source": "Pausanias 3.26.1",
+   "date": "ca. 160–180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perse",
+   "other_aliases": [
+    "Perseis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Oceanid Perse is Pasiphae's mother in the solar genealogy.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.9.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Aeetes is Pasiphae's brother in the standard solar genealogy.",
+   "source": "Apollonius, Argonautica 3.997–1004",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Circe is Pasiphae's sister in the standard solar genealogy.",
+   "source": "Apollonius and Apollodoran genealogy",
+   "date": "Hellenistic–imperial periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Perses is Pasiphae's sibling in some later genealogical systematizations.",
+   "source": "Later mythographic systematizations",
+   "date": "date not specified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Minos breaks his sacrificial vow",
+   "note": "Poseidon makes Pasiphae desire the sea bull after Minos substitutes another sacrifice.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.1.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Divine madness after Minos's offense",
+   "note": "Pasiphae attributes her madness to divine assault caused by Minos's broken vow.",
+   "source": "Euripides, Cretans fr. 472e",
+   "date": "later fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Kypris",
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Aphrodite implants desire for the bull",
+   "note": "Aphrodite inflicts Pasiphae's desire; Hyginus makes it punishment for neglected worship.",
+   "source": "Bacchylides fr. 26; Hyginus, Fabulae 40",
+   "date": "fifth century BCE; second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asterios",
+   "other_aliases": [
+    "Asterion",
+    "Minotaur"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of the Minotaur",
+   "note": "Pasiphae bears the bull-faced Asterios after mating with Poseidon's sea bull.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.1.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Pausanias says Pasiphae is an epithet or identity of Selene.",
+   "source": "Pausanias 3.26.1",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Thalamian oracle is called Ino's despite containing Pasiphae's image.",
+   "source": "Pausanias 3.26.1",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Cassandra dies at Thalamai",
+   "note": "Some identified Pasiphae with Cassandra, renamed for revealing oracles to all.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Daphne",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Daphne becomes Thalamian Pasiphae",
+   "note": "One account identifies Pasiphae with Daphne, the prophetic daughter of Amyclas.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Atlas fathers Pasiphae in one incompatible Thalamian genealogy.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Ammon",
+   "note": "In one Thalamian genealogy, Pasiphae bears Ammon to Zeus.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ammon",
+   "other_aliases": [
+    "Zeus-Ammon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ammon is Pasiphae's son by Zeus in one Thalamian genealogy.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gaia grants Daphne prophecy",
+   "note": "Gaia grants prophetic power to Daphne in the account identifying her with Pasiphae.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo pursues Daphne",
+   "note": "Apollo pursues Daphne in the explanatory tradition identifying Daphne with Pasiphae.",
+   "source": "Plutarch, Agis 9",
+   "date": "early second century CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

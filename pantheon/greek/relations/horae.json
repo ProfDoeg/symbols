@@ -1,0 +1,523 @@
+{
+ "subject": "horae",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hesiod makes the Horae daughters of Zeus and Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pindar makes fruit-bearing Horae children of Zeus and his first bride Themis.",
+   "source": "Pindar, fragment 30",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Guarding the cloud-gates of Olympus",
+   "note": "They guard and operate Olympus' gates within Zeus' divine order.",
+   "source": "Iliad 5.749–751; 8.393–395",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Zeus returns victorious after defeating Typhon",
+   "note": "They reopen heaven for Zeus after his victory.",
+   "source": "Nonnus, Dionysiaca 2.650–659",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Horae Eunomia, Dike, and Eirene are daughters of Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pindar calls the fruit-bearing Horae children of Themis, Zeus' first bride.",
+   "source": "Pindar, fragment 30",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hesiod makes the Horae and Moirai sibling groups born to Zeus and Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "shared_myth",
+   "myth": "Persephone emerges from darkness",
+   "note": "They accompany the Moirai and Charites during Persephone's return.",
+   "source": "Orphic Hymn to the Horae",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Hera passes through Olympus' cloud-gates",
+   "note": "The Horae operate Olympus' gates for Hera's chariot.",
+   "source": "Iliad 5.749–751; 8.393–395",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nursing the infant Hera",
+   "note": "A regional hymn attributed to Olen reportedly said the Horae nursed Hera.",
+   "source": "Pausanias 2.13.3",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Four seasonal Horae serve Hera as her handmaids.",
+   "source": "Quintus Smyrnaeus 10.334–344",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Athena passes through Olympus' cloud-gates",
+   "note": "They open the gates as Athena travels with Hera.",
+   "source": "Iliad 5; 8",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ascent of Hyacinthus and Polyboea",
+   "note": "Athena joins the Horae and other goddesses in carrying the pair heavenward.",
+   "source": "Pausanias 3.19.3–5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Birth and presentation of Aphrodite",
+   "note": "They receive, clothe, ornament, and present Aphrodite to the assembled gods.",
+   "source": "Homeric Hymn 6",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "Aphrodite joins the divine chorus while the Horae dance.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Making Aphrodite's flower-dyed garments",
+   "note": "The Horae and Charites make or adorn Aphrodite's seasonal clothing.",
+   "source": "Cypria fragment",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "gift",
+   "myth": "Ariadne receives her wedding crown",
+   "note": "Aphrodite and the Horae jointly give Ariadne her crown.",
+   "source": "Hyginus, Astronomica 2.5",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "The theatrical judgment of Paris",
+   "note": "They scatter flowers and dance as attendants in Venus' procession.",
+   "source": "Apuleius, Metamorphoses 10.30–32",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite arrives on Cyprus",
+   "note": "Zephyrus delivers Aphrodite over the sea, and the Horae receive her.",
+   "source": "Homeric Hymn 6",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "The Horae dance hand-in-hand with the Charites.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Making Aphrodite's flower-dyed garments",
+   "note": "The two groups jointly make or adorn Aphrodite's clothing.",
+   "source": "Cypria fragment",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Persephone emerges from darkness",
+   "note": "They accompany the Charites and Moirai at Persephone's return.",
+   "source": "Orphic Hymn to the Horae",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "The Horae dance while Apollo plays among the gods.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The Horae bring Apollo's Theban banquet",
+   "note": "The daughters of Themis arrive with a garland-loving feast for Apollo.",
+   "source": "Pindar, Paean 1",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "The Muses sing while the Horae dance.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "Harmonia dances wrist-to-wrist with the Horae.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo's Olympian performance",
+   "note": "Hebe dances with the Horae in the Olympian chorus.",
+   "source": "Homeric Hymn 3.186–206",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Pandora's crowning",
+   "note": "The Horae crown the newly fashioned Pandora with spring flowers.",
+   "source": "Hesiod, Works and Days 69–75",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Persephone emerges from darkness",
+   "note": "The Horae attend Persephone during her return from darkness into light.",
+   "source": "Orphic Hymn to the Horae",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Persephone emerges from darkness",
+   "note": "Demeter rejoices as the Horae attend Persephone's return.",
+   "source": "Orphic Hymn to the Horae",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Spring celebration of Semele",
+   "note": "Spring opens the Horae's chamber and releases flowers for Semele's celebration.",
+   "source": "Pindar, fragment 75",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Semele's pregnancy",
+   "note": "The Horae attend Semele during her pregnancy with Dionysus.",
+   "source": "Nonnus, Dionysiaca 8.3–39",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The world before wine",
+   "note": "Before Dionysus' advent, their garlands contain grass but no vine or wine.",
+   "source": "Nonnus, Dionysiaca 7.7–15",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Gestation and birth of Dionysus",
+   "note": "They attend his gestation and later serve as midwives in his circle.",
+   "source": "Nonnus, Dionysiaca 8; 16; 48",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Dionysus bathes in a flowering landscape",
+   "note": "The Horae flower the riverbanks while Dionysus bathes.",
+   "source": "Nonnus, Dionysiaca 10.170–174",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Dionysus seeks admission to Olympus",
+   "note": "They withhold Olympus until Dionysus earns admission through glory.",
+   "source": "Nonnus, Dionysiaca 13.22–35",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Quintus makes four seasonal Horae daughters of Helios and Selene.",
+   "source": "Quintus Smyrnaeus 10.334–344",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "served",
+   "myth": "The twelve Horae attend the solar course",
+   "note": "Nonnus' twelve Horae serve as attendants and priestesses of Helios.",
+   "source": "Nonnus, Dionysiaca 12.1–30",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Moon"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Quintus makes four seasonal Horae daughters of Selene and Helios.",
+   "source": "Quintus Smyrnaeus 10.334–344",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Time"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nonnus makes the twelve circling daily Horae daughters of Time.",
+   "source": "Nonnus, Dionysiaca 12.15–19",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Typhon assaults heaven",
+   "note": "The Horae arm the constellations and fortify heaven against Typhon.",
+   "source": "Nonnus, Dionysiaca 1.223–244",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Zeus returns victorious after defeating Typhon",
+   "note": "Nike drives Zeus' chariot while the Horae open heaven.",
+   "source": "Nonnus, Dionysiaca 2.650–659",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dionysus seeks admission to Olympus",
+   "note": "Iris announces the Horae's condition that Dionysus first earn divine admission.",
+   "source": "Nonnus, Dionysiaca 13.22–35",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Guarding heaven's doors",
+   "note": "Janus and the Horae share custody of the heavenly doors.",
+   "source": "Ovid, Fasti 1.125–126",
+   "date": "c. 8 BCE–17 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ariadne receives her wedding crown",
+   "note": "The Horae and Aphrodite give Ariadne the crown later placed among stars.",
+   "source": "Hyginus, Astronomica 2.5",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ascent of Hyacinthus and Polyboea",
+   "note": "Artemis joins the Horae and other goddesses carrying the pair heavenward.",
+   "source": "Pausanias 3.19.3–5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Ascent of Hyacinthus and Polyboea",
+   "note": "The Horae and associated goddesses carry Hyacinthus to heaven.",
+   "source": "Pausanias 3.19.3–5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Polyboea",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Ascent of Hyacinthus and Polyboea",
+   "note": "The Horae and associated goddesses carry Polyboea to heaven.",
+   "source": "Pausanias 3.19.3–5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Phaethon's catastrophe",
+   "note": "Philostratus imagines the Horae abandoning Olympus' gates during Phaethon's disaster.",
+   "source": "Philostratus, Imagines 1.11",
+   "date": "third century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

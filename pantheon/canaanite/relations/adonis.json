@@ -1,0 +1,378 @@
+{
+ "subject": "adonis",
+ "relations": [
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A lost Hesiodic tradition names Phoenix as Adonis’s father.",
+   "source": "Hesiod via Pseudo-Apollodorus 3.14.4",
+   "date": "preserved first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alphesiboea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A lost Hesiodic tradition names Alphesiboea as Adonis’s mother.",
+   "source": "Hesiod via Pseudo-Apollodorus 3.14.4",
+   "date": "preserved first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cinyras",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Adonis is an ordinary son of the Cypriot king Cinyras.",
+   "source": "Pseudo-Apollodorus, Library 3.14.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metharme",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Adonis is an ordinary son of Metharme in the Cypriot genealogy.",
+   "source": "Pseudo-Apollodorus, Library 3.14.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Theias",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Smyrna’s incest and the myrrh-tree birth",
+   "note": "Adonis is conceived through Smyrna’s incestuous union with her father Theias.",
+   "source": "Panyasis via Pseudo-Apollodorus 3.14.4",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Smyrna",
+   "other_aliases": [
+    "Myrrha"
+   ],
+   "kind": "child_of",
+   "myth": "Smyrna’s incest and the myrrh-tree birth",
+   "note": "Smyrna becomes a myrrh tree and gives birth to Adonis.",
+   "source": "Panyasis via Pseudo-Apollodorus 3.14.4",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cinyras",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Myrrha’s incest and the tree-birth",
+   "note": "Adonis is born from Myrrha after her incestuous union with Cinyras.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Myrrha",
+   "other_aliases": [
+    "Smyrna"
+   ],
+   "kind": "child_of",
+   "myth": "Myrrha’s incest and the tree-birth",
+   "note": "Myrrha bears Adonis from within the tree into which she was transformed.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The hymn addresses Adonis as Persephone’s offspring in chthonic theology.",
+   "source": "Orphic Hymn 56",
+   "date": "second–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some translations construe compressed Orphic language as making Aphrodite his mother.",
+   "source": "Orphic Hymn 56",
+   "date": "second–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "shared_myth",
+   "myth": "The death and lament",
+   "note": "Aphrodite directs the women’s lament for the dying Adonis.",
+   "source": "Sappho fragment 140",
+   "date": "ca. 600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aphrodite loves Adonis and is his principal divine lover.",
+   "source": "Theocritus, Idyll 15",
+   "date": "ca. 270 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "other",
+   "myth": "Smyrna’s incest and the myrrh-tree birth",
+   "note": "Aphrodite causes Smyrna’s incestuous desire, indirectly bringing about Adonis’s conception.",
+   "source": "Panyasis via Pseudo-Apollodorus 3.14.4",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "other",
+   "myth": "Aphrodite, Persephone, and the divided year",
+   "note": "Aphrodite conceals infant Adonis in a chest and entrusts him to Persephone.",
+   "source": "Pseudo-Apollodorus, Library 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Aphrodite, Persephone, and the divided year",
+   "note": "Persephone desires to keep Adonis and refuses to return him to Aphrodite.",
+   "source": "Pseudo-Apollodorus, Library 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Aphrodite, Persephone, and the divided year",
+   "note": "Zeus arbitrates the goddesses’ dispute and divides Adonis’s year into thirds.",
+   "source": "Pseudo-Apollodorus, Library 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "gift",
+   "myth": "Aphrodite, Persephone, and the divided year",
+   "note": "Adonis gives his freely allotted third of the year to Aphrodite.",
+   "source": "Pseudo-Apollodorus, Library 3.14.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Adonis received in the underworld",
+   "note": "Persephone receives the dead Adonis in the underworld.",
+   "source": "Bion, Lament for Adonis",
+   "date": "late second–first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The boar kills Adonis",
+   "note": "Artemis’s anger causes a boar to kill Adonis.",
+   "source": "Pseudo-Apollodorus, Library 3.14.4",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "boar",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The fatal hunt",
+   "note": "A wounded boar gores Adonis in the groin and kills him.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "other",
+   "myth": "Venus falls in love with Adonis",
+   "note": "Cupid accidentally scratches Venus with an arrow, causing her passion for Adonis.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "other",
+   "myth": "Venus warns Adonis before the hunt",
+   "note": "Venus warns Adonis not to hunt dangerous animals, but he disregards her.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cytherea",
+    "Venus",
+    "Byblian Aphrodite"
+   ],
+   "kind": "transformed_by",
+   "myth": "The creation of the anemone",
+   "note": "Venus memorializes Adonis by transforming his blood into the anemone.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erotes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The lament for Adonis",
+   "note": "The Erotes mourn Adonis and join Aphrodite’s lament.",
+   "source": "Bion, Lament for Adonis",
+   "date": "late second–first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "shared_myth",
+   "myth": "The lament for Adonis",
+   "note": "The Fates are reproached or petitioned over Adonis’s death.",
+   "source": "Bion, Lament for Adonis",
+   "date": "late second–first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The jealous lover’s boar",
+   "note": "A jealous Ares kills Adonis, frequently by assuming a boar’s form.",
+   "source": "late mythographic and scholastic traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo’s revenge through the boar",
+   "note": "Apollo retaliates for Erymanthus’s blinding by sending or acting through the fatal boar.",
+   "source": "Ptolemy Chennus via Photius",
+   "date": "second century, summarized ninth",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erymanthus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Erymanthus sees Aphrodite with Adonis",
+   "note": "Erymanthus sees Aphrodite with Adonis and is blinded by her.",
+   "source": "Ptolemy Chennus via Photius",
+   "date": "second century, summarized ninth",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lucina",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Adonis’s birth from the myrrh tree",
+   "note": "Lucina assists the transformed Myrrha’s tree in giving birth to Adonis.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late Orphic theology explicitly identifies Adonis with Dionysus.",
+   "source": "Orphic Hymn 56",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Byblians reportedly maintained that their Adonis lament was actually for Osiris.",
+   "source": "Lucian, De Dea Syria 7",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tammuz",
+   "other_aliases": [
+    "Dumuzid",
+    "Dumuzi"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late interpreters equated Adonis with Tammuz, though continuous identity is unproved.",
+   "source": "late Jewish and Christian exegesis",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists grouped Adonis with Attis despite lacking an early identity claim.",
+   "source": "Frazer, Adonis, Attis, Osiris",
+   "date": "1906–1914",
+   "tier": "modern"
+  }
+ ]
+}

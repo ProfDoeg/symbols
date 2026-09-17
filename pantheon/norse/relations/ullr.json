@@ -1,0 +1,38 @@
+{
+ "subject": "ullr",
+ "relations": [
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ullr is named as Sif’s son; no birth or joint episode survives.",
+   "source": "Gylfaginning 31; Skáldskaparmál",
+   "date": "ca. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ullr is Þórr’s stepson, a relationship preserved in skaldic kennings and Snorri.",
+   "source": "Haustlǫng; Þórsdrápa; Skáldskaparmál",
+   "date": "late ninth century–ca. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Othinus",
+    "Grímnir"
+   ],
+   "kind": "contest",
+   "myth": "Ollerus replaces Othinus",
+   "note": "Ollerus takes Othinus’s authority and name, then flees when Othinus is restored.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "ca. 1200",
+   "tier": "regional_variant"
+  }
+ ]
+}

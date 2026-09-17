@@ -1,0 +1,575 @@
+{
+ "subject": "iris",
+ "relations": [
+  {
+   "other": "Thaumas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Thaumas is Iris’s father in the Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 265–269",
+   "date": "late eighth or seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Oceanid Electra is Iris’s mother in the Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 265–269",
+   "date": "late eighth or seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ozomene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ozomene replaces Electra as Iris’s mother in a Roman mythographic variant.",
+   "source": "Hyginus, Fabulae 14",
+   "date": "imperial Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Harpies",
+   "other_aliases": [
+    "Aello",
+    "Ocypete"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iris and the Harpies are daughters of Thaumas and Electra.",
+   "source": "Hesiod, Theogony 265–269",
+   "date": "late eighth or seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arke",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Arke is Iris’s winged sister and the Titans’ opposing messenger.",
+   "source": "Ptolemy Hephaestion, New History 6",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of Eros",
+   "note": "Iris lies with golden-haired Zephyrus and bears Eros.",
+   "source": "Alcaeus fragment 327",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Nonnus explicitly presents Iris as Zephyrus’s wife.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eros is Iris’s son by Zephyrus in an isolated archaic genealogy.",
+   "source": "Alcaeus fragment 327",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pothos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pothos is identified as the son of Iris and Zephyrus.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Trojan War missions",
+   "note": "Iris repeatedly carries Zeus’s commands among gods, Trojans, Hector, Thetis, and Priam.",
+   "source": "Homer, Iliad 2, 8, 11, 15, 24",
+   "date": "late eighth or early seventh BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Demeter’s withdrawal",
+   "note": "Zeus sends Iris first to persuade the grieving Demeter to return.",
+   "source": "Homeric Hymn to Demeter 314–323",
+   "date": "seventh or sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "Hera’s divine messenger",
+   "note": "Iris becomes Hera’s watcher, attendant, and principal courier in later poetry.",
+   "source": "Callimachus; Apollonius; Virgil; Ovid; Nonnus",
+   "date": "third century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "other",
+   "myth": "Hera and Athena restrained",
+   "note": "At Zeus’s command, Iris rebukes Hera and turns her back from battle.",
+   "source": "Homer, Iliad 8.397–425",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera and Athena restrained",
+   "note": "Iris rebukes Athena and turns her back alongside Hera under Zeus’s order.",
+   "source": "Homer, Iliad 8.397–425",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Storm against the returning Greeks",
+   "note": "Iris carries Athena’s request that Aeolus unleash destructive winds.",
+   "source": "Quintus Smyrnaeus, Posthomerica 14",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Aphrodite wounded at Troy",
+   "note": "Iris leads wounded Aphrodite away and drives her chariot to Olympus.",
+   "source": "Homer, Iliad 5.353–369",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Poseidon withdraws from battle",
+   "note": "Iris delivers Zeus’s withdrawal order; Poseidon protests but ultimately complies.",
+   "source": "Homer, Iliad 15.157–219",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thetis summoned to Zeus",
+   "note": "Iris summons Thetis from the sea and guides her to Zeus.",
+   "source": "Homer, Iliad 24.74–100",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The Argo’s passage",
+   "note": "Iris carries Hera’s request to Thetis during the rescue of the Argo.",
+   "source": "Apollonius, Argonautica 4.702–781",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Patroclus’s funeral pyre",
+   "note": "Iris summons Zephyrus from the winds’ feast to kindle Patroclus’s pyre.",
+   "source": "Homer, Iliad 23.198–212",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Patroclus’s funeral pyre",
+   "note": "Iris summons Boreas with Zephyrus to kindle Patroclus’s pyre.",
+   "source": "Homer, Iliad 23.198–212",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Harpies",
+   "other_aliases": [
+    "Aello",
+    "Ocypete"
+   ],
+   "kind": "rescued",
+   "myth": "Harpies pursued by the Boreads",
+   "note": "Iris prevents the Boreads from killing her sisters and guarantees their withdrawal.",
+   "source": "Apollonius, Argonautica 2.178–300",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zetes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Harpies pursued by the Boreads",
+   "note": "Iris stops Zetes from killing the Harpies and swears they will withdraw.",
+   "source": "Apollonius, Argonautica 2.178–300",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Harpies pursued by the Boreads",
+   "note": "Iris stops Calais from killing the Harpies and swears they will withdraw.",
+   "source": "Apollonius, Argonautica 2.178–300",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Oath ordeal of the gods",
+   "note": "Iris fetches Styx’s water in a golden vessel for divine oath trials.",
+   "source": "Hesiod, Theogony 780–806",
+   "date": "late eighth or seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Demeter’s withdrawal",
+   "note": "Iris implores Demeter to leave Eleusis, but the grieving goddess refuses.",
+   "source": "Homeric Hymn to Demeter 314–323",
+   "date": "seventh or sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Birth of Apollo",
+   "note": "Iris secretly fetches Eileithyia, overcoming Hera’s obstruction of Leto’s labor.",
+   "source": "Homeric Hymn to Delian Apollo 91–119",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera’s ban against Leto",
+   "note": "Iris guards the islands and threatens lands that might shelter pregnant Leto.",
+   "source": "Callimachus, Hymn to Delos 55–240",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Apollo",
+   "note": "Iris secretly calls Eileithyia away from Hera so she can attend Leto.",
+   "source": "Homeric Hymn to Delian Apollo 91–119",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Birth of Apollo",
+   "note": "By fetching Eileithyia, Iris enables Apollo’s birth.",
+   "source": "Homeric Hymn to Delian Apollo 91–119",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo’s birth reported",
+   "note": "Iris fearfully reports Apollo’s birth to Hera after failing to prevent it.",
+   "source": "Callimachus, Hymn to Delos 215–240",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hera’s ban against Leto",
+   "note": "Iris and Ares jointly enforce Hera’s prohibition against sheltering Leto.",
+   "source": "Callimachus, Hymn to Delos 55–67",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Iris impersonates Ares",
+   "note": "Iris assumes Ares’s appearance while acting as Hera’s deceptive agent.",
+   "source": "Nonnus, Dionysiaca 20",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Argo’s passage",
+   "note": "Iris asks Hephaestus to stop his bellows, and he complies.",
+   "source": "Apollonius, Argonautica 4.702–781",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Argo’s passage",
+   "note": "Iris brings Hera’s command that Aeolus restrain the winds for the Argo.",
+   "source": "Apollonius, Argonautica 4.702–781",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Storm against the returning Greeks",
+   "note": "Iris conveys Athena’s contrary command that Aeolus release destructive winds.",
+   "source": "Quintus Smyrnaeus, Posthomerica 14",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus",
+    "Sleep"
+   ],
+   "kind": "other",
+   "myth": "Dream sent to Alcyone",
+   "note": "Iris visits Sleep’s cavern and commissions a truthful dream apparition.",
+   "source": "Ovid, Metamorphoses 11.585–632",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus",
+    "Sleep"
+   ],
+   "kind": "deceived",
+   "myth": "Iris impersonates Nyx",
+   "note": "Iris deceives Hypnos by assuming the appearance of Nyx.",
+   "source": "Nonnus, Dionysiaca 31",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Iris impersonates Nyx",
+   "note": "Iris takes Nyx’s form as part of her deception of Hypnos.",
+   "source": "Nonnus, Dionysiaca 31",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dionysus commissioned for India",
+   "note": "Iris enters Rhea’s hall, bows, drinks wine, and delivers Zeus’s command.",
+   "source": "Nonnus, Dionysiaca 13",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dionysus commissioned for India",
+   "note": "Iris announces Zeus’s command that Dionysus undertake the Indian campaign.",
+   "source": "Nonnus, Dionysiaca 13",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Hera’s Dionysian intrigues",
+   "note": "Acting for Hera, Iris misleads Dionysus during the Indian-war narratives.",
+   "source": "Nonnus, Dionysiaca 20",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lycurgus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Lycurgus incited against Dionysus",
+   "note": "Disguised as Ares, Iris deceives and incites Lycurgus against Dionysus.",
+   "source": "Nonnus, Dionysiaca 20",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [
+    "Romulus"
+   ],
+   "kind": "other",
+   "myth": "Hersilia’s apotheosis",
+   "note": "Iris conducts Hersilia to reunion with her apotheosed husband Quirinus.",
+   "source": "Ovid, Metamorphoses 14.829–851",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hora",
+   "other_aliases": [
+    "Hersilia"
+   ],
+   "kind": "other",
+   "myth": "Hersilia’s apotheosis",
+   "note": "Iris escorts Hersilia as she is transformed into the goddess Hora.",
+   "source": "Ovid, Metamorphoses 14.829–851",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Release of Prometheus",
+   "note": "Iris carries Zeus’s authorization permitting Heracles to free Prometheus.",
+   "source": "Valerius Flaccus, Argonautica 4",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Release of Prometheus",
+   "note": "Iris authorizes Heracles, on Zeus’s behalf, to release Prometheus.",
+   "source": "Valerius Flaccus, Argonautica 4",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Jason’s meeting with Medea",
+   "note": "Iris helps arrange Jason’s consequential meeting with Medea.",
+   "source": "Valerius Flaccus, Argonautica 7",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Jason’s meeting with Medea",
+   "note": "Iris helps arrange Medea’s meeting with Jason.",
+   "source": "Valerius Flaccus, Argonautica 7",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Achilles appears at the ditch",
+   "note": "Iris summons Achilles to show himself to the Trojans at Hera’s prompting.",
+   "source": "Homer, Iliad 18.165–203",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus’s battle instructions",
+   "note": "Iris delivers Zeus’s instructions governing Hector’s return to battle.",
+   "source": "Homer, Iliad 11.185–210",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Priam",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Priam’s embassy to Achilles",
+   "note": "Iris conveys Zeus’s instructions and reassures Priam before his journey.",
+   "source": "Homer, Iliad 24.143–188",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Helen summoned to the walls",
+   "note": "Disguised as Laodice, Iris summons Helen to view the armies.",
+   "source": "Homer, Iliad 3.121–145",
+   "date": "late eighth or early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menelaus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Helen’s departure with Paris",
+   "note": "Iris informs Menelaus that Helen has departed with Paris.",
+   "source": "Cypria, fragmentary epic-cycle summary",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dido",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dido’s death",
+   "note": "Iris cuts Dido’s lock of hair and releases her lingering spirit.",
+   "source": "Virgil, Aeneid 4.693–705",
+   "date": "first century BCE",
+   "tier": "canonical"
+  }
+ ]
+}

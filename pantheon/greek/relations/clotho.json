@@ -1,0 +1,375 @@
+{
+ "subject": "clotho",
+ "relations": [
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx produces Clotho and her sisters without a consort.",
+   "source": "Hesiod, Theogony 217–222",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Clotho and the other Moirai with Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Themis bears Clotho and the other Moirai to Zeus.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Plato makes Clotho and her sisters daughters of Necessity.",
+   "source": "Plato, Republic 617c",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "served",
+   "myth": "The cosmic spindle",
+   "note": "Clotho sits beside Necessity and helps rotate her cosmic spindle.",
+   "source": "Plato, Republic 617b–d",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late Orphic traditions sometimes make Uranus Clotho's father.",
+   "source": "Late Orphic and Rhapsodic fragments",
+   "date": "late antique transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late Orphic traditions sometimes make Gaia Clotho's mother.",
+   "source": "Late Orphic and Rhapsodic fragments",
+   "date": "late antique transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demogorgon",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Boccaccio places Clotho within a learned genealogy descending from Demogorgon.",
+   "source": "Boccaccio, Genealogia deorum gentilium",
+   "date": "14th c.",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lachesis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lachesis is Clotho's constant sister among the three named Moirai.",
+   "source": "Hesiod, Theogony 217–222",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lachesis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The cosmic spindle",
+   "note": "They sing temporal destinies and ratify souls' chosen lives around Ananke's spindle.",
+   "source": "Plato, Republic 616b–621a",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atropos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Atropos is Clotho's constant sister among the three named Moirai.",
+   "source": "Hesiod, Theogony 217–222",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atropos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The cosmic spindle",
+   "note": "They sing temporal destinies and ratify souls' chosen lives around Ananke's spindle.",
+   "source": "Plato, Republic 616b–621a",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nona",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparative convention aligns the Roman Nona with Clotho.",
+   "source": "Greco-Roman comparative tradition",
+   "date": "Roman and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "The Sirens",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The cosmic spindle",
+   "note": "Clotho and her sisters sing in cosmic harmony with the eight Sirens.",
+   "source": "Plato, Republic 617b–d",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Admetus' death substitution",
+   "note": "Apollo tricks or intoxicates the Fates into permitting a substitute for Admetus.",
+   "source": "Aeschylus, Eumenides 723–728",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Admetus' death substitution",
+   "note": "Apollo says he tricked the Fates and obtained Admetus' substitution agreement.",
+   "source": "Euripides, Alcestis 10–14",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeus Moiragetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Olympian fate cult",
+   "note": "The Moirai's altar stood near Zeus as Leader of the Fates.",
+   "source": "Pausanias 5.15.5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Moiragetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Delphic fate configuration",
+   "note": "Apollo accompanied the locally configured Moirai as Leader of the Fates.",
+   "source": "Pausanias 10.24.4",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pelops",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Pelops and the cauldron",
+   "note": "Clotho draws Pelops from a pure cauldron with an ivory shoulder.",
+   "source": "Pindar, Olympian 1.25–27",
+   "date": "476 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pelops and the cauldron",
+   "note": "Clotho's qualified cauldron episode precedes Pindar's preferred account of Poseidon abducting Pelops.",
+   "source": "Pindar, Olympian 1",
+   "date": "476 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pelops' restoration",
+   "note": "Later synthesis combines Clotho's restoration with Demeter eating and replacing Pelops' shoulder.",
+   "source": "Hyginus, Fabulae 83 and scholia",
+   "date": "early imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pelops' restoration",
+   "note": "A Bacchylidean variant assigns Pelops' cauldron restoration to Rhea instead of Clotho.",
+   "source": "Pindaric scholion, Bacchylides fragment 42",
+   "date": "classical, preserved late",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agrius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Clotho and the Moirai kill the Giant Agrius with bronze clubs.",
+   "source": "Pseudo-Apollodorus, Library 1.6.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Clotho and the Moirai kill the Giant Thoas with bronze clubs.",
+   "source": "Pseudo-Apollodorus, Library 1.6.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Admetus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Admetus' death substitution",
+   "note": "The Fates permit another person to die in Admetus' place.",
+   "source": "Euripides, Alcestis 10–14",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcestis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Alcestis' substituted death",
+   "note": "Alcestis fulfills the Fates' substitution condition by dying for Admetus.",
+   "source": "Euripides, Alcestis",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Meleager and the firebrand",
+   "note": "The Fates bind infant Meleager's lifespan to an unconsumed firebrand.",
+   "source": "Pseudo-Apollodorus, Library 1.8.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Meleager and the firebrand",
+   "note": "The Sisters prophesy that Meleager will live while the brand survives.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Althaea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Meleager and the firebrand",
+   "note": "Althaea hears the Fates' declaration, hides the brand, and later burns it.",
+   "source": "Pseudo-Apollodorus, Library 1.8.2",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Asclepius reverses death",
+   "note": "Roman poetic tradition makes Clotho or the Fates resist Asclepius' resurrection of the dead.",
+   "source": "Latin poetic traditions",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nonnus' divine plan",
+   "note": "The Fates direct or constrain Aphrodite's role under cosmic law.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Typhon cycle",
+   "note": "Fate and deceptive food help weaken Typhon and subject him to Zeus's order.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "5th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invention of letters",
+   "note": "Late mythographic compilations allege Clotho collaborated with Hermes in inventing letters.",
+   "source": "Late mythographic compilations",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld and return imagery",
+   "note": "Later sources associate the collective Moirai with Persephone in seasonal or processional imagery.",
+   "source": "Later sources and cult interpretations",
+   "date": "regional and late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld and return imagery",
+   "note": "Later sources associate the collective Moirai with Hades in underworld imagery.",
+   "source": "Later sources and cult interpretations",
+   "date": "regional and late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Charites",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seasonal processional imagery",
+   "note": "Later sources place the collective Moirai with the Charites in seasonal processions.",
+   "source": "Later sources and cult interpretations",
+   "date": "regional and late",
+   "tier": "late_accretion"
+  }
+ ]
+}

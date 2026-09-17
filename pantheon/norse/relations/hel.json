@@ -1,0 +1,323 @@
+{
+ "subject": "hel",
+ "relations": [
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Early poetic genealogy identifies Hel as Loki’s daughter.",
+   "source": "Ynglingatal",
+   "date": "c. 900, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri makes Hel one of Loki’s three children with Angrboða.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angrboða",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Angrboða bears Hel, Fenrir, and Jörmungandr with Loki.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [
+    "the wolf"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hel is probably called sister of the wolf in early poetry.",
+   "source": "Ynglingatal",
+   "date": "c. 900, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [
+    "the wolf"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri explicitly identifies Fenrir as Hel’s brother.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Narfi",
+   "other_aliases": [
+    "Nari"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A difficult early poetic genealogy calls Hel Narfi’s sister.",
+   "source": "Ynglingatal",
+   "date": "c. 900, disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Jörmungandr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri groups Hel and Jörmungandr as Loki and Angrboða’s children.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Hel’s installation in Niflheim",
+   "note": "Odin has Hel seized and casts her into Niflheim.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hel’s installation in Niflheim",
+   "note": "Odin grants Hel authority over nine worlds and specified dead.",
+   "source": "Gylfaginning 34",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus"
+   ],
+   "kind": "other",
+   "myth": "Baldr’s death and conditional release",
+   "note": "Hel receives Baldr and conditionally offers release if all beings weep.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Baldr’s death and Hel-road",
+   "note": "Nanna dies at Baldr’s funeral and is found in Hel’s hall.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hermóðr negotiates for Baldr",
+   "note": "Hermóðr asks Hel to release Baldr; she sets the universal-weeping test.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þökk",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Þökk refuses to weep",
+   "note": "Þökk’s refusal fulfills Hel’s condition for retaining Baldr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Gifts returned from Hel",
+   "note": "Nanna sends Frigg linen from Hel through Hermóðr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fulla",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Gifts returned from Hel",
+   "note": "Nanna sends Fulla a finger-ring from Hel through Hermóðr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "other",
+   "myth": "Embassy seeking Baldr’s return",
+   "note": "The Æsir send Hermóðr, and Hel sets terms for Baldr’s return.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ragnarök and Hel’s people",
+   "note": "Loki arrives at Ragnarök accompanied by people or forces of Hel.",
+   "source": "Völuspá",
+   "date": "medieval manuscript",
+   "tier": "attested"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ragnarök and Hel’s people",
+   "note": "Snorri explicitly places Loki with Hel’s people at Ragnarök.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "identified_with",
+   "myth": "Balderus’s foretold death",
+   "note": "Saxo’s spectral underworld female is interpreted through classical Proserpina.",
+   "source": "Gesta Danorum",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Frau Holle",
+   "other_aliases": [
+    "Hulda"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later comparison equates Hel with Frau Holle, but continuity is unproved.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occult practice syncretistically equates Hel with Hecate.",
+   "source": "Modern occult practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparative or devotional practice equates Hel with Persephone.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ereshkigal",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern underworld-deity syncretism equates Hel with Ereshkigal.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparative spirituality associates or equates Hel with Inanna.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kali",
+   "other_aliases": [
+    "Bhavani"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativism equates Hel with Kali chiefly through death imagery.",
+   "source": "Modern comparative scholarship",
+   "date": "19th–20th centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Morrígan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occult and devotional practice associates Hel with the Morrígan.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Santa Muerte",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern devotional syncretism associates Hel with Santa Muerte.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Perchta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparative spirituality associates or equates Hel with Perchta.",
+   "source": "Modern syncretistic practice",
+   "date": "20th–21st centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Marvel’s fictional genealogy",
+   "note": "Marvel’s Hela is reinvented as Odin’s firstborn daughter.",
+   "source": "Thor: Ragnarok",
+   "date": "2017",
+   "tier": "modern"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Marvel’s fictional genealogy",
+   "note": "Marvel’s Hela is reinvented as Thor’s sister.",
+   "source": "Thor: Ragnarok",
+   "date": "2017",
+   "tier": "modern"
+  }
+ ]
+}

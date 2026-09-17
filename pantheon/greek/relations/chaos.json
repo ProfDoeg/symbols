@@ -1,0 +1,201 @@
+{
+ "subject": "chaos",
+ "relations": [
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Hesiodic beginning",
+   "note": "Erebus comes forth directly from Chaos without a stated partner.",
+   "source": "Hesiod, Theogony 123",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "parent_of",
+   "myth": "Hesiodic beginning",
+   "note": "Black Night comes forth directly from Chaos without a stated partner.",
+   "source": "Hesiod, Theogony 123",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Bird cosmogony",
+   "note": "Winged Eros mingles reproductively with Chaos, producing the race of birds.",
+   "source": "Aristophanes, Birds 693–702",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the race of birds",
+   "other_aliases": [
+    "birds"
+   ],
+   "kind": "parent_of",
+   "myth": "Bird cosmogony",
+   "note": "The primordial race of birds arises from Eros's union with Chaos.",
+   "source": "Aristophanes, Birds 693–702",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Time",
+    "unaging Time"
+   ],
+   "kind": "child_of",
+   "myth": "Orphic cosmic egg cycle",
+   "note": "Chronos generates or brings forth Chaos alongside other cosmic principles.",
+   "source": "Proclus and Damascius, Orphic fragments",
+   "date": "fifth–sixth century CE witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Orphic cosmic egg cycle",
+   "note": "Chronos generates Aether and Chaos as paired principles framing the cosmic egg.",
+   "source": "Proclus and Damascius, Orphic fragments",
+   "date": "fifth–sixth century CE witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Orphic cosmic egg cycle",
+   "note": "Erebus, Aether, and Chaos are co-generated as products of Time.",
+   "source": "Damascius, First Principles 123–124",
+   "date": "early sixth century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Caligo",
+   "other_aliases": [
+    "Mist",
+    "Darkness"
+   ],
+   "kind": "child_of",
+   "myth": "Hyginus genealogy",
+   "note": "Caligo produces Chaos in the late Roman mythographic genealogy.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caligo",
+   "other_aliases": [
+    "Mist",
+    "Darkness"
+   ],
+   "kind": "consort_of",
+   "myth": "Hyginus genealogy",
+   "note": "Chaos reproduces with Caligo, generating Night, Day, Erebus, and Aether.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nox",
+   "other_aliases": [
+    "Night",
+    "Nyx"
+   ],
+   "kind": "parent_of",
+   "myth": "Hyginus genealogy",
+   "note": "Nox is born from Chaos and Caligo in Hyginus's genealogy.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dies",
+   "other_aliases": [
+    "Day",
+    "Hemera"
+   ],
+   "kind": "parent_of",
+   "myth": "Hyginus genealogy",
+   "note": "Dies is born from Chaos and Caligo, unlike Hesiod's genealogy.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Hyginus genealogy",
+   "note": "Erebus is born from Chaos and Caligo in the Hyginus tradition.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Hyginus genealogy",
+   "note": "Aether is born from Chaos and Caligo, unlike Hesiod's genealogy.",
+   "source": "Pseudo-Hyginus, Fabulae, Preface",
+   "date": "early Imperial or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Titanomachy and Typhonomachy",
+   "note": "Zeus's cosmic thunder and heat reach Chaos, without personal encounter or dialogue.",
+   "source": "Hesiod, Theogony 700–705, 839–841",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Protogonos",
+    "Metis",
+    "Eros",
+    "Erikepaios"
+   ],
+   "kind": "shared_myth",
+   "myth": "Orphic cosmic egg cycle",
+   "note": "The cosmic egg from which Phanes emerges forms amid Chaos and Aether.",
+   "source": "Orphic Rhapsodies via Proclus and Damascius",
+   "date": "fifth–sixth century CE witnesses",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [
+    "ancient Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Miltonic abyss",
+   "note": "Chaos and ancient Night inhabit the turbulent abyss outside the created world.",
+   "source": "Milton, Paradise Lost 2",
+   "date": "1667; 1674",
+   "tier": "modern"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Satan crosses Chaos",
+   "note": "Satan negotiates passage through the turbulent realm over which Chaos presides.",
+   "source": "Milton, Paradise Lost 2",
+   "date": "1667; 1674",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "subject": "python",
+ "relations": [
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo kills the dragoness beside the Delphic spring",
+   "note": "Apollo shoots the unnamed female dragoness with arrows and leaves her corpse to rot.",
+   "source": "Homeric Hymn to Apollo 300–374",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo kills the named male Python",
+   "note": "Apollo kills Python in the earliest surviving text explicitly naming the male dragon.",
+   "source": "Simonides fragment, preserved by Julian",
+   "date": "late sixth/early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo conquers Gaia's Delphic oracle",
+   "note": "Apollo kills Gaia's earthborn oracle-guardian and occupies Delphi.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo defeats the brigand Python",
+   "note": "Apollo kills the rationalized brigand Python, surnamed Drakon, with Parnassian assistance.",
+   "source": "Ephorus in Strabo 9.3.12",
+   "date": "fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Python obstructs Apollo at Themis's oracle",
+   "note": "Apollo kills Python when the serpent blocks his approach to the prophetic chasm.",
+   "source": "Apollodorus, Bibliotheca 1.4.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo destroys post-flood Python",
+   "note": "Apollo exhausts nearly his entire quiver killing Earth's enormous post-flood serpent.",
+   "source": "Ovid, Metamorphoses 1.438–451",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Infant Apollo avenges Leto",
+   "note": "Four-day-old Apollo kills Python, places its bones in the tripod, and takes revenge.",
+   "source": "Hyginus, Fabulae 140",
+   "date": "Roman Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Foundation of the Pythian Games",
+   "note": "Apollo establishes victory contests commemorating Python's death.",
+   "source": "Ovid, Metamorphoses 1.438–451",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Python's funeral games",
+   "note": "Apollo holds funeral games for Python after killing him.",
+   "source": "Hyginus, Fabulae 140",
+   "date": "Roman Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo and Artemis kill Pytho",
+   "note": "Artemis joins Apollo in killing Pytho and afterward seeks purification.",
+   "source": "Pausanias, Description of Greece 2.7.7",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera entrusts Typhaon to the dragoness",
+   "note": "Hera gives her newborn Typhaon to the unnamed dragoness to rear.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhaon",
+   "other_aliases": [
+    "Typhoeus"
+   ],
+   "kind": "other",
+   "myth": "The dragoness fosters Typhaon",
+   "note": "The unnamed Delphic dragoness receives and nurses Hera's newborn Typhaon.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Python is described as an earthborn guardian belonging to Gaia.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "created_by",
+   "myth": "Earth generates Python after Deucalion's flood",
+   "note": "Earth spontaneously generates Python from warm post-flood mud.",
+   "source": "Ovid, Metamorphoses 1.416–451",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Python is explicitly called the son of Earth.",
+   "source": "Hyginus, Fabulae 140",
+   "date": "Roman Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "served",
+   "myth": "Guardian of Gaia's oracle",
+   "note": "Gaia stations Python as the dragon guarding her Delphic oracle.",
+   "source": "Pausanias, Description of Greece 10.6.6",
+   "date": "c. 150–175 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Guardian of Themis's oracle",
+   "note": "Python guards the Delphic oracle where Themis gives prophetic responses.",
+   "source": "Apollodorus, Bibliotheca 1.4.1",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Python persecutes pregnant Leto",
+   "note": "Python hunts Leto during pregnancy to prevent the birth of his destined killer.",
+   "source": "Hyginus, Fabulae 140",
+   "date": "Roman Imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Delphyne",
+   "other_aliases": [
+    "Delphynē"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later tradition and scholarship identify Python's Delphic victim-form with the similarly named Cilician dragoness.",
+   "source": "Apollonius, Argonautica 2.703–713",
+   "date": "third century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern visual and comparative scholarship sometimes assimilates the female Delphic monster to Echidna.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [
+    "Typhoeus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later traditions conflate Python with Typhon through overlapping names and dragon-combat patterns.",
+   "source": "Later mythographic traditions",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  }
+ ]
+}

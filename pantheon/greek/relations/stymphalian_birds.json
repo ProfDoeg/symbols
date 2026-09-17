@@ -1,0 +1,223 @@
+{
+ "subject": "stymphalian_birds",
+ "relations": [
+  {
+   "other": "Stymphalos",
+   "other_aliases": [
+    "Stymphelos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mnaseas makes Stymphalos the father of the human Stymphalides.",
+   "source": "Mnaseas scholion on Apollonius 2.1054",
+   "date": "late 3rd–2nd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ornis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mnaseas makes Ornis, whose name means Bird, their mother.",
+   "source": "Mnaseas scholion on Apollonius 2.1054",
+   "date": "late 3rd–2nd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "Heracles expels the birds with rattles",
+   "note": "Heracles drives the flock from Stymphalos using loud rattles.",
+   "source": "Peisander fragment in Pausanias 8.22.4",
+   "date": "perhaps 7th/6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "Heracles attacks the flock with a sling",
+   "note": "Archaic vase art shows Heracles confronting sixteen waterbirds with a sling.",
+   "source": "British Museum B163",
+   "date": "ca. 540 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "Heracles clears the crop-destroying flock",
+   "note": "Heracles kills some birds and frightens the immense remaining flock away.",
+   "source": "Diodorus, Library 4.13.2",
+   "date": "1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "The sixth labor at Lake Stymphalis",
+   "note": "Heracles flushes the inaccessible birds with bronze clappers and shoots them.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.5.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "killed_by",
+   "myth": "The inhospitable daughters of Stymphalos",
+   "note": "Heracles kills the human Stymphalides after they refuse him hospitality.",
+   "source": "Mnaseas scholion on Apollonius 2.1054",
+   "date": "late 3rd–2nd c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "killed_by",
+   "myth": "Heracles kills the birds on Mars's island",
+   "note": "Hyginus relocates their destruction by Heracles to the island of Mars.",
+   "source": "Pseudo-Hyginus, Fabula 30",
+   "date": "probably 2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Athena supplies Heracles with bronze clappers",
+   "note": "Athena obtains Hephaestus's noisemakers and gives them to Heracles.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.5.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympia's Stymphalian Birds metope",
+   "note": "Athena appears beside Heracles in the monumentalized labor scene.",
+   "source": "Temple of Zeus west metope",
+   "date": "ca. 470–457 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The bronze clappers used against the birds",
+   "note": "Hephaestus makes or possesses the noisemakers Athena gives Heracles.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.5.6",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "other",
+   "myth": "The projectile-feathered birds of Ares",
+   "note": "The Black Sea flock inhabits Ares's island and is called his birds.",
+   "source": "Apollonius, Argonautica 2.1030–1089",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "identified_with",
+   "myth": "Stymphalides identified as Mars's nurslings",
+   "note": "Later Roman tradition identifies the Stymphalian flock with Mars's nurslings.",
+   "source": "Servius on Aeneid 8.299–300",
+   "date": "late 4th/early 5th c.",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Artemis Stymphalia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bird imagery at Artemis's Stymphalian sanctuary",
+   "note": "Bird figures and bird-legged maidens decorate her sanctuary, without a narrated encounter.",
+   "source": "Pausanias 8.22.7–9",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Medea's offering of a Stymphalian feather",
+   "note": "Medea offers Hecate a feather taken from a wounded Stymphalian bird.",
+   "source": "Seneca, Medea 771–787",
+   "date": "1st c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Phineus advises noise against the island birds",
+   "note": "The prophetic adviser directs the Argonauts to repel the birds with noise.",
+   "source": "Pseudo-Hyginus, Fabula 20",
+   "date": "probably 2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Argonauts",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The Argonauts repel the birds of Ares",
+   "note": "The Argonauts use shields, spears, shouting, and noise to drive them away.",
+   "source": "Apollonius, Argonautica 2.1030–1089",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oileus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "A feather wounds Oileus",
+   "note": "One bird launches a sharp feather that wounds Oileus in the shoulder.",
+   "source": "Apollonius, Argonautica 2.1030–1089",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clytius",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Clytius shoots an attacking bird",
+   "note": "Clytius shoots down one member of the projectile-feathered flock.",
+   "source": "Apollonius, Argonautica 2.1030–1089",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Molionids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Stymphalides welcome Heracles's enemies",
+   "note": "The human Stymphalides welcome the Molionids while refusing Heracles hospitality.",
+   "source": "Mnaseas scholion on Apollonius 2.1054",
+   "date": "late 3rd–2nd c. BCE",
+   "tier": "regional_variant"
+  }
+ ]
+}

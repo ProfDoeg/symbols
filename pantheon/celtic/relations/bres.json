@@ -1,0 +1,321 @@
+{
+ "subject": "bres",
+ "relations": [
+  {
+   "other": "Ériu",
+   "other_aliases": [
+    "Bres’s unnamed Túatha Dé mother"
+   ],
+   "kind": "child_of",
+   "myth": "Birth and naming of Bres",
+   "note": "She conceives Bres by Elatha, raises him, and guides him toward his father.",
+   "source": "Cath Maige Tuired §§17–24, 42–43",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elatha",
+   "other_aliases": [
+    "Elatha mac Delbaith",
+    "Elada",
+    "Elathan",
+    "Eladain",
+    "Eladon",
+    "Elathu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Elatha is Bres’s Fomorian father and recognizes him through the gold ring.",
+   "source": "Cath Maige Tuired §§17–23, 42–50",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elatha",
+   "other_aliases": [
+    "Elatha mac Delbaith",
+    "Elada",
+    "Elathan",
+    "Eladain",
+    "Eladon",
+    "Elathu"
+   ],
+   "kind": "judged_by",
+   "myth": "Bres appeals to his Fomorian father",
+   "note": "Elatha condemns Bres’s unjust kingship but directs him to Balor and Indech.",
+   "source": "Cath Maige Tuired §§42–50",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later derivative retellings make Balor Bres’s father instead of Elatha.",
+   "source": "Later derivative tradition",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nét",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Learned genealogies inconsistently place Bres among Nét’s descendants.",
+   "source": "Lebor Gabála Érenn genealogies",
+   "date": "12th century and after",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Delbaeth",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Learned genealogies place Bres among Delbaeth’s descendants through Elatha or Elada.",
+   "source": "Lebor Gabála Érenn genealogies",
+   "date": "12th century and after",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brigit",
+   "other_aliases": [
+    "Brig"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Their union is not narrated, but both are explicitly named as Rúadán’s parents.",
+   "source": "Cath Maige Tuired §124",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rúadán",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rúadán, the Fomorian spy killed by Goibniu, is Bres and Brigit’s son.",
+   "source": "Cath Maige Tuired §§124–127",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triall",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some learned genealogies assign Triall as Bres’s child, possibly through conflation.",
+   "source": "Learned genealogical traditions",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Núadu",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Succession after Núadu’s mutilation",
+   "note": "Bres replaces the mutilated Núadu; after Núadu’s healing, Bres is deposed and Núadu resumes rule.",
+   "source": "Cath Maige Tuired §§14–15, 40, 53",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Dagda",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Construction of Bres’s fortress",
+   "note": "Bres compels the Dagda to build Dún or Ráth Brese under tribute conditions.",
+   "source": "Cath Maige Tuired §§24–26",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Dagda",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recovery of the Dagda’s harp",
+   "note": "Bres and Elatha are present when the Dagda enters the Fomorian hall for his harp.",
+   "source": "Cath Maige Tuired §§163–165",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ogma’s compulsory labor",
+   "note": "Bres reduces Ogma to carrying firewood while deprivation leaves the champion weakened.",
+   "source": "Cath Maige Tuired §§25, 36–37",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coirpre mac Étaine",
+   "other_aliases": [
+    "Cairpre mac Edaine"
+   ],
+   "kind": "punished_by",
+   "myth": "Coirpre’s first satire",
+   "note": "After Bres denies him proper hospitality, Coirpre’s satire destroys Bres’s prosperity and helps end his reign.",
+   "source": "Cath Maige Tuired §§38–40",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goibniu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rúadán attacks Goibniu",
+   "note": "Bres is indirectly connected through his son Rúadán, whom Goibniu kills after being attacked.",
+   "source": "Cath Maige Tuired §§124–127",
+   "date": "9th–12th centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Fomorian expedition against the Túatha Dé",
+   "note": "Balor helps assemble the expedition and serves with Bres among the Fomorian leaders.",
+   "source": "Cath Maige Tuired §§50, 128",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indech mac Dé Domnann",
+   "other_aliases": [
+    "Indech"
+   ],
+   "kind": "allied",
+   "myth": "Fomorian expedition against the Túatha Dé",
+   "note": "Indech exacts tribute during Bres’s reign and later leads Bres’s invasion forces.",
+   "source": "Cath Maige Tuired §§25, 50, 128",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Fomorian tribute during Bres’s reign",
+   "note": "Tethra joins Elatha and Indech among the Fomorian kings imposing tribute under Bres.",
+   "source": "Cath Maige Tuired §25",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Bres leads the Fomorian cause defeated by Lug and the Túatha Dé.",
+   "source": "Cath Maige Tuired §§128–149",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Agricultural ransom after the battle",
+   "note": "Bres teaches Lug when to plough, sow, and reap, securing his release.",
+   "source": "Cath Maige Tuired §§149–161",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Death at Carn Húi Néit",
+   "note": "Lug tricks Bres into drinking red bitter liquid from wooden cows as false milk.",
+   "source": "Metrical Dindshenchas, Carn Húi Néit",
+   "date": "12th–14th centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death at Carn Húi Néit",
+   "note": "Lug kills Bres with false milk or bog-stuff, contradicting the agricultural-release ending.",
+   "source": "Carn Húi Néit; Lebor Gabála Érenn",
+   "date": "12th century and after",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Máeltne Mórbrethach",
+   "other_aliases": [
+    "Máeltne"
+   ],
+   "kind": "judged_by",
+   "myth": "Agricultural ransom after the battle",
+   "note": "Máeltne rejects Bres’s perpetual milk and quarterly harvest offers and defines the proper seasonal cycle.",
+   "source": "Cath Maige Tuired §§150–160",
+   "date": "9th–12th centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sreng",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Parley before the First Battle",
+   "note": "Bres and Sreng meet as envoys, compare weapons, and exchange their armies’ demands.",
+   "source": "Cath Maige Tuired Conga",
+   "date": "15th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eochaid mac Eirc",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Bres attacks the Fir Bolg king during the battle.",
+   "source": "Cath Maige Tuired Conga",
+   "date": "15th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eochaid mac Eirc",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "First Battle of Mag Tuired",
+   "note": "Eochaid reportedly kills Bres, despite the text subsequently electing Bres as king.",
+   "source": "Cath Maige Tuired Conga",
+   "date": "15th century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Elcmar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Elcmar’s enchanted journey to Mag nInis",
+   "note": "The Dagda sends Elcmar to Bres’s residence while magically compressing nine months into one day.",
+   "source": "Tochmarc Étaíne, first section",
+   "date": "medieval period",
+   "tier": "attested"
+  },
+  {
+   "other": "Boand",
+   "other_aliases": [
+    "Eithne"
+   ],
+   "kind": "shared_myth",
+   "myth": "Conception of Óengus",
+   "note": "Bres’s residence is Elcmar’s destination while the Dagda conceives Óengus with Boand.",
+   "source": "Tochmarc Étaíne, first section",
+   "date": "medieval period",
+   "tier": "attested"
+  },
+  {
+   "other": "Óengus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Conception of Óengus",
+   "note": "Bres is indirectly connected because Elcmar visits him during Óengus’s magically concealed conception.",
+   "source": "Tochmarc Étaíne, first section",
+   "date": "medieval period",
+   "tier": "attested"
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "subject": "medusa",
+ "relations": [
+  {
+   "other": "Phorkys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Phorkys is Medusa’s father in the Hesiodic marine-monster genealogy.",
+   "source": "Hesiod, Theogony 270–276",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Keto",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Keto is Medusa’s mother in the Hesiodic marine-monster genealogy.",
+   "source": "Hesiod, Theogony 270–276",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenno",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sthenno is Medusa’s immortal Gorgon sister.",
+   "source": "Hesiod, Theogony 274–279",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sthenno",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pursuit of Perseus",
+   "note": "Sthenno pursues Perseus after he beheads Medusa.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euryale",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Euryale is Medusa’s immortal Gorgon sister.",
+   "source": "Hesiod, Theogony 274–279",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryale",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lament after Medusa’s death",
+   "note": "Euryale laments Medusa while the Gorgons’ serpents hiss.",
+   "source": "Pindar, Pythian 12",
+   "date": "490 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euryale",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pursuit of Perseus",
+   "note": "Euryale pursues Perseus after he beheads Medusa.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pemphredo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Pemphredo is one of Medusa’s close Graiai kin.",
+   "source": "Hesiod, Theogony 270–276",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Enyo is one of Medusa’s close Graiai kin.",
+   "source": "Hesiod, Theogony 270–276",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deino",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Later mythography names Deino as a third Graia among Medusa’s close kin.",
+   "source": "Later mythographic tradition",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "consort_of",
+   "myth": "Union in the flowered meadow",
+   "note": "Poseidon lies with Medusa and fathers Pegasus and Chrysaor.",
+   "source": "Hesiod, Theogony 278–286",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "other",
+   "myth": "Violation in Minerva’s temple",
+   "note": "Neptune sexually violates or possesses Medusa inside Minerva’s temple.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pegasus springs from Medusa when Perseus cuts off her head.",
+   "source": "Hesiod, Theogony 280–286",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chrysaor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chrysaor springs from Medusa alongside Pegasus at her death.",
+   "source": "Hesiod, Theogony 280–286",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Geryon",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Medusa is Geryon’s grandmother through her son Chrysaor.",
+   "source": "Hesiod, Theogony 280–294",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Beheading of Medusa",
+   "note": "Perseus beheads the sleeping mortal Gorgon and takes her still-powerful head.",
+   "source": "Hesiod, Theogony 280–286",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Rationalized Libyan queen",
+   "note": "Perseus assassinates the campaigning Libyan queen Medusa at night.",
+   "source": "Pausanias, Description of Greece",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "fought",
+   "myth": "Beheading of Medusa",
+   "note": "Athena guides Perseus’s hand as he uses her bronze shield to behead Medusa.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "transformed_by",
+   "myth": "Transformation after Neptune’s violation",
+   "note": "Minerva changes Medusa’s celebrated hair into snakes after Neptune violates her temple.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "killed_by",
+   "myth": "Gaia’s Gorgon in the Gigantomachy",
+   "note": "Athena kills Gaia’s Gorgon, only later harmonized with Medusa.",
+   "source": "Euripides, Ion 987–1019",
+   "date": "c. 410s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "killed_by",
+   "myth": "Beauty rivalry",
+   "note": "An alternate tradition says Athena targeted or killed Medusa for rivaling her beauty.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Athena receives the gorgoneion",
+   "note": "Athena receives Medusa’s severed head and places it upon her shield or aegis.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Invention of flute music",
+   "note": "Athena fashions flute music from Euryale’s lament and the serpents’ hissing after Medusa’s death.",
+   "source": "Pindar, Pythian 12",
+   "date": "490 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Gaia’s Gorgon in the Gigantomachy",
+   "note": "Gaia produces a Gorgon allied with her children; identification with Medusa is uncertain.",
+   "source": "Euripides, Ion 987–1019",
+   "date": "c. 410s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "other",
+   "myth": "Perseus’s quest",
+   "note": "Hermes indirectly opposes Medusa by equipping and guiding Perseus for her killing.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Perseus’s escape",
+   "note": "Hades’ cap indirectly enables Perseus to escape invisibly after beheading Medusa.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.4",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asklepios",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Gift of the Gorgon’s blood",
+   "note": "Athena gives Asklepios Medusa’s opposed healing and killing blood after her death.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.10.3",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Petrification of Atlas",
+   "note": "Medusa’s severed head petrifies Atlas into a mountain range when Perseus exposes it.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Wedding battle",
+   "note": "Medusa’s severed head petrifies Phineus when Perseus exposes it during the wedding battle.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polydectes",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Perseus returns to Seriphos",
+   "note": "Medusa’s severed head turns Polydectes to stone when Perseus returns.",
+   "source": "Mythographic tradition",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Libyan serpents",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Blood falls in Libya",
+   "note": "Drops of blood from Medusa’s severed head generate Libya’s poisonous serpents.",
+   "source": "Apollonius Rhodius, Argonautica 4.1513–1517",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  }
+ ]
+}

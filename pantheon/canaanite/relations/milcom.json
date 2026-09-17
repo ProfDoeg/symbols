@@ -1,0 +1,105 @@
+{
+ "subject": "milcom",
+ "relations": [
+  {
+   "other": "Yahweh",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Yahweh condemns Solomon’s worship of Milcom",
+   "note": "Yahweh condemns Milcom’s worship and announces the division of Solomon’s kingdom.",
+   "source": "1 Kings 11:5, 9–13, 31–33",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "Ashtoreth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solomon worships Astarte and Milcom",
+   "note": "Both deities are objects of Solomon’s apostasy but never interact directly.",
+   "source": "1 Kings 11:5, 33",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chemosh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Foreign gods condemned during Solomon’s apostasy",
+   "note": "Milcom and Chemosh appear as neighboring national gods condemned alongside Astarte.",
+   "source": "1 Kings 11:7, 33",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "Ashtoreth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Josiah desecrates foreign high places",
+   "note": "Their Jerusalem high places are jointly listed among those desecrated by Josiah.",
+   "source": "2 Kings 23:13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chemosh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Josiah desecrates foreign high places",
+   "note": "Their neighboring Jerusalem high places are desecrated together during Josiah’s reform.",
+   "source": "2 Kings 23:13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Molech",
+   "other_aliases": [
+    "Moloch"
+   ],
+   "kind": "identified_with",
+   "myth": "Molech substitutes for Milcom in Solomon’s apostasy",
+   "note": "The Masoretic reading may substitute Molech for Milcom; other witnesses and passages distinguish them.",
+   "source": "1 Kings 11:7; 2 Kings 23:10, 13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "El",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars propose Milcom as El’s Ammonite royal title or an assimilated deity.",
+   "source": "Ammonite onomasticon and comparative reconstruction",
+   "date": "modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Qos",
+   "other_aliases": [
+    "QWS"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "MLKM and QWS occur together in a bilingual inscription, if MLKM denotes Milcom.",
+   "source": "Qasr Bayir bilingual inscription",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chemosh",
+   "other_aliases": [
+    "KMS"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "MLKM and KMS occur together in a bilingual inscription, if both identifications are correct.",
+   "source": "Qasr Bayir bilingual inscription",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  }
+ ]
+}

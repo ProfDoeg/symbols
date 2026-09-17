@@ -1,0 +1,520 @@
+{
+ "subject": "hecate",
+ "relations": [
+  {
+   "other": "Asteria",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hecate is the only daughter of Asteria and Perses.",
+   "source": "Hesiod, Theogony 404–411",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hecate is the daughter of Perses and Asteria.",
+   "source": "Hesiod, Theogony 409–411",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A variant genealogy names Nyx as Hecate's mother.",
+   "source": "Bacchylides fragment in Apollonius scholion",
+   "date": "Archaic or Classical",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Musaeus's variant makes Hecate the daughter of Zeus and Asteria.",
+   "source": "Musaeus fragment in Apollonius scholion",
+   "date": "learned variant",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pherecydes names Aristaeus, son of Paion, as Hecate's father.",
+   "source": "Pherecydes fragment",
+   "date": "early logographic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Paion",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "In Pherecydes's genealogy, Hecate's father Aristaeus is Paion's son.",
+   "source": "Pherecydes fragment",
+   "date": "early logographic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Deo"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orphic poetry reportedly makes Demeter, or Deo, Hecate's mother.",
+   "source": "Orphic poetry cited by scholia",
+   "date": "undated Orphic variant",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Perses",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus makes mortal Hecate the daughter of Perses, son of Helios.",
+   "source": "Diodorus Siculus 4.45",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Diodorus's mortal Hecate is granddaughter of Helios through Perses.",
+   "source": "Diodorus Siculus 4.45",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Diodorus's Euhemeristic Hecate marries Aeetes.",
+   "source": "Diodorus Siculus 4.45",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Diodorus's Euhemeristic genealogy makes Circe Hecate's daughter.",
+   "source": "Diodorus Siculus 4.45",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Diodorus's Euhemeristic genealogy makes Medea Hecate's daughter.",
+   "source": "Diodorus Siculus 4.45",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hesiodic grant of honors",
+   "note": "Zeus preserves and enlarges Hecate's honors after the Titan settlement.",
+   "source": "Hesiod, Theogony 411–452",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Deo"
+   ],
+   "kind": "allied",
+   "myth": "Search for Persephone",
+   "note": "Hecate meets grieving Demeter with a torch and directs her to Helios.",
+   "source": "Homeric Hymn to Demeter 51–61",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "shared_myth",
+   "myth": "Persephone's abduction",
+   "note": "Hecate hears Persephone's cry during her abduction but sees no abductor.",
+   "source": "Homeric Hymn to Demeter 24–27",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "served",
+   "myth": "Persephone's return",
+   "note": "Hecate embraces Persephone and becomes her attendant and companion.",
+   "source": "Homeric Hymn to Demeter 438–440",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Investigation of Persephone's abduction",
+   "note": "Hecate directs Demeter to Helios as eyewitness, without directly addressing him.",
+   "source": "Homeric Hymn to Demeter 51–87",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clytius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Hecate kills the Giant Clytius with torches or firebrands.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.6.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "allied",
+   "myth": "Gigantomachy",
+   "note": "Artemis fights beside or adjacent to Hecate against the Giants.",
+   "source": "Pergamon Altar east frieze",
+   "date": "c. 180–160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Gigantomachy",
+   "note": "Hecate and Heracles fight on the gods' side without a discrete exchange.",
+   "source": "Pseudo-Apollodorus 1.6.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Hecate supports the Olympians against Gaia's Giants; no personal encounter occurs.",
+   "source": "Pseudo-Apollodorus 1.6.1–2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hecate receives joint or adjacent cult with Apollo at Miletus and Didyma.",
+   "source": "Miletian epigraphy",
+   "date": "Archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hecate and Apollo are cousins through the sisters Asteria and Leto.",
+   "source": "Hesiodic genealogy",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Hecate and Artemis are cousins through the sisters Asteria and Leto.",
+   "source": "Hesiodic genealogy",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Hecate and Medea",
+   "note": "Hecate teaches Medea the handling of magical herbs and drugs.",
+   "source": "Apollonius, Argonautica 3.528–533",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Jason's sacrifice to Hecate",
+   "note": "Hecate receives Jason's pit sacrifice and manifests amid serpents and barking dogs.",
+   "source": "Apollonius, Argonautica 3.1028–1041",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cult, scholia, poetry, and magic repeatedly identify or fuse Hecate with Artemis.",
+   "source": "Classical cult, scholia, and PGM",
+   "date": "Classical–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman-period hymns and spells explicitly fuse Hecate with Selene.",
+   "source": "PGM IV and Latin poetry",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Magical papyri identify Hecate and Persephone as one underworld power.",
+   "source": "PGM IV",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enodia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Thessalian road and cemetery goddess Enodia was assimilated to Hecate.",
+   "source": "Classical Thessalian cult evidence",
+   "date": "Classical period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Egyptian magic forms the composite divine name Hermekate.",
+   "source": "PGM III",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ereshkigal",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Magical texts assimilate Hecate's underworld authority to Ereshkigal's divine name.",
+   "source": "Curse tablets and magical texts",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "The Moirai",
+   "other_aliases": [
+    "The Fates",
+    "Clotho",
+    "Lachesis",
+    "Atropos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Moirai are accumulated within composite Hecate-Selene ritual prayers.",
+   "source": "PGM IV.2785–2890",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "The Erinyes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Erinyes are fused with Hecate's names and functions in magical invocations.",
+   "source": "PGM IV",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Megaira",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Megaira is accumulated among Hecate's magical names and functions.",
+   "source": "PGM IV",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Brimo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Brimo is a shared mystery and magical name applied contextually to Hecate.",
+   "source": "Lycophron and magical texts",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bendis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hecate is contextually equated with Bendis in cultic or magical interpretation.",
+   "source": "Roman-period sources and scholia",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kotys",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hecate is contextually equated with Kotys in cultic or magical interpretation.",
+   "source": "Roman-period sources and scholia",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mystery and learned interpretations identify Hecate with Cybele.",
+   "source": "Roman-period sources and scholia",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mystery and learned interpretations identify Hecate with Rhea.",
+   "source": "Roman-period sources and scholia",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cosmic boundary hymn",
+   "note": "Proclus pairs Hecate and Janus as complementary boundary and mediating deities.",
+   "source": "Proclus, Hymn to Hecate and Janus",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Iphigenia becomes Hecate",
+   "note": "A disputed Hesiodic tradition says Iphigenia became, or is, Hecate.",
+   "source": "Pausanias 1.43.1",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "transformed_by",
+   "myth": "Iphigenia becomes Hecate",
+   "note": "In one disputed reading, Artemis transforms Iphigenia into Hecate.",
+   "source": "Pausanias 1.43.1",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Angelos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars probably identify the Sicilian underworld goddess Angelos with Hecate.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "If Angelos is Hecate, a regional story makes Zeus her father.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "If Angelos is Hecate, a regional story makes Hera her mother.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Angelos steals Hera's ointments",
+   "note": "Angelos steals Hera's ointments and is pursued by her mother.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Angelos steals Hera's ointments",
+   "note": "Angelos gives Europa the ointments stolen from Hera.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Cabeiroi",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Purification of Angelos",
+   "note": "At Zeus's order, the Cabeiroi purify Angelos in Acherusian waters.",
+   "source": "Scholia on Theocritus 2.12",
+   "date": "preserving Sophron",
+   "tier": "regional_variant"
+  }
+ ]
+}

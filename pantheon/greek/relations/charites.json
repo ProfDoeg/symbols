@@ -1,0 +1,477 @@
+{
+ "subject": "charites",
+ "relations": [
+  {
+   "other": "Gratiae",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman reception conventionally identifies the Latin Gratiae with the Greek Charites.",
+   "source": "Roman literary and artistic reception",
+   "date": "Roman Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Aglaea, Euphrosyne, and Thalia with Eurynome.",
+   "source": "Hesiod, Theogony 907–911",
+   "date": "approximately 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eurynome bears the canonical triad to Zeus.",
+   "source": "Hesiod, Theogony 907–911",
+   "date": "approximately 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Aglaea, Thalia, and Euphrosyne with Eunomia.",
+   "source": "Orphic Hymn 60",
+   "date": "second–third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eunomia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eunomia replaces Eurynome as mother of the triad.",
+   "source": "Orphic Hymn 60",
+   "date": "second–third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A classical variant makes Helios father of the Charites.",
+   "source": "Antimachus, reported by Pausanias 9.35.5",
+   "date": "fifth–fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aegle",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A classical variant makes Aegle mother of the Charites.",
+   "source": "Antimachus, reported by Pausanias 9.35.5",
+   "date": "fifth–fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Colluthus explicitly calls Hera mother or nurse of the Charites.",
+   "source": "Colluthus",
+   "date": "fifth–sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Dionysus reclaims his daughters from Aphrodite",
+   "note": "Nonnus makes the Charites daughters of Dionysus in a late genealogy.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Charis welcomes Thetis",
+   "note": "Charis is Hephaestus’s wife and shares his bronze house.",
+   "source": "Homer, Iliad 18.382–392",
+   "date": "late eighth/early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aglaea, youngest of the Charites, becomes Hephaestus’s wife.",
+   "source": "Hesiod, Theogony 945–946",
+   "date": "approximately 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "consort_of",
+   "myth": "Hera bargains with Sleep",
+   "note": "Hypnos desires Pasithea, whom Hera promises him as payment.",
+   "source": "Homer, Iliad 14.267–276",
+   "date": "late eighth/early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Charis welcomes Thetis",
+   "note": "Charis takes Thetis’s hand and welcomes her into Hephaestus’s house.",
+   "source": "Homer, Iliad 18.382–392",
+   "date": "late eighth/early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera bargains with Sleep",
+   "note": "Hera promises Pasithea to Hypnos for putting Zeus to sleep.",
+   "source": "Homer, Iliad 14.267–276",
+   "date": "late eighth/early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian dance near the Muses",
+   "note": "The Charites live and dance near the Muses on Olympus.",
+   "source": "Hesiod, Theogony 53–64",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Himeros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian dance near Himeros",
+   "note": "The Charites live and dance near Himeros on Olympus.",
+   "source": "Hesiod, Theogony 53–64",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [
+    "Persuasion"
+   ],
+   "kind": "allied",
+   "myth": "Pandora’s adornment",
+   "note": "The Charites and Peitho together place golden necklaces on Pandora.",
+   "source": "Hesiod, Works and Days 69–74",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Pandora’s adornment",
+   "note": "The Charites adorn Pandora with golden necklaces, enhancing her dangerous beauty.",
+   "source": "Hesiod, Works and Days 69–75",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Aphrodite’s toilette",
+   "note": "The Charites bathe, anoint, and clothe Aphrodite in fragrant divine oil.",
+   "source": "Homeric Hymn to Aphrodite 58–63",
+   "date": "seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Pythian Apollo"
+   ],
+   "kind": "shared_myth",
+   "myth": "Olympian dance at Apollo’s music",
+   "note": "The Charites dance during Apollo’s Olympian music-making.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Pythian Apollo"
+   ],
+   "kind": "shared_myth",
+   "myth": "Charites enthroned beside Pythian Apollo",
+   "note": "At Orchomenos the Charites are poetically enthroned beside Pythian Apollo.",
+   "source": "Pindar, Olympian 14",
+   "date": "476 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Artemis leads the divine dance",
+   "note": "Artemis leads the Muses and Charites in dance.",
+   "source": "Homeric Hymn to Artemis 13–20",
+   "date": "late Archaic or Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Horae",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian wrist-to-wrist dance",
+   "note": "The Horae and Charites dance wrist-to-wrist with other goddesses.",
+   "source": "Homeric Hymn to Apollo 194–196",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian wrist-to-wrist dance",
+   "note": "Harmonia and the Charites join the Olympian dance.",
+   "source": "Homeric Hymn to Apollo 194–196",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian wrist-to-wrist dance",
+   "note": "Hebe and the Charites join the Olympian dance.",
+   "source": "Homeric Hymn to Apollo 194–196",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Olympian wrist-to-wrist dance",
+   "note": "Aphrodite and the Charites dance wrist-to-wrist on Olympus.",
+   "source": "Homeric Hymn to Apollo 194–196",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "The Muses and Charites jointly sing at the divine wedding.",
+   "source": "Theognidean corpus 15–18",
+   "date": "sixth/fifth-century transmission",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Making Dionysus’s purple robe",
+   "note": "The Charites make the purple robe later associated with Dionysus.",
+   "source": "Apollonius, Argonautica 4.423–434",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Aphrodite’s beauty cult",
+   "note": "The Charites attend Aphrodite and bear locally Aphroditic attributes at Elis.",
+   "source": "Pausanias 6.24.6–7",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared pedestal at Elis",
+   "note": "A statue of Eros shares the Charites’ cult pedestal at Elis.",
+   "source": "Pausanias 6.24.7",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Common altar at Olympia",
+   "note": "Dionysus and the Charites share a common altar at Olympia.",
+   "source": "Pausanias 5.14.10",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Charites held by Delian Apollo",
+   "note": "Archaic Delian images represent Apollo bearing three Charites in his hand.",
+   "source": "Pausanias 9.35.3",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Aphrodite’s weaving contest",
+   "note": "Pasithea, Peitho, and Aglaea prepare wool and yarn for Aphrodite.",
+   "source": "Nonnus, Dionysiaca 24.261 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite’s weaving contest",
+   "note": "The Charites assist Aphrodite while she competes with Athena at weaving.",
+   "source": "Nonnus, Dionysiaca 24.261 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pasithea mourns maddened Dionysus",
+   "note": "Pasithea finds her father Dionysus maddened and mourns him.",
+   "source": "Nonnus, Dionysiaca 33.4 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Pasithea prepares Aphrodite’s perfume",
+   "note": "Pasithea prepares perfume for Aphrodite.",
+   "source": "Nonnus, Dionysiaca 33.4 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Wedding of Eros and Psyche",
+   "note": "The Gratiae diffuse balsam during Eros and Psyche’s wedding.",
+   "source": "Apuleius, Metamorphoses 6.24",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Wedding of Eros and Psyche",
+   "note": "The Gratiae diffuse balsam during Psyche’s wedding to Eros.",
+   "source": "Apuleius, Metamorphoses 6.24",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "The Charites dance at Peleus and Thetis’s wedding.",
+   "source": "Quintus Smyrnaeus, Posthomerica 4.128 ff.",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "The Charites dance at Thetis’s wedding to Peleus.",
+   "source": "Quintus Smyrnaeus, Posthomerica 4.128 ff.",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aphrodite’s sea-birth",
+   "note": "The Charites dance at Aphrodite’s birth from the sea.",
+   "source": "Quintus Smyrnaeus 5.70 ff.",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eucleia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic tradition makes Aglaea and Hephaestus parents of Eucleia.",
+   "source": "Proclus and Neoplatonic material",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euthenia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic tradition makes Aglaea and Hephaestus parents of Euthenia.",
+   "source": "Proclus and Neoplatonic material",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eupheme",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic tradition makes Aglaea and Hephaestus parents of Eupheme.",
+   "source": "Proclus and Neoplatonic material",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Philophrosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic tradition makes Aglaea and Hephaestus parents of Philophrosyne.",
+   "source": "Proclus and Neoplatonic material",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

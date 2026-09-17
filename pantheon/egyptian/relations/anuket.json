@@ -1,0 +1,209 @@
+{
+ "subject": "anuket",
+ "relations": [
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Chnoubis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Restoration of the Nile flood",
+   "note": "Anuket stands with Khnum while he promises Djoser the inundation will return.",
+   "source": "Sehel Famine Stela",
+   "date": "Ptolemaic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Chnoubis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint royal offering at Sehel",
+   "note": "Anuket and Khnum jointly receive royal offerings in the Cataract cult.",
+   "source": "Sehel altar and relief blocks",
+   "date": "Dynasty XIII",
+   "tier": "attested"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Chnoubis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mature Elephantine theology makes Anuket the daughter of Khnum and Satet.",
+   "source": "Later Elephantine temple tradition",
+   "date": "Late and Greco-Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Chnoubis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A regional theological variant makes Anuket one of Khnum's two consorts.",
+   "source": "Regional temple sources",
+   "date": "Later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint royal offering at Sehel",
+   "note": "Sobekhotep III presents vessels to Satet and Anuket together.",
+   "source": "Sobekhotep III Sehel reliefs",
+   "date": "Dynasty XIII",
+   "tier": "attested"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Divine management of the inundation",
+   "note": "Satet initiates the flood while Anuket restrains, gathers, or withdraws its waters.",
+   "source": "Greco-Roman temple texts",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mature triadic genealogy identifies Satet as Anuket's mother.",
+   "source": "Later Elephantine temple tradition",
+   "date": "Late and Greco-Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Solar Eye theology classifies Anuket as a protective daughter of Re.",
+   "source": "Later hymns and temple epithets",
+   "date": "Later Egyptian periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sothis",
+   "other_aliases": [
+    "Sopdet"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sequential control of the inundation",
+   "note": "Anuket takes back the flood after Sothis sends it forth at New Year.",
+   "source": "Late temple text",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Komir theology assimilates Anuket to Nephthys in the local gazelle cult.",
+   "source": "Komir temple texts and blocks",
+   "date": "Ptolemaic-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kherseket",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local Komir theology permits Anuket to be qualified as Kherseket.",
+   "source": "Komir temple texts",
+   "date": "Ptolemaic-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [
+    "Hathor of Diospolis Parva"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A two-faced Hathoric emblem reflects Anuket's cultic and iconographic assimilation to Hathor.",
+   "source": "Two-faced wooden cult emblem",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Taweret",
+   "other_aliases": [
+    "Mistress of the chapel west of Thebes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint Theban tomb appearance",
+   "note": "Anuket stands beside a composite being identified as Taweret.",
+   "source": "Tomb of Nakhtamen, TT 335",
+   "date": "Twentieth Dynasty",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A Greek dedication explicitly identifies Anoukis with Hestia.",
+   "source": "Ptolemaic Greek dedication",
+   "date": "Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman learning identifies Anuket with Vesta through her prior equation with Hestia.",
+   "source": "Learned Greco-Roman tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Ammon"
+   ],
+   "kind": "shared_myth",
+   "myth": "Collective Hellenistic dedication",
+   "note": "Anuket-Hestia and Ammon-Chnoubis are jointly invoked without a stated narrative relationship.",
+   "source": "OGIS 111",
+   "date": "c. 152–145 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Collective Hellenistic dedication",
+   "note": "Hestia-Anoukis appears beside Hera-Satis in a collective Greek dedication.",
+   "source": "OGIS 111",
+   "date": "c. 152–145 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysos",
+   "other_aliases": [
+    "Petempamentes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Collective Hellenistic dedication",
+   "note": "Hestia-Anoukis and Dionysos-Petempamentes are co-invoked without narrative interaction.",
+   "source": "OGIS 111",
+   "date": "c. 152–145 BCE",
+   "tier": "attested"
+  }
+ ]
+}

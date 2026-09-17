@@ -1,0 +1,2189 @@
+{
+ "folder": "lakota",
+ "gods": [
+  "hanwi",
+  "iktomi",
+  "inyan",
+  "iya",
+  "maka",
+  "ptesan_win",
+  "skan",
+  "tate",
+  "unktehi",
+  "wakan_tanka",
+  "wakinyan",
+  "wi"
+ ],
+ "relations": [
+  {
+   "a": "hanwi",
+   "b": "iktomi",
+   "kind": "deceived_by",
+   "myth": "Humiliation of Hanwi",
+   "note": "Iktomi’s report about Wi and Ite delays Hanwi while she adorns herself.",
+   "source": "Sword/Walker feast narrative",
+   "date": "before 1910; 1917",
+   "tier": "attested",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "iktomi",
+   "kind": "other",
+   "myth": "Humiliation of Hanwi",
+   "note": "Iktomi laughs loudest and longest when Hanwi finds her seat occupied.",
+   "source": "Sword/Walker feast narrative",
+   "date": "before 1910; 1917",
+   "tier": "attested",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "inyan",
+   "kind": "created_by",
+   "myth": "Regulation of light and darkness",
+   "note": "Modern retellings sometimes make Inyan Moon's direct creator.",
+   "source": "Modern retellings of Walker",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "skan",
+   "kind": "gift",
+   "myth": "Judgment after Hanwi’s humiliation",
+   "note": "Škaŋ grants Hanwi independent movement and rule over the lunar interval.",
+   "source": "Sword/Walker feast narrative",
+   "date": "before 1910; 1917",
+   "tier": "attested",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "skan",
+   "kind": "judged_by",
+   "myth": "Judgment after Hanwi’s humiliation",
+   "note": "Škaŋ hears Hanwi, questions those responsible, and rearranges her celestial relationship with Wi.",
+   "source": "Sword/Walker feast narrative",
+   "date": "before 1910; 1917",
+   "tier": "attested",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "tate",
+   "kind": "shared_myth",
+   "myth": "Divine feast and judgment",
+   "note": "Tate and Hanwi attend the feast; no direct conversation is recorded.",
+   "source": "Walker feast narrative",
+   "date": "1917",
+   "tier": "canonical",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "wi",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hanwi is Wi’s wife or companion in the Walker–Sword system.",
+   "source": "Sword text; Walker corpus",
+   "date": "before 1910; 1917",
+   "tier": "canonical",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "wi",
+   "kind": "created_by",
+   "myth": "Walker’s constructed cosmogony",
+   "note": "Wi emanates a female counterpart, Wi-win, associated with the Moon.",
+   "source": "Walker late synthesis",
+   "date": "1920s",
+   "tier": "late_accretion",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "hanwi",
+   "b": "wi",
+   "kind": "other",
+   "myth": "Humiliation of Hanwi",
+   "note": "Wi permits Ite to take Hanwi’s seat and forgets Hanwi.",
+   "source": "Sword/Walker feast narrative",
+   "date": "before 1910; 1917",
+   "tier": "attested",
+   "stated_by": [
+    "hanwi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "inyan",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Inyan fathers Ksa, who later becomes Iktomi.",
+   "source": "Walker Oglala accounts",
+   "date": "1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "iktomi",
+    "inyan"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "inyan",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Other Walker-derived genealogies describe Iktomi more generally as Inyan's descendant.",
+   "source": "Walker-derived genealogies",
+   "date": "early twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "iya",
+   "kind": "deceived",
+   "myth": "The Death of Iya",
+   "note": "Iktómi tricks Iya into revealing the ritual means of paralyzing and killing him.",
+   "source": "Hoka-chatka, The Death of Iya",
+   "date": "1917",
+   "tier": "attested",
+   "stated_by": [
+    "iya"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "iya",
+   "kind": "fought",
+   "myth": "Iktomi conquers Iya",
+   "note": "Iktomi uses his cunning to defeat the devouring being Iya.",
+   "source": "Deloria, Dakota Texts",
+   "date": "1932",
+   "tier": "attested",
+   "stated_by": [
+    "iktomi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "iya",
+   "kind": "fought",
+   "myth": "The Warlike Seven",
+   "note": "Iya swallows Iktómi, who cuts through his belly and releases the lake.",
+   "source": "Zitkala-Ša, The Warlike Seven",
+   "date": "1901",
+   "tier": "attested",
+   "stated_by": [
+    "iya"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "iya",
+   "kind": "fought",
+   "myth": "Iktomi conquers Iya, the eater",
+   "note": "Iktómi defeats or conquers Iya the Eater.",
+   "source": "Deloria, Dakota Texts",
+   "date": "1932",
+   "tier": "attested",
+   "stated_by": [
+    "iya"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "iya",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iya and Iktómi are brothers or half-brothers who dispute seniority.",
+   "source": "Walker literary cycle",
+   "date": "edited 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "iya"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "skan",
+   "kind": "judged_by",
+   "myth": "Ksa becomes Iktomi",
+   "note": "Skan judges Ksa for destructively misusing wisdom.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "iktomi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "skan",
+   "kind": "other",
+   "myth": "Feast of Tȟaté",
+   "note": "After Škáŋ receives power over moving things, Iktómi counteracts the gift by making him sleepy.",
+   "source": "Little Wound, Feast by Tȟaté",
+   "date": "published 1917",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "skan",
+   "kind": "transformed_by",
+   "myth": "Ksa becomes Iktomi",
+   "note": "Skan degrades Ksa into Iktomi, converting wisdom into self-defeating cunning.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "iktomi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "skan",
+   "kind": "transformed_by",
+   "myth": "Origin of Iktómi",
+   "note": "Škáŋ’s judgment transforms the fallen Kšá into Iktómi, changing wisdom into trickery.",
+   "source": "Walker mythic cycle",
+   "date": "early twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "tate",
+   "kind": "other",
+   "myth": "Ite attempts to take Moon’s place",
+   "note": "Iktomi engineers Ite’s attempted liaison with Wi, gravely disrupting Tate’s household.",
+   "source": "Walker/Sword cycle",
+   "date": "collected 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tate"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "unktehi",
+   "kind": "shared_myth",
+   "myth": "Journey before the thundercloud",
+   "note": "Unktomni travels with a water spirit before noticing an approaching thundercloud.",
+   "source": "Louis Garcia, Spirit Lake public history",
+   "date": "twenty-first century",
+   "tier": "modern",
+   "stated_by": [
+    "unktehi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "wakan_tanka",
+   "kind": "shared_myth",
+   "myth": "Ksa’s fall and transformation",
+   "note": "Ksa’s deceptive wisdom brings judgment and transformation into the trickster Iktómi.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "wakinyan",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Walker-derived genealogies make Iktomi, identified with fallen Ksa, Wakíŋyaŋ’s son.",
+   "source": "Walker corpus",
+   "date": "ca. 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "wakinyan",
+   "kind": "shared_myth",
+   "myth": "Ordering or disruption of the world",
+   "note": "Some Oglala narratives place both among beings ordering or disrupting the world.",
+   "source": "Later-recorded Oglala cosmological narratives",
+   "date": "",
+   "tier": "regional_variant",
+   "stated_by": [
+    "iktomi"
+   ]
+  },
+  {
+   "a": "iktomi",
+   "b": "wi",
+   "kind": "deceived",
+   "myth": "When the People Laughed at Haŋwí",
+   "note": "Iktómi manipulates Wi by praising Ite’s beauty and arranging the celestial breach.",
+   "source": "Walker corpus",
+   "date": "ca. 1896–1914",
+   "tier": "attested",
+   "stated_by": [
+    "wi"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "maka",
+   "kind": "contest",
+   "myth": "Maka's demand for independence",
+   "note": "Maka challenges her dependence on depleted Inyan but remains bound to Rock.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "maka",
+   "kind": "created",
+   "myth": "The sacrifice of Inyan",
+   "note": "Inyan spreads his own substance into Earth and gives her a spirit.",
+   "source": "Walker, Oglala papers; Lakota Myth",
+   "date": "1896–1914; published 1983",
+   "tier": "canonical",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "skan",
+   "kind": "created",
+   "myth": "The sacrifice of Inyan",
+   "note": "Inyan's released powers rise from the waters and assume Skan's form.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "canonical",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "skan",
+   "kind": "judged_by",
+   "myth": "Maka's demand for independence",
+   "note": "Skan judges that Maka must remain bound to the exhausted Inyan.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "wakan_tanka",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Popular monotheizing retellings make Wakan Tanka the creator of Inyan.",
+   "source": "Popular Christian-era retellings",
+   "date": "modern",
+   "tier": "late_accretion",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "wakinyan",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Walker’s organized pantheon presents Wakinyan as genealogically descended from Inyan.",
+   "source": "Walker organized pantheon",
+   "date": "1896–1917",
+   "tier": "canonical",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "wakinyan",
+   "kind": "created",
+   "myth": "",
+   "note": "An alternative Walker formulation presents Wakinyan as created by Inyan.",
+   "source": "Walker organized pantheon",
+   "date": "1896–1917",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inyan",
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "wakinyan",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Wakíŋyaŋ acts as Inyan’s active associate and messenger.",
+   "source": "George Sword/Walker corpus",
+   "date": "ca. 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "inyan",
+   "b": "wi",
+   "kind": "created",
+   "myth": "Maka's complaint of cold",
+   "note": "Some Walker versions make Inyan bring forth Sun for heat and light.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inyan"
+   ]
+  },
+  {
+   "a": "iya",
+   "b": "tate",
+   "kind": "other",
+   "myth": "Ibom Conspired Against Tate",
+   "note": "Ibom conspires against Tȟaté, though the surviving catalog reveals no further details.",
+   "source": "Walker archive manuscript catalog",
+   "date": "early twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "iya"
+   ]
+  },
+  {
+   "a": "iya",
+   "b": "wakan_tanka",
+   "kind": "other",
+   "myth": "",
+   "note": "A devouring power classified outside or against the benevolent ordering powers.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "iya",
+   "b": "wakinyan",
+   "kind": "fought",
+   "myth": "Tempest",
+   "note": "Wakíŋyaŋ declares enmity, pursues, and attacks Iya as a predatory polluting power.",
+   "source": "Walker, Tempest",
+   "date": "1896–1914 materials",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "ptesan_win",
+   "kind": "shared_myth",
+   "myth": "Earth in the pipe narrative",
+   "note": "She identifies the pipe bowl with Earth and teaches humans that Earth is Mother and Grandmother.",
+   "source": "The Sacred Pipe",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "maka"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "skan",
+   "kind": "other",
+   "myth": "Ordering light, shadow, day, and night",
+   "note": "Škáŋ answers Makȟá’s complaints by arranging light, shadow, day, and night.",
+   "source": "Walker literary cycle",
+   "date": "early twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "tate",
+   "kind": "shared_myth",
+   "myth": "The Feast by Tate",
+   "note": "Maka appears with Tate among the assembled sacred powers.",
+   "source": "The Feast by Tate",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tate"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "unktehi",
+   "kind": "created",
+   "myth": "Creation and banishment of Unk",
+   "note": "In Walker's synthesis, Maka creates Unk, later associated with or sourcing Unktehi.",
+   "source": "Walker synthetic myth cycle",
+   "date": "early twentieth-century manuscripts",
+   "tier": "late_accretion",
+   "stated_by": [
+    "unktehi"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "wakan_tanka",
+   "kind": "shared_myth",
+   "myth": "Creation through Íŋyaŋ",
+   "note": "Earth emerges from Íŋyaŋ and belongs within the encompassing sacred totality.",
+   "source": "Walker, Lakota Myth",
+   "date": "collected 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "wakinyan",
+   "kind": "allied",
+   "myth": "Divine dispute over plants",
+   "note": "Wakíŋyaŋ supplies rain and growth power for what Maka nourishes.",
+   "source": "Walker literary cycle",
+   "date": "1896–1914 materials",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "wi",
+   "kind": "contest",
+   "myth": "Maka complains of constant heat",
+   "note": "Maka protests Sun’s unrelieved heat and light, prompting ordered alternation with darkness.",
+   "source": "Walker literary cycle",
+   "date": "collected c. 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "maka"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "wi",
+   "kind": "gift",
+   "myth": "Creation and ordering of light",
+   "note": "Wi gives light and warmth to Maka and the ordered world.",
+   "source": "Walker creation materials",
+   "date": "ca. 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wi"
+   ]
+  },
+  {
+   "a": "maka",
+   "b": "wi",
+   "kind": "shared_myth",
+   "myth": "Maka’s complaint of cold and nakedness",
+   "note": "Sun is created or appointed to warm and illuminate Maka after her complaint.",
+   "source": "Walker literary cycle",
+   "date": "collected c. 1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "maka"
+   ]
+  },
+  {
+   "a": "ptesan_win",
+   "b": "skan",
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Walker-system genealogy makes Wóȟpe Skan’s daughter, applying here only through their disputed identification.",
+   "source": "Walker corpus",
+   "date": "collected 1896–1914; edited 1980–83",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ptesan_win"
+   ]
+  },
+  {
+   "a": "ptesan_win",
+   "b": "skan",
+   "kind": "created_by",
+   "myth": "",
+   "note": "A Walker-system variant makes Wóȟpe Skan’s specially created mediator, conditionally extending this relation to Ptesan Win.",
+   "source": "Walker corpus",
+   "date": "collected 1896–1914; edited 1980–83",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ptesan_win"
+   ]
+  },
+  {
+   "a": "ptesan_win",
+   "b": "wakan_tanka",
+   "kind": "shared_myth",
+   "myth": "The Pipe Woman",
+   "note": "She mediates the sacred order through the Pipe and promised ceremonies.",
+   "source": "Densmore, Teton Sioux Music",
+   "date": "1918",
+   "tier": "attested",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "ptesan_win",
+   "b": "wakan_tanka",
+   "kind": "shared_myth",
+   "myth": "Seven rites of the Sacred Pipe",
+   "note": "Later canonical teaching presents her Pipe as joining all beings in prayer.",
+   "source": "Black Elk and Brown, Sacred Pipe",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "ptesan_win",
+   "b": "wi",
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Walker-associated genealogy names Sun as Wóȟpe’s parent, applying only under the disputed identification.",
+   "source": "Walker-associated sacred-story complex",
+   "date": "edited twentieth-century publications",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ptesan_win"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "tate",
+   "kind": "allied",
+   "myth": "",
+   "note": "Other Walker formulations describe Tȟaté as Škáŋ’s companion, associate, or manifestation.",
+   "source": "Walker, Lakota Belief and Ritual",
+   "date": "edited 1980",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "tate",
+   "kind": "created",
+   "myth": "",
+   "note": "One Walker formulation describes Tȟaté as Škáŋ’s creation.",
+   "source": "Walker, Lakota Myth",
+   "date": "edited 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "tate",
+   "kind": "shared_myth",
+   "myth": "Feast of Tȟaté",
+   "note": "Tȟaté invites Takú Škaŋškáŋ to the divine feast where powers receive gifts.",
+   "source": "Little Wound, Feast by Tȟaté",
+   "date": "published 1917",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "wakinyan",
+   "kind": "judged",
+   "myth": "Tempest",
+   "note": "Škan decrees that Wakíŋyaŋ cannot enter water, injure cedar, or attack those sheltered beneath it.",
+   "source": "Walker myth cycle",
+   "date": "1896–1914 materials",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "wakinyan",
+   "kind": "served_by",
+   "myth": "Divine dispute over plants",
+   "note": "Wakíŋyaŋ fulfills Škan’s assigned role of sustaining plant growth and increase.",
+   "source": "Walker myth cycle",
+   "date": "1896–1914 materials",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "skan",
+   "b": "wi",
+   "kind": "other",
+   "myth": "Assignment of the Sun’s station",
+   "note": "Škáŋ places Wí above the sky and orders his illumination and course.",
+   "source": "Walker literary cycle",
+   "date": "early twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "skan"
+   ]
+  },
+  {
+   "a": "tate",
+   "b": "wakan_tanka",
+   "kind": "shared_myth",
+   "myth": "Ordering of winds",
+   "note": "Wind is associated with Škaŋ and commands or fathers the Four Winds.",
+   "source": "Walker myth corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "tate",
+   "b": "wakinyan",
+   "kind": "allied",
+   "myth": "",
+   "note": "West Wind is Wakíŋyaŋ’s friend and lives in his lodge.",
+   "source": "George Sword, Sun Dance explanation",
+   "date": "ca. 1896–1914",
+   "tier": "attested",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "tate",
+   "b": "wi",
+   "kind": "contest",
+   "myth": "Ite attempts to take Moon’s place",
+   "note": "Tate is Ite’s wronged husband, while doctrine portrays Wind thwarting Sun’s purposes.",
+   "source": "Walker, Sun Dance",
+   "date": "1917",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tate"
+   ]
+  },
+  {
+   "a": "tate",
+   "b": "wi",
+   "kind": "other",
+   "myth": "When the People Laughed at Haŋwí",
+   "note": "Wi violates Tate’s marital order by accepting Tate’s wife Ite at the feast.",
+   "source": "Walker corpus",
+   "date": "ca. 1896–1914",
+   "tier": "attested",
+   "stated_by": [
+    "wi"
+   ]
+  },
+  {
+   "a": "tate",
+   "b": "wi",
+   "kind": "shared_myth",
+   "myth": "The Feast by Tate",
+   "note": "Wi attends Tate’s feast and receives precedence among the sacred powers.",
+   "source": "The Feast by Tate",
+   "date": "published 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tate"
+   ]
+  },
+  {
+   "a": "unktehi",
+   "b": "wakinyan",
+   "kind": "fought",
+   "myth": "War of Water and Thunder",
+   "note": "Unktahe and sixty water spirits battle forty Thunder allies before retreating.",
+   "source": "Eastman, Dahcotah",
+   "date": "1849",
+   "tier": "attested",
+   "stated_by": [
+    "unktehi"
+   ]
+  },
+  {
+   "a": "unktehi",
+   "b": "wakinyan",
+   "kind": "fought",
+   "myth": "Perpetual war of water and thunder",
+   "note": "The horned water beings perpetually oppose the Thunder Beings.",
+   "source": "Walker Oglala collection",
+   "date": "1896–1914",
+   "tier": "canonical",
+   "stated_by": [
+    "unktehi"
+   ]
+  },
+  {
+   "a": "unktehi",
+   "b": "wakinyan",
+   "kind": "fought",
+   "myth": "Perpetual war of thunder and water powers",
+   "note": "Thunder Beings wage continual war against horned or serpentine water powers.",
+   "source": "Eastman; Mayer; Pond; Dorsey",
+   "date": "1849–1894",
+   "tier": "attested",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "unktehi",
+   "b": "wakinyan",
+   "kind": "killed",
+   "myth": "Thunder Being killed near a river",
+   "note": "A giant Thunder Being is killed near a river by the water powers.",
+   "source": "Dorsey, A Study of Siouan Cults",
+   "date": "1894",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "unktehi",
+   "b": "wakinyan",
+   "kind": "killed_by",
+   "myth": "Battle at the lake",
+   "note": "After a nocturnal thunder battle, enormous fish and serpents lie dead ashore.",
+   "source": "Dorsey, A Study of Siouan Cults",
+   "date": "1894",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wakinyan"
+   ]
+  },
+  {
+   "a": "wakan_tanka",
+   "b": "wakinyan",
+   "kind": "shared_myth",
+   "myth": "Dreams and sacred-object obligations",
+   "note": "Thunder Beings manifest the sacred totality, confer dream power, and punish violations.",
+   "source": "Walker corpus; Densmore",
+   "date": "1896–1918",
+   "tier": "attested",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "wakan_tanka",
+   "b": "wi",
+   "kind": "shared_myth",
+   "myth": "Creation and Sun Dance",
+   "note": "Sun is a constituent power and chief of the gods in Sword’s account.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested",
+   "stated_by": [
+    "wakan_tanka"
+   ]
+  },
+  {
+   "a": "wakinyan",
+   "b": "wi",
+   "kind": "allied",
+   "myth": "Divine dispute over plants",
+   "note": "Wi warms plants while Wakíŋyaŋ gives them growth and increase.",
+   "source": "Walker literary cycle",
+   "date": "1896–1914 materials",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wakinyan"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Anp": [
+   {
+    "stated_by": "skan",
+    "kind": "other",
+    "myth": "Establishment of temporal alternation",
+    "note": "Škáŋ commands Dawn or Day to alternate with Night.",
+    "source": "Walker literary cycle",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Anpo": [
+   {
+    "stated_by": "inyan",
+    "kind": "created",
+    "myth": "Maka's complaint of darkness",
+    "note": "Some Walker versions make Inyan produce Dawn or Daylight for Maka.",
+    "source": "Walker, Lakota Myth",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Anóǧ Ite": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "Attempt to supplant Haŋwí",
+    "note": "She conspires to take Haŋwí’s place and receives two faces as punishment.",
+    "source": "Walker, Lakota Myth",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aŋp": [
+   {
+    "stated_by": "maka",
+    "kind": "shared_myth",
+    "myth": "Maka’s complaint of darkness",
+    "note": "Dawn is instituted after Maka complains of darkness, but its red light proves insufficient.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aŋpáo": [
+   {
+    "stated_by": "wi",
+    "kind": "shared_myth",
+    "myth": "Cosmological ordering",
+    "note": "Aŋpáo functionally precedes or announces Wi in the ordered celestial cycle.",
+    "source": "Walker cycle",
+    "date": "ca. 1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Buffalo Nation": [
+   {
+    "stated_by": "ptesan_win",
+    "kind": "served",
+    "myth": "Visitation and gift of the pipe",
+    "note": "The Buffalo Nation sends her as its representative to bring the sacred pipe.",
+    "source": "Lone Man in Densmore, Teton Sioux Music",
+    "date": "recorded 1911; published 1918",
+    "tier": "attested"
+   }
+  ],
+  "Eya": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Eya is Tate’s western directional son.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "gift",
+    "myth": "Founding the Four Directions",
+    "note": "Tate transfers first-born precedence from Yata to Eya.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "served_by",
+    "myth": "Founding the Four Directions",
+    "note": "Tate sends Eya westward to establish his directional quarter.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Four Winds": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tate is the father of the four directional wind powers.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Gnaskinyan": [
+   {
+    "stated_by": "hanwi",
+    "kind": "other",
+    "myth": "Cheyenne Creek emergence account",
+    "note": "Gnaskinyan persuades Ite to dress as Hanwi, though Hanwi never meets him.",
+    "source": "Cheyenne Creek oral version",
+    "date": "twenty-first century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gnaški": [
+   {
+    "stated_by": "iya",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Iya fathers Gnaški with Uŋk.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "iya",
+    "kind": "allied",
+    "myth": "Iya’s feast and expulsion",
+    "note": "Gnaški encourages Iya to defile feast food and laughs at his disgrace.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gnáški": [
+   {
+    "stated_by": "maka",
+    "kind": "deceived_by",
+    "myth": "The deceptive white fruits",
+    "note": "Gnáški tricks Maka into cultivating vile white fruits and serving them boastfully to the gods.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Great Unktehi and lesser Unktehi": [
+   {
+    "stated_by": "wakinyan",
+    "kind": "fought",
+    "myth": "Unktehi flood",
+    "note": "Thunder Beings attack the flooding water monsters with lightning and heat.",
+    "source": "Dakota collections; Lame Deer",
+    "date": "19th century; 1972",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "killed",
+    "myth": "Unktehi flood",
+    "note": "Lightning and heat defeat the water monsters and end or transform the flood.",
+    "source": "Dakota collections; Lame Deer",
+    "date": "19th century; 1972",
+    "tier": "regional_variant"
+   }
+  ],
+  "Han": [
+   {
+    "stated_by": "inyan",
+    "kind": "shared_myth",
+    "myth": "Primordial darkness and cosmic ordering",
+    "note": "Han surrounds primordial Inyan before later rulings regulate Darkness.",
+    "source": "Walker, Lakota Myth",
+    "date": "published 1983",
+    "tier": "canonical"
+   }
+  ],
+  "Haŋ": [
+   {
+    "stated_by": "maka",
+    "kind": "contest",
+    "myth": "Maka’s complaint of darkness",
+    "note": "Maka’s complaints lead to Darkness being displaced below or ordered into alternation with light.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "other",
+    "myth": "Establishment of temporal alternation",
+    "note": "Škáŋ commands Night to alternate with Dawn or Day.",
+    "source": "Walker literary cycle",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Heyoka/Haoka powers": [
+   {
+    "stated_by": "wakinyan",
+    "kind": "other",
+    "myth": "Heyoka deity’s thunder drumstick",
+    "note": "A Heyoka deity uses a small Wakinyan as a drumstick.",
+    "source": "Dorsey, A Study of Siouan Cults",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Hunonpa": [
+   {
+    "stated_by": "tate",
+    "kind": "shared_myth",
+    "myth": "The Feast by Tate",
+    "note": "Hunonpa appears with Tate among the assembled sacred powers.",
+    "source": "The Feast by Tate",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Húŋuŋpa": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "A variably translated two-legged or bear-related category within the sixteen powers.",
+    "source": "Sword in Walker",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Ite": [
+   {
+    "stated_by": "hanwi",
+    "kind": "contest",
+    "myth": "Humiliation of Hanwi",
+    "note": "Ite usurps Hanwi’s seat beside Wi at the divine feast.",
+    "source": "Sword/Walker feast narrative",
+    "date": "before 1910; 1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "iktomi",
+    "kind": "other",
+    "myth": "Ksa becomes Iktomi",
+    "note": "Iktomi as Ksa is implicated in Ite's transgression involving Anpetu Wi.",
+    "source": "Walker corpus",
+    "date": "1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "consort_of",
+    "myth": "Marriage and separation of Tate and Ite",
+    "note": "Tate marries Ite, fathers five sons, and loses her after her transgression.",
+    "source": "Walker/Sword cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "other",
+    "myth": "When the People Laughed at Haŋwí",
+    "note": "Wi desires or accepts Ite, who wrongfully occupies Haŋwí’s place beside him.",
+    "source": "Walker’s Oglala narratives",
+    "date": "ca. 1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Iya’s bear": [
+   {
+    "stated_by": "iya",
+    "kind": "allied",
+    "myth": "Stone Boy and Iya",
+    "note": "Iya’s bear entices people away before Stone Boy slays it.",
+    "source": "Walker and Sword, Stone Boy",
+    "date": "1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "Iya’s coyote": [
+   {
+    "stated_by": "iya",
+    "kind": "parent_of",
+    "myth": "Stone Boy and Iya",
+    "note": "Iya’s coyote son is killed by Stone Boy.",
+    "source": "Walker and Sword, Stone Boy",
+    "date": "1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "Iya’s snake-tree daughter": [
+   {
+    "stated_by": "iya",
+    "kind": "parent_of",
+    "myth": "Stone Boy and Iya",
+    "note": "Iya’s snake-tree daughter is slain by Stone Boy.",
+    "source": "Walker and Sword, Stone Boy",
+    "date": "1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "Iŋyaŋ": [
+   {
+    "stated_by": "iya",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Iya is born from Iŋyaŋ’s union with Uŋk.",
+    "source": "Walker literary cycle",
+    "date": "collected 1896–1914; edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "shared_myth",
+    "myth": "The Feast by Tate",
+    "note": "Iŋyaŋ attends Tate’s feast and receives precedence among the sacred powers.",
+    "source": "The Feast by Tate",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "shared_myth",
+    "myth": "Creation and ordering of light",
+    "note": "Iŋyaŋ’s primordial self-expenditure begins the causal sequence making Wi’s sunlight possible.",
+    "source": "Walker creation cycle",
+    "date": "ca. 1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Lakota Christian teaching construed Wakȟáŋ Tȟáŋka as God or Father of Jesus.",
+    "source": "Mission texts; Black Elk material",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Kanka": [
+   {
+    "stated_by": "hanwi",
+    "kind": "shared_myth",
+    "myth": "Humiliation and judgment of Hanwi",
+    "note": "Kanka aids Ite’s usurpation and appears with Hanwi in the judicial aftermath.",
+    "source": "Walker feast narrative",
+    "date": "1917",
+    "tier": "canonical"
+   }
+  ],
+  "Ksa": [
+   {
+    "stated_by": "iktomi",
+    "kind": "identified_with",
+    "myth": "Ksa becomes Iktomi",
+    "note": "Iktomi is Ksa after Skan degrades his misused wisdom into cunning.",
+    "source": "Walker Oglala accounts",
+    "date": "1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ksa addresses Wakíŋyaŋ as father in Walker’s systematized cycle.",
+    "source": "Walker literary cycle",
+    "date": "1896–1914 materials",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "allied",
+    "myth": "Making plants edible",
+    "note": "Ksa persuades Wakíŋyaŋ to make plant roots, leaves, stems, seeds, and nuts edible.",
+    "source": "Walker literary cycle",
+    "date": "1896–1914 materials",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kšá": [
+   {
+    "stated_by": "skan",
+    "kind": "served_by",
+    "myth": "Commissioning of Kšá",
+    "note": "Škáŋ commissions wise Kšá to order or teach.",
+    "source": "Walker mythic cycle",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "judged",
+    "myth": "Fall of Kšá",
+    "note": "Škáŋ judges Kšá after his transgression and corruption through Gnaski.",
+    "source": "Walker mythic cycle",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "punished",
+    "myth": "Fall of Kšá",
+    "note": "Škáŋ demotes Kšá and excludes him from the divine feasts or council.",
+    "source": "Walker mythic cycle",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Living Stone": [
+   {
+    "stated_by": "iya",
+    "kind": "served",
+    "myth": "Stone Boy and Iya",
+    "note": "Living Stone is described as Iya’s master before Stone Boy breaks it.",
+    "source": "Walker and Sword, Stone Boy",
+    "date": "1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nagí": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Spirit is a nonphysical member or aspect within the sixteenfold totality.",
+    "source": "Sword and Finger in Walker",
+    "date": "1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Nagíla": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "A spirit-like component included within the sixteenfold sacred totality.",
+    "source": "Sword in Walker",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Nági": [
+   {
+    "stated_by": "tate",
+    "kind": "judged",
+    "myth": "Spirit-road judgment",
+    "note": "Tate admits or excludes a deceased spirit after Škáŋ’s judgment.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Okaga": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Okaga is Tate’s southern directional son.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "served_by",
+    "myth": "Founding the Four Directions",
+    "note": "Tate sends Okaga southward to establish his directional quarter.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "South Wind": [
+   {
+    "stated_by": "ptesan_win",
+    "kind": "consort_of",
+    "myth": "Sons of the Wind cycle",
+    "note": "Wóȟpe chooses or marries South Wind; this applies to Ptesan Win only through their disputed identification.",
+    "source": "Walker narratives; Dooling, The Sons of the Wind",
+    "date": "collected 1896–1914; edition 2000",
+    "tier": "regional_variant"
+   }
+  ],
+  "Stone Boy": [
+   {
+    "stated_by": "iya",
+    "kind": "fought",
+    "myth": "Stone Boy and Iya",
+    "note": "Stone Boy survives Iya’s attacks, flattens him, and defeats, condemns, or kills him.",
+    "source": "George Sword and Walker",
+    "date": "1917",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "rescued_by",
+    "myth": "Stone Boy and four Thunder brothers",
+    "note": "Stone Boy cures, revives, or awakens four Thunder Being brothers in variant tales.",
+    "source": "Riggs/Deloria-class Dakota narratives",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "allied",
+    "myth": "Stone Boy and four Thunder brothers",
+    "note": "Stone Boy and four Thunder Being brothers fight together against massed enemies.",
+    "source": "Riggs/Deloria-class Dakota narratives",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "fought",
+    "myth": "Thunder brothers’ vengeance",
+    "note": "In some variants the Thunder Being brothers later turn hostile and seek vengeance.",
+    "source": "Variant Dakota retellings",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Síčhuŋ": [
+   {
+    "stated_by": "tate",
+    "kind": "judged",
+    "myth": "Spirit-road judgment",
+    "note": "Tate delays a rejected wandering spirit until he deems it fit to pass.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Taku Skanskan": [
+   {
+    "stated_by": "inyan",
+    "kind": "allied",
+    "myth": "Divination with sacred stones",
+    "note": "Tunkan is described as a friend and associate of the moving power.",
+    "source": "Ringing Shield testimony, Walker materials",
+    "date": "1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Taku Wakȟáŋ": [
+   {
+    "stated_by": "tate",
+    "kind": "served",
+    "myth": "The Feast by Tate",
+    "note": "Tate hosts and feasts the sacred powers when Wohpe comes to stay.",
+    "source": "The Feast by Tate",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tatanka": [
+   {
+    "stated_by": "tate",
+    "kind": "shared_myth",
+    "myth": "The Feast by Tate",
+    "note": "Tatanka appears with Tate among the assembled sacred powers.",
+    "source": "The Feast by Tate",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tatáŋka": [
+   {
+    "stated_by": "maka",
+    "kind": "shared_myth",
+    "myth": "Potencies within the ritual lodge",
+    "note": "Earth’s and Buffalo’s potencies jointly occupy the lodge; offerings to Rock please both.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "The Six Grandfathers": [
+   {
+    "stated_by": "wakinyan",
+    "kind": "shared_myth",
+    "myth": "Black Elk’s great vision",
+    "note": "Thunder Beings occupy the western cloud-tipi, and the Grandfathers acclaim Black Elk’s visionary victory with thunder.",
+    "source": "Black Elk interviews; DeMallie",
+    "date": "1931–1984",
+    "tier": "attested"
+   }
+  ],
+  "Tȟaté Tȟópa": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "served_by",
+    "myth": "",
+    "note": "The Four Winds serve the collective sacred powers as messengers and enforcers.",
+    "source": "Sword in Walker",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Tȟatȟáŋka": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "Pipe tradition",
+    "note": "Buffalo manifests sacred power, sustains human life, and mediates Pipe traditions.",
+    "source": "Sword in Walker; Densmore",
+    "date": "1917–1918",
+    "tier": "attested"
+   }
+  ],
+  "Unk": [
+   {
+    "stated_by": "inyan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some unstable Walker summaries make Unk the offspring of Inyan and Maka.",
+    "source": "Walker cycle summaries",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "fought",
+    "myth": "Tempest",
+    "note": "Wakíŋyaŋ hunts Unk after her union with Inyan and drives her into water.",
+    "source": "Walker, Tempest",
+    "date": "1896–1914 materials",
+    "tier": "late_accretion"
+   }
+  ],
+  "Unktahe's son": [
+   {
+    "stated_by": "unktehi",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Unktahe has a son who joins the water beings' battle.",
+    "source": "Eastman, Dahcotah",
+    "date": "1849",
+    "tier": "attested"
+   }
+  ],
+  "Uŋk": [
+   {
+    "stated_by": "iya",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Uŋk bears Iya after uniting with Iŋyaŋ.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "iya",
+    "kind": "consort_of",
+    "myth": "Begetting Gnaški",
+    "note": "Iya begets Gnaški with his mother Uŋk.",
+    "source": "Walker cosmological cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wakanka": [
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "",
+    "note": "Wakanka is Tate’s mother-in-law through Ite.",
+    "source": "Walker/Sword cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "Ite attempts to take Moon’s place",
+    "note": "Wakanka participates in the conspiracy that causes the crisis in Tate’s household.",
+    "source": "Walker/Sword cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wakáŋka": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "other",
+    "myth": "",
+    "note": "A troublesome power associated with cold, old age, sorcery, or the north.",
+    "source": "Walker corpus",
+    "date": "1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wakíŋyaŋ": [
+   {
+    "stated_by": "tate",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Tate and Wakíŋyaŋ share classified ceremonial status without a direct narrative encounter.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wakíŋyaŋ Tȟáŋka": [
+   {
+    "stated_by": "unktehi",
+    "kind": "fought",
+    "myth": "Primordial flood and petrification",
+    "note": "Great Thunder leads or embodies the Thunder attack defeating Unktehi.",
+    "source": "Lame Deer testimony",
+    "date": "1969/1972",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "unktehi",
+    "kind": "transformed_by",
+    "myth": "Primordial flood and petrification",
+    "note": "One later flood interpretation attributes Unktehi's petrification to the Thunder attack.",
+    "source": "Lame Deer testimony",
+    "date": "1969/1972",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakinyan",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The great elder is described as father or chief of the Thunder Beings.",
+    "source": "Pond’s Dakota account",
+    "date": "1860s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wakȟáŋ Tȟáŋka": [
+   {
+    "stated_by": "maka",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Maka is one of four primary manifestations of Wakȟáŋ Tȟáŋka.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "shared_myth",
+    "myth": "Earth in pipe prayer",
+    "note": "Prayers incorporating Earth are carried through the pipe to the sacred totality.",
+    "source": "The Sacred Pipe",
+    "date": "1953",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ptesan_win",
+    "kind": "served",
+    "myth": "Visitation and gift of the pipe",
+    "note": "Her divinely authorized mission brings the pipe and its teachings to the people.",
+    "source": "Densmore, Teton Sioux Music",
+    "date": "1918",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ptesan_win",
+    "kind": "gift",
+    "myth": "Pipe offerings",
+    "note": "Through her pipe, offerings and prayers are directed toward Wakȟáŋ Tȟáŋka.",
+    "source": "Black Elk and Brown, The Sacred Pipe",
+    "date": "1953",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Škáŋ is variously one constituent of, or the operative unity of, Wakȟáŋ Tȟáŋka.",
+    "source": "Walker, Lakota Belief and Ritual",
+    "date": "collected 1896–1914; published 1980",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "",
+    "note": "Walker makes Tate one individuality within the sixteenfold Great Mysterious.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "unktehi",
+    "kind": "punished_by",
+    "myth": "Primordial flood and petrification",
+    "note": "Lame Deer uncertainly suggests the Great Mystery punished Unktehi by petrification.",
+    "source": "Lame Deer testimony",
+    "date": "1969/1972",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "shared_myth",
+    "myth": "Sun Dance prayers",
+    "note": "Sun Dance prayers address the sun within a broader appeal to Wakȟáŋ Tȟáŋka.",
+    "source": "Bushotter/Dorsey; Densmore; Black Elk/Brown",
+    "date": "1894–1953",
+    "tier": "attested"
+   }
+  ],
+  "Wazi": [
+   {
+    "stated_by": "hanwi",
+    "kind": "shared_myth",
+    "myth": "Humiliation and judgment of Hanwi",
+    "note": "Wazi participates in the conspiracy and judgment, without direct dialogue with Hanwi.",
+    "source": "Walker feast narrative",
+    "date": "1917",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "",
+    "note": "Wazi is Tate’s father-in-law through Ite.",
+    "source": "Walker/Sword cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "Ite attempts to take Moon’s place",
+    "note": "Wazi participates in the conspiracy that causes the crisis in Tate’s household.",
+    "source": "Walker/Sword cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wazíya": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "other",
+    "myth": "",
+    "note": "A troublesome power associated with cold, old age, sorcery, or the north.",
+    "source": "Walker corpus",
+    "date": "1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wašíčuŋpi": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "A difficult-to-translate indwelling potency included among the sixteen powers.",
+    "source": "Sword in Walker",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Wičháȟpi": [
+   {
+    "stated_by": "skan",
+    "kind": "created",
+    "myth": "Ordering the stars",
+    "note": "Škáŋ creates stars as companions and messengers, fixes a chief star, and orders their motion.",
+    "source": "Walker, Lakota Myth",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wičháȟpi Hiŋȟpáya": [
+   {
+    "stated_by": "unktehi",
+    "kind": "shared_myth",
+    "myth": "Flood survivor and Spotted Eagle",
+    "note": "After Unktehi's flood, Spotted Eagle rescues the surviving woman who renews humanity.",
+    "source": "Lame Deer testimony",
+    "date": "1969/1972",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wohpe": [
+   {
+    "stated_by": "hanwi",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Walker’s theological genealogy names Wohpe as daughter of Hanwi and Wi.",
+    "source": "Walker corpus",
+    "date": "1917/1980/1983",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Earth and Beautiful Woman are esoterically declared the same within an eightfold and fourfold theology.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "other",
+    "myth": "Founding the Four Directions",
+    "note": "Wohpe descends as a star and delivers Škáŋ’s command to Tate.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "shared_myth",
+    "myth": "The Feast by Tate",
+    "note": "Tate hosts a feast for the sacred powers when Wohpe stays with his family.",
+    "source": "The Feast by Tate",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Woksape": [
+   {
+    "stated_by": "hanwi",
+    "kind": "other",
+    "myth": "Cheyenne Creek emergence account",
+    "note": "Woksape joins the scheme involving Hanwi’s identity but never meets her.",
+    "source": "Cheyenne Creek oral version",
+    "date": "twenty-first century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wovoka’s God": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "identified_with",
+    "myth": "Ghost Dance revelation",
+    "note": "Ghost Dance interpreters variably equated Wovoka’s revealed God with Wakȟáŋ Tȟáŋka.",
+    "source": "Ghost Dance testimony",
+    "date": "1889–1890",
+    "tier": "syncretism"
+   }
+  ],
+  "Wóȟpe": [
+   {
+    "stated_by": "iya",
+    "kind": "other",
+    "myth": "Iya’s feast and expulsion",
+    "note": "Iya consumes Wóȟpe’s servings and berates her after eating food he defiled.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ptesan_win",
+    "kind": "identified_with",
+    "myth": "Wohpe and the Gift of the Pipe",
+    "note": "Walker-associated Oglala tradition identifies or conflates her with the female pipe mediator Wóȟpe.",
+    "source": "Finger in Walker papers",
+    "date": "collected 1896–1914; published 1980",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some Walker texts make Wóȟpe Škáŋ’s daughter, formed from his essence.",
+    "source": "Walker, Lakota Myth",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "The Pipe Woman",
+    "note": "Beneficent constituent power who comes among the Lakotas and gives the Pipe.",
+    "source": "Finger in Walker",
+    "date": "collected before 1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Wóȟpe is named as the daughter of Wi and Haŋwí.",
+    "source": "Walker corpus",
+    "date": "ca. 1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Yanpa": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Yanpa is Tate’s eastern directional son.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "served_by",
+    "myth": "Founding the Four Directions",
+    "note": "Tate sends Yanpa eastward to establish his directional quarter.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yata": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Yata is Tate’s first-born directional son.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "punished",
+    "myth": "Founding the Four Directions",
+    "note": "Tate removes Yata’s first-born precedence because of his disposition.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "served_by",
+    "myth": "Founding the Four Directions",
+    "note": "Tate commands Yata to travel north and help establish the directions.",
+    "source": "Founding of the Four Directions",
+    "date": "published 1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yumni": [
+   {
+    "stated_by": "tate",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Yumni is Tate’s anomalously born fifth son, distinct from the directional winds.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "Yumní": [
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Whirlwind is grouped within the sixteenfold sacred totality as a mobile power.",
+    "source": "Sword in Walker",
+    "date": "1917",
+    "tier": "attested"
+   }
+  ],
+  "assembled sacred beings": [
+   {
+    "stated_by": "skan",
+    "kind": "gift",
+    "myth": "Feast of Tȟaté",
+    "note": "The assembled powers grant Takú Škaŋškáŋ jurisdiction over everything that moves.",
+    "source": "Little Wound, Feast by Tȟaté",
+    "date": "published 1917",
+    "tier": "regional_variant"
+   }
+  ],
+  "the assembled Gods": [
+   {
+    "stated_by": "maka",
+    "kind": "shared_myth",
+    "myth": "The deceptive white fruits",
+    "note": "The assembled Gods attend Maka’s feast and taste the foul counterfeit fruits.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "attested"
+   }
+  ],
+  "Íŋyaŋ": [
+   {
+    "stated_by": "maka",
+    "kind": "created_by",
+    "myth": "The making of Earth from Íŋyaŋ’s blood",
+    "note": "Íŋyaŋ releases blood or substance that becomes Maka and water.",
+    "source": "Walker manuscripts; Lakota Myth",
+    "date": "c. 1896–1914; 1983",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "other",
+    "myth": "Earth and Rock bound together",
+    "note": "Maka remains physically joined to Íŋyaŋ as earth is joined to stone.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "contest",
+    "myth": "Earth and Rock dispute",
+    "note": "Maka disputes or taunts Íŋyaŋ over dependence, separation, and his exhausted power.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "skan",
+    "kind": "created_by",
+    "myth": "Emergence of water and moving power",
+    "note": "Íŋyaŋ’s released power during Makȟá’s creation contributes to Škáŋ’s emergence.",
+    "source": "Walker, Lakota Myth",
+    "date": "collected 1896–1914; edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "Creation through Íŋyaŋ",
+    "note": "Foundational power whose self-expenditure begins creation within the sacred totality.",
+    "source": "Walker, Lakota Myth",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Čhaŋóti": [
+   {
+    "stated_by": "wakinyan",
+    "kind": "other",
+    "myth": "Forest being’s water refuge",
+    "note": "Čhaŋóti evades Wakíŋyaŋ by sheltering in water, while Wakíŋyaŋ avoids its abode.",
+    "source": "Pond; Dorsey",
+    "date": "1860s; 1894",
+    "tier": "regional_variant"
+   }
+  ],
+  "Škaŋ": [
+   {
+    "stated_by": "iya",
+    "kind": "judged_by",
+    "myth": "Iya’s feast and expulsion",
+    "note": "Škaŋ judges Iya for gluttony, desecration, and abusing Wóȟpe.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "iya",
+    "kind": "punished_by",
+    "myth": "Iya’s feast and expulsion",
+    "note": "Škaŋ excludes Iya and condemns him to endless hunger and foul breath.",
+    "source": "Walker literary cycle",
+    "date": "edited 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "judged_by",
+    "myth": "Judgment of the Earth–Rock dispute",
+    "note": "Škaŋ judges the dispute and rules that Maka must remain joined to Íŋyaŋ.",
+    "source": "Walker literary cycle",
+    "date": "collected c. 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "maka",
+    "kind": "gift",
+    "myth": "The color green and the domains",
+    "note": "Škaŋ assigns Maka third rank, green coloring, and jurisdiction over terrestrial lands.",
+    "source": "Walker; Lakota Myth",
+    "date": "1983",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Walker inferred older specialists used Škaŋ where younger Lakotas said Wakȟáŋ Tȟáŋka.",
+    "source": "Walker letter",
+    "date": "20 March 1912",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "wakan_tanka",
+    "kind": "shared_myth",
+    "myth": "Ordering the emerging world",
+    "note": "Animating power that orders, surrounds, and judges within the sacred cosmos.",
+    "source": "Walker corpus",
+    "date": "1896–1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Škáŋ": [
+   {
+    "stated_by": "tate",
+    "kind": "created_by",
+    "myth": "Appointment of Tate",
+    "note": "Škáŋ creates or appoints Tate as his associate and agent.",
+    "source": "Walker’s literary cycle",
+    "date": "collected 1896–1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "served",
+    "myth": "Spirit-road judgment",
+    "note": "Tate executes Škáŋ’s judgments by admitting or excluding deceased spirits.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tate",
+    "kind": "allied",
+    "myth": "",
+    "note": "Walker classifies Tate as Škáŋ’s associate and subordinate executor.",
+    "source": "Walker, Sun Dance",
+    "date": "1917",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "judged_by",
+    "myth": "When the People Laughed at Haŋwí",
+    "note": "Škáŋ exposes and judges the disorder, then assigns Wi and Haŋwí separate courses.",
+    "source": "Walker corpus",
+    "date": "ca. 1896–1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "wi",
+    "kind": "shared_myth",
+    "myth": "Creation and ordering of light",
+    "note": "Škáŋ participates in bringing forth or ordering the light supplied by Wi.",
+    "source": "Walker creation materials",
+    "date": "ca. 1896–1914",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

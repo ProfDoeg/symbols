@@ -1,0 +1,459 @@
+{
+ "subject": "nereus",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia is Nereus' mother in the dominant Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orphic genealogy makes Gaia Nereus' mother through Uranus.",
+   "source": "Orphic fragment 114 Kern",
+   "date": "late, date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pontus is Nereus' father in the dominant Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A supposedly Phoenician succession reverses the Hesiodic relationship.",
+   "source": "Eusebius, Preparation for the Gospel 1.10.26",
+   "date": "fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Uranus, rather than Pontus, Nereus' father.",
+   "source": "Orphic fragment 114 Kern",
+   "date": "late, date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thaumas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Thaumas and Nereus are sons of Pontus and Gaia.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phorcys and Nereus are sons of Pontus and Gaia.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceto",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ceto and Nereus are children of Pontus and Gaia.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurybia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eurybia and Nereus are children of Pontus and Gaia.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A Roman comedy jokingly calls Nereus Neptune's brother.",
+   "source": "Plautus, Trinummus 820",
+   "date": "Roman Republic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A Roman comedy jokingly calls Nereus Jupiter's brother.",
+   "source": "Plautus, Trinummus 820",
+   "date": "Roman Republic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Nereus and the Oceanid Doris generate the fifty Nereids.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Gigantomachy",
+   "note": "Pergamene sculpture places Nereus and Doris among the divine combatants.",
+   "source": "Great Altar of Pergamon",
+   "date": "c. 180–160 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [
+    "Nereides"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nereus fathers fifty Nereids with Doris.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [
+    "Nereides"
+   ],
+   "kind": "shared_myth",
+   "myth": "Undersea household",
+   "note": "Nereus lives with or presides over his daughters beneath the sea.",
+   "source": "Apollonius, Argonautica 4.771–772",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [
+    "Nereides"
+   ],
+   "kind": "allied",
+   "myth": "Marine war against Dionysus",
+   "note": "Nereus leads his armed Nereid daughters in Poseidon's marine army.",
+   "source": "Nonnus, Dionysiaca 43.253 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thetis is a daughter of Nereus and Doris.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Summoning Thetis for the Argo",
+   "note": "Thetis is found in Nereus' dwelling when Iris summons her.",
+   "source": "Apollonius, Argonautica 4.770–879",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Amphitrite is named among Nereus and Doris' daughters.",
+   "source": "Hesiod, Theogony 243",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Galatea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Galatea is one of the Nereids fathered by Nereus.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Psamathe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Psamathe is a daughter of Nereus and Doris.",
+   "source": "Hesiod, Theogony 1003–1005",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Panopea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Panopea is one of the Nereids fathered by Nereus.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Galene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Galene is one of the Nereids fathered by Nereus.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemertes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nemertes is a daughter of Nereus and Doris.",
+   "source": "Hesiod, Theogony 262",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemertes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nemertes shares her father's nature",
+   "note": "Nemertes possesses the same truthful or unerring nature as Nereus.",
+   "source": "Hesiod, Theogony 262",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nerites",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aelian adds Nerites as a son of Nereus and Doris.",
+   "source": "Aelian, On Animals 14.28",
+   "date": "early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nereus is Achilles' maternal grandfather through Thetis.",
+   "source": "Hesiod, Theogony 1003–1007",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phocus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nereus is Phocus' maternal grandfather through Psamathe.",
+   "source": "Hesiod, Theogony 1003–1005",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Heracles wrestles Nereus",
+   "note": "Heracles seizes and holds shape-changing Nereus for hidden geographical knowledge.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Search for the Hesperides",
+   "note": "After being captured, Nereus reveals the road to the Hesperides.",
+   "source": "Pherecydes FGrH 3 F 16",
+   "date": "early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Voyage to Geryon",
+   "note": "Nereus gives Heracles Helios' cup for his ocean voyage.",
+   "source": "Panyassis, Heraclea fr. 12 West",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cup of Helios",
+   "note": "Nereus transfers Helios' cup to Heracles; its prior acquisition is unexplained.",
+   "source": "Panyassis, Heraclea fr. 12 West",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Nereus marries Oceanus' daughter Doris.",
+   "source": "Hesiod, Theogony 240",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Donor of Helios' cup",
+   "note": "Competing traditions assign the solar cup's donation to Nereus or Oceanus.",
+   "source": "Athenaeus, Deipnosophists 11.469d",
+   "date": "early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aphrodite's marine upbringing",
+   "note": "Nereus and Doris receive or rear Aphrodite in their household.",
+   "source": "Aelian, On Animals 14.28",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nereus loves Glaucus",
+   "note": "Nicander describes Glaucus as Nereus' beloved.",
+   "source": "Nicander, Europia Book 3",
+   "date": "second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Glaucus is called Nereus' interpreter or prophetic spokesman.",
+   "source": "Euripides, Orestes 362",
+   "date": "408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Summoning Thetis for the Argo",
+   "note": "Iris enters Nereus' dwelling to summon Thetis for Hera's mission.",
+   "source": "Apollonius, Argonautica 4.770–780",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Rescue of the Argo",
+   "note": "Hera's command indirectly reaches Nereus' household through Iris.",
+   "source": "Apollonius, Argonautica 4.770–879",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marine war against Dionysus",
+   "note": "Nereus joins Poseidon's marine army and leads his daughters.",
+   "source": "Nonnus, Dionysiaca 43.253 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marine war against Dionysus",
+   "note": "Armed with a watery spear, Nereus fights on Dionysus' opposing side.",
+   "source": "Nonnus, Dionysiaca 43.253 ff.",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Pergamene sculpture places Nereus among combatants, without identifying his opponent.",
+   "source": "Great Altar of Pergamon",
+   "date": "c. 180–160 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nereus prophesies Troy's fall",
+   "note": "Nereus stills the wind and foretells Paris' defeat and Troy's destruction.",
+   "source": "Horace, Odes 1.15",
+   "date": "c. 23 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Heracles wrestles the sea elder",
+   "note": "Archaic artists increasingly substitute Triton for Nereus in the wrestling motif.",
+   "source": "Sixth-century Attic vase painting",
+   "date": "from c. 560s BCE",
+   "tier": "regional_variant"
+  }
+ ]
+}

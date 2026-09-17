@@ -1,0 +1,234 @@
+{
+ "subject": "penates",
+ "relations": [
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hector entrusts Troy’s Penates to Aeneas",
+   "note": "Hector orders Aeneas to save the Penates and seek new walls.",
+   "source": "Virgil, Aeneid 2.268–295",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from burning Troy",
+   "note": "Aeneas rescues and transports the Penates from Troy toward Latium.",
+   "source": "Virgil, Aeneid 1–3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "The Penates speak at Crete",
+   "note": "They correct Aeneas’s destination and direct him toward Italy.",
+   "source": "Virgil, Aeneid 3.147–171",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Escape from burning Troy",
+   "note": "Anchises physically carries them because battle-polluted Aeneas will not touch sacred objects.",
+   "source": "Virgil, Aeneid 2.717–720",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The Penates speak at Crete",
+   "note": "Apollo sends the Penates to deliver a dream-message directing Aeneas toward Italy.",
+   "source": "Virgil, Aeneid 3.147–171",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "They share the hearth complex, and Rome’s public Penates occupied her sanctuary.",
+   "source": "Cicero, De natura deorum 2.67–68; Tacitus 15.41",
+   "date": "45 BCE; early second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Jupiter and the Penates were jointly invoked in religious formulas.",
+   "source": "Roman religious formulas",
+   "date": "Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Nigidius’s Etruscanizing system assigned one class of Penates to Jupiter.",
+   "source": "Nigidius via Arnobius 3.40",
+   "date": "first century BCE; ca. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Builders of Troy’s walls",
+   "note": "Nigidius identified Neptune as one of Aeneas’s Trojan Penates.",
+   "source": "Nigidius via Arnobius 3.40",
+   "date": "first century BCE; ca. 300 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Builders of Troy’s walls",
+   "note": "Nigidius identified Apollo as Neptune’s fellow Trojan Penate.",
+   "source": "Nigidius via Arnobius 3.40",
+   "date": "first century BCE; ca. 300 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Caesius named Fortuna as one of the Penates.",
+   "source": "Caesius via Arnobius 3.40",
+   "date": "date uncertain; ca. 300 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Caesius named Ceres as one of the Penates.",
+   "source": "Caesius via Arnobius 3.40",
+   "date": "date uncertain; ca. 300 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Genius Iovialis",
+   "other_aliases": [
+    "Jovial Genius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Caesius named the Jovial Genius as one of the Penates.",
+   "source": "Caesius via Arnobius 3.40",
+   "date": "date uncertain; ca. 300 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pales",
+   "other_aliases": [
+    "male Pales"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Caesius included a male Pales, Jupiter’s minister or steward, among them.",
+   "source": "Caesius via Arnobius 3.40",
+   "date": "date uncertain; ca. 300 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Castor and Pollux",
+   "other_aliases": [
+    "Dioscuri",
+    "divine twins"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Servian tradition equated them with the paired Lavinian Penates.",
+   "source": "Servius on Aeneid 3.12",
+   "date": "late fourth/early fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Samothracian Great Gods",
+   "other_aliases": [
+    "Great Gods",
+    "Samothracian gods",
+    "Dii Magni",
+    "Magni Dii"
+   ],
+   "kind": "identified_with",
+   "myth": "Samothrace–Troy–Italy cult migration",
+   "note": "Learned traditions linked the Penates with gods carried from Samothrace through Troy.",
+   "source": "Dionysius 1.68; Servian tradition",
+   "date": "7 BCE; late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dardanus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Samothrace–Troy–Italy cult migration",
+   "note": "Learned tradition made Dardanus carry their divine predecessors from Samothrace to Troy.",
+   "source": "Dionysius 1.68; Servian tradition",
+   "date": "7 BCE; late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ascanius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The immovable gods of Lavinium",
+   "note": "When Ascanius transferred them to Alba Longa, they miraculously returned to Lavinium.",
+   "source": "Later Roman foundation tradition",
+   "date": "later Roman tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Her Palladium was associated with Trojan sacra in Vesta’s repository but remained distinct.",
+   "source": "Late-antique antiquarian tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Lares",
+   "other_aliases": [
+    "Lar Familiaris",
+    "father Lar"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "The distinct divine groups share domestic space and appear together in household formulas.",
+   "source": "Plautus, Mercator 834–835",
+   "date": "late third/early second century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Genius",
+   "other_aliases": [
+    "Genius of the paterfamilias"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "The Genius shares domestic worship with the Penates and appears beside them in prohibition.",
+   "source": "Codex Theodosianus 16.10.12",
+   "date": "392 CE",
+   "tier": "attested"
+  }
+ ]
+}

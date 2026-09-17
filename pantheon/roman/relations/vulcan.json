@@ -1,0 +1,397 @@
+{
+ "subject": "vulcan",
+ "relations": [
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Hḗphaistos",
+    "Ἥφαιστος"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literature equates Vulcan with the Greek smith-god Hephaestus.",
+   "source": "Cicero, Virgil, and Ovid",
+   "date": "first century BCE–first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sethlans",
+   "other_aliases": [
+    "Seθlans",
+    "Seθlanś"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship compares Vulcan with the independently named Etruscan smith and fire deity.",
+   "source": "Inscribed Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [
+    "Phthas"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cicero identifies an Egyptian Vulcan, son of the Nile, as Phthas.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Vulcan is Jupiter's son in the standard Romanized Greek genealogy.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Juno is Vulcan's mother in canonical Hellenized genealogy.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Juno bears Vulcan without Jupiter",
+   "note": "A transferred Greek variant makes Vulcan Juno's parthenogenetic son.",
+   "source": "Later Latin mythographers",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero's first of four Vulcans is a son of Caelus.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Nile",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero's Egyptian Vulcan, identified as Phthas, is the Nile's son.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Memalius",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero's fourth Vulcan is the son of Memalius.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Venus is Vulcan's wife in Hellenized Roman poetry.",
+   "source": "Virgil, Aeneid 8.370–415",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "May sacrifice to Maia",
+   "note": "Vulcan's flamen sacrifices to Maia, and priestly prayers call her Maia Volcani.",
+   "source": "Gellius 13.23.2; Macrobius 1.12",
+   "date": "second–fifth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cacus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Virgil calls the fire-breathing monster Cacus a son of Vulcan.",
+   "source": "Virgil, Aeneid 8.198–199",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caeculus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Caeculus conceived through a hearth spark",
+   "note": "Vulcan impregnates Caeculus's mother through a spark from the hearth.",
+   "source": "Servius on Aeneid 7.678",
+   "date": "late fourth–early fifth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Periphetes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Latin retellings sometimes substitute Vulcan as father of the robber Periphetes.",
+   "source": "Latin retellings of Greek tradition",
+   "date": "not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cicero's first Vulcan fathers an Apollo by Minerva.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Juno casts Vulcan from Olympus",
+   "note": "A mythographic variant has Juno cast away Vulcan because of his deformity.",
+   "source": "Later Latin mythographers",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Jupiter casts Vulcan from Olympus",
+   "note": "Jupiter casts Vulcan down after Vulcan intervenes on Juno's behalf.",
+   "source": "Latin poets and mythographers",
+   "date": "not specified",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Forging Jupiter's thunderbolts",
+   "note": "Vulcan manufactures thunderbolts for Jupiter in his subterranean forge.",
+   "source": "Virgil, Aeneid 8.424–432",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The trap-throne and return to heaven",
+   "note": "Vulcan sends Juno a trap-throne before his negotiated return to Olympus.",
+   "source": "Later Romanized mythography",
+   "date": "not specified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [
+    "Dionysus"
+   ],
+   "kind": "deceived_by",
+   "myth": "The return to heaven",
+   "note": "Bacchus intoxicates Vulcan and brings him back to Olympus.",
+   "source": "Later Romanized retelling",
+   "date": "not specified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Minerva",
+   "note": "Vulcan splits Jupiter's head with an axe so Minerva can emerge.",
+   "source": "Etruscan mirror; later Latin literature",
+   "date": "fourth–third centuries BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cicero's learned genealogy makes Minerva mother by Vulcan of an Apollo.",
+   "source": "Cicero, De natura deorum 3.55",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The arms of Aeneas",
+   "note": "Venus persuades Vulcan through erotic appeal to forge armor for Aeneas.",
+   "source": "Virgil, Aeneid 8.370–415",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Venus and Mars in the net",
+   "note": "Vulcan traps and publicly exposes his adulterous wife in invisible bronze chains.",
+   "source": "Ovid, Metamorphoses 4.171–189",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Venus and Mars in the net",
+   "note": "Vulcan catches Mars with Venus and summons the gods to witness.",
+   "source": "Ovid, Metamorphoses 4.171–189",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Venus and Mars in the net",
+   "note": "Sol discovers the adultery of Venus and Mars and informs Vulcan.",
+   "source": "Ovid, Metamorphoses 4.167–176",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "other",
+   "myth": "Release of Venus and Mars",
+   "note": "Neptune promises compensation to persuade Vulcan to release the trapped lovers.",
+   "source": "Homer, Odyssey 8",
+   "date": "not specified",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Venus and Mars in the net",
+   "note": "Mercury is among the male gods viewing Vulcan's trapped lovers.",
+   "source": "Ovid; derived from Odyssey 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Venus and Mars in the net",
+   "note": "Apollo is among the male gods viewing Vulcan's trapped lovers.",
+   "source": "Ovid; derived from Odyssey 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brontes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The divine forge",
+   "note": "Brontes labors under Vulcan on thunderbolts, Mars's chariot, and Minerva's aegis.",
+   "source": "Virgil, Aeneid 8.416–453",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Steropes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The divine forge",
+   "note": "Steropes labors under Vulcan on thunderbolts, Mars's chariot, and Minerva's aegis.",
+   "source": "Virgil, Aeneid 8.416–453",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The armor of Achilles",
+   "note": "Latin authors identify Vulcan as maker of the divine armor requested by Thetis.",
+   "source": "Latin adaptations of Iliad 18",
+   "date": "not specified",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The arms of Aeneas",
+   "note": "Vulcan forges supernatural armor for Aeneas, delivered through Venus.",
+   "source": "Virgil, Aeneid 8.608–625",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Wedding of Cupid and Psyche",
+   "note": "Vulcan cooks the divine wedding banquet for Cupid and Psyche.",
+   "source": "Apuleius, Metamorphoses 6.24",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Wedding of Cupid and Psyche",
+   "note": "Vulcan cooks the divine wedding banquet for Psyche and Cupid.",
+   "source": "Apuleius, Metamorphoses 6.24",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bona Dea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bona Dea crowns Vulcan",
+   "note": "Disputed imperial imagery has been interpreted as Bona Dea crowning Vulcan.",
+   "source": "Imperial-period visual evidence",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Later texts and monuments juxtapose Vesta's hearth fire with Vulcanic fire.",
+   "source": "Later writings and monuments",
+   "date": "not specified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Stata Mater",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Their cults complement each other in protecting Rome from urban fire.",
+   "source": "Roman cult and topography",
+   "date": "not specified",
+   "tier": "attested"
+  }
+ ]
+}

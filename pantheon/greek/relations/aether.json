@@ -1,0 +1,510 @@
+{
+ "subject": "aether",
+ "relations": [
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "Birth of brightness from darkness",
+   "note": "Nyx bears Aether after union with Erebus.",
+   "source": "Hesiod, Theogony 123–25",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of brightness from darkness",
+   "note": "Erebus fathers Aether with Nyx.",
+   "source": "Hesiod, Theogony 123–25",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [
+    "Day",
+    "Dies"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hemera and Aether are children of Nyx and Erebus.",
+   "source": "Hesiod, Theogony 123–25",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eros and Aether share Erebus and Nyx as parents.",
+   "source": "Acusilaus fr. 6",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Metis and Aether share Erebus and Nyx as parents.",
+   "source": "Acusilaus fr. 6",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Heaven",
+    "Caelus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The lost Titanomachy makes Ouranos a son of Aether.",
+   "source": "Titanomachy fr. 1",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "consort_of",
+   "myth": "Cosmic marriage of Aether and Earth",
+   "note": "Aether embraces and fertilizes Earth through rain.",
+   "source": "Aeschylus fr. 44",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "consort_of",
+   "myth": "Cosmic marriage of Aether and Earth",
+   "note": "Euripidean imagery pairs encompassing Aether with Earth.",
+   "source": "Euripides fr. 839",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Euripidean theology identifies the all-encompassing Aether as Zeus or god.",
+   "source": "Euripides fr. 839",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aether dwells in Zeus's celestial realm",
+   "note": "The hymn locates Aether on high within Zeus's realm.",
+   "source": "Orphic Hymn 5",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephelai",
+   "other_aliases": [
+    "the Clouds"
+   ],
+   "kind": "shared_myth",
+   "myth": "Invocation of Aether and the Clouds",
+   "note": "Aether is invoked within the Clouds' celestial setting.",
+   "source": "Aristophanes, Clouds",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephelai",
+   "other_aliases": [
+    "the Clouds"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A later scholastic tradition calls Aether father of the Clouds.",
+   "source": "Scholastic tradition cited in Realencyclopädie",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Chronos produces moist Aether",
+   "note": "Serpent-form Chronos produces Aether, Chaos, and Erebus.",
+   "source": "Damascius, Hieronyman theogony",
+   "date": "sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Chronos produces Aether and Chaos",
+   "note": "The Rhapsodies place Aether and Chaos after Chronos.",
+   "source": "Damascius, Orphic Rhapsodies",
+   "date": "sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Chronos produces Aether and Phanes",
+   "note": "Orpheus recounts Chronos producing Aether and twofold Eros or Phanes.",
+   "source": "Orphic Argonautica 12–14",
+   "date": "fourth–fifth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [
+    "Chasm"
+   ],
+   "kind": "sibling_of",
+   "myth": "Chronos produces Aether and Chaos",
+   "note": "Aether and Chaos are paired products or first principles after Chronos.",
+   "source": "Damascius, Orphic Rhapsodies",
+   "date": "sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [
+    "Chasm"
+   ],
+   "kind": "created",
+   "myth": "Birth of the Orphic cosmic egg",
+   "note": "Aether and Chaos jointly produce the cosmic egg.",
+   "source": "Proclus, Orphic Rhapsodies",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Chronos produces three cosmic principles",
+   "note": "Aether and misty Erebus are co-products of Chronos.",
+   "source": "Damascius, Hieronyman theogony",
+   "date": "sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Protogonos",
+    "twofold Eros"
+   ],
+   "kind": "parent_of",
+   "myth": "Phanes emerges from the cosmic egg",
+   "note": "Proclus calls Phanes a son of Aether.",
+   "source": "Proclus, Orphic Rhapsodies",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Protogonos",
+    "twofold Eros"
+   ],
+   "kind": "shared_myth",
+   "myth": "Phanes separates Aether from Chasm",
+   "note": "Phanes' emergence separates Aether from Chasm and articulates the cosmos.",
+   "source": "Proclus, Orphic Rhapsodies",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [
+    "Day",
+    "Dies"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aether and Day jointly produce Earth, Heaven, and Sea.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Terra"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Day produce Earth.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Heaven",
+    "Caelus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Day produce Heaven.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mare",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Day produce Sea.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "Heaven",
+    "Ouranos"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Dies are parents of Caelus.",
+   "source": "Cicero, Nature of Gods 3.44",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate Oceanus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate Themis.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate Tartarus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate Pontus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate the Titans.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether and Terra generate the Erinyes.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "one of the Jupiters",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A theologians' genealogy makes one Jupiter a son of Aether.",
+   "source": "Cicero, Nature of Gods 3.53",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A scholiastic genealogy makes Aether Pan's father.",
+   "source": "Scholion cited in Realencyclopädie",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "lion-headed Giant",
+   "other_aliases": [
+    "Gigantomachy opponent"
+   ],
+   "kind": "fought",
+   "myth": "Pergamon Gigantomachy",
+   "note": "A figure tentatively identified as Aether grapples with a lion-headed Giant.",
+   "source": "Pergamon Altar south frieze",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial lights share Aether's brilliance",
+   "note": "The Sun's light participates in or derives from Aether's brilliance.",
+   "source": "Orphic Hymn 5",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Moon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial lights share Aether's brilliance",
+   "note": "The Moon's light participates in or derives from Aether's brilliance.",
+   "source": "Orphic Hymn 5",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Stars",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial lights share Aether's brilliance",
+   "note": "The stars' light participates in or derives from Aether's brilliance.",
+   "source": "Orphic Hymn 5",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Heaven",
+    "Caelus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cornutus allegorically equates or closely assimilates Aether and Ouranos.",
+   "source": "Cornutus, Compendium of Greek Theology",
+   "date": "first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sun",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Nonnus occasionally assimilates Aether to solar brilliance.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Akasha",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theosophical writers equate higher Aether with Sanskrit akasha.",
+   "source": "Theosophical writings",
+   "date": "late nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [
+    "Chasm"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chaos and Caligo produce Aether, Night, Day, and Erebus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caligo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Caligo and Chaos produce Aether, Night, Day, and Erebus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nox",
+   "other_aliases": [
+    "Night",
+    "Nyx"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nox and Aether are children of Chaos and Caligo.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dies",
+   "other_aliases": [
+    "Day",
+    "Hemera"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dies and Aether are children of Chaos and Caligo.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Erebus and Aether are children of Chaos and Caligo.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  }
+ ]
+}

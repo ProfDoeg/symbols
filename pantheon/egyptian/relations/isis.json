@@ -1,0 +1,728 @@
+{
+ "subject": "isis",
+ "relations": [
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Atum-Re"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Atum is Isis's great-grandfather in the Heliopolitan Ennead genealogy.",
+   "source": "Pyramid Texts and later cosmogonies",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Atum-Re"
+   ],
+   "kind": "shared_myth",
+   "myth": "Horus-Seth adjudication",
+   "note": "Isis appears before the universal lord during the succession dispute.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Shu is Isis's grandfather in the Heliopolitan Ennead genealogy.",
+   "source": "Pyramid Texts and later cosmogonies",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tefnut is Isis's grandmother in the Heliopolitan Ennead genealogy.",
+   "source": "Pyramid Texts and later cosmogonies",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb is Isis's father in the dominant Heliopolitan genealogy.",
+   "source": "Pyramid Texts and later cosmogonies",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement of Osiris's inheritance",
+   "note": "Geb recognizes or supports Horus's succession to Osiris's inheritance.",
+   "source": "Pyramid Texts and later theology",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nut is Isis's mother in the dominant Heliopolitan genealogy.",
+   "source": "Pyramid Texts and later cosmogonies",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Osiris is Isis's brother in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Osiris is Isis's husband and principal consort.",
+   "source": "Pyramid Texts",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Mourning and reanimation of Osiris",
+   "note": "Isis searches for, mourns, protects, gathers, and revivifies Osiris.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Recovery of Osiris at Byblos",
+   "note": "Isis retrieves Osiris's coffin and later gathers his dismembered body.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus, son of Isis"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Isis is the mother of Horus in the dominant Osirian genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus, son of Isis"
+   ],
+   "kind": "allied",
+   "myth": "Contendings of Horus and Seth",
+   "note": "Isis advocates for Horus and helps him during contests for Osiris's throne.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus, son of Isis"
+   ],
+   "kind": "punished_by",
+   "myth": "Isis pities Seth",
+   "note": "Horus decapitates Isis after she releases or shows pity toward Seth.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus the Child",
+    "Harpocrates",
+    "Harpokrates"
+   ],
+   "kind": "rescued",
+   "myth": "Poisoned Horus",
+   "note": "Isis heals the child Horus from venom and other childhood dangers.",
+   "source": "Metternich Stela and cippi",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus the Elder"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some Egyptian traditions make an elder Horus a sibling of Isis and Osiris.",
+   "source": "Egyptian theological traditions",
+   "date": "date not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Seth is Isis's brother in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Horus-Seth succession dispute",
+   "note": "Isis opposes Seth's kingship claim and protects Horus against him.",
+   "source": "Pyramid Texts; Chester Beatty I",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "deceived",
+   "myth": "Isis's disguised-woman parable",
+   "note": "Disguised as a woman, Isis induces Seth to condemn his own usurpation.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Hippopotamus contest",
+   "note": "Isis harpoons Seth during the contest but releases him after his appeal.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Protection of Osiris's body",
+   "note": "Isis gathers Osiris's mutilated body and thwarts Seth's attempts to destroy it.",
+   "source": "Late temple texts; Plutarch",
+   "date": "first millennium BCE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nephthys is Isis's sister in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mourning and reassembly of Osiris",
+   "note": "The sisters jointly mourn, protect, gather, and revive Osiris.",
+   "source": "Pyramid Texts onward",
+   "date": "late Dynasty 5 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Antiphonal lamentations for Osiris",
+   "note": "Isis and Nephthys perform paired lamentations in Osirian ritual.",
+   "source": "Lamentations of Isis and Nephthys",
+   "date": "Late Period–Ptolemaic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "deceived",
+   "myth": "Isis and Ra's secret name",
+   "note": "Isis engineers Ra's poisoning and withholds healing until he reveals his secret name.",
+   "source": "Papyrus Turin 1993",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "rescued",
+   "myth": "Isis and Ra's secret name",
+   "note": "After gaining Ra's hidden name, Isis uses her magic to heal him.",
+   "source": "Papyrus Turin 1993",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "other",
+   "myth": "Poisoned Horus",
+   "note": "Isis halts or appeals to Ra's solar bark to secure help for Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Poisoned Horus",
+   "note": "Thoth advises Isis, supplies magical speech, and helps restore Horus.",
+   "source": "Cippus texts",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Replacement of Isis's severed head",
+   "note": "Thoth replaces Isis's severed head with a cow's head.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Embalming and protection of Osiris",
+   "note": "Anubis protects and embalms Osiris alongside Isis and Nephthys.",
+   "source": "Late funerary and temple accounts",
+   "date": "first millennium BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Search for Osiris",
+   "note": "Anubis accompanies Isis during her search for Osiris.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Horus-Seth succession dispute",
+   "note": "Neith advises awarding Osiris's office to Isis's son Horus.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Banebdjedet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Horus-Seth succession dispute",
+   "note": "Banebdjedet is consulted while Isis advocates her son's succession claim.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "ca. 1149–1145 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Memphite creation theology",
+   "note": "Memphite theology incorporates Isis among the gods encompassed by Ptah's creative primacy.",
+   "source": "Shabaka Stone",
+   "date": "ca. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [
+    "Min-Horus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some local Coptos systems associate Isis with Min as a consort.",
+   "source": "Coptos temple evidence",
+   "date": "principally first millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [
+    "Sarapis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Isis becomes Serapis's partner in Hellenistic and Roman cult.",
+   "source": "Temples, dedications, coinage",
+   "date": "third century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harpocrates",
+   "other_aliases": [
+    "Harpokrates",
+    "Horus the Child"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Harpocrates is Isis's child in Greco-Roman cult.",
+   "source": "Greco-Roman cult evidence",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harpocrates",
+   "other_aliases": [
+    "Harpokrates",
+    "Horus the Child"
+   ],
+   "kind": "shared_myth",
+   "myth": "Isis-Serapis-Harpocrates triad",
+   "note": "Isis and her child appear with Serapis as a Greco-Egyptian triad.",
+   "source": "Sculpture, coinage, inscriptions",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apis",
+   "other_aliases": [
+    "Osiris-Apis"
+   ],
+   "kind": "other",
+   "myth": "Formation of the Serapis cult",
+   "note": "Isis's relation to Apis is mediated through Osiris-Apis's transformation into Serapis.",
+   "source": "Ptolemaic theological evidence",
+   "date": "Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis shares Hathor's bovine crown, solar, maternal, erotic, and musical attributes.",
+   "source": "Temple monuments and texts",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sopdet",
+   "other_aliases": [
+    "Sothis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is identified or assimilated with Sopdet, the star Sirius.",
+   "source": "Funerary and astronomical theology",
+   "date": "funerary roots; elaborated later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Renenutet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is regionally assimilated to the harvest goddess Renenutet.",
+   "source": "Fayum cult evidence",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thermouthis",
+   "other_aliases": [
+    "Isis-Thermouthis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is fused with the serpent-form harvest goddess Thermouthis.",
+   "source": "Fayum cult evidence",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nepherses",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is regionally associated or identified with Nepherses.",
+   "source": "Greco-Roman Egyptian cult evidence",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greeks identify Isis with Demeter through mourning, grain, law, and civilization.",
+   "source": "Greek texts and cult interpretation",
+   "date": "Hellenistic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is identified with Aphrodite or Venus through sexuality, marriage, sovereignty, and maritime protection.",
+   "source": "Hellenistic-Roman cult evidence",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [
+    "Fortuna",
+    "Isis-Tyche",
+    "Isis-Fortuna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis fuses with Tyche or Fortuna as ruler of fortune and navigation.",
+   "source": "Inscriptions and images",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis receives a lunar identification with Selene in hymns and magic.",
+   "source": "Hymns, magical papyri, Apuleius",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis shares Hecate's nocturnal, magical, and protective identity.",
+   "source": "Greek Magical Papyri",
+   "date": "Roman Egypt",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Persephone or Proserpina is named as a manifestation of universal Isis.",
+   "source": "Apuleius, Metamorphoses XI",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Athena or Minerva is presented as a foreign name or form of Isis.",
+   "source": "Apuleius, Metamorphoses XI",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis is equated with Artemis or Diana through lunar and childbirth powers.",
+   "source": "Mediterranean interpretive theology",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation identifies Isis with Juno through queenship and marriage.",
+   "source": "Apuleius, Metamorphoses XI",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Magna Mater",
+    "Mother of the Gods"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman universalizing theology assimilates Isis to Cybele as Great Mother.",
+   "source": "Roman comparative theology",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bellona",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bellona is named among the foreign manifestations of universal Isis.",
+   "source": "Apuleius, Metamorphoses XI",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhamnusia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Rhamnusia is named among the foreign manifestations of universal Isis.",
+   "source": "Apuleius, Metamorphoses XI",
+   "date": "ca. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek mythographers make Io an earlier mortal manifestation or narrative analogue of Isis.",
+   "source": "Greek mythographic tradition",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Protective cippus rites",
+   "note": "Bes appears with Isis and Horus in apotropaic protection scenes.",
+   "source": "Cippi of Horus",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mandulis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Late cult at Philae",
+   "note": "Mandulis and Isis receive devotion within the same Nubian-Egyptian sanctuary environment.",
+   "source": "Philae inscriptions and reliefs",
+   "date": "Roman–late antique period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tefen",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Tefen escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Befen",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Befen escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mestet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Mestet escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mestetef",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Mestetef escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Petet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Petet escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Thetet escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Matet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Isis and the seven scorpions",
+   "note": "Matet escorts Isis during her flight with the child Horus.",
+   "source": "Metternich Stela",
+   "date": "ca. 360–343 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

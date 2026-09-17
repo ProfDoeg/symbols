@@ -1,0 +1,125 @@
+{
+ "subject": "egeria",
+ "relations": [
+  {
+   "other": "Camenae",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Numa’s consultations in the sacred spring-grove",
+   "note": "Egeria was dear to the Camenae and shared their consecrated grove.",
+   "source": "Livy 1.21.3; Ovid, Fasti 3.275–276",
+   "date": "late 1st c. BCE–early 1st c. CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Alternative identity of Numa’s divine instructor",
+   "note": "Dionysius reports that some classified Egeria as one of the Muses.",
+   "source": "Dionysius, Roman Antiquities 2.60",
+   "date": "c. 7 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Cynthia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Arician sacred landscape",
+   "note": "Egeria’s groves stand beside Diana’s altar in the Arician sanctuary.",
+   "source": "Virgil, Aeneid 7.761–782",
+   "date": "20s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Cynthia"
+   ],
+   "kind": "transformed_by",
+   "myth": "Egeria’s grief and metamorphosis",
+   "note": "Moved by Egeria’s grief, Diana transforms her into a perennial spring.",
+   "source": "Ovid, Metamorphoses 15.547–551",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Virbius",
+   "other_aliases": [
+    "Hippolytus"
+   ],
+   "kind": "other",
+   "myth": "Virbius attempts to console grieving Egeria",
+   "note": "Virbius recounts his death and restoration but cannot relieve Egeria’s grief.",
+   "source": "Ovid, Metamorphoses 15.493–547",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Virbius",
+   "other_aliases": [
+    "Hippolytus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Virbius in Egeria’s Arician groves",
+   "note": "Virgil places Virbius in Egeria’s groves without narrating direct interaction.",
+   "source": "Virgil, Aeneid 7.761–782",
+   "date": "20s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Picus and Faunus",
+   "note": "Egeria gives Numa the ritual knowledge required to capture Faunus.",
+   "source": "Ovid, Fasti 3.289–326",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Picus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Picus and Faunus",
+   "note": "Egeria gives Numa the ritual knowledge required to capture Picus.",
+   "source": "Ovid, Fasti 3.289–326",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Elicius"
+   ],
+   "kind": "other",
+   "myth": "Expiation of Jupiter’s lightning",
+   "note": "Egeria’s knowledge indirectly enables Numa to summon Jupiter and negotiate expiation.",
+   "source": "Ovid, Fasti 3.327–392",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Water from Egeria’s sanctuary served purification of Vesta’s sanctuary.",
+   "source": "Plutarch, Numa 13",
+   "date": "early 2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "local nymphs",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Egeria’s grief at Aricia",
+   "note": "The local nymphs urge the grieving Egeria to moderate her lamentation.",
+   "source": "Ovid, Metamorphoses 15.479–551",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  }
+ ]
+}

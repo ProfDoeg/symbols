@@ -1,0 +1,803 @@
+{
+ "subject": "gaia",
+ "relations": [
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "starry Heaven"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Uranus without a mate.",
+   "source": "Hesiod, Theogony 126–127",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "starry Heaven"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gaia mates with Uranus and bears Titans, Cyclopes, and Hundred-Handers.",
+   "source": "Hesiod, Theogony 132–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "starry Heaven"
+   ],
+   "kind": "fought",
+   "myth": "Castration of Uranus",
+   "note": "Gaia fashions the sickle and arranges Cronus’s ambush of oppressive Uranus.",
+   "source": "Hesiod, Theogony 154–182",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ourea",
+   "other_aliases": [
+    "the Mountains"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia produces the Mountains without a mate.",
+   "source": "Hesiod, Theogony 129–131",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [
+    "the Sea"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia produces Pontus without a mate.",
+   "source": "Hesiod, Theogony 131–132",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pontus",
+   "other_aliases": [
+    "the Sea"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gaia mates with Pontus and bears five sea divinities.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Oceanus by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Coeus by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Crius by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Hyperion by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Iapetus by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Cronus by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Castration of Uranus",
+   "note": "Gaia arms and conceals Cronus so he can castrate Uranus.",
+   "source": "Hesiod, Theogony 159–182",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy of Cronus’s overthrow",
+   "note": "Gaia and Uranus foretell that Zeus will overthrow Cronus.",
+   "source": "Hesiod, Theogony 463–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Theia by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Rhea by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Preservation of infant Zeus",
+   "note": "Gaia helps Rhea conceal Zeus and substitute a stone for Cronus.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Themis by Uranus.",
+   "source": "Hesiod, Theogony 135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Delphic oracle succession",
+   "note": "Gaia peacefully transfers the Delphic oracle to her daughter Themis.",
+   "source": "Aeschylus, Eumenides 1–4",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Mnemosyne by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Phoebe by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Delphic oracle succession",
+   "note": "Phoebe receives Delphi after Gaia’s daughter Themis in the peaceful succession.",
+   "source": "Aeschylus, Eumenides 4–8",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Tethys by Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brontes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Cyclops Brontes by Uranus.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Steropes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Cyclops Steropes by Uranus.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arges",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Cyclops Arges by Uranus.",
+   "source": "Hesiod, Theogony 139–146",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Hundred-Hander Cottus by Uranus.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Titanomachy",
+   "note": "Gaia advises Zeus to free Cottus, whose aid secures victory.",
+   "source": "Hesiod, Theogony 617–628",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Hundred-Hander Briareus by Uranus.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Titanomachy",
+   "note": "Gaia advises Zeus to free Briareus, whose aid secures victory.",
+   "source": "Hesiod, Theogony 617–628",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyges",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears the Hundred-Hander Gyges by Uranus.",
+   "source": "Hesiod, Theogony 147–153",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyges",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Titanomachy",
+   "note": "Gaia advises Zeus to free Gyges, whose aid secures victory.",
+   "source": "Hesiod, Theogony 617–628",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Nereus through union with Pontus.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thaumas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Thaumas through union with Pontus.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Phorcys through union with Pontus.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceto",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Ceto through union with Pontus.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurybia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Eurybia through union with Pontus.",
+   "source": "Hesiod, Theogony 233–239",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia receives Uranus’s blood and bears the Erinyes.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia generates the Giants from Uranus’s blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Gigantomachy",
+   "note": "Gaia seeks an herb to protect her Giant sons from destruction.",
+   "source": "Apollodorus, Bibliotheca 1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Meliae",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia receives Uranus’s blood and bears the Meliae.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Aphrodite",
+   "note": "Gaia receives Uranus’s blood while his severed genitals generate Aphrodite at sea.",
+   "source": "Hesiod, Theogony 188–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Preservation and rise of Zeus",
+   "note": "Gaia advises how Zeus can recover his swallowed siblings and overthrow Cronus.",
+   "source": "Hesiod, Theogony 468–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Titanomachy",
+   "note": "Gaia advises Zeus to free the allies needed for victory.",
+   "source": "Hesiod, Theogony 617–628",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Typhoeus challenges Zeus",
+   "note": "Gaia bears Typhoeus, who challenges Zeus’s cosmic rule.",
+   "source": "Hesiod, Theogony 820–868",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Gaia champions the Giants, but Zeus takes her protective herb first.",
+   "source": "Apollodorus, Bibliotheca 1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Delphic dream-oracles",
+   "note": "Gaia sends truthful dreams after Apollo’s takeover until Zeus suppresses them.",
+   "source": "Euripides, Iphigenia among the Taurians 1234–1283",
+   "date": "c. 414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy concerning Metis",
+   "note": "Gaia and Uranus warn Zeus that Metis will bear a destined ruler.",
+   "source": "Hesiod, Theogony 886–900",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gaia mates with Tartarus and bears Typhoeus.",
+   "source": "Hesiod, Theogony 820–822",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia bears Typhoeus through union with Tartarus.",
+   "source": "Hesiod, Theogony 820–822",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "created",
+   "myth": "Revenge after the Gigantomachy",
+   "note": "Gaia produces Typhon in retaliation after the Giants’ defeat.",
+   "source": "Apollodorus, Bibliotheca 1.6.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Peaceful Delphic succession",
+   "note": "Gaia begins the succession through Themis and Phoebe that ends with Apollo.",
+   "source": "Aeschylus, Eumenides 1–8",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hostile Delphic succession",
+   "note": "Gaia retaliates with dream-oracles after Apollo expels her daughter Themis.",
+   "source": "Euripides, Iphigenia among the Taurians 1234–1283",
+   "date": "c. 414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gaia and Poseidon are commonly named as Antaeus’s parents.",
+   "source": "Apollodorus, Bibliotheca 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint ownership of Delphi",
+   "note": "Gaia and Poseidon jointly possess Delphi and employ separate prophetic mouthpieces.",
+   "source": "Pausanias 10.5.6",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Python",
+   "other_aliases": [
+    "Delphic dragon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later traditions identify the Delphic dragon as a child of Earth.",
+   "source": "Later Delphic traditions",
+   "date": "Classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Python",
+   "other_aliases": [
+    "Delphic dragon"
+   ],
+   "kind": "served_by",
+   "myth": "Guarding Delphi",
+   "note": "Earth posts the dragon to guard the Delphic oracle.",
+   "source": "Pausanias, Description of Greece",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Achaean-Trojan oath sacrifice",
+   "note": "Gaia and Helios jointly receive lambs in an oath sacrifice.",
+   "source": "Homer, Iliad 3.103–120",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "allied",
+   "myth": "Zeus takes the Giants’ herb",
+   "note": "Zeus prevents Helios and other luminaries shining while taking Gaia’s herb.",
+   "source": "Apollodorus, Bibliotheca 1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Zeus’s supreme oath",
+   "note": "Zeus invokes Gaia, Uranus, and Styx together as oath witnesses.",
+   "source": "Homer, Iliad 15.36–38",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Birth of Erichthonius",
+   "note": "Gaia rises from the soil and presents infant Erichthonius to Athena.",
+   "source": "Fifth-century Athenian imagery",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Gaia grieves or supplicates while Athena fights and kills her Giant sons.",
+   "source": "Classical and Hellenistic art",
+   "date": "fifth–second centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conception of Erichthonius",
+   "note": "Hephaestus’s semen falls upon Gaia, who gestates Erichthonius.",
+   "source": "Apollodorus, Bibliotheca 3.14.6",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia conceives and bears the autochthonous Erichthonius.",
+   "source": "Attic imagery and later mythography",
+   "date": "fifth century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Birth of Erichthonius",
+   "note": "Gaia presents the newborn Erichthonius to Athena.",
+   "source": "Fifth-century Athenian imagery",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Thesmophoria invocation",
+   "note": "Gaia is invoked alongside Demeter in Athenian festival language.",
+   "source": "Aristophanes, Thesmophoriazusae 280–294",
+   "date": "411 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kore",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Thesmophoria invocation",
+   "note": "Gaia and Kore are jointly invoked in Athenian ritual language.",
+   "source": "Aristophanes, Thesmophoriazusae 280–294",
+   "date": "411 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint cult at Phlya",
+   "note": "Gaia shares altar or precinct contexts with Dionysus at Phlya and elsewhere.",
+   "source": "Pausanias, Description of Greece",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Late magical invocations",
+   "note": "Invocations blend Earth, Nature, and Hecatean language without securely identifying them.",
+   "source": "Greek Magical Papyri",
+   "date": "second BCE–fifth CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some conflicting genealogies make Pan earthborn.",
+   "source": "Pindaric fragmentary tradition",
+   "date": "early fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gaia is usually the mother of Antaeus by Poseidon.",
+   "source": "Apollodorus, Bibliotheca 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antaeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Antaeus wrestles Heracles",
+   "note": "Gaia repeatedly renews Antaeus’s strength whenever he touches the earth.",
+   "source": "Apollodorus 2.5.11 and later tradition",
+   "date": "first–second century CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Earthbirth of Orion",
+   "note": "Earth produces Orion from a buried hide wetted by three gods.",
+   "source": "Learned mythographic tradition",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Death of Orion",
+   "note": "Gaia sends a scorpion against Orion in some accounts.",
+   "source": "Learned and regional traditions",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hera’s oath",
+   "note": "Hera invokes Gaia, Uranus, and the Titans as divine witnesses.",
+   "source": "Homer, Iliad 14.272–279",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some uncertain traditions treat Nemesis as an earth-associated daughter of Gaia.",
+   "source": "Variant genealogical traditions",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tellus",
+   "other_aliases": [
+    "Terra"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman authors translate and assimilate Greek Gaia to the Roman Earth goddess.",
+   "source": "Roman literary and artistic tradition",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  }
+ ]
+}

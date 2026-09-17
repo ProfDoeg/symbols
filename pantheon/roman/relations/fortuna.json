@@ -1,0 +1,115 @@
+{
+ "subject": "fortuna",
+ "relations": [
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Praenestine inscriptions identify Fortuna Primigenia as Jupiter’s daughter.",
+   "source": "CIL XIV 2863",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fortuna nurses the infant Jupiter",
+   "note": "A Praenestine image shows infant Jupiter in Fortuna’s lap, reaching for her breast.",
+   "source": "Cicero, De divinatione 2.85–87",
+   "date": "44 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fortuna holds the infant Juno",
+   "note": "A Praenestine image places infant Juno with Jupiter in Fortuna’s lap.",
+   "source": "Cicero, De divinatione 2.85",
+   "date": "44 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Juno Lacinia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tiles taken for Fortuna Equestris",
+   "note": "Fulvius stripped Juno’s temple tiles for Fortuna’s temple; the Senate ordered their return.",
+   "source": "Livy 42.3",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mater Matuta",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Forum Boarium temples burn and are restored",
+   "note": "Their neighboring Forum Boarium temples burned together in 213 BCE and were restored.",
+   "source": "Livy 24.47; 25.7",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Venus Verticordia",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint rites on 1 April",
+   "note": "Ovid places rites to Venus and Fortuna Virilis within the same ritual observance.",
+   "source": "Ovid, Fasti 4.133–160",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman practice increasingly translated and assimilated Fortuna as Tyche.",
+   "source": "Literary, epigraphic, and artistic evidence",
+   "date": "Hellenistic and imperial periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [
+    "Isis-Fortuna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their fused form combines Isiac dress or headdress with Fortuna’s rudder and cornucopia.",
+   "source": "Imperial Pompeian material",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [
+    "Nemesis-Fortuna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial provincial dedications combine their names or attributes, especially in military and arena contexts.",
+   "source": "Imperial provincial dedications",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Virtus",
+   "other_aliases": [
+    "Virtue"
+   ],
+   "kind": "contest",
+   "myth": "Rival claims to Roman greatness",
+   "note": "Plutarch stages Fortune and Virtue as competing explanations for Rome’s imperial greatness.",
+   "source": "Plutarch, De Fortuna Romanorum",
+   "date": "c. 100 CE",
+   "tier": "canonical"
+  }
+ ]
+}

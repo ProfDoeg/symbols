@@ -1,0 +1,435 @@
+{
+ "subject": "europa",
+ "relations": [
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The earliest genealogy names Europa as Phoenix’s daughter.",
+   "source": "Iliad 14.321",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The standard later synthesis makes Europa a daughter of Agenor.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telephassa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus names Telephassa as Europa’s mother.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telephassa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Moschus makes Europa the daughter of Phoenix and Telephassa.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Argiope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus names Argiope as Europa’s mother.",
+   "source": "Hyginus, Fabulae 178",
+   "date": "early Imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A marginal genealogy makes Europa a daughter of Oceanus.",
+   "source": "later genealogical testimonia",
+   "date": "physical testimony late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Parthenope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A marginal genealogy makes Parthenope Europa’s mother.",
+   "source": "later genealogical testimonia",
+   "date": "physical testimony late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cadmus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Under the Agenor genealogy, Cadmus is Europa’s brother.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later harmonizing genealogies also make Phoenix Europa’s brother.",
+   "source": "later mythographers",
+   "date": "post-Archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cilix",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Under the Agenor genealogy, Cilix is Europa’s brother.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thasus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some genealogies make Thasus Europa’s brother rather than another relative.",
+   "source": "later mythographers",
+   "date": "post-Archaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phineus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some later genealogies include Phineus among Europa’s siblings.",
+   "source": "later mythographers",
+   "date": "post-Archaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Zeus is Europa’s divine sexual partner and father of her principal sons.",
+   "source": "Iliad 14.321–322",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "deceived_by",
+   "myth": "Zeus as the bull carries Europa to Crete",
+   "note": "Zeus conceals his identity as a tame bull and carries Europa involuntarily across the sea.",
+   "source": "Ovid, Metamorphoses 2.833–875",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Marvelous protections for Europa’s Cretan household",
+   "note": "A disputed tradition makes Talos Zeus’s protective gift to Europa.",
+   "source": "Apollodorus 1.9.26",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asterion",
+   "other_aliases": [
+    "Asterius"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Cretan king marries Europa and raises her sons.",
+   "source": "Apollodorus 3.1.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Europa bears Minos to Zeus.",
+   "source": "Iliad 14.322",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Europa bears Rhadamanthys to Zeus.",
+   "source": "Iliad 14.322",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Post-Homeric genealogy makes Sarpedon a son of Europa and Zeus.",
+   "source": "Hesiodic scholion",
+   "date": "sixth-century tradition, later witness",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Carnus",
+   "other_aliases": [
+    "Karnos"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Marginal genealogical sources occasionally make Carnus Europa’s son by Zeus.",
+   "source": "marginal genealogical sources",
+   "date": "late tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Alagonia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A poorly attested local genealogy makes Alagonia Europa’s eponymous daughter.",
+   "source": "late local genealogical tradition",
+   "date": "late tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Crete",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late compilations sometimes assign Europa an eponymous daughter named Crete.",
+   "source": "late compilations",
+   "date": "late tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cadmus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cadmus searches unsuccessfully for Europa",
+   "note": "Agenor sends Cadmus to recover Europa; he instead follows an oracle and founds Thebes.",
+   "source": "Apollodorus 3.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoenix",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Phoenix searches unsuccessfully for Europa",
+   "note": "In the Agenor genealogy, Phoenix fails to recover Europa and becomes associated with Phoenicia.",
+   "source": "Hyginus, Fabulae 178",
+   "date": "early Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cilix",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cilix searches unsuccessfully for Europa",
+   "note": "Cilix fails to recover Europa and becomes the eponym of Cilicia.",
+   "source": "Hyginus, Fabulae 178",
+   "date": "early Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thasus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thasus searches unsuccessfully for Europa",
+   "note": "Thasus joins the unsuccessful search and settles the island bearing his name.",
+   "source": "later mythographic tradition",
+   "date": "post-Classical",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mercury drives Agenor’s cattle to Europa’s shore",
+   "note": "Mercury moves the herd so disguised Jupiter can approach Europa, though they never converse.",
+   "source": "Ovid, Metamorphoses 2.836–850",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "other",
+   "myth": "Aphrodite directs Zeus’s desire toward Europa",
+   "note": "Aphrodite’s erotic power, working through Eros, causes Zeus to desire Europa.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "other",
+   "myth": "Venus predicts Europa’s continental fame",
+   "note": "Venus rebukes Europa’s lament, identifies Jupiter, and foretells that a world division will bear her name.",
+   "source": "Horace, Odes 3.27.65–76",
+   "date": "23 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Eros directs Zeus’s desire for Europa",
+   "note": "Eros wounds or directs Zeus with desire and accompanies Europa’s sea-crossing.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pothos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pothos flies above Europa’s sea-crossing",
+   "note": "Pothos appears above Europa and the bull in the marine procession.",
+   "source": "Asteas krater",
+   "date": "c. 340 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "allied",
+   "myth": "Divine escort across the sea",
+   "note": "Poseidon smooths the waves and leads or observes Europa’s marine wedding procession.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine escort across the sea",
+   "note": "Triton accompanies Europa’s crossing and sounds his conch as a wedding song.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine escort across the sea",
+   "note": "The Nereids rise from the sea and escort or witness Europa’s passage.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Seasons",
+   "other_aliases": [
+    "The Horae"
+   ],
+   "kind": "served_by",
+   "myth": "Europa’s bridal union in Crete",
+   "note": "The Seasons prepare Europa’s bridal bed and solemnize her union with Zeus.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Io’s story decorates Europa’s golden basket",
+   "note": "Europa carries Io’s former basket, whose images parallel their transformations and transport through Zeus’s desire.",
+   "source": "Moschus, Europa 37–62",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asia",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Two personified continents struggle over Europa",
+   "note": "Personified Asia claims Europa as her child but loses her to the western land destined by Zeus.",
+   "source": "Moschus, Europa",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Talos guards Europa’s Cretan household",
+   "note": "One disputed version gives the bronze guardian Talos to Europa as protection for Crete.",
+   "source": "Apollodorus 1.9.26",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Laelaps",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marvelous protections for Europa’s Cretan household",
+   "note": "A dispersed tradition traces the infallible hunting dog through Europa to Minos.",
+   "source": "Apollodorus 2.5.7",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists interpret Europa as a Greek transformation of Astarte; no ancient source makes the equation.",
+   "source": "modern comparative scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern theories identify Europa as a displaced Cretan Hera through bovine and sacred-marriage parallels.",
+   "source": "modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  }
+ ]
+}

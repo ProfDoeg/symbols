@@ -1,0 +1,47 @@
+{
+ "subject": "ash",
+ "relations": [
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Peribsen royal sealings",
+   "note": "Ash and Sethian royal imagery coexist, visually coordinated but separately signified.",
+   "source": "Peribsen sealings",
+   "date": "Dynasty 2, c. 2700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ash becomes a name or form of Seth in priestly nomenclature.",
+   "source": "Ptolemaic temple texts",
+   "date": "237–57 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Storm and cooling passage",
+   "note": "Ash refreshes the speaker while Thoth holds the associated flint knife.",
+   "source": "Book of the Dead 95",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus of Edfu",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "fought",
+   "myth": "Horus defeats Sethian enemies",
+   "note": "Ash names a Sethian enemy or sacrificial form overcome by Horus.",
+   "source": "Edfu temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "late_accretion"
+  }
+ ]
+}

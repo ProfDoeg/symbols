@@ -1,0 +1,580 @@
+{
+ "subject": "dionysus",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Dionysus by Semele.",
+   "source": "Hesiod, Theogony 940–942",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Semele and the twice-born god",
+   "note": "Zeus rescues the unborn Dionysus and gestates him in his thigh.",
+   "source": "Euripides, Bacchae",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [
+    "Thyone"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Semele is Dionysus’s mortal mother.",
+   "source": "Hesiod, Theogony 940–942",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [
+    "Thyone"
+   ],
+   "kind": "rescued",
+   "myth": "Dionysus retrieves Semele from Hades",
+   "note": "Dionysus retrieves his mother from Hades and establishes her among the gods.",
+   "source": "Apollodorus; Diodorus",
+   "date": "first century BCE–second CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of Orphic Dionysus",
+   "note": "Persephone bears Zeus’s intended divine successor in Orphic genealogy.",
+   "source": "Orphic fragments",
+   "date": "Hellenistic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bacchic release of dead initiates",
+   "note": "Released initiates are instructed to announce their status to Persephone.",
+   "source": "Pelinna gold tablets",
+   "date": "late fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ammon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ammon replaces Zeus as Dionysus’s father in a marginal genealogy.",
+   "source": "Late and rationalizing genealogies",
+   "date": "Hellenistic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some learned genealogies name Demeter as Dionysus’s mother.",
+   "source": "Diodorus and Orphic texts",
+   "date": "Hellenistic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Eleusinian and Orphic rites",
+   "note": "Dionysus and Demeter are associated in Eleusinian and Orphic settings.",
+   "source": "Diodorus and Orphic texts",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Io is Dionysus’s mother in a marginal genealogy.",
+   "source": "Local and late genealogies",
+   "date": "Hellenistic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Dione is Dionysus’s mother in a marginal genealogy.",
+   "source": "Local and late genealogies",
+   "date": "Hellenistic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lethe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lethe is Dionysus’s mother in a marginal genealogy.",
+   "source": "Local and late genealogies",
+   "date": "Hellenistic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Hera persecutes Dionysus",
+   "note": "Hera persecutes Dionysus’s household and later afflicts Dionysus with madness.",
+   "source": "Apollodorus; Hyginus; Nonnus",
+   "date": "first century CE–fifth CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Removal of the newborn Dionysus",
+   "note": "Hermes receives the newborn and carries him to Ino or the Nysiads.",
+   "source": "Homeric Hymn 26; Apollodorus",
+   "date": "sixth–fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Nurture of the newborn Dionysus",
+   "note": "Ino receives and nurses the newborn Dionysus in one tradition.",
+   "source": "Apollodorus 3.4.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nysiads",
+   "other_aliases": [
+    "Nymphs"
+   ],
+   "kind": "rescued_by",
+   "myth": "Nurture at Nysa",
+   "note": "The Nysiads rear Dionysus in the mythical land of Nysa.",
+   "source": "Homeric Hymn 26",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Flight from Lycurgus",
+   "note": "Thetis receives and shelters Dionysus when Lycurgus attacks his nurses.",
+   "source": "Iliad 6.130–140",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Return of Hephaestus",
+   "note": "Dionysus intoxicates Hephaestus and leads him back to release Hera.",
+   "source": "Archaic vase painting",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Dismemberment of Orphic Dionysus",
+   "note": "Athena preserves Dionysus’s heart after his dismemberment and brings it to Zeus.",
+   "source": "Proclus and Orphic witnesses",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Dismemberment of Orphic Dionysus",
+   "note": "The Titans lure, dismember, cook, and consume the child Dionysus.",
+   "source": "Orphic fragments; Olympiodorus",
+   "date": "Hellenistic–sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared ritual year at Delphi",
+   "note": "Apollo and Dionysus divide Delphi’s ritual year without being cosmic enemies.",
+   "source": "Plutarch",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Burial of Dionysus’s remains",
+   "note": "Later accounts make Apollo gather or bury the dismembered Dionysus’s remains.",
+   "source": "Late Orphic accounts",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage of Dionysus and Ariadne",
+   "note": "Dionysus discovers or claims Ariadne after Theseus leaves and marries her.",
+   "source": "Hesiodic fragments; Apollodorus",
+   "date": "Archaic–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Ariadne’s apotheosis",
+   "note": "Dionysus immortalizes the abandoned Ariadne and places her crown among the stars.",
+   "source": "Hellenistic and Roman sources",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Death of Ariadne on Dia",
+   "note": "Artemis kills Ariadne because of Dionysus’s testimony or accusation.",
+   "source": "Odyssey 11.321–325",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Ariadne on Dia",
+   "note": "Artemis kills Ariadne following Dionysus’s testimony.",
+   "source": "Odyssey 11.321–325",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oenopion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oenopion is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Staphylus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Staphylus is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thoas is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peparethus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Peparethus is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "ancient, date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phlias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phlias is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "ancient, date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceramus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ceramus is attributed to Dionysus and Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "ancient, date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Priapus is sometimes named as a son of Dionysus and Aphrodite.",
+   "source": "Diodorus and later mythography",
+   "date": "first century BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Priapus",
+   "note": "Aphrodite bears Priapus by Dionysus in some genealogies.",
+   "source": "Diodorus and later mythography",
+   "date": "first century BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Heraclitus enigmatically declares Hades and Dionysus to be the same.",
+   "source": "Heraclitus fragment B15",
+   "date": "ca. 500 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Iacchus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Dionysus is gradually assimilated to Eleusis’s torch-bearing procession figure.",
+   "source": "Sophocles, Antigone; later sources",
+   "date": "fifth century BCE and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretation identifies Dionysus with the Egyptian god Osiris.",
+   "source": "Herodotus 2.42, 2.144",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [
+    "Sarapis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Dionysiac imagery and variable divine identifications overlap with Serapis in Greco-Roman Egypt.",
+   "source": "Greco-Roman Egyptian evidence",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [
+    "Cybele"
+   ],
+   "kind": "taught_by",
+   "myth": "Initiation of the maddened Dionysus",
+   "note": "Rhea purifies or initiates Dionysus and gives him ecstatic ritual apparatus.",
+   "source": "Apollodorus 3.5.1; Diodorus",
+   "date": "first century BCE–second CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indian campaign",
+   "note": "Pan joins Dionysus’s company and assists his military campaigns.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dionysian erotic episodes",
+   "note": "Eros accompanies or motivates Dionysus’s erotic adventures.",
+   "source": "Nonnus and Roman art",
+   "date": "Roman period–fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine drinking and banqueting",
+   "note": "Heracles drinks and banquets with Dionysus in comic and visual traditions.",
+   "source": "Vase painting and comedy",
+   "date": "Classical period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dionysus claims Ariadne",
+   "note": "Theseus abandons or yields Ariadne before Dionysus takes her.",
+   "source": "Hesiodic fragments; Apollodorus",
+   "date": "Archaic–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indian campaign",
+   "note": "Proteus advises or assists Dionysus during the Indian campaign.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Late divine-generation sequences",
+   "note": "Nemesis participates in genealogical sequences surrounding Dionysus’s divine generation.",
+   "source": "Orphic and late genealogies",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titanic dismemberment and punishment",
+   "note": "Gaia warns or assists the Titans and participates in their punishment or restoration.",
+   "source": "Orphic fragments; Nonnus",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Agrionia flight to the Muses",
+   "note": "Dionysus flees to the Muses, after which his pursuers turn to riddles.",
+   "source": "Plutarch, Greek Questions 299F",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zagreus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later learned tradition equates Zagreus with the dismembered Orphic Dionysus.",
+   "source": "Orphic and late-antique sources",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Orphic systematization assimilates Dionysus to the primordial deity Phanes.",
+   "source": "Orphic theogonies",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Protogonos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Orphic systematization assimilates Dionysus to Protogonos.",
+   "source": "Orphic theogonies",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Erikepaios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Orphic systematization assimilates Dionysus to Erikepaios.",
+   "source": "Orphic theogonies",
+   "date": "Hellenistic and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [
+    "Liber Pater"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman religion progressively identifies Dionysus and Bacchus with the Italic Liber.",
+   "source": "Roman cult and literary evidence",
+   "date": "Republican and Imperial periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sabazios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Overlapping ecstatic and initiatory imagery encouraged limited identification with Sabazios.",
+   "source": "Hellenistic syncretic evidence",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maenads",
+   "other_aliases": [
+    "Bacchae",
+    "Bassarids"
+   ],
+   "kind": "served_by",
+   "myth": "Dionysian mountain revels",
+   "note": "Maenads form Dionysus’s ecstatic female retinue and enact his rites.",
+   "source": "Euripides, Bacchae",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satyrs",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Dionysian thiasos",
+   "note": "Satyrs accompany Dionysus and search for him when separated from their god.",
+   "source": "Euripides, Cyclops",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silens",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Dionysian thiasos",
+   "note": "Silens belong to Dionysus’s recurring mythic and iconographic retinue.",
+   "source": "Archaic and Classical art",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "canonical"
+  }
+ ]
+}

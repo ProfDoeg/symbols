@@ -1,0 +1,665 @@
+{
+ "subject": "ra",
+ "relations": [
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Amun-Ra theology",
+   "note": "Ra combines with Amun, joining visible solar and hidden transcendent power.",
+   "source": "Karnak temple hymns",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horakhty"
+   ],
+   "kind": "identified_with",
+   "myth": "Ra-Horakhty",
+   "note": "Ra combines with Horus of the Two Horizons as Ra-Horakhty.",
+   "source": "Middle Kingdom inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Ra-Atum solar cycle",
+   "note": "Ra joins Atum as creator and the completed or evening sun.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Khepri",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Solar rebirth at dawn",
+   "note": "Ra becomes Khepri, the scarab-shaped emerging sun, at dawn.",
+   "source": "Pyramid Texts; Amduat",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is an ancestor of Osiris through Shu and Geb.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Nocturnal union of Ra and Osiris",
+   "note": "Ra's mobile ba unites with Osiris's corpse, renewing both gods.",
+   "source": "Amduat; Litany of Ra",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ra revivifies Osiris in the Duat",
+   "note": "Ra illuminates and restores Osiris during his nocturnal underworld passage.",
+   "source": "Amduat; Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apophis",
+   "other_aliases": [
+    "Apep"
+   ],
+   "kind": "fought",
+   "myth": "Nightly combat in the solar barque",
+   "note": "Ra and his allies repeatedly bind, cut, burn, and spear Apophis.",
+   "source": "Coffin Texts; Amduat",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense of the solar barque",
+   "note": "Seth defends Ra's barque by spearing or repelling Apophis.",
+   "source": "Solar-barque traditions",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Horus and Seth contend for kingship",
+   "note": "Ra presides over Seth's claim and initially favors his strength.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is an ancestor of Isis through Shu and Geb.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the solar barque",
+   "note": "Isis protects Ra and assists the barque during its underworld journey.",
+   "source": "Underworld funerary texts",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Isis obtains Ra's secret name",
+   "note": "Isis poisons Ra with her serpent and coerces him to disclose his hidden name.",
+   "source": "Turin Papyrus 1993",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hathor is described as Ra's daughter and personified Eye.",
+   "source": "Dendera temple texts",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Destruction of Mankind",
+   "note": "Ra dispatches Hathor as his Eye to slaughter rebellious humanity.",
+   "source": "Book of the Heavenly Cow",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Red beer ends Hathor's slaughter",
+   "note": "Ra stops Hathor by flooding the fields with blood-colored intoxicating beer.",
+   "source": "Book of the Heavenly Cow",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ra withdraws from the tribunal",
+   "note": "Hathor cheers the offended, withdrawn Ra by exposing herself before him.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Destructive Eye of Ra",
+   "note": "Sekhmet is a lioness manifestation of Ra's destructive Eye in later synthesis.",
+   "source": "Associated Eye rituals",
+   "date": "New Kingdom onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ra-Atum generates Tefnut through bodily emission, spittle, breath, or naming.",
+   "source": "Coffin Texts",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Distant Goddess returns",
+   "note": "Tefnut, as Ra's Eye and daughter, departs and is eventually pacified.",
+   "source": "Late temple texts",
+   "date": "Late–Ptolemaic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ra-Atum generates Shu as his son or emanation.",
+   "source": "Coffin Texts",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ra ascends upon the heavenly cow",
+   "note": "Shu supports Nut after she raises Ra away from terrestrial humanity.",
+   "source": "Book of the Heavenly Cow",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Daily solar birth",
+   "note": "Nut swallows Ra each evening and gives birth to him at dawn.",
+   "source": "Funerary cosmological texts",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is Nut's ancestor through Shu and Tefnut.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ascent on the Heavenly Cow",
+   "note": "Nut becomes the heavenly cow and carries Ra above the earth.",
+   "source": "Book of the Heavenly Cow",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is Geb's ancestor through Shu and Tefnut.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Succession of divine kings",
+   "note": "Geb succeeds after Ra within learned schemes of divine kingship.",
+   "source": "Turin King List",
+   "date": "Ramesside period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is an ancestor of Seth through Shu and Geb.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "As Ra-Atum, Ra is an ancestor of Nephthys through Shu and Geb.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the solar barque",
+   "note": "Nephthys protects Ra's barque and participates in funerary renewal.",
+   "source": "Funerary imagery and stelae",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Solar voyage and divine government",
+   "note": "Thoth advises, records, heals, navigates, and acts as Ra's deputy.",
+   "source": "Funerary and solar texts",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Horus and Seth contend for kingship",
+   "note": "Thoth argues Horus's legal claim against Ra's preference for Seth.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maat is characterized as Ra's daughter and intimate cosmic principle.",
+   "source": "Pyramid Texts onward",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Maintenance of cosmic order",
+   "note": "Maat accompanies Ra's barque and embodies the order he sustains.",
+   "source": "Solar funerary texts",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sia",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the solar barque",
+   "note": "Sia, personified perception and knowledge, is stationed in Ra's barque.",
+   "source": "Funerary texts",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage of the solar barque",
+   "note": "Hu, personified authoritative utterance, serves among Ra's solar crew.",
+   "source": "Funerary texts",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heka",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Voyage through the Duat",
+   "note": "Heka accompanies and protects Ra during the nocturnal underworld journey.",
+   "source": "Underworld compositions",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emergence from the primeval waters",
+   "note": "The solar creator emerges from Nun's inert primeval waters.",
+   "source": "Heliopolitan creation texts",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Council before humanity's destruction",
+   "note": "Nun advises the aged Ra when humanity conspires against him.",
+   "source": "Book of the Heavenly Cow",
+   "date": "13th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Renewal of the solar process",
+   "note": "Nun supports the renewed solar cycle in the concluding underworld cosmogram.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Bastet is presented as Ra's daughter and protective feline Eye.",
+   "source": "Late temple synthesis",
+   "date": "Late Period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Destruction of solar enemies",
+   "note": "Bastet destroys Ra's enemies and represents the Eye's pacified aspect.",
+   "source": "Late temple synthesis",
+   "date": "Late Period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Wadjet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Fiery protection of the sun",
+   "note": "Wadjet appears as Ra's uraeus Eye, burning enemies from his disk.",
+   "source": "Royal and temple iconography",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nekhbet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Protection of the solar ruler",
+   "note": "Nekhbet parallels Wadjet as Ra's protective Eye and royal guardian.",
+   "source": "Temple theology",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mut",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Theban theology makes Mut an Eye and daughter of Ra.",
+   "source": "Theban temple hymns",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rat-Tawy",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Theban regional solar theology",
+   "note": "Rat-Tawy personifies a female Ra within Theban-region solar theology.",
+   "source": "Theban-region temple theology",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iusaaset",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Heliopolitan creation",
+   "note": "Iusaaset serves as the female complement and partner of Atum-Ra.",
+   "source": "Heliopolitan creator theology",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nebethetepet",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Heliopolitan creation",
+   "note": "Nebethetepet is a female counterpart of Atum-Ra's generative hand.",
+   "source": "Heliopolitan creator theology",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mehet-Weret",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Solar emergence from the celestial cow",
+   "note": "Ra emerges from Mehet-Weret or is carried by her as celestial cow.",
+   "source": "Regional cosmological texts",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Neith gives birth to the sun",
+   "note": "Esna theology makes primordial Neith the mother of Ra.",
+   "source": "Esna temple texts",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Ogdoad",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Sun child emerges from the lotus",
+   "note": "Ra may arise as the solar child following the Ogdoad's activity.",
+   "source": "Hermopolitan creation traditions",
+   "date": "Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Khnum-Ra theology",
+   "note": "Ra combines with Khnum, joining solar creation with life's fashioning.",
+   "source": "Esna and Elephantine texts",
+   "date": "Late Period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Sobek-Ra theology",
+   "note": "Ra combines with Sobek, granting him universal solar and creator attributes.",
+   "source": "Faiyum and Kom Ombo texts",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Montu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Montu-Ra theology",
+   "note": "Ra combines with Montu, solarizing the Theban war god.",
+   "source": "Theban-region temple texts",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Min-Ra theology",
+   "note": "Ra combines with Min, joining solar and generative powers.",
+   "source": "Coptos and Akhmim texts",
+   "date": "Pharaonic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Memphite creation",
+   "note": "Ptah's heart and tongue causally generate or encompass Ra-Atum.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Complementary modes of divinity",
+   "note": "Ptah, Ra, and Amun are juxtaposed as complementary divine modes.",
+   "source": "Triadic theological formulations",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baba",
+   "other_aliases": [
+    "Babi"
+   ],
+   "kind": "punished_by",
+   "myth": "Baba insults Ra's tribunal",
+   "note": "Baba insults Ra, prompting the solar ruler to withdraw in anger.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Settlement of Horus and Seth's contest",
+   "note": "Ra presides when Anat is proposed as a daughter or marriage partner for Seth.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Settlement of Horus and Seth's contest",
+   "note": "Ra presides when Astarte is proposed as a daughter or marriage partner for Seth.",
+   "source": "Chester Beatty Papyrus I",
+   "date": "c. 1150 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Aten",
+   "other_aliases": [
+    "Aten"
+   ],
+   "kind": "identified_with",
+   "myth": "Early Aten titulary",
+   "note": "The Aten initially appears as a solar manifestation within Ra-Horakhty's titulary.",
+   "source": "Early Amarna titulary",
+   "date": "c. 1353 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Aten",
+   "other_aliases": [
+    "Aten"
+   ],
+   "kind": "contest",
+   "myth": "Amarna transformation of solar worship",
+   "note": "Aten's elevation displaced traditional institutions while retaining language inherited from Ra.",
+   "source": "Amarna royal inscriptions",
+   "date": "c. 1353–1336 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Greek interpretation of Egyptian solar religion",
+   "note": "Greek speakers translated or interpreted Ra as their solar god Helios.",
+   "source": "Greco-Egyptian texts",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Roman interpretation of Egyptian solar gods",
+   "note": "Roman observers interpreted Ra and related Egyptian solar beings through Sol.",
+   "source": "Roman-period reception",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aion",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Composite Greco-Egyptian solar rites",
+   "note": "Magical and philosophical texts combine Ra-like solar power with Aion.",
+   "source": "Greek Magical Papyri",
+   "date": "1st–4th centuries CE",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,611 @@
+{
+ "subject": "susanoo",
+ "relations": [
+  {
+   "other": "Izanagi",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Birth from Izanagi’s nose",
+   "note": "Izanagi generates Susanoo from his nose during purification after Yomi.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Izanagi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Nihon shoki main account makes Susanoo a child of Izanagi and Izanami.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Izanagi",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Failed rule and banishment",
+   "note": "Izanagi expels Susanoo after he refuses to govern and cries for his mother.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Izanami",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Nihon shoki main account names Izanami and Izanagi as Susanoo’s parents.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Susanoo and Amaterasu are divine siblings in the early court cosmologies.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ukehi oath",
+   "note": "They exchange possessions and generate deities to test Susanoo’s intentions.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Devastation of heaven",
+   "note": "Susanoo ravages her fields and weaving hall, prompting her cave withdrawal.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amaterasu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Recovery of Kusanagi",
+   "note": "Susanoo sends Amaterasu the extraordinary sword recovered from Orochi’s tail.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Tsukuyomi",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tsukuyomi and Susanoo are co-siblings, though no direct meeting is narrated.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Yaoyorozu-no-kami",
+   "other_aliases": [
+    "the collective heavenly gods"
+   ],
+   "kind": "judged_by",
+   "myth": "Judgment after heavenly offenses",
+   "note": "The heavenly gods collectively judge Susanoo for his transgressions.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Yaoyorozu-no-kami",
+   "other_aliases": [
+    "the collective heavenly gods"
+   ],
+   "kind": "punished_by",
+   "myth": "Expulsion from heaven",
+   "note": "They impose fines, bodily penalties in variants, and expel Susanoo.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ame-no-Koyane",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration after the cave withdrawal",
+   "note": "Ame-no-Koyane helps restore Amaterasu after Susanoo’s offense, without direct dialogue.",
+   "source": "Kojiki; Nihon shoki; Kogo shūi",
+   "date": "712–807",
+   "tier": "canonical"
+  },
+  {
+   "other": "Futodama",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration after the cave withdrawal",
+   "note": "Futodama performs rituals following Susanoo’s offense, without preserved direct dialogue.",
+   "source": "Kojiki; Nihon shoki; Kogo shūi",
+   "date": "712–807",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ame-no-Oshihomimi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated from Amaterasu’s chewing of Susanoo’s sword; ownership and parentage are disputed.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ame-no-Hohi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated from Amaterasu’s chewing of Susanoo’s sword; ownership and parentage are disputed.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Amatsuhikone",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated from Amaterasu’s chewing of Susanoo’s sword; ownership and parentage are disputed.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ikutsuhikone",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated from Amaterasu’s chewing of Susanoo’s sword; ownership and parentage are disputed.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kumanokusubi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated from Amaterasu’s chewing of Susanoo’s sword; ownership and parentage are disputed.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Tagorihime",
+   "other_aliases": [
+    "Takirishime"
+   ],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated when Susanoo chews Amaterasu’s jewels; ownership and parentage vary by account.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ichikishimahime",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated when Susanoo chews Amaterasu’s jewels; ownership and parentage vary by account.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Tagitsuhime",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ukehi oath",
+   "note": "Generated when Susanoo chews Amaterasu’s jewels; ownership and parentage vary by account.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ame-no-Uzume",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Amaterasu’s cave withdrawal",
+   "note": "Ame-no-Uzume restores Amaterasu after the withdrawal caused by Susanoo’s aggression.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōgetsuhime",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Origin of food",
+   "note": "Susanoo kills her after mistaking her bodily production of food for pollution.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Kamimusubi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Origin of food",
+   "note": "Kamimusubi gathers seeds arising from Ōgetsuhime’s corpse after Susanoo kills her.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōyamatsumi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Ōyamatsumi is Susanoo’s affinal ancestor and father of his consort Kamu-Ōichihime.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ashinazuchi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orochi bride negotiation",
+   "note": "Susanoo questions him, negotiates for his daughter, and directs the sake preparations.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Ashinazuchi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Foundation of Suga palace",
+   "note": "Susanoo appoints Ashinazuchi master of the palace established at Suga.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Tenazuchi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Orochi bride negotiation",
+   "note": "Susanoo questions her family, negotiates for her daughter, and directs the sake preparations.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kushinadahime",
+   "other_aliases": [
+    "Ki-Inadahime",
+    "Kushiinadahime"
+   ],
+   "kind": "rescued",
+   "myth": "Defeat of Yamata-no-Orochi",
+   "note": "Susanoo saves her from becoming Orochi’s eighth annual victim.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kushinadahime",
+   "other_aliases": [
+    "Ki-Inadahime",
+    "Kushiinadahime"
+   ],
+   "kind": "transformed",
+   "myth": "Preparation for the Orochi battle",
+   "note": "Susanoo transforms her into a comb and carries her in his hair.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kushinadahime",
+   "other_aliases": [
+    "Ki-Inadahime",
+    "Kushiinadahime"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "She is Susanoo’s principal classical spouse and shares his palace at Suga.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Kamu-Ōichihime",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Daughter of Ōyamatsumi and Susanoo’s consort, mothering Ōtoshi and Ukanomitama.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Yamata-no-Orochi",
+   "other_aliases": [
+    "Orochi"
+   ],
+   "kind": "deceived",
+   "myth": "Intoxication of Orochi",
+   "note": "Susanoo lures the eight-headed serpent into drinking prepared sake.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Yamata-no-Orochi",
+   "other_aliases": [
+    "Orochi"
+   ],
+   "kind": "killed",
+   "myth": "Defeat of Yamata-no-Orochi",
+   "note": "Susanoo cuts apart the intoxicated serpent and finds a divine sword.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "other": "Yashimajinumi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Yashimajinumi is the child of Susanoo and Kushinadahime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōtoshi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ōtoshi is Susanoo’s child through Kamu-Ōichihime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ukanomitama",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ukanomitama is Susanoo’s child through Kamu-Ōichihime.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Isotakeru",
+   "other_aliases": [
+    "Itakeru"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Isotakeru is Susanoo’s forestry-associated son in Nihon shoki traditions.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isotakeru",
+   "other_aliases": [
+    "Itakeru"
+   ],
+   "kind": "shared_myth",
+   "myth": "Soshimori journey and tree distribution",
+   "note": "Isotakeru accompanies Susanoo to Silla and helps distribute useful tree species.",
+   "source": "Nihon shoki variant",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōyatsuhime",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ōyatsuhime is Susanoo’s forestry-associated daughter.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōyatsuhime",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Distribution of useful trees",
+   "note": "She carries out responsibility for spreading useful trees generated by Susanoo.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tsumatsuhime",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tsumatsuhime is Susanoo’s forestry-associated daughter.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tsumatsuhime",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Distribution of useful trees",
+   "note": "She carries out responsibility for spreading useful trees generated by Susanoo.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Suseribime",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Suseribime is Susanoo’s daughter and later Ōkuninushi’s wife.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Suseribime",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Escape from Ne-no-Katasukuni",
+   "note": "Suseribime secretly helps Ōkuninushi survive Susanoo’s trials and escape his realm.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Kojiki makes Ōkuninushi Susanoo’s sixth-generation descendant through Yashimajinumi.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One Nihon shoki genealogy makes Ōkuninushi Susanoo’s direct son.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Another Nihon shoki genealogy places Ōkuninushi six generations after Susanoo.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "punished",
+   "myth": "Trials in Ne-no-Katasukuni",
+   "note": "Susanoo subjects him to snakes, vermin, fire, and a hair-cleaning ordeal.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "theft",
+   "myth": "Escape from Ne-no-Katasukuni",
+   "note": "Ōkuninushi escapes with Susanoo’s sword, bow, arrows, koto, and daughter.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Ōkuninushi",
+   "other_aliases": [
+    "Ōnamuchi",
+    "Utsushikunitama",
+    "Onamuchi"
+   ],
+   "kind": "taught",
+   "myth": "Command at Yomotsu Hirasaka",
+   "note": "Susanoo confers names and instructs Ōkuninushi to defeat his brothers and rule.",
+   "source": "Kojiki",
+   "date": "712",
+   "tier": "attested"
+  },
+  {
+   "other": "Kumano Ōkami Kushimikenu-no-Mikoto",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An Izumo tradition identifies the Kumano deity with Susanoo, though details remain debated.",
+   "source": "Izumo no kuni fudoki",
+   "date": "733",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gozu Tennō",
+   "other_aliases": [
+    "Ox-Head Heavenly King",
+    "Gion Tenjin",
+    "Gion-sha no kami"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Medieval combinatory religion merged Susanoo with the wrathful plague deity Gozu Tennō.",
+   "source": "Gion-sha engi and ritual texts",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mutō Tennō",
+   "other_aliases": [
+    "Mutō Tenjin",
+    "Mutō"
+   ],
+   "kind": "identified_with",
+   "myth": "Somin Shōrai tradition",
+   "note": "The preserved fragment has Mutō identify himself as Susanoo; later traditions vary.",
+   "source": "Bingo fudoki fragment; Shaku Nihongi",
+   "date": "eighth–thirteenth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Yahashira-no-Mikogami",
+   "other_aliases": [
+    "the eight child deities"
+   ],
+   "kind": "shared_myth",
+   "myth": "Yasaka Shrine cult grouping",
+   "note": "The collective is worshiped with Susanoo and Kushiinadahime in Yasaka’s modern sanctuary.",
+   "source": "Yasaka Shrine records",
+   "date": "present",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,455 @@
+{
+ "subject": "baal",
+ "relations": [
+  {
+   "other": "Haddu/Hadad",
+   "other_aliases": [
+    "Haddu",
+    "Hadad"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ugaritic poetry treats Haddu or Hadad as the same storm-god as Baal.",
+   "source": "Ugaritic poetry",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Akkadian Adad is the Mesopotamian cognate and frequent cross-cultural equivalent of Baal-Hadad.",
+   "source": "Mesopotamian and West Semitic tradition",
+   "date": "second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [
+    "Dagon"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baal is explicitly called son of Dagan, though no birth narrative survives.",
+   "source": "KTU 1.2 and related formulas",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dagon",
+   "other_aliases": [
+    "Dagan"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Demarous is publicly or nominally presented as Dagon's son.",
+   "source": "Philo of Byblos via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Philo's Demarous is biologically Ouranos's son through a concubine given to Dagon.",
+   "source": "Philo of Byblos via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ugaritic poetry securely calls Anat Baal's sister.",
+   "source": "Ugaritic poetry",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Palace negotiations",
+   "note": "Anat advocates Baal's kingship, pressures El, and helps obtain authorization for his palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Baal's disappearance and return",
+   "note": "Anat searches for Baal, destroys Mot, and participates in restoring Baal's kingship.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fragmentary hunt or erotic encounter",
+   "note": "Damaged texts may portray erotic interaction, but neither marriage nor a definite sexual episode is secure.",
+   "source": "KTU 1.10",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "ʿAthtartu"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some later or regional reconstructions call Astarte Baal's consort, unlike the Baal Cycle.",
+   "source": "Later regional reconstructions",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "ʿAthtartu"
+   ],
+   "kind": "allied",
+   "myth": "Conflict with Yammu",
+   "note": "Astarte restrains Baal from attacking Yammu's envoys and addresses him after Yammu's defeat.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pidray",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pidray is named as one of Baal's three daughters.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ṭallay",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ṭallay is named as one of Baal's three daughters.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arṣay",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Arṣay is named as one of Baal's three daughters.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ilu/El",
+   "other_aliases": [
+    "Ilu",
+    "El"
+   ],
+   "kind": "other",
+   "myth": "Yammu's demand for Baal",
+   "note": "El initially entertains Yammu's claim and demands Baal's surrender.",
+   "source": "KTU 1.1–1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ilu/El",
+   "other_aliases": [
+    "Ilu",
+    "El"
+   ],
+   "kind": "other",
+   "myth": "Authorization of Baal's palace",
+   "note": "El retains senior authority and approves construction of Baal's palace after Athirat's mediation.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ilu/El",
+   "other_aliases": [
+    "Ilu",
+    "El"
+   ],
+   "kind": "other",
+   "myth": "Mourning and recognition of Baal's return",
+   "note": "El mourns Baal's reported death and later dreams that Baal lives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ilu/El",
+   "other_aliases": [
+    "Ilu",
+    "El"
+   ],
+   "kind": "judged_by",
+   "myth": "Final struggle with Mot",
+   "note": "El's threatened judgment supports Baal and compels Mot to yield.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "allied",
+   "myth": "Palace negotiations",
+   "note": "After receiving gifts and Anat's intervention, Athirat persuades El to authorize Baal's palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "gift",
+   "myth": "Palace negotiations",
+   "note": "Baal approaches Athirat with crafted gifts while seeking her political support.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yammu",
+   "other_aliases": [
+    "Naharu",
+    "Sea",
+    "Judge River"
+   ],
+   "kind": "fought",
+   "myth": "Conflict for divine kingship",
+   "note": "Baal strikes Yammu with Kothar's clubs, defeats him, and secures kingship.",
+   "source": "KTU 1.1–1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kothar-wa-Khasis",
+   "other_aliases": [
+    "Kothar"
+   ],
+   "kind": "gift",
+   "myth": "Conflict with Yammu",
+   "note": "Kothar fashions the clubs Yagrush and Ayyamur for Baal's battle against Yammu.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kothar-wa-Khasis",
+   "other_aliases": [
+    "Kothar"
+   ],
+   "kind": "served_by",
+   "myth": "Construction of Baal's palace",
+   "note": "Kothar constructs Baal's palace and installs the window for his thunderous voice.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Môtu",
+   "other_aliases": [
+    "Mot",
+    "Death"
+   ],
+   "kind": "killed_by",
+   "myth": "Baal's descent into Death's realm",
+   "note": "Mot demands Baal's descent; Baal is overcome or dies and is found within the earth.",
+   "source": "KTU 1.4–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Môtu",
+   "other_aliases": [
+    "Mot",
+    "Death"
+   ],
+   "kind": "fought",
+   "myth": "Renewed duel after Baal's return",
+   "note": "Baal and Mot battle inconclusively until Šapash invokes El's support and Mot yields.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Šapash",
+   "other_aliases": [
+    "Šapšu"
+   ],
+   "kind": "rescued_by",
+   "myth": "Baal's disappearance and return",
+   "note": "The sun goddess helps Anat locate or transport Baal from Death's realm.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Šapash",
+   "other_aliases": [
+    "Šapšu"
+   ],
+   "kind": "allied",
+   "myth": "Descent to Mot's realm",
+   "note": "Šapash advises Baal concerning his entry into Mot's voracious realm.",
+   "source": "KTU 1.4–1.5",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Šapash",
+   "other_aliases": [
+    "Šapšu"
+   ],
+   "kind": "judged_by",
+   "myth": "Final struggle with Mot",
+   "note": "Šapash arbitrates the final struggle by warning Mot that El supports Baal.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "ʿAthtar",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Attempted replacement on Baal's throne",
+   "note": "ʿAthtar attempts to replace Baal but proves inadequate for his throne and descends.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gupan",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Palace and Mot communications",
+   "note": "Baal dispatches Gupan as a divine messenger during palace negotiations and communications with Mot.",
+   "source": "KTU 1.3–1.5",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ugar",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Palace and Mot communications",
+   "note": "Baal dispatches Ugar as a divine messenger during palace negotiations and communications with Mot.",
+   "source": "KTU 1.3–1.5",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Qodesh-wa-Amrur",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Athirat's diplomatic journey",
+   "note": "Athirat's divine attendant handles her conveyance during negotiations that secure Baal's palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lôtānu",
+   "other_aliases": [
+    "the fleeing serpent",
+    "the twisting serpent"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of the seven-headed serpent",
+   "note": "Fragmentary passages credit Baal with defeating Lôtānu, though its relation to Yammu is unresolved.",
+   "source": "Fragmentary Ugaritic passages",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Egyptian reception compared or fused Baal with Seth as a foreign storm-warrior.",
+   "source": "Egyptian New Kingdom texts",
+   "date": "c. 1279–1150 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeus Demarous"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretive traditions rendered Baal-Hadad and Baalshamin as Zeus.",
+   "source": "Philo and Greco-Roman traditions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pontos",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "fought",
+   "myth": "Demarous battles Pontos",
+   "note": "Philo's Demarous fights Pontos in a Hellenized version of West Semitic sea combat.",
+   "source": "Philo of Byblos via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [
+    "Saturn",
+    "Saturnus Africanus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman traditions identified the regional god Baal Hammon with Kronos or Saturn.",
+   "source": "Classical accounts and African dedications",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tanit",
+   "other_aliases": [
+    "the Lady Tanit",
+    "Face of Baal"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Punic inscriptions pair Tanit with the regional god Baal Hammon in Carthaginian worship.",
+   "source": "Carthaginian votive inscriptions",
+   "date": "seventh–second centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yahweh",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Elijah's contest on Carmel",
+   "note": "Their worshippers contest which deity answers by fire and controls rain; the gods never meet directly.",
+   "source": "1 Kings 18",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  }
+ ]
+}

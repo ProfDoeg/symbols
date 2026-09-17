@@ -1,0 +1,96 @@
+{
+ "subject": "baba_yaga",
+ "relations": [
+  {
+   "other": "Bright Day",
+   "other_aliases": [
+    "white rider"
+   ],
+   "kind": "served_by",
+   "myth": "Vasilisa the Beautiful",
+   "note": "Baba Yaga calls the white rider her bright day.",
+   "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "other": "Red Sun",
+   "other_aliases": [
+    "red rider"
+   ],
+   "kind": "served_by",
+   "myth": "Vasilisa the Beautiful",
+   "note": "Baba Yaga calls the red rider her red sun.",
+   "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "other": "Dark Night",
+   "other_aliases": [
+    "black rider"
+   ],
+   "kind": "served_by",
+   "myth": "Vasilisa the Beautiful",
+   "note": "Baba Yaga calls the black rider her dark night.",
+   "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "other": "Koschei the Deathless",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marya Morevna",
+   "note": "Her supernatural horse enables Ivan to pursue Koschei; they never meet directly.",
+   "source": "Afanasyev, Marya Morevna",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "other": "Sea Tsar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Sea Tsar and Vasilisa the Wise",
+   "note": "She advises the hero how to enter his realm and identify Vasilisa.",
+   "source": "East Slavic tale variants",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Serpent/Dragon",
+   "other_aliases": [
+    "serpent antagonist"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some regional tales make Baba Yaga the serpent antagonist’s mother.",
+   "source": "East Slavic tale variants",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baba Yaga sisters",
+   "other_aliases": [
+    "three Baba Yaga sisters",
+    "Multiple Yagas"
+   ],
+   "kind": "sibling_of",
+   "myth": "Multiple Yagas",
+   "note": "Three near-identical sisters inhabit successive huts and provide knowledge or magical aid.",
+   "source": "East Slavic tale collections",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "crocodile",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Yaga-Baba rides to fight the crocodile",
+   "note": "A satirical lubok shows Yaga-Baba riding a pig to fight it.",
+   "source": "Moscow crocodile lubok",
+   "date": "c. 1760 or later",
+   "tier": "late_accretion"
+  }
+ ]
+}

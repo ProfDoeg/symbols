@@ -1,0 +1,647 @@
+{
+ "subject": "thor",
+ "relations": [
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Hárbarðr",
+    "Wodan"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri identifies Odin as Thor’s father; continental evidence only couples their names.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Hárbarðr",
+    "Wodan"
+   ],
+   "kind": "contest",
+   "myth": "Ferryman’s contest of boasts and insults",
+   "note": "Odin, probably disguised as Hárbarðr, refuses Thor passage and frustrates him verbally.",
+   "source": "Hárbarðsljóð",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrð",
+   "other_aliases": [
+    "Earth",
+    "Hlóðyn",
+    "Fjǫrgyn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Poetry repeatedly identifies Thor as the son of the personified Earth.",
+   "source": "Vǫluspá; skaldic kennings",
+   "date": "medieval manuscripts",
+   "tier": "attested"
+  },
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Sif is consistently identified as Thor’s wife in Eddic and Snorrian sources.",
+   "source": "Eddic poetry; Skáldskaparmál",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Loki cuts Sif’s hair",
+   "note": "Thor reacts furiously after Loki cuts Sif’s hair.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Járnsaxa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Thor has a sexual relationship with Járnsaxa, who bears their son Magni.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Magni",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Magni is Thor’s son by Járnsaxa.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Magni",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "After Thor’s duel with Hrungnir",
+   "note": "The infant Magni frees Thor by lifting Hrungnir’s leg from him.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Magni",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "After Thor’s duel with Hrungnir",
+   "note": "Thor rewards Magni with Hrungnir’s horse Gullfaxi.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Móði",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Móði is Thor’s son, though his mother is unnamed.",
+   "source": "Vafþrúðnismál; Gylfaginning",
+   "date": "13th-century witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrúðr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Þrúðr is Thor’s daughter; her maternity is not consistently explicit.",
+   "source": "Alvíssmál; poetic kennings",
+   "date": "medieval manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ullr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ullr is Sif’s son and therefore Thor’s stepson by implication.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of Mjǫllnir from Þrymr",
+   "note": "Loki accompanies the disguised Thor as bridesmaid and helps explain his behavior.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Journey to Útgarða-Loki",
+   "note": "Loki travels with Thor through Skrýmir’s forest and visits Útgarða-Loki’s court.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Journey to Geirrøðr",
+   "note": "Loki induces Thor to visit Geirrøðr without his hammer, belt, or gloves.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Thor ends Loki’s insults at Ægir’s feast",
+   "note": "Thor repeatedly threatens Loki with Mjǫllnir until Loki leaves the feast.",
+   "source": "Lokasenna",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recovery of Mjǫllnir from Þrymr",
+   "note": "Thor asks Freyja to pose as Þrymr’s bride, but she angrily refuses.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Recovery of Mjǫllnir from Þrymr",
+   "note": "Heimdall advises Thor to disguise himself as Freyja.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Quest for Hymir’s cauldron",
+   "note": "Týr travels with Thor to obtain Hymir’s cauldron for Ægir.",
+   "source": "Hymiskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ægir",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Quest for Hymir’s cauldron",
+   "note": "Thor procures Hymir’s immense cauldron so Ægir can brew ale for the gods.",
+   "source": "Hymiskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Baldr’s funeral",
+   "note": "Thor hallows Baldr’s ship-pyre with Mjǫllnir.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Baldr’s funeral",
+   "note": "Thor hallows the funeral pyre on which Nanna is placed with Baldr.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gríðr",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Thor’s expedition against Geirrøðr",
+   "note": "Gríðr lends Thor her staff, iron gloves, and power-belt.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geirrøðr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Thor’s expedition against Geirrøðr",
+   "note": "Geirrøðr attempts to kill Thor with a heated iron projectile.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "late 10th century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geirrøðr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Thor’s expedition against Geirrøðr",
+   "note": "Thor catches the heated missile and throws it through Geirrøðr.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "late 10th century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Gjálp",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Crossing the river Vimur",
+   "note": "Gjálp tries to drown Thor by swelling Vimur; he checks the flood.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "late 10th century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Gjálp",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "The crushing chair at Geirrøðr’s hall",
+   "note": "Thor breaks Gjálp’s back after she tries to crush him beneath his chair.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Greip",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The crushing chair at Geirrøðr’s hall",
+   "note": "Greip helps raise Thor’s chair to crush him, but Thor breaks her back.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hrungnir",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Thor’s duel with Hrungnir",
+   "note": "Thor duels Hrungnir after the drunken giant threatens Ásgarðr and its goddesses.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late 9th/early 10th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Hrungnir",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Thor’s duel with Hrungnir",
+   "note": "Thor kills Hrungnir with Mjǫllnir but is wounded and pinned beneath him.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late 9th/early 10th century",
+   "tier": "attested"
+  },
+  {
+   "other": "Þrymr",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of Mjǫllnir",
+   "note": "Þrymr steals Thor’s hammer and demands Freyja as its ransom.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrymr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Thor poses as Freyja",
+   "note": "Thor disguises himself as Þrymr’s bride to regain Mjǫllnir.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrymr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Wedding massacre after Mjǫllnir’s recovery",
+   "note": "Thor recovers Mjǫllnir and kills Þrymr.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrymr’s sister",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Wedding massacre after Mjǫllnir’s recovery",
+   "note": "Thor kills Þrymr’s unnamed sister after she requests bridal gifts.",
+   "source": "Þrymskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hymir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fishing for Jǫrmungandr",
+   "note": "Hymir reluctantly fishes with Thor and reacts fearfully when Thor hooks the serpent.",
+   "source": "Hymiskviða; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hymir",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Escape with Hymir’s cauldron",
+   "note": "Hymir pursues Thor after Thor carries away the immense brewing cauldron.",
+   "source": "Hymiskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [
+    "Miðgarðsormr",
+    "Midgard serpent",
+    "world-serpent"
+   ],
+   "kind": "fought",
+   "myth": "Thor fishes for the world-serpent",
+   "note": "Thor hooks and strikes at Jǫrmungandr using an ox head as bait.",
+   "source": "Hymiskviða; Ragnarsdrápa; images",
+   "date": "9th century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [
+    "Miðgarðsormr",
+    "Midgard serpent",
+    "world-serpent"
+   ],
+   "kind": "contest",
+   "myth": "The cat-lifting trial at Útgarðr",
+   "note": "Thor nearly lifts Jǫrmungandr while it is disguised by illusion as a cat.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [
+    "Miðgarðsormr",
+    "Midgard serpent",
+    "world-serpent"
+   ],
+   "kind": "killed",
+   "myth": "Thor and Jǫrmungandr at Ragnarǫk",
+   "note": "Thor kills the world-serpent in their final encounter.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "13th-century witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [
+    "Miðgarðsormr",
+    "Midgard serpent",
+    "world-serpent"
+   ],
+   "kind": "killed_by",
+   "myth": "Thor and Jǫrmungandr at Ragnarǫk",
+   "note": "Thor dies after walking nine steps, overcome by the serpent’s venom.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "13th-century witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Útgarða-Loki",
+   "other_aliases": [
+    "Skrýmir"
+   ],
+   "kind": "deceived_by",
+   "myth": "Thor’s trials at Útgarðr",
+   "note": "Útgarða-Loki humiliates Thor with illusions involving sea, serpent, and Old Age.",
+   "source": "Gylfaginning; Lokasenna allusion",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elli",
+   "other_aliases": [
+    "Old Age"
+   ],
+   "kind": "contest",
+   "myth": "Wrestling trial at Útgarðr",
+   "note": "Personified Old Age wrestles Thor and forces him onto one knee.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alvíss",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The delayed marriage of Alvíss",
+   "note": "Thor prolongs a wisdom contest until daylight catches Alvíss, preventing the marriage.",
+   "source": "Alvíssmál",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brokkr",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The manufacture of Mjǫllnir",
+   "note": "Brokkr helps manufacture and present Mjǫllnir to Thor during Loki’s wager.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sindri",
+   "other_aliases": [
+    "Eitri"
+   ],
+   "kind": "gift",
+   "myth": "The manufacture of Mjǫllnir",
+   "note": "Sindri manufactures and presents Mjǫllnir to Thor during Loki’s wager.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gróa",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Thor after Hrungnir’s duel",
+   "note": "Gróa chants healing spells to remove Hrungnir’s whetstone from Thor’s head.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aurvandill",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Thor carries Aurvandill from giant-land",
+   "note": "Thor carries Gróa’s husband Aurvandill in a basket out of giant-land.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aurvandill",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Creation of Aurvandill’s Toe star",
+   "note": "Thor breaks off Aurvandill’s frozen toe and casts it skyward as a star.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Litr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Baldr’s funeral",
+   "note": "Thor kicks the dwarf Litr into Baldr’s funeral fire, where he burns.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Himinhrjótr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Bait for the world-serpent",
+   "note": "Thor tears off Hymir’s great ox’s head and uses it as bait.",
+   "source": "Hymiskviða",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanngnjóstr",
+   "other_aliases": [
+    "Tooth-Gnasher"
+   ],
+   "kind": "killed",
+   "myth": "Thor’s goats at the farmer’s house",
+   "note": "Thor kills and cooks his goat, preserving its bones for resurrection.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanngnjóstr",
+   "other_aliases": [
+    "Tooth-Gnasher"
+   ],
+   "kind": "rescued",
+   "myth": "Resurrection of Thor’s goats",
+   "note": "Thor restores his slaughtered goat to life with Mjǫllnir.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanngrisnir",
+   "other_aliases": [
+    "Tooth-Grinder"
+   ],
+   "kind": "killed",
+   "myth": "Thor’s goats at the farmer’s house",
+   "note": "Thor kills and cooks his goat, preserving its bones for resurrection.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tanngrisnir",
+   "other_aliases": [
+    "Tooth-Grinder"
+   ],
+   "kind": "rescued",
+   "myth": "Resurrection of Thor’s goats",
+   "note": "Thor restores his slaughtered goat to life, though one goat remains lame.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þjálfi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Resurrection of Thor’s goats",
+   "note": "Þjálfi becomes Thor’s servant after breaking a resurrected goat’s bone.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þjálfi",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Thor’s duel with Hrungnir",
+   "note": "Þjálfi assists Thor by tricking Hrungnir and defeating the clay giant.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late 9th century onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Rǫskva",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Resurrection of Thor’s goats",
+   "note": "Rǫskva becomes Thor’s servant as compensation after the goat-bone incident.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Calendar translation and medieval Latin interpretation functionally equate Thor with Jupiter.",
+   "source": "Thursday tradition; Gesta Danorum",
+   "date": "Roman period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars sometimes identify the Germanic Hercules with a Thor-like god, but evidence is indirect.",
+   "source": "Tacitus, Germania 3 and 9",
+   "date": "c. 98 CE",
+   "tier": "modern"
+  },
+  {
+   "other": "Donner",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Wagner adapts the Germanic thunder god as the hammer-wielding Donner.",
+   "source": "Wagner, Der Ring des Nibelungen",
+   "date": "1850s–1870s",
+   "tier": "modern"
+  }
+ ]
+}

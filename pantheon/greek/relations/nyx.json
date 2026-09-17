@@ -1,0 +1,767 @@
+{
+ "subject": "nyx",
+ "relations": [
+  {
+   "other": "Nox",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Nox is the regular Latin translation-equivalent of Greek Nyx.",
+   "source": "Roman poetry and mythography",
+   "date": "Republican and Imperial Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cypris"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The hymn addresses Nyx as Cypris, expressing universal generative power.",
+   "source": "Orphic Hymn 3",
+   "date": "2nd–3rd century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx emerges from Chaos alongside Erebus.",
+   "source": "Hesiod, Theogony 123",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nyx and Erebus both emerge from Chaos.",
+   "source": "Hesiod, Theogony 123",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of Aether and Hemera",
+   "note": "Nyx couples with Erebus and bears Aether and Hemera.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Aether through union with Erebus.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Variant birth of Eros",
+   "note": "A fragmentary genealogy pairs Night with Aether as parents of Eros.",
+   "source": "Acusilaus testimonium",
+   "date": "Archaic claim, late transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Hemera through union with Erebus.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Night and Day exchange places",
+   "note": "Mother and daughter alternately cross their cosmic dwelling's bronze threshold.",
+   "source": "Hesiod, Theogony 748–757",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A variant makes Hemera the daughter of Chronos and Nyx.",
+   "source": "Bacchylides, Ode 7.1–2",
+   "date": "5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Moros without a partner.",
+   "source": "Hesiod, Theogony 211",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ker",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Ker without a partner.",
+   "source": "Hesiod, Theogony 211–212",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Thanatos without a partner.",
+   "source": "Hesiod, Theogony 212",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "other",
+   "myth": "Nyx holds Sleep and Death",
+   "note": "Nyx holds or nurses Thanatos as a dark sleeping child.",
+   "source": "Pausanias 5.18.1",
+   "date": "2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Hypnos without a partner.",
+   "source": "Hesiod, Theogony 212",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "other",
+   "myth": "Night carries Sleep",
+   "note": "Nyx travels over the world carrying Hypnos.",
+   "source": "Hesiod, Theogony 756",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "rescued",
+   "myth": "Rescue of Hypnos",
+   "note": "Nyx shelters Hypnos, causing the pursuing Zeus to withdraw.",
+   "source": "Iliad 14.231–261",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "rescued",
+   "myth": "Nyx restrains Zeus again",
+   "note": "Nyx's entreaties save Hypnos from Zeus after Hera's Dionysian plot.",
+   "source": "Nonnus, Dionysiaca 35",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oneiroi",
+   "other_aliases": [
+    "Dreams"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears the collective tribe of Dreams without a partner.",
+   "source": "Hesiod, Theogony 212",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Momus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Momus without a partner.",
+   "source": "Hesiod, Theogony 214",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oizys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Oizys without a partner.",
+   "source": "Hesiod, Theogony 214",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hesperides",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears the Hesperides without a partner.",
+   "source": "Hesiod, Theogony 215–216",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears the Moirai without a partner.",
+   "source": "Hesiod, Theogony 217–219",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Byzantine variant makes Nyx and Cronus parents of the Moirai.",
+   "source": "Tzetzes on Lycophron",
+   "date": "12th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Keres",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears the Keres without a partner.",
+   "source": "Hesiod, Theogony 217–219",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Nemesis without a partner.",
+   "source": "Hesiod, Theogony 223",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apate",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Apate without a partner.",
+   "source": "Hesiod, Theogony 224",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Philotes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Philotes without a partner.",
+   "source": "Hesiod, Theogony 224",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Geras",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Geras without a partner.",
+   "source": "Hesiod, Theogony 225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nyx bears Eris without a partner.",
+   "source": "Hesiod, Theogony 225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus abandons pursuit of Hypnos",
+   "note": "Zeus stops pursuing Hypnos because he hesitates to displease Nyx.",
+   "source": "Iliad 14.256–261",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Night advises Zeus",
+   "note": "Nyx gives Zeus prophetic counsel about sovereignty, Cronus, and cosmic ordering.",
+   "source": "Derveni and Rhapsodic fragments",
+   "date": "Classical to Imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus reared in Night's cave",
+   "note": "Zeus is reared with divine guardians inside Nyx's cave.",
+   "source": "Hermias, Orphic testimonium",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rescue of Hypnos",
+   "note": "Nyx indirectly prevents punishment after Hypnos and Hera endanger Heracles.",
+   "source": "Iliad 14.231–261",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera's plot against Heracles",
+   "note": "Hera's scheme causes Hypnos to seek Nyx's protection from Zeus.",
+   "source": "Iliad 14.231–261",
+   "date": "late 8th–early 7th BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One Acusilean testimony makes Night and Aether parents of Eros.",
+   "source": "Acusilaus testimonium",
+   "date": "Archaic claim, late transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Night's egg hatches Eros",
+   "note": "Nyx lays a wind-egg in Erebus from which Eros hatches.",
+   "source": "Aristophanes, Birds 685–703",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Phanes"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Orphic Argonautica makes Eros or Phanes the father of Nyx.",
+   "source": "Orphic Argonautica 12–28",
+   "date": "4th–5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An Acusilean fragment makes Metis a child of Erebus and Nyx.",
+   "source": "Acusilaus fragment",
+   "date": "Archaic claim, late transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Epimenidean evidence may make Tartarus the child of Night and Air.",
+   "source": "Epimenides testimonia",
+   "date": "Archaic claim, late transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A lyric fragment calls torch-bearing Hecate the daughter of Night.",
+   "source": "Bacchylides fragment 1B",
+   "date": "5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Erinyes repeatedly address Nyx as their mother.",
+   "source": "Aeschylus, Eumenides 321–322",
+   "date": "458 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman poetry likewise presents Nox as mother of the Furies.",
+   "source": "Ovid, Metamorphoses 4.451–452",
+   "date": "1st century BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lyssa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lyssa is the daughter of Nyx and Uranus.",
+   "source": "Euripides, Heracles 822–844",
+   "date": "later 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Derveni theogony makes primordial Night the mother of Uranus.",
+   "source": "Derveni Papyrus",
+   "date": "c. 340–320 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of Lyssa",
+   "note": "Nyx and Uranus produce Lyssa in a tragic genealogy.",
+   "source": "Euripides, Heracles 822–844",
+   "date": "later 5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A medieval learned genealogy makes Nyx the daughter of Oceanus and mother of Uranus.",
+   "source": "Michael of Ephesus",
+   "date": "12th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Ericepaeus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rhapsodic fragments make Nyx a daughter of Phanes.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "Imperial, late transmission",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Ericepaeus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rhapsodic fragments also make Nyx the consort of Phanes.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "Imperial, late transmission",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Ericepaeus"
+   ],
+   "kind": "gift",
+   "myth": "Phanes gives Nyx the sceptre",
+   "note": "Phanes voluntarily grants Nyx the sceptre and prophetic authority.",
+   "source": "Proclus, Rhapsodic fragments",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later Orphic material makes Gaia a daughter of Nyx and Phanes.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "Imperial, late transmission",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nyx rears Cronus",
+   "note": "Rhapsodic Nyx nurtures Cronus during the divine succession.",
+   "source": "Orphic Rhapsodic fragments",
+   "date": "Imperial, late transmission",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Variant birth of the Moirai",
+   "note": "A Byzantine variant pairs Nyx with Cronus as parents of the Moirai.",
+   "source": "Tzetzes on Lycophron",
+   "date": "12th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amalthea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Zeus reared in Night's cave",
+   "note": "Amalthea helps rear Zeus within Nyx's cave.",
+   "source": "Hermias, Orphic testimonium",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Zeus reared in Night's cave",
+   "note": "Adrasteia guards Nyx's cave and clashes cymbals while Zeus is reared.",
+   "source": "Hermias, Orphic testimonium",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Night departs as Sun rises",
+   "note": "Nyx drives away as Helios rises in the celestial cycle.",
+   "source": "Met lekythos 41.162.29",
+   "date": "c. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial transition",
+   "note": "Eos and Nyx appear together with Helios in celestial vase imagery.",
+   "source": "Classical vase paintings",
+   "date": "5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A late epic variant makes Eos the daughter of Nyx.",
+   "source": "Quintus Smyrnaeus 2.625–626",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Moon"
+   ],
+   "kind": "shared_myth",
+   "myth": "Common dream oracle",
+   "note": "A visionary narrative gives Night and Moon a common wandering oracle.",
+   "source": "Plutarch, De sera 22",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Delphi",
+   "note": "Late testimonia say Nyx preceded or competed with Apollo at Delphi.",
+   "source": "Scholia and Menander Rhetor",
+   "date": "late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Delphic oracle succession",
+   "note": "Late sources place Themis after or alongside Nyx in Delphi's oracle.",
+   "source": "Scholiastic and rhetorical sources",
+   "date": "late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Delphi",
+   "note": "Poseidon and Nyx appear among Apollo's competitors for Delphi.",
+   "source": "Menander Rhetor",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Python",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Delphic oracle succession",
+   "note": "A scholium places Python after Night and Themis in Delphic succession.",
+   "source": "Pindaric scholium",
+   "date": "late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "other",
+   "myth": "Night's oracles concerning Bacchus",
+   "note": "Nyx delivers holy oracles concerning Dionysus.",
+   "source": "Orphic Argonautica 28",
+   "date": "4th–5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Iris impersonates Nyx",
+   "note": "Iris assumes Nyx's appearance to persuade Hypnos.",
+   "source": "Nonnus, Dionysiaca 31",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "A disputed Pergamon figure conventionally called Nyx attacks a Giant.",
+   "source": "Pergamon Great Altar",
+   "date": "2nd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Stars",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Orphic hymn identifies the Stars as children of Night.",
+   "source": "Orphic Hymn 7",
+   "date": "2nd–3rd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A medieval commentary makes Nyx the daughter of Oceanus.",
+   "source": "Michael of Ephesus",
+   "date": "12th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caligo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman mythography makes Nox a child of Chaos and Caligo.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus adds Styx to Nox's expanded offspring catalogue.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Euphrosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus adds Euphrosyne to Nox's expanded offspring catalogue.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Friendship",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus lists Friendship among Nox's expanded offspring.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercy",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus lists Mercy among Nox's expanded offspring.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  }
+ ]
+}

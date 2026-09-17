@@ -1,0 +1,572 @@
+{
+ "subject": "chandra_soma",
+ "relations": [
+  {
+   "other": "Haoma",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Haoma is Soma’s Iranian cognate, reflecting shared Indo-Iranian ritual inheritance.",
+   "source": "Vedic and Avestan linguistic evidence",
+   "date": "Indo-Iranian period",
+   "tier": "attested"
+  },
+  {
+   "other": "Cosmic Person",
+   "other_aliases": [
+    "Puruṣa"
+   ],
+   "kind": "created_by",
+   "myth": "Moon arises from the cosmic Person’s mind",
+   "note": "The moon is born from the cosmic Person’s mind.",
+   "source": "Ṛgveda 10.90.13",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indra-Soma release the waters",
+   "note": "Soma empowers Indra, and together they overcome enemies and release the waters.",
+   "source": "Ṛgveda 1.32; 4.28",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Tārakāmaya war",
+   "note": "Indra and the Devas support Bṛhaspati against Soma.",
+   "source": "Purāṇic Tārakāmaya accounts",
+   "date": "fourth–fifteenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vṛtra",
+   "other_aliases": [
+    "Ahi"
+   ],
+   "kind": "killed",
+   "myth": "Indra-Soma kill the serpent",
+   "note": "Soma and Indra jointly overcome the serpent and release the waters.",
+   "source": "Ṛgveda 4.28",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vṛtra",
+   "other_aliases": [
+    "Ahi"
+   ],
+   "kind": "created_by",
+   "myth": "Moon formed from Vṛtra’s Soma portion",
+   "note": "Indra fashions the moon from the Soma-like half of Vṛtra.",
+   "source": "Śatapatha Brāhmaṇa 1.6.3",
+   "date": "approximately 1000–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Eagle/Falcon",
+   "other_aliases": [
+    "Śyena",
+    "Suparṇa"
+   ],
+   "kind": "theft",
+   "myth": "Falcon steals heavenly Soma",
+   "note": "The celestial bird steals or retrieves Soma and carries him to the ritual community.",
+   "source": "Ṛgveda 4.26–27; 8.82",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛśānu",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Escape with heavenly Soma",
+   "note": "Kṛśānu shoots at the bird carrying Soma and dislodges a feather.",
+   "source": "Ṛgveda 4.27",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Manu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Soma delivered from heaven",
+   "note": "Some hymns say the falcon delivers heavenly Soma to Manu.",
+   "source": "Ṛgveda 4.26–27",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Complementary sacrificial powers",
+   "note": "Agni and Soma are jointly invoked as complementary powers of sacrifice.",
+   "source": "Ṛgveda 1.93",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sūryā’s ritual marriage sequence",
+   "note": "Agni follows Soma and Gandharva as Sūryā’s third ritual husband.",
+   "source": "Ṛgveda 10.85",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "First Soma draught",
+   "note": "Vāyu receives the first Soma draught and comes with Indra to drink.",
+   "source": "Ṛgveda 1.134–135",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aśvins",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Cyavana obtains their Soma share",
+   "note": "The formerly excluded Aśvins gain a share of Soma through Cyavana.",
+   "source": "Śatapatha Brāhmaṇa 4.1.5",
+   "date": "approximately 1000–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pūṣan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Generation and oversight of creatures",
+   "note": "Soma and Pūṣan jointly generate and oversee creatures and wealth.",
+   "source": "Ṛgveda 2.40",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "allied",
+   "myth": "Joint healing invocation",
+   "note": "Soma and Rudra are jointly invoked for healing, protection, and medicine.",
+   "source": "Ṛgveda 6.74",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "rescued_by",
+   "myth": "Relief from Daksha’s curse",
+   "note": "Śiva limits Chandra’s wasting, restores him cyclically, and bears his crescent.",
+   "source": "Śaiva Purāṇas; Prabhāsa Māhātmya",
+   "date": "Purāṇic and medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "served",
+   "myth": "Chandra’s penance at Prabhāsa",
+   "note": "Chandra worships Śiva at Prabhāsa seeking relief from Daksha’s curse.",
+   "source": "Prabhāsa Māhātmya",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "fought",
+   "myth": "Tārakāmaya war",
+   "note": "Rudra supports Bṛhaspati against Soma because of his relation to Aṅgiras.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maruts",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Soma drinking before battle",
+   "note": "The Maruts drink Soma and accompany Soma-empowered Indra.",
+   "source": "Multiple Ṛgvedic hymns",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invitation to the Soma rite",
+   "note": "Viṣṇu is invited with Indra and other gods to receive Soma.",
+   "source": "Ṛgvedic ritual invitations",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rāhu exposed and decapitated",
+   "note": "After Chandra exposes Rāhu, Viṣṇu decapitates the disguised nectar thief.",
+   "source": "Epic and Purāṇic eclipse mythology",
+   "date": "approximately 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vāc",
+   "other_aliases": [
+    "Speech"
+   ],
+   "kind": "shared_myth",
+   "myth": "Vāc exchanged for Soma",
+   "note": "The gods exchange Vāc for Soma; she later chooses and returns to them.",
+   "source": "Śatapatha Brāhmaṇa 3.2.4",
+   "date": "approximately 1000–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gandharvas",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Gods acquire Soma for Vāc",
+   "note": "The Gandharvas surrender their guarded Soma to the gods in exchange for Vāc.",
+   "source": "Śatapatha Brāhmaṇa 3.2.4",
+   "date": "approximately 1000–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prajāpati",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reconstitution of Prajāpati",
+   "note": "Soma is incorporated into Prajāpati’s sacrificed and reconstituted cosmic body.",
+   "source": "Śatapatha Brāhmaṇa ritual theology",
+   "date": "approximately 1000–600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sūryā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Sūryā’s ritual marriage sequence",
+   "note": "Soma is named Sūryā’s first husband in the wedding hymn.",
+   "source": "Ṛgveda 10.85",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gandharva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sūryā’s ritual marriage sequence",
+   "note": "Gandharva follows Soma as Sūryā’s second ritual husband.",
+   "source": "Ṛgveda 10.85",
+   "date": "later second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atri",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Soma emerges from Atri’s eyes or tears after his austerities.",
+   "source": "Bhāgavata Purāṇa 9.14",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atri",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Variant accounts generate Soma from Atri’s concentrated ascetic radiance.",
+   "source": "Matsya, Vāyu, Brahmāṇḍa Purāṇas",
+   "date": "Purāṇic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anasūyā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chandra is Anasūyā’s son in the three-brother birth tradition.",
+   "source": "Mārkaṇḍeya Purāṇa 17",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dattātreya",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dattātreya is Chandra’s brother in the Atri–Anasūyā birth cycle.",
+   "source": "Mārkaṇḍeya Purāṇa 17",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Durvāsas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Durvāsas is Chandra’s brother in the Atri–Anasūyā birth cycle.",
+   "source": "Mārkaṇḍeya Purāṇa 17",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Installation of Soma",
+   "note": "Brahmā installs Soma and appoints him lord of stars, plants, Brahmins, and sacrifice.",
+   "source": "Viṣṇu Purāṇa 4.6; Bhāgavata 9.14",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Tārakāmaya arbitration",
+   "note": "Brahmā intervenes in the war and compels Soma to return Tārā.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daksha",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Daksha’s wasting curse",
+   "note": "Daksha curses Chandra to waste away for persistently favoring Rohiṇī.",
+   "source": "Bhāgavata Purāṇa 6.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daksha",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage to the lunar stations",
+   "note": "Daksha gives his twenty-seven lunar-station daughters to Chandra as wives.",
+   "source": "Bhāgavata Purāṇa 6.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rohiṇī",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rohiṇī is Chandra’s favored wife among Daksha’s lunar-station daughters.",
+   "source": "Bhāgavata Purāṇa 6.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "The other twenty-six Nakshatras",
+   "other_aliases": [
+    "lunar stations"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Daksha’s other lunar-station daughters are Chandra’s neglected wives.",
+   "source": "Bhāgavata Purāṇa 6.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "The other twenty-six Nakshatras",
+   "other_aliases": [
+    "lunar stations"
+   ],
+   "kind": "other",
+   "myth": "Complaint against Chandra",
+   "note": "The neglected wives complain to Daksha that Chandra favors Rohiṇī.",
+   "source": "Bhāgavata Purāṇa 6.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tārā",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Tārā affair",
+   "note": "Some versions say Soma seduces Tārā; others describe abduction or mutual elopement.",
+   "source": "Viṣṇu Purāṇa 4.6; Bhāgavata 9.14",
+   "date": "Purāṇic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tārā",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Soma and Tārā are Budha’s parents after disputed paternity.",
+   "source": "Viṣṇu Purāṇa 4.6; Bhāgavata 9.14",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bṛhaspati",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Tārakāmaya war",
+   "note": "Soma refuses to return Bṛhaspati’s wife Tārā, provoking war.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bṛhaspati",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dispute over Budha’s paternity",
+   "note": "Soma and Bṛhaspati both claim Tārā’s luminous child.",
+   "source": "Viṣṇu Purāṇa 4.6; Bhāgavata 9.14",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śukra",
+   "other_aliases": [
+    "Uśanas"
+   ],
+   "kind": "allied",
+   "myth": "Tārakāmaya war",
+   "note": "Śukra supports Soma against Bṛhaspati because of hostility toward the gods’ priest.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asuras, Daityas, and Dānavas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Tārakāmaya war",
+   "note": "These anti-god collectives support Soma’s side under Śukra.",
+   "source": "Purāṇic Tārakāmaya accounts",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Devas",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "fought",
+   "myth": "Tārakāmaya war",
+   "note": "The Devas support Bṛhaspati and oppose Soma’s coalition.",
+   "source": "Purāṇic Tārakāmaya accounts",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Budha",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tārā identifies Soma as Budha’s father after a paternity dispute.",
+   "source": "Viṣṇu Purāṇa 4.6; Bhāgavata 9.14",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Budha",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Naming the luminous child",
+   "note": "Soma claims and names Tārā’s brilliant child Budha, meaning intelligent.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Purūravas",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Soma is Purūravas’s divine ancestor through Budha and Ilā.",
+   "source": "Purāṇic lunar genealogy",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Soma is the remote divine progenitor of Kṛṣṇa’s Yādava line.",
+   "source": "Purāṇic lunar genealogy",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāhu",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Rāhu exposed among the gods",
+   "note": "Chandra and Sūrya expose Rāhu’s disguise while he drinks amṛta.",
+   "source": "Epic and Purāṇic eclipse mythology",
+   "date": "approximately 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāhu",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Eclipses",
+   "note": "Rāhu periodically attacks and swallows Chandra in revenge, but cannot retain him.",
+   "source": "Epic and Purāṇic eclipse mythology",
+   "date": "approximately 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rāhu exposed among the gods",
+   "note": "Sūrya and Chandra jointly expose the disguised Rāhu.",
+   "source": "Epic and Purāṇic eclipse mythology",
+   "date": "approximately 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solar replenishment of the moon",
+   "note": "Later cosmology pairs sun and moon and says solar rays replenish Chandra.",
+   "source": "Purāṇic astronomy",
+   "date": "Purāṇic",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Moon mocks Gaṇeśa",
+   "note": "Chandra appears in the later festival story concerning his mockery of Gaṇeśa.",
+   "source": "Gaṇeśa Purāṇic and festival tradition",
+   "date": "late Purāṇic",
+   "tier": "late_accretion"
+  }
+ ]
+}

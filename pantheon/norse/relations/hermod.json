@@ -1,0 +1,255 @@
+{
+ "subject": "hermod",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "served",
+   "myth": "Reception of Hákon in Valhöll",
+   "note": "Óðinn orders Hermóðr and Bragi to welcome the arriving Hákon.",
+   "source": "Hákonarmál 14",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception of Hákon in Valhöll",
+   "note": "Hermóðr and Bragi are jointly ordered to welcome Hákon.",
+   "source": "Hákonarmál 14",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "gift",
+   "myth": "Óðinn’s gifts to favored warriors",
+   "note": "Óðinn gives Hermóðr a helmet and mail-coat.",
+   "source": "Hyndluljóð 2",
+   "date": "twelfth–thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigmundr",
+   "other_aliases": [
+    "Sigemund"
+   ],
+   "kind": "shared_myth",
+   "myth": "Óðinn’s gifts to favored warriors",
+   "note": "Hermóðr receives armor while Sigmundr receives a sword in parallel.",
+   "source": "Hyndluljóð 2",
+   "date": "twelfth–thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "The Regius reading calls Hermóðr Óðinn’s boy, page, servant, or retainer.",
+   "source": "Gylfaginning 49, Regius",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some manuscripts explicitly identify Hermóðr as Óðinn’s son.",
+   "source": "Gylfaginning 49, variant manuscripts",
+   "date": "c. 1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned list includes Hermóðr among Óðinn’s sons.",
+   "source": "Nafnaþulur",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri’s Hel narrative explicitly calls Baldr Hermóðr’s brother.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder"
+   ],
+   "kind": "other",
+   "myth": "Attempt to lengthen Baldr’s life",
+   "note": "Hermóðr attempts to prolong or restore Baldr’s life.",
+   "source": "Málsháttakvæði 9",
+   "date": "c. 1200–1250",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frigga"
+   ],
+   "kind": "served",
+   "myth": "Hermóðr’s ride to Hel",
+   "note": "Hermóðr accepts Frigg’s call for someone to seek Baldr’s release.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "gift",
+   "myth": "Hermóðr’s ride to Hel",
+   "note": "Hermóðr is provided temporary use of Óðinn’s horse Sleipnir.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sleipnir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hermóðr’s ride to Hel",
+   "note": "Hermóðr rides Sleipnir to Hel and spurs him over its gate.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Móðguðr",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Encounter at Gjallarbrú",
+   "note": "Móðguðr questions Hermóðr and directs him toward Hel.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [
+    "Hela"
+   ],
+   "kind": "other",
+   "myth": "Petition for Baldr’s release",
+   "note": "Hermóðr petitions Hel, who makes Baldr’s release conditional on universal weeping.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder"
+   ],
+   "kind": "gift",
+   "myth": "Meeting with Baldr in Hel",
+   "note": "Baldr gives Hermóðr Draupnir to carry back to Óðinn.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Meeting with Baldr and Nanna in Hel",
+   "note": "Nanna entrusts Hermóðr with gifts for Frigg and Fulla.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frigga"
+   ],
+   "kind": "gift",
+   "myth": "Hermóðr’s return from Hel",
+   "note": "Hermóðr carries Nanna’s linen garment back for Frigg.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fulla",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hermóðr’s return from Hel",
+   "note": "Hermóðr carries Nanna’s ring back for Fulla.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hroptatýr",
+    "Odin"
+   ],
+   "kind": "gift",
+   "myth": "Hermóðr’s return from Hel",
+   "note": "Hermóðr returns Draupnir from Baldr to Óðinn.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Óðinn",
+    "Hroptatýr"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Marvel continuity recasts Hermod as an Asgardian son of Odin.",
+   "source": "Marvel Thor comics",
+   "date": "from 1978",
+   "tier": "modern"
+  },
+  {
+   "other": "Frigga",
+   "other_aliases": [
+    "Frigg"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Modern Marvel genealogies often make Frigga Hermod’s mother.",
+   "source": "Marvel continuity",
+   "date": "modern",
+   "tier": "modern"
+  }
+ ]
+}

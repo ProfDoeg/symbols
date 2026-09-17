@@ -1,0 +1,248 @@
+{
+ "subject": "oneiroi",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The false dream sent to Agamemnon",
+   "note": "A singular Dream obeys Zeus, assumes Nestor’s form, and delivers his deceptive message.",
+   "source": "Homer, Iliad 2.1–36",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx produces the collective Dreams without a named consort.",
+   "source": "Hesiod, Theogony 211–213",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Chthon",
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hecuba invokes Earth as mother of the black-winged Dreams.",
+   "source": "Euripides, Hecuba 70–72",
+   "date": "c. 424 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero lists Dreams among the children of Erebus and Night.",
+   "source": "Cicero, On the Nature of the Gods 3.17",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus likewise makes the Dreams children of Erebus and Night.",
+   "source": "Hyginus, Fabulae",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus",
+    "Sleep"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hesiod places Sleep and the tribe of Dreams among Nyx’s offspring.",
+   "source": "Hesiod, Theogony 211–213",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus",
+    "Sleep"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ovid makes the thousand dream-shapes sons of Somnus.",
+   "source": "Ovid, Metamorphoses 11.633–647",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus",
+    "Sleep"
+   ],
+   "kind": "served",
+   "myth": "Morpheus visits Alcyone",
+   "note": "Somnus dispatches Morpheus from among his dream-sons to imitate the drowned Ceyx.",
+   "source": "Ovid, Metamorphoses 11.633–676",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hesiod places Death and the tribe of Dreams among Nyx’s offspring.",
+   "source": "Hesiod, Theogony 211–213",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dreamlike apparitions sent to Penelope and Nausicaa",
+   "note": "Athena creates dreamlike apparitions, though Homer does not identify them as Hesiodic Oneiroi.",
+   "source": "Homer, Odyssey 4.795–841; 6.13–47",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "Morpheus visits Alcyone",
+   "note": "Juno orders that a dream be sent to disclose Ceyx’s death to Alcyone.",
+   "source": "Ovid, Metamorphoses 11.585–676",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Morpheus visits Alcyone",
+   "note": "Iris transmits Juno’s command to Somnus, leading to Morpheus’s mission.",
+   "source": "Ovid, Metamorphoses 11.585–676",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Morpheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Morpheus visits Alcyone",
+   "note": "Morpheus is one of Somnus’s dream-sons and imitates human forms.",
+   "source": "Ovid, Metamorphoses 11.633–676",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Icelos",
+   "other_aliases": [
+    "Ikelos",
+    "Phobetor"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Icelos, called Phobetor by mortals, is a dream-son specializing in animal forms.",
+   "source": "Ovid, Metamorphoses 11.638–642",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phantasos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Phantasos is a dream-son specializing in inanimate forms such as stone, water, and trees.",
+   "source": "Ovid, Metamorphoses 11.642–647",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aletheia",
+   "other_aliases": [
+    "Truth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Painting of Amphiaraus’s oracle",
+   "note": "Truth appears beside Oneiros and the truthful dream-gate in Philostratus’s described painting.",
+   "source": "Philostratus, Imagines 1.27",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amphiaraus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Painting of Amphiaraus’s oracle",
+   "note": "Oneiros appears in imagery associated with Amphiaraus’s incubation oracle.",
+   "source": "Philostratus, Imagines 1.27",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "An image of Oneiros stood within the wider Asclepius sanctuary complex at Sicyon.",
+   "source": "Pausanias 2.10.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Images of Artemis and Oneiros occupied the same Sicyonian Asclepius sanctuary complex.",
+   "source": "Pausanias 2.10.2–3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Images of Pan and Oneiros occupied the same Sicyonian Asclepius sanctuary complex.",
+   "source": "Pausanias 2.10.2–3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Manes",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Aeneas exits through the ivory gate",
+   "note": "The Manes send false dreams upward through Virgil’s polished ivory gate.",
+   "source": "Virgil, Aeneid 6.893–899",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Later magical and literary texts give Hermes a dream-sending function overlapping with the Oneiroi.",
+   "source": "Later magical and literary texts",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

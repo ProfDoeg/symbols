@@ -1,0 +1,6199 @@
+{
+ "folder": "canaanite",
+ "gods": [
+  "adonis",
+  "anat",
+  "asherah",
+  "astarte",
+  "attar",
+  "baal",
+  "baal_hadad",
+  "baal_hammon",
+  "baalat_gebal",
+  "chemosh",
+  "dagon",
+  "el",
+  "eshmun",
+  "horon",
+  "kothar_wa_khasis",
+  "kotharat",
+  "lotan",
+  "melqart",
+  "milcom",
+  "moloch",
+  "mot",
+  "nikkal",
+  "qadesh",
+  "rephaim",
+  "resheph",
+  "shahar_and_shalim",
+  "shapash",
+  "tanit",
+  "yam",
+  "yarikh"
+ ],
+ "relations": [
+  {
+   "a": "adonis",
+   "b": "astarte",
+   "kind": "shared_myth",
+   "myth": "Byblian mourning for Adonis",
+   "note": "A local goddess associated with Adonis mourning is sometimes interpreted as Astarte, though Lucian calls her Aphrodite.",
+   "source": "Lucian, De Dea Syria 6–9",
+   "date": "second century CE",
+   "tier": "syncretism",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "adonis",
+   "b": "baalat_gebal",
+   "kind": "shared_myth",
+   "myth": "Death and revival rites at Byblos",
+   "note": "Byblian Aphrodite’s sanctuary hosts mourning and renewed-life rites for Adonis.",
+   "source": "De Dea Syria 6–9",
+   "date": "second century CE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baalat_gebal"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "asherah",
+   "kind": "allied",
+   "myth": "Athirat secures Baal’s palace",
+   "note": "Anat approaches Athirat for Baal and facilitates or joins her journey to El.",
+   "source": "KTU 1.4 iii–iv",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "asherah",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern and late comparisons sometimes fuse Anat with Asherah despite their Ugaritic distinction.",
+   "source": "Greco-Roman evidence and modern studies",
+   "date": "Late and modern",
+   "tier": "syncretism",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "astarte",
+   "kind": "allied",
+   "myth": "Restraint of Baal",
+   "note": "Anat and Astarte seize Baal's hands to prevent attacking Yam's messengers.",
+   "source": "KTU 1.2 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "astarte",
+   "kind": "allied",
+   "myth": "Astarte and Anat restrain Baal",
+   "note": "Astarte and Anat act together to prevent Baal from attacking Yam’s envoys.",
+   "source": "KTU 1.2 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "astarte",
+   "kind": "shared_myth",
+   "myth": "Paired ritual entry",
+   "note": "A Ugaritic ritual list pairs Anat and Astarte in one entry.",
+   "source": "Ugaritic ritual corpus",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "astarte",
+   "kind": "shared_myth",
+   "myth": "Marriage assignment to Seth",
+   "note": "Neith proposes both goddesses as wives for Seth.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1150 BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "astarte",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Egyptian theology calls both Astarte and Anat daughters of Re.",
+   "source": "Contendings of Horus and Seth",
+   "date": "twelfth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Anat advances Baal's palace claim",
+   "note": "She receives Baal's messages and pressures the divine council for his palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Baal's death and return",
+   "note": "Anat searches for Baal, mourns and buries him, then avenges him.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Palace negotiations",
+   "note": "Anat advocates Baal's kingship, pressures El, and helps obtain authorization for his palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "other",
+   "myth": "Disputed bovine encounter",
+   "note": "Fragmentary bovine and genital language may imply a sexual encounter.",
+   "source": "KTU 1.10",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "other",
+   "myth": "Fragmentary hunt or erotic encounter",
+   "note": "Damaged texts may portray erotic interaction, but neither marriage nor a definite sexual episode is secure.",
+   "source": "KTU 1.10",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "rescued",
+   "myth": "Baal's disappearance and return",
+   "note": "Anat searches for Baal, destroys Mot, and participates in restoring Baal's kingship.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ugaritic texts repeatedly call Baal Anat's brother.",
+   "source": "KTU 1.3–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat",
+    "baal"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal_hadad",
+   "kind": "allied",
+   "myth": "Palace of Baal",
+   "note": "Anat supports Baal and pressures El during negotiations for his palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal_hadad",
+   "kind": "other",
+   "myth": "Baal and Anat's reproductive episode",
+   "note": "A damaged text may depict sexual or reproductive union between Baal and Anat.",
+   "source": "KTU 1.10–1.11",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal_hadad",
+   "kind": "shared_myth",
+   "myth": "Baal's death and return",
+   "note": "Anat mourns, finds, carries, and buries Baal, then rejoices at his return.",
+   "source": "KTU 1.5–1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "baal_hadad",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Anat calls Baal her brother in Ugaritic poetry.",
+   "source": "KTU 1.3–1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "other",
+   "myth": "Negotiation for Baal's palace",
+   "note": "Anat confronts and possibly threatens El while advancing Baal's interests.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "other",
+   "myth": "Anat appeals against Aqhat",
+   "note": "Anat threatens and petitions El until permitted to punish Aqhat.",
+   "source": "KTU 1.17",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "other",
+   "myth": "Petition for Baal’s palace",
+   "note": "Anat petitions and threatens El while seeking support for Baal.",
+   "source": "KTU 1.3 V",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "other",
+   "myth": "Murder of Aqhat",
+   "note": "El recognizes Anat’s purpose and answers ambiguously, enabling her attack on Aqhat.",
+   "source": "KTU 1.17 VI",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "rescued",
+   "myth": "Drunken El",
+   "note": "Anat helps seek or administer a remedy after El’s drunken collapse.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "el",
+   "kind": "served",
+   "myth": "Search for restored Baal",
+   "note": "El directs Anat to commission Shapash to search for Baal.",
+   "source": "KTU 1.6 III",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "horon",
+   "kind": "allied",
+   "myth": "Egyptian protection against dangerous animals",
+   "note": "Anat and Hauron are invoked together in a violent protective spell.",
+   "source": "Papyrus Harris 501",
+   "date": "Ramesside period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "horon",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Anat appears among the deities invoked before Horon.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "kothar_wa_khasis",
+   "kind": "other",
+   "myth": "Anat covets Aqhat’s bow",
+   "note": "Anat desires Kothar’s workmanship and is told to commission another bow.",
+   "source": "KTU 1.17 VI",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "kothar_wa_khasis",
+   "kind": "shared_myth",
+   "myth": "Aqhat's bow",
+   "note": "Kothar makes the bow Anat later covets, but they never directly meet.",
+   "source": "KTU 1.17",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "lotan",
+   "kind": "fought",
+   "myth": "Anat's victory boast",
+   "note": "Anat claims victory over the serpent usually identified as Lotan.",
+   "source": "KTU 1.3 III",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "lotan",
+   "kind": "killed",
+   "myth": "Anat’s retrospective dragon victory",
+   "note": "Anat claims she destroyed the serpent complex that may include Lotan.",
+   "source": "KTU 1.3 III 38–42",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "lotan"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "mot",
+   "kind": "killed",
+   "myth": "Anat's destruction of Mot",
+   "note": "Anat seizes, splits, winnows, burns, grinds, and scatters Mot.",
+   "source": "KTU 1.6 II",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "mot",
+   "kind": "killed",
+   "myth": "Anat destroys Mot",
+   "note": "Anat cuts, winnows, burns, grinds, scatters, and exposes Mot to birds.",
+   "source": "KTU 1.6 II",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "qadesh",
+   "kind": "identified_with",
+   "myth": "Qudshu-Astarte-Anath composition",
+   "note": "A difficult relief combines their names or aspects, suggesting disputed fusion.",
+   "source": "Winchester relief",
+   "date": "Ramesside period",
+   "tier": "syncretism",
+   "stated_by": [
+    "qadesh"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "qadesh",
+   "kind": "shared_myth",
+   "myth": "Qeh stela cultic registers",
+   "note": "Qadesh appears above while Anat separately receives worship below.",
+   "source": "British Museum EA191",
+   "date": "Dynasty XIX",
+   "tier": "attested",
+   "stated_by": [
+    "qadesh"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "rephaim",
+   "kind": "shared_myth",
+   "myth": "The journey to El’s feast",
+   "note": "Warriors of Anat appear alongside Baal’s warriors in the damaged Rephaim text.",
+   "source": "KTU 1.22",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "rephaim"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Ugaritic ritual offerings",
+   "note": "Resheph and Anat receive offerings within the same Ugaritic ritual pantheon.",
+   "source": "Ugaritic ritual texts",
+   "date": "13th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "resheph"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom divine invocation",
+   "note": "Anat and the pair are co-invoked against poison.",
+   "source": "KTU 1.107",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Recovery and burial of Baal",
+   "note": "Shapash helps Anat recover and transport Baal's body to Mount Saphon.",
+   "source": "KTU 1.6 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat",
+    "shapash"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Search for the living Baal",
+   "note": "Anat receives or executes the command directing Šapšu to search for Baal.",
+   "source": "KTU 1.6 iii–iv",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Anat.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "Search for restored Baal",
+   "note": "At El's direction, Anat orders Shapash to search for Baal.",
+   "source": "KTU 1.6 III",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Protective incantation",
+   "note": "Anat is invoked with Šapšu and Baal in a damaged protective text.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yam",
+   "kind": "fought",
+   "myth": "Anat's victory boast",
+   "note": "Anat claims she defeated Sea or River, though Baal defeats Yam elsewhere.",
+   "source": "KTU 1.3 III",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yam",
+   "kind": "fought",
+   "myth": "Aquatic enemies recalled",
+   "note": "Anat retrospectively claims or recalls victory over Yam and aquatic enemies.",
+   "source": "KTU 1.3",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yam",
+   "kind": "rescued",
+   "myth": "Yam’s envoys confront Baal",
+   "note": "Anat restrains Baal from violating Yam’s protected messengers.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yarikh",
+   "kind": "gift",
+   "myth": "Yarikh beneath El’s table",
+   "note": "Anat recognizes or favors the dog-like Yarikh and feeds him choice meat.",
+   "source": "KTU 1.114",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Divine drinking banquet",
+   "note": "Anat and Yarikh appear in fragmentary banquet material without a clear encounter.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "anat"
+   ]
+  },
+  {
+   "a": "anat",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Royal sacrificial sequence",
+   "note": "Anat of Ṣapanu receives an offering after Yarikh in the sequence.",
+   "source": "KTU 1.109",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "astarte",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later iconography and popular retellings merge Astarte with Asherah, although Ugaritic texts distinguish them.",
+   "source": "Ugaritic texts; Philo; modern studies",
+   "date": "Late and modern",
+   "tier": "syncretism",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "attar",
+   "kind": "other",
+   "myth": "Succession after Baal",
+   "note": "Athirat nominates Athtar for Baal’s throne, which he proves unable to occupy.",
+   "source": "KTU 1.6 i",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "attar",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Athtar is named as Athirat’s son, though divine kinship may also indicate clan membership.",
+   "source": "KTU 1.6 i",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Athirat secures Baal’s palace",
+   "note": "Athirat intercedes with El and helps obtain authorization for Baal’s palace.",
+   "source": "KTU 1.4",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Palace negotiations",
+   "note": "After receiving gifts and Anat's intervention, Athirat persuades El to authorize Baal's palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "gift",
+   "myth": "Athirat secures Baal’s palace",
+   "note": "Baal sends costly gifts fashioned by Kothar-wa-Hasis to gain Athirat’s support.",
+   "source": "KTU 1.4 i–ii",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "gift",
+   "myth": "Palace negotiations",
+   "note": "Baal approaches Athirat with crafted gifts while seeking her political support.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "other",
+   "myth": "Succession after Baal",
+   "note": "After Baal’s disappearance, Athirat proposes her son Athtar as his replacement.",
+   "source": "KTU 1.6 i",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "seduced",
+   "myth": "Ašertu’s attempted seduction",
+   "note": "Ašertu attempts to seduce the Storm-god, who rejects and reports her approach.",
+   "source": "Elkunirša and Ašertu",
+   "date": "2nd millennium BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal",
+   "kind": "shared_myth",
+   "myth": "Biblical cult polemics",
+   "note": "Biblical texts juxtapose Baal worship with asherah objects but narrate no marriage or conversation.",
+   "source": "Judges 6; 1 Kings 16–18; 2 Kings 23",
+   "date": "Iron Age canonical texts",
+   "tier": "canonical",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baal_hadad",
+   "kind": "allied",
+   "myth": "Palace of Baal",
+   "note": "Athirat accepts gifts and feasting, then petitions El for Baal's palace.",
+   "source": "KTU 1.4",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "baalat_gebal",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars compare Baalat Gebal or Dione with Athirat as Kronos-El’s wife; Philo never explicitly equates them.",
+   "source": "Philo of Byblos via Eusebius",
+   "date": "1st–4th centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Athirat is conventionally understood as El’s senior female partner and divine consort.",
+   "source": "KTU 1.4 and related Ugaritic texts",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah",
+    "el"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "gift",
+   "myth": "Authorization of Baal’s palace",
+   "note": "El grants Athirat’s petition for permission to build Baal’s palace.",
+   "source": "KTU 1.4 III–V",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "other",
+   "myth": "Athirat secures Baal’s palace",
+   "note": "Athirat approaches El and persuades him to authorize Baal’s palace.",
+   "source": "KTU 1.4",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "other",
+   "myth": "Succession after Baal",
+   "note": "El asks Athirat to nominate one of her sons for Baal’s throne.",
+   "source": "KTU 1.6 i",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "rescued",
+   "myth": "Drunken El",
+   "note": "Athirat helps seek or administer a remedy after El’s drunken collapse.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "el",
+   "kind": "shared_myth",
+   "myth": "Birth of Shahar and Shalim",
+   "note": "Athirat is one disputed identification of a woman who bears El’s sons.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "kothar_wa_khasis",
+   "kind": "gift",
+   "myth": "Athirat secures Baal’s palace",
+   "note": "Kothar-wa-Hasis crafts the prestigious gifts Baal uses in his appeal to Athirat.",
+   "source": "KTU 1.4 i–ii",
+   "date": "13th–12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "qadesh",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars disputedly reconstructed Qadesh as Athirat under the epithet Holiness.",
+   "source": "Albright and Cross",
+   "date": "twentieth century CE",
+   "tier": "modern",
+   "stated_by": [
+    "qadesh"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "shapash",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A disputed modern minority hypothesis treats Athirat and Šapšu as manifestations of one goddess.",
+   "source": "Sarlo’s proposed equation",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Athirat.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "asherah",
+   "b": "tanit",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparisons sometimes fuse Tanit with Asherah, without an early text establishing their identity.",
+   "source": "Greco-Roman evidence and modern studies",
+   "date": "Late and modern",
+   "tier": "syncretism",
+   "stated_by": [
+    "asherah"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal",
+   "kind": "allied",
+   "myth": "Conflict with Yammu",
+   "note": "Astarte restrains Baal from attacking Yammu's envoys and addresses him after Yammu's defeat.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some later or regional reconstructions call Astarte Baal's consort, unlike the Baal Cycle.",
+   "source": "Later regional reconstructions",
+   "date": "",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal",
+   "kind": "other",
+   "myth": "Astarte restrains Baal",
+   "note": "With Anat, Astarte restrains and admonishes Baal for threatening Yam’s protected envoys.",
+   "source": "KTU 1.2 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal_hadad",
+   "kind": "allied",
+   "myth": "Reign of Adodos and Astarte",
+   "note": "Astarte and Adodos jointly reign with Kronos's consent.",
+   "source": "Philo, Phoenician History",
+   "date": "late 1st–early 2nd century CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal_hadad",
+   "kind": "other",
+   "myth": "Conflict with Yam",
+   "note": "Astarte restrains or rebukes Baal during or after his attack on Yam.",
+   "source": "KTU 1.2",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal_hadad",
+   "kind": "shared_myth",
+   "myth": "Astarte the Huntress",
+   "note": "Astarte encounters or addresses Baal in a badly fragmentary episode.",
+   "source": "KTU 1.92",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baal_hammon",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A Mididi inscription possibly calls Astarte wife of Baal, uncertainly Baal Hammon.",
+   "source": "Mididi inscription",
+   "date": "Punic/Neo-Punic",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baalat_gebal",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late inscriptions and interpretive traditions equate Astarte with Baalat Gebal.",
+   "source": "Late bilingual inscriptions",
+   "date": "Hellenistic period",
+   "tier": "syncretism",
+   "stated_by": [
+    "baalat_gebal"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "baalat_gebal",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Philo presents Astarte and Dione/Baaltis as distinct sisters.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "baalat_gebal"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "el",
+   "kind": "allied",
+   "myth": "Phoenician succession myth",
+   "note": "Astarte participates in Elus or Kronos’s dynasty and receives sovereignty.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "el",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Astarte is a consort of Elus or Kronos and bears royal children.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "eshmun",
+   "kind": "identified_with",
+   "myth": "Modern identification of Astronoë with Astarte",
+   "note": "Modern scholars often identify Eshmun's pursuer Astronoë with Astarte, though Damascius is not explicit.",
+   "source": "Modern interpretation of Damascius",
+   "date": "modern scholarship",
+   "tier": "modern",
+   "stated_by": [
+    "eshmun"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "eshmun",
+   "kind": "other",
+   "myth": "",
+   "note": "Astarte and Eshmun share cultic space and joint dedications at Bostan esh-Sheikh.",
+   "source": "Sidonian archaeology and epigraphy",
+   "date": "Persian–Hellenistic periods",
+   "tier": "attested",
+   "stated_by": [
+    "eshmun"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "eshmun",
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Astarte and Eshmun share Sidonian sanctuary space and civic theology without a preserved narrative encounter.",
+   "source": "Eshmun sanctuary evidence",
+   "date": "fifth century BCE and later",
+   "tier": "regional_variant",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "horon",
+   "kind": "allied",
+   "myth": "Curse against Kirta",
+   "note": "Horon and Astarte are jointly invoked to smash King Kirta’s head and skull.",
+   "source": "KTU 1.16 VI",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "melqart",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later scholarship infers a couple from paired cults, without direct marriage evidence.",
+   "source": "Menander via Josephus, Against Apion 1.118",
+   "date": "Hellenistic source",
+   "tier": "modern",
+   "stated_by": [
+    "melqart"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "melqart",
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Hiram reportedly rebuilt the temples of Astarte and Melqart as coordinated Tyrian royal cult.",
+   "source": "Menander via Josephus, Against Apion",
+   "date": "first century CE transmission",
+   "tier": "regional_variant",
+   "stated_by": [
+    "astarte"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "melqart",
+   "kind": "shared_myth",
+   "myth": "Hiram renews their paired Tyrian temples",
+   "note": "Hiram constructs or renews paired temples for Heracles-Melqart and Astarte.",
+   "source": "Menander via Josephus, Against Apion 1.118",
+   "date": "Hellenistic source",
+   "tier": "late_accretion",
+   "stated_by": [
+    "melqart"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Solomon worships Astarte and Milcom",
+   "note": "Both deities are objects of Solomon’s apostasy but never interact directly.",
+   "source": "1 Kings 11:5, 33",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Josiah desecrates foreign high places",
+   "note": "Their Jerusalem high places are jointly listed among those desecrated by Josiah.",
+   "source": "2 Kings 23:13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "moloch",
+   "kind": "shared_myth",
+   "myth": "Solomon's apostasy",
+   "note": "Ashtoreth and Molech appear in the same catalogue of foreign cults.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "qadesh",
+   "kind": "identified_with",
+   "myth": "Qudshu-Astarte-Anath composition",
+   "note": "A difficult relief combines their names or aspects, suggesting disputed fusion.",
+   "source": "Winchester relief",
+   "date": "Ramesside period",
+   "tier": "syncretism",
+   "stated_by": [
+    "qadesh"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Royal horsemanship and chariot patronage",
+   "note": "Resheph and Astarte jointly sponsor or rejoice in Egyptian royal horsemanship.",
+   "source": "Tell el-Borg stela",
+   "date": "15th–14th centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "resheph"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Astarte.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "tanit",
+   "kind": "other",
+   "myth": "Tanit-Astarte dedication",
+   "note": "Their names are directly joined, but the precise theological relationship is unresolved.",
+   "source": "Sarepta ivory Sar. 4125/KAI 285",
+   "date": "sixth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tanit"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "yam",
+   "kind": "other",
+   "myth": "Astarte and the insatiable Sea",
+   "note": "Astarte bears tribute and negotiates with Sea, who demands her as wife or possession.",
+   "source": "pAmherst IX",
+   "date": "thirteenth–twelfth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "astarte",
+    "yam"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "yam",
+   "kind": "other",
+   "myth": "Yam’s defeat",
+   "note": "Athtart addresses Baal at Yam’s fall, possibly urging or rebuking his treatment.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "yam",
+   "kind": "rescued",
+   "myth": "Yam’s envoys confront Baal",
+   "note": "Athtart joins Anat in restraining Baal from attacking Yam’s messengers.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "astarte",
+   "b": "yarikh",
+   "kind": "gift",
+   "myth": "Yarikh beneath El’s table",
+   "note": "Athtart joins Anat in feeding choice meat to the dog-like Yarikh.",
+   "source": "KTU 1.114",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "baal",
+   "kind": "contest",
+   "myth": "Attempted replacement on Baal's throne",
+   "note": "ʿAthtar attempts to replace Baal but proves inadequate for his throne and descends.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "baal",
+   "kind": "other",
+   "myth": "Athtar attempts to occupy Baal’s throne",
+   "note": "Athtar sits on Baal’s throne, cannot fill it, relinquishes the office, and descends.",
+   "source": "KTU 1.6 i 53–67",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "attar"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "baal_hadad",
+   "kind": "other",
+   "myth": "Athtar attempts Baal's throne",
+   "note": "During Baal's absence, Athtar tries but fails to occupy his throne.",
+   "source": "KTU 1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "chemosh",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Athtar and Chemosh form the debated compound deity Ashtar-Chemosh, recipient of Nebo’s devoted population.",
+   "source": "Mesha Stele line 17",
+   "date": "ca. 840 BCE",
+   "tier": "syncretism",
+   "stated_by": [
+    "attar"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "el",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Athtar is reconstructed as El’s son by extension from Athirat’s maternity.",
+   "source": "Ugaritic divine-family context",
+   "date": "Late Bronze Age",
+   "tier": "modern",
+   "stated_by": [
+    "attar"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "el",
+   "kind": "judged_by",
+   "myth": "Selection of Baal’s replacement",
+   "note": "El’s court considers Athtar for Baal’s throne, but he proves inadequate.",
+   "source": "KTU 1.6 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "el",
+   "kind": "other",
+   "myth": "Divine deliberation over Baal’s successor",
+   "note": "El contextually authorizes or accepts the succession process, though the damaged text is uncertain.",
+   "source": "KTU 1.6 i",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "attar"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "horon",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Attar is invoked in the sequence and paired with Attapar.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation and divine litany",
+   "note": "ʿAthtar and the pair occur in the same lists without interaction.",
+   "source": "KTU 1.107; KTU 1.123",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Yamm’s appointment",
+   "note": "Šapšu informs or warns ʿAṯtar about Yamm’s elevation and discourages opposition.",
+   "source": "KTU 1.2 iii",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "attar",
+   "b": "yam",
+   "kind": "shared_myth",
+   "myth": "Proposed shared residence assigned by El",
+   "note": "A disputed reconstruction has Athtar assigned to dwell with Yam and Nahar.",
+   "source": "damaged KTU 1.1–1.2 material",
+   "date": "thirteenth century BCE",
+   "tier": "modern",
+   "stated_by": [
+    "attar"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "dagon",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baal is explicitly called son of Dagan, though no birth narrative survives.",
+   "source": "KTU 1.2 and related formulas",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal",
+    "dagon"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "allied",
+   "myth": "Baal’s final conflict with Mot",
+   "note": "El ultimately supports Baal’s supremacy and permits a warning concerning Mot.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baal addresses El as father within divine hierarchy, though Dagan is also his father.",
+   "source": "Baal Cycle",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "gift",
+   "myth": "Baal’s palace",
+   "note": "El initially withholds but later grants authorization for Baal’s palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "judged_by",
+   "myth": "Final struggle with Mot",
+   "note": "El's threatened judgment supports Baal and compels Mot to yield.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "other",
+   "myth": "Yammu's demand for Baal",
+   "note": "El initially entertains Yammu's claim and demands Baal's surrender.",
+   "source": "KTU 1.1–1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "other",
+   "myth": "Authorization of Baal's palace",
+   "note": "El retains senior authority and approves construction of Baal's palace after Athirat's mediation.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "other",
+   "myth": "Mourning and recognition of Baal's return",
+   "note": "El mourns Baal's reported death and later dreams that Baal lives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "other",
+   "myth": "Promise of Aqhat",
+   "note": "Baal intercedes or draws El’s attention to Danel’s lack of a son.",
+   "source": "KTU 1.17",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "el",
+   "kind": "shared_myth",
+   "myth": "Baal’s death and return",
+   "note": "El mourns Baal’s reported death and later dreams that he lives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "horon",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Baal receives an unsuccessful appeal and appears in the sequence headed by Horon.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "contest",
+   "myth": "The palace window dispute",
+   "note": "Baal initially rejects Kothar’s window proposal but later accepts it.",
+   "source": "KTU 1.4 V–VII",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "created_by",
+   "myth": "The palace of Baal",
+   "note": "Kothar constructs Baal’s palace after El authorizes the project.",
+   "source": "KTU 1.4",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "gift",
+   "myth": "Conflict with Yammu",
+   "note": "Kothar fashions the clubs Yagrush and Ayyamur for Baal's battle against Yammu.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "gift",
+   "myth": "The making of Baal’s weapons",
+   "note": "Kothar gives Baal two animate clubs used to defeat Yam.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "served_by",
+   "myth": "Construction of Baal's palace",
+   "note": "Kothar constructs Baal's palace and installs the window for his thunderous voice.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "served_by",
+   "myth": "Gifts for Athirat",
+   "note": "Kothar accepts Baal’s commission to fashion gifts for Athirat.",
+   "source": "KTU 1.3 VI–1.4 I",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kothar_wa_khasis",
+   "kind": "shared_myth",
+   "myth": "Kirta’s royal celebration",
+   "note": "Kothar and Baal attend the festivities celebrating Kirta’s marriage.",
+   "source": "KTU 1.15",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "kotharat",
+   "kind": "shared_myth",
+   "myth": "Danel’s childlessness and Aqhat’s conception",
+   "note": "Baal petitions El; the Kotharat subsequently facilitate Danel’s conception of an heir.",
+   "source": "KTU 1.17 I–II",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kotharat"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "lotan",
+   "kind": "fought",
+   "myth": "Defeat of the seven-headed serpent",
+   "note": "Fragmentary passages credit Baal with defeating Lôtānu, though its relation to Yammu is unresolved.",
+   "source": "Fragmentary Ugaritic passages",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "lotan",
+   "kind": "killed",
+   "myth": "Baal’s victory over Lotan",
+   "note": "Mot credits Baal with smiting Lotan and finishing the twisting seven-headed foe.",
+   "source": "KTU 1.5 I 1–3",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "lotan"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "lotan",
+   "kind": "punished",
+   "myth": "Protective incantation against hostile serpents",
+   "note": "A disputed reconstruction presents Baal expelling Lotan or its associated hostile force.",
+   "source": "KTU 1.82",
+   "date": "Late Bronze Age",
+   "tier": "modern",
+   "stated_by": [
+    "lotan"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "moloch",
+   "kind": "shared_myth",
+   "myth": "Children passed to Molech at Baal's high places",
+   "note": "Molech rites occur at Baal's high places without narrated divine interaction.",
+   "source": "Jeremiah 32:35",
+   "date": "exilic or later",
+   "tier": "canonical",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "mot",
+   "kind": "fought",
+   "myth": "Renewed duel after Baal's return",
+   "note": "Baal and Mot battle inconclusively until Šapash invokes El's support and Mot yields.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "mot",
+   "kind": "fought",
+   "myth": "Mot's seven-year return",
+   "note": "Mot and Baal gore, bite, and kick each other until both fall.",
+   "source": "KTU 1.6 V–VI",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "mot",
+   "kind": "killed_by",
+   "myth": "Baal's descent into Death's realm",
+   "note": "Mot demands Baal's descent; Baal is overcome or dies and is found within the earth.",
+   "source": "KTU 1.4–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "mot",
+   "kind": "killed_by",
+   "myth": "Baal descends to Mot",
+   "note": "Mot causes or possesses Baal's death, represented through swallowing imagery.",
+   "source": "KTU 1.4 VIII–1.6",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "mot",
+   "kind": "served",
+   "myth": "Baal descends to Mot",
+   "note": "Baal sends a submissive message professing himself Mot's servant forever.",
+   "source": "KTU 1.5",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "nikkal",
+   "kind": "shared_myth",
+   "myth": "Alternative brides proposed to Yarikh",
+   "note": "Baal appears indirectly as father of alternative brides offered to Yarikh instead of Nikkal.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nikkal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "rephaim",
+   "kind": "shared_myth",
+   "myth": "The journey to El’s feast",
+   "note": "Baal is named at the banquet’s climax, though his precise participation is disputed.",
+   "source": "KTU 1.20–22",
+   "date": "thirteenth century BCE copies",
+   "tier": "attested",
+   "stated_by": [
+    "rephaim"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Ugaritic festival offerings",
+   "note": "Resheph and Baal jointly receive offerings without preserved personal interaction.",
+   "source": "KTU 1.41 and 1.87",
+   "date": "13th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "resheph"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom divine invocation",
+   "note": "Baal and the pair are jointly listed without a narrated interaction.",
+   "source": "KTU 1.107; KTU 1.123",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Descent to Mot's realm",
+   "note": "Šapash advises Baal concerning his entry into Mot's voracious realm.",
+   "source": "KTU 1.4–1.5",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Journey to Mot’s realm",
+   "note": "Baal’s messengers accompany Šapšu because her route reaches Mot’s underworld realm.",
+   "source": "KTU 1.4 viii",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Search for the living Baal",
+   "note": "Šapšu searches for Baal after El dreams that the storm god lives.",
+   "source": "KTU 1.6 iii–iv",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Baal and Mot’s final struggle",
+   "note": "Šapšu secures Mot’s recognition of Baal’s divinely sanctioned kingship.",
+   "source": "KTU 1.6 vi",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "judged_by",
+   "myth": "Final struggle with Mot",
+   "note": "Šapash arbitrates the final struggle by warning Mot that El supports Baal.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s appeal to Baal on Mount Ṣapānu.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "rescued_by",
+   "myth": "Baal's disappearance and return",
+   "note": "The sun goddess helps Anat locate or transport Baal from Death's realm.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "rescued_by",
+   "myth": "Recovery and burial of Baal",
+   "note": "Šapšu mourns Baal and helps Anat lift and transport his corpse.",
+   "source": "KTU 1.6 i",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Protective incantation",
+   "note": "Baal is invoked with Šapšu and Anat in a damaged protective text.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "tanit",
+   "kind": "other",
+   "myth": "",
+   "note": "Punic inscriptions pair Tanit with the regional god Baal Hammon in Carthaginian worship.",
+   "source": "Carthaginian votive inscriptions",
+   "date": "seventh–second centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baal",
+    "tanit"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "yam",
+   "kind": "fought",
+   "myth": "Combat with Baal",
+   "note": "Yam demands Baal’s surrender, but Baal defeats him with Kothar’s clubs.",
+   "source": "KTU 1.1–1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "baal",
+   "b": "yarikh",
+   "kind": "other",
+   "myth": "Marriage of Nikkal and Yarikh",
+   "note": "By refusing Pidray, Yarikh indirectly rejects marriage into Baal’s household.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "baal_hammon",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars sometimes identify them from title and function, without supporting Punic narrative evidence.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "dagon",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baal is repeatedly designated son of Dagan, though no meeting survives.",
+   "source": "KTU 1.2–1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "dagon",
+   "kind": "fought",
+   "myth": "Defeat of Tunnanu",
+   "note": "Baal may be credited with defeating Tunnanu, though attribution is debated.",
+   "source": "KTU 1.3",
+   "date": "13th–early 12th century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "el",
+   "kind": "judged_by",
+   "myth": "Authorization of Baal's palace",
+   "note": "El authorizes Baal's palace after initially favoring or accommodating Yam.",
+   "source": "KTU 1.1–1.4",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "kothar_wa_khasis",
+   "kind": "gift",
+   "myth": "Weapons against Yam",
+   "note": "Kothar gives Baal Yagrush and Ayyamur, enabling Yam's defeat.",
+   "source": "KTU 1.2",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "kothar_wa_khasis",
+   "kind": "served_by",
+   "myth": "Construction of Baal's palace",
+   "note": "Kothar builds Baal's palace and debates whether it should have a window.",
+   "source": "KTU 1.3–1.4",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "lotan",
+   "kind": "fought",
+   "myth": "Defeat of the twisting serpent",
+   "note": "Mot retrospectively credits Baal with defeating the twisting seven-headed serpent.",
+   "source": "KTU 1.5 I",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "mot",
+   "kind": "contest",
+   "myth": "Renewed contest after Baal's return",
+   "note": "Baal and Mot grapple until Shapash's warning makes Mot acknowledge Baal's kingship.",
+   "source": "KTU 1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "mot",
+   "kind": "fought",
+   "myth": "Baal and Mot",
+   "note": "Mot threatens and overcomes Baal; after returning, Baal fights him inconclusively.",
+   "source": "KTU 1.4–1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "mot",
+   "kind": "served",
+   "myth": "Baal descends to Mot",
+   "note": "Fearing Mot, Baal sends word through Shapash that he will serve him forever.",
+   "source": "KTU 1.5",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "shapash",
+   "kind": "rescued_by",
+   "myth": "Baal's return",
+   "note": "Shapash assists the search for Baal and helps secure Mot's concession.",
+   "source": "KTU 1.6",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "Messages to Mot",
+   "note": "Shapash carries Baal's submission message to Mot.",
+   "source": "KTU 1.5",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hadad",
+   "b": "yam",
+   "kind": "fought",
+   "myth": "Conflict with Yam",
+   "note": "Baal refuses surrender and defeats Yam using Kothar's two weapons.",
+   "source": "KTU 1.1–1.2",
+   "date": "13th–early 12th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hadad"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "el",
+   "kind": "identified_with",
+   "myth": "El-Kronos learned equation",
+   "note": "Philo equates Elos with Kronos; identifying him further with Baal Hammon is reconstructed.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "melqart",
+   "kind": "shared_myth",
+   "myth": "Agathoclean crisis worship",
+   "note": "Carthage renewed gifts to Heracles while propitiating Kronos during the 310 BCE crisis.",
+   "source": "Diodorus Siculus 20.14",
+   "date": "first century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "moloch",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later interpretation conflates them through child-sacrifice traditions, though Punic mlk usually denotes an offering.",
+   "source": "Biblical interpretation and popular culture",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "baal_hammon",
+    "moloch"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "tanit",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "She is Baal Hammon’s consistent female cult partner, though no marriage myth survives.",
+   "source": "Carthaginian Punic inscriptions",
+   "date": "fifth–second centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "tanit",
+   "kind": "shared_myth",
+   "myth": "Joint Punic dedications",
+   "note": "They jointly receive vows and offerings, with Tanit usually named first.",
+   "source": "Carthaginian Punic inscriptions",
+   "date": "fifth–second centuries BCE",
+   "tier": "attested",
+   "stated_by": [
+    "baal_hammon"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "tanit",
+   "kind": "shared_myth",
+   "myth": "Joint vows at Carthage",
+   "note": "They jointly receive vows and offerings, with Tanit usually named first.",
+   "source": "Carthage tophet stelae",
+   "date": "fifth–second centuries BCE",
+   "tier": "attested",
+   "stated_by": [
+    "tanit"
+   ]
+  },
+  {
+   "a": "baal_hammon",
+   "b": "tanit",
+   "kind": "shared_myth",
+   "myth": "Reversed invocation order at El-Hofra",
+   "note": "Regional inscriptions invoke Baal Hammon before Tanit, reversing Carthaginian order.",
+   "source": "El-Hofra/Cirta inscriptions",
+   "date": "late Punic–first century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tanit"
+   ]
+  },
+  {
+   "a": "baalat_gebal",
+   "b": "el",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Philo makes Dione/Baaltis one of Kronos’s wives and equates him with El.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "baalat_gebal"
+   ]
+  },
+  {
+   "a": "baalat_gebal",
+   "b": "el",
+   "kind": "gift",
+   "myth": "Kronos grants Byblos to Dione",
+   "note": "Kronos assigns Byblos to Dione/Baaltis as her divine territory.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "baalat_gebal"
+   ]
+  },
+  {
+   "a": "baalat_gebal",
+   "b": "kothar_wa_khasis",
+   "kind": "other",
+   "myth": "Balthi and Tammuz",
+   "note": "Balthi loves Kuthar’s son Tammuz, creating an indirect familial connection.",
+   "source": "Pseudo-Melito, Apology",
+   "date": "second century CE or later",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later interpreters conjecturally equate Chemosh with Milcom from Judges and alleged ritual similarities.",
+   "source": "Interpretation of Judges 11:24",
+   "date": "late learned tradition",
+   "tier": "late_accretion",
+   "stated_by": [
+    "chemosh"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Solomon builds foreign shrines",
+   "note": "Solomon’s apostasy includes cult places associated with Chemosh and Milcom.",
+   "source": "1 Kings 11:5–8, 33",
+   "date": "monarchic through exilic",
+   "tier": "canonical",
+   "stated_by": [
+    "chemosh"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Josiah defiles foreign shrines",
+   "note": "Josiah defiles high places associated with Chemosh and Milcom.",
+   "source": "2 Kings 23:13",
+   "date": "late seventh century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "chemosh"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Foreign gods condemned during Solomon’s apostasy",
+   "note": "Milcom and Chemosh appear as neighboring national gods condemned alongside Astarte.",
+   "source": "1 Kings 11:7, 33",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "Josiah desecrates foreign high places",
+   "note": "Their neighboring Jerusalem high places are desecrated together during Josiah’s reform.",
+   "source": "2 Kings 23:13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "milcom",
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "MLKM and KMS occur together in a bilingual inscription, if both identifications are correct.",
+   "source": "Qasr Bayir bilingual inscription",
+   "date": "date uncertain",
+   "tier": "regional_variant",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "chemosh",
+   "b": "moloch",
+   "kind": "shared_myth",
+   "myth": "Solomon's foreign high places",
+   "note": "Solomon builds adjacent high places for Chemosh and textually uncertain Molech.",
+   "source": "1 Kings 11:7",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "dagon",
+   "b": "el",
+   "kind": "other",
+   "myth": "Baal's double paternity",
+   "note": "Dagan and El remain distinct while both hold paternal relationships to Baal.",
+   "source": "Ugaritic texts and ritual lists",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "dagon"
+   ]
+  },
+  {
+   "a": "dagon",
+   "b": "el",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dagon or Siton is Elus or Kronos’s brother in Philo’s genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "horon",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "El receives an unsuccessful appeal and is later paired with Horon.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "kothar_wa_khasis",
+   "kind": "served_by",
+   "myth": "Yamm’s proposed palace",
+   "note": "El commissions Kothar-wa-Hasis to construct Yamm’s dwelling.",
+   "source": "KTU 1.1",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "kothar_wa_khasis",
+   "kind": "served_by",
+   "myth": "Construction of Baal’s palace",
+   "note": "Kothar builds within El’s authorized divine order, without preserved dialogue.",
+   "source": "KTU 1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "kotharat",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "List order and comparison with Philo’s heptad suggest disputed parentage by El.",
+   "source": "KTU 1.47 and 1.118",
+   "date": "thirteenth century BCE",
+   "tier": "modern",
+   "stated_by": [
+    "kotharat"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "kotharat",
+   "kind": "shared_myth",
+   "myth": "Danel’s childlessness and Aqhat’s conception",
+   "note": "El promises Danel an heir before the Kotharat arrive and facilitate conception.",
+   "source": "KTU 1.17",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kotharat"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "milcom",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars propose Milcom as El’s Ammonite royal title or an assimilated deity.",
+   "source": "Ammonite onomasticon and comparative reconstruction",
+   "date": "modern scholarship",
+   "tier": "modern",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "moloch",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later harmonization identifies Moloch with El, Kronos, and Saturn.",
+   "source": "Philo of Byblos and later harmonization",
+   "date": "first–second centuries CE onward",
+   "tier": "syncretism",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "mot",
+   "kind": "contest",
+   "myth": "Baal and Mot’s conflict",
+   "note": "El supports Baal’s supremacy over Mot, though no direct combat survives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "mot",
+   "kind": "other",
+   "myth": "El's threatened sanction",
+   "note": "Shapash threatens Mot with El overturning his throne and breaking his scepter.",
+   "source": "KTU 1.6 VI",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "mot",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mot is repeatedly called the son of El.",
+   "source": "KTU 1.5–1.6",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "rephaim",
+   "kind": "shared_myth",
+   "myth": "The journey to El’s feast",
+   "note": "El prepares or presides over the seven-day banquet attended by the Rephaim.",
+   "source": "KTU 1.20–22",
+   "date": "thirteenth century BCE copies",
+   "tier": "attested",
+   "stated_by": [
+    "rephaim"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Divine assembly blesses Kirta’s renewed household",
+   "note": "Resheph and El appear in the divine assembly blessing Kirta’s family.",
+   "source": "KTU 1.15",
+   "date": "13th century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "resheph"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shahar_and_shalim",
+   "kind": "parent_of",
+   "myth": "Birth of Shahar and Shalim",
+   "note": "El sexually generates and fathers Shahar, the god Dawn.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shahar_and_shalim",
+   "kind": "parent_of",
+   "myth": "Birth of Dawn and Dusk",
+   "note": "El fathers Šaḥar and Šalim through intercourse with two women.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s appeal to El at his divine residence.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "Yamm’s appointment",
+   "note": "Šapšu communicates El’s decision appointing Yamm and counsels ʿAṯtar against opposition.",
+   "source": "KTU 1.2 iii",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "Search for the living Baal",
+   "note": "El’s command initiates Šapšu’s search after his dream that Baal lives.",
+   "source": "KTU 1.6 iii–iv",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "Baal and Mot’s final struggle",
+   "note": "Šapšu enforces El’s support for Baal by warning Mot of divine consequences.",
+   "source": "KTU 1.6 vi",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Resolution of Baal and Mot’s conflict",
+   "note": "Shapash conveys El’s support for Baal while resolving the conflict.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "yam",
+   "kind": "gift",
+   "myth": "Yam’s elevation and proposed palace",
+   "note": "El favors Yam, advances his kingship, and orders a house for him.",
+   "source": "KTU 1.1",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Drunken El",
+   "note": "Yarih attends El’s feast and behaves like a dog beneath the tables.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "el"
+   ]
+  },
+  {
+   "a": "el",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Yarikh beneath El’s table",
+   "note": "Yarikh appears dog-like beneath the tables during El’s divine banquet.",
+   "source": "KTU 1.114",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "eshmun",
+   "b": "melqart",
+   "kind": "allied",
+   "myth": "Gods jointly guarantee the Arpad treaty",
+   "note": "Eshmun and Melqart appear together among the divine guarantors enforcing the royal oath.",
+   "source": "SAA II 2",
+   "date": "754/753 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "eshmun"
+   ]
+  },
+  {
+   "a": "eshmun",
+   "b": "melqart",
+   "kind": "allied",
+   "myth": "Gods threaten deprivation under the treaty curse",
+   "note": "Eshmun and Melqart jointly threaten to remove food, clothing, oil, and other necessities.",
+   "source": "SAA II 5",
+   "date": "ca. 675–671 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "eshmun"
+   ]
+  },
+  {
+   "a": "eshmun",
+   "b": "melqart",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cypriot inscriptions attest the locally fused compound deity Eshmun-Melqart.",
+   "source": "Kition-region Phoenician inscriptions",
+   "date": "Classical period",
+   "tier": "syncretism",
+   "stated_by": [
+    "melqart"
+   ]
+  },
+  {
+   "a": "eshmun",
+   "b": "melqart",
+   "kind": "other",
+   "myth": "",
+   "note": "Eshmun and Melqart receive associated but apparently distinct worship in Cypriot dedications.",
+   "source": "Cypriot Phoenician inscriptions",
+   "date": "date not specified",
+   "tier": "regional_variant",
+   "stated_by": [
+    "eshmun"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "kothar_wa_khasis",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "The craftsman-magician is invoked but does not perform Horon’s successful cure.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "kothar_wa_khasis",
+   "kind": "shared_myth",
+   "myth": "Ridding the land of serpents",
+   "note": "Kothar and Horon belong to the anti-venom narrative’s divine network.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "melqart",
+   "kind": "allied",
+   "myth": "Jamnian joint civic cult",
+   "note": "Heracles and Hauron jointly possess or protect Jamnia and receive thanks.",
+   "source": "I.Délos 2308",
+   "date": "second century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "melqart",
+   "kind": "allied",
+   "myth": "Victory invocation at Yavneh",
+   "note": "Heracles and Hauron are jointly invoked for victory on a sling bullet.",
+   "source": "Yavneh sling bullet",
+   "date": "Hellenistic period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "mot",
+   "kind": "shared_myth",
+   "myth": "Damaged dangerous-power incantation",
+   "note": "Mot appears with Horon among dangerous figures, but no encounter survives.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "resheph",
+   "kind": "allied",
+   "myth": "Egyptian protection against dangerous animals",
+   "note": "Resheph and Hauron are invoked together in protective Egyptian magic.",
+   "source": "Papyrus Harris 501",
+   "date": "Ramesside period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Resheph appears in the divine sequence headed by Horon and El.",
+   "source": "KTU 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Damaged dangerous-power incantation",
+   "note": "Resheph and Horon occur together among dangerous or protective powers.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Shahar receives an appeal and appears paired with Shalim.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom divine invocation",
+   "note": "Horon and the pair occur in the same anti-venom divine sequence.",
+   "source": "KTU 1.107",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Horon and the serpent",
+   "note": "She conveys the Mare’s appeal to Horon and assists the anti-snake procedure.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "shapash",
+   "kind": "allied",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu relays the appeal to Ḥoranu, who neutralizes the venom.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Damaged anti-venom incantation",
+   "note": "Šapšu and Ḥoranu are associated in a damaged anti-venom text.",
+   "source": "KTU 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "horon",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation sequence",
+   "note": "Yarikh receives an appeal and appears paired with Resheph.",
+   "source": "KTU 1.100 and 1.107",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "horon"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Kirta’s royal celebration",
+   "note": "Kothar and Resheph attend the festivities as divine co-guests.",
+   "source": "KTU 1.15",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation and divine litany",
+   "note": "Kothar-wa-Khasis and the pair occur jointly without narrated interaction.",
+   "source": "KTU 1.107; KTU 1.123",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Kothar-wa-Hasis.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Ridding the land of serpents",
+   "note": "Shapash is directed to approach Kothar for aid against venom.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Closing hymn to Šapšu",
+   "note": "Kothar appears as her companion, magician, diviner, or pilot, depending on translation.",
+   "source": "KTU 1.6 vi 49–54",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "yam",
+   "kind": "other",
+   "myth": "Baal’s battle with Yam",
+   "note": "Kothar makes and commands the weapons by which Baal defeats Yam.",
+   "source": "KTU 1.2 IV",
+   "date": "thirteenth century BCE",
+   "tier": "canonical",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "yam",
+   "kind": "other",
+   "myth": "Yam’s proposed palace",
+   "note": "Kothar is assigned a role in the projected construction of Yam’s house.",
+   "source": "KTU 1.1",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "yam",
+   "kind": "other",
+   "myth": "Combat with Baal",
+   "note": "Kothar arms Baal with Yagrush and Ayyamur, enabling Yam’s defeat.",
+   "source": "KTU 1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yam"
+   ]
+  },
+  {
+   "a": "kothar_wa_khasis",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Kirta’s royal celebration",
+   "note": "Kothar and Yarikh attend the festivities as divine co-guests.",
+   "source": "KTU 1.15",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kothar_wa_khasis"
+   ]
+  },
+  {
+   "a": "kotharat",
+   "b": "nikkal",
+   "kind": "shared_myth",
+   "myth": "Marriage of Yarikh and Nikkal",
+   "note": "They are invoked in Nikkal’s wedding, possibly guaranteeing marriage and fertility.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kotharat"
+   ]
+  },
+  {
+   "a": "kotharat",
+   "b": "nikkal",
+   "kind": "shared_myth",
+   "myth": "Nikkal and Yarikh's nuptial conclusion",
+   "note": "The collective birth and marriage goddesses participate in the poem's disputed nuptial and fertility conclusion.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "nikkal"
+   ]
+  },
+  {
+   "a": "kotharat",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Marriage of Yarikh and Nikkal",
+   "note": "The Kotharat are invoked throughout the composition celebrating Yarikh’s pursuit and marriage.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "kotharat"
+   ]
+  },
+  {
+   "a": "kotharat",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Marriage of Nikkal and Yarikh",
+   "note": "The marriage specialists celebrate or sanction the poem’s reproductive setting.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "lotan",
+   "b": "mot",
+   "kind": "other",
+   "myth": "Mot recalls Baal’s dragon victory",
+   "note": "Mot invokes Lotan’s defeat while threatening Baal but never encounters Lotan directly.",
+   "source": "KTU 1.5 I",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "lotan"
+   ]
+  },
+  {
+   "a": "lotan",
+   "b": "yam",
+   "kind": "allied",
+   "myth": "Anat’s victory catalogue",
+   "note": "Lotan is affiliated with Yam’s side, though identity or subordination remains uncertain.",
+   "source": "KTU 1.3 III",
+   "date": "Late Bronze Age",
+   "tier": "modern",
+   "stated_by": [
+    "lotan"
+   ]
+  },
+  {
+   "a": "melqart",
+   "b": "resheph",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An Ebusus temple dedication attests the compound divine name Resheph-Melqart.",
+   "source": "KAI 72",
+   "date": "fifth century BCE",
+   "tier": "syncretism",
+   "stated_by": [
+    "melqart"
+   ]
+  },
+  {
+   "a": "milcom",
+   "b": "moloch",
+   "kind": "identified_with",
+   "myth": "Molech substitutes for Milcom in Solomon’s apostasy",
+   "note": "The Masoretic reading may substitute Molech for Milcom; other witnesses and passages distinguish them.",
+   "source": "1 Kings 11:7; 2 Kings 23:10, 13",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "milcom"
+   ]
+  },
+  {
+   "a": "milcom",
+   "b": "moloch",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Molech is traditionally equated with Milcom, possibly through textual corruption.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "first millennium BCE",
+   "tier": "syncretism",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "milcom",
+   "b": "moloch",
+   "kind": "shared_myth",
+   "myth": "Solomon's apostasy",
+   "note": "Milcom and Molech occur in the same foreign-cult narrative.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical",
+   "stated_by": [
+    "moloch"
+   ]
+  },
+  {
+   "a": "mot",
+   "b": "shapash",
+   "kind": "judged_by",
+   "myth": "Baal and Mot’s final struggle",
+   "note": "Šapšu warns Mot that El favors Baal, compelling Mot to concede.",
+   "source": "KTU 1.6 vi",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "mot",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Mot yields after final combat",
+   "note": "Shapash compels Mot to yield by threatening him with El's displeasure.",
+   "source": "KTU 1.6 VI",
+   "date": "fourteenth–thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "mot"
+   ]
+  },
+  {
+   "a": "mot",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Journey to Mot’s realm",
+   "note": "Šapšu’s route gives Baal’s messengers access to Mot’s underworld domain.",
+   "source": "KTU 1.4 viii",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "mot",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Protective incantation",
+   "note": "Mot occurs within the damaged hostile complex against which Šapšu is invoked.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "nikkal",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Invocation against illness",
+   "note": "Resheph follows the Upper God and Nikkal in an Egyptian healing invocation.",
+   "source": "Papyrus Leiden I 343 + I 345",
+   "date": "early Nineteenth Dynasty",
+   "tier": "regional_variant",
+   "stated_by": [
+    "nikkal"
+   ]
+  },
+  {
+   "a": "nikkal",
+   "b": "yarikh",
+   "kind": "consort_of",
+   "myth": "The Wedding of Nikkal and Yarikh",
+   "note": "Yarikh courts Nikkal, refuses alternative brides, pays a bride-price, and marries her.",
+   "source": "KTU 1.24/RS 5.194",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "nikkal"
+   ]
+  },
+  {
+   "a": "nikkal",
+   "b": "yarikh",
+   "kind": "consort_of",
+   "myth": "Marriage of Nikkal and Yarikh",
+   "note": "Yarikh courts Nikkal, offers lavish bridewealth, and marries her.",
+   "source": "KTU 1.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "yarikh"
+   ]
+  },
+  {
+   "a": "qadesh",
+   "b": "resheph",
+   "kind": "shared_myth",
+   "myth": "Ramesside cultic tableau",
+   "note": "Qadesh repeatedly appears beside Resheph, without evidence of marriage.",
+   "source": "Ramesside votive stelae",
+   "date": "c. 1295–1190 BCE",
+   "tier": "attested",
+   "stated_by": [
+    "qadesh"
+   ]
+  },
+  {
+   "a": "rephaim",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Royal mortuary rite",
+   "note": "Šapšu directs the summoned ancestral beings to descend again after their ritual presence.",
+   "source": "KTU 1.161",
+   "date": "late thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "rephaim",
+   "b": "shapash",
+   "kind": "served",
+   "myth": "Closing hymn to Šapšu",
+   "note": "The Rephaim are described as being under Šapšu’s authority.",
+   "source": "KTU 1.6 vi",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "rephaim",
+   "b": "shapash",
+   "kind": "served_by",
+   "myth": "The descent of the royal dead",
+   "note": "Shapash descends and conducts the summoned ancestral dead back below.",
+   "source": "KTU 1.161",
+   "date": "late thirteenth–early twelfth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "rephaim"
+   ]
+  },
+  {
+   "a": "rephaim",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Closing hymn of the Baal Cycle",
+   "note": "The Rephaim are described as beneath, subject to, or accompanying Shapash.",
+   "source": "KTU 1.6 vi 42–54",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "attested",
+   "stated_by": [
+    "rephaim"
+   ]
+  },
+  {
+   "a": "resheph",
+   "b": "shahar_and_shalim",
+   "kind": "shared_myth",
+   "myth": "Anti-venom divine invocation",
+   "note": "Resheph and the pair are co-invoked against poison.",
+   "source": "KTU 1.107",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "resheph",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Resheph and the sun’s gate",
+   "note": "Resheph possibly admits Shapash through a gate during nightly or eclipsed passage.",
+   "source": "KTU 1.78",
+   "date": "Late Bronze Age",
+   "tier": "regional_variant",
+   "stated_by": [
+    "resheph"
+   ]
+  },
+  {
+   "a": "resheph",
+   "b": "shapash",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Resheph.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "resheph",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Protective incantation",
+   "note": "Resheph co-occurs with Šapšu in a damaged protective or hostile structure.",
+   "source": "KTU 1.82",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "shahar_and_shalim",
+   "b": "shapash",
+   "kind": "shared_myth",
+   "myth": "Birth of the gracious gods",
+   "note": "Šapšu appears in the cosmic blessing or environment surrounding newly born Šaḥar.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "shahar_and_shalim",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Anti-venom invocation and divine litany",
+   "note": "Yarikh and the pair occur jointly without a narrated interaction.",
+   "source": "KTU 1.107; KTU 1.123",
+   "date": "Late Bronze Age",
+   "tier": "attested",
+   "stated_by": [
+    "shahar_and_shalim"
+   ]
+  },
+  {
+   "a": "shapash",
+   "b": "yarikh",
+   "kind": "other",
+   "myth": "Šapšu and the serpent cure",
+   "note": "Šapšu carries the petitioner’s anti-venom appeal to Yariḫ.",
+   "source": "KTU 1.100",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "shapash",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Solar-lunar ritual pairing",
+   "note": "Šapšu and Yariḫ appear together as luminaries in cultic contexts, without marriage.",
+   "source": "KTU 1.43; 1.108",
+   "date": "thirteenth century BCE",
+   "tier": "attested",
+   "stated_by": [
+    "shapash"
+   ]
+  },
+  {
+   "a": "shapash",
+   "b": "yarikh",
+   "kind": "shared_myth",
+   "myth": "Solar-lunar ritual grouping",
+   "note": "Yarikh and Shapash may form lunar and solar members of a collective.",
+   "source": "Ritual group designations",
+   "date": "Late Bronze Age",
+   "tier": "modern",
+   "stated_by": [
+    "yarikh"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Adamma": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "Invocation against illness",
+    "note": "Adamma appears with Resheph in the formula adjacent to the Upper God and Nikkal.",
+    "source": "Papyrus Leiden I 343 + I 345",
+    "date": "early Nineteenth Dynasty",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Eblaite cultic offerings",
+    "note": "Rašap and Adamma are repeatedly paired in palace-supported offering records.",
+    "source": "Ebla administrative offering texts",
+    "date": "24th–23rd centuries BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "resheph",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Modern scholarship sometimes reconstructs Adamma as Resheph’s consort from their cultic pairing.",
+    "source": "Ebla administrative offering texts",
+    "date": "24th–23rd centuries BCE",
+    "tier": "modern"
+   }
+  ],
+  "Adodos": [
+   {
+    "stated_by": "astarte",
+    "kind": "allied",
+    "myth": "Philo’s divine government",
+    "note": "Astarte and Adodos rule jointly with Zeus Demarous under Kronos.",
+    "source": "Philo via Eusebius, Preparation 1.10",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Akha": [
+   {
+    "stated_by": "resheph",
+    "kind": "fought",
+    "myth": "Resheph overcomes Akha",
+    "note": "Resheph overcomes the hostile disease-being Akha in Egyptian magical tradition.",
+    "source": "Egyptian medical-magical texts",
+    "date": "New Kingdom",
+    "tier": "regional_variant"
+   }
+  ],
+  "Almaqah": [
+   {
+    "stated_by": "attar",
+    "kind": "allied",
+    "myth": "Joint protective and dedicatory invocations",
+    "note": "Sabaic inscriptions jointly invoke Athtar and Almaqah for protection or dedication.",
+    "source": "multiple Sabaic inscriptions",
+    "date": "first millennium BCE–early centuries CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Alphesiboea": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "",
+    "note": "A lost Hesiodic tradition names Alphesiboea as Adonis’s mother.",
+    "source": "Hesiod via Pseudo-Apollodorus 3.14.4",
+    "date": "preserved first–second century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ammishtamru": [
+   {
+    "stated_by": "rephaim",
+    "kind": "shared_myth",
+    "myth": "The descent of the royal dead",
+    "note": "The deceased king Ammishtamru is summoned with the ancient Rephaim in royal funerary ritual.",
+    "source": "KTU 1.161",
+    "date": "late thirteenth–early twelfth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Amurru": [
+   {
+    "stated_by": "asherah",
+    "kind": "other",
+    "myth": "",
+    "note": "Ašratum is paired with Amurru in Mesopotamian theology, but no narrative interaction survives.",
+    "source": "Old Babylonian god lists and cultic material",
+    "date": "18th century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Anakim": [
+   {
+    "stated_by": "rephaim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Deuteronomy compares Rephaite peoples with the Anakim, enabling later assimilation.",
+    "source": "Deuteronomy 2:10–21",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Anobret": [
+   {
+    "stated_by": "el",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Anobret bears the only-begotten son whom Elus or Kronos later sacrifices.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Anu": [
+   {
+    "stated_by": "dagon",
+    "kind": "shared_myth",
+    "myth": "Joint divine seniority in the Anzu tradition",
+    "note": "Dagan appears beside Anu as a senior deity.",
+    "source": "Old Babylonian Anzu traditions",
+    "date": "early second millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Arma": [
+   {
+    "stated_by": "yarikh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Learned comparison treats Arma as an Anatolian lunar equivalent, without direct Ugaritic identification.",
+    "source": "Multilingual ANE god-list tradition",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Arsay": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "shared_myth",
+    "myth": "Baal's palace household",
+    "note": "Arsay appears among the female members of Baal's household.",
+    "source": "KTU 1.3–1.4",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Arsh": [
+   {
+    "stated_by": "anat",
+    "kind": "fought",
+    "myth": "Anat's victory boast",
+    "note": "Anat lists the poorly understood enemy Arsh among her defeated opponents.",
+    "source": "KTU 1.3 III",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Arṣay": [
+   {
+    "stated_by": "baal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Arṣay is named as one of Baal's three daughters.",
+    "source": "KTU 1.3–1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ashtart": [
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation sequence",
+    "note": "Ashtart appears among the divine recipients invoked before Horon.",
+    "source": "KTU 1.100 and 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "horon",
+    "kind": "allied",
+    "myth": "Kirta’s curse against Yaṣṣib",
+    "note": "Horon targets Yaṣṣib’s head while Athtart targets his crown.",
+    "source": "KTU 1.16 VI",
+    "date": "thirteenth century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "shared_myth",
+    "myth": "Fragmentary divine meal and hunt",
+    "note": "Kothar or Hayan appears in a damaged composition involving Ashtart.",
+    "source": "KTU 1.92",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Nikkal occurs in the offering sequence of a mixed ritual centered on Ashtart and Šauška.",
+    "source": "RS 24.261",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Ashtart ša abi": [
+   {
+    "stated_by": "yam",
+    "kind": "other",
+    "myth": "",
+    "note": "Yam and this aspect of Ashtart receive joint or adjacent zukru offerings.",
+    "source": "Emar VI 373+",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ashtoreth": [
+   {
+    "stated_by": "chemosh",
+    "kind": "shared_myth",
+    "myth": "Solomon builds foreign shrines",
+    "note": "Solomon’s apostasy includes cult places associated with Chemosh and Ashtoreth.",
+    "source": "1 Kings 11:5–8, 33",
+    "date": "monarchic through exilic",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "chemosh",
+    "kind": "shared_myth",
+    "myth": "Josiah defiles foreign shrines",
+    "note": "Josiah defiles high places associated with Chemosh and Ashtoreth.",
+    "source": "2 Kings 23:13",
+    "date": "late seventh century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Asklepios": [
+   {
+    "stated_by": "eshmun",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Greek texts and a trilingual dedication explicitly identify Eshmun with Asklepios.",
+    "source": "KAI 66",
+    "date": "second century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Astronoë": [
+   {
+    "stated_by": "eshmun",
+    "kind": "seduced_by",
+    "myth": "Astronoë pursues the beautiful hunter Eshmun",
+    "note": "Astronoë desires Eshmun and sexually pursues him while he is hunting.",
+    "source": "Damascius, Life of Isidore",
+    "date": "ca. 500 CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "eshmun",
+    "kind": "rescued_by",
+    "myth": "Astronoë restores Eshmun after his death",
+    "note": "After Eshmun's self-castration and death, Astronoë revives him through life-giving warmth.",
+    "source": "Damascius, Life of Isidore",
+    "date": "ca. 500 CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "eshmun",
+    "kind": "transformed_by",
+    "myth": "Astronoë raises restored Eshmun to divinity",
+    "note": "Astronoë causes the restored mortal youth Eshmun to become divine.",
+    "source": "Damascius, Life of Isidore",
+    "date": "ca. 500 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Atargatis": [
+   {
+    "stated_by": "asherah",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Asherah is sometimes equated with Atargatis, but continuity between them is a modern comparative proposal.",
+    "source": "De Dea Syria and modern studies",
+    "date": "2nd century CE onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Athirat": [
+   {
+    "stated_by": "anat",
+    "kind": "gift",
+    "myth": "Gifts secure Athirat's intercession",
+    "note": "Anat and Baal bring gifts or a request to win Athirat's support.",
+    "source": "KTU 1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "anat",
+    "kind": "allied",
+    "myth": "Athirat petitions El for Baal's palace",
+    "note": "Anat accompanies or follows Athirat on the mission to El.",
+    "source": "KTU 1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "anat",
+    "kind": "shared_myth",
+    "myth": "Possible nursing of Yassib",
+    "note": "A damaged passage may portray Anat and Athirat jointly nursing Yassib.",
+    "source": "KTU 1.15 II",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "attar",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Athtar is commonly reconstructed as Athirat’s son from Ugaritic divine-family context.",
+    "source": "KTU 1.6",
+    "date": "thirteenth century BCE",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "attar",
+    "kind": "other",
+    "myth": "Athtar nominated for Baal’s kingship",
+    "note": "Athirat proposes Athtar the Awesome as replacement for absent Baal.",
+    "source": "KTU 1.6 i 43–48",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "gift",
+    "myth": "Gifts securing Athirat’s advocacy",
+    "note": "Kothar fashions precious-metal gifts intended to win Athirat’s support.",
+    "source": "KTU 1.3–1.4",
+    "date": "thirteenth century BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "child_of",
+    "myth": "Reconstructed maternity in the birth narrative",
+    "note": "Athirat is often reconstructed as one mother, though the birth sentence is ambiguous.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Athtart-name-of-Baal": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "other",
+    "myth": "",
+    "note": "An enigmatic cultic expression may denote Baal's hypostasis or relational manifestation.",
+    "source": "Ugaritic cult texts",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Atik": [
+   {
+    "stated_by": "anat",
+    "kind": "fought",
+    "myth": "Anat's victory boast",
+    "note": "Anat names the poorly understood creature Atik among her defeated opponents.",
+    "source": "KTU 1.3 III",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Attapar": [
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation sequence",
+    "note": "Attapar is paired with Attar in the list headed by Horon and El.",
+    "source": "KTU 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Attis": [
+   {
+    "stated_by": "adonis",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparativists grouped Adonis with Attis despite lacking an early identity claim.",
+    "source": "Frazer, Adonis, Attis, Osiris",
+    "date": "1906–1914",
+    "tier": "modern"
+   }
+  ],
+  "Aya": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Nikkal is positioned before Aya in the ordered Yazılıkaya and ritual-list procession.",
+    "source": "Yazılıkaya and kaluti",
+    "date": "thirteenth century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Azizos and Monimos": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholars propose continuity with these later Syrian paired astral gods.",
+    "source": "Modern comparative scholarship",
+    "date": "modern period",
+    "tier": "modern"
+   }
+  ],
+  "Ašertu": [
+   {
+    "stated_by": "el",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Ašertu is the wife of Elkunirša in the transmitted West Semitic narrative.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "el",
+    "kind": "punished",
+    "myth": "Ašertu’s attempted seduction",
+    "note": "Elkunirša orders the Storm-god to humiliate Ašertu after her attempted seduction.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "el",
+    "kind": "allied",
+    "myth": "Plot against the Storm-god",
+    "note": "Elkunirša and Ašertu conspire together against the Storm-god.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aštabi": [
+   {
+    "stated_by": "attar",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Multilingual scribal lists apparently align Athtar with the Hurrian martial god Aštabi.",
+    "source": "KTU 1.47/1.118; RS 20.24",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Baal Magnim": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "shared_myth",
+    "myth": "Carthaginian divine list",
+    "note": "Baal Magnim follows Baal Hammon in the same divine list.",
+    "source": "Carthaginian Punic inscription",
+    "date": "",
+    "tier": "attested"
+   }
+  ],
+  "Baal Saphon": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "shared_myth",
+    "myth": "Joint amulet invocation",
+    "note": "They are jointly named on a lapis-lazuli amulet from the Tyrian region.",
+    "source": "Tyrian-region lapis-lazuli amulet",
+    "date": "Iron Age",
+    "tier": "attested"
+   }
+  ],
+  "Baal Shamem": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "shared_myth",
+    "myth": "Carthaginian divine list",
+    "note": "Baal Shamem precedes Tanit and Baal Hammon in a divine list.",
+    "source": "Carthaginian Punic inscription",
+    "date": "",
+    "tier": "attested"
+   }
+  ],
+  "Baal of Aleppo": [
+   {
+    "stated_by": "yarikh",
+    "kind": "shared_myth",
+    "myth": "Royal sacrificial sequence",
+    "note": "Yarikh receives a ram after Baal of Aleppo in the offering sequence.",
+    "source": "KTU 1.109",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Baal of Ugarit": [
+   {
+    "stated_by": "yarikh",
+    "kind": "shared_myth",
+    "myth": "Royal sacrificial sequence",
+    "note": "Yarikh receives a ram after Baal of Ugarit in the offering sequence.",
+    "source": "KTU 1.109",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Baal Ṣemed": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "allied",
+    "myth": "Kilamuwa’s curse",
+    "note": "Together they enforce the curse against anyone damaging Kilamuwa’s monument.",
+    "source": "KAI 24",
+    "date": "c. 825 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Baal-Peor": [
+   {
+    "stated_by": "chemosh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later Jewish, Christian, and comparative traditions conjecturally identify Chemosh with Baal-Peor.",
+    "source": "Later Jewish and Christian interpretation",
+    "date": "late and modern traditions",
+    "tier": "late_accretion"
+   }
+  ],
+  "Baalshamem": [
+   {
+    "stated_by": "baalat_gebal",
+    "kind": "shared_myth",
+    "myth": "Joint invocation for Yehimilk’s reign",
+    "note": "Baalshamem and Baalat Gebal are jointly asked to prolong Yehimilk’s reign.",
+    "source": "KAI 4",
+    "date": "c. 950–920 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Baetylus": [
+   {
+    "stated_by": "el",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Baetylus belongs to the same sibling generation as Elus or Kronos.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bethel": [
+   {
+    "stated_by": "anat",
+    "kind": "other",
+    "myth": "",
+    "note": "Anat-Bethel may denote consortship, filiation, hypostasis, or Anat of Bethel.",
+    "source": "Elephantine Aramaic texts",
+    "date": "fifth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Betylus": [
+   {
+    "stated_by": "dagon",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Philo's genealogy makes Betylus a sibling of Dagon.",
+    "source": "Philo via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Caelestis": [
+   {
+    "stated_by": "tanit",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Roman Caelestis continues Tanit’s sanctuaries, titles, and patronal role in Africa.",
+    "source": "Thinissut and African inscriptions",
+    "date": "first centuries BCE/CE onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Cinyras": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Adonis is an ordinary son of the Cypriot king Cinyras.",
+    "source": "Pseudo-Apollodorus, Library 3.14.3",
+    "date": "first–second century CE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "Myrrha’s incest and the tree-birth",
+    "note": "Adonis is born from Myrrha after her incestuous union with Cinyras.",
+    "source": "Ovid, Metamorphoses 10",
+    "date": "ca. 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Cronus": [
+   {
+    "stated_by": "dagon",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Philo's learned Phoenician genealogy makes Dagon the brother of Cronus.",
+    "source": "Philo via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "mot",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Philo's interpretive genealogy makes Cronus the father of Muth.",
+    "source": "Philo through Eusebius",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dagan": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship proposes identity with the senior agricultural god Dagan.",
+    "source": "Lipiński’s scholarly studies",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "el",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "El and Dagan stand near the head of Ugaritic pantheon lists.",
+    "source": "KTU 1.47; 1.118; RS 20.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation sequence",
+    "note": "Dagan is invoked before Horon and appears paired with Baal.",
+    "source": "KTU 1.100 and 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation and divine litany",
+    "note": "Dagan and the pair are jointly listed without a narrated interaction.",
+    "source": "KTU 1.107; KTU 1.123",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shapash",
+    "kind": "other",
+    "myth": "Šapšu and the serpent cure",
+    "note": "Šapšu carries the petitioner’s appeal to Dagan at Tuttul.",
+    "source": "KTU 1.100",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "other",
+    "myth": "",
+    "note": "Yam and Dagan receive offerings within the same Emar zukru ritual system.",
+    "source": "Emar VI 373+",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Damkina": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Nikkal stands beside or follows Damkina in the ordered Yazılıkaya divine procession.",
+    "source": "Yazılıkaya Chamber A and kaluti",
+    "date": "thirteenth century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Daniʾilu": [
+   {
+    "stated_by": "rephaim",
+    "kind": "other",
+    "myth": "The Aqhat cycle",
+    "note": "Daniʾilu is called mt rpʾu, possibly indicating heroic or ancestral affiliation.",
+    "source": "KTU 1.17–1.19",
+    "date": "fourteenth–thirteenth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Deber": [
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Yahweh’s cosmic march",
+    "note": "Deber marches before Yahweh while Resheph advances at his feet.",
+    "source": "Habakkuk 3:5",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Demarous": [
+   {
+    "stated_by": "dagon",
+    "kind": "parent_of",
+    "myth": "Adoption of the unborn storm god",
+    "note": "Dagon becomes the social or adoptive father of Demarous before his birth.",
+    "source": "Philo via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "fought",
+    "myth": "Pontos fights Demarous",
+    "note": "Philo’s Pontos, a probable continuation of Yam, fights Demarous.",
+    "source": "Philo via Eusebius, Praeparatio evangelica 1",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Di Manes": [
+   {
+    "stated_by": "rephaim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A disputed Neo-Punic restoration equates the Rephaim with the Roman collective divine dead.",
+    "source": "KAI 117",
+    "date": "Roman period",
+    "tier": "syncretism"
+   }
+  ],
+  "Dione": [
+   {
+    "stated_by": "astarte",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Philo’s genealogy presents Astarte and Dione as sisters, daughters of Ouranos.",
+    "source": "Philo via Eusebius, Preparation 1.10",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "baalat_gebal",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Philo identifies Baaltis with Dione in his Greek theological system.",
+    "source": "Philo via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "el",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Dione is named among the partners of Elus or Kronos.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Ditanu": [
+   {
+    "stated_by": "rephaim",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The Rephaim belong to Ditanu’s assembly; his status as ancestral head is reconstructed.",
+    "source": "KTU 1.15 iii; KTU 1.161",
+    "date": "fourteenth–twelfth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ea": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A multilingual Ugaritic god list equates Kothar with Ea.",
+    "source": "Ugaritic multilingual god list",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Elagabal": [
+   {
+    "stated_by": "tanit",
+    "kind": "consort_of",
+    "myth": "Imperial sacred marriage at Rome",
+    "note": "Elagabalus staged Caelestis’s marriage to Elagabal after transporting her image to Rome.",
+    "source": "Herodian, Roman History 5.6",
+    "date": "third century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Elkunirša": [
+   {
+    "stated_by": "asherah",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "In the Hittite-transmitted myth, Ašertu is explicitly the wife of Elkunirša.",
+    "source": "Elkunirša and Ašertu",
+    "date": "2nd millennium BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "asherah",
+    "kind": "punished_by",
+    "myth": "Ašertu’s attempted seduction",
+    "note": "After learning of Ašertu’s attempted seduction, Elkunirša orders or permits her humiliation or beating.",
+    "source": "Elkunirša and Ašertu",
+    "date": "2nd millennium BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Elyon": [
+   {
+    "stated_by": "el",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Elyon belongs to a generation preceding Ouranos and thus Elus or Kronos.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Emim": [
+   {
+    "stated_by": "rephaim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The tall and numerous Emim are explicitly accounted as Rephaim.",
+    "source": "Deuteronomy 2:10–11",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Erotes": [
+   {
+    "stated_by": "adonis",
+    "kind": "shared_myth",
+    "myth": "The lament for Adonis",
+    "note": "The Erotes mourn Adonis and join Aphrodite’s lament.",
+    "source": "Bion, Lament for Adonis",
+    "date": "late second–first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Erymanthus": [
+   {
+    "stated_by": "adonis",
+    "kind": "shared_myth",
+    "myth": "Erymanthus sees Aphrodite with Adonis",
+    "note": "Erymanthus sees Aphrodite with Adonis and is blinded by her.",
+    "source": "Ptolemy Chennus via Photius",
+    "date": "second century, summarized ninth",
+    "tier": "late_accretion"
+   }
+  ],
+  "Eyan": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A multilingual god list aligns Kothar with the Hurrian Eyan.",
+    "source": "Ugaritic multilingual god list",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Ešem-Bethel": [
+   {
+    "stated_by": "anat",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Anat-Bethel and Ešem-Bethel receive allocations in the same cultic account.",
+    "source": "TAD C3.15/Cowley 22",
+    "date": "fifth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Gapnu": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "served_by",
+    "myth": "Messages to Mot",
+    "note": "Baal sends Gapnu as one of his paired messengers to Mot.",
+    "source": "KTU 1.4–1.5",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Gaṯaru": [
+   {
+    "stated_by": "yarikh",
+    "kind": "shared_myth",
+    "myth": "Ritual divine grouping",
+    "note": "Yarikh may occur with Gaṯaru in plural or dual ritual groupings.",
+    "source": "Ugaritic ritual texts",
+    "date": "Late Bronze Age",
+    "tier": "modern"
+   }
+  ],
+  "Ge": [
+   {
+    "stated_by": "el",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Ge is the mother of Elus or Kronos in Philo’s genealogy.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Gupan": [
+   {
+    "stated_by": "baal",
+    "kind": "served_by",
+    "myth": "Palace and Mot communications",
+    "note": "Baal dispatches Gupan as a divine messenger during palace negotiations and communications with Mot.",
+    "source": "KTU 1.3–1.5",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "shared_myth",
+    "myth": "Summoning Kothar",
+    "note": "Gupan carries Baal’s message to Kothar at his distant residence.",
+    "source": "KTU 1.3 VI",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Gupan and Ugar": [
+   {
+    "stated_by": "mot",
+    "kind": "other",
+    "myth": "Baal sends messengers to Mot",
+    "note": "The divine messengers convey Baal's speeches while avoiding Mot's devouring mouth.",
+    "source": "KTU 1.4 VIII–1.5",
+    "date": "fourteenth–thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shapash",
+    "kind": "allied",
+    "myth": "Journey to Mot’s realm",
+    "note": "Baal directs his two messengers to accompany Šapšu along her underworld route.",
+    "source": "KTU 1.4 viii",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Habayu": [
+   {
+    "stated_by": "resheph",
+    "kind": "identified_with",
+    "myth": "Habayu assaults drunken El",
+    "note": "Modern scholarship proposes Habayu as a name or form of Resheph.",
+    "source": "KTU 1.114",
+    "date": "13th century BCE",
+    "tier": "modern"
+   }
+  ],
+  "Haddu/Hadad": [
+   {
+    "stated_by": "baal",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Ugaritic poetry treats Haddu or Hadad as the same storm-god as Baal.",
+    "source": "Ugaritic poetry",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Harmakhis": [
+   {
+    "stated_by": "horon",
+    "kind": "identified_with",
+    "myth": "Egyptian Sphinx theology",
+    "note": "Hauron fuses with Harmakhis, and both names designate the Great Sphinx.",
+    "source": "Giza inscriptions",
+    "date": "late Eighteenth–Nineteenth Dynasties",
+    "tier": "syncretism"
+   }
+  ],
+  "Hulelu": [
+   {
+    "stated_by": "kotharat",
+    "kind": "child_of",
+    "myth": "",
+    "note": "They are his daughters if the disputed phrase bnt hll names a deity.",
+    "source": "KTU 1.24:40–42",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hygieia": [
+   {
+    "stated_by": "eshmun",
+    "kind": "other",
+    "myth": "",
+    "note": "Hygieia is paired with Asklepios in a later Kition cult possibly continuing Eshmun's sanctuary.",
+    "source": "Late Hellenistic Cypriot inscription",
+    "date": "late Hellenistic period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Hypsouranios": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Philo places Chousor among the descendants of Hypsouranios.",
+    "source": "Philo, Phoenician History",
+    "date": "late first–early second century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Hêlēl": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "parent_of",
+    "myth": "Fall of the shining son of Dawn",
+    "note": "Isaiah poetically styles the fallen celestial figure as Dawn's son.",
+    "source": "Isaiah 14:12–15",
+    "date": "eighth–sixth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ilat": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "shared_myth",
+    "myth": "Divine assembly",
+    "note": "Ilat appears with Baal among gods who feast or deliberate.",
+    "source": "Baal Cycle",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Iolaus": [
+   {
+    "stated_by": "melqart",
+    "kind": "rescued_by",
+    "myth": "Iolaus revives Heracles with a quail",
+    "note": "Iolaus restores the dead Tyrian Heracles using a quail beneath his nose.",
+    "source": "Eudoxus via Athenaeus 9.392d",
+    "date": "fourth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "melqart",
+    "kind": "shared_myth",
+    "myth": "Hannibal and Philip's divine treaty witnesses",
+    "note": "Heracles and Iolaus jointly appear among the gods guaranteeing the Carthaginian treaty.",
+    "source": "Polybius, Histories 7.9",
+    "date": "215 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ishat": [
+   {
+    "stated_by": "anat",
+    "kind": "fought",
+    "myth": "Anat's victory boast",
+    "note": "Anat includes the destructive female being Ishat among her defeated enemies.",
+    "source": "KTU 1.3 III",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "IŠTAR-logogram goddess": [
+   {
+    "stated_by": "el",
+    "kind": "deceived_by",
+    "myth": "Plot against the Storm-god",
+    "note": "The goddess overhears Elkunirša’s plot and secretly warns its intended target.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Juno Caelestis": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "shared_myth",
+    "myth": "Roman-African divine pairing",
+    "note": "She appears beside African Saturn in the Roman transformation of the Tanit–Baal Hammon pair.",
+    "source": "Roman-African cult evidence",
+    "date": "Imperial period",
+    "tier": "syncretism"
+   }
+  ],
+  "Kasʾa": [
+   {
+    "stated_by": "yarikh",
+    "kind": "other",
+    "myth": "Lunar ritual association",
+    "note": "The obscure lunar-phase deity appears with Yarikh; their precise relationship is unknown.",
+    "source": "Ugaritic ritual material",
+    "date": "Late Bronze Age",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kirta": [
+   {
+    "stated_by": "rephaim",
+    "kind": "other",
+    "myth": "Royal admission among the Rephaim",
+    "note": "Kirta is promised a place among the Rephaim and Ditanu’s assembly.",
+    "source": "KTU 1.15 iii",
+    "date": "fourteenth–thirteenth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Kronos": [
+   {
+    "stated_by": "astarte",
+    "kind": "other",
+    "myth": "Philo’s divine government",
+    "note": "Astarte rules with other gods under Kronos’s consent.",
+    "source": "Philo via Eusebius, Preparation 1.10",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "baal_hadad",
+    "kind": "served",
+    "myth": "Reign of Adodos and Astarte",
+    "note": "Adodos and Astarte reign under Kronos's consent in Philo's learned system.",
+    "source": "Philo, Phoenician History",
+    "date": "late 1st–early 2nd century CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "baal_hammon",
+    "kind": "identified_with",
+    "myth": "Carthaginian sacrificial interpretatio",
+    "note": "Greek authors identify the Carthaginian recipient of child sacrifice as Kronos.",
+    "source": "Diodorus 20.14; Plutarch De superstitione",
+    "date": "first century BCE–second CE",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "el",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Philo explicitly equates the Phoenician Elus with Greek Kronos.",
+    "source": "Phoenician History 1.9–10",
+    "date": "late first–early second century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Kubaba": [
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Damaged Tell Sifr stela",
+    "note": "Resheph and Kubaba occur jointly, but damage obscures their relationship.",
+    "source": "Tell Sifr Aramaic stela",
+    "date": "first millennium BCE",
+    "tier": "attested"
+   }
+  ],
+  "Kulitta": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Kulitta occurs after Nikkal in a ritual offering sequence associated with Šauška.",
+    "source": "RS 24.261",
+    "date": "Late Bronze Age",
+    "tier": "canonical"
+   }
+  ],
+  "Kumarbi": [
+   {
+    "stated_by": "dagon",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Learned comparison associates both senior gods as fathers of storm gods; direct cultic identity is uncertain.",
+    "source": "Ancient learned comparisons",
+    "date": "",
+    "tier": "syncretism"
+   }
+  ],
+  "Kušuḫ": [
+   {
+    "stated_by": "nikkal",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Nikkal is paired with the Hurrian moon god as his spouse in ritual traditions.",
+    "source": "Kaluti and KTU 1.111",
+    "date": "fifteenth–thirteenth centuries BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yarikh",
+    "kind": "shared_myth",
+    "myth": "Hurro-Ugaritic sacrificial and betrothal rite",
+    "note": "Kušuḫ and Yarikh receive coordinated offerings while remaining distinct gods.",
+    "source": "KTU 1.111",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yarikh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Their lunar functions and association with Nikkal suggest partial equivalence, not identity.",
+    "source": "Late Bronze Age Ugaritic evidence",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Kāmaṯu": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom divine invocation",
+    "note": "Kāmaṯu and the pair are co-invoked without a narrated interaction.",
+    "source": "KTU 1.107",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Malik": [
+   {
+    "stated_by": "moloch",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholarship disputes whether Malik-like deities are cognates of biblical Molech.",
+    "source": "Mesopotamian and West Semitic texts",
+    "date": "third–second millennia BCE",
+    "tier": "modern"
+   }
+  ],
+  "Metharme": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Adonis is an ordinary son of Metharme in the Cypriot genealogy.",
+    "source": "Pseudo-Apollodorus, Library 3.14.3",
+    "date": "first–second century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Milku": [
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation sequence",
+    "note": "Milku is named among the divine recipients in Horon’s anti-venom sequence.",
+    "source": "KTU 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "rephaim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholars connect the Rephaim’s representative Rapiu with Milku; no narrative meeting survives.",
+    "source": "KTU 1.108; KTU 1.47/1.118",
+    "date": "modern scholarly reconstruction",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom divine invocation",
+    "note": "Milku and the pair are co-invoked without a narrated interaction.",
+    "source": "KTU 1.107",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Moirai": [
+   {
+    "stated_by": "adonis",
+    "kind": "shared_myth",
+    "myth": "The lament for Adonis",
+    "note": "The Fates are reproached or petitioned over Adonis’s death.",
+    "source": "Bion, Lament for Adonis",
+    "date": "late second–first century BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Molech": [
+   {
+    "stated_by": "chemosh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later interpreters conjecturally equate Chemosh with Molech through alleged sacrificial similarities.",
+    "source": "Older comparative scholarship",
+    "date": "modern scholarship",
+    "tier": "modern"
+   }
+  ],
+  "Mother of the Stallion/Mare": [
+   {
+    "stated_by": "shapash",
+    "kind": "other",
+    "myth": "Šapšu and the serpent cure",
+    "note": "The petitioner addresses Šapšu as mother and requests divine aid against venom.",
+    "source": "KTU 1.100",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Myrrha": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "Myrrha’s incest and the tree-birth",
+    "note": "Myrrha bears Adonis from within the tree into which she was transformed.",
+    "source": "Ovid, Metamorphoses 10",
+    "date": "ca. 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "Nahar": [
+   {
+    "stated_by": "lotan",
+    "kind": "shared_myth",
+    "myth": "Anat’s victory catalogue",
+    "note": "Nahar appears beside Lotan and related sea-dragon adversaries; no separate encounter survives.",
+    "source": "KTU 1.3 III",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Poetic parallelism treats Yam and Nahar as one opponent, though earlier independence is possible.",
+    "source": "KTU 1.1–1.2",
+    "date": "thirteenth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Nanaya": [
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Palmyrene triadic dedications",
+    "note": "Resheph and Nanaya appear together with Ḥirta in Palmyrene dedications.",
+    "source": "Palmyrene Aramaic dedications",
+    "date": "Roman period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ninatta": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Ninatta occurs after Nikkal in a ritual offering sequence associated with Šauška.",
+    "source": "RS 24.261",
+    "date": "Late Bronze Age",
+    "tier": "canonical"
+   }
+  ],
+  "Niqmaddu": [
+   {
+    "stated_by": "rephaim",
+    "kind": "shared_myth",
+    "myth": "The descent of the royal dead",
+    "note": "The deceased king Niqmaddu is summoned alongside the ancient Rephaim during succession rites.",
+    "source": "KTU 1.161",
+    "date": "late thirteenth–early twelfth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Nutrix Saturni": [
+   {
+    "stated_by": "tanit",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholars propose Tanit’s maternal aspect as an antecedent, but the identity is insecure.",
+    "source": "Roman African evidence",
+    "date": "Roman period",
+    "tier": "modern"
+   }
+  ],
+  "Og": [
+   {
+    "stated_by": "rephaim",
+    "kind": "other",
+    "myth": "Og, last of the Rephaim",
+    "note": "Og is characterized as the sole surviving remnant of the Rephaim.",
+    "source": "Deuteronomy 3; Joshua 12–13",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Oulomos": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "child_of",
+    "myth": "Mochos’s cosmogony",
+    "note": "Chousoros emerges as the offspring or emanation of Oulomos’s self-union.",
+    "source": "Damascius, De principiis 125",
+    "date": "early sixth century CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ouranos": [
+   {
+    "stated_by": "astarte",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Philo’s learned Phoenician-Greek genealogy makes Astarte a daughter of Ouranos.",
+    "source": "Philo via Eusebius, Preparation 1.10",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "baal",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Philo's Demarous is biologically Ouranos's son through a concubine given to Dagon.",
+    "source": "Philo of Byblos via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "baal_hadad",
+    "kind": "child_of",
+    "myth": "Genealogy of Zeus Demarous",
+    "note": "Philo makes Zeus Demarous, a Hadad-linked figure, actually the son of Ouranos.",
+    "source": "Philo, Phoenician History",
+    "date": "late 1st–early 2nd century CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "el",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Elus or Kronos is the son of Ouranos in Philo’s genealogy.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "el",
+    "kind": "fought",
+    "myth": "Phoenician succession myth",
+    "note": "Elus or Kronos rebels against, ambushes, and castrates Ouranos.",
+    "source": "Philo/Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Peor": [
+   {
+    "stated_by": "chemosh",
+    "kind": "identified_with",
+    "myth": "Milton’s fallen angels",
+    "note": "Milton makes Chemos a fallen angel and identifies him with Peor.",
+    "source": "Milton, Paradise Lost Book I",
+    "date": "1667",
+    "tier": "modern"
+   }
+  ],
+  "Phoenix": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "",
+    "note": "A lost Hesiodic tradition names Phoenix as Adonis’s father.",
+    "source": "Hesiod via Pseudo-Apollodorus 3.14.4",
+    "date": "preserved first–second century CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pidray": [
+   {
+    "stated_by": "baal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Pidray is named as one of Baal's three daughters.",
+    "source": "KTU 1.3–1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "baal_hadad",
+    "kind": "shared_myth",
+    "myth": "Baal's palace household",
+    "note": "Pidray appears among the female members of Baal's household.",
+    "source": "KTU 1.3–1.4",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kotharat",
+    "kind": "shared_myth",
+    "myth": "Marriage of Yarikh and Nikkal",
+    "note": "She is proposed as an alternative bride in the composition invoking the Kotharat.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "Alternative bride proposed to Yarikh",
+    "note": "Pidray is apparently offered to Yarikh instead of Nikkal, but Yarikh refuses her.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yarikh",
+    "kind": "other",
+    "myth": "Marriage of Nikkal and Yarikh",
+    "note": "Pidray is proposed as an alternative bride, but Yarikh refuses her.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Pontos": [
+   {
+    "stated_by": "baal",
+    "kind": "fought",
+    "myth": "Demarous battles Pontos",
+    "note": "Philo's Demarous fights Pontos in a Hellenized version of West Semitic sea combat.",
+    "source": "Philo of Byblos via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Philo’s Greek-named Pontos probably continues or interprets the Phoenician divine Sea.",
+    "source": "Philo via Eusebius, Praeparatio evangelica 1",
+    "date": "first–fourth centuries CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Qodesh-wa-Amrur": [
+   {
+    "stated_by": "asherah",
+    "kind": "served_by",
+    "myth": "Athirat’s journey to El",
+    "note": "Athirat’s attendant prepares and accompanies her journey, serving as messenger, driver, or fisherman.",
+    "source": "KTU 1.4 ii–iv",
+    "date": "13th–12th century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "baal",
+    "kind": "shared_myth",
+    "myth": "Athirat's diplomatic journey",
+    "note": "Athirat's divine attendant handles her conveyance during negotiations that secure Baal's palace.",
+    "source": "KTU 1.3–1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Qos": [
+   {
+    "stated_by": "milcom",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "MLKM and QWS occur together in a bilingual inscription, if MLKM denotes Milcom.",
+    "source": "Qasr Bayir bilingual inscription",
+    "date": "date uncertain",
+    "tier": "regional_variant"
+   }
+  ],
+  "Qudshu": [
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Egyptian triad stelae",
+    "note": "Resheph and Qudshu appear together in coordinated Egyptian cultic triads.",
+    "source": "Egyptian triad stelae",
+    "date": "13th–12th centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Qudšu": [
+   {
+    "stated_by": "asherah",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Older scholarship equated Athirat with Qudšu, but the identification is now heavily disputed.",
+    "source": "Egyptian plaques and modern studies",
+    "date": "Modern reconstruction",
+    "tier": "syncretism"
+   }
+  ],
+  "Qudšu-wa-Amrur": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "other",
+    "myth": "Palace of Baal",
+    "note": "Athirat's servant transports her to El, indirectly advancing Baal's palace request.",
+    "source": "KTU 1.4",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rahmay": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "shared_myth",
+    "myth": "Kirta’s royal celebration",
+    "note": "Kothar and Rahmay attend the festivities as divine co-guests.",
+    "source": "KTU 1.15",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "child_of",
+    "myth": "Reconstructed maternity in the birth narrative",
+    "note": "Rahmay is sometimes reconstructed as the second woman and mother.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Rakabʾel": [
+   {
+    "stated_by": "baal_hammon",
+    "kind": "allied",
+    "myth": "Kilamuwa’s curse",
+    "note": "Together they enforce the curse against anyone damaging Kilamuwa’s monument.",
+    "source": "KAI 24",
+    "date": "c. 825 BCE",
+    "tier": "attested"
+   }
+  ],
+  "Rapiu": [
+   {
+    "stated_by": "rephaim",
+    "kind": "other",
+    "myth": "Rapiu’s drinking rite",
+    "note": "Rapiu is invoked with or above the underworld Rephaim and may represent their leader.",
+    "source": "KTU 1.108",
+    "date": "fourteenth–thirteenth centuries BCE",
+    "tier": "attested"
+   }
+  ],
+  "Raḥmay": [
+   {
+    "stated_by": "asherah",
+    "kind": "shared_myth",
+    "myth": "Nursing of the gracious gods",
+    "note": "Athirat and Raḥmay appear together in a nursing formula for the gracious gods.",
+    "source": "KTU 1.23",
+    "date": "13th–12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Re": [
+   {
+    "stated_by": "anat",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The Egyptian Contendings identifies Anat and Astarte as daughters of Re.",
+    "source": "Papyrus Chester Beatty I",
+    "date": "c. 1150 BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "astarte",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Astarte and Anat are described as daughters of Re in Egyptian theology.",
+    "source": "Contendings of Horus and Seth",
+    "date": "twelfth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "qadesh",
+    "kind": "other",
+    "myth": "",
+    "note": "Qadesh bears the Egyptian theological epithet Eye of Re.",
+    "source": "Ramesside inscriptions",
+    "date": "Ramesside period",
+    "tier": "canonical"
+   }
+  ],
+  "Rephan": [
+   {
+    "stated_by": "moloch",
+    "kind": "shared_myth",
+    "myth": "Tent of Moloch and star of Rephan",
+    "note": "Moloch and Rephan appear together in the Greek Amos tradition.",
+    "source": "Greek Amos 5:26; Acts 7:43",
+    "date": "Hellenistic–first century CE",
+    "tier": "canonical"
+   }
+  ],
+  "Reshef-Melqart": [
+   {
+    "stated_by": "tanit",
+    "kind": "shared_myth",
+    "myth": "Successive Es Culleram sanctuary dedications",
+    "note": "Successive plaque inscriptions concern work for Reshef-Melqart and later for Tanit.",
+    "source": "Es Culleram bronze plaque",
+    "date": "fourth–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ruda": [
+   {
+    "stated_by": "resheph",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Aramaic evidence suggests a protective association or possible identification with Ruda.",
+    "source": "Aramaic inscriptions",
+    "date": "first millennium BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Shadrafa": [
+   {
+    "stated_by": "horon",
+    "kind": "other",
+    "myth": "Antas cultic complex",
+    "note": "Images of both gods may have been offered nearby, without documented joint action.",
+    "source": "Punic Antas material",
+    "date": "Punic period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Shalash": [
+   {
+    "stated_by": "dagon",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Shalash is Dagan's spouse and cultic partner in Syrian and Mesopotamian traditions.",
+    "source": "Offering traditions and god lists",
+    "date": "second millennium BCE and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sid Addir Babi": [
+   {
+    "stated_by": "horon",
+    "kind": "gift",
+    "myth": "Antas statue dedication",
+    "note": "A statue of Horon is apparently vowed to Sid in Sid’s sanctuary.",
+    "source": "Punic Antas inscription",
+    "date": "fourth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Smyrna": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "Smyrna’s incest and the myrrh-tree birth",
+    "note": "Smyrna becomes a myrrh tree and gives birth to Adonis.",
+    "source": "Panyasis via Pseudo-Apollodorus 3.14.4",
+    "date": "fifth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Storm-god": [
+   {
+    "stated_by": "el",
+    "kind": "other",
+    "myth": "Ašertu’s attempted seduction",
+    "note": "The Storm-god reports Ašertu’s conduct, and Elkunirša orders him to humiliate her.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "el",
+    "kind": "deceived",
+    "myth": "Plot against the Storm-god",
+    "note": "Elkunirša joins Ašertu in plotting against the Storm-god.",
+    "source": "CTH 342",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sydyk": [
+   {
+    "stated_by": "eshmun",
+    "kind": "child_of",
+    "myth": "The eighth son of Sydyk",
+    "note": "Sydyk fathers Eshmun, presented as the eighth son and brother of the Cabiri.",
+    "source": "Philo via Eusebius, Praeparatio Evangelica 1.10",
+    "date": "ca. 100 CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Tallay": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "shared_myth",
+    "myth": "Baal's palace household",
+    "note": "Tallay appears among the female members of Baal's household.",
+    "source": "KTU 1.3–1.4",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tanit’s Gad": [
+   {
+    "stated_by": "tanit",
+    "kind": "shared_myth",
+    "myth": "Worship of Tanit and her Gad",
+    "note": "Tanit is worshipped alongside her fortune, tutelary genius, or divine efficacy.",
+    "source": "Es Culleram inscription",
+    "date": "fourth–second centuries BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tarḫunt": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Hittite-Luwian traditions equated Hadad with their weather-god in multilingual contexts.",
+    "source": "Syrian-Anatolian lists and inscriptions",
+    "date": "Bronze and Iron Ages",
+    "tier": "syncretism"
+   }
+  ],
+  "Teššub": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Multilingual scribal and cultic systems translated Hadad through the Hurrian storm-god.",
+    "source": "Syrian-Anatolian lists and cults",
+    "date": "Bronze and Iron Ages",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "At Ankuwa, Nikkal receives offerings within Teššub's circle rather than Ḫepat's.",
+    "source": "Hittite ritual administration",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Gracious Gods": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "sibling_of",
+    "myth": "Second birth of the voracious gods",
+    "note": "Probably distinct later offspring of El and the same women.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "identified_with",
+    "myth": "Birth of the Gracious Gods",
+    "note": "A disputed interpretation identifies Šaḥar and Šalim with the Gracious Gods.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Mare": [
+   {
+    "stated_by": "horon",
+    "kind": "rescued",
+    "myth": "Horon and the serpent",
+    "note": "Horon neutralizes the serpent poison threatening the Mare or her offspring.",
+    "source": "KTU 1.100",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "horon",
+    "kind": "consort_of",
+    "myth": "Marriage negotiations after the serpent cure",
+    "note": "Horon enters marriage negotiations with her, though no permanent union is established.",
+    "source": "KTU 1.100",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "The gracious gods": [
+   {
+    "stated_by": "asherah",
+    "kind": "other",
+    "myth": "Birth and nursing of the gracious gods",
+    "note": "The voracious gracious gods receive milk from Athirat and Raḥmay.",
+    "source": "KTU 1.23",
+    "date": "13th–12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "The seventy gods": [
+   {
+    "stated_by": "asherah",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The seventy gods constitute Athirat’s offspring or divine clan, though the synthesis is partly reconstructive.",
+    "source": "KTU 1.4 vi and related formulas",
+    "date": "13th–12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "The stars": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Offering after the pair's birth",
+    "note": "The birth is followed by a disputed instruction involving Šapšu and the stars.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Theias": [
+   {
+    "stated_by": "adonis",
+    "kind": "child_of",
+    "myth": "Smyrna’s incest and the myrrh-tree birth",
+    "note": "Adonis is conceived through Smyrna’s incestuous union with her father Theias.",
+    "source": "Panyasis via Pseudo-Apollodorus 3.14.4",
+    "date": "fifth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Thukamuna-and-Shunama": [
+   {
+    "stated_by": "el",
+    "kind": "rescued_by",
+    "myth": "Drunken El",
+    "note": "Thukamuna-and-Shunama support the intoxicated El and help him home.",
+    "source": "KTU 1.114",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Tunnan": [
+   {
+    "stated_by": "anat",
+    "kind": "fought",
+    "myth": "Anat's victory boast",
+    "note": "Anat boasts that she crushed the twisting sea monster Tunnan.",
+    "source": "KTU 1.3 III",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "lotan",
+    "kind": "identified_with",
+    "myth": "Serpent and dragon victory catalogue",
+    "note": "Tunnan may be another name for Lotan, though it may instead be distinct.",
+    "source": "KTU 1.3 III",
+    "date": "Late Bronze Age",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "shapash",
+    "kind": "shared_myth",
+    "myth": "Protective incantation",
+    "note": "Šapšu appears among protective powers against a hostile complex including Tunnan.",
+    "source": "KTU 1.82",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tunnanu": [
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Damaged dangerous-power incantation",
+    "note": "The sea-serpent appears in Horon’s magical field, without recoverable direct combat.",
+    "source": "KTU 1.82",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "identified_with",
+    "myth": "Aquatic enemies recalled",
+    "note": "Yam is closely associated or possibly identified with Tunnanu; their exact relationship remains disputed.",
+    "source": "KTU 1.83",
+    "date": "thirteenth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Tyros": [
+   {
+    "stated_by": "melqart",
+    "kind": "shared_myth",
+    "myth": "Discovery of Tyrian purple",
+    "note": "Tyros demands a robe matching the purple color produced by Melqart's dog.",
+    "source": "Later Greco-Roman purple-dye tale",
+    "date": "Greco-Roman period",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ugar": [
+   {
+    "stated_by": "baal",
+    "kind": "served_by",
+    "myth": "Palace and Mot communications",
+    "note": "Baal dispatches Ugar as a divine messenger during palace negotiations and communications with Mot.",
+    "source": "KTU 1.3–1.5",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "shared_myth",
+    "myth": "Summoning Kothar",
+    "note": "Ugar carries Baal’s message to Kothar at his distant residence.",
+    "source": "KTU 1.3 VI",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ugaru": [
+   {
+    "stated_by": "baal_hadad",
+    "kind": "served_by",
+    "myth": "Messages to Mot",
+    "note": "Baal sends Ugaru as one of his paired messengers to Mot.",
+    "source": "KTU 1.4–1.5",
+    "date": "13th–early 12th century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Umbu": [
+   {
+    "stated_by": "nikkal",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Hurrian sequences placing Umbu before Nikkal most plausibly designate them as a divine couple.",
+    "source": "Hurrian offering traditions",
+    "date": "second millennium BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Upper God": [
+   {
+    "stated_by": "nikkal",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "The Egyptian healing spell calls Nikkal the wife of this foreign god, probably a moon deity.",
+    "source": "Papyrus Leiden I 343 + I 345",
+    "date": "early Nineteenth Dynasty",
+    "tier": "regional_variant"
+   }
+  ],
+  "YHWH": [
+   {
+    "stated_by": "chemosh",
+    "kind": "theft",
+    "myth": "Conquest of Nebo",
+    "note": "YHWH’s captured cult vessels are carried before Chemosh after Nebo’s destruction.",
+    "source": "Mesha Stela lines 17–18",
+    "date": "c. 840 BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "chemosh",
+    "kind": "contest",
+    "myth": "Jephthah’s territorial argument",
+    "note": "Chemosh and YHWH are rhetorically juxtaposed as rival grantors of territory.",
+    "source": "Judges 11:24",
+    "date": "monarchic through exilic",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "dagon",
+    "kind": "punished_by",
+    "myth": "Dagon and the Ark",
+    "note": "Dagon's image falls before YHWH's Ark and is found beheaded and dismembered.",
+    "source": "1 Samuel 5",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "moloch",
+    "kind": "other",
+    "myth": "Prohibition and judgment of Molech worship",
+    "note": "YHWH prohibits offerings to Molech and threatens offenders with expulsion.",
+    "source": "Leviticus 18:21; 20:2–5",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "moloch",
+    "kind": "other",
+    "myth": "Repudiation of the Jerusalem Molech rite",
+    "note": "YHWH condemns passing children to Molech and denies commanding it.",
+    "source": "Jeremiah 32:35",
+    "date": "exilic or later",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rephaim",
+    "kind": "killed_by",
+    "myth": "Conquest of Rephaite peoples",
+    "note": "YHWH destroys Rephaite-related populations and transfers their territories to Moab, Ammon, and Israel.",
+    "source": "Deuteronomy 2–3; Joshua 12–13",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "rephaim",
+    "kind": "other",
+    "myth": "Powerless shades in Sheol",
+    "note": "The dead Rephaim cannot rise or praise YHWH, emphasizing their impotence.",
+    "source": "Psalm 88; Isaiah 26",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "fought",
+    "myth": "YHWH divides Sea",
+    "note": "YHWH divides personified Sea while crushing dragons and Leviathan.",
+    "source": "Psalm 74:13–14",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "punished_by",
+    "myth": "YHWH rules the raging sea",
+    "note": "YHWH controls the raging Sea as an expression of incomparable kingship.",
+    "source": "Psalm 89:9–10",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "punished_by",
+    "myth": "Divine power stills Sea",
+    "note": "Divine power stills personified Sea and strikes Rahab.",
+    "source": "Job 26:12–13",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "fought",
+    "myth": "YHWH marches against Sea and Rivers",
+    "note": "YHWH advances against Sea and Rivers in storm-warrior imagery.",
+    "source": "Habakkuk 3:8–15",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yam",
+    "kind": "punished_by",
+    "myth": "Sea combat becomes Exodus deliverance",
+    "note": "YHWH dries Sea, transforming primordial combat imagery into Exodus deliverance.",
+    "source": "Isaiah 51:9–10",
+    "date": "exilic or post-exilic",
+    "tier": "canonical"
+   }
+  ],
+  "Yabdaray": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "Alternative bride proposed to Yarikh",
+    "note": "Yabdaray is apparently offered to Yarikh instead of Nikkal, but Yarikh refuses her.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Yahu": [
+   {
+    "stated_by": "anat",
+    "kind": "other",
+    "myth": "",
+    "note": "Anat-Yahu may denote consortship, hypostasis, or a compound divine title.",
+    "source": "Elephantine Aramaic material",
+    "date": "fifth century BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "Yahweh": [
+   {
+    "stated_by": "asherah",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Regional blessings associate Yahweh with his ʾšrth, possibly a consort, manifestation, or cult symbol.",
+    "source": "Kuntillet ʿAjrud; Khirbet el-Qom",
+    "date": "9th–8th centuries BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baal",
+    "kind": "contest",
+    "myth": "Elijah's contest on Carmel",
+    "note": "Their worshippers contest which deity answers by fire and controls rain; the gods never meet directly.",
+    "source": "1 Kings 18",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "el",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Hebrew texts identify Yahweh with El’s titles, attributes, and patriarchal identity.",
+    "source": "Exodus 6:2–3",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "el",
+    "kind": "gift",
+    "myth": "Apportionment of the nations",
+    "note": "One disputed reading makes El or Elyon allot Israel to Yahweh.",
+    "source": "Deuteronomy 32:8–9",
+    "date": "first millennium BCE",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "lotan",
+    "kind": "killed_by",
+    "myth": "Yahweh defeats the biblical Leviathan",
+    "note": "Yahweh assumes the dragon-slayer role against Leviathan, Lotan’s later Hebrew heir.",
+    "source": "Psalm 74:13–14; Isaiah 27:1",
+    "date": "First millennium BCE",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "milcom",
+    "kind": "judged_by",
+    "myth": "Yahweh condemns Solomon’s worship of Milcom",
+    "note": "Yahweh condemns Milcom’s worship and announces the division of Solomon’s kingdom.",
+    "source": "1 Kings 11:5, 9–13, 31–33",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "resheph",
+    "kind": "served",
+    "myth": "Yahweh’s cosmic march",
+    "note": "Resheph marches at Yahweh’s feet as a subordinated pestilential attendant.",
+    "source": "Habakkuk 3:5",
+    "date": "first millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Yamm": [
+   {
+    "stated_by": "asherah",
+    "kind": "shared_myth",
+    "myth": "Deliberations over Yamm’s kingship",
+    "note": "Athirat may participate in deliberations about Yamm’s kingship; her sea-related title remains disputed.",
+    "source": "KTU 1.1; recurring epithet",
+    "date": "13th–12th century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "el",
+    "kind": "allied",
+    "myth": "Contest for divine kingship",
+    "note": "El favors Yamm’s kingship and calls him Beloved of El.",
+    "source": "KTU 1.1–1.2",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "el",
+    "kind": "gift",
+    "myth": "Yamm’s proposed palace",
+    "note": "El authorizes construction of a dwelling for Yamm.",
+    "source": "KTU 1.1",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shapash",
+    "kind": "other",
+    "myth": "Yamm’s appointment",
+    "note": "Šapšu reports or mediates El’s appointment of Yamm; no combat occurs.",
+    "source": "KTU 1.2 iii",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yammu": [
+   {
+    "stated_by": "baal",
+    "kind": "fought",
+    "myth": "Conflict for divine kingship",
+    "note": "Baal strikes Yammu with Kothar's clubs, defeats him, and secures kingship.",
+    "source": "KTU 1.1–1.2",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Zabib": [
+   {
+    "stated_by": "anat",
+    "kind": "fought",
+    "myth": "Anat's victory boast",
+    "note": "Anat includes the female enemy Zabib in her catalogue of victories.",
+    "source": "KTU 1.3 III",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Zamzummim": [
+   {
+    "stated_by": "rephaim",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The Ammonite name Zamzummim designates inhabitants regarded as Rephaim.",
+    "source": "Deuteronomy 2:20–21",
+    "date": "seventh–sixth centuries BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Zeus Arotrios": [
+   {
+    "stated_by": "dagon",
+    "kind": "identified_with",
+    "myth": "Dagon discovers grain and the plough",
+    "note": "Philo identifies the agricultural culture-bringer Dagon with Ploughman Zeus.",
+    "source": "Philo via Eusebius",
+    "date": "first–fourth centuries CE",
+    "tier": "syncretism"
+   }
+  ],
+  "Zeus Demarous": [
+   {
+    "stated_by": "astarte",
+    "kind": "allied",
+    "myth": "Philo’s divine government",
+    "note": "Astarte and Zeus Demarous rule jointly with Adodos under Kronos.",
+    "source": "Philo via Eusebius, Preparation 1.10",
+    "date": "second–fourth centuries CE",
+    "tier": "late_accretion"
+   }
+  ],
+  "Zeus Meilichios": [
+   {
+    "stated_by": "kothar_wa_khasis",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Philo reports that Chousor was honored or interpreted as Zeus Meilichios.",
+    "source": "Philo, Phoenician History",
+    "date": "late first–early second century CE",
+    "tier": "syncretism"
+   }
+  ],
+  "boar": [
+   {
+    "stated_by": "adonis",
+    "kind": "killed_by",
+    "myth": "The fatal hunt",
+    "note": "A wounded boar gores Adonis in the groin and kills him.",
+    "source": "Ovid, Metamorphoses 10",
+    "date": "ca. 8 CE",
+    "tier": "canonical"
+   }
+  ],
+  "serpent/venom deities": [
+   {
+    "stated_by": "astarte",
+    "kind": "allied",
+    "myth": "Divine aid against snakebite",
+    "note": "Localized Astartes participate with divine powers in ritual sequences countering snake venom.",
+    "source": "KTU 1.100 and 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "the holy gods of Byblos": [
+   {
+    "stated_by": "baalat_gebal",
+    "kind": "shared_myth",
+    "myth": "Joint guardianship of Yehimilk",
+    "note": "Baalat Gebal and Byblos’s divine assembly are invoked to preserve Yehimilk.",
+    "source": "KAI 4",
+    "date": "c. 950–920 BCE",
+    "tier": "attested"
+   }
+  ],
+  "the sons of El": [
+   {
+    "stated_by": "el",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "El is the corporate father and patriarch of the divine assembly.",
+    "source": "Ugaritic mythological texts",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Šagar": [
+   {
+    "stated_by": "attar",
+    "kind": "shared_myth",
+    "myth": "Šagar-and-Ashtar paired mention",
+    "note": "A damaged passage pairs Šagar with an Ashtar or Ishtar form without narrative action.",
+    "source": "Dayr ʿAllā plaster inscriptions",
+    "date": "eighth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Šamaš": [
+   {
+    "stated_by": "shapash",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Multilingual god lists equate Šapšu with the normally male Akkadian solar god Šamaš.",
+    "source": "Multilingual god lists",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Šapšu": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Offering after the pair's birth",
+    "note": "An offering or presentation before Šapšu and the stars follows their birth.",
+    "source": "KTU 1.23",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "served_by",
+    "myth": "Anti-venom message",
+    "note": "Šapšu carries an appeal to the pair in heaven against serpent venom.",
+    "source": "KTU 1.100",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Šassūrātu": [
+   {
+    "stated_by": "kotharat",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A multilingual god list treats Šassūrātu as the Kotharat’s Akkadian counterpart.",
+    "source": "RS 20.24",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Šauška": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Nikkal receives offerings in a mixed ritual centered on Šauška and Ashtart.",
+    "source": "RS 24.261",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Šaʿtiqatu": [
+   {
+    "stated_by": "el",
+    "kind": "created",
+    "myth": "Healing of Kirta",
+    "note": "El creates the female healing being when the assembled gods cannot cure Kirta.",
+    "source": "KTU 1.16 V–VI",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "ʿAshtar": [
+   {
+    "stated_by": "chemosh",
+    "kind": "identified_with",
+    "myth": "Ban of Nebo",
+    "note": "The compound ʿAshtar-Chemosh receives Nebo under the sacred ban.",
+    "source": "Mesha Stela line 17",
+    "date": "c. 840 BCE",
+    "tier": "syncretism"
+   }
+  ],
+  "ʿAthtapar": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom divine invocation",
+    "note": "ʿAthtapar and the pair occur in the same divine sequence.",
+    "source": "KTU 1.107",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "ʿAthtart": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom divine invocation",
+    "note": "ʿAthtart and the pair are co-invoked against poison.",
+    "source": "KTU 1.107",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Ḏāt Ḥimyam": [
+   {
+    "stated_by": "attar",
+    "kind": "allied",
+    "myth": "Collective South Arabian invocations",
+    "note": "Athtar appears with Ḏāt Ḥimyam in invocations protecting dedicants, families, and property.",
+    "source": "South Arabian inscriptions",
+    "date": "first millennium BCE–early centuries CE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ḥirta": [
+   {
+    "stated_by": "resheph",
+    "kind": "shared_myth",
+    "myth": "Palmyrene triadic dedications",
+    "note": "Resheph and Ḥirta appear together with Nanaya in Palmyrene dedications.",
+    "source": "Palmyrene Aramaic dedications",
+    "date": "Roman period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ḫarḫab": [
+   {
+    "stated_by": "kotharat",
+    "kind": "shared_myth",
+    "myth": "Marriage of Yarikh and Nikkal",
+    "note": "Nikkal’s father is named in the wedding composition invoking the Kotharat.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ḫepat": [
+   {
+    "stated_by": "nikkal",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Nikkal belongs to Ḫepat's ordered offering circle without an asserted blood relationship.",
+    "source": "Hurro-Hittite kaluti",
+    "date": "second millennium BCE",
+    "tier": "canonical"
+   }
+  ],
+  "Ḫiriḫibi": [
+   {
+    "stated_by": "kotharat",
+    "kind": "shared_myth",
+    "myth": "Marriage of Yarikh and Nikkal",
+    "note": "He negotiates Yarikh’s marriage in the composition that invokes the Kotharat.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ḫirḫib": [
+   {
+    "stated_by": "nikkal",
+    "kind": "child_of",
+    "myth": "The Wedding of Nikkal and Yarikh",
+    "note": "Nikkal is his daughter; he negotiates her marriage and proposes alternative brides to Yarikh.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ḫirḫibi": [
+   {
+    "stated_by": "yarikh",
+    "kind": "other",
+    "myth": "Marriage of Nikkal and Yarikh",
+    "note": "Yarikh negotiates with Nikkal’s father, who initially proposes another bride.",
+    "source": "KTU 1.24",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ḫutena and Ḫutellura": [
+   {
+    "stated_by": "kotharat",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Multilingual god-list tradition treats the Hurrian birth and fate goddesses as counterparts.",
+    "source": "Ugaritic multilingual god-list tradition",
+    "date": "Late Bronze Age",
+    "tier": "syncretism"
+   }
+  ],
+  "Ṭallay": [
+   {
+    "stated_by": "baal",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Ṭallay is named as one of Baal's three daughters.",
+    "source": "KTU 1.3–1.4",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ],
+  "Ẓiẓẓu": [
+   {
+    "stated_by": "shahar_and_shalim",
+    "kind": "shared_myth",
+    "myth": "Anti-venom divine invocation",
+    "note": "Ẓiẓẓu and the pair are co-invoked without a narrated interaction.",
+    "source": "KTU 1.107",
+    "date": "Late Bronze Age",
+    "tier": "attested"
+   }
+  ],
+  "Ẓiẓẓu-wa-Kāmaṯu": [
+   {
+    "stated_by": "horon",
+    "kind": "shared_myth",
+    "myth": "Anti-venom invocation sequence",
+    "note": "These obscure paired figures occur within the invocation series headed by Horon.",
+    "source": "KTU 1.107",
+    "date": "thirteenth century BCE",
+    "tier": "attested"
+   }
+  ]
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "subject": "ennead",
+ "relations": [
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Atum-Khepri",
+    "Re-Atum"
+   ],
+   "kind": "created_by",
+   "myth": "Production of the Great Ennead",
+   "note": "Atum generates and unifies the Great Ennead through his descendants.",
+   "source": "Pyramid Text 600",
+   "date": "23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Atum-Khepri",
+    "Re-Atum"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tribunal of Horus and Seth",
+   "note": "Atum addresses or presides over the divine tribunal deciding succession.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Firstborn supporter of cosmic order",
+   "note": "Shu appears within or before the Ennead as cosmic supporter.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recognition of hereditary divine rank",
+   "note": "The Ennead assigns rank according to Geb's hereditary authority.",
+   "source": "Pyramid Text 468",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Vindication of Osiris",
+   "note": "The Ennead hears and vindicates Osiris and his royal analogue.",
+   "source": "Pyramid Texts 577 and 593",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Osiris threatens the tribunal",
+   "note": "Osiris sends a forceful letter demanding judgment for Horus.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Isis manipulates the succession tribunal",
+   "note": "Isis deceives and manipulates the tribunal to secure Horus's succession.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Set"
+   ],
+   "kind": "judged",
+   "myth": "Tribunal of Horus and Seth",
+   "note": "The Ennead hears Seth's claim and subjects him to ordeals.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Horus receives Osiris's office",
+   "note": "The Ennead recognizes Horus's claim and awards him Osiris's office.",
+   "source": "Pyramid Texts; Contendings",
+   "date": "third millennium–c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Thoth advocates before the Ennead",
+   "note": "Thoth serves as the Ennead's scribe and advocates for Osiris.",
+   "source": "PT 577; Contendings",
+   "date": "third millennium–c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Re-Horakhty"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solar judge presides over tribunal",
+   "note": "Re presides over, debates with, and becomes angered at the tribunal.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Neith advises the succession tribunal",
+   "note": "Neith recommends Horus receive Osiris's office and Seth receive companions.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hathor revives the solar judge",
+   "note": "Hathor restores the offended judge's humor, allowing deliberations to resume.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Banebdjedet",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Banebdjedet advises referral to Neith",
+   "note": "Banebdjedet advises the tribunal to consult Neith or senior authority.",
+   "source": "Contendings of Horus and Seth",
+   "date": "c. 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Memphite creation through heart and tongue",
+   "note": "Ptah enables Atum and the Ennead, represented as his teeth and lips.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [
+    "Amun"
+   ],
+   "kind": "other",
+   "myth": "Expanded Karnak Ennead",
+   "note": "Amun-Re heads or absorbs the Heliopolitan sequence at Karnak.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Montu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Expanded Karnak Ennead",
+   "note": "Montu precedes the inherited Heliopolitan gods in some Karnak lists.",
+   "source": "Karnak temple scenes",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expanded Theban Ennead",
+   "note": "Sobek joins an expanded local Ennead in Theban theology.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tjenenet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expanded Theban Ennead",
+   "note": "Tjenenet joins an expanded local Ennead in Theban theology.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iunit",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expanded Theban Ennead",
+   "note": "Iunit joins an expanded local Ennead in Theban theology.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Expanded Theban Ennead",
+   "note": "A local form of Hathor joins expanded Theban Enneads.",
+   "source": "Karnak inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus of Edfu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Triumph of Horus at Edfu",
+   "note": "Great and Lesser Enneads accompany, acclaim, and assist Horus.",
+   "source": "Edfu temple inscriptions",
+   "date": "237–57 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis of Philae",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Isis-centered Philae divine company",
+   "note": "Local divine companies incorporating Osirian gods center upon Isis.",
+   "source": "Philae temple inscriptions",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apep",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ritual opposition to Apep",
+   "note": "Divine companies participate collectively in rites opposing Apep.",
+   "source": "Bremner–Rhind Papyrus",
+   "date": "311 BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

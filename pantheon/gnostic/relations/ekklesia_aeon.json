@@ -1,0 +1,263 @@
+{
+ "subject": "ekklesia_aeon",
+ "relations": [
+  {
+   "other": "Logos",
+   "other_aliases": [
+    "Sermo"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Logos and Zoe emanate Ekklesia together with Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [
+    "Vita"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zoe and Logos emanate Ekklesia together with Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Monogenes"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ekklesia descends from Nous through Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aletheia",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ekklesia descends from Aletheia through Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anthropos",
+   "other_aliases": [
+    "Homo"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Anthropos and Ekklesia are emanated together by Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anthropos",
+   "other_aliases": [
+    "Homo"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Anthropos is Ekklesia's syzygetic partner and co-progenitor.",
+   "source": "Irenaeus, Against Heresies 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Parakletos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Parakletos with Pistis.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pistis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Pistis with Parakletos.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patrikos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Patrikos with Elpis.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Elpis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Elpis with Patrikos.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Metrikos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Metrikos with Agape.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agape",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Agape with Metrikos.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ainos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Ainos with Synesis.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Synesis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Synesis with Ainos.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ekklesiastikos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Ekklesiastikos with Makariotes.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Makariotes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Makariotes with Ekklesiastikos.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theletos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Theletos with Sophia.",
+   "source": "Irenaeus, Against Heresies 1.1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ekklesia and Anthropos generate Sophia as the Dodecad's final offspring.",
+   "source": "Irenaeus, Against Heresies 1.1–2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Savior"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some reported Valentinians derive Jesus from Ekklesia and Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.11",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Savior",
+   "other_aliases": [
+    "Jesus"
+   ],
+   "kind": "other",
+   "myth": "The Church becomes the Savior's body",
+   "note": "The Church or spiritual seed is interpreted as the Savior's flesh or body.",
+   "source": "Excerpta ex Theodoto 1, 4, 26, 58",
+   "date": "late second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Father",
+   "other_aliases": [
+    "unknowable Father"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The pre-existent Church proceeds as the innumerable issue of Father and Son.",
+   "source": "Tripartite Tractate 57–59",
+   "date": "third century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Son",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The pre-existent Church proceeds as the innumerable issue of Father and Son.",
+   "source": "Tripartite Tractate 57–59",
+   "date": "third century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Pleromatic Christ"
+   ],
+   "kind": "other",
+   "myth": "Manifestation through the Savior's body",
+   "note": "The spiritual Church is joined to Christ or corporately manifested through his body.",
+   "source": "Excerpta ex Theodoto; Irenaeus 1.6–7",
+   "date": "late second century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration and instruction of the aeons",
+   "note": "Ekklesia shares the Pleromatic scene where Christ and Holy Spirit restore order.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "subject": "glaucus_sea",
+ "relations": [
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later tradition interprets Glaucus' dependence on Nereus as filial.",
+   "source": "Later scholia on Euripides",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Copeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A regional genealogy names the Anthedonian Copeus as Glaucus' father.",
+   "source": "Theolytus, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Polybus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Polybus, himself a son of Hermes, is named Glaucus' father.",
+   "source": "Promathidas, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Euboea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Euboea, daughter of Larymnus, is named Glaucus' mother.",
+   "source": "Promathidas, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anthedon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The city-eponym Anthedon is named as Glaucus' father.",
+   "source": "Mnaseas, preserved by Athenaeus",
+   "date": "late third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcyone",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Alcyone is named as Glaucus' sea-associated mother.",
+   "source": "Mnaseas, preserved by Athenaeus",
+   "date": "late third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Poseidon fathers Glaucus by the nymph Naïs.",
+   "source": "Euanthes, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Naïs",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The nymph Naïs bears Glaucus to Poseidon.",
+   "source": "Euanthes, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Glaucus is Hermes' grandson through his alleged father Polybus.",
+   "source": "Promathidas, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Deiphobe",
+   "other_aliases": [
+    "Cumaean Sibyl"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Virgil calls Deiphobe daughter of Glaucus, probably the sea-god.",
+   "source": "Virgil, Aeneid 6.35–36",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Syme",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Abduction and settlement of Syme",
+   "note": "Glaucus abducts Syme, settles an island, and names it after her.",
+   "source": "Mnaseas, preserved by Athenaeus",
+   "date": "late third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Glaucus loves Ariadne on Dia",
+   "note": "Glaucus courts Ariadne until Dionysus defeats and binds him.",
+   "source": "Theolytus, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Union after Theseus abandons Ariadne",
+   "note": "Glaucus has intercourse with Ariadne after Theseus abandons her.",
+   "source": "Euanthes, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hydne",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Glaucus' love for Hydne",
+   "note": "Glaucus loves Hydne, daughter of the diver Scyllias.",
+   "source": "Aeschrion, preserved by Athenaeus",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Courtship gifts in Scylla's cave",
+   "note": "Glaucus brings Scylla shells and young kingfishers as courtship gifts.",
+   "source": "Hedyle, Scylla, preserved by Athenaeus",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Glaucus unsuccessfully courts Scylla",
+   "note": "Glaucus pleads for Scylla's love, but his transformed body frightens her.",
+   "source": "Ovid, Metamorphoses 13.898–968",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Scylla's transformation by Circe",
+   "note": "Glaucus mourns Scylla after Circe transforms her into a monster.",
+   "source": "Ovid, Metamorphoses 14.1–74",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Circe offers herself to Glaucus",
+   "note": "Circe propositions Glaucus when he requests a love charm for Scylla.",
+   "source": "Ovid, Metamorphoses 14.1–74",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Glaucus requests a charm for Scylla",
+   "note": "Glaucus asks Circe to make Scylla reciprocate his love.",
+   "source": "Ovid, Metamorphoses 14.1–74",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Melicertes/Palaemon",
+   "other_aliases": [
+    "Melicertes",
+    "Palaemon"
+   ],
+   "kind": "seduced",
+   "myth": "Leap into the sea for Melicertes",
+   "note": "Glaucus enters the sea because of his love for Melicertes.",
+   "source": "Hedylus, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melicertes/Palaemon",
+   "other_aliases": [
+    "Melicertes",
+    "Palaemon"
+   ],
+   "kind": "identified_with",
+   "myth": "Melicertes renamed Glaucus",
+   "note": "Nicanor explicitly says that Melicertes' name was changed to Glaucus.",
+   "source": "Nicanor, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Melicertes/Palaemon",
+   "other_aliases": [
+    "Melicertes",
+    "Palaemon"
+   ],
+   "kind": "allied",
+   "myth": "Marine gods propel Aeneas' fleet",
+   "note": "Glaucus and Palaemon jointly help propel Aeneas' fleet.",
+   "source": "Virgil, Aeneid 5.822–826",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Prophecy of Agamemnon's murder",
+   "note": "As Nereus' prophet, Glaucus reports Agamemnon's murder to Menelaus.",
+   "source": "Euripides, Orestes 362–369",
+   "date": "408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Prophecy beside the Argo",
+   "note": "Glaucus speaks as Nereus' wise interpreter and explains Zeus' plan.",
+   "source": "Apollonius, Argonautica 1.1309–1328",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Nereus' love for Glaucus",
+   "note": "Nereus is said to love Glaucus.",
+   "source": "Nicander, Europia 3",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nereids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Shared Delian oracle",
+   "note": "Glaucus settles with the Nereids at Delos and gives prophecies.",
+   "source": "Aristotle, Constitution of Delos",
+   "date": "fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Poseidon's marine retinue",
+   "note": "Glaucus serves as an attendant in Poseidon's marine company.",
+   "source": "Nonnus, Dionysiaca 43.81",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception into the marine realm",
+   "note": "Later elaboration places Glaucus among gods accepted into Amphitrite's marine realm.",
+   "source": "Later Latin elaboration",
+   "date": "Roman or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Purification and apotheosis",
+   "note": "Oceanus helps purify Glaucus and remove his mortality.",
+   "source": "Ovid, Metamorphoses 13.950–968",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Purification and apotheosis",
+   "note": "Tethys purifies Glaucus with Oceanus, completing his divine transformation.",
+   "source": "Ovid, Metamorphoses 13.950–968",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Apotheosis after the Tyrrhenian battle",
+   "note": "By Zeus' decree Glaucus disappears underwater and becomes a marine divinity.",
+   "source": "Possis, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Storm prompts Glaucus' sea-leap",
+   "note": "Zeus sends the storm during which the maddened Glaucus enters the sea.",
+   "source": "Nicander, Aetolian History 1",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Glaucus teaches Apollo prophecy",
+   "note": "A striking minority tradition makes Apollo Glaucus' pupil in divination.",
+   "source": "Nicander, Aetolian History 1",
+   "date": "second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Helios' immortal herb",
+   "note": "Glaucus eats the herb grown for Helios and fed to his horses.",
+   "source": "Alexander Aetolus, preserved by Athenaeus",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cronus' immortality plant",
+   "note": "Glaucus gains immortality from dog’s-tooth grass originally sown by Cronus.",
+   "source": "Aeschrion, preserved by Athenaeus",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rivalry over Ariadne",
+   "note": "Dionysus defeats Glaucus during their rivalry over Ariadne.",
+   "source": "Theolytus, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Bound with Dionysian vines",
+   "note": "Dionysus binds Glaucus with vine tendrils, then releases him after supplication.",
+   "source": "Theolytus, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marine forces in the Indian war",
+   "note": "Glaucus participates in marine forces and festivities within Dionysus' Indian-war cycle.",
+   "source": "Nonnus, Dionysiaca 43",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marine gods propel Aeneas' fleet",
+   "note": "Glaucus and Proteus appear together among helpful marine powers.",
+   "source": "Virgil, Aeneid 5.822–826",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proteus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Poseidon's late marine company",
+   "note": "Glaucus and Proteus appear together in Nonnus' marine company.",
+   "source": "Nonnus, Dionysiaca 1 and 43",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tritons",
+   "other_aliases": [
+    "Triton"
+   ],
+   "kind": "allied",
+   "myth": "Marine gods propel Aeneas' fleet",
+   "note": "Glaucus and the Tritons jointly help propel Aeneas' ships.",
+   "source": "Virgil, Aeneid 5.822–826",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marine gods propel Aeneas' fleet",
+   "note": "Glaucus acts beside Thetis' company in aiding Aeneas' fleet.",
+   "source": "Virgil, Aeneid 5.822–826",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Panopea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Marine gods propel Aeneas' fleet",
+   "note": "Glaucus and Panopea jointly help drive Aeneas' ships onward.",
+   "source": "Virgil, Aeneid 5.823",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Epiphany after Orpheus' storm-prayer",
+   "note": "Glaucus appears and prophesies after Orpheus invokes the Samothracian gods.",
+   "source": "Diodorus, Library 4.48.6–7",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prophecy beside the Argo",
+   "note": "Glaucus prophesies beside the Argo while Orpheus calms the sea.",
+   "source": "Philostratus, Imagines 2.15",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy of Heracles' destiny",
+   "note": "Glaucus foretells Heracles' remaining labors and eventual immortality.",
+   "source": "Apollonius, Argonautica 1.1315–1320",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Argonautic prophecy during the storm",
+   "note": "Glaucus again prophesies Heracles' labors and future immortality.",
+   "source": "Diodorus, Library 4.48.6",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor and Polydeuces",
+   "other_aliases": [
+    "Dioscuri"
+   ],
+   "kind": "other",
+   "myth": "Prophecy of the Dioscuri's honors",
+   "note": "Glaucus foretells their divine title and universal honors as the Dioscuri.",
+   "source": "Diodorus, Library 4.48.6",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Samothracian gods",
+   "other_aliases": [
+    "saving gods"
+   ],
+   "kind": "served",
+   "myth": "Argonauts ordered to fulfill vows",
+   "note": "Glaucus appears after their invocation and orders fulfillment of vows to them.",
+   "source": "Diodorus, Library 4.48.6–49.2",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argonauts",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Prophecy after Hylas' disappearance",
+   "note": "Glaucus advises the Argonauts not to oppose Zeus' plan.",
+   "source": "Apollonius, Argonautica 1.1309–1328",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argonauts",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Two-day guidance after the storm",
+   "note": "Glaucus accompanies the Argonauts, prophesies, and directs their religious obligations.",
+   "source": "Diodorus, Library 4.48.6–49.2",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apotheosis after the Tyrrhenian battle",
+   "note": "After Glaucus' apotheosis, he remains visible only to Jason.",
+   "source": "Possis, preserved by Athenaeus",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "subject": "consus",
+ "relations": [
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Neptunus Equester",
+    "Equestrian Neptune"
+   ],
+   "kind": "identified_with",
+   "myth": "Romulus establishes the Consualia",
+   "note": "Consus was identified with the equestrian Neptune honored by Romulus’s games.",
+   "source": "Livy 1.9; Tertullian, De spectaculis 5",
+   "date": "27–9 BCE; circa 200 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Poseidon Hippios",
+   "other_aliases": [
+    "Horse Poseidon"
+   ],
+   "kind": "identified_with",
+   "myth": "Consualia animal rites",
+   "note": "Plutarch explains Consus and his horse rites through Horse Poseidon.",
+   "source": "Plutarch, Romulus 14; Roman Questions 48",
+   "date": "late first–early second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Poseidon Seisichthon",
+   "other_aliases": [
+    "Earth-shaking Poseidon"
+   ],
+   "kind": "identified_with",
+   "myth": "Interpretation of the subterranean altar",
+   "note": "Some identified Consus with Earth-shaking Poseidon because his altar lay underground.",
+   "source": "Dionysius, Roman Antiquities 2.31",
+   "date": "7 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Counsel and war altar inscription",
+   "note": "A reported altar inscription juxtaposed Consus powerful in counsel with Mars in war.",
+   "source": "Tertullian, De spectaculis 5",
+   "date": "circa 197–202 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Plan to seize the Sabine women",
+   "note": "Mars advises Romulus in a narrative whose continuation Ovid assigns to Consus.",
+   "source": "Ovid, Fasti 3.179–228",
+   "date": "circa 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Counsel, war, and assembly inscription",
+   "note": "The Lares appear beside Consus and Mars in Tertullian’s reported inscription.",
+   "source": "Tertullian, De spectaculis 5",
+   "date": "circa 197–202 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ops Consiva",
+   "other_aliases": [
+    "Ops"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Modern scholars infer a consort pairing from adjacent festivals and complementary agricultural functions.",
+   "source": "Roman calendars; modern scholarly synthesis",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Consualia sacrifice",
+   "note": "Quirinus’s flamen reportedly officiated at Consus’s altar during the August festival.",
+   "source": "Tertullian, De spectaculis 5",
+   "date": "circa 197–202 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Quirinus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Institution of the Consualia",
+   "note": "The deified Romulus was credited with discovering or instituting Consus’s altar and festival.",
+   "source": "Plutarch, Romulus 14",
+   "date": "late first–early second century CE",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,583 @@
+{
+ "subject": "horus",
+ "relations": [
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Horus is the posthumous son and rightful heir of Osiris.",
+   "source": "Pyramid Texts",
+   "date": "about 2350 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Revival of Osiris",
+   "note": "Horus protects and revivifies his murdered father through mortuary rites.",
+   "source": "Pyramid Texts",
+   "date": "about 2350 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of the restored Eye",
+   "note": "Horus presents his restored Eye to Osiris as a reviving offering.",
+   "source": "Pyramid Texts",
+   "date": "about 2350 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Isis conceives, bears, hides, nurses, and protects Horus.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Horus poisoned in the marshes",
+   "note": "Isis laments and uses magic while seeking aid for poisoned Horus.",
+   "source": "Horus-cippus texts",
+   "date": "Third Intermediate Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Hippopotamus contest",
+   "note": "Enraged when Isis spares Seth, Horus cuts off her head.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some late systems make Isis the partner of Horus the Elder.",
+   "source": "Late Egyptian systems",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Horus the Elder is sometimes Seth's brother as a child of Geb and Nut.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "about 100–120 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Struggle for Osiris's succession",
+   "note": "Horus battles Seth as rival claimant and avenger of Osiris.",
+   "source": "Pyramid Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "contest",
+   "myth": "Divine lawsuit for kingship",
+   "note": "Horus and Seth litigate and compete for Osiris's royal office.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "deceived",
+   "myth": "Semen and lettuce episode",
+   "note": "Horus's semen is secretly placed on lettuce eaten by Seth.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "deceived",
+   "myth": "Stone-boat race",
+   "note": "Horus disguises a wooden boat as stone while Seth's stone boat sinks.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "allied",
+   "myth": "Settlement of the succession dispute",
+   "note": "Some resolutions reconcile Seth with Horus or assign Seth another domain.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Triumph of Horus",
+   "note": "Horus Behdety harpoons Seth and enemies appearing as dangerous animals.",
+   "source": "Edfu temple inscriptions",
+   "date": "third–first centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Horus the Elder is regionally described as a son of Geb.",
+   "source": "Later Egyptian sources",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division and reunification of Egypt",
+   "note": "Geb first divides Egypt, then awards Osiris's entire inheritance to Horus.",
+   "source": "Shabaka Stone",
+   "date": "late eighth century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Horus the Elder is regionally described as a son of Nut.",
+   "source": "Later Egyptian sources",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial embrace of the royal Horus",
+   "note": "Nut embraces the king identified ritually with Horus.",
+   "source": "Pyramid Texts and later sources",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Horus the Elder is sometimes Nephthys's brother through Geb and Nut.",
+   "source": "Later Egyptian sources",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of Osiris and child Horus",
+   "note": "Nephthys assists Isis in protecting Osiris and the child Horus.",
+   "source": "Pyramid Texts and cippi",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some solar traditions describe Horus as Ra's son or agent.",
+   "source": "Solar and Edfu traditions",
+   "date": "later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Horakhty fuses with Ra as Ra-Horakhty.",
+   "source": "Egyptian solar theology",
+   "date": "Old Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "judged_by",
+   "myth": "Divine lawsuit for kingship",
+   "note": "Ra variously supports, questions, or delays Horus's claim.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "served",
+   "myth": "Suppression of the Edfu rebellion",
+   "note": "Ra sends Horus Behdety against rebels threatening the divine company.",
+   "source": "Edfu temple inscriptions",
+   "date": "third–first centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "rescued_by",
+   "myth": "Horus poisoned in the marshes",
+   "note": "Ra halts the solar bark so divine aid can reach poisoned Horus.",
+   "source": "Horus-cippus texts",
+   "date": "Third Intermediate Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Divine lawsuit for kingship",
+   "note": "Atum joins the tribunal and sometimes favors Seth's strength over Horus.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration of the Eye",
+   "note": "Thoth restores or returns Horus's damaged Eye.",
+   "source": "Pyramid Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine lawsuit for kingship",
+   "note": "Thoth mediates the contest and records the gods' judgments.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Horus poisoned in the marshes",
+   "note": "Thoth descends and neutralizes the poison afflicting child Horus.",
+   "source": "Horus-cippus texts",
+   "date": "Third Intermediate Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration of decapitated Isis",
+   "note": "Thoth replaces Isis's severed head after Horus decapitates her.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Consultation over Osiris's succession",
+   "note": "Neith recommends that Horus receive the throne.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some local traditions make Hathor the mother or nurse of Horus.",
+   "source": "Regional temple traditions",
+   "date": "later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Horus Behdety and Hathor form the divine couple of Edfu and Dendera.",
+   "source": "Edfu–Dendera inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Horus blinded after Isis's humiliation",
+   "note": "Hathor restores Horus's eyes and morale after Seth attacks him.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "about 1150 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Beautiful Reunion",
+   "note": "Hathor travels from Dendera to meet Horus at Edfu.",
+   "source": "Edfu–Dendera inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some traditions identify Hathor with Horus's recovered divine Eye.",
+   "source": "Regional temple traditions",
+   "date": "later Egyptian periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harsomtus",
+   "other_aliases": [
+    "Horus Uniter of the Two Lands"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Harsomtus is the child of Horus and Hathor in local theology.",
+   "source": "Edfu–Dendera temple texts",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ihy",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ihy may be the child of Horus and Hathor in regional traditions.",
+   "source": "Edfu–Dendera theology",
+   "date": "later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ihy",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Temple theology combines the gods as Ihy-Horus or Horus-Ihy.",
+   "source": "Temple-specific theology",
+   "date": "later Egyptian periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Temple theology combines Horus with the fertility god Min.",
+   "source": "Temple-specific theology",
+   "date": "later Egyptian periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Memphite settlement of divine kingship",
+   "note": "Damaged passages equate Ptah with or make him encompass Horus.",
+   "source": "Shabaka Stone",
+   "date": "late eighth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Onuris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Temple harpooning theology",
+   "note": "Onuris assists martial Horus in late temple traditions.",
+   "source": "Graeco-Roman temple inscriptions",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Onuris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late temple theology identifies Onuris with martial or harpooning Horus.",
+   "source": "Graeco-Roman temple inscriptions",
+   "date": "Graeco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Localized rescue tradition",
+   "note": "Sobek acts as Horus's rescuer in some regional sources.",
+   "source": "Coffin Texts",
+   "date": "about 2100–1650 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Kom Ombo theology",
+   "note": "Sobek is paired with Horus the Elder as a localized crocodile power.",
+   "source": "Kom Ombo theology",
+   "date": "Graeco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of child Horus",
+   "note": "Bes appears protectively above child Horus on healing cippi.",
+   "source": "Horus-cippus imagery",
+   "date": "Third Intermediate Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shed",
+   "other_aliases": [
+    "Shed the Savior"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Child Horus absorbs Shed's mastery over dangerous animals.",
+   "source": "Cippus tradition",
+   "date": "New Kingdom–Late Period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nekhbet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Royal coronation",
+   "note": "Nekhbet crowns or flanks royal Horus as Upper Egypt's tutelary goddess.",
+   "source": "Royal iconography",
+   "date": "Early Dynastic period onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Wadjet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Royal coronation",
+   "note": "Wadjet crowns or flanks royal Horus as Lower Egypt's tutelary goddess.",
+   "source": "Royal iconography",
+   "date": "Early Dynastic period onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Imsety",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Imsety is one of the Four Sons of Horus.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Hapy",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hapy is one of the Four Sons of Horus.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Duamutef",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Duamutef is one of the Four Sons of Horus.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Qebehsenuef",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Qebehsenuef is one of the Four Sons of Horus.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "about 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek speakers identify Horus with Apollo; Edfu becomes Apollonopolis Magna.",
+   "source": "Herodotus and Ptolemaic evidence",
+   "date": "fifth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek worshippers equate solar forms of Horus with Helios.",
+   "source": "Magical and festival evidence",
+   "date": "Graeco-Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

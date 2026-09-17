@@ -1,0 +1,143 @@
+{
+ "subject": "minotaur",
+ "relations": [
+  {
+   "other": "Pasiphaë",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pasiphaë gives birth to the Minotaur after mating with the Cretan Bull.",
+   "source": "Euripides, Cretans; pseudo-Apollodorus 3.1.4",
+   "date": "late fifth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Cretan Bull",
+   "other_aliases": [
+    "Bull of Minos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The supernatural bull sent from the sea is the Minotaur's biological father.",
+   "source": "Euripides; pseudo-Apollodorus; Hyginus",
+   "date": "fifth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Minotaur descends from Helios through his mother Pasiphaë.",
+   "source": "Greek genealogical tradition",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perse",
+   "other_aliases": [
+    "Perseis"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Minotaur descends from Perse through her daughter Pasiphaë.",
+   "source": "Greek genealogical tradition",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Punishment for Minos's withheld sacrifice",
+   "note": "Poseidon indirectly causes his conception by afflicting Pasiphaë with desire for the bull.",
+   "source": "Euripides, Cretans; pseudo-Apollodorus 3.1.4",
+   "date": "late fifth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "created_by",
+   "myth": "Venus punishes Pasiphaë's neglected rites",
+   "note": "Venus indirectly causes his conception by making Pasiphaë desire the bull.",
+   "source": "Hyginus, Fabula 40",
+   "date": "Roman imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ariadne is the Minotaur's maternal half-sister through Pasiphaë.",
+   "source": "Greek genealogical tradition",
+   "date": "ancient",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ariadne supplies Theseus with the thread",
+   "note": "Ariadne enables Theseus to enter and escape the Labyrinth after confronting her half-brother.",
+   "source": "Basel pithos; later prose narratives",
+   "date": "c. 650 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat in the Labyrinth",
+   "note": "The Minotaur fights Theseus in the central heroic combat shown by early Greek art.",
+   "source": "Corinthian plaques and Cycladic pithos",
+   "date": "c. 675–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Theseus kills the Minotaur",
+   "note": "Theseus kills him by varying means, including sword or fists, and escapes.",
+   "source": "Isocrates; Diodorus; pseudo-Apollodorus",
+   "date": "c. 370 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of the Bull of Minos",
+   "note": "An Archaic monument shows Theseus leading the Minotaur alive and bound instead of killing him.",
+   "source": "Pausanias 3.18.11, Amyclae throne",
+   "date": "c. 550 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Champions together in Elysium",
+   "note": "Asterius becomes Theseus's friendly companion and co-champion in the game Hades.",
+   "source": "Supergiant Games, Hades",
+   "date": "2020",
+   "tier": "modern"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercle"
+   ],
+   "kind": "shared_myth",
+   "myth": "Etruscan mirror recomposition",
+   "note": "An Etruscan mirror places Hercle beside the fallen Thevrumines, though the action is disputed.",
+   "source": "Volsinian Etruscan mirror",
+   "date": "late fourth century BCE",
+   "tier": "regional_variant"
+  }
+ ]
+}

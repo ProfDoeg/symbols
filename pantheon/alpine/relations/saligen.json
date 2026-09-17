@@ -1,0 +1,85 @@
+{
+ "subject": "saligen",
+ "relations": [
+  {
+   "other": "The Wild Hunter",
+   "other_aliases": [
+    "Wild Man"
+   ],
+   "kind": "fought",
+   "myth": "The Wild Hunter pursues the Salgfräulein",
+   "note": "The Wild Hunter pursues and hunts the Salgfräulein in Tyrolean tradition.",
+   "source": "Jacob Grimm, Deutsche Mythologie",
+   "date": "1835 and later editions",
+   "tier": "attested"
+  },
+  {
+   "other": "King Laurin",
+   "other_aliases": [
+    "Laurin"
+   ],
+   "kind": "transformed_by",
+   "myth": "Laurin curses the Saligen",
+   "note": "Laurin curses the laughing Saligen and transforms them into flowers called Schlernhexen.",
+   "source": "Modern South Tyrolean legend",
+   "date": "modern circulation",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adam",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Adam's hidden children",
+   "note": "One Christian etiological variant makes supernatural women Adam's children, whom he concealed from God.",
+   "source": "Late Christian folklore",
+   "date": "modern-era collections",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "God of Christianity",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "shared_myth",
+   "myth": "Adam's hidden children",
+   "note": "Adam conceals the supernatural women from God, leaving them outside ordinary human history.",
+   "source": "Late Christian folklore",
+   "date": "modern-era collections",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Riese Jordan",
+   "other_aliases": [
+    "Jordan"
+   ],
+   "kind": "fought",
+   "myth": "Hitte Hatte and the giant Jordan",
+   "note": "Jordan hunts, captures, imprisons, and kills Saligen, intending to eat one captive.",
+   "source": "Modern Hitte Hatte text",
+   "date": "modern anthology",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Riese Jordan",
+   "other_aliases": [
+    "Jordan"
+   ],
+   "kind": "served",
+   "myth": "Hitte Hatte's captivity",
+   "note": "The captive Salige Hitte Hatte is forced to serve Jordan before escaping.",
+   "source": "Modern Hitte Hatte text",
+   "date": "modern anthology",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Wildfrau",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hitte Hatte and the giant Jordan",
+   "note": "Jordan's Wildfrau persuades him to retain a captured Salige as a servant.",
+   "source": "Modern Hitte Hatte text",
+   "date": "modern anthology",
+   "tier": "late_accretion"
+  }
+ ]
+}

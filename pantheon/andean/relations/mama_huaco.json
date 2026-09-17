@@ -1,0 +1,273 @@
+{
+ "subject": "mama_huaco",
+ "relations": [
+  {
+   "other": "Viracocha",
+   "other_aliases": [
+    "Ticci Viracocha"
+   ],
+   "kind": "created_by",
+   "myth": "Emergence from Cápac-toco",
+   "note": "Viracocha produces Mama Huaco and the other Ayars to become rulers.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Inti",
+   "other_aliases": [
+    "the Sun"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely identifies Mama Huaco as the Sun's daughter.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Inti",
+   "other_aliases": [
+    "the Sun"
+   ],
+   "kind": "gift",
+   "myth": "Dowry before marriage to Manco Cápac",
+   "note": "Mama Huaco requests a marriage dowry from the Sun, who supplies it.",
+   "source": "Guamán Poma, Nueva corónica, p. 121",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Inti",
+   "other_aliases": [
+    "the Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sausero maize ceremonial economy",
+   "note": "Maize associated with Mama Huaco also participates in state ceremonies serving the Sun.",
+   "source": "Molina, Relación de las fábulas",
+   "date": "c. 1573–1575",
+   "tier": "attested"
+  },
+  {
+   "other": "the Moon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely identifies Mama Huaco as the Moon's daughter.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [
+    "Ayar Manco"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sarmiento and the ritual tradition make her Manco Cápac's sister.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [
+    "Ayar Manco"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Murúa and Guamán Poma make Mama Huaco the wife or coya of Manco Cápac.",
+   "source": "Murúa; Guamán Poma",
+   "date": "c. 1590–1616",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [
+    "Ayar Manco"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely makes Mama Huaco both Manco Cápac's mother and wife.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [
+    "Ayar Manco"
+   ],
+   "kind": "allied",
+   "myth": "Migration and conquest of Cusco",
+   "note": "Mama Huaco and Manco Cápac jointly command the founders' migration and conquest.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ayar Cachi",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ayar Cachi is one of Mama Huaco's male Ayar siblings.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Ayar Cachi",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some unstable arrangements pair Mama Huaco as Ayar Cachi's sister-wife.",
+   "source": "Sarmiento-derived editorial pairings",
+   "date": "1572 and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ayar Cachi",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Confinement of the dangerous Ayar",
+   "note": "Mama Huaco shames or persuades him to return to the cave, enabling his confinement.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ayar Uchu",
+   "other_aliases": [
+    "Ayar Oche",
+    "Huanacauri"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ayar Uchu belongs to the sibling founder group with Mama Huaco.",
+   "source": "Betanzos, Suma y narración",
+   "date": "c. 1551",
+   "tier": "attested"
+  },
+  {
+   "other": "Ayar Uchu",
+   "other_aliases": [
+    "Ayar Oche",
+    "Huanacauri"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Betanzos associates her with the Ayar who disappears into the sacred landscape.",
+   "source": "Betanzos, Suma y narración",
+   "date": "c. 1551",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ayar Auca",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ayar Auca is Mama Huaco's brother and fellow migrant in the Ayar cycle.",
+   "source": "Sarmiento; Cabello",
+   "date": "1572–1586",
+   "tier": "attested"
+  },
+  {
+   "other": "Ayar Auca",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some genealogical arrangements pair Mama Huaco with Ayar Auca.",
+   "source": "Sarmiento; later harmonizations",
+   "date": "1572 and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mama Ocllo",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Ocllo is Mama Huaco's sister and fellow female Ayar founder.",
+   "source": "Betanzos; Sarmiento",
+   "date": "c. 1551–1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Mama Ocllo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Garcilaso's name Mama Ocllo Huaco partly conflates the two female founders.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mama Cura",
+   "other_aliases": [
+    "Ipacura"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Cura is Mama Huaco's sister and fellow female Ayar founder.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Mama Rahua",
+   "other_aliases": [
+    "Raua"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Rahua is Mama Huaco's sister and fellow female Ayar founder.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested"
+  },
+  {
+   "other": "Inca Yupanqui",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely names Inca Yupanqui among Mama Huaco's children.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pachacuti Inca",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely names Pachacuti Inca among Mama Huaco's children.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chimbo Urma",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely names Chimbo Urma among Mama Huaco's children.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mama Sara",
+   "other_aliases": [
+    "Mother Maize"
+   ],
+   "kind": "other",
+   "myth": "Sausero maize rites",
+   "note": "Zuidema connects Mama Sara's seed vessel and rites with Mama Huaco's agricultural identity.",
+   "source": "Cobo; Zuidema's reconstruction",
+   "date": "1653; modern scholarship",
+   "tier": "modern"
+  }
+ ]
+}

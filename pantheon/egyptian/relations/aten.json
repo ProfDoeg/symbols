@@ -1,0 +1,217 @@
+{
+ "subject": "aten",
+ "relations": [
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aten was formulated through Re and retained Re in both didactic names.",
+   "source": "Early and late Aten titulary",
+   "date": "Akhenaten years 2–17",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Re-Horakhty",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The early didactic name explicitly incorporated Re-Horakhty into Aten's identity.",
+   "source": "Gebel el-Silsila and early titulary",
+   "date": "Akhenaten years 1–8",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Re-Horakhty",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Revision of Aten's didactic name",
+   "note": "Re-Horakhty's name was removed when Aten's titulary became more exclusive.",
+   "source": "Revised Aten titulary",
+   "date": "After year 8 or 9",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [
+    "light",
+    "radiance"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aten existed in Shu's name, possibly identifying Shu with the disc's radiance.",
+   "source": "Early Aten didactic name",
+   "date": "Akhenaten years 3–8",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [
+    "light",
+    "radiance"
+   ],
+   "kind": "other",
+   "myth": "Revision of Aten's didactic name",
+   "note": "Shu's explicit divine name disappeared from Aten's revised titulary.",
+   "source": "Revised Aten titulary",
+   "date": "After year 8 or 9",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horus of the Horizons"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Horus was indirectly present through Horakhty in Aten's early titulary.",
+   "source": "Early Aten titulary",
+   "date": "Early Akhenaten reign",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Aten's order was associated with Maat, though she was neither consort nor daughter.",
+   "source": "Royal titulary and temple inscriptions",
+   "date": "Akhenaten reign",
+   "tier": "attested"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Atenist suppression of Amun's cult",
+   "note": "Amun's names and images were attacked while Aten's institutions displaced his cult.",
+   "source": "Erased monuments and Restoration Stela",
+   "date": "Late Akhenaten and Tutankhamun",
+   "tier": "attested"
+  },
+  {
+   "other": "Mut",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Displacement of the Theban divine household",
+   "note": "Mut's cult was affected by Atenist attacks on Amun's divine household.",
+   "source": "Amarna-period erased monuments",
+   "date": "Late Akhenaten reign",
+   "tier": "attested"
+  },
+  {
+   "other": "Khonsu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Displacement of the Theban triad",
+   "note": "Khonsu was institutionally displaced with the Theban triad under exclusive Atenism.",
+   "source": "Amarna-period cultic evidence",
+   "date": "Late Akhenaten reign",
+   "tier": "attested"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Atenist marginalization of traditional cults",
+   "note": "Atenist exclusivity marginalized Ptah's cult without making him a mythic opponent.",
+   "source": "Amarna-period temple evidence",
+   "date": "Akhenaten reign",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suppression of traditional funerary religion",
+   "note": "Official Amarna tombs largely omitted Osirian imagery and postmortem judgment.",
+   "source": "Amarna tomb decoration and burial texts",
+   "date": "Akhenaten reign",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suppression of traditional funerary religion",
+   "note": "Isis's traditional funerary role was reduced or absent in official Amarna contexts.",
+   "source": "Amarna tomb decoration and burial texts",
+   "date": "Akhenaten reign",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suppression of traditional funerary religion",
+   "note": "Nephthys's traditional funerary role was reduced or absent in official Amarna contexts.",
+   "source": "Amarna tomb decoration and burial texts",
+   "date": "Akhenaten reign",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Suppression of traditional funerary religion",
+   "note": "Anubis's traditional funerary role was reduced or absent in official Amarna contexts.",
+   "source": "Amarna tomb decoration and burial texts",
+   "date": "Akhenaten reign",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hathoric features in Nefertiti's imagery indirectly supplied Aten worship a female solar complement.",
+   "source": "Amarna royal iconography",
+   "date": "Akhenaten reign",
+   "tier": "modern"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Private religion alongside official Atenism",
+   "note": "Bes remained present on domestic objects at Amarna alongside the official Aten cult.",
+   "source": "Amarna domestic objects",
+   "date": "Akhenaten reign",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Taweret",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Private religion alongside official Atenism",
+   "note": "Taweret remained present on domestic objects at Amarna alongside the official Aten cult.",
+   "source": "Amarna domestic objects",
+   "date": "Akhenaten reign",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amenhotep III",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some scholars identify the deified, solarized king with Aten, but ancient texts do not.",
+   "source": "Modern scholarly reconstruction",
+   "date": "Modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Akhenaten",
+   "other_aliases": [
+    "Amenhotep IV"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aten was Akhenaten's divine father in royal theology, not conventional genealogy.",
+   "source": "Aten hymns and royal inscriptions",
+   "date": "Akhenaten reign",
+   "tier": "canonical"
+  }
+ ]
+}

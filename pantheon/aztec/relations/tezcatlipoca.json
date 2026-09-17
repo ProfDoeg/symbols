@@ -1,0 +1,314 @@
+{
+ "subject": "tezcatlipoca",
+ "relations": [
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sahagún compared Tezcatlipoca with Jupiter because of perceived supremacy and governance.",
+   "source": "Sahagún",
+   "date": "sixteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tonacatecuhtli",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tonacatecuhtli fathers Tezcatlipoca and the other creator brothers.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "c. 1530s",
+   "tier": "attested"
+  },
+  {
+   "other": "Tonacacihuatl",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tonacacihuatl mothers Tezcatlipoca and the other creator brothers.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "c. 1530s",
+   "tier": "attested"
+  },
+  {
+   "other": "Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tezcatlipoca and Quetzalcoatl are separate sons within a group of creator brothers.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "c. 1530s",
+   "tier": "attested"
+  },
+  {
+   "other": "Huitzilopochtli",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tezcatlipoca and Huitzilopochtli are separate sons within a group of creator brothers.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "c. 1530s",
+   "tier": "attested"
+  },
+  {
+   "other": "Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Creation from the earth monster",
+   "note": "They collaborate to lower, attack, and divide the many-mouthed earth being.",
+   "source": "Histoyre du Mechique",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tlaltecuhtli",
+   "other_aliases": [
+    "Atlateutli"
+   ],
+   "kind": "fought",
+   "myth": "Creation from the earth monster",
+   "note": "Tezcatlipoca and Quetzalcoatl attack and tear apart the many-mouthed earth being.",
+   "source": "Histoyre du Mechique",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tlaltecuhtli",
+   "other_aliases": [
+    "Atlateutli"
+   ],
+   "kind": "transformed",
+   "myth": "Creation from the earth monster",
+   "note": "Tezcatlipoca and Quetzalcoatl transform her divided body into the ordered earth.",
+   "source": "Histoyre du Mechique",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "First-sun rivalry",
+   "note": "Quetzalcoatl strikes Tezcatlipoca down, prompting his transformation into a jaguar.",
+   "source": "Leyenda de los Soles",
+   "date": "1558 copy",
+   "tier": "canonical"
+  },
+  {
+   "other": "Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Second-sun retaliation",
+   "note": "Tezcatlipoca casts down Quetzalcoatl's sun and raises the age-ending wind.",
+   "source": "Leyenda de los Soles",
+   "date": "1558 copy",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tlaloc",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tlaloc's solar age",
+   "note": "Creator gods install Tlaloc as ruler of a later sun; Tezcatlipoca's role varies.",
+   "source": "Historia de los mexicanos por sus pinturas",
+   "date": "c. 1530s",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chalchiuhtlicue",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Destruction of the water sun",
+   "note": "Tezcatlipoca impugns her generosity, making her weep until a flood destroys the world.",
+   "source": "Leyenda de los Soles",
+   "date": "1558 copy",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ce Acatl Topiltzin Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Mirror deception at Tollan",
+   "note": "Tezcatlipoca reveals his aged embodied face in a mirror, producing shame and destabilization.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ce Acatl Topiltzin Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Intoxication and fall of Tollan",
+   "note": "Tezcatlipoca and fellow sorcerers induce him to drink pulque, precipitating transgression and departure.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ihuimecatl",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Fall of Tollan",
+   "note": "Ihuimecatl cooperates with Tezcatlipoca in deceptions against Quetzalcoatl and Tollan.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Toltecatl",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Fall of Tollan",
+   "note": "Toltecatl cooperates with Tezcatlipoca in deceptions against Quetzalcoatl and Tollan.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Huemac",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Deceptions and humiliation at Tollan",
+   "note": "Tezcatlipoca's transformations provoke desire, commerce, dancing, war, and humiliation involving Huemac.",
+   "source": "Anales de Cuauhtitlan",
+   "date": "sixteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Xochiquetzal",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Taking Xochiquetzal from Tlaloc",
+   "note": "Later chronicles say Tezcatlipoca took Xochiquetzal from Tlaloc.",
+   "source": "later colonial chronicles",
+   "date": "early modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Xochiquetzal",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Taking Xochiquetzal from Tlaloc",
+   "note": "Unstable later traditions describe a sexual or marital appropriation of Xochiquetzal.",
+   "source": "later colonial chronicles",
+   "date": "early modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tlaloc",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rivalry over Xochiquetzal",
+   "note": "Colonial traditions present an unstable rivalry between Tezcatlipoca and Tlaloc over Xochiquetzal.",
+   "source": "colonial chronicle traditions",
+   "date": "early modern",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Huitzilopochtli",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared Toxcatl festival complex",
+   "note": "Their images and rites overlap within the conquest-period Toxcatl festival complex.",
+   "source": "Florentine Codex, Books II and XII",
+   "date": "completed c. 1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Xipe Totec",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some cosmologies and reconstructions associate him with the disputed Red Tezcatlipoca.",
+   "source": "colonial cosmologies",
+   "date": "sixteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Camaxtli",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Regional cosmologies variably associate Camaxtli with the disputed Red Tezcatlipoca.",
+   "source": "colonial cosmologies",
+   "date": "sixteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mixcoatl",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Regional cosmologies variably associate Mixcoatl with the disputed Red Tezcatlipoca.",
+   "source": "colonial cosmologies",
+   "date": "sixteenth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tepeyollotl",
+   "other_aliases": [
+    "Heart of the Mountain"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Manuscript attributes closely join this jaguar night and cave power with Tezcatlipoca.",
+   "source": "Borgia-group manuscripts",
+   "date": "c. 1250–1521",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Itztli",
+   "other_aliases": [
+    "Obsidian",
+    "obsidian blade"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Almanacs link Itztli's obsidian knife and nocturnal judgment with Tezcatlipoca.",
+   "source": "Borgia-group almanacs",
+   "date": "c. 1250–1521",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Xochiquetzal",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Toxcatl ritual marriage",
+   "note": "A woman embodying Xochiquetzal ceremonially accompanies Tezcatlipoca's impersonator as a wife.",
+   "source": "Florentine Codex, Book II",
+   "date": "completed c. 1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Xilonen",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Toxcatl ritual marriage",
+   "note": "A woman embodying Xilonen ceremonially accompanies Tezcatlipoca's impersonator as a wife.",
+   "source": "Florentine Codex, Book II",
+   "date": "completed c. 1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Atlatonan",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Toxcatl ritual marriage",
+   "note": "A woman embodying Atlatonan ceremonially accompanies Tezcatlipoca's impersonator as a wife.",
+   "source": "Florentine Codex, Book II",
+   "date": "completed c. 1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Huixtocihuatl",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Toxcatl ritual marriage",
+   "note": "A woman embodying Huixtocihuatl ceremonially accompanies Tezcatlipoca's impersonator as a wife.",
+   "source": "Florentine Codex, Book II",
+   "date": "completed c. 1577",
+   "tier": "attested"
+  }
+ ]
+}

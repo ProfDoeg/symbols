@@ -1,0 +1,659 @@
+{
+ "subject": "ninurta",
+ "relations": [
+  {
+   "other": "Ninĝirsu",
+   "other_aliases": [
+    "Ningirsu"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local Ĝirsu warrior-agricultural god increasingly became identified with Ninurta.",
+   "source": "Explanatory god list and manuscript substitutions",
+   "date": "Old Babylonian and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pabilsaĝ",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Warrior theology and transferred spouse relations linked or equated Pabilsaĝ with Ninurta.",
+   "source": "God lists and spouse equations",
+   "date": "Old Babylonian and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zababa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned traditions occasionally aligned Ninurta with Zababa while preserving their distinct cults.",
+   "source": "God lists",
+   "date": "Old Babylonian and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lugal-Maradda",
+   "other_aliases": [
+    "King of Marad"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Temple lists identify this local god of Marad as a form of Ninurta.",
+   "source": "Temple lists",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lexical theology equated them and transferred Ninurta's champion functions to Marduk.",
+   "source": "First-millennium lexical lists",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nabû",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some theology gave Nabû aspects of Ninurta's victorious divine-son role.",
+   "source": "First-millennium theological texts",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "One learned astral system associated Ninurta with Saturn.",
+   "source": "Late astral lists",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some learned astral systems associated Ninurta with Mercury instead of Saturn.",
+   "source": "Late astral lists",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The dominant Nippur genealogy makes Ninurta Enlil's heroic son.",
+   "source": "Lugal-e; Angim; Anzû",
+   "date": "Old Babylonian to first millennium",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Defense of Enlil's rule",
+   "note": "Ninurta fights to preserve Enlil's sovereignty and executes his authority.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Return of the victorious hero",
+   "note": "Ninurta brings his trophies to Enlil's Ekur and receives paternal recognition.",
+   "source": "Angim",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Recovery of the Tablet of Destinies",
+   "note": "Ninurta kills Anzû and restores Enlil's stolen Tablet of Destinies.",
+   "source": "Epic of Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nippur familial theology identifies Ninlil as Ninurta's mother.",
+   "source": "Angim",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ninurta's triumphant return",
+   "note": "Ninlil fears or laments for her son and embraces him upon his return.",
+   "source": "Lugal-e; Angim",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmaḫ",
+   "other_aliases": [
+    "Ninḫursaĝa"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "In Lugal-e, the mother goddess Ninmaḫ calls Ninurta her son.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmaḫ",
+   "other_aliases": [
+    "Ninḫursaĝa"
+   ],
+   "kind": "transformed",
+   "myth": "Naming of Ninḫursaĝa",
+   "note": "Ninurta rewards his mother by renaming her Ninḫursaĝa and granting mountain fertility.",
+   "source": "Lugal-e 368–410",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bēlet-ilī",
+   "other_aliases": [
+    "Mami"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Standard Babylonian Anzû epic identifies Bēlet-ilī as Ninurta's mother.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bēlet-ilī",
+   "other_aliases": [
+    "Mami"
+   ],
+   "kind": "served",
+   "myth": "Commissioning against Anzû",
+   "note": "At Ea's urging, she commissions, blesses, and authorizes Ninurta to fight Anzû.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A regional genealogy associated with warrior-god equations makes Ninurta a son of An.",
+   "source": "Regional god equations",
+   "date": "Unspecified ancient tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "shared_myth",
+   "myth": "War against Asag",
+   "note": "An is terrified by Asag while Ninurta undertakes the monster's defeat.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "served",
+   "myth": "Commissioning a champion against Anzû",
+   "note": "Anu summons champions and promises honor to whoever defeats the Tablet's thief.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninnibru",
+   "other_aliases": [
+    "Lady of Nippur"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Nippur theology identifies Ninnibru as Ninurta's spouse.",
+   "source": "Angim; An = Anum",
+   "date": "Old Babylonian to first millennium",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninnibru",
+   "other_aliases": [
+    "Lady of Nippur"
+   ],
+   "kind": "shared_myth",
+   "myth": "Reception at Ešumeša",
+   "note": "Ninnibru receives the returning Ninurta and requests a blessing for the king.",
+   "source": "Angim",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gula",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cult and god lists increasingly pair the healing goddess Gula with Ninurta.",
+   "source": "Cult texts, hymns, and god lists",
+   "date": "Kassite period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ninisina",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Healing-goddess and Pabilsaĝ equations brought Ninisina into a spouse relationship with Ninurta.",
+   "source": "Isin theological equations",
+   "date": "Old Babylonian and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bau",
+   "other_aliases": [
+    "Baba"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Bau, wife of Ninĝirsu at Lagaš, became Ninurta's spouse through their identification.",
+   "source": "Lagašite cult records",
+   "date": "Third millennium BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bau",
+   "other_aliases": [
+    "Baba"
+   ],
+   "kind": "shared_myth",
+   "myth": "Bau's intercession at judgment",
+   "note": "Bau intercedes in prayer while Ninurta or Ninĝirsu renders judgment.",
+   "source": "Lugal-e opening",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninimma",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some learned theological arrangements describe Ninimma as Ninurta's sister.",
+   "source": "Learned theological arrangements",
+   "date": "Unspecified ancient tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninimma",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Conflicting learned arrangements call Ninimma Ninurta's lady or wife.",
+   "source": "Learned theological arrangements",
+   "date": "Unspecified ancient tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "taught_by",
+   "myth": "Defeat of Anzû",
+   "note": "Ea provides the wind-and-projectile strategy that enables Ninurta to defeat Anzû.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "punished_by",
+   "myth": "Ninurta and the Turtle",
+   "note": "Enki checks Ninurta's ambition by creating a turtle that traps him.",
+   "source": "Ninurta and the Turtle",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isimud",
+   "other_aliases": [
+    "Usmû"
+   ],
+   "kind": "fought",
+   "myth": "Ninurta and the Turtle",
+   "note": "Ninurta raises his hand against Enki's messenger while pursuing greater control.",
+   "source": "Ninurta and the Turtle",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Turtle",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ninurta and the Turtle",
+   "note": "Enki's supernatural turtle digs a covered pit and defeats or traps Ninurta.",
+   "source": "Ninurta and the Turtle",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Turtle",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Ninurta and the Turtle",
+   "note": "The deliberately created turtle humiliates Ninurta for his post-victory overreach.",
+   "source": "Ninurta and the Turtle",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anzû",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle for the Tablet of Destinies",
+   "note": "Ninurta battles the winged thief after other divine champions refuse.",
+   "source": "Epic of Anzû",
+   "date": "Old Babylonian to first millennium",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anzû",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Recovery of the Tablet of Destinies",
+   "note": "Ninurta severs Anzû's wings, kills or captures him, and recovers the Tablet.",
+   "source": "Epic of Anzû",
+   "date": "Old Babylonian to first millennium",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asag",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War against Asag",
+   "note": "Ninurta battles Asag and its hostile army of stones in the mountains.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asag",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Defeat of Asag",
+   "note": "Ninurta batters and uproots Asag, then celebrates over its body.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asag",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Ordering the conquered mountain",
+   "note": "Ninurta renames or reclassifies the defeated Asag as Stone.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šarur",
+   "other_aliases": [
+    "Šar-ur",
+    "Smasher of Thousands"
+   ],
+   "kind": "allied",
+   "myth": "War against Asag",
+   "note": "His animate mace scouts, warns, embraces, counsels, and carries messages during battle.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šarur",
+   "other_aliases": [
+    "Šar-ur",
+    "Smasher of Thousands"
+   ],
+   "kind": "served_by",
+   "myth": "Messages during the Asag war",
+   "note": "Šarur carries instructions between Ninurta and Enlil.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nusku",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ninurta's approach to Nippur",
+   "note": "Nusku announces and helps manage Ninurta's terrifying return to the divine court.",
+   "source": "Angim",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisaba",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Entrusting the grain heaps",
+   "note": "Ninurta gives Nisaba custody of agricultural abundance, grain heaps, and granaries.",
+   "source": "Lugal-e conclusion",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Judgment of the kagena stone",
+   "note": "Ninurta assigns Utu's judicial rites and powers to the favored hematite stone.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Commissioning against Anzû",
+   "note": "Adad refuses the combat before Ninurta is ultimately commissioned as champion.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The great Flood",
+   "note": "Adad's storm accompanies Ninurta's overflowing weirs during the divine assault.",
+   "source": "Gilgamesh XI",
+   "date": "7th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Girra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Commissioning against Anzû",
+   "note": "Girra refuses to confront Anzû before Ninurta accepts the commission.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šara",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Commissioning against Anzû",
+   "note": "Šara refuses to confront Anzû before Ninurta accepts the commission.",
+   "source": "Standard Babylonian Anzû",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Errakal",
+   "other_aliases": [
+    "Erra"
+   ],
+   "kind": "allied",
+   "myth": "The great Flood",
+   "note": "Errakal removes the world's moorings while Ninurta releases the destructive weirs.",
+   "source": "Gilgamesh XI 102–103",
+   "date": "7th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunna",
+   "other_aliases": [
+    "Anunnaki"
+   ],
+   "kind": "shared_myth",
+   "myth": "War against Asag",
+   "note": "The divine assembly flees Ninurta's battle and later prostrates itself after his victory.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunna",
+   "other_aliases": [
+    "Anunnaki"
+   ],
+   "kind": "shared_myth",
+   "myth": "The great Flood",
+   "note": "The Anunnaki appear with Ninurta among the divine forces of the Flood.",
+   "source": "Gilgamesh XI",
+   "date": "7th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kuli-ana",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names Kuli-ana among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dragon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the Dragon among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gypsum",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names Gypsum among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Strong Copper",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names Strong Copper among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Six-headed Wild Ram",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the Six-headed Wild Ram among Ninurta's defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Magilum Boat",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the supernatural Magilum Boat among Ninurta's defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lord Saman-ana",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names Lord Saman-ana among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bison Bull",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the Bison Bull among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Palm-tree King",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the Palm-tree King among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Seven-headed Snake",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The Slain Heroes",
+   "note": "Lugal-e names the Seven-headed Snake among Ninurta's previously defeated enemies.",
+   "source": "Lugal-e",
+   "date": "ca. 2000–1600 BCE",
+   "tier": "attested"
+  }
+ ]
+}

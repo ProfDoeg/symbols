@@ -1,0 +1,303 @@
+{
+ "subject": "sirens",
+ "relations": [
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Circe’s warning to Odysseus",
+   "note": "Circe warns Odysseus of their fatal song and prescribes wax and binding.",
+   "source": "Homer, Odyssey 12.39–54, 158–64",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Achelous is their recurring father in several genealogical traditions.",
+   "source": "Hesiodic Catalogue fragment 47",
+   "date": "7th–6th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sterope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sterope bears the Sirens to Achelous in the fragmentary catalogue tradition.",
+   "source": "Hesiodic Catalogue fragment 47",
+   "date": "7th–6th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sophocles’ lost play makes Phorcys father of two Sirens.",
+   "source": "Sophocles, Odysseus fragment 861",
+   "date": "5th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chthon/Earth",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Euripides calls the winged Sirens virgin daughters of Earth.",
+   "source": "Euripides, Helen 167–78",
+   "date": "412 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Terpsichore",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Terpsichore bears the Sirens to Achelous in Apollonius’ genealogy.",
+   "source": "Apollonius, Argonautica 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Melpomene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Melpomene is their mother by Achelous in two mythographic accounts.",
+   "source": "Pseudo-Apollodorus, Epitome 7.18",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calliope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later commentary traditions sometimes name Calliope as their mother.",
+   "source": "Servian and later commentary",
+   "date": "late antiquity and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "served",
+   "myth": "Attendance upon unmarried Persephone",
+   "note": "The Sirens attend the unmarried Persephone and sing in her chorus.",
+   "source": "Apollonius, Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "other",
+   "myth": "Search for abducted Proserpina",
+   "note": "Her companions search land and sea for her after her disappearance.",
+   "source": "Ovid, Metamorphoses 5.551–63",
+   "date": "ca. 8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "other",
+   "myth": "Failure to aid Proserpina",
+   "note": "Hyginus says they failed to help Proserpina after her abduction.",
+   "source": "Hyginus, Fabula 141",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "served",
+   "myth": "Helen’s funerary lament",
+   "note": "Helen summons them to carry answering dirges to Persephone.",
+   "source": "Euripides, Helen 167–78",
+   "date": "412 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "transformed_by",
+   "myth": "Punishment after Proserpina’s abduction",
+   "note": "Ceres changes them into flying creatures for failing to aid her daughter.",
+   "source": "Hyginus, Fabula 141",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Contest with the Muses",
+   "note": "Hera persuades the Sirens to challenge the Muses in song.",
+   "source": "Pausanias 9.34.3",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Roman musical-contest sarcophagus",
+   "note": "Hera appears among the divine spectators of their musical contest.",
+   "source": "Roman contest sarcophagus",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Muses",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest with the Muses",
+   "note": "The Muses defeat the Sirens in a singing competition.",
+   "source": "Pausanias 9.34.3",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Muses",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Feather crowns after the contest",
+   "note": "The victorious Muses pluck their feathers and fashion crowns from them.",
+   "source": "Pausanias 9.34.3",
+   "date": "2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "contest",
+   "myth": "Odysseus passes the Sirens",
+   "note": "Their song tempts him, but binding and deafened sailors carry him safely past.",
+   "source": "Homer, Odyssey 12.158–200",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "killed_by",
+   "myth": "Death after Odysseus escapes",
+   "note": "Later traditions make his safe passage fulfill the prophecy causing their deaths.",
+   "source": "Pseudo-Apollodorus, Epitome 7.18–19",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Argonauts pass Anthemoessa",
+   "note": "Orpheus overpowers their song with vigorous lyre music and saves the crew.",
+   "source": "Apollonius, Argonautica 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Argonauts",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Argonauts pass Anthemoessa",
+   "note": "The Sirens threaten the passing crew with their destructive song.",
+   "source": "Apollonius, Argonautica 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Butes",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Butes leaps toward the Sirens",
+   "note": "Their voices entice Butes to abandon the Argo and swim toward them.",
+   "source": "Apollonius, Argonautica 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite rescues Butes",
+   "note": "Aphrodite removes Butes before he reaches destruction by the Sirens.",
+   "source": "Apollonius, Argonautica 4.891–919",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Fates",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Harmony of the cosmic whorls",
+   "note": "Eight cosmic Sirens sing in concert with Lachesis, Clotho, and Atropos.",
+   "source": "Plato, Republic 616b–617c",
+   "date": "ca. 380s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ananke/Necessity",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "served",
+   "myth": "Spindle of Necessity",
+   "note": "The cosmic Sirens revolve upon the eight whorls of her spindle.",
+   "source": "Plato, Republic 616b–617c",
+   "date": "ca. 380s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Wandering after Proserpina’s rape",
+   "note": "They reach Apollo’s land, though Apollo takes no personal action.",
+   "source": "Hyginus, Fabula 141",
+   "date": "1st–2nd c. CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Roman musical-contest sarcophagus",
+   "note": "Zeus appears among the divine spectators of their contest with the Muses.",
+   "source": "Roman contest sarcophagus",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Roman musical-contest sarcophagus",
+   "note": "Athena appears among the divine spectators of their contest with the Muses.",
+   "source": "Roman contest sarcophagus",
+   "date": "3rd c. CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

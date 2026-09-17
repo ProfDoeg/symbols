@@ -1,0 +1,5036 @@
+{
+ "folder": "vodou",
+ "gods": [
+  "agassou",
+  "agwe",
+  "ayida_wedo",
+  "ayizan",
+  "azaka",
+  "baron_samedi",
+  "bondye",
+  "bossou",
+  "damballa",
+  "dan",
+  "erzulie_dantor",
+  "erzulie_freda",
+  "gede",
+  "gran_bwa",
+  "gu",
+  "hevioso",
+  "kalfou",
+  "la_sirene",
+  "loko",
+  "maman_brigitte",
+  "marassa",
+  "mawu_lisa",
+  "new_orleans_voodoo",
+  "ogou",
+  "papa_legba",
+  "petro_lwa",
+  "sakpata",
+  "simbi",
+  "sobo_and_bade",
+  "ti_jean_petro"
+ ],
+ "relations": [
+  {
+   "a": "agassou",
+   "b": "agwe",
+   "kind": "served",
+   "myth": "Agwe's sea ceremony",
+   "note": "Agassou appears as Agwe's ancestral-houngan lieutenant, represented by a crab.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "agassou"
+   ]
+  },
+  {
+   "a": "agassou",
+   "b": "ayida_wedo",
+   "kind": "gift",
+   "myth": "Agassou carries tradition to Haiti",
+   "note": "Ayida gives Agassou a crab for his transatlantic voyage.",
+   "source": "Modern internet narratives",
+   "date": "contemporary",
+   "tier": "modern",
+   "stated_by": [
+    "agassou"
+   ]
+  },
+  {
+   "a": "agassou",
+   "b": "ayida_wedo",
+   "kind": "served",
+   "myth": "Agassou carries tradition to Haiti",
+   "note": "Modern narratives say Ayida selected Agassou to carry Vodou across the Atlantic.",
+   "source": "Modern internet narratives",
+   "date": "contemporary",
+   "tier": "modern",
+   "stated_by": [
+    "agassou"
+   ]
+  },
+  {
+   "a": "agassou",
+   "b": "damballa",
+   "kind": "served",
+   "myth": "",
+   "note": "House-dependent catalogues place Agassou within Dambala's suite.",
+   "source": "Later Haitian catalogues",
+   "date": "late twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "agassou"
+   ]
+  },
+  {
+   "a": "agassou",
+   "b": "loko",
+   "kind": "shared_myth",
+   "myth": "Mirror-surface liturgical song",
+   "note": "A Haitian song places Agassou and Loko together in the mirror.",
+   "source": "Twentieth-century Haitian liturgy",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "agassou"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "ayida_wedo",
+   "kind": "deceived_by",
+   "myth": "Ayida’s alleged affair with Agwe",
+   "note": "Recent regional summaries allege that Ayida deceives Danbala through a liaison with the sea lwa Agwe.",
+   "source": "recent French-language summaries",
+   "date": "recent",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "damballa",
+   "kind": "deceived",
+   "myth": "Ayida becomes Agwe’s lover at sea",
+   "note": "Ayida becomes Agwe’s lover, and Damballa knows that she is unfaithful.",
+   "source": "Milo Marcelin",
+   "date": "1947",
+   "tier": "regional_variant",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "erzulie_freda",
+   "kind": "consort_of",
+   "myth": "The three husbands",
+   "note": "Freda is Agwe's wife, joining cultivated love with maritime wealth and water.",
+   "source": "Marcelin, Deren, Métraux, practitioner accounts",
+   "date": "1949 onward",
+   "tier": "canonical",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "gu",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gu is Agbé's younger sibling or another later child of Mawu-Lisa.",
+   "source": "Herskovits, Outline and Dahomey",
+   "date": "1933–1938",
+   "tier": "attested",
+   "stated_by": [
+    "agwe"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "la_sirene",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "La Sirène is Agwe's wife, consort, and co-ruler of the waters.",
+   "source": "Métraux, Voodoo in Haiti",
+   "date": "1958–1959",
+   "tier": "canonical",
+   "stated_by": [
+    "agwe",
+    "la_sirene"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "la_sirene",
+   "kind": "shared_myth",
+   "myth": "The underwater court",
+   "note": "Agwe and La Sirène inhabit a splendid palace beneath or beyond the sea.",
+   "source": "Haitian folklore and practitioner testimony",
+   "date": "late twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "agwe"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "la_sirene",
+   "kind": "shared_myth",
+   "myth": "Joint water ceremony",
+   "note": "Agwe and La Sirène are jointly honored and represented in sacred art.",
+   "source": "André Pierre, Ceremony for Agoue and La Sirene",
+   "date": "1963",
+   "tier": "canonical",
+   "stated_by": [
+    "agwe"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "la_sirene",
+   "kind": "shared_myth",
+   "myth": "Agwe’s sea ceremony",
+   "note": "His ceremony praises La Sirène and sends offerings to their underwater realm.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "la_sirene"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "loko",
+   "kind": "shared_myth",
+   "myth": "Exodus from Ayizan's house",
+   "note": "Agwe and Loko depart Ayizan's household and assume separate domains.",
+   "source": "Vodou in Haitian Life and Culture",
+   "date": "2006",
+   "tier": "regional_variant",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "mawu_lisa",
+   "kind": "child_of",
+   "myth": "Division of the world",
+   "note": "Mawu-Lisa produces Agbé and assigns him the sea and its life.",
+   "source": "Herskovits and Herskovits, Outline; Herskovits, Dahomey",
+   "date": "1933; 1938",
+   "tier": "attested",
+   "stated_by": [
+    "agwe"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "new_orleans_voodoo",
+   "kind": "shared_myth",
+   "myth": "Agwe's offshore raft offering",
+   "note": "Agwe's acceptance or refusal of an offshore offering is interpreted within the wider spirit community.",
+   "source": "Deren, Divine Horsemen; Métraux",
+   "date": "1953; 1958",
+   "tier": "canonical",
+   "stated_by": [
+    "new_orleans_voodoo"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "simbi",
+   "kind": "shared_myth",
+   "myth": "Aquatic-domain classification",
+   "note": "Agwe shares Simbi’s aquatic domain but is maritime rather than freshwater-local.",
+   "source": "Twentieth-century pantheon descriptions",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "simbi"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "sobo_and_bade",
+   "kind": "shared_myth",
+   "myth": "Journey of the dead",
+   "note": "A funeral song sends the dead to Sobo and Bade, then to Agwe's house.",
+   "source": "Contemporary funeral song",
+   "date": "contemporary",
+   "tier": "attested",
+   "stated_by": [
+    "sobo_and_bade"
+   ]
+  },
+  {
+   "a": "agwe",
+   "b": "sobo_and_bade",
+   "kind": "sibling_of",
+   "myth": "Division of the world",
+   "note": "Sogbo and Agbé are siblings heading the sky and sea domains.",
+   "source": "Herskovits, Outline and Dahomey",
+   "date": "1933–1938",
+   "tier": "attested",
+   "stated_by": [
+    "agwe"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "bossou",
+   "kind": "gift",
+   "myth": "Damballah and Ayida Wedo's wedding",
+   "note": "Bossou offers a bowl of blood rather than wine at Ayida Wedo's wedding.",
+   "source": "Zephirin, Le Mariage de Damballah",
+   "date": "2005",
+   "tier": "modern",
+   "stated_by": [
+    "bossou"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Haitian tradition identifies Ayida as Danbala Wedo’s wife and rainbow counterpart.",
+   "source": "Métraux, Deren, and Marcelin",
+   "date": "1949–1958",
+   "tier": "canonical",
+   "stated_by": [
+    "ayida_wedo",
+    "damballa"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "consort_of",
+   "myth": "Danbala marries the first rainbow",
+   "note": "Modern retellings say Danbala sees the newly appeared rainbow Ayida, loves her, and marries her.",
+   "source": "late popular Haitian retellings",
+   "date": "late twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "identified_with",
+   "myth": "The sexually complete serpent principle",
+   "note": "Ayida and Danbala are complementary female and male aspects of one cosmic serpent principle.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some lineages regard Ayida and Damballa as female and male aspects of one mystery.",
+   "source": "Twentieth-century Haitian ethnography",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "shared_myth",
+   "myth": "Crossing the Atlantic",
+   "note": "Danbala crosses beneath or across the sea while Ayida travels above as a rainbow; they reunite in Haiti.",
+   "source": "modern devotional accounts",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "damballa",
+   "kind": "shared_myth",
+   "myth": "Intertwined serpents generate or renew life",
+   "note": "Their intertwined union represents fertility, balance, and the renewal of life.",
+   "source": "Haitian ethnography and later retellings",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "dan",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Danbala and Ayida are paired as husband and wife in many Haitian traditions.",
+   "source": "Deren; Rigaud; Métraux",
+   "date": "1953–1958",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dan"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "dan",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some traditions treat Danbala and Ayida as dual aspects of one serpent principle.",
+   "source": "Deren; Rigaud; Métraux",
+   "date": "1953–1958",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dan"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "dan",
+   "kind": "other",
+   "myth": "",
+   "note": "Ouidah traditions and scholarship associate or derive Dan Aido-Hwedo from Dangbé while distinguishing their characteristic forms.",
+   "source": "Ouidah traditions and modern scholarship",
+   "date": "modern",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "erzulie_freda",
+   "kind": "contest",
+   "myth": "Rivalry over Danbala",
+   "note": "Some modern traditions call Ayida Freda's rival because both are linked to Danbala.",
+   "source": "Modern practitioner and popular sources",
+   "date": "Modern",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "mawu_lisa",
+   "kind": "served",
+   "myth": "The creator’s serpent",
+   "note": "Aido-Hwedo carries the creator while its winding motion shapes the world.",
+   "source": "Herskovits, Dahomey",
+   "date": "recorded 1931; published 1938",
+   "tier": "attested",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "mawu_lisa",
+   "kind": "served",
+   "myth": "Supporting the completed earth",
+   "note": "At the creator’s command, Aido-Hwedo coils beneath the earth and supports it above the sea.",
+   "source": "Herskovits, Dahomey",
+   "date": "recorded 1931; published 1938",
+   "tier": "attested",
+   "stated_by": [
+    "ayida_wedo"
+   ]
+  },
+  {
+   "a": "ayida_wedo",
+   "b": "simbi",
+   "kind": "shared_myth",
+   "myth": "Aquatic-serpent ritual complex",
+   "note": "Ayida is indirectly associated with Simbi through shared aquatic-serpentine symbolism.",
+   "source": "Twentieth-century Vodou descriptions",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "simbi"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "loko",
+   "kind": "allied",
+   "myth": "The first mambo and first oungan",
+   "note": "Ayizan and Loko jointly guard initiation, temples, ritual knowledge, and priestly transmission.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "ayizan"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "loko",
+   "kind": "allied",
+   "myth": "First priest and priestess",
+   "note": "They jointly protect initiation, ritual purity, and priestly transmission.",
+   "source": "Marcelin, Métraux, and later Haitian ethnography",
+   "date": "1947 onward",
+   "tier": "canonical",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "loko",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later Haitian theology often presents the priestly pair as husband and wife.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "ayizan",
+    "loko"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "loko",
+   "kind": "other",
+   "myth": "Revolt from Ayizan's house",
+   "note": "Loko lived in Ayizan's house, revolted, and departed to assume a separate domain.",
+   "source": "Vodou in Haitian Life and Culture",
+   "date": "2006",
+   "tier": "regional_variant",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "loko",
+   "kind": "shared_myth",
+   "myth": "Legba, Loko, and Ayizan walk together",
+   "note": "A regional liturgy places Loko before Ayizan and says they walk with Legba.",
+   "source": "Optique",
+   "date": "1955",
+   "tier": "attested",
+   "stated_by": [
+    "ayizan"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "maman_brigitte",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparativists occasionally propose Ayizan as Brigitte’s Fon equivalent.",
+   "source": "Modern comparativist claims",
+   "date": "date unspecified",
+   "tier": "modern",
+   "stated_by": [
+    "maman_brigitte"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "marassa",
+   "kind": "shared_myth",
+   "myth": "Ritual order after Ayizan",
+   "note": "Some ritual summaries place the Marassa after Ayizan rather than Legba.",
+   "source": "Later liturgical summaries",
+   "date": "later accounts",
+   "tier": "regional_variant",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "ayizan",
+   "b": "sakpata",
+   "kind": "other",
+   "myth": "Ayizan existed before Sagbata arrived",
+   "note": "An Agasu priest's oral tradition claims Ayizan preceded Sagbata's arrival.",
+   "source": "Herskovits, Dahomey",
+   "date": "1931; published 1938",
+   "tier": "attested",
+   "stated_by": [
+    "ayizan"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "gede",
+   "kind": "other",
+   "myth": "Contrasting possession performances",
+   "note": "Deren contrasts Azaka’s insecure appetite and comic sexuality with Gede’s deliberate transgression.",
+   "source": "Maya Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "gede",
+   "kind": "shared_myth",
+   "myth": "Gede attends Azaka’s feast",
+   "note": "Gede attends Azaka’s ceremony, protects and indulges him, and exploits the dependable feast.",
+   "source": "Maya Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "gede",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deren reports that Gede and Azaka are considered brothers.",
+   "source": "Maya Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "gu",
+   "kind": "other",
+   "myth": "",
+   "note": "Some Haitian compilations call agricultural Zaka a cousin of Ogou Feray.",
+   "source": "later Haitian compilations",
+   "date": "date uncertain",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gu"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "loko",
+   "kind": "shared_myth",
+   "myth": "Azaka’s Brooklyn birthday service",
+   "note": "Loko appears briefly and is saluted during Azaka’s service.",
+   "source": "Karen McCarthy Brown, Mama Lola",
+   "date": "1991",
+   "tier": "attested",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "loko",
+   "kind": "shared_myth",
+   "myth": "Exodus from Ayizan's house",
+   "note": "Zaka and Loko depart Ayizan's household during the same divine exodus.",
+   "source": "Vodou in Haitian Life and Culture",
+   "date": "2006",
+   "tier": "regional_variant",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "ogou",
+   "kind": "other",
+   "myth": "",
+   "note": "Ogou Feray and Zaka are frequently called cousins or companions.",
+   "source": "Métraux observations; Haitian mythographic collections",
+   "date": "mid-twentieth century; later",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ogou"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "ogou",
+   "kind": "other",
+   "myth": "Zaka accused of theft",
+   "note": "Ritual drama places Ogou with Zaka when Zaka is accused of theft.",
+   "source": "Later Haitian mythographic collections",
+   "date": "later twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ogou"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "papa_legba",
+   "kind": "shared_myth",
+   "myth": "Azaka’s Brooklyn birthday service",
+   "note": "Legba is invoked to open the gate before Azaka is called.",
+   "source": "Karen McCarthy Brown, Mama Lola",
+   "date": "1991",
+   "tier": "attested",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "azaka",
+   "b": "sobo_and_bade",
+   "kind": "allied",
+   "myth": "Making the earth productive",
+   "note": "Contemporary teaching says Azaka works with Sobo’s rain and thunder power to make earth productive.",
+   "source": "Erzulie’s Voodoo practitioner archive",
+   "date": "2025–2026",
+   "tier": "modern",
+   "stated_by": [
+    "azaka"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "bondye",
+   "kind": "served",
+   "myth": "",
+   "note": "Baron stands beneath the supreme creator Bondye in Vodou theology.",
+   "source": "General Vodou theology",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "baron_samedi"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "gede",
+   "kind": "contest",
+   "myth": "The just refusal of death",
+   "note": "Gede may refuse to bury someone whom Bawon has unjustly marked for death.",
+   "source": "Herskovits, Life in a Haitian Valley",
+   "date": "1934 fieldwork; 1937 publication",
+   "tier": "attested",
+   "stated_by": [
+    "gede"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "gede",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Deren repeatedly presents Baron Samedi and Gede as alternative identities.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "baron_samedi",
+    "gede"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "gede",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later teachings make Bawon father or king of the innumerable Gede.",
+   "source": "Twentieth-century ethnographies and practitioner teaching",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gede"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "gede",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Some traditions place Bawon as ruler or principal figure of the Gede.",
+   "source": "Deren and later ethnographies",
+   "date": "1953 and later",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gede"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "kalfou",
+   "kind": "allied",
+   "myth": "Governance of invisible magical forces",
+   "note": "Baron and Carrefour jointly govern invisible forces employed in dangerous magic.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "baron_samedi"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "kalfou",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deren structurally interprets Baron as brother to Carrefour.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "regional_variant",
+   "stated_by": [
+    "baron_samedi"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "maman_brigitte",
+   "kind": "allied",
+   "myth": "Joint rule of the cemetery",
+   "note": "Baron and Brijit jointly govern the cemetery and death complex.",
+   "source": "Twentieth-century ethnography and practitioner tradition",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "baron_samedi"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "maman_brigitte",
+   "kind": "allied",
+   "myth": "Brigitte and Bawon rule the cemetery",
+   "note": "They jointly govern cemeteries and passage between life and death.",
+   "source": "Later ethnographic syntheses",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "attested",
+   "stated_by": [
+    "maman_brigitte"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "maman_brigitte",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "She is Baron's wife, female cemetery counterpart, and co-ruler of the dead.",
+   "source": "Twentieth-century ethnography and practitioner tradition",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "baron_samedi",
+    "maman_brigitte"
+   ]
+  },
+  {
+   "a": "baron_samedi",
+   "b": "simbi",
+   "kind": "allied",
+   "myth": "Magic and protective packets",
+   "note": "Deren associates Baron and Simbi with magical operations and protective pakèt.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "baron_samedi"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "damballa",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Damballa remains subordinate to the remote creator in Haitian theological structure.",
+   "source": "General Haitian theological tradition",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "erzulie_freda",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Freda serves beneath the remote creator within the lwa-mediated Vodou cosmos.",
+   "source": "General Vodou theology",
+   "date": "",
+   "tier": "canonical",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "gede",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Gede remains subordinate to Bondye and cannot reverse a death God has fixed.",
+   "source": "Deren and later practitioner commentary",
+   "date": "1953 and later",
+   "tier": "canonical",
+   "stated_by": [
+    "gede"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "marassa",
+   "kind": "created",
+   "myth": "Creation of the primordial twins",
+   "note": "Some accounts call the Marasa Bondye’s earliest creations or first children.",
+   "source": "Deren and later ritual literature",
+   "date": "1953 and later",
+   "tier": "regional_variant",
+   "stated_by": [
+    "bondye"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "marassa",
+   "kind": "created",
+   "myth": "The primordial twins",
+   "note": "An alternative formulation calls the Marassa Bondye’s first creation.",
+   "source": "Deren, Divine Horsemen; later practitioners",
+   "date": "1953 and later",
+   "tier": "canonical",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "marassa",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lineage-specific formulations metaphorically describe the Marasa as Bondye’s first children.",
+   "source": "Late ritual summaries",
+   "date": "Late 20th–21st centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "bondye"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "marassa",
+   "kind": "parent_of",
+   "myth": "The primordial twins",
+   "note": "The Marassa are described as Bondye’s first children, closest to the divine source.",
+   "source": "Deren, Divine Horsemen; later practitioners",
+   "date": "1953 and later",
+   "tier": "canonical",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "mawu_lisa",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Haitian comparison links both as remote creators, without establishing lexical identity.",
+   "source": "Haitian comparative scholarship",
+   "date": "twentieth century",
+   "tier": "syncretism",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "bondye",
+   "b": "papa_legba",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Legba mediates ritual access within a cosmos ultimately governed by Bondye.",
+   "source": "Haitian ritual discourse",
+   "date": "20th century",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "bossou",
+   "b": "damballa",
+   "kind": "gift",
+   "myth": "Damballah and Ayida Wedo's wedding",
+   "note": "Bossou offers a bowl of blood rather than wine at Damballah's wedding.",
+   "source": "Zephirin, Le Mariage de Damballah",
+   "date": "2005",
+   "tier": "modern",
+   "stated_by": [
+    "bossou"
+   ]
+  },
+  {
+   "a": "bossou",
+   "b": "kalfou",
+   "kind": "shared_myth",
+   "myth": "Secret-society spirit service",
+   "note": "Kalfou and Bosou are both served by reported Makaya, Bizango, and Sanpwel groups.",
+   "source": "Haitian informant testimony",
+   "date": "1 June 2003",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "bossou",
+   "b": "sakpata",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A disputed reconstruction presents Bossou as another name or manifestation of Sakpata.",
+   "source": "Hebblethwaite-related linguistic reconstruction",
+   "date": "modern",
+   "tier": "syncretism",
+   "stated_by": [
+    "bossou"
+   ]
+  },
+  {
+   "a": "damballa",
+   "b": "dan",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars connect Damballa historically with Whydah’s royal python vodun without asserting literal identity.",
+   "source": "Modern comparative scholarship",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "damballa",
+   "b": "gu",
+   "kind": "shared_myth",
+   "myth": "Cool serpent contrasted with heated warrior",
+   "note": "Deren contrasts Damballah's cool antiquity with Ogou's heated warrior temperament.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "gu"
+   ]
+  },
+  {
+   "a": "damballa",
+   "b": "mawu_lisa",
+   "kind": "served",
+   "myth": "Aido-Hwedo assists the creator forming the world",
+   "note": "As Aido-Hwedo, the serpent carries or assists Mawu-Lisa during creation.",
+   "source": "Herskovits and Mercier",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "damballa",
+   "b": "mawu_lisa",
+   "kind": "shared_myth",
+   "myth": "Aido-Hwedo supports the completed earth",
+   "note": "After creation, the serpent coils beneath the earth or establishes supports stabilizing it.",
+   "source": "Herskovits-era Dahomean materials and Mercier",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "damballa"
+   ]
+  },
+  {
+   "a": "damballa",
+   "b": "ti_jean_petro",
+   "kind": "other",
+   "myth": "",
+   "note": "Deren interprets Ti Jean's footless tree-climbing as analogous to Danbala's serpent nature.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "modern",
+   "stated_by": [
+    "ti_jean_petro"
+   ]
+  },
+  {
+   "a": "dan",
+   "b": "erzulie_freda",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some Haitian lineages describe Erzulie Freda as Damballah's lover or concubine.",
+   "source": "Twentieth-century Haitian pantheon descriptions",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dan"
+   ]
+  },
+  {
+   "a": "dan",
+   "b": "gu",
+   "kind": "allied",
+   "myth": "Protective object activation",
+   "note": "Gu, Legba and Dan are invoked together to animate protective objects.",
+   "source": "modern south-Beninese ethnography",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "gu"
+   ]
+  },
+  {
+   "a": "dan",
+   "b": "mawu_lisa",
+   "kind": "served",
+   "myth": "Creation journey",
+   "note": "Ayido-Hwedo transports Mawu-Lisa during creation and later supports the completed earth.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "dan"
+   ]
+  },
+  {
+   "a": "erzulie_dantor",
+   "b": "ogou",
+   "kind": "consort_of",
+   "myth": "Dantò and Freda contend over Ogou",
+   "note": "Dantò is Ogou’s lover or partner; traditions variously specify Feray, Badagri, Chango, or another Ogou.",
+   "source": "Modern oral narratives",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_dantor"
+   ]
+  },
+  {
+   "a": "erzulie_dantor",
+   "b": "ti_jean_petro",
+   "kind": "allied",
+   "myth": "",
+   "note": "Some houses treat Ti Jean as Dantò’s closely allied ritual companion.",
+   "source": "Songs and oral catalogues",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_dantor"
+   ]
+  },
+  {
+   "a": "erzulie_dantor",
+   "b": "ti_jean_petro",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A documented praise-song calls Dantò Ti Jean’s woman; some traditions call him her husband or lover.",
+   "source": "Documented praise song",
+   "date": "2012",
+   "tier": "attested",
+   "stated_by": [
+    "erzulie_dantor"
+   ]
+  },
+  {
+   "a": "erzulie_dantor",
+   "b": "ti_jean_petro",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some oral genealogies identify Ti Jean as Dantò’s son or the child she carries.",
+   "source": "Songs and oral catalogues",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_dantor"
+   ]
+  },
+  {
+   "a": "erzulie_freda",
+   "b": "gede",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some modern accounts name Gede among Freda's lovers.",
+   "source": "Modern scholarly and practitioner discourse",
+   "date": "Modern",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "erzulie_freda",
+   "b": "gede",
+   "kind": "contest",
+   "myth": "",
+   "note": "Modern discourse contrasts Freda's refined eroticism with Gede's disruptive sexuality.",
+   "source": "Modern scholarly and practitioner discourse",
+   "date": "Modern",
+   "tier": "modern",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "erzulie_freda",
+   "b": "la_sirene",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some traditions conflate them because both embody beauty, wealth, and aquatic associations.",
+   "source": "Deren; Brown",
+   "date": "1953; 1991",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "erzulie_freda",
+   "b": "la_sirene",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some lineages describe the affiliated watery and beautiful Lasirèn as Freda's sister.",
+   "source": "Deren; Brown",
+   "date": "1953; 1991",
+   "tier": "regional_variant",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "erzulie_freda",
+   "b": "ogou",
+   "kind": "consort_of",
+   "myth": "The three husbands",
+   "note": "Ogou is Freda's husband or impassioned lover, with identity varying by lineage.",
+   "source": "Hurston, Marcelin, Deren-era accounts",
+   "date": "1938 onward",
+   "tier": "canonical",
+   "stated_by": [
+    "erzulie_freda"
+   ]
+  },
+  {
+   "a": "gede",
+   "b": "gran_bwa",
+   "kind": "shared_myth",
+   "myth": "Downward movement toward the underworld",
+   "note": "Deren links Grand Bois, Carrefour, and Ghede in an underworld movement.",
+   "source": "Maya Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gede",
+   "b": "kalfou",
+   "kind": "shared_myth",
+   "myth": "Governance of magic and the dead",
+   "note": "Gede governs dealings with the dead while Kalfou governs dangerous nocturnal passage.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "gede",
+   "b": "maman_brigitte",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later traditions call Brigitte mother and senior female authority of the Gede.",
+   "source": "Hurbon and Hebblethwaite",
+   "date": "1993–2021",
+   "tier": "canonical",
+   "stated_by": [
+    "maman_brigitte"
+   ]
+  },
+  {
+   "a": "gede",
+   "b": "marassa",
+   "kind": "shared_myth",
+   "myth": "Joint ritual invocation",
+   "note": "Some Gede songs and rites invoke the Marasa alongside the dead.",
+   "source": "Modern song corpus",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gede"
+   ]
+  },
+  {
+   "a": "gede",
+   "b": "ogou",
+   "kind": "contest",
+   "myth": "Gede interrupts Ogou’s ceremony",
+   "note": "Gede possesses someone prematurely, refuses to leave, and demands his attributes.",
+   "source": "Métraux, Le Vaudou haïtien",
+   "date": "1958",
+   "tier": "attested",
+   "stated_by": [
+    "ogou"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "kalfou",
+   "kind": "allied",
+   "myth": "",
+   "note": "Contemporary houses say they collaborate in magic or secret-society work.",
+   "source": "Contemporary house testimony",
+   "date": "twenty-first century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "kalfou",
+   "kind": "shared_myth",
+   "myth": "Downward movement toward the underworld",
+   "note": "Deren places Grand Bois near Carrefour within her underworld cosmology.",
+   "source": "Maya Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "kalfou",
+   "kind": "shared_myth",
+   "myth": "Masters of woods, crossroads, and cemetery",
+   "note": "A song places Gran Bwa in woods and Mèt Kafou at crossroads.",
+   "source": "Beauvoir–Hebblethwaite recorded song corpus",
+   "date": "published 2015",
+   "tier": "attested",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "kalfou",
+   "kind": "shared_myth",
+   "myth": "The midnight lord",
+   "note": "At midnight Kalfou and Gran Bwa jointly govern magical practice with Baron Cimetière.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "loko",
+   "kind": "allied",
+   "myth": "",
+   "note": "Other houses distinguish the spirits but say Gran Bwa and Loko walk together.",
+   "source": "Modern house testimony",
+   "date": "twenty-first century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "loko",
+   "kind": "identified_with",
+   "myth": "Initiatory journey through the poto-mitan",
+   "note": "Rigaud associates the ritual post with both Papa Loko and Maître Grand Bois.",
+   "source": "Rigaud, La Tradition voudoo",
+   "date": "1953",
+   "tier": "canonical",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gran_bwa",
+   "b": "loko",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some houses understand Gran Bwa as Loko’s Petwo road or manifestation.",
+   "source": "Modern house testimony",
+   "date": "twenty-first century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "gran_bwa"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "mawu_lisa",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gu is described as Mawu-Lisa's divine child or agent.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "attested",
+   "stated_by": [
+    "gu",
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "mawu_lisa",
+   "kind": "created_by",
+   "myth": "Gu clears and equips the world",
+   "note": "Mawu-Lisa creates or dispatches Gu to clear and organize creation.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "attested",
+   "stated_by": [
+    "gu"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "mawu_lisa",
+   "kind": "gift",
+   "myth": "Gu completes civilization",
+   "note": "Mawu-Lisa equips and commissions Gu to finish the world's material work.",
+   "source": "Herskovits; Dahomean Narrative",
+   "date": "1938–1958",
+   "tier": "attested",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "ogou",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ogou is historically related to the Fon iron divinity through Atlantic transmission and Haitian transformation.",
+   "source": "African and Haitian comparative ethnography",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "ogou"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "papa_legba",
+   "kind": "served_by",
+   "myth": "Distribution of divine realms and languages",
+   "note": "Legba communicates between the iron and war vodun and Mawu.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "papa_legba",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pantheon genealogies commonly list the iron and war vodun among Legba’s siblings.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "gu",
+   "b": "sakpata",
+   "kind": "shared_myth",
+   "myth": "Sakpata ritual grouping",
+   "note": "Gu appears with Sakpata among associated earthly divinities.",
+   "source": "Abomey ethnographic corpus",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "sakpata"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "mawu_lisa",
+   "kind": "child_of",
+   "myth": "Apportionment of the cosmos",
+   "note": "Mawu-Lisa creates Hevioso or Sogbo and assigns him sky and thunder.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "mawu_lisa",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Abomey systematizations describe the thunder deity as Mawu-Lisa's child.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "mawu_lisa",
+   "kind": "served",
+   "myth": "",
+   "note": "Some systematizations subordinate the thunder department to Mawu-Lisa.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "papa_legba",
+   "kind": "served_by",
+   "myth": "Distribution of divine realms and languages",
+   "note": "Legba translates messages because Hevioso no longer speaks Mawu’s language.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "papa_legba",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pantheon genealogies commonly list the thunder deity among Legba’s siblings.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sakpata",
+   "kind": "contest",
+   "myth": "Dispute over cosmic jurisdiction",
+   "note": "The thunder and earth powers quarrel after Mawu apportions their respective domains.",
+   "source": "Dahomean cosmogonic accounts",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sakpata",
+   "kind": "fought",
+   "myth": "Quarrel and territorial separation",
+   "note": "Their quarrel leaves Xevioso ruling the sky and Sakpata the earth.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "sakpata"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sakpata",
+   "kind": "gift",
+   "myth": "Rain nourishes Sakpata’s earth",
+   "note": "In complementary accounts, Hevioso sends rain to the earth governed by Sakpata.",
+   "source": "Regional Gbe accounts",
+   "date": "",
+   "tier": "regional_variant",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sakpata",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sakpata and the thunder power are described as brothers.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "sakpata"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sobo_and_bade",
+   "kind": "allied",
+   "myth": "Sobo and Badé govern storms",
+   "note": "Sobo’s thunder and lightning operate jointly with Badé’s wind in Haitian service.",
+   "source": "Haitian tradition",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sobo_and_bade",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some regional traditions make the generative Sogbo Hevioso’s mother or progenitor.",
+   "source": "Regional Gbe traditions",
+   "date": "",
+   "tier": "regional_variant",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sobo_and_bade",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Rigaud identifies or associates Sobo with Québiésou, the Dahomean thunder power Hevioso.",
+   "source": "Rigaud, Vèvè",
+   "date": "1974",
+   "tier": "syncretism",
+   "stated_by": [
+    "sobo_and_bade"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sobo_and_bade",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Dahomean compilations describe Gbade as Sogbo’s youngest and unruly child.",
+   "source": "Herskovits-derived compilations",
+   "date": "twentieth century",
+   "tier": "canonical",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "hevioso",
+   "b": "sobo_and_bade",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Haitian traditions commonly describe Sobo and wind-governing Badé as brother lwa.",
+   "source": "Haitian tradition",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "hevioso"
+   ]
+  },
+  {
+   "a": "kalfou",
+   "b": "papa_legba",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Métraux classifies Maître Carrefour as Legba-Petwo, the magically potent Petwo manifestation of Legba.",
+   "source": "Métraux, Le Vaudou haïtien",
+   "date": "1958",
+   "tier": "attested",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "kalfou",
+   "b": "papa_legba",
+   "kind": "shared_myth",
+   "myth": "The two powers at the gate",
+   "note": "Kalfou sits opposite Legba, dividing nocturnal intercardinal forces from Legba’s daylight cardinal authority.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "kalfou",
+   "b": "simbi",
+   "kind": "shared_myth",
+   "myth": "Governance of magical forces",
+   "note": "Simbi sometimes joins Kalfou, Gede, and Gran Bwa in governing forces required for magic.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "attested",
+   "stated_by": [
+    "kalfou"
+   ]
+  },
+  {
+   "a": "la_sirene",
+   "b": "ogou",
+   "kind": "other",
+   "myth": "Agwe and Ogoun feud over Ezili",
+   "note": "La Sirène’s overlap with Ezili implicates her in Agwe and Ogoun’s rivalry.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "regional_variant",
+   "stated_by": [
+    "la_sirene"
+   ]
+  },
+  {
+   "a": "loko",
+   "b": "mawu_lisa",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Loko is classified as a later child or member of the Mawu-Lisa pantheon.",
+   "source": "Herskovits",
+   "date": "1933 and 1938",
+   "tier": "canonical",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "loko",
+   "b": "sobo_and_bade",
+   "kind": "shared_myth",
+   "myth": "Exodus from Ayizan's house",
+   "note": "Loko joins the departing group for which Sobo makes a signal flag.",
+   "source": "Vodou in Haitian Life and Culture",
+   "date": "2006",
+   "tier": "regional_variant",
+   "stated_by": [
+    "loko"
+   ]
+  },
+  {
+   "a": "marassa",
+   "b": "mawu_lisa",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern interpreters propose that Mawu-Lisa's duality is reflected by Haitian divine twins.",
+   "source": "Modern comparative interpretation",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "marassa",
+   "b": "mawu_lisa",
+   "kind": "other",
+   "myth": "",
+   "note": "Scholars compare their complementary duality, without securely identifying the Marassa as Mawu and Lisa.",
+   "source": "Deren and comparative scholarship",
+   "date": "1953 and later",
+   "tier": "modern",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "marassa",
+   "b": "papa_legba",
+   "kind": "shared_myth",
+   "myth": "Opening the ritual road",
+   "note": "Legba opens the road, after which the Marassa are normally saluted.",
+   "source": "Herskovits; Métraux; Desmangles",
+   "date": "1937–1992",
+   "tier": "canonical",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "marassa",
+   "b": "papa_legba",
+   "kind": "shared_myth",
+   "myth": "Marassa precede Legba",
+   "note": "Around Léogâne and in some rites, the Marassa receive precedence over Legba.",
+   "source": "Métraux, Le Vaudou haïtien",
+   "date": "1958–1959",
+   "tier": "regional_variant",
+   "stated_by": [
+    "marassa"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "papa_legba",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The paired creator is also presented as Legba’s parent.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "sakpata",
+   "kind": "gift",
+   "myth": "Division of cosmic offices",
+   "note": "Mawu-Lisa assigns Nyohwe Ananu authority within the earth pantheon.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "canonical",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "sakpata",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mawu-Lisa produces Nyohwe Ananu within the paired earth complex.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "canonical",
+   "stated_by": [
+    "mawu_lisa",
+    "sakpata"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "sobo_and_bade",
+   "kind": "created",
+   "myth": "Mawu-Lisa generates Sogbo",
+   "note": "In Dahomean cosmology, Mawu-Lisa generates Sogbo and assigns him the sky.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sobo_and_bade"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "sobo_and_bade",
+   "kind": "gift",
+   "myth": "Division of cosmic offices",
+   "note": "Mawu-Lisa grants Sogbo authority over sky, thunder, or atmosphere.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "canonical",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "mawu_lisa",
+   "b": "sobo_and_bade",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mawu-Lisa produces Sogbo among the departmental divine children.",
+   "source": "Herskovits",
+   "date": "1933–1938",
+   "tier": "canonical",
+   "stated_by": [
+    "mawu_lisa"
+   ]
+  },
+  {
+   "a": "new_orleans_voodoo",
+   "b": "papa_legba",
+   "kind": "served_by",
+   "myth": "Papa Lébat opens access to Louisiana spirits",
+   "note": "Later recollections portray him as the doorkeeper mediating ritual access to other Louisiana spirits.",
+   "source": "Louisiana Writers’ Project interviews",
+   "date": "1930s–40s",
+   "tier": "modern",
+   "stated_by": [
+    "new_orleans_voodoo"
+   ]
+  },
+  {
+   "a": "ogou",
+   "b": "sobo_and_bade",
+   "kind": "other",
+   "myth": "Ogou's absence and dog",
+   "note": "Sobo announces himself during Ogou's absence and claims responsibility for Ogou's dog biting someone.",
+   "source": "Roumain, Les Grands Dieux",
+   "date": "1947",
+   "tier": "attested",
+   "stated_by": [
+    "sobo_and_bade"
+   ]
+  },
+  {
+   "a": "papa_legba",
+   "b": "sakpata",
+   "kind": "served",
+   "myth": "Distribution of divine realms and languages",
+   "note": "Legba observes Sagbata’s rule and carries communications between Sagbata and Mawu.",
+   "source": "Herskovits, Dahomean Narrative",
+   "date": "1958",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "papa_legba",
+   "b": "sakpata",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pantheon genealogies commonly list the earth deity among Legba’s siblings.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "canonical",
+   "stated_by": [
+    "papa_legba"
+   ]
+  },
+  {
+   "a": "sakpata",
+   "b": "sobo_and_bade",
+   "kind": "sibling_of",
+   "myth": "Division of sky and earth",
+   "note": "Sogbo governs sky while his cosmological sibling Sakpata governs earth.",
+   "source": "Herskovits, Dahomey",
+   "date": "1938",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sobo_and_bade"
+   ]
+  },
+  {
+   "a": "simbi",
+   "b": "ti_jean_petro",
+   "kind": "other",
+   "myth": "",
+   "note": "Deren structurally links Simbi between the Dan–Ti Jean Petro and Danbala complexes.",
+   "source": "Deren, Divine Horsemen",
+   "date": "1953",
+   "tier": "modern",
+   "stated_by": [
+    "ti_jean_petro"
+   ]
+  },
+  {
+   "a": "simbi",
+   "b": "ti_jean_petro",
+   "kind": "shared_myth",
+   "myth": "Husbands of Ezili Dantò",
+   "note": "Modern sources name him alongside Simbi Makaya as Ezili Dantò’s husbands.",
+   "source": "Modern practitioner summaries",
+   "date": "recent",
+   "tier": "modern",
+   "stated_by": [
+    "simbi"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Aflado": [
+   {
+    "stated_by": "sakpata",
+    "kind": "shared_myth",
+    "myth": "Incorporation into Sakpata family",
+    "note": "Aflado, equated regionally with Agasu, appears within the Sakpata family list.",
+    "source": "Abomey ethnographic corpus",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Agaou": [
+   {
+    "stated_by": "agwe",
+    "kind": "allied",
+    "myth": "",
+    "note": "One modern commentary says Agaou reigns jointly with Agwe.",
+    "source": "Nancy Férère vèvè commentary",
+    "date": "2003",
+    "tier": "modern"
+   }
+  ],
+  "Agawou": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "other",
+    "myth": "Calling Agawou's thunderstorm",
+    "note": "Weakly sourced modern lists claim Sobo and Bade jointly call Agawou and produce a thunderstorm.",
+    "source": "Modern secondary lists",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Agbe": [
+   {
+    "stated_by": "hevioso",
+    "kind": "parent_of",
+    "myth": "Children delegated to the sea",
+    "note": "Herskovits-derived classifications make Agbe one of Sogbo’s children governing the sea.",
+    "source": "Herskovits-derived classifications",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Another genealogy makes Agbe and Hevioso separate children of Mawu-Lisa.",
+    "source": "Dahomean pantheon classifications",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mawu-Lisa produces Agbe as one of the paired water deities.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Division of cosmic offices",
+    "note": "Mawu-Lisa assigns Agbe jurisdiction over the sea and waters.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pantheon genealogies commonly list Agbe among Legba’s siblings.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Legba connects Agbe’s sea domain with Mawu through translation.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "sibling_of",
+    "myth": "Division of sky and sea",
+    "note": "Sogbo and Agbe hold distinct sibling jurisdictions over sky and sea.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "regional_variant"
+   }
+  ],
+  "Age": [
+   {
+    "stated_by": "gu",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Gu and Age appear as Mawu-Lisa's children with divided cosmic occupations.",
+    "source": "Mercier and Herskovits classifications",
+    "date": "twentieth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mawu-Lisa produces Age among the departmental divine children.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Division of cosmic offices",
+    "note": "Mawu-Lisa grants Age the bush, wild animals, and hunting.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pantheon genealogies commonly list Age among Legba’s siblings.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Legba connects Age’s hunter, forest, or agricultural domain with Mawu.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   }
+  ],
+  "Aido-Hwedo": [
+   {
+    "stated_by": "damballa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Damballa is frequently equated with Dahomey’s cosmic serpent, though the dossier treats them as historically distinct.",
+    "source": "Herskovits and later scholarship",
+    "date": "1938 and later",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "allied",
+    "myth": "Formation and support of the earth",
+    "note": "The cosmic serpent carries Mawu while its movements shape the terrain.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "created",
+    "myth": "Formation and support of the earth",
+    "note": "Mawu creates the surrounding sea to cool the world-supporting serpent.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "served_by",
+    "myth": "Serpent supports the finished earth",
+    "note": "At Mawu's command, Aido-Hwedo coils beneath or around the earth.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "attested"
+   }
+  ],
+  "Ajahuto": [
+   {
+    "stated_by": "agassou",
+    "kind": "ancestor_of",
+    "myth": "Migration toward Allada",
+    "note": "Some traditions make Ajahuto Agasu's son or a more remote descendant.",
+    "source": "Fon and Gun origin traditions",
+    "date": "oral tradition",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "agassou",
+    "kind": "identified_with",
+    "myth": "Migration toward Allada",
+    "note": "Some modern retellings collapse Ajahuto into Agasu.",
+    "source": "Modern retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Aklombé": [
+   {
+    "stated_by": "hevioso",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later pantheon lists identify Aklombé as a child of Hevioso or Sogbo.",
+    "source": "Later pantheon lists",
+    "date": "",
+    "tier": "canonical"
+   }
+  ],
+  "Aldkpe": [
+   {
+    "stated_by": "sakpata",
+    "kind": "shared_myth",
+    "myth": "Aquatic incorporation into Sakpata family",
+    "note": "This water spirit is associated with Da within the Sakpata complex.",
+    "source": "Abomey ethnographic corpus",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Aligbonon": [
+   {
+    "stated_by": "agassou",
+    "kind": "child_of",
+    "myth": "The princess and the leopard",
+    "note": "Aligbonon bears Agasu after union with a leopard-being.",
+    "source": "Le Hérissé, L’ancien royaume du Dahomey",
+    "date": "1911",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "agassou",
+    "kind": "consort_of",
+    "myth": "Incestuous mother-son origin variant",
+    "note": "A rare account makes Agasu and his mother parents together.",
+    "source": "Later ethnographic discussion",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Anaïs": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some lineages name Anaïs as Dantò’s daughter and identify her as the child in Dantò’s icon.",
+    "source": "Regional oral tradition",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Asaka": [
+   {
+    "stated_by": "azaka",
+    "kind": "identified_with",
+    "myth": "Once on This Island",
+    "note": "The musical transforms Azaka into Asaka, a female earth deity.",
+    "source": "Once on This Island",
+    "date": "1990",
+    "tier": "modern"
+   }
+  ],
+  "Asojano": [
+   {
+    "stated_by": "sakpata",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Arará traditions preserve this diasporic form linked with the Gbe Sakpata complex.",
+    "source": "Comparative diasporic scholarship",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Avlekete": [
+   {
+    "stated_by": "hevioso",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some Mahi and coastal traditions describe Avlekete as Hevioso’s wife.",
+    "source": "Mahi and coastal traditions",
+    "date": "",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Other classifications make Avlekete a child within Hevioso’s thunder-sea family.",
+    "source": "Regional pantheon classifications",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Awe": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "taught",
+    "myth": "Monkey's failed creation",
+    "note": "Mawu invites or orders Monkey to assist by preparing and shaping clay.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "contest",
+    "myth": "Monkey's failed creation",
+    "note": "Monkey claims he can rival Mawu but cannot give life to clay bodies.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "punished",
+    "myth": "Monkey's failed creation",
+    "note": "Mawu condemns Monkey to remain an animal after exposing his creative incapacity.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Lisa's death-bearing porridge",
+    "note": "In an expanded version, Lisa gives Monkey porridge containing death.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   }
+  ],
+  "Baron Cimetière": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Early catalogue traditions describe him as Baron's brother.",
+    "source": "Herskovits-circle lwa catalogue",
+    "date": "c. 1930s–1940",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later systems sometimes treat Cimetière as an aspect of Samedi.",
+    "source": "Later practitioner systematizations",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "allied",
+    "myth": "Government of magical operations",
+    "note": "Deren places Cimetière among Baron forms governing magical operations.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kalfou",
+    "kind": "shared_myth",
+    "myth": "The midnight lord",
+    "note": "Kalfou and Baron Cimetière join Gran Bwa in the midnight triad patronizing magicians.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "attested"
+   }
+  ],
+  "Baron Kriminel": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some popular systems present Kriminel as a form of Samedi.",
+    "source": "Later practitioner and popular systems",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Baron La Croix": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Early catalogue traditions describe the Barons as brothers.",
+    "source": "Herskovits-circle lwa catalogue",
+    "date": "c. 1930s–1940",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later systems sometimes treat La Croix as an aspect of Samedi.",
+    "source": "Later practitioner systematizations",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "allied",
+    "myth": "Joint cemetery authority",
+    "note": "They share authority within the cemetery and Gede ritual field.",
+    "source": "Herskovits circle and later practice",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Baron Maître Cimetière": [
+   {
+    "stated_by": "kalfou",
+    "kind": "shared_myth",
+    "myth": "Secte Rouge ceremonies",
+    "note": "Maître Carrefour and Baron Maître Cimetière appear together in secret-society ceremonial accounts.",
+    "source": "Hurston, Tell My Horse",
+    "date": "1938",
+    "tier": "attested"
+   }
+  ],
+  "Baron Piquant": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Catalogue material calls this harsh grave-working Baron Samedi's brother.",
+    "source": "Early twentieth-century lwa catalogues",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Bawon Kriminèl": [
+   {
+    "stated_by": "gede",
+    "kind": "allied",
+    "myth": "",
+    "note": "He participates in the Gede complex, sometimes as a distinct allied cemetery lwa.",
+    "source": "Métraux-era classifications and modern songs",
+    "date": "twentieth–twenty-first centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Bawon Lakwa": [
+   {
+    "stated_by": "gran_bwa",
+    "kind": "shared_myth",
+    "myth": "Masters of woods, crossroads, and cemetery",
+    "note": "A song juxtaposes Gran Bwa in the woods with Bawon Lakwa in the cemetery.",
+    "source": "Beauvoir–Hebblethwaite recorded song corpus",
+    "date": "published 2015",
+    "tier": "attested"
+   }
+  ],
+  "Bawon Simityè": [
+   {
+    "stated_by": "gran_bwa",
+    "kind": "shared_myth",
+    "myth": "Triad of magicians",
+    "note": "Later systems group Gran Bwa, Kalfou, and Bawon Simityè as forest, roads, and death.",
+    "source": "Late printed and internet tradition",
+    "date": "late twentieth century onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "Bazou": [
+   {
+    "stated_by": "bossou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A speculative Kongo comparison equates Bossou with the high spirit Bazou.",
+    "source": "Recent comparative synthesis",
+    "date": "recent",
+    "tier": "modern"
+   }
+  ],
+  "Bosikpon": [
+   {
+    "stated_by": "agassou",
+    "kind": "other",
+    "myth": "Absorption into Bosikpon's temple",
+    "note": "Oral testimony says Agasu was installed in Bosikpon's pre-existing leopard temple.",
+    "source": "Blier, The Path of the Leopard",
+    "date": "1995",
+    "tier": "modern"
+   }
+  ],
+  "Bosu": [
+   {
+    "stated_by": "sakpata",
+    "kind": "served_by",
+    "myth": "",
+    "note": "This female vodun guards Sakpata's divine household and orders its ceremonies.",
+    "source": "Abomey ethnographic corpus",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Boukman’s invoked deity": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "identified_with",
+    "myth": "Later identification of Dantò at Bois Caïman",
+    "note": "Modern national tradition identifies Dantò with the power invoked at Bois Caïman, though early accounts do not.",
+    "source": "Modern national sacred tradition",
+    "date": "late twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Chanprèl": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "shared_myth",
+    "myth": "Petwo fire song",
+    "note": "Chanprèl and Ti Jean are jointly invoked to light the fire.",
+    "source": "Rigaud/Marcelin song corpus",
+    "date": "1950s",
+    "tier": "attested"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "bondye",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Haitian practice often directly identifies Bondye with the Christian God.",
+    "source": "Hurbon; Desmangles",
+    "date": "1972–1992",
+    "tier": "syncretism"
+   }
+  ],
+  "Congo Savanne": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "other",
+    "myth": "",
+    "note": "Deren groups Ti Jean with Congo Savanne among major Petwo powers.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "modern"
+   }
+  ],
+  "Congo Zandor": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later classifications identify Ti Jean as Ti Jean Zandor or associate him with Zandor.",
+    "source": "Deren; de Heusch",
+    "date": "1953; 1989",
+    "tier": "syncretism"
+   }
+  ],
+  "Da Ayido Hwedo": [
+   {
+    "stated_by": "sakpata",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The Sakpata-family member Dji is identified with Da Ayido Hwedo.",
+    "source": "Abomey ethnographic corpus",
+    "date": "1970s",
+    "tier": "syncretism"
+   }
+  ],
+  "Da Langan": [
+   {
+    "stated_by": "sakpata",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Da Langan is classified as another senior son in the Sakpata family.",
+    "source": "Abomey ethnographic corpus",
+    "date": "1970s",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "An alternative ritual classification describes Da Langan as Sakpata's sibling.",
+    "source": "Abomey ethnographic corpus",
+    "date": "1970s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Da Tokpo": [
+   {
+    "stated_by": "sakpata",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Da Tokpo governs the Sakpata family in Da Zodji's place.",
+    "source": "Abomey ethnographic corpus",
+    "date": "1970s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Da Zodji": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mawu-Lisa produces Da Zodji, a member of the earth complex.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Division of cosmic offices",
+    "note": "Mawu-Lisa assigns Da Zodji authority over earth and its riches.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Da Zodji is classified as Sakpata's senior son.",
+    "source": "Abomey field list",
+    "date": "1970s",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "served_by",
+    "myth": "",
+    "note": "He exercises authority over the Sakpata family in the aged father's place.",
+    "source": "Abomey field list",
+    "date": "1970s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Dakodonu": [
+   {
+    "stated_by": "agassou",
+    "kind": "parent_of",
+    "myth": "Incestuous mother-son origin variant",
+    "note": "A minority genealogy names Dakodonu as Agasu and Aligbonon's child.",
+    "source": "Later ethnographic discussion",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Dan Petro": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Deren calls Ti Jean the son of Dan Petro.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "attested"
+   }
+  ],
+  "Danbala": [
+   {
+    "stated_by": "azaka",
+    "kind": "shared_myth",
+    "myth": "Azaka’s Brooklyn birthday service",
+    "note": "Danbala is saluted among the senior spirits during Azaka’s service.",
+    "source": "Karen McCarthy Brown, Mama Lola",
+    "date": "1991",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "bondye",
+    "kind": "created",
+    "myth": "Creation of the primordial serpent",
+    "note": "Some later interpretations call Danbala Bondye’s first creation or eldest servant.",
+    "source": "Later theological interpretations",
+    "date": "20th–21st centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Danbala Laflanbo": [
+   {
+    "stated_by": "kalfou",
+    "kind": "shared_myth",
+    "myth": "Secret-society spirit service",
+    "note": "Kalfou and Danbala Laflanbo are both served by reported Makaya, Bizango, and Sanpwel groups.",
+    "source": "Haitian informant testimony",
+    "date": "1 June 2003",
+    "tier": "regional_variant"
+   }
+  ],
+  "Danbala Wedo": [
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Initiation prayer",
+    "note": "Loko and Danbala Wedo are greeted together in an initiation sequence.",
+    "source": "Rigaud",
+    "date": "1953/1969",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Exodus from Ayizan's house",
+    "note": "Danbala and Loko join the divine exodus from Ayizan's household.",
+    "source": "Vodou in Haitian Life and Culture",
+    "date": "2006",
+    "tier": "regional_variant"
+   }
+  ],
+  "Danbala Wèdo": [
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "consort_of",
+    "myth": "The three husbands",
+    "note": "Freda is his wife, and one of her three rings represents their marriage.",
+    "source": "Mid-century systematizations and later ethnography",
+    "date": "Mid-twentieth century onward",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "Aquatic-serpent ritual complex",
+    "note": "Simbi and Danbala share serpent and aquatic symbolism and ritual juxtaposition.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "canonical"
+   }
+  ],
+  "Death": [
+   {
+    "stated_by": "hevioso",
+    "kind": "theft",
+    "myth": "Ordeal of Death’s sickle",
+    "note": "Segbo sends Hevioso to steal or recover Death’s sickle, but Hevioso survives.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   }
+  ],
+  "Djo": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mawu-Lisa produces Djo among the departmental divine children.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Division of cosmic offices",
+    "note": "Mawu-Lisa assigns Djo authority over air or atmosphere.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pantheon genealogies commonly list Djo among Legba’s siblings.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "shared_myth",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Djo receives humanity’s language while Legba retains knowledge of every language.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   }
+  ],
+  "Don Petwo": [
+   {
+    "stated_by": "petro_lwa",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Later traditions call him founder, ancestor, leader, or eponym of the Petwo lwa.",
+    "source": "Métraux, Le Vaudou haïtien",
+    "date": "1958",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dosa": [
+   {
+    "stated_by": "marassa",
+    "kind": "sibling_of",
+    "myth": "Two who are three",
+    "note": "The girl born after twins completes the Marassa pair as a powerful third term.",
+    "source": "Herskovits; Deren; Métraux",
+    "date": "1937–1959",
+    "tier": "canonical"
+   }
+  ],
+  "Dosou": [
+   {
+    "stated_by": "marassa",
+    "kind": "sibling_of",
+    "myth": "Two who are three",
+    "note": "The boy born after twins completes and concentrates their force, sometimes surpassing them.",
+    "source": "Herskovits; Deren; Métraux",
+    "date": "1937–1959",
+    "tier": "canonical"
+   }
+  ],
+  "Erzulie": [
+   {
+    "stated_by": "gu",
+    "kind": "consort_of",
+    "myth": "Ogou and Erzulie's jealous love",
+    "note": "Ogou and Erzulie enact desire, jealousy, betrayal and gendered social conflict.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "canonical"
+   }
+  ],
+  "Eve": [
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "Association with the primordial couple",
+    "note": "A modern synthesis symbolically associates Brigitte and Bawon with Eve and Adam.",
+    "source": "Modern scholarly synthesis",
+    "date": "twenty-first century",
+    "tier": "syncretism"
+   }
+  ],
+  "Ezili": [
+   {
+    "stated_by": "azaka",
+    "kind": "shared_myth",
+    "myth": "Azaka’s Brooklyn birthday service",
+    "note": "Ezili is saluted among the key spirits during Azaka’s service.",
+    "source": "Karen McCarthy Brown, Mama Lola",
+    "date": "1991",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Local erotic songs and stories",
+    "note": "Local traditions juxtapose or erotically link a Gede with an Ezili.",
+    "source": "Local oral and performance traditions",
+    "date": "modern",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "consort_of",
+    "myth": "Sobo and Ezili",
+    "note": "A ritual song names Ezili as Sobo's most beautiful woman and mistress.",
+    "source": "Roumain, Les Grands Dieux",
+    "date": "1947",
+    "tier": "attested"
+   }
+  ],
+  "Ezili Dantor": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some Dantor lineages call Ti Jean Dantor her son or only child.",
+    "source": "Southern Haitian house traditions",
+    "date": "Contemporary",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Other traditions alternatively make Ti Jean her lover or husband.",
+    "source": "Dictionaries and practitioner traditions",
+    "date": "Later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ezili Dantò": [
+   {
+    "stated_by": "kalfou",
+    "kind": "shared_myth",
+    "myth": "Secret-society spirit service",
+    "note": "Kalfou and Ezili Dantò are both served by reported Makaya, Bizango, and Sanpwel groups.",
+    "source": "Haitian informant testimony",
+    "date": "1 June 2003",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some traditions describe Dantò as Ogou’s partner or fierce counterpart.",
+    "source": "Brown, Mama Lola",
+    "date": "1991",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "shared_myth",
+    "myth": "The Ezili rivalry",
+    "note": "Dantò and Freda fight over Ogou, and Dantò receives facial scars.",
+    "source": "Brown, Mama Lola",
+    "date": "1991",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "simbi",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some modern traditions call Simbi Makaya the husband of Ezili Dantò.",
+    "source": "Modern practitioner summaries",
+    "date": "recent",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ezili Freda": [
+   {
+    "stated_by": "damballa",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some accounts make Ezili Freda Damballa’s wife, lover, or concubine.",
+    "source": "Haitian ethnographic and practitioner literature",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "la_sirene",
+    "kind": "identified_with",
+    "myth": "Marine aspect of Ezili",
+    "note": "Deren presents La Sirène as resembling or partly overlapping with marine Ezili.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Exodus from Ayizan's house",
+    "note": "Ezili Freda and Loko depart Ayizan's household during the same revolt.",
+    "source": "Vodou in Haitian Life and Culture",
+    "date": "2006",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Freda is frequently described as Ogou’s wife or lover.",
+    "source": "Deren, Divine Horsemen; Brown, Mama Lola",
+    "date": "1953; 1991",
+    "tier": "canonical"
+   }
+  ],
+  "Fa": [
+   {
+    "stated_by": "gu",
+    "kind": "other",
+    "myth": "Fa discloses Gu's ritual requirements",
+    "note": "Fa divination reveals Gu's needs, dispositions and required sacrifices.",
+    "source": "Maupoil, La Géomancie",
+    "date": "1943",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "other",
+    "myth": "Divination after a lightning strike",
+    "note": "Thunder priests consult Fa to determine a strike’s cause and required ritual settlement.",
+    "source": "Ethnographic ritual testimony",
+    "date": "twentieth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Revelation of destiny and divination",
+    "note": "Mawu-Lisa commissions or authorizes Fa's divinatory order in differing accounts.",
+    "source": "Maupoil; Herskovits",
+    "date": "1938–1958",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Changing destiny through sacrifice",
+    "note": "Legba guards Fa’s threshold and enables sacrificial responses to divined destiny.",
+    "source": "Maupoil, La Géomancie",
+    "date": "1943",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "allied",
+    "myth": "Changing destiny through sacrifice",
+    "note": "Fa reveals destiny while Legba mediates the sacrifice that may change it.",
+    "source": "Maupoil, La Géomancie",
+    "date": "1943",
+    "tier": "attested"
+   }
+  ],
+  "Faith, Hope, and Charity": [
+   {
+    "stated_by": "marassa",
+    "kind": "identified_with",
+    "myth": "Three figures as Marassa Twa",
+    "note": "The three female Catholic personifications serve as a visual image of Marassa Twa.",
+    "source": "Devotional art and Vodou flags",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Fon Lɛgbà": [
+   {
+    "stated_by": "kalfou",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The Haitian Kalfou complex is reconstructed as a differentiation within the older Fon Legba crossroads tradition.",
+    "source": "Comparative historical evidence",
+    "date": "modern scholarship",
+    "tier": "modern"
+   }
+  ],
+  "Ganyehesu": [
+   {
+    "stated_by": "agassou",
+    "kind": "parent_of",
+    "myth": "Incestuous mother-son origin variant",
+    "note": "A minority genealogy names Ganyehesu as Agasu and Aligbonon's child.",
+    "source": "Later ethnographic discussion",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gaya-Dantò": [
+   {
+    "stated_by": "azaka",
+    "kind": "shared_myth",
+    "myth": "Dantò protects a Zaka feast",
+    "note": "A recent online ritual places Dantò’s protection over a feast for Zaka.",
+    "source": "École Vodou Réformé online ritual",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Gbadu": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Revelation of destiny and divination",
+    "note": "Mawu-Lisa authorizes the order through which Gbadu transmits Fa knowledge.",
+    "source": "Maupoil; Herskovits",
+    "date": "1938–1958",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Doub": [
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Doub walks with the collective as a Gede associated with second sight.",
+    "source": "Métraux-era descriptions",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Gede Linto": [
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Linto shares rites with the collective as a locally attested Gede.",
+    "source": "Later descriptions and local lists",
+    "date": "twentieth century or later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Loray": [
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Loray shares rites with the collective as the locally attested Gede Thunder.",
+    "source": "Local lists and songs",
+    "date": "twentieth century or later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Mazaka": [
+   {
+    "stated_by": "azaka",
+    "kind": "other",
+    "myth": "",
+    "note": "The compound name suggests overlap between the Gede and Azaka spirit complexes.",
+    "source": "Courlander; Deren",
+    "date": "1944; 1953",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Mazaka walks with the collective as a locally variable Gede family member.",
+    "source": "Modern lists and songs",
+    "date": "twentieth–twenty-first centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Nibo": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later systems call him the son of Baron and Brijit.",
+    "source": "Later practitioner systematizations",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Herskovits-era sources identify Baron Samedi with Gede Nimbo.",
+    "source": "Herskovits-circle lwa catalogue",
+    "date": "c. 1940",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "other",
+    "myth": "",
+    "note": "Nibo is described as a child, lieutenant, or major manifestation within the Gede family.",
+    "source": "Deren, Métraux, oral narratives and songs",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "rescued",
+    "myth": "Nibo’s adoption after violent death",
+    "note": "The Gede family receives Nibo after his premature or violent death.",
+    "source": "Later oral narratives",
+    "date": "twentieth century or later",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Gede Nibo sometimes claims to be Brigitte’s child.",
+    "source": "Rigaud, La tradition voudoo",
+    "date": "1953",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Oussou": [
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Oussou shares rites with the family, though spellings may represent separate identities.",
+    "source": "Local lists and songs",
+    "date": "twentieth century or later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede Ti Malis": [
+   {
+    "stated_by": "gede",
+    "kind": "shared_myth",
+    "myth": "Walking together in Gede rites",
+    "note": "Gede Ti Malis participates as a local family member bearing the trickster’s name.",
+    "source": "Local lists and folklore",
+    "date": "twentieth century or later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gede spirits": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some systems make Baron the father or patriarch of the Gede.",
+    "source": "Ethnographic and house traditions",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Some systems describe the Gede as Baron's subjects or family.",
+    "source": "Ethnographic and house traditions",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some houses treat the Gede as manifestations of Baron.",
+    "source": "Ethnographic and house traditions",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Gran Ibo": [
+   {
+    "stated_by": "gran_bwa",
+    "kind": "other",
+    "myth": "",
+    "note": "Modern teachings distinguish Gran Bwa’s forest from Gran Ibo’s swamp and plant wisdom.",
+    "source": "Occult and practitioner literature",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Gran Mèt": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "served",
+    "myth": "Celestial escort of Gran Mèt",
+    "note": "Rigaud makes Sobo a celestial escort of the supreme master.",
+    "source": "Rigaud, Vèvè",
+    "date": "1974",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "served",
+    "myth": "Celestial escort of Gran Mèt",
+    "note": "Rigaud likewise makes Bade a celestial escort of the supreme master.",
+    "source": "Rigaud, Vèvè",
+    "date": "1974",
+    "tier": "late_accretion"
+   }
+  ],
+  "Gran Èzili": [
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "shared_myth",
+    "myth": "Gran Èzili praises Mistress Èzili",
+    "note": "The elder Èzili praises Freda, whom Deren treats as a distinct spirit.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "attested"
+   }
+  ],
+  "Grand Bois": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "allied",
+    "myth": "Joint authority in dangerous magic",
+    "note": "Deren names Grand Bois with Baron among authorities over dangerous magic.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "attested"
+   }
+  ],
+  "Grann Brijit": [
+   {
+    "stated_by": "gede",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later teachings call Brijit mother or queen of the Gede.",
+    "source": "Brown, Métraux, continuing practice",
+    "date": "twentieth century onward",
+    "tier": "regional_variant"
+   }
+  ],
+  "Guede Roussou Mazaca": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "served",
+    "myth": "",
+    "note": "Rigaud describes Sobo as an intermediary of this Guede figure.",
+    "source": "Rigaud, Vèvè",
+    "date": "1974",
+    "tier": "late_accretion"
+   }
+  ],
+  "Gun": [
+   {
+    "stated_by": "hevioso",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Some modern Beninese summaries call the iron vodun Gun Hevioso’s twin.",
+    "source": "Modern Beninese summaries",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Huntin": [
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Harmful divine invocation",
+    "note": "Huntin and Loko are jointly invoked as agencies for causing another's death.",
+    "source": "Ellis",
+    "date": "1890",
+    "tier": "attested"
+   }
+  ],
+  "Jean Petwo": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Modern spirit lists distinguish Jean Petwo from Ti Jean and identify him as Dantò’s spouse or lover.",
+    "source": "Modern spirit lists",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Jean-Jacques Dessalines": [
+   {
+    "stated_by": "gu",
+    "kind": "identified_with",
+    "myth": "Dessalines becomes Ogou",
+    "note": "The assassinated emperor becomes, incarnates or joins the Ogou spirit family.",
+    "source": "Paul, Dayan, Thornton and oral tradition",
+    "date": "inception uncertain",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "identified_with",
+    "myth": "Ogou Desalin",
+    "note": "Posthumous tradition transforms Dessalines into a lwa or form of Ogou.",
+    "source": "Oral tradition; Popkin study",
+    "date": "post-1806; modern study",
+    "tier": "canonical"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "bondye",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Christian-Vodou discourse variably presents Jesus as Bondye’s divine Son and savior.",
+    "source": "Christian-Vodou discourse",
+    "date": "Modern ethnographic period",
+    "tier": "syncretism"
+   }
+  ],
+  "Kabwatye": [
+   {
+    "stated_by": "bossou",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Modern online lists claim Kabwatye is the child of Bossou and Madan Bossou.",
+    "source": "Modern online lists",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Konikoni": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "consort_of",
+    "myth": "Musical contest and first place",
+    "note": "Mawu gives Konikoni to Legba as his wife.",
+    "source": "Herskovits narrative corpus",
+    "date": "1930s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kouzinn": [
+   {
+    "stated_by": "azaka",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some lineage teaching presents Kouzinn and Azaka as a farming husband and market-trading wife.",
+    "source": "Brown, Mama Lola; Florida teaching material",
+    "date": "1991/2001; later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "azaka",
+    "kind": "allied",
+    "myth": "Collecting Azaka’s loans",
+    "note": "Azaka’s female market counterpart handles or mediates collection of money he has lent.",
+    "source": "Karen McCarthy Brown, Mama Lola",
+    "date": "1991/2001",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kpo": [
+   {
+    "stated_by": "agassou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Agasu was assimilated to the male leopard and Kpo cult.",
+    "source": "Dahomean ethnographic evidence",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Kuxòsu": [
+   {
+    "stated_by": "sakpata",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Kuxòsu is classified as father and oldest member of the Sakpata family.",
+    "source": "Anagokô initiation-center list",
+    "date": "1970s",
+    "tier": "regional_variant"
+   }
+  ],
+  "La Baleine": [
+   {
+    "stated_by": "la_sirene",
+    "kind": "shared_myth",
+    "myth": "La Sirène and La Baleine song",
+    "note": "They are jointly invoked as companions within the underwater spirit complex.",
+    "source": "Oral liturgy and ethnography",
+    "date": "twentieth century",
+    "tier": "attested"
+   }
+  ],
+  "Lasirèn": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "other",
+    "myth": "",
+    "note": "Lasirèn and Dantò are classified together as distinct female sacred possibilities within the Èzili complex.",
+    "source": "Brown and performance scholarship",
+    "date": "1991 onward",
+    "tier": "canonical"
+   }
+  ],
+  "Lazarus": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The beggar’s age, sores, staff, and dogs correspond to old Legba.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "syncretism"
+   }
+  ],
+  "Legba": [
+   {
+    "stated_by": "ayizan",
+    "kind": "shared_myth",
+    "myth": "Ayizan follows Legba in ceremonial order",
+    "note": "Ayizan follows Legba ceremonially; both guard markets, roads, gates, doors, and barriers.",
+    "source": "Roumain, Analyse schématique",
+    "date": "1940s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ayizan",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some Haitian traditions call Ayizan Legba's wife or female counterpart.",
+    "source": "Métraux, Le Vaudou haïtien",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "baron_samedi",
+    "kind": "other",
+    "myth": "Parallel ritual gatekeeping",
+    "note": "Legba opens access to lwa; Baron or Gede opens access to the dead.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some songs and modern analyses count Legba among Freda's lovers.",
+    "source": "Modern songs and Nwokocha",
+    "date": "Modern",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "other",
+    "myth": "Opening ritual communication",
+    "note": "Legba must open ritual communication before Gede can arrive.",
+    "source": "Twentieth-century ethnography",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "identified_with",
+    "myth": "Passage through death",
+    "note": "Deren interprets Gede as Legba transformed through passage into death.",
+    "source": "Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "gran_bwa",
+    "kind": "identified_with",
+    "myth": "Legba’s descending world-tree aspect bears the name Grand Bois",
+    "note": "Deren presents Grand Bois as Legba’s western, arboreal, underworld transformation.",
+    "source": "Maya Deren, Divine Horsemen",
+    "date": "1953",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "gu",
+    "kind": "allied",
+    "myth": "Protective and aggressive bo activation",
+    "note": "Gu and Legba jointly animate protective or aggressive magical objects.",
+    "source": "modern south-Beninese ethnography",
+    "date": "twentieth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "gu",
+    "kind": "shared_myth",
+    "myth": "Legba opens access before Ogou's salutation",
+    "note": "Legba ritually opens access before Ogou and other lwa are saluted.",
+    "source": "twentieth-century Vodou ethnography",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Ritual salutations",
+    "note": "A Rara performance salutes Legba and then Papa Loko.",
+    "source": "Deren field recording",
+    "date": "1947–51",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "loko",
+    "kind": "shared_myth",
+    "myth": "Ayizan walks with Legba and Loko",
+    "note": "Marcelin places Legba and Loko together as companions of Ayizan.",
+    "source": "Marcelin",
+    "date": "1947/1955",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Legba is Mawu-Lisa's youngest and favored divine child.",
+    "source": "Herskovits; Mercier",
+    "date": "1938–1954",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Legba receives every divine language",
+    "note": "Mawu-Lisa gives Legba all divine languages and appoints him mediator.",
+    "source": "Herskovits; Mercier; Aguessy",
+    "date": "1938–1970",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "new_orleans_voodoo",
+    "kind": "served_by",
+    "myth": "Legba opens the gate for the other lwa",
+    "note": "Legba enables ritual communication with the collective and is invoked before its members arrive.",
+    "source": "Deren, Divine Horsemen; Métraux",
+    "date": "1953; 1958",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "Opening the Simbi service",
+    "note": "Legba ritually precedes access to Simbi and other lwa.",
+    "source": "Deren and Métraux",
+    "date": "1953–1958",
+    "tier": "canonical"
+   }
+  ],
+  "Lemba": [
+   {
+    "stated_by": "bossou",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "A speculative reconstruction transfers Bazou's fatherhood of Lemba into the proposed Bossou complex.",
+    "source": "Recent comparative synthesis",
+    "date": "recent",
+    "tier": "modern"
+   }
+  ],
+  "Li Grand Zombi": [
+   {
+    "stated_by": "damballa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some scholars equate Louisiana’s serpent spirit with Damballa, but historical identity remains unproven.",
+    "source": "Louisiana folklore and later scholarship",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "dan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later Louisiana interpretation associates the sacred-serpent title with Danbala, though historical equivalence remains unproved.",
+    "source": "Louisiana scholarship and practitioner interpretation",
+    "date": "twentieth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Lisa": [
+   {
+    "stated_by": "gu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Divided-gender accounts enumerate Gu among Lisa's children.",
+    "source": "twentieth-century Fon ethnography",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "In the Segbo narrative, Lisa is Hevioso’s maternal grandfather.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "rescued_by",
+    "myth": "Hevioso survives Segbo’s ordeals",
+    "note": "Lisa assists Hevioso and his mother through Segbo’s attempts to destroy them.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Lisa is the male, solar component or aspect of the compound creator.",
+    "source": "Herskovits; Mercier",
+    "date": "1933–1954",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mawu and Lisa are described as divine twins.",
+    "source": "Herskovits; Mercier",
+    "date": "1933–1954",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "consort_of",
+    "myth": "Moon and sun unite",
+    "note": "Mawu and Lisa unite as spouses or sexual complements and generate gods.",
+    "source": "Herskovits; Mercier",
+    "date": "1933–1954",
+    "tier": "canonical"
+   }
+  ],
+  "Lègba": [
+   {
+    "stated_by": "sakpata",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Lègba serves as messenger and receives the first share of Sakpata sacrifices.",
+    "source": "Abomey ethnographic corpus",
+    "date": "twentieth century",
+    "tier": "attested"
+   }
+  ],
+  "Madan Bossou": [
+   {
+    "stated_by": "bossou",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Certain contemporary lists describe Madan Bossou as Bossou's wife or feminine counterpart.",
+    "source": "Modern practitioner lists",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Maho": [
+   {
+    "stated_by": "hevioso",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Maho, renamed Gbemende by Lisa, gives birth to Hevioso.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "other",
+    "myth": "Hevioso’s anger toward Segbo",
+    "note": "His mother restrains or mediates Hevioso’s continuing fury against Segbo.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   }
+  ],
+  "Makandal": [
+   {
+    "stated_by": "bossou",
+    "kind": "other",
+    "myth": "Bossou restrains the dangerous deified Makandal",
+    "note": "Bossou is said to bind or restrain the deified Makandal.",
+    "source": "Modern Petwo synthesis and oral lore",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Mami Wata": [
+   {
+    "stated_by": "agassou",
+    "kind": "shared_myth",
+    "myth": "Modern crab explanation",
+    "note": "Louisiana occult writing links Agassou's crab emblem with Mami Wata.",
+    "source": "Recent Louisiana occult writing",
+    "date": "twenty-first century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "agwe",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparative systems equate Agwe with Mami Wata without historical proof.",
+    "source": "Modern comparative and occult literature",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "la_sirene",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern discourse identifies or compares La Sirène with the trans-African water-spirit complex.",
+    "source": "Drewal and contributors",
+    "date": "1987–2008",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Online sources occasionally assert Mami Wata as an African form of Brigitte.",
+    "source": "Modern online summaries",
+    "date": "date unspecified",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "shared_myth",
+    "myth": "Joint temple cult",
+    "note": "Mami Wata is frequently present alongside Sakpata in Ouidah temples.",
+    "source": "Ouidah ethnographic dissertation",
+    "date": "twenty-first century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "African-diasporic water-spirit comparison",
+    "note": "Modern writers group Simbi and Mami Wata as African-diasporic water spirits.",
+    "source": "Modern comparative writing",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Manbo Ayizan": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "other",
+    "myth": "The flag's origin",
+    "note": "Sobo leaves Ayizan's household, establishes ritual flags and the laplas, then departs with Bade.",
+    "source": "UCSB oral-history dissertation",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Marinette": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "allied",
+    "myth": "",
+    "note": "Modern catalogues sometimes pair Marinette with Dantò in Petwo service, without recording a narrative encounter.",
+    "source": "Modern spirit catalogues",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Marinette Bwa Chèch": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Deren and Métraux describe Marinette as Ti Jean's wife or companion.",
+    "source": "Divine Horsemen; Le Vaudou haïtien",
+    "date": "1953; 1958",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "shared_myth",
+    "myth": "Petwo fire song",
+    "note": "Marinette and Ti Jean are jointly invoked to light the fire.",
+    "source": "Rigaud/Marcelin song corpus",
+    "date": "1950s",
+    "tier": "attested"
+   }
+  ],
+  "Mary Magdalene": [
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern summaries occasionally pair Brigitte with Mary Magdalene’s saint image.",
+    "source": "Modern summaries",
+    "date": "date uncertain",
+    "tier": "syncretism"
+   }
+  ],
+  "Mawu": [
+   {
+    "stated_by": "bondye",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholars and practitioners comparatively equate both as supreme creators above active spirits.",
+    "source": "Herskovits, Dahomean studies",
+    "date": "1933–1938",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "dan",
+    "kind": "served",
+    "myth": "Assignment beneath the earth",
+    "note": "At Mawu's request, Ayido-Hwedo coils beneath the overburdened earth to support it.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Divided-gender accounts enumerate Gu among Mawu's children.",
+    "source": "twentieth-century Fon ethnography",
+    "date": "twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Online sources occasionally assert Mawu as an African form of Brigitte.",
+    "source": "Modern online summaries",
+    "date": "date unspecified",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Mawu is the female, lunar component or aspect of the compound creator.",
+    "source": "Herskovits; Mercier",
+    "date": "1933–1954",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some traditions name Mawu alone as Legba’s mother.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Legba inspects the divine children’s kingdoms and reports to Mawu.",
+    "source": "Herskovits, Dahomean Narrative",
+    "date": "1958",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "gift",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Mawu gives Legba knowledge of all divine languages.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "judged_by",
+    "myth": "Musical contest and first place",
+    "note": "Mawu judges Legba successful at playing instruments while dancing.",
+    "source": "Herskovits narrative corpus",
+    "date": "1930s",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "gift",
+    "myth": "Musical contest and first place",
+    "note": "Mawu rewards Legba with Konikoni and precedence among the gods.",
+    "source": "Herskovits narrative corpus",
+    "date": "1930s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Minona": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "taught",
+    "myth": "Transmission of palm-kernel divination",
+    "note": "Mawu transmits divinatory knowledge through Minona, who teaches palm-kernel divination.",
+    "source": "Herskovits-derived narrative tradition",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Monsieur Agoussou": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Louisiana ritual admission",
+    "note": "Papa Lébat or Liba opens the ritual door to Monsieur Agoussou.",
+    "source": "Jeffrey Anderson, historical recollections",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Monsieur Assonquer": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Louisiana ritual admission",
+    "note": "Papa Lébat or Liba opens the ritual door to Monsieur Assonquer.",
+    "source": "Jeffrey Anderson, historical recollections",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Moses": [
+   {
+    "stated_by": "damballa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Serpent-bearing images of Moses provide another documented Catholic correspondence for Damballa.",
+    "source": "Twentieth-century Haitian ethnography",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "dan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Moses' serpent staff and bronze serpent support a localized identification with Danbala.",
+    "source": "Twentieth-century and later accounts",
+    "date": "twentieth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Mèt Kalfou": [
+   {
+    "stated_by": "bossou",
+    "kind": "served",
+    "myth": "",
+    "note": "Bossou Koblamin is described as Kalfou's soldier or hired blade.",
+    "source": "Practitioner and occult synthesis",
+    "date": "late 20th–21st century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "other",
+    "myth": "",
+    "note": "They hold complementary, variably paired authority over Rada and Petwo crossroads.",
+    "source": "Haitian regional explanations",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Naete": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mawu-Lisa produces Naete as one of the paired water deities.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Division of cosmic offices",
+    "note": "Mawu-Lisa assigns Naete jurisdiction over the sea and waters.",
+    "source": "Herskovits",
+    "date": "1933–1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pantheon genealogies commonly list Naete among Legba’s siblings.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Distribution of divine realms and languages",
+    "note": "Legba connects Naete’s sea domain with Mawu through translation.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   }
+  ],
+  "Naeté": [
+   {
+    "stated_by": "agwe",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Naeté is variously described as Agbé's sister or female twin.",
+    "source": "Le Hérissé; Herskovits",
+    "date": "1911; 1933–1938",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "agwe",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some African genealogies describe Naeté as Agbé's sister-wife or spouse.",
+    "source": "Le Hérissé; Herskovits",
+    "date": "1911; 1933–1938",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "agwe",
+    "kind": "shared_myth",
+    "myth": "Paired marine powers",
+    "note": "Agbé and Naeté form a paired marine power inhabiting the sea.",
+    "source": "Herskovits and Herskovits, Outline",
+    "date": "1933",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nana Buluku": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "child_of",
+    "myth": "Nana Buluku produces the divine twins",
+    "note": "Nana produces Mawu-Lisa and then withdraws or delegates cosmic rule.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "gift",
+    "myth": "Nana delegates the created cosmos",
+    "note": "Nana creates the universe and entrusts its government to Mawu-Lisa.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nyohwe Ananu": [
+   {
+    "stated_by": "sakpata",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is regionally classified as mother of all Sakpata and of initiates.",
+    "source": "Abomey field records",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "One genealogy presents her as Da Zodji's twin within paired Sakpata.",
+    "source": "Verger-derived genealogies",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "sakpata",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "One genealogy presents her as Da Zodji's spouse within paired Sakpata.",
+    "source": "Verger-derived genealogies",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ogou Ashade": [
+   {
+    "stated_by": "gu",
+    "kind": "other",
+    "myth": "",
+    "note": "Ogou Ashade belongs to the Ogou family and uses herbs to heal wounds.",
+    "source": "later Haitian ethnographies",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ogou Badagri": [
+   {
+    "stated_by": "gu",
+    "kind": "other",
+    "myth": "",
+    "note": "Ogou Badagri is a related Ogou with differentiated military and political roles.",
+    "source": "Deren, Métraux and later ethnographies",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ogou Balendjo": [
+   {
+    "stated_by": "agwe",
+    "kind": "served_by",
+    "myth": "Agwe's ship Imamou",
+    "note": "Ogou Balendjo serves as captain of Agwe's ship Imamou in some accounts.",
+    "source": "Marcelin and later vèvè tradition",
+    "date": "mid-twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "gu",
+    "kind": "other",
+    "myth": "",
+    "note": "Ogou Balendjo belongs to the Ogou family and heals wounds.",
+    "source": "later Haitian ethnographies",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ogou Balenjo": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "served",
+    "myth": "",
+    "note": "Some Dominican and Haitian systems call Ti Jean Dantor his lieutenant.",
+    "source": "Regional practitioner material",
+    "date": "Later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ogou Feray": [
+   {
+    "stated_by": "gu",
+    "kind": "other",
+    "myth": "",
+    "note": "Ogou Feray is classified as a militant, iron-working member of the Ogou family.",
+    "source": "Deren, Métraux and later ethnographies",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Our Lady of Częstochowa": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Dantò is principally represented through the scarred dark Madonna and Child image associated with Częstochowa.",
+    "source": "Haitian ritual iconography",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Our Lady of Mount Carmel": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some houses identify Dantò through Our Lady of Mount Carmel and observe her July feast.",
+    "source": "Living house traditions",
+    "date": "modern",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some regional practice associates Freda with this Marian figure, especially around Saut-d'Eau.",
+    "source": "Regional pilgrimage and practitioner tradition",
+    "date": "Modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Our Lady of Prompt Succor": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some houses use Our Lady of Prompt Succor as Dantò’s Catholic visual correspondence.",
+    "source": "Living house traditions",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pandora": [
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparativists analogize Pandora and Kalfou through the release of misfortune.",
+    "source": "Modern comparative literature",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Rada lwa": [
+   {
+    "stated_by": "petro_lwa",
+    "kind": "shared_myth",
+    "myth": "Sequential attendance at Vodou services",
+    "note": "Rada lwa are normally invoked earlier, with Petwo lwa attending later.",
+    "source": "Métraux, Le Vaudou haïtien",
+    "date": "1958",
+    "tier": "canonical"
+   }
+  ],
+  "Sagbata": [
+   {
+    "stated_by": "agwe",
+    "kind": "sibling_of",
+    "myth": "Division of the world",
+    "note": "Sagbata and Agbé are siblings assigned the earth and sea.",
+    "source": "Herskovits, Outline and Dahomey",
+    "date": "1933–1938",
+    "tier": "attested"
+   }
+  ],
+  "Saint Andrew": [
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary devotional and commercial sources sometimes identify Saint Andrew with Kalfou.",
+    "source": "Contemporary devotional literature",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Anne": [
+   {
+    "stated_by": "ayizan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some houses pair Ayizan with Saint Anne through age, maternity, and ancestral female authority.",
+    "source": "Regional altar traditions",
+    "date": "Twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Anthony of Padua": [
+   {
+    "stated_by": "agassou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern Louisiana occult literature equates Monsieur Agassou with Saint Anthony.",
+    "source": "Alvarado, Voodoo Hoodoo Spellbook",
+    "date": "2011",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "papa_legba",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Haitian and Dominican lineages locally associate this saint with Legba.",
+    "source": "Haitian and Dominican lineages",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Saint Anthony the Abbot": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Haitian and Dominican lineages locally associate this saint with Legba.",
+    "source": "Haitian and Dominican lineages",
+    "date": "20th century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Saint Anthony the Great": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "De Heusch reports this Catholic correspondence, though the saint may also represent Simbi.",
+    "source": "de Heusch, Kongo in Haiti",
+    "date": "1989",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Anthony the Hermit": [
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary devotional and commercial sources sometimes identify Saint Anthony the Hermit with Kalfou.",
+    "source": "Contemporary devotional literature",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Barbara": [
+   {
+    "stated_by": "hevioso",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Catholic inhabitants of Abomey associated Xevioso with Saint Barbara as protector against lightning.",
+    "source": "Herskovits, Dahomey",
+    "date": "1938",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Brigid of Kildare": [
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "She comes from England",
+    "note": "Later sources pair Brigitte with Saint Brigid; historical derivation remains unproved.",
+    "source": "National Park Service",
+    "date": "2015",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Clare of Assisi": [
+   {
+    "stated_by": "ayizan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Ayizan is paired with Saint Clare through purity, whiteness, clarity, and female religious authority.",
+    "source": "Contemporary altar traditions",
+    "date": "Late twentieth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Expedite": [
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary devotional and commercial sources sometimes identify Saint Expedite with Kalfou.",
+    "source": "Contemporary devotional literature",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Expeditus": [
+   {
+    "stated_by": "gede",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "His image may represent Papa Gede or Bawon in some houses.",
+    "source": "Vodou-Catholic image-association study",
+    "date": "modern study",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint George": [
+   {
+    "stated_by": "gu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Martial Ogou is regionally approached through Saint George's warrior iconography.",
+    "source": "contemporary Vodou worship",
+    "date": "contemporary",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some lineages pair the mounted dragon-slayer with Feray or another Ogou.",
+    "source": "Contemporary lineage testimony and pilgrimage reporting",
+    "date": "present day",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Gerard Majella": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Gede imagery is regionally associated with this Catholic saint.",
+    "source": "Regional syncretistic tradition",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "His chromolithograph may serve as Papa Gede’s visible image without implying full identity.",
+    "source": "Vodou-Catholic image-association study",
+    "date": "modern study",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Isidore the Laborer": [
+   {
+    "stated_by": "azaka",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Azaka is paired iconographically with the farmer saint through agriculture, blue clothing, and rural labor.",
+    "source": "Twentieth-century ethnography and art history",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint James the Greater": [
+   {
+    "stated_by": "gu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Ogou is served through the mounted warrior saint and his feast.",
+    "source": "twentieth-century Haitian ethnography",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Ogou inhabits or is served through Saint James’s mounted-warrior image.",
+    "source": "Métraux; Desmangles",
+    "date": "1958; 1992",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint John the Baptist": [
+   {
+    "stated_by": "ti_jean_petro",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary houses represent Ti Jean Dantor by the young saint and celebrate him June 24.",
+    "source": "Contemporary house practice",
+    "date": "Present",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Joseph": [
+   {
+    "stated_by": "agassou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A practitioner website proposes Saint Joseph as a protective parallel.",
+    "source": "Louisiana practitioner website",
+    "date": "2025",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "loko",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Joseph's image and feast serve as Loko's Catholic counterpart in Haitian practice.",
+    "source": "Marcelin; later practice",
+    "date": "1947 onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Lazarus": [
+   {
+    "stated_by": "sakpata",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Diasporic Catholic syncretism links the disease complex with Saint Lazarus.",
+    "source": "Cuban popular devotion",
+    "date": "modern period",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Lazarus the bishop": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern devotional commerce sometimes confuses this saint with the beggar Lazarus.",
+    "source": "Modern devotional commerce",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Saint Martin de Porres": [
+   {
+    "stated_by": "baron_samedi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Popular references pair Baron or Baron Kriminel with this Catholic saint.",
+    "source": "Popular syncretistic reference works",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "gede",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "His image may represent Papa Gede or Bawon in some houses.",
+    "source": "Vodou-Catholic image-association study",
+    "date": "modern study",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Michael": [
+   {
+    "stated_by": "agassou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A practitioner website proposes Saint Michael as a protective parallel.",
+    "source": "Louisiana practitioner website",
+    "date": "2025",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary devotional and commercial sources sometimes identify Saint Michael with Kalfou.",
+    "source": "Contemporary devotional literature",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Nicholas": [
+   {
+    "stated_by": "marassa",
+    "kind": "rescued_by",
+    "myth": "Saint Nicholas and the three children",
+    "note": "Haitian interpretation casts the pictured children as Marassa and Nicholas as their rescuer and protector.",
+    "source": "Herskovits; Métraux; later practice",
+    "date": "1937 and later",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Patrick": [
+   {
+    "stated_by": "damballa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Catholic images of Patrick with serpents provide Damballa’s most frequent visual counterpart.",
+    "source": "Twentieth-century Haitian ethnography",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "dan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Haitian iconography represents Danbala through Saint Patrick because the saint's images include snakes.",
+    "source": "Desmangles, The Faces of the Gods",
+    "date": "1992",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Paul": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "identified_with",
+    "myth": "Shared feast of Peter and Paul",
+    "note": "Bade is associated with Paul because Peter and Paul share the feast of 29 June.",
+    "source": "Roumain, Les Grands Dieux",
+    "date": "1947",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Peter": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Keys and guardianship of heaven’s gate support their iconographic correspondence.",
+    "source": "Haitian popular iconography",
+    "date": "20th century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "identified_with",
+    "myth": "Thunder-stone and Peter's rock",
+    "note": "Sobo is equated with Peter through thunder-stones and the Gospel image of Peter as rock.",
+    "source": "Roumain, Les Grands Dieux",
+    "date": "1947",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Philip": [
+   {
+    "stated_by": "gu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Rigaud records Saint Philip as a correspondence for Ogou Feray.",
+    "source": "Milo Rigaud",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Raphael": [
+   {
+    "stated_by": "simbi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some houses associate Simbi with the healing and water-linked archangel Raphael.",
+    "source": "Modern practitioner traditions",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Roch": [
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Rigaud reports a northern Haitian identification of Sobo with Saint Roch.",
+    "source": "Rigaud, Vèvè",
+    "date": "1974",
+    "tier": "regional_variant"
+   }
+  ],
+  "Saint Sebastian": [
+   {
+    "stated_by": "gran_bwa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Saint Sebastian’s tree-bound image serves as Gran Bwa’s Catholic visual counterpart.",
+    "source": "Vodou iconographic tables and practitioner accounts",
+    "date": "late twentieth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Saint Ulrich": [
+   {
+    "stated_by": "agwe",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Agwe corresponds iconographically to Saint Ulrich through the fish in Ulrich's image.",
+    "source": "Métraux; Desmangles, Faces of the Gods",
+    "date": "1958; 1992",
+    "tier": "syncretism"
+   }
+  ],
+  "Saints Cosmas and Damian": [
+   {
+    "stated_by": "hevioso",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Haitian systems use their paired image to represent Sobo and Badé.",
+    "source": "Haitian chromolithographic tradition",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "marassa",
+    "kind": "identified_with",
+    "myth": "Cosmas and Damian",
+    "note": "The twin physician-martyrs provide the Marassa’s paired Catholic image and reinforce healing associations.",
+    "source": "Herskovits; Métraux; Desmangles",
+    "date": "1937–1992",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "sobo_and_bade",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Late practitioner literature identifies the paired Sobo and Bade with Cosmas and Damian.",
+    "source": "Online and practitioner literature",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Santa Muerte": [
+   {
+    "stated_by": "maman_brigitte",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Neopagan writing joins Brigitte to Santa Muerte as a death-associated female power.",
+    "source": "Modern neopagan writing",
+    "date": "late twentieth–twenty-first centuries",
+    "tier": "modern"
+   }
+  ],
+  "Segbo": [
+   {
+    "stated_by": "hevioso",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Segbo is Hevioso’s father in the localized birth narrative.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "hevioso",
+    "kind": "fought",
+    "myth": "Segbo’s persecution of Hevioso",
+    "note": "Segbo tries repeatedly to destroy Hevioso, then attacks him and his mother.",
+    "source": "Dahomean Narrative",
+    "date": "1958",
+    "tier": "regional_variant"
+   }
+  ],
+  "Simbi Andezo": [
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "The Three Kings",
+    "note": "Invoked with Dlo and Makaya as the Three Simbis or Kings.",
+    "source": "Modern practitioner liturgies",
+    "date": "late twentieth century onward",
+    "tier": "modern"
+   }
+  ],
+  "Simbi Dlo": [
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "The Three Kings",
+    "note": "Invoked with Andezo and Makaya as the Three Simbis or Kings.",
+    "source": "Modern practitioner liturgies",
+    "date": "late twentieth century onward",
+    "tier": "modern"
+   }
+  ],
+  "Simbi Makaya": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Modern queer and diasporic accounts sometimes identify Simbi Makaya as Dantò’s husband or partner.",
+    "source": "Modern practitioner accounts",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "simbi",
+    "kind": "shared_myth",
+    "myth": "The Three Kings",
+    "note": "Invoked with Dlo and Andezo as the Three Simbis or Kings.",
+    "source": "Modern practitioner liturgies",
+    "date": "late twentieth century onward",
+    "tier": "modern"
+   }
+  ],
+  "Simityè": [
+   {
+    "stated_by": "kalfou",
+    "kind": "shared_myth",
+    "myth": "Secret-society spirit service",
+    "note": "Kalfou and Simityè are both served by reported Makaya, Bizango, and Sanpwel groups.",
+    "source": "Haitian informant testimony",
+    "date": "1 June 2003",
+    "tier": "regional_variant"
+   }
+  ],
+  "St Philomena": [
+   {
+    "stated_by": "la_sirene",
+    "kind": "identified_with",
+    "myth": "Bord de Mer intertwined devotion",
+    "note": "Her local cult is intertwined with Lasyrenn despite ecclesiastical efforts at separation.",
+    "source": "O’Neil and Rey",
+    "date": "2012",
+    "tier": "syncretism"
+   }
+  ],
+  "Tegbesu": [
+   {
+    "stated_by": "bossou",
+    "kind": "identified_with",
+    "myth": "Bossou Ashadeh as the deified Dahomean king",
+    "note": "Bossou Ashadeh is identified as King Tegbesu transformed into a lwa after death.",
+    "source": "Milo Rigaud, La Tradition voudoo",
+    "date": "1953",
+    "tier": "syncretism"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "ayizan",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Rigaud associates Ayizan's ritual purity with the Virgin Mary's virginity.",
+    "source": "Rigaud, La Tradition voudoo",
+    "date": "1953 onward",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Marian sorrow imagery represents Freda's heart and tears without making the beings universally identical.",
+    "source": "Altars, chromolithographs, drapo, ethnography",
+    "date": "Nineteenth century onward",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "la_sirene",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Maritime Marian imagery provides a possible modern analogy, but no universal equivalence.",
+    "source": "Marian prints and modern discourse",
+    "date": "modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Wututu": [
+   {
+    "stated_by": "hevioso",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Later summaries identify the bird Wututu as Sogbo’s messenger.",
+    "source": "Later pantheon summaries",
+    "date": "",
+    "tier": "late_accretion"
+   }
+  ],
+  "Yemowo": [
+   {
+    "stated_by": "mawu_lisa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Mawu is historically equated with Yemowo or Mowo in diffusion theories.",
+    "source": "Scholarly and oral histories",
+    "date": "modern reconstruction",
+    "tier": "syncretism"
+   }
+  ],
+  "Yoruba Èṣù": [
+   {
+    "stated_by": "kalfou",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Comparable messenger and crossroads powers encouraged scholarly comparison and partial Atlantic fusion.",
+    "source": "Comparative scholarship",
+    "date": "modern scholarship",
+    "tier": "syncretism"
+   }
+  ],
+  "every individual vodun": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "",
+    "note": "Each vodun may have a Legba acting as shrine guardian, executor, and right arm.",
+    "source": "Maupoil, La Géomancie",
+    "date": "1943",
+    "tier": "canonical"
+   }
+  ],
+  "royal toxosu": [
+   {
+    "stated_by": "bossou",
+    "kind": "identified_with",
+    "myth": "The royal toxosu origin of Bossou's three horns",
+    "note": "Bossou is explained as a royal anomalous child spirit whose bodily protrusions became horns.",
+    "source": "Alfred Métraux, Le Vaudou haïtien",
+    "date": "1958",
+    "tier": "canonical"
+   }
+  ],
+  "the Virgin Mary": [
+   {
+    "stated_by": "bondye",
+    "kind": "other",
+    "myth": "",
+    "note": "Mary intercedes before Bondye through Catholic prayer incorporated into Vodou practice.",
+    "source": "Catholic liturgy and Vodou ethnography",
+    "date": "20th century",
+    "tier": "syncretism"
+   }
+  ],
+  "the dead": [
+   {
+    "stated_by": "agwe",
+    "kind": "other",
+    "myth": "The underwater court",
+    "note": "Agwe may convey or shelter ancestral souls in the waters below.",
+    "source": "Practitioner explanations",
+    "date": "late twentieth–twenty-first century",
+    "tier": "late_accretion"
+   }
+  ],
+  "the god of the whites": [
+   {
+    "stated_by": "bondye",
+    "kind": "contest",
+    "myth": "Bois Caïman prayer",
+    "note": "The just creator supporting the enslaved is morally opposed to the enslavers’ God.",
+    "source": "Dumesle, Voyage dans le nord d’Hayti",
+    "date": "1824",
+    "tier": "late_accretion"
+   }
+  ],
+  "the lwa": [
+   {
+    "stated_by": "bondye",
+    "kind": "created",
+    "myth": "Creation and delegation of worldly domains",
+    "note": "Bondye creates or empowers the lwa and delegates worldly domains to them.",
+    "source": "Herskovits; Deren; Métraux; Desmangles",
+    "date": "1937–1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "bondye",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Some practitioners describe the lwa as Bondye’s servants, emissaries, or subordinate agents.",
+    "source": "Desmangles, The Faces of the Gods",
+    "date": "1992",
+    "tier": "canonical"
+   }
+  ],
+  "the other Haitian lwa": [
+   {
+    "stated_by": "papa_legba",
+    "kind": "served",
+    "myth": "Opening the ritual gate",
+    "note": "Legba opens the gate through which the other lwa are saluted.",
+    "source": "Herskovits, Deren, Métraux, Brown",
+    "date": "1937–1991",
+    "tier": "attested"
+   }
+  ],
+  "the other Ogous": [
+   {
+    "stated_by": "ogou",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Many houses describe the Ogous as brothers within one warrior family.",
+    "source": "Twentieth-century Vodou ethnography and practice",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ogou",
+    "kind": "allied",
+    "myth": "",
+    "note": "Some houses organize the distinct Ogous as fellow officers in a military company.",
+    "source": "Twentieth-century Vodou ethnography and practice",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "the saints": [
+   {
+    "stated_by": "bondye",
+    "kind": "other",
+    "myth": "",
+    "note": "Saints intercede before Bondye and may serve as counterparts or faces of lwa.",
+    "source": "Catholic liturgy and Vodou ethnography",
+    "date": "20th century",
+    "tier": "syncretism"
+   }
+  ],
+  "Ázlì": [
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "identified_with",
+    "myth": "Coming from beneath the water",
+    "note": "Scholars propose a historical relationship, but the male Beninese vodun is not simply identical with Freda.",
+    "source": "Hebblethwaite et al., Spirit Migration",
+    "date": "2010s",
+    "tier": "syncretism"
+   }
+  ],
+  "Èzili Dantò": [
+   {
+    "stated_by": "agwe",
+    "kind": "shared_myth",
+    "myth": "Rescue of a migrant boat",
+    "note": "Migrants invoked Agwe and Èzili Dantò before dolphins reportedly guided their boat ashore.",
+    "source": "Miami-area migrant testimony",
+    "date": "2012 interview",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Late traditions describe Freda and Dantò as sisters, rivals, or complementary counterparts.",
+    "source": "Late oral and literary accounts",
+    "date": "Late twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "erzulie_freda",
+    "kind": "fought",
+    "myth": "The quarrel over Ogou",
+    "note": "They fight over Ogou; some versions blame Freda for Dantò's scars or silencing.",
+    "source": "Late oral and literary accounts",
+    "date": "Late twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Èzili Freda": [
+   {
+    "stated_by": "agwe",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Later sources variously call Èzili Freda Agwe's wife or mistress.",
+    "source": "Haitian reference and practitioner tradition",
+    "date": "mid-to-late twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "contest",
+    "myth": "Social and ritual contrast between Dantò and Freda",
+    "note": "Dantò’s protective working motherhood contrasts with Freda’s luxury and frustrated romance.",
+    "source": "Brown, Mama Lola",
+    "date": "1991",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "fought",
+    "myth": "Dantò and Freda’s knife quarrel",
+    "note": "They fight over a male spirit; varying versions explain Dantò’s wounds or Freda’s pierced heart.",
+    "source": "Twentieth-century oral tradition",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Èzili Je Wouj": [
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some classifications identify Red-Eyes as Dantò’s enraged or hotter form; others consider her separate.",
+    "source": "Regional spirit taxonomies",
+    "date": "modern",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "erzulie_dantor",
+    "kind": "allied",
+    "myth": "",
+    "note": "Where treated as a distinct lwa, Red-Eyes is classified as Dantò’s companion.",
+    "source": "Regional spirit taxonomies",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ọbalúayé": [
+   {
+    "stated_by": "sakpata",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Afro-Brazilian traditions identify this earth-disease power with Sakpata.",
+    "source": "Verger comparative research",
+    "date": "1957",
+    "tier": "syncretism"
+   }
+  ]
+ }
+}

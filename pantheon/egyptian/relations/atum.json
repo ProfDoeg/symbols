@@ -1,0 +1,372 @@
+{
+ "subject": "atum",
+ "relations": [
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emergence from the pre-creative waters",
+   "note": "Atum comes into being in or from Nun and rises as the first elevation.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later genealogical formulations call Nun the father of Atum.",
+   "source": "Later mortuary and theological texts",
+   "date": "Later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of creation to Nun",
+   "note": "Atum foretells that differentiated creation will return to Nun's undifferentiated condition.",
+   "source": "Book of the Dead 175",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Khepri",
+   "other_aliases": [
+    "Atum-Khepri"
+   ],
+   "kind": "identified_with",
+   "myth": "First becoming upon the primeval elevation",
+   "note": "Atum-Khepri rises at Heliopolis and generates Shu and Tefnut.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Re-Atum",
+    "Atum-Re"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Atum fuses with Re as a combined solar creator and sovereign.",
+   "source": "Old Kingdom solar theology",
+   "date": "Old Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Atum overthrows Apep for Re",
+   "note": "Atum confronts and disables Re's bound serpent enemy during the nocturnal passage.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Manifestations of the nocturnal sun",
+   "note": "Atum is enumerated as a form or nocturnal phase of Re.",
+   "source": "Litany of Re",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horakhty",
+   "other_aliases": [
+    "Re-Horakhty"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later solar liturgies combine Atum with Horakhty in cumulative solar forms.",
+   "source": "Later temple liturgies",
+   "date": "Later periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Generation of Shu and Tefnut",
+   "note": "Atum generates Shu through semen, spitting, bodily emission, or creative utterance.",
+   "source": "PT 527; PT 600; CT 75–81",
+   "date": "24th–17th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of the lost children",
+   "note": "After the Eye finds Shu and Tefnut, Atum rejoices and embraces them.",
+   "source": "Later cosmogonic texts",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Generation of Shu and Tefnut",
+   "note": "Atum generates Tefnut through bodily emission and wordplay upon her name.",
+   "source": "PT 527; PT 600; Coffin Texts",
+   "date": "24th–17th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of the lost children",
+   "note": "Atum rejoices and embraces Tefnut when the Eye brings the lost children back.",
+   "source": "Later cosmogonic texts",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Eye of Atum/Re",
+   "other_aliases": [
+    "the Eye",
+    "Eye goddess"
+   ],
+   "kind": "served_by",
+   "myth": "Search for Shu and Tefnut",
+   "note": "Atum sends his personified Eye to find his children in Nun.",
+   "source": "Later cosmogonic recensions",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Eye of Atum/Re",
+   "other_aliases": [
+    "the Eye",
+    "Eye goddess"
+   ],
+   "kind": "gift",
+   "myth": "Exaltation of the returning Eye",
+   "note": "Atum pacifies the returning Eye and exalts it upon his forehead as the uraeus.",
+   "source": "Temple theology and creator hymns",
+   "date": "Later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iusaaset",
+   "other_aliases": [
+    "Iusas"
+   ],
+   "kind": "other",
+   "myth": "Personification of Atum's creative hand",
+   "note": "Iusaaset functions as Atum's divine Hand or female creative complement at Heliopolis.",
+   "source": "Heliopolitan priestly evidence",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nebethetepet",
+   "other_aliases": [
+    "Lady of the Offering",
+    "Lady of Contentment"
+   ],
+   "kind": "other",
+   "myth": "Female component of solitary creation",
+   "note": "Nebethetepet is paired with Atum as the receptive female component of creation.",
+   "source": "Heliopolitan temple theology",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Female complement of the solar creator",
+   "note": "Hathor is occasionally associated with Atum as the divine Hand or Eye.",
+   "source": "Later solar theology",
+   "date": "Later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Geb is Atum's grandson through Shu and Tefnut.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nut is Atum's granddaughter through Shu and Tefnut.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Osiris is Atum's great-grandson in the Heliopolitan Ennead.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Serpent survival after cosmic dissolution",
+   "note": "Atum tells Osiris they will remain as serpents after creation returns to Nun.",
+   "source": "Book of the Dead 175",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation and regeneration of the deceased",
+   "note": "Mortuary rites jointly invoke Atum's first creation and Osiris's regenerative power.",
+   "source": "Pyramid and later mortuary texts",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Isis is Atum's great-granddaughter and a member of his Ennead.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Seth is Atum's great-grandson and a member of his Ennead.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Divine dispute between Horus and Seth",
+   "note": "In some recensions, Re-Atum participates in the tribunal judging Seth's claim.",
+   "source": "New Kingdom dispute traditions",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nephthys is Atum's great-granddaughter and a member of his Ennead.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Atum belongs to the divine ancestry validating Horus as Osiris's heir.",
+   "source": "Royal theology",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Divine dispute between Horus and Seth",
+   "note": "In some recensions, Re-Atum presides over or joins the tribunal judging Horus's claim.",
+   "source": "New Kingdom dispute traditions",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Creation through heart and tongue",
+   "note": "Ptah creates or gives effective form to Atum and his Ennead.",
+   "source": "Shabaka Stone",
+   "date": "8th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Amun-Re",
+    "Amun-Re-Atum"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Theban theology makes Atum a manifestation of the hidden primordial creator Amun.",
+   "source": "Theban hymns",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Late local creator theology presents Neith as producing the gods, including Atum.",
+   "source": "Late local creator hymns",
+   "date": "Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apep",
+   "other_aliases": [
+    "Apophis"
+   ],
+   "kind": "fought",
+   "myth": "Atum defeats the bound cosmic serpent",
+   "note": "Atum confronts, restrains, and overthrows Apep on Re's behalf.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Benu",
+   "other_aliases": [
+    "Benu bird"
+   ],
+   "kind": "shared_myth",
+   "myth": "First appearance upon the benben",
+   "note": "The Benu accompanies Atum-Khepri's rising upon the primeval elevation at Heliopolis.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "the Great Ennead",
+   "other_aliases": [
+    "the Ennead"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Atum is the progenitor and foremost member of the Heliopolitan divine genealogy.",
+   "source": "PT 219–222; PT 600",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  }
+ ]
+}

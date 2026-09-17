@@ -1,0 +1,389 @@
+{
+ "subject": "math",
+ "relations": [
+  {
+   "other": "Mathonwy",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Math is named as Mathonwy’s son; no narrative about Mathonwy survives.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Dôn",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dôn is inferred as Math’s sister from her sons’ stated relationship to him.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Gwydion is Math’s nephew and conducts royal circuits for him.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "deceived_by",
+   "myth": "The theft of Pryderi’s pigs",
+   "note": "Gwydion engineers the pig theft and war to remove Math from Goewin.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "punished",
+   "myth": "Three years as breeding animals",
+   "note": "Math transforms Gwydion into stag, sow, and wolf before restoring him.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "taught",
+   "myth": "Three Great Enchantments",
+   "note": "Math teaches Gwydion one of Britain’s three great enchantments.",
+   "source": "Trioedd Ynys Prydein",
+   "date": "medieval multilayered tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "allied",
+   "myth": "Arianrhod’s virginity test",
+   "note": "Math and Gwydion jointly test Arianrhod as a prospective foot-holder.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [
+    "Gwydion fab Dôn"
+   ],
+   "kind": "allied",
+   "myth": "The creation of Blodeuwedd",
+   "note": "Math and Gwydion jointly fashion Blodeuwedd from flowers for Lleu.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy",
+   "other_aliases": [
+    "Gilfaethwy fab Dôn"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Gilfaethwy is Math’s nephew and conducts royal circuits for him.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Gilfaethwy",
+   "other_aliases": [
+    "Gilfaethwy fab Dôn"
+   ],
+   "kind": "deceived_by",
+   "myth": "The assault on Goewin",
+   "note": "Gilfaethwy betrays Math by assaulting Goewin in Math’s chamber during the war.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy",
+   "other_aliases": [
+    "Gilfaethwy fab Dôn"
+   ],
+   "kind": "punished",
+   "myth": "Three years as breeding animals",
+   "note": "Math transforms Gilfaethwy into hind, boar, and she-wolf before restoring him.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goewin",
+   "other_aliases": [
+    "Goewin ferch Pebin"
+   ],
+   "kind": "served_by",
+   "myth": "Math’s foot-holder condition",
+   "note": "Goewin holds Math’s feet in her lap, sustaining his magical life-condition.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goewin",
+   "other_aliases": [
+    "Goewin ferch Pebin"
+   ],
+   "kind": "consort_of",
+   "myth": "Math’s reparation to Goewin",
+   "note": "Math marries Goewin after her assault and grants her authority over his realm.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pryderi",
+   "other_aliases": [
+    "Pryderi fab Pwyll"
+   ],
+   "kind": "fought",
+   "myth": "The war over Pryderi’s pigs",
+   "note": "Math leads Gwynedd’s army against Pryderi after Gwydion steals the pigs.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pryderi",
+   "other_aliases": [
+    "Pryderi fab Pwyll"
+   ],
+   "kind": "judged",
+   "myth": "Pryderi’s single combat with Gwydion",
+   "note": "Math permits Pryderi’s dispute with Gwynedd to be settled by single combat.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arianrhod",
+   "other_aliases": [
+    "Arianrhod ferch Dôn"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Arianrhod is Math’s niece through the family of Dôn.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Arianrhod",
+   "other_aliases": [
+    "Arianrhod ferch Dôn"
+   ],
+   "kind": "judged",
+   "myth": "Arianrhod’s virginity test",
+   "note": "Math examines Arianrhod as a foot-holder and makes her cross his magical implement.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dylan",
+   "other_aliases": [
+    "Dylan ail Dôn"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Math is Dylan’s great-uncle through Arianrhod and the family of Dôn.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Dylan",
+   "other_aliases": [
+    "Dylan ail Dôn"
+   ],
+   "kind": "other",
+   "myth": "Dylan’s birth and sea-nature",
+   "note": "Math names the newborn Dylan and has him baptized after observing his sea-nature.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lleu Llaw Gyffes",
+   "other_aliases": [
+    "Lleu"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Math is Lleu’s great-uncle and royal patron.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Lleu Llaw Gyffes",
+   "other_aliases": [
+    "Lleu"
+   ],
+   "kind": "gift",
+   "myth": "Lleu receives lands and a court",
+   "note": "Math grants Lleu territories including Dinoding and Eifionydd or Ardudwy lands.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lleu Llaw Gyffes",
+   "other_aliases": [
+    "Lleu"
+   ],
+   "kind": "rescued",
+   "myth": "Lleu’s restoration at Caer Dathyl",
+   "note": "Math summons Gwynedd’s best physicians, who heal the gravely wounded Lleu.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Blodeuwedd",
+   "other_aliases": [
+    "Blodeuedd"
+   ],
+   "kind": "created",
+   "myth": "The creation of Blodeuwedd",
+   "note": "Math and Gwydion fashion Blodeuwedd from oak, broom, and meadowsweet flowers.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyddwn",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "First animal-born foster-son",
+   "note": "Math changes the deer-born fawn into a human boy and names him Hyddwn.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyddwn",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Math becomes foster-father to Hyddwn and arranges his baptism and fostering.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Hychdwn",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Second animal-born foster-son",
+   "note": "Math changes the boar-born offspring into a human boy and names him Hychdwn.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hychdwn",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Math becomes foster-father to Hychdwn and arranges his care.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Bleiddwn",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Third animal-born foster-son",
+   "note": "Math changes the wolf-born offspring into a human boy and names him Bleiddwn.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bleiddwn",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Math becomes foster-father to Bleiddwn and arranges his care.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "late eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Gofannon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "List of skilled men",
+   "note": "Math Hen and Gofannon appear together in a poetic list without interaction.",
+   "source": "Taliesin/Gwion poetic tradition",
+   "date": "late medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Plutus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "John Rhŷs comparatively interpreted Math as a Welsh Pluto or Plutus.",
+   "source": "John Rhŷs comparative mythology",
+   "date": "nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "John Rhŷs treated Math as a Brythonic Zeus-like figure.",
+   "source": "John Rhŷs comparative mythology",
+   "date": "nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Math mac Umair",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Evans-Wentz reported a speculative comparison between Math and the Irish magician.",
+   "source": "W. Y. Evans-Wentz",
+   "date": "1911",
+   "tier": "modern"
+  },
+  {
+   "other": "Aengus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Evans-Wentz reported a speculative comparison between Math and Aengus.",
+   "source": "W. Y. Evans-Wentz",
+   "date": "1911",
+   "tier": "modern"
+  }
+ ]
+}

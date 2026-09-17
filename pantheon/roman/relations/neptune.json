@@ -1,0 +1,575 @@
+{
+ "subject": "neptune",
+ "relations": [
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized genealogy names Saturn as Neptune’s father.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized genealogy names Ops as Neptune’s mother.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Jupiter and Neptune are brothers in the Hellenized genealogy.",
+   "source": "Cicero, De natura deorum 2.66",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Tripartite division of the cosmos",
+   "note": "The cosmic lot gives Jupiter heaven and Neptune the sea.",
+   "source": "Cicero, De natura deorum 2.66",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Flood of Deucalion",
+   "note": "Neptune mobilizes the waters to execute Jupiter’s flood.",
+   "source": "Ovid, Metamorphoses 1.253–415",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Building Troy’s walls",
+   "note": "In variants, Jupiter punishes Neptune and Apollo with mortal service.",
+   "source": "Ovid, Metamorphoses 11.194–220",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Juno and Neptune are siblings in the Hellenized genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Storm against Aeneas",
+   "note": "Neptune suppresses the unauthorized storm Juno procured from Aeolus.",
+   "source": "Virgil, Aeneid 1.50–156",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Dis"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pluto and Neptune are brothers in the Hellenized genealogy.",
+   "source": "Cicero, De natura deorum 2.66–67",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Dis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tripartite division of the cosmos",
+   "note": "Pluto receives the underworld while Neptune receives the sea.",
+   "source": "Cicero, De natura deorum 2.66–67",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ceres and Neptune are siblings in the Hellenized genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "other",
+   "myth": "Pursuit of mare-formed Ceres",
+   "note": "Neptune becomes a stallion while pursuing Ceres in mare form.",
+   "source": "Ovid, Metamorphoses 6.118–119",
+   "date": "c. 8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Vesta and Neptune are siblings in the Hellenized genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Salacia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Roman cult and antiquarian theology name Salacia as Neptune’s partner or wife.",
+   "source": "Aulus Gellius 13.23; Augustine 7.22",
+   "date": "second–fifth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Venilia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Varro’s system attaches Venilia to Neptune as incoming wave or second consort.",
+   "source": "Varro through Augustine, City of God 7.22",
+   "date": "413–426 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Poseidon’s Greek wife is paired with Neptune in Roman art and poetry.",
+   "source": "Ovidian and visual evidence",
+   "date": "late Republic–imperial",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman authors transfer Poseidon’s son Triton to Neptune’s genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Flood of Deucalion",
+   "note": "Neptune orders Triton to sound his conch and recall the waters.",
+   "source": "Ovid, Metamorphoses 1.330–347",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Polyphemus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman authors transfer Poseidon’s son Polyphemus to Neptune’s genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some transferred Greek traditions make Orion a son of Neptune.",
+   "source": "Ovid; Hyginus; Servius",
+   "date": "imperial–late antique",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pegasus is Neptune’s child through Medusa in transferred Greek genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chrysaor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chrysaor is Neptune’s child through Medusa in transferred Greek genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neleus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Neleus is Neptune’s child through Tyro in transferred Greek genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pelias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pelias is Neptune’s child through Tyro in transferred Greek genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Aloadae",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Aloadae are Neptune’s children through Iphimedia in transferred Greek genealogy.",
+   "source": "Ovid; Hyginus",
+   "date": "Augustan–early imperial",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lectisternium of 399 BCE",
+   "note": "Mercury and Neptune share a ceremonial couch in Rome’s first lectisternium.",
+   "source": "Livy 5.13.6",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "shared_myth",
+   "myth": "Lectisternium vowed in 217 BCE",
+   "note": "Minerva and Neptune are paired in the twelve-god lectisternium.",
+   "source": "Livy 22.10.9",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "contest",
+   "myth": "Contest for Athens",
+   "note": "Neptune’s spring or horse loses to Minerva’s olive in Athens.",
+   "source": "Augustine 18.9; Ovid, Metamorphoses 6.70–82",
+   "date": "c. 8–426 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "shared_myth",
+   "myth": "Violation and transformation of Medusa",
+   "note": "Minerva transforms Medusa after Neptune violates her within Minerva’s sanctuary.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Storm against Aeneas",
+   "note": "Neptune rebukes Aeolus’s winds for invading his maritime realm.",
+   "source": "Virgil, Aeneid 1.124–141",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Venus’s bargain for Aeneas",
+   "note": "At Venus’s request, Neptune promises Aeneas’s fleet safe passage.",
+   "source": "Virgil, Aeneid 5.779–826",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apotheosis of Ino and Melicertes",
+   "note": "After Venus intercedes, Neptune transforms Ino and Melicertes into sea-divinities.",
+   "source": "Ovid, Metamorphoses 4.531–542",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Apotheosis of Ino and Melicertes",
+   "note": "Neptune transforms Ino into a sea-divinity after Venus intercedes.",
+   "source": "Ovid, Metamorphoses 4.531–542",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Melicertes",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Apotheosis of Ino and Melicertes",
+   "note": "Neptune transforms Melicertes into a sea-divinity after Venus intercedes.",
+   "source": "Ovid, Metamorphoses 4.531–542",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Building Troy’s walls",
+   "note": "Neptune and Apollo jointly labor in mortal form building Troy’s walls.",
+   "source": "Ovid, Metamorphoses 11.194–220",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Scopas marine sculptural group",
+   "note": "Thetis appears beside Neptune within Scopas’s marine sculptural ensemble.",
+   "source": "Pliny, Natural History 36.26",
+   "date": "first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Scopas marine sculptural group",
+   "note": "Achilles appears with Neptune in the marine sculptural ensemble attributed to Scopas.",
+   "source": "Pliny, Natural History 36.26",
+   "date": "first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Scopas marine sculptural group",
+   "note": "The Nereids accompany Neptune in the sculptural marine retinue.",
+   "source": "Pliny, Natural History 36.26",
+   "date": "first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Scopas marine sculptural group",
+   "note": "Phorcus appears with Neptune in the sculptural marine retinue.",
+   "source": "Pliny, Natural History 36.26",
+   "date": "first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Violation of Medusa",
+   "note": "Neptune has sex with or violates Medusa inside Minerva’s sanctuary.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Arachne’s catalogue",
+   "note": "Arachne’s tapestry depicts Neptune assuming bird form for Medusa.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caenis",
+   "other_aliases": [
+    "Caeneus"
+   ],
+   "kind": "seduced",
+   "myth": "Caenis and Caeneus",
+   "note": "Neptune rapes Caenis on the shore and afterward offers a wish.",
+   "source": "Ovid, Metamorphoses 12.189–209",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caenis",
+   "other_aliases": [
+    "Caeneus"
+   ],
+   "kind": "transformed",
+   "myth": "Caenis and Caeneus",
+   "note": "Neptune transforms Caenis into the invulnerable male warrior Caeneus.",
+   "source": "Ovid, Metamorphoses 12.189–209",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Canace",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Arachne’s catalogue",
+   "note": "Arachne’s tapestry depicts Neptune assuming bull form for Canace.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tyro",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Arachne’s catalogue",
+   "note": "Neptune assumes the river Enipeus’s form to approach Tyro.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enipeus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Deception of Tyro",
+   "note": "Neptune assumes the river-god Enipeus’s appearance to deceive Tyro.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theophane",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Arachne’s catalogue",
+   "note": "Arachne’s tapestry depicts Neptune assuming ram form for Theophane.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Melantho",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Arachne’s catalogue",
+   "note": "Arachne’s tapestry depicts Neptune assuming dolphin form for Melantho.",
+   "source": "Ovid, Metamorphoses 6.103–128",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the river gods",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Flood of Deucalion",
+   "note": "Neptune summons the river gods and orders them to release their waters.",
+   "source": "Ovid, Metamorphoses 1.253–292",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Storm and passage to Italy",
+   "note": "Neptune calms Juno’s storm and later guarantees Aeneas’s fleet passage.",
+   "source": "Virgil, Aeneid 1; 5",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Consus",
+   "other_aliases": [
+    "Neptunus Equester"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpreters identify Consus with equestrian Neptune through Poseidon Hippios.",
+   "source": "Livy 1.9.6; Tertullian, De spectaculis 5",
+   "date": "late first century BCE–c. 200 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Provincial imagery sometimes confuses Neptune with Oceanus despite their theological distinction.",
+   "source": "Provincial mosaics and inscriptions",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nethuns",
+   "other_aliases": [
+    "Neθuns",
+    "Neθunus",
+    "Neθ"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan water-god Nethuns is equated with Neptune.",
+   "source": "Etruscan mirrors; Piacenza Liver",
+   "date": "fourth–first centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Poseidōn"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Poseidon is Neptune’s Greek translation-equivalent and source of many later attributes.",
+   "source": "Roman literary and visual tradition",
+   "date": "Republican–imperial",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "subject": "don_and_beli_mawr",
+ "relations": [
+  {
+   "other": "Gwydion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gwydion is explicitly called son of Dôn.",
+   "source": "Fourth Branch, Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilfaethwy",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gilfaethwy is explicitly called son of Dôn.",
+   "source": "Fourth Branch, Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aranrhod",
+   "other_aliases": [
+    "Arianrhod"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aranrhod is explicitly called daughter of Dôn.",
+   "source": "Fourth Branch, Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Amaethon is identified as a son of Dôn.",
+   "source": "Culhwch ac Olwen",
+   "date": "c. 1100",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gofannon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Gofannon is identified as a son of Dôn.",
+   "source": "Culhwch ac Olwen",
+   "date": "c. 1100",
+   "tier": "canonical"
+  },
+  {
+   "other": "Math",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dôn is inferred as Math’s sister because her children are his sister’s children.",
+   "source": "Fourth Branch, Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Beli Mawr",
+   "other_aliases": [
+    "Beli"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later interpreters made Beli Dôn’s consort by harmonizing incompatible genealogies.",
+   "source": "Later genealogical harmonization",
+   "date": "modern period",
+   "tier": "modern"
+  },
+  {
+   "other": "Danu",
+   "other_aliases": [
+    "Donu"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparativists identify Dôn with reconstructed Irish Danu, without a primary-source equation.",
+   "source": "Modern comparative scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Penarddun",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Penarddun is named daughter of Beli son of Manogan.",
+   "source": "Second Branch, Branwen ferch Llŷr",
+   "date": "eleventh–twelfth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lludd",
+   "other_aliases": [
+    "Lud"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lludd is Beli’s son and inherits Britain after Beli dies.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Llefelys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Llefelys is named as a son of Beli Mawr.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Caswallawn",
+   "other_aliases": [
+    "Cassibellaunus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Several medieval traditions identify Caswallawn as Beli’s son.",
+   "source": "Welsh Triads and prophetic poetry",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nynniaw",
+   "other_aliases": [
+    "Nennius"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nynniaw is named as a son of Beli Mawr.",
+   "source": "Lludd and Llefelys",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Arianrhod",
+   "other_aliases": [
+    "Aranrhod"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A difficult triadic reading calls Arianrhod Beli’s daughter, conflicting with the Fourth Branch.",
+   "source": "Welsh Triad 35",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dôn",
+   "other_aliases": [
+    "Don"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Modern systems make Dôn Beli’s spouse, though no medieval encounter or marriage survives.",
+   "source": "Later genealogical harmonization",
+   "date": "modern period",
+   "tier": "modern"
+  },
+  {
+   "other": "Belenus",
+   "other_aliases": [
+    "Belinus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Beli is controversially equated with continental Belenus despite linguistic and evidentiary problems.",
+   "source": "Modern comparative scholarship",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Geoffrey’s Belinus",
+   "other_aliases": [
+    "Belinus son of Dunvallo"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later interpreters conflate Beli with Geoffrey’s distinct king Belinus.",
+   "source": "Later antiquarian harmonization",
+   "date": "post-medieval",
+   "tier": "late_accretion"
+  }
+ ]
+}

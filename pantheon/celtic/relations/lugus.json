@@ -1,0 +1,481 @@
+{
+ "subject": "lugus",
+ "relations": [
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparison links Lugus with Caesar’s many-skilled Gaulish Mercury, without an explicit ancient equation.",
+   "source": "Caesar, Bellum Gallicum 6.17",
+   "date": "circa 52 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cian",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lug is Cian’s son and later avenges his murder.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ethniu",
+   "other_aliases": [
+    "Ethliu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lug is the son of Balor’s daughter Ethniu or Ethliu.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dían Cécht",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lug is Dían Cécht’s grandson through Cian.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dían Cécht",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mobilization before Mag Tuired",
+   "note": "Lug asks his healing power; Dían Cécht promises to restore wounded warriors.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lug is Balor’s maternal grandson through Ethniu.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balor",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Lug slings a stone through Balor’s destructive eye, killing him.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tailtiu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Tailtiu is Lug’s foster-mother in the dominant Lugnasad tradition.",
+   "source": "Lebor Gabála Érenn",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tailtiu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Foundation of Tailtiu’s funeral assembly",
+   "note": "After Tailtiu dies clearing land, Lug establishes games or an assembly at her grave.",
+   "source": "Dindshenchas",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manannán mac Lir",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Later traditions describe Manannán as Lug’s foster-father or instructor.",
+   "source": "Later sons of Tuireann traditions",
+   "date": "late medieval and early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manannán mac Lir",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "Manannán supplies Lug with weapons, a horse, boat, or magical equipment in varying traditions.",
+   "source": "Later sons of Tuireann traditions",
+   "date": "late medieval and early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Buach",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some inconsistent Irish genealogies associate Buach with Lug as a consort.",
+   "source": "Irish genealogical traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nás",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some inconsistent Irish genealogies associate Nás with Lug as a consort.",
+   "source": "Irish genealogical traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bói",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some inconsistent Irish genealogies associate Bói with Lug as a consort.",
+   "source": "Irish genealogical traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lug explicitly identifies himself as Cú Chulainn’s divine father.",
+   "source": "Táin Bó Cúailnge, Recension I",
+   "date": "eleventh-century manuscript witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cú Chulainn",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Lug aids Cú Chulainn during the Táin",
+   "note": "Lug heals his exhausted son and fights in his place for three days.",
+   "source": "Táin Bó Cúailnge, Recension I",
+   "date": "eleventh-century manuscript witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cnú Deireóil",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Genealogical or place-lore traditions name Cnú Deireóil among Lug’s obscure offspring.",
+   "source": "Irish genealogical and place-lore traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nuada",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Lug’s testing at Tara",
+   "note": "In some versions Lug defeats Nuada at fidchell, demonstrating his fitness for leadership.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nuada",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Transfer of command at Tara",
+   "note": "Nuada recognizes Lug’s comprehensive skill and yields his seat or command for thirteen days.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Dagda",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Preparations for Mag Tuired",
+   "note": "Lug coordinates strategy with the Dagda, who promises destruction and magical provisioning.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Flagstone feat at Tara",
+   "note": "Lug proves his strength by returning the great flagstone Ogma had thrown.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Lug assigns Ogma a martial role, and both fight the Fomorians.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Goibniu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mobilization of divine craft",
+   "note": "Lug questions Goibniu, who promises rapidly made and unfailing weapons.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Credne",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mobilization of divine craft",
+   "note": "Lug questions Credne, who promises rivets, shield-rims, and spear fittings.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Luchta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mobilization of divine craft",
+   "note": "Lug questions Luchta, who promises shields and spear-shafts.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cairbre mac Étaín",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mobilization of satire and poetry",
+   "note": "Lug asks Cairbre’s contribution; Cairbre promises satire and magical verbal action.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Morrígan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "The Morrígan promises Lug she will pursue and destroy the enemy.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Badb",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Badb supports or proclaims the Túatha Dé victory alongside Lug’s war effort.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Macha",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Macha supports or proclaims the Túatha Dé victory alongside Lug’s war effort.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Lug organizes the coalition that defeats Bres’s Fomorian-supported regime.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Bres bargains for his life",
+   "note": "After Bres’s capture, Lug’s side spares him in exchange for agricultural counsel.",
+   "source": "Cath Maige Tuired",
+   "date": "twelfth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brian",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "The sons of Tuireann",
+   "note": "Lug imposes a perilous compensation quest for Cian’s murder and later withholds the healing pigskin.",
+   "source": "Oidheadh Chloinne Tuireann",
+   "date": "chiefly early-modern recension",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iuchar",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "The sons of Tuireann",
+   "note": "Lug imposes a perilous compensation quest for Cian’s murder and later withholds the healing pigskin.",
+   "source": "Oidheadh Chloinne Tuireann",
+   "date": "chiefly early-modern recension",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iucharba",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "The sons of Tuireann",
+   "note": "Lug imposes a perilous compensation quest for Cian’s murder and later withholds the healing pigskin.",
+   "source": "Oidheadh Chloinne Tuireann",
+   "date": "chiefly early-modern recension",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arianrhod",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lleu is born to Arianrhod during Math’s magical virginity test.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arianrhod",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Arianrhod’s three prohibitions",
+   "note": "Arianrhod denies Lleu a name, arms, and marriage to a human woman.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lleu’s naming and arming",
+   "note": "Gwydion raises Lleu and engineers the defeat of Arianrhod’s naming and arming prohibitions.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Restoration of the wounded eagle",
+   "note": "Gwydion finds Lleu as a wounded eagle, brings him down, and restores human form.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gwydion",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lleu’s vengeance",
+   "note": "After restoring Lleu, Gwydion enables his vengeance against Gronw and Blodeuedd.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Math fab Mathonwy",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recognition of Lleu’s claims",
+   "note": "Math acts as Lleu’s dynastic patron and recognizes the supernatural child’s claims.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Math fab Mathonwy",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Creation of Blodeuedd",
+   "note": "Math and Gwydion create Blodeuedd from flowers to become Lleu’s wife.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dylan ail Don",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dylan and the hidden infant Lleu are co-born during Arianrhod’s magical test.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dôn",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lleu belongs to the Children of Dôn through his mother Arianrhod.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Blodeuedd",
+   "other_aliases": [
+    "Blodeuwedd"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Math and Gwydion create Blodeuedd from flowers to be Lleu’s wife.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Blodeuedd",
+   "other_aliases": [
+    "Blodeuwedd"
+   ],
+   "kind": "deceived_by",
+   "myth": "Blodeuedd discovers Lleu’s death conditions",
+   "note": "Blodeuedd coaxes out Lleu’s vulnerabilities and arranges Gronw’s attempted killing.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gronw Pebr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gronw’s spear attack",
+   "note": "Gronw attacks Lleu under contrived liminal conditions, transforming the wounded Lleu into an eagle.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gronw Pebr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Lleu’s avenging spear-cast",
+   "note": "Restored Lleu casts a spear through Gronw’s shielding stone and kills him.",
+   "source": "Math fab Mathonwy",
+   "date": "eleventh–twelfth century",
+   "tier": "regional_variant"
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "subject": "anemoi",
+ "relations": [
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eos and Astraeus generate Zephyrus, Boreas, and Notus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Astraeus",
+   "other_aliases": [
+    "the Starry"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Astraeus and Eos generate Zephyrus, Boreas, and Notus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ordered winds contrasted with Typhoeus’ destructive squalls",
+   "note": "Typhoeus produces ruinous squalls explicitly distinguished from Boreas, Notus, and Zephyrus.",
+   "source": "Hesiod, Theogony 869–880",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The winds kindle Patroclus’ funeral pyre",
+   "note": "Iris carries Achilles’ prayer; Boreas and Zephyrus answer and kindle the pyre.",
+   "source": "Homer, Iliad 23.192–230",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "served",
+   "myth": "Poseidon’s storm against Odysseus",
+   "note": "Poseidon rouses Boreas, Eurus, Notus, and Zephyrus against Odysseus.",
+   "source": "Homer, Odyssey 5.291–332",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aeolus’ bag of winds",
+   "note": "Aeolus confines hostile winds in a hide bag and releases favorable Zephyrus.",
+   "source": "Homer, Odyssey 10.1–79",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Divine command of weather",
+   "note": "Zeus exercises ultimate meteorological authority and deploys winds in later systematization.",
+   "source": "Homeric passages; later mythography",
+   "date": "Archaic through Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Podarge",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Zephyrus sires Achilles’ immortal horses",
+   "note": "Zephyrus mates with the Harpy Podarge beside Oceanus.",
+   "source": "Homer, Iliad 16.148–151",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Xanthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Zephyrus sires Achilles’ immortal horses",
+   "note": "Zephyrus fathers the immortal horse Xanthus by Podarge.",
+   "source": "Homer, Iliad 16.148–151",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Balius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Zephyrus sires Achilles’ immortal horses",
+   "note": "Zephyrus fathers the immortal horse Balius by Podarge.",
+   "source": "Homer, Iliad 16.148–151",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A poetic genealogy pairs Zephyrus with Iris as Eros’ parents.",
+   "source": "Alcaeus fr. 327",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcaeus’ poetic genealogy makes Eros the child of Zephyrus and Iris.",
+   "source": "Alcaeus fr. 327",
+   "date": "seventh–sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Zephyrus rivals Apollo for Hyacinthus",
+   "note": "Jealous Zephyrus rivals Apollo and diverts Apollo’s discus toward Hyacinthus.",
+   "source": "Philostratus, Imagines 1.24",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Zephyrus diverts Apollo’s discus",
+   "note": "In a late variant, jealous Zephyrus causes Apollo’s discus to strike Hyacinthus.",
+   "source": "Philostratus, Imagines 1.24",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chloris",
+   "other_aliases": [
+    "Flora"
+   ],
+   "kind": "consort_of",
+   "myth": "Zephyrus abducts and marries Chloris",
+   "note": "Zephyrus seizes Chloris, then marries her and makes her flower goddess.",
+   "source": "Ovid, Fasti 5.183–378",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chloris",
+   "other_aliases": [
+    "Flora"
+   ],
+   "kind": "gift",
+   "myth": "Zephyrus grants Chloris floral dominion",
+   "note": "Zephyrus grants his wife dominion over flowers.",
+   "source": "Ovid, Fasti 5.183–378",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Carpus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later accounts make Carpus the child of Zephyrus and Chloris.",
+   "source": "Later mythographic accounts",
+   "date": "Hellenistic or Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late epic variants make Zephyrus and an unnamed Harpy Arion’s parents.",
+   "source": "Late epic variants",
+   "date": "Roman or late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oreithyia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Boreas abducts Oreithyia",
+   "note": "Boreas carries Oreithyia from Attica to Thrace and makes her his wife.",
+   "source": "Herodotus 7.189; later mythography",
+   "date": "fifth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zetes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas and Oreithyia are parents of the winged Boread Zetes.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calais",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas and Oreithyia are parents of the winged Boread Calais.",
+   "source": "Apollonius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cleopatra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas and Oreithyia are named as Cleopatra’s parents.",
+   "source": "Sophocles, Antigone 944–987",
+   "date": "442/441 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chione",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas and Oreithyia are named as Chione’s parents.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.15",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eumolpus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Boreas is Eumolpus’ grandfather through Chione and Poseidon.",
+   "source": "Pseudo-Apollodorus 3.15.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "shared_myth",
+   "myth": "Poseidon rescues Chione’s exposed infant",
+   "note": "Poseidon fathers and rescues Eumolpus, Boreas’ grandson through Chione.",
+   "source": "Pseudo-Apollodorus 3.15.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Plexippus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Boreas is variously named as Plexippus’ grandfather through Cleopatra.",
+   "source": "Later mythographic genealogy",
+   "date": "Hellenistic or Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pandion",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Boreas is variously named as Pandion’s grandfather through Cleopatra.",
+   "source": "Later mythographic genealogy",
+   "date": "Hellenistic or Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pothos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nonnus makes Pothos the child of Zephyrus and Iris.",
+   "source": "Nonnus, Dionysiaca 47.340",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Nonnus pairs Zephyrus and Iris as Pothos’ parents.",
+   "source": "Nonnus, Dionysiaca 47.340",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "served",
+   "myth": "Juno unleashes the Venti against Aeneas",
+   "note": "Juno commands Aeolus to release the imprisoned winds against Aeneas.",
+   "source": "Virgil, Aeneid 1.50–80",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "punished_by",
+   "myth": "Neptune disperses Aeolus’ released storm",
+   "note": "Neptune rebukes and disperses the winds released against Aeneas.",
+   "source": "Virgil, Aeneid 1.124–156",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Apollo’s oracle commands prayers to the Winds",
+   "note": "Apollo gives Delphi the oracle directing Greeks to pray to the Winds.",
+   "source": "Herodotus, Histories 7.178",
+   "date": "c. 430s–420s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Titane priests chant Medea’s wind charms",
+   "note": "Medea’s reported charms are sung in a regional rite to quiet the winds.",
+   "source": "Pausanias 2.12.1",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Iris leaves the winds’ feast",
+   "note": "Iris departs the winds’ feast to attend divine sacrifice beside Oceanus.",
+   "source": "Homer, Iliad 23.205–211",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "served",
+   "myth": "Auster helps Jupiter unleash the deluge",
+   "note": "Jupiter confines Boreas and releases rain-soaked Auster to flood humankind.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Auster and Iris sustain the deluge",
+   "note": "Auster supplies torrential rain while Iris replenishes the clouds.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  }
+ ]
+}

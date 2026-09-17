@@ -1,0 +1,409 @@
+{
+ "subject": "osiris",
+ "relations": [
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb is Osiris's father and predecessor in the dominant Heliopolitan genealogy.",
+   "source": "Pyramid Texts; Great Hymn to Osiris",
+   "date": "24th century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nut is Osiris's mother and protects or receives him after death.",
+   "source": "Pyramid Texts; Great Hymn to Osiris",
+   "date": "24th century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Isis is Osiris's sister in the dominant Heliopolitan genealogy.",
+   "source": "Heliopolitan genealogy",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Isis is Osiris's sister-consort and conceives Horus from him.",
+   "source": "Great Hymn to Osiris",
+   "date": "early Eighteenth Dynasty",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Mourning, reassembly, and revivification of Osiris",
+   "note": "Isis searches for, protects, reunites, and magically revivifies Osiris's body.",
+   "source": "Pyramid Texts; Great Hymn; later laments",
+   "date": "24th century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Seth is Osiris's brother in the dominant Heliopolitan genealogy.",
+   "source": "Heliopolitan genealogy",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "killed_by",
+   "myth": "Sethian assault and death of Osiris",
+   "note": "Seth kills or violently assaults Osiris, causing his death.",
+   "source": "Pyramid Texts",
+   "date": "ca. 24th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "killed_by",
+   "myth": "Chest murder and dismemberment",
+   "note": "Seth traps Osiris in a chest, casts it away, then dismembers him.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nephthys is Osiris's sister in the dominant Heliopolitan genealogy.",
+   "source": "Heliopolitan genealogy",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Mourning and protection of Osiris",
+   "note": "Nephthys mourns Osiris and helps Isis assemble or guard his body.",
+   "source": "Pyramid Texts",
+   "date": "ca. 24th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Osiris is the posthumous father of Horus, his heir and vindicator.",
+   "source": "Pyramid Texts; Great Hymn to Osiris",
+   "date": "24th century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "rescued_by",
+   "myth": "Horus raises and vindicates Osiris",
+   "note": "Horus raises Osiris, restores his Eye, defeats his enemies, and establishes him.",
+   "source": "Pyramid Texts",
+   "date": "ca. 24th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "gift",
+   "myth": "Offering of the restored Eye",
+   "note": "Horus presents the restored Eye to Osiris as a revivifying offering.",
+   "source": "Pyramid Texts",
+   "date": "ca. 24th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus the Elder",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One cosmological enumeration makes Horus the Elder a sibling of Osiris.",
+   "source": "Cosmological enumeration",
+   "date": "date not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Plutarch makes Anubis the son of Osiris and Nephthys.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Embalming and protection of Osiris",
+   "note": "Anubis embalms, guards, and performs funerary rites for Osiris.",
+   "source": "Old and Middle Kingdom funerary texts",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Wepwawet",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Abydos procession of Osiris",
+   "note": "Wepwawet opens the way and leads Osiris's ritual procession at Abydos.",
+   "source": "Ikhernofret stela",
+   "date": "ca. 19th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "shared_myth",
+   "myth": "Nightly solar-Osirian union",
+   "note": "Ra's mobile ba unites with Osiris's corpse, renewing the sun and dead.",
+   "source": "Amduat and related royal books",
+   "date": "16th–11th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration and succession of Osiris",
+   "note": "Thoth heals, protects, and legally assists the Osirian-Horian side.",
+   "source": "Pyramid Texts; Chester Beatty I",
+   "date": "24th–12th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of the restored Eye",
+   "note": "Thoth presents the restored Eye to Osiris in ritual tradition.",
+   "source": "Pyramid Texts; temple ritual",
+   "date": "24th century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus's four sons",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Judgment and protection of the dead",
+   "note": "Horus's four sons stand before Osiris and protect the deceased's organs.",
+   "source": "Book of the Dead vignettes",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment in the Hall of Two Truths",
+   "note": "Osiris presides while the deceased's heart is weighed against Maat's emblem.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Horus and Seth succession dispute",
+   "note": "Neith advises the tribunal to award Horus the office inherited from Osiris.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Universal Lord"
+   ],
+   "kind": "other",
+   "myth": "Horus and Seth succession dispute",
+   "note": "Atum presides over the dispute concerning succession to Osiris's royal office.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Horus and Seth succession dispute",
+   "note": "Shu supports Horus's legal claim to inherit Osiris's office.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Memphite funerary theology joins Osiris with Ptah in composite creator-regeneration forms.",
+   "source": "Memphite funerary objects and texts",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sokar",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Osiris fuses with Sokar and Ptah as Ptah-Sokar-Osiris.",
+   "source": "Funerary objects and theology",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apis",
+   "other_aliases": [
+    "Osiris-Apis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Each deceased Apis bull becomes Osiris-Apis in the Memphite cult.",
+   "source": "Memphite Apis burial evidence",
+   "date": "especially first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sarapis",
+   "other_aliases": [
+    "Serapis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sarapis developed from Osiris-Apis but became a distinct Greek anthropomorphic deity.",
+   "source": "Early Ptolemaic cult evidence",
+   "date": "early Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Banebdjedet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Banebdjedet serves as an Osirian ba or local manifestation in Delta theology.",
+   "source": "Delta temple theology",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heryshaf",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Heryshaf is locally equated with Osiris through ram and kingship theology.",
+   "source": "Late temple traditions",
+   "date": "Late Period and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Min and Osiris fuse in ithyphallic regenerative forms such as Min-Osiris.",
+   "source": "Temple and funerary iconography",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Khentiamentiu",
+   "other_aliases": [
+    "Foremost of the Westerners"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Osiris absorbs the earlier Abydene funerary god Khentiamentiu and assumes his title.",
+   "source": "Abydos cult and titulary",
+   "date": "First Intermediate Period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek authors equate Osiris with Dionysus through kingship, agriculture, and dismemberment.",
+   "source": "Diodorus, Library 1; Plutarch",
+   "date": "first century BCE–ca. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretation equates Osiris with Hades or Pluto as ruler of the dead.",
+   "source": "Hellenistic and Roman sources",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Roman traditions cosmicize Osiris and identify him with solar power.",
+   "source": "Greco-Roman sources",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Winning the epagomenal birth days",
+   "note": "Hermes wins extra days from the Moon, permitting Osiris and his siblings' births.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Moon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Winning the epagomenal birth days",
+   "note": "Days won from the Moon allow Nut to give birth to Osiris.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

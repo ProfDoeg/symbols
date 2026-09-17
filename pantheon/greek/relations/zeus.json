@@ -1,0 +1,1421 @@
+{
+ "subject": "zeus",
+ "relations": [
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kronos is Zeus’s father in the dominant Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 453–506",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Overthrow of Kronos",
+   "note": "Zeus escapes swallowing, compels Kronos to release his siblings, and overthrows him.",
+   "source": "Hesiod, Theogony 453–735",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rhea bears Zeus and conceals him from Kronos.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Gaia is Zeus’s grandmother in Hesiod’s genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Concealment and succession",
+   "note": "Gaia helps preserve Zeus and advises him during the succession struggle.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Typhoeus challenge",
+   "note": "Gaia later bears Typhoeus, a monstrous challenger to Zeus’s rule.",
+   "source": "Hesiod, Theogony 820–880",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ouranos is Zeus’s grandfather in Hesiod’s genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Concealment and succession",
+   "note": "Ouranos joins Gaia in warning Rhea and supplying succession knowledge.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hestia is Zeus’s restored sister and receives divine honor.",
+   "source": "Hesiod; Homeric hymns",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Demeter is Zeus’s sister.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Zeus unites with Demeter and fathers Persephone.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hera is Zeus’s sister.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hera is Zeus’s principal divine wife.",
+   "source": "Hesiod; Iliad",
+   "date": "eighth–seventh centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Deception of Zeus",
+   "note": "Hera seduces and deceives Zeus so Poseidon can aid the Greeks.",
+   "source": "Iliad 14–15",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Divine coup",
+   "note": "Hera joins a threatened divine coup that Thetis and Briareos prevent.",
+   "source": "Iliad 1.396–406",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Plouton"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hades is Zeus’s brother.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Plouton"
+   ],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmos",
+   "note": "Zeus receives the sky while Hades receives the underworld.",
+   "source": "Iliad 15.187–193",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Plouton"
+   ],
+   "kind": "allied",
+   "myth": "Persephone’s marriage",
+   "note": "Zeus assents to Persephone’s marriage and later brokers her partial return.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Plouton"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Restricted sources equate or functionally overlap Zeus Chthonios with Hades.",
+   "source": "Orphic fragments; Pausanias",
+   "date": "ancient, varying dates",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Poseidon is Zeus’s brother.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Titanomachy",
+   "note": "Poseidon joins Zeus against the Titans.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmos",
+   "note": "Zeus receives the sky while Poseidon receives the sea.",
+   "source": "Iliad 15.187–193",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Trojan War divine intervention",
+   "note": "Poseidon aids the Greeks contrary to Zeus’s commands.",
+   "source": "Iliad 8, 13–15",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Metis is Zeus’s first wife in Hesiod.",
+   "source": "Hesiod, Theogony 886–900",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Swallowing of Metis",
+   "note": "Zeus swallows pregnant Metis to prevent a foretold succession threat.",
+   "source": "Hesiod, Theogony 886–900",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Themis is Zeus’s wife and bears the Horai and Moirai.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine counsel",
+   "note": "Themis serves as Zeus’s counselor and converses with him.",
+   "source": "Homeric Hymn 23",
+   "date": "Archaic or later",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eurynome bears the Charites to Zeus.",
+   "source": "Hesiod, Theogony 907–911",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of the Muses",
+   "note": "Zeus sleeps with Mnemosyne nine nights, fathering the Muses.",
+   "source": "Hesiod, Theogony 53–62, 915–917",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Zeus fathers Apollo and Artemis with Leto.",
+   "source": "Hesiod; Homeric Hymn to Apollo",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Dione is Zeus’s consort at Dodona and Aphrodite’s mother in Homer.",
+   "source": "Iliad 5.370–417; Dodona cult",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Hermes",
+   "note": "Zeus secretly visits Maia, who bears Hermes.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Dionysos",
+   "note": "Zeus impregnates Semele, who later demands his unveiled divine appearance.",
+   "source": "Euripides, Bacchae",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Epiphany to Semele",
+   "note": "Bound by his oath, Zeus appears in lightning and burns Semele.",
+   "source": "Euripides, Bacchae",
+   "date": "405 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Persephone is Zeus’s daughter by Demeter.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Orphic conception of Dionysos",
+   "note": "Later Orphic tradition makes Zeus father Dionysos with Persephone.",
+   "source": "Orphic fragments",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Birth of Athena",
+   "note": "Athena emerges from Zeus’s head after he swallows Metis.",
+   "source": "Hesiod; Homeric Hymn to Athena",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Athena acts as Zeus’s favored counselor and agent.",
+   "source": "Hesiod; Homeric epic",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horai",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Horai are daughters of Zeus and Themis.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hesiod makes the Moirai daughters of Zeus and Themis.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fate of Sarpedon and Hector",
+   "note": "Homeric fate can constrain Zeus, who weighs or accepts destined deaths.",
+   "source": "Iliad 16, 22",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Charites are daughters of Zeus and Eurynome.",
+   "source": "Hesiod, Theogony 907–911",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Muses are daughters of Zeus and Mnemosyne.",
+   "source": "Hesiod, Theogony 53–62",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "The Muses celebrate Zeus and the established divine order.",
+   "source": "Hesiod, Theogony proem",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo is Zeus’s son by Leto.",
+   "source": "Hesiod; Homeric Hymn to Apollo",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Apollo acts as Zeus’s prophet, musician, and divine agent.",
+   "source": "Homer; hymns; tragedy",
+   "date": "Archaic–Classical periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Artemis is Zeus’s daughter by Leto.",
+   "source": "Hesiod and Homeric hymns",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Homer makes Aphrodite the daughter of Zeus and Dione.",
+   "source": "Iliad 5.370–417",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Deception of Zeus",
+   "note": "Aphrodite supplies Hera’s erotic charm for the deception of Zeus.",
+   "source": "Iliad 14",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ares is Zeus’s son by Hera in Hesiod.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Rebuke of Ares",
+   "note": "Zeus rebukes Ares as the most hateful Olympian.",
+   "source": "Iliad 5.888–898",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hebe is Zeus’s daughter by Hera.",
+   "source": "Hesiod; Iliad",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Hebe serves as divine cupbearer.",
+   "source": "Iliad",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eileithyia is Zeus’s daughter by Hera.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Births of Herakles and Eurystheus",
+   "note": "Under Hera’s direction, Eileithyia delays Herakles’s birth and frustrates Zeus’s oath.",
+   "source": "Iliad 19",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaistos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions make Hephaistos the joint child of Zeus and Hera.",
+   "source": "Later genealogical traditions",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hephaistos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus and Hera’s quarrel",
+   "note": "Hephaistos intervenes in Zeus and Hera’s quarrel.",
+   "source": "Iliad 1",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaistos",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Casting from heaven",
+   "note": "One early account has Zeus cast Hephaistos from heaven for aiding Hera.",
+   "source": "Iliad 1",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysos",
+   "other_aliases": [
+    "Zagreus"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth from Zeus’s thigh",
+   "note": "Zeus fathers Dionysos with Semele and completes his gestation in his thigh.",
+   "source": "Euripides, Bacchae; Hesiodic fragments",
+   "date": "Archaic–Classical periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysos",
+   "other_aliases": [
+    "Zagreus"
+   ],
+   "kind": "parent_of",
+   "myth": "Orphic birth of Dionysos",
+   "note": "Orphic tradition makes Dionysos the child of Zeus and Persephone.",
+   "source": "Orphic fragments",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes is Zeus’s son by Maia.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Zeus appoints Hermes herald and repeatedly sends him to execute commands.",
+   "source": "Homeric Hymn; Odyssey 1, 5, 24",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of Zeus’s sinews",
+   "note": "In a later variant Hermes helps recover Zeus’s severed sinews from Typhon.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thetis’s supplication",
+   "note": "Thetis supplicates Zeus, who promises Trojan success for Achilles.",
+   "source": "Iliad 1",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Return of Hector’s body",
+   "note": "Zeus orders Thetis to guide Achilles toward returning Hector’s body.",
+   "source": "Iliad 24",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Briareos",
+   "other_aliases": [
+    "Aigaion"
+   ],
+   "kind": "rescued_by",
+   "myth": "Divine coup",
+   "note": "Summoned by Thetis, Briareos prevents a divine coup against Zeus.",
+   "source": "Iliad 1.396–406",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Preparation for Titanomachy",
+   "note": "Zeus frees the Cyclopes before the war against the Titans.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gift of the thunderbolt",
+   "note": "The Cyclopes give Zeus thunder, lightning, and the thunderbolt.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hekatoncheires",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Preparation for Titanomachy",
+   "note": "Zeus releases the Hekatoncheires and restores them with divine food.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hekatoncheires",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Titanomachy",
+   "note": "The Hekatoncheires help Zeus defeat and imprison the Titans.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Zeus wages a cosmic war against the Titans.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Aftermath of Titanomachy",
+   "note": "Zeus confines the defeated Titans in Tartaros.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Aftermath of Titanomachy",
+   "note": "Zeus assigns or confirms Atlas’s burden after the Titan conflict.",
+   "source": "Hesiod, Theogony 517–520",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Battle with Typhoeus",
+   "note": "Zeus battles the final monstrous challenger using thunder, lightning, and fire.",
+   "source": "Hesiod, Theogony 820–880",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "punished",
+   "myth": "Defeat of Typhoeus",
+   "note": "Zeus burns Typhoeus’s heads and casts him into Tartaros.",
+   "source": "Hesiod, Theogony 820–880",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhoeus",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "punished_by",
+   "myth": "Zeus’s temporary disablement",
+   "note": "A later variant has Typhon cut the sinews from Zeus’s limbs.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aigipan",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery of Zeus’s sinews",
+   "note": "Aigipan helps recover Zeus’s severed sinews in a later Typhon variant.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Sacrifice at Mekone",
+   "note": "Prometheus deceptively divides an ox, establishing a sacrificial dispute with Zeus.",
+   "source": "Hesiod, Theogony 535–557",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of fire",
+   "note": "Prometheus steals fire after Zeus withholds it from humankind.",
+   "source": "Hesiod, Theogony; Works and Days",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding of Prometheus",
+   "note": "Zeus has Prometheus bound while an eagle consumes his regenerating liver.",
+   "source": "Hesiod, Theogony 507–616",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Gift of Pandora",
+   "note": "Zeus sends Pandora, whom Epimetheus accepts despite Prometheus’s warning.",
+   "source": "Hesiod, Works and Days",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Creation of Pandora",
+   "note": "Zeus commands the gods to construct Pandora as punishment connected with fire.",
+   "source": "Hesiod, Works and Days; Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cattle of Helios",
+   "note": "After Helios appeals for justice, Zeus destroys Odysseus’s ship.",
+   "source": "Odyssey 12",
+   "date": "late eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philosophical and magical traditions occasionally identify Zeus with Helios.",
+   "source": "Stoic, Orphic, magical material",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Deception of Zeus",
+   "note": "Hypnos puts Zeus to sleep at Hera’s request.",
+   "source": "Iliad 14",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Earlier sleep deception",
+   "note": "Hypnos recalls Zeus’s earlier anger and attempted punishment for putting him to sleep.",
+   "source": "Iliad 14",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Epic strife",
+   "note": "Zeus uses or responds to Eris’s strife in epic.",
+   "source": "Homer",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of Paris tradition",
+   "note": "Later cyclic tradition connects Zeus and Eris through the wedding dispute.",
+   "source": "Cyclic and later sources",
+   "date": "Archaic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ate",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Birth oath of Herakles",
+   "note": "Ate deceives Zeus over the births of Herakles and Eurystheus.",
+   "source": "Iliad 19.91–133",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ate",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Expulsion of Ate",
+   "note": "Zeus throws Ate from Olympus after discovering her deception.",
+   "source": "Iliad 19.91–133",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pheidias’s Olympian image",
+   "note": "Zeus holds Nike in his hand in Pheidias’s cult statue.",
+   "source": "Pausanias 5.11",
+   "date": "second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ganymede’s translation",
+   "note": "Ganymede becomes Zeus’s divine cupbearer.",
+   "source": "Iliad 20.230–235",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Ganymede",
+   "note": "Later poetry and art make Zeus Ganymede’s lover and direct abductor.",
+   "source": "Homeric Hymn to Aphrodite; later art",
+   "date": "Archaic onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Conception of Helen",
+   "note": "Zeus pursues Nemesis through transformations and mates with her as a bird.",
+   "source": "Cypria fragments; later mythography",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Later combat traditions",
+   "note": "Pan assists Zeus in some later combat traditions.",
+   "source": "Pausanias and later sources",
+   "date": "Roman period and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ammon",
+   "other_aliases": [
+    "Amun"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek cult and royal ideology fuse Zeus with the Egyptian god Ammon.",
+   "source": "Herodotus; Cyrenaican evidence",
+   "date": "fifth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sabazios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman evidence identifies or compounds Zeus with Sabazios.",
+   "source": "Greek and Roman inscriptions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Zeus or Jupiter attributes enter supreme-god identifications with Serapis.",
+   "source": "Inscriptions and magical texts",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek Zeus and Roman Jupiter are systematically translated into one another.",
+   "source": "Greek and Roman literary evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tinia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Tinia is compared with Zeus and Jupiter through sovereignty and thunderbolt imagery.",
+   "source": "Etruscan iconographic and textual evidence",
+   "date": "ancient Italy",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek speakers identify Near Eastern storm and mountain gods with Zeus.",
+   "source": "Greek Levantine cult evidence",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Herakles",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Conception of Herakles",
+   "note": "Zeus assumes Amphitryon’s appearance and fathers Herakles with Alkmene.",
+   "source": "Iliad 19; later mythography",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Herakles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Release of Prometheus",
+   "note": "With Zeus’s permission, Herakles kills the eagle tormenting Prometheus.",
+   "source": "Hesiod, Theogony",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Golden shower",
+   "note": "Zeus enters Danae’s confinement as golden rain and fathers Perseus.",
+   "source": "Greek mythographic tradition",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Abduction of Europa",
+   "note": "Zeus fathers Minos with Europa after carrying her to Crete.",
+   "source": "Greek literary and visual tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Abduction of Europa",
+   "note": "Zeus fathers Rhadamanthys with Europa.",
+   "source": "Greek mythographic tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sarpedon is a heroic son of Zeus.",
+   "source": "Homer; genealogical tradition",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarpedon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Sarpedon",
+   "note": "Zeus considers rescuing Sarpedon but permits his destined death.",
+   "source": "Iliad 16",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Leda and the swan",
+   "note": "One tradition makes Helen Zeus’s daughter by Leda.",
+   "source": "Greek mythographic tradition",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Nemesis and the egg",
+   "note": "The Cypria tradition makes Helen Zeus’s daughter by Nemesis.",
+   "source": "Cypria fragments",
+   "date": "Archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Polydeukes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Leda and the swan",
+   "note": "Polydeukes is Zeus’s son in a variable Leda genealogy.",
+   "source": "Greek mythographic tradition",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aiakos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aiakos is listed among Zeus’s major heroic offspring.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arkas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Arkas is Zeus’s son by Kallisto in the dominant genealogy.",
+   "source": "Greek mythographic tradition",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Amphion is Zeus’s heroic son by Antiope.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zethos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Zethos is Zeus’s heroic son by Antiope.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tantalos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tantalos is listed among Zeus’s major heroic offspring.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Wandering of Io",
+   "note": "Zeus desires Io, prompting Hera’s hostility and Io’s bovine wandering.",
+   "source": "Aeschylus, Prometheus Bound",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Abduction of Europa",
+   "note": "Zeus becomes a bull, carries Europa to Crete, and fathers sons.",
+   "source": "Early literary and visual witnesses",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Danae",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Golden shower",
+   "note": "Zeus enters Danae’s prison as a shower of gold and fathers Perseus.",
+   "source": "Classical art and later literature",
+   "date": "Classical onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Leda and the swan",
+   "note": "Zeus mates with Leda in swan form in one tradition.",
+   "source": "Greek mythographic tradition",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alkmene",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Conception of Herakles",
+   "note": "Zeus assumes Amphitryon’s appearance and extends the night to conceive Herakles.",
+   "source": "Greek mythographic tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aigina",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aigina is listed among Zeus’s important mortal or semi-divine partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kallisto",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Kallisto is listed among Zeus’s important partners and bears Arkas.",
+   "source": "Greek mythographic tradition",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Antiope is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Electra is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Taygete",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Taygete is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Laodameia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Laodameia is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Niobe is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Plouto",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Plouto is listed among Zeus’s important partners.",
+   "source": "Greek local genealogies",
+   "date": "Archaic onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lykaon",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Crime of Lykaon",
+   "note": "Later traditions have Zeus kill, strike, or transform Lykaon after a cannibalistic test.",
+   "source": "Pausanias 8; later mythography",
+   "date": "second century CE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Deucalion",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Flood of Deucalion",
+   "note": "Zeus sends a flood against Deucalion’s human generation, though Deucalion survives.",
+   "source": "Bibliotheca; Ovid, Metamorphoses",
+   "date": "first century BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pyrrha",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Flood of Deucalion",
+   "note": "Pyrrha survives Zeus’s destructive flood alongside Deucalion.",
+   "source": "Bibliotheca; Ovid, Metamorphoses",
+   "date": "first century BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Amaltheia",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Infancy of Zeus",
+   "note": "Later Cretan tradition makes Amaltheia nourish the hidden infant Zeus.",
+   "source": "Later Cretan traditions",
+   "date": "post-Hesiodic antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kouretes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Infancy of Zeus",
+   "note": "The Kouretes clash weapons to conceal the infant Zeus’s cries.",
+   "source": "Later Cretan traditions",
+   "date": "post-Hesiodic antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Thetis’s supplication",
+   "note": "Zeus grants Trojan success to honor Achilles after Thetis supplicates him.",
+   "source": "Iliad 1",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Weighing Achilles and Hector",
+   "note": "Zeus weighs the fates of Achilles and Hector before their confrontation.",
+   "source": "Iliad 22",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Weighing Achilles and Hector",
+   "note": "Zeus weighs Hector’s fate against Achilles’s before Hector’s death.",
+   "source": "Iliad 22",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Cattle of Helios",
+   "note": "Zeus destroys Odysseus’s ship after his crew kill Helios’s cattle.",
+   "source": "Odyssey 12",
+   "date": "late eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Release of Odysseus",
+   "note": "Zeus sends Hermes to command Calypso to release Odysseus.",
+   "source": "Odyssey 5",
+   "date": "late eighth–seventh century BCE",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,2482 @@
+# hindu: interaction matrix
+
+108 gods, 2057 distinct relations (231 kinship, 1826 meetings, myths and identifications), 1933 mentions of beings without a dossier here. Built by tools/build_matrix.py from relations/*.json (Codex extraction of each dossier's genealogy and interaction sections). Matrix of counts in _matrix.csv; full records with sources in _relations.json.
+
+## Most connected
+
+| god | relations with | distinct gods |
+|---|---|---|
+| brahma | 205 | 92 |
+| vishnu | 189 | 88 |
+| indra | 201 | 81 |
+| agni | 108 | 56 |
+| surya | 96 | 53 |
+| chandra_soma | 91 | 45 |
+| rudra | 140 | 45 |
+| varuna | 69 | 45 |
+| parvati | 85 | 39 |
+| lakshmi | 70 | 38 |
+| prajapati | 59 | 34 |
+| durga | 73 | 33 |
+| kartikeya | 61 | 32 |
+| rama | 73 | 31 |
+| daksha | 61 | 29 |
+
+## Each god
+
+### aditi  (24 gods)
+- **daksha**: child_of, parent_of; Reciprocal cosmogonic generation; Reciprocal generation of Aditi and Dakṣa
+- **vishnu**: gift, parent_of, served; Austerity and the payovrata; Birth of Vāmana; Viṣṇu promises incarnation as her son
+- **adityas**: parent_of, shared_myth; Aditi presents seven sons to the gods; Seven accepted sons and rejected Mārtāṇḍa
+- **aryaman**: allied, parent_of; Collective protection by the Ādityas
+- **bali**: other; Aditi requests Vāmana’s birth; Aditi's vow counters Bali's conquest
+- **bhaga**: allied, parent_of; Ādityas allocate a favorable share
+- **indra**: parent_of, rescued; Restoration of Indra's sovereignty
+- **mitra**: allied, parent_of; Collective invocation for moral safety
+- **prithvi**: identified_with, shared_myth; Cosmic invocations with Heaven and Earth
+- **surya**: parent_of; Mārtaṇḍa rejected and recalled
+- **vamana**: parent_of, rescued_by; Vāmana restores Aditi's displaced sons
+- **varuna**: allied, parent_of; Release from bonds and guilt
+- **vasus**: parent_of, shared_myth; Vedic divine catalogues
+- **agni**: allied; Collective invocation for favor
+- **airavata**: shared_myth; Govinda consecration after Govardhana
+- **brahma**: descendant_of
+- **dyaus**: identified_with; Aditi identified with all cosmic relations
+- **kamadhenu**: served_by; Divine mothers authorize Kṛṣṇa’s consecration
+- **kartikeya**: shared_myth; Skanda's consecration
+- **maruts**: other
+- **pushan**: parent_of
+- **rudras**: parent_of
+- **savitr**: parent_of
+- **tvashtar**: parent_of
+
+### adityas  (21 gods)
+- **vasus**: identified_with, shared_myth; Assembly of the gods in heaven; Classification of the thirty-three gods; Vedic divine catalogues
+- **aditi**: child_of, shared_myth; Aditi presents seven sons to the gods; Seven accepted sons and rejected Mārtāṇḍa
+- **agni**: served_by; Agni conveys the Ādityas’ offerings; Sacrificial competition with the Aṅgirases
+- **brahma**: ancestor_of, taught_by; Transmission of solar knowledge
+- **rudras**: shared_myth; Classification of the thirty-three gods; The thirty-three gods
+- **varuna**: served_by, shared_myth; Sovereign guardians preserve cosmic order; Ādityas consume the sun’s third nectar
+- **aryaman**: allied; The gods grant a thornless path
+- **bali**: fought; Vāmana recovers the three worlds
+- **bhaga**: shared_myth; Invocation of the sovereign Ādityas
+- **chandra_soma**: allied; Seven Ādityas protect Soma
+- **daksha**: shared_myth; Aditi and Dakṣa mutually generate one another
+- **dyaus**: child_of
+- **indra**: shared_myth; Indra joins and leads the Ādityas
+- **manu**: shared_myth; Ādityas invoked through Manu’s first sacrifice
+- **maruts**: shared_myth; Divine hosts in the solar hierarchy
+- **mitra**: allied; Sovereign gods preserve order
+- **prajapati**: shared_myth; Classification of the thirty-three gods
+- **savitr**: other
+- **surya**: identified_with
+- **vamana**: rescued_by; Vāmana restores the dispossessed Ādityas
+- **vishnu**: shared_myth; Viṣṇu becomes foremost among the twelve
+
+### agni  (56 gods)
+- **indra**: allied, created, fought, rescued, shared_myth, sibling_of; Burning of Khāṇḍava; Cosmic Puruṣa sacrifice; Indrāgnī joint invocations; Joint sacrificial invocations
+- **brahma**: child_of, contest, rescued_by, served, shared_myth; Agni returns Sītā; Bṛgu’s curse; The Yakṣa’s blade of grass; Transmission of divine seed
+- **prajapati**: created_by, fought, identified_with, rescued; Agnicayana reconstruction; Creation of the divine eater; Creator escapes Agni as Death; Reconstruction of Prajāpati's altar-body
+- **kartikeya**: created, other, parent_of; Agni carries Śiva’s unbearable seed; Skanda’s birth; Transmission of Śiva’s generative energy
+- **sita**: judged, rescued; Fire entry; Māyā-Sītā substitution; Sītā’s fire ordeal
+- **varuna**: allied, gift, served, shared_myth; Khāṇḍava forest conflagration; Summoning Varuṇa to sacrifice; Transfer of divine allegiance; Weapons for the Khāṇḍava burning
+- **vayu**: created_by, other, shared_myth; Fire and wind coordinate across cosmic regions; Fire resolves into Vāyu; The Yakṣa’s blade of grass; Wind generates fire in elemental creation
+- **ashvins**: served, shared_myth; Joint sacrificial invocation; Summoning the Aśvins; Sūryā's wedding
+- **chandra_soma**: allied, shared_myth; Complementary sacrificial powers; Joint sacrificial offerings; Sūryā’s ritual marriage sequence
+- **rama**: allied, other; Fire ordeal; Māyā-Sītā exchange; Sītā’s fire ordeal
+- **rudra**: identified_with, other, served; Birth of Skanda; Skanda's birth
+- **surya**: identified_with, other; Agnihotra identified with the sun; Eye and celestial fire
+- **adityas**: served; Agni conveys the Ādityas’ offerings; Sacrificial competition with the Aṅgirases
+- **aryaman**: allied, identified_with; Agni’s shifting ritual identities; Collective sacrificial invocations
+- **brihaspati**: allied, shared_myth; Joint protective ritual action; Vedic divine-priest functions
+- **dyaus**: child_of; Heaven bears Agni
+- **ganga**: allied, gift; Birth of Skanda
+- **mahishasura**: created, theft; Agni's boon leads to Mahiṣa's birth; Appropriation of the gods' offices
+- **manu**: other, served; Agni performs sacrifice among Manu’s descendants; Manu establishes Agni as humanity’s ritual light
+- **maruts**: allied; Agni comes surrounded by the Maruts; Joint invocation with the Maruts
+- **mitra**: identified_with, served; Kindled Agni becomes Mitra; Summoning Mitra and Varuṇa
+- **parvati**: punished_by, shared_myth; Agni carries Śiva’s energy toward Skanda’s birth; Interruption of Śiva and Pārvatī
+- **prithvi**: other, sibling_of; Earth bears Agni
+- **saptarishi**: identified_with, shared_myth; Birth of Skanda; Seven-potsherd offering
+- **shiva**: allied, other; Birth of Skanda; Destruction of Tripura
+- **vasus**: identified_with, served_by
+- **vishnu**: allied, shared_myth; Joint Vedic invocations; Joint sacrificial action
+- **yamaraja**: allied, shared_myth; The gods seek Damayantī; Yama’s road of the fathers
+- **aditi**: allied; Collective invocation for favor
+- **bhaga**: shared_myth; Dawn invocation
+- **daksha**: gift; Marriage of Svāhā
+- **durga**: gift; Formation for the Mahiṣa war
+- **gandharvas**: shared_myth; Successive possessors of the bride
+- **garuda**: shared_myth; Garuḍa's fiery birth
+- **hanuman**: allied; Burning of Hanuman’s tail
+- **hiranyakashipu**: served; Prahlāda’s fire ordeal
+- **kali**: other; Agni’s seven flame-tongues
+- **kama**: allied; Burning enemies through joint invocation
+- **krishna**: allied; Burning of Khāṇḍava forest
+- **lakshmana**: shared_myth; Sita’s fire ordeal
+- **lakshmi**: gift; Redistribution of Śrī’s powers
+- **matrikas**: shared_myth; Guardians gathered around Skanda
+- **narasimha**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **pushan**: allied; Funeral journey to the Fathers
+- **rakshasas**: fought; Vedic war at the sacrifice
+- **saraswati**: shared_myth; Fire sacrifice
+- **sati**: transformed; Satī enters the sacrificial fire
+- **savitr**: allied; Joint protection and ritual efficacy
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **tarakasura**: other; Agni carries the power producing Tāraka’s killer
+- **tvashtar**: shared_myth; Āprī sacrificial liturgies
+- **uchchaihshravas**: shared_myth; Kadru curses the disobedient nāgas
+- **ushas**: other; Agni is kindled at dawn
+- **vishvakarman**: shared_myth; Fire-altar construction rite
+- **vritra**: other; Vṛtra encloses divine powers
+- **yakshas**: contest; The unknowable Yaksha
+
+### airavata  (15 gods)
+- **indra**: served; Churning of the milk ocean; Indra’s elephant mount
+- **lakshmi**: shared_myth; Churning of the milk ocean; Durvāsas’s garland and Śrī’s withdrawal
+- **uchchaihshravas**: shared_myth; Churning of the milk ocean; Exemplary horse and elephant emerge
+- **aditi**: shared_myth; Govinda consecration after Govardhana
+- **bali**: fought; Renewed deva-asura battle
+- **brahma**: created_by; Garuḍa’s eggshell and elephant origins
+- **dhanvantari**: shared_myth; Churning of the milk ocean
+- **ganesha**: other; Airāvata supplies the elephant head
+- **garuda**: shared_myth; Garuḍa’s eggshell and elephant origins
+- **kamadhenu**: shared_myth; Airāvata assists Surabhi’s consecration of Kṛṣṇa
+- **kurma**: shared_myth; Airāvata emerges from the churning
+- **ravana**: fought; Rāvaṇa’s remembered celestial combat
+- **vasuki**: sibling_of
+- **vishnu**: shared_myth; Churning of the milk ocean
+- **vritra**: fought; Vṛtrāsura swallows Indra
+
+### andhaka  (15 gods)
+- **parvati**: child_of, created_by, other; Andhaka is entrusted to the divine couple; Attempted seizure of Pārvatī; Birth in cosmic darkness; Conversion on the trident
+- **brahma**: gift; Austerity and fatal boon; Austerity and invulnerability; Blindness, tapas, and boon
+- **hiranyaksha**: child_of, shared_myth; Andhaka’s adoption; Andhaka’s succession
+- **nandi**: allied, fought; Andhaka’s conversion; Defense of Pārvatī; War against Andhaka’s forces
+- **shiva**: child_of, killed_by, rescued_by; Conversion of Andhaka; Slaying of Andhaka
+- **matrikas**: fought; Control of Andhaka’s multiplying blood; The thousand Andhakas
+- **shukra**: allied, served_by; Revival of the daitya army; Śukra revives Andhaka’s fallen forces
+- **vishnu**: fought; The prolonged war; The thousand Andhakas
+- **bhairava**: identified_with
+- **indra**: fought; Andhaka’s war against the gods
+- **kali**: fought; Blood-drinking battlefield goddess
+- **kartikeya**: shared_myth; Expanded Andhaka war
+- **mangala**: shared_myth; Śiva’s battle with Andhaka
+- **narada**: other; Movement toward Mandara
+- **rudra**: killed_by; Battle with multiplying Andhaka
+
+### annapurna  (7 gods)
+- **lakshmi**: identified_with, shared_myth; Lakṣmī advises the begging Śiva
+- **brahma**: served_by
+- **durga**: identified_with
+- **ganesha**: parent_of
+- **kartikeya**: parent_of
+- **parvati**: identified_with
+- **vishvakarman**: served_by; Construction of Kāśī
+
+### apsaras  (15 gods)
+- **indra**: gift, other, served; Disruption of dangerous austerities; Indra permits Urvaśī’s mortal union; Performances in Indra’s celestial court; Rambhā’s mission against Viśvāmitra
+- **brahma**: created_by, served; Brahmā’s celestial assembly; Commissioning Tilottamā against the asuras; Creation of performers for graceful drama
+- **gandharvas**: consort_of, deceived_by, shared_myth; Joint haunting near waters and trees; Separation of Urvaśī and Purūravas
+- **varuna**: served, shared_myth; Birth complex of Vasiṣṭha and Agastya; Varuṇa’s aquatic celestial assembly
+- **hanuman**: ancestor_of; Punjikasthalā’s curse and rebirth as Añjanā
+- **hayagriva_asura**: shared_myth; Churning of the cosmic ocean
+- **kama**: allied; Rambhā’s mission against Viśvāmitra
+- **kubera**: served; Performances in Kubera’s assembly
+- **kurma**: shared_myth; Apsarases arise from the churned ocean
+- **mitra**: shared_myth; Birth complex of Vasiṣṭha and Agastya
+- **radha**: child_of
+- **ravana**: other; Rāvaṇa’s assault upon Rambhā
+- **vishnu**: shared_myth; Churning of the cosmic ocean
+- **vishvakarman**: created_by; Fashioning of Tilottamā
+- **yamuna**: parent_of
+
+### aryaman  (18 gods)
+- **bhaga**: allied, shared_myth; Divine wedding; Enumeration of the Ādityas; Wedding of Sūryā
+- **aditi**: allied, child_of; Collective protection by the Ādityas
+- **agni**: allied, identified_with; Agni’s shifting ritual identities; Collective sacrificial invocations
+- **mitra**: allied; Divine governance of custom; Joint Āditya invocation
+- **savitr**: allied, other; Savitr’s irresistible command; Wedding of Sūryā
+- **surya**: allied; Clearing the Sun’s roads; Wedding of Sūryā
+- **varuna**: allied; Divine governance of custom; Joint Āditya guardianship
+- **adityas**: allied; The gods grant a thornless path
+- **ashvins**: allied; Wedding of Sūryā
+- **brahma**: shared_myth; Mātṛkā and the Carṣaṇis
+- **brihaspati**: allied; Atharvavedic marriage rites
+- **chandra_soma**: shared_myth; Collective prayer for prosperity
+- **daksha**: shared_myth; Invocation of the Ādityas
+- **indra**: allied; Invocations for aid and marriage
+- **maruts**: allied; Collective protective invocation
+- **pushan**: allied; Wedding of Sūryā
+- **rudra**: allied; Collective protective invocation
+- **vishnu**: shared_myth; Twelve Ādityas and monthly suns
+
+### ashtadikpala  (8 gods)
+- **brahma**: other, shared_myth; The four celestial halls
+- **vishnu**: other, served; Viṣṇu’s cosmic court
+- **chandra_soma**: other
+- **durga**: served; Attendance and ritual enclosure of Devī
+- **indra**: other; Delegation of divine domains
+- **shesha_ananta**: other
+- **surya**: other
+- **vasuki**: other
+
+### ashvins  (24 gods)
+- **indra**: contest, deceived, punished_by, rescued, shared_myth, taught; Dadhyañc's substituted horse head; Dispute over soma eligibility; Divine transmission of medicine; Exclusion from the Soma share
+- **surya**: child_of, consort_of, shared_myth; Birth of the divine twins; Equine conception of the Aśvins; Later marriage of Sūryā; Sūryā's wedding and bridal journey
+- **chandra_soma**: gift, shared_myth; Acquisition of the Soma share; Cyavana obtains their Soma share; Morning Soma drinking; Sūryā's wedding
+- **agni**: served_by, shared_myth; Joint sacrificial invocation; Summoning the Aśvins; Sūryā's wedding
+- **bhaga**: rescued, shared_myth; Dawn invocation; Marriage of Sūryā and the Aśvins; Restoration of Bhaga's sight
+- **mitra**: shared_myth; Joint covenantal invocation; Mitanni treaty divine witnesses; Mitanni treaty witnesses
+- **dyaus**: child_of, descendant_of
+- **saraswati**: allied; Healing and restorative offerings; Joint healing of Indra
+- **ushas**: child_of, shared_myth; Arrival of the Aśvins at dawn
+- **varuna**: shared_myth; Joint covenantal invocation; Mitanni treaty divine witnesses
+- **vishvakarman**: descendant_of, other; Teaching of Tvaṣṭṛ's honey
+- **aryaman**: allied; Wedding of Sūryā
+- **dhanvantari**: other; Transmission of Āyurveda
+- **manu**: sibling_of
+- **prajapati**: taught_by; Divine transmission of medicine
+- **pushan**: rescued; Treatment of Pūṣan's teeth
+- **savitr**: shared_myth; Sūryā's wedding
+- **shani**: sibling_of
+- **tvashtar**: descendant_of
+- **vasus**: shared_myth; Assembly of the gods in heaven
+- **vishnu**: rescued; Restoration of Viṣṇu's severed head
+- **vritra**: shared_myth; Sautrāmaṇī restoration of Indra
+- **yami**: sibling_of
+- **yamuna**: sibling_of
+
+### ayyappa  (8 gods)
+- **budha_graha**: identified_with
+- **ganesha**: other
+- **indra**: allied; The tigers return to Pandalam
+- **parashurama**: other; Installation of the Sabarimala image
+- **parvati**: shared_myth; Śiva encounters Mohinī
+- **rudra**: child_of; Union of Śiva and Mohinī
+- **shiva**: child_of; Birth from Śiva and Mohinī
+- **vishnu**: child_of; Birth of Hariharaputra
+
+### balarama  (17 gods)
+- **jagannath**: allied, shared_myth, sibling_of; Jagannātha triad; Kañcī-Kāverī campaign; Ratha Yatra
+- **vishnu**: created_by, identified_with, sibling_of; Fourfold Pāñcarātra emanation
+- **kamsa**: fought, other; The Mathurā arena trap
+- **krishna**: allied, sibling_of; Kaṃsa’s death
+- **lakshmi**: consort_of, gift; Bath after dragging Yamunā; Revati accompanies Balarāma
+- **nagas**: identified_with; Balarāma's departure; Serpent-canopy assimilation
+- **shesha_ananta**: identified_with; Balarāma returns to thousand-headed serpent form; Serpent departure
+- **yamuna**: punished; Balarāma drags Yamuna with his plough; Dragging of Yamunā
+- **brahma**: shared_myth; Divine descent plan
+- **durga**: shared_myth; Triadic iconography
+- **ganesha**: fought; Balarāma breaks the tusk
+- **kurma**: other; Balarāma limits tortoise-form worship
+- **lakshmana**: rescued; Threatened destruction of Hastināpura
+- **parashurama**: allied; Campaign from Gomanta
+- **saraswati**: shared_myth; Balarāma’s Sarasvatī pilgrimage
+- **varuna**: gift; Varuṇī and Yamunā
+- **vithoba**: sibling_of
+
+### bali  (20 gods)
+- **vamana**: deceived_by, gift, punished_by, served; Bali grants Vāmana three paces; Bali offers his head; Bali receives Sutala and future Indrahood; Bali’s binding and third step
+- **shukra**: punished_by, rescued_by, served_by, taught_by; Bali rejects Śukra’s warning; Bali seeks self-knowledge; Bali’s restoration; Completion of Bali’s sacrifice
+- **indra**: child_of, fought, killed_by, shared_myth; Battle with Indra; Conquest of the three worlds; Indra–Bali dialogue; Loss of heaven
+- **vishnu**: deceived_by, gift, shared_myth; Bali receives a subordinate realm; Bali’s annual Onam return; Vāmana requests three steps
+- **aditi**: other; Aditi requests Vāmana’s birth; Aditi's vow counters Bali's conquest
+- **brahma**: rescued_by, shared_myth; Brahmā petitions for Bali; Vāmana's cosmic stride
+- **brihaspati**: other; Bali’s priestly empowerment; Counsel after Bali conquers heaven
+- **rahu**: served_by, shared_myth; Asura army attacks Vāmana; Asura forces surrounding Bali
+- **sati**: created_by, served; Destruction of Dakṣa’s sacrifice; Emanation from Satī’s anger
+- **uchchaihshravas**: other, served_by; Bali acquires the celestial horse; Bali desires the moon-white horse
+- **adityas**: fought; Vāmana recovers the three worlds
+- **airavata**: fought; Renewed deva-asura battle
+- **garuda**: punished_by; Binding with Varuṇa’s noose
+- **hayagriva_asura**: served_by; The deva-asura battle
+- **hiranyakashipu**: descendant_of
+- **kartikeya**: shared_myth; Gods honor Vāmana
+- **kurma**: allied; Temporary alliance for churning the ocean
+- **lakshmi**: shared_myth; Fortune departs Bali
+- **saraswati**: allied; Three powers of Devī
+- **varuna**: punished_by; Bali bound in Varuṇa’s cords
+
+### bhaga  (20 gods)
+- **daksha**: allied, shared_myth; Destruction of Dakṣa’s sacrifice; Enumeration of the Ādityas; Invocation of the Ādityas; Mutilation at Daksha’s sacrifice
+- **pushan**: shared_myth; Dawn invocation; Destruction of Dakṣa’s sacrifice; Divine injuries at the broken sacrifice; Divine wedding
+- **rudra**: punished_by, shared_myth; Attack on the excluded sacrifice; Dakṣa's sacrifice; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice
+- **aryaman**: allied, shared_myth; Divine wedding; Enumeration of the Ādityas; Wedding of Sūryā
+- **ashvins**: rescued_by, shared_myth; Dawn invocation; Marriage of Sūryā and the Aśvins; Restoration of Bhaga's sight
+- **mitra**: allied, shared_myth; Dawn invocation; Enumeration of the Ādityas; Joint Āditya invocation
+- **savitr**: allied, shared_myth; Distribution of desirable goods; Divine wedding; The perilous sacrificial portion
+- **aditi**: allied, child_of; Ādityas allocate a favorable share
+- **brihaspati**: allied, shared_myth; Dawn invocation; Divine wedding
+- **chandra_soma**: shared_myth; Dawn invocation; Divine wedding
+- **indra**: allied, shared_myth; Dawn invocation; Good-fortune charm
+- **nandi**: fought, punished_by; Destruction of Dakṣa’s sacrifice
+- **varuna**: shared_myth; Dawn invocation; Enumeration of the Ādityas
+- **adityas**: shared_myth; Invocation of the sovereign Ādityas
+- **agni**: shared_myth; Dawn invocation
+- **brahma**: shared_myth; Restoration of Dakṣa’s sacrifice
+- **prajapati**: shared_myth; Removal of Rudra's dangerous dart
+- **ratri**: other
+- **surya**: other; Marriage of Sūryā and the Aśvins
+- **vishnu**: shared_myth; Destruction of Dakṣa’s sacrifice
+
+### bhairava  (11 gods)
+- **brahma**: punished; Bhairava severs the fifth head; Severing of Brahmā’s fifth head
+- **kali**: consort_of, served; Kālī dominates or transcends Bhairava
+- **rudra**: created_by, identified_with; Decapitation of Brahmā's fifth head
+- **shiva**: created_by, identified_with; Emanation of Bhairava
+- **vishnu**: shared_myth; Brahmā and Viṣṇu dispute divine supremacy; Encounter during Bhairava’s skull-bearing pilgrimage
+- **andhaka**: identified_with
+- **ganesha**: allied; Joint guardianship of ritual boundaries
+- **indra**: shared_myth; Indra Jātrā civic festival
+- **jagannath**: identified_with
+- **mahavidyas**: consort_of
+- **matrikas**: served_by
+
+### brahma  (92 gods)
+- **rudra**: contest, created, created_by, identified_with, judged_by, parent_of, punished_by, shared_myth; Assembly recognizes Kṛṣṇa's supremacy; Bhairava severs Brahmā's fifth head; Brahmā derives from Śiva; False claim at the fiery column
+- **vishnu**: contest, created, created_by, identified_with, shared_myth; Disputes over divine supremacy; Liṅgodbhava endless fiery column; Lotus birth from Viṣṇu's navel; Lotus-navel creation
+- **saraswati**: allied, consort_of, created, seduced; Brahmā desires daughter Speech; Brahmā produces Vāc; Creation and pursuit of the goddess; Sarasvatī distorts Kumbhakarṇa's request
+- **agni**: contest, parent_of, rescued, served_by, shared_myth; Agni returns Sītā; Bṛgu’s curse; The Yakṣa’s blade of grass; Transmission of divine seed
+- **narada**: created, parent_of, punished, taught; Brahmā creates Nārada; Brahmā instructs Nārada; Nārada refuses Brahmā’s command to procreate; Nārada refuses procreation
+- **ravana**: ancestor_of, gift, rescued, taught; Attempted attack on the Moon; Austerities and the divine boon; Battle with Yama; Rāvaṇa's conditional protection
+- **varaha**: contest, created, identified_with, shared_myth, taught; Boar emerges from Brahmā’s nostril; Brahmā becomes the creator-boar; Counsel before Hiraṇyākṣa’s death; Liṅgodbhava
+- **daksha**: created, parent_of, rescued, served_by; Appeal after the ruined sacrifice; Population of the worlds
+- **ganesha**: gift, other, punished_by; Choosing Vyāsa’s scribe; Gaṇeśa corrects Brahmā; Recognition of Gaṇeśa
+- **indra**: allied, judged, rescued; Attendance upon the Buddha; Divine councils during cosmic crises; Mystery after the gods’ victory; Release from Meghanāda
+- **kama**: created, punished; Creation of desire; Kāma affects Brahmā; Kāma arises from Brahmā’s mind; Kāma’s arrows disturb his creator
+- **manu**: created, rescued, taught; Brahmā as fish saves Manu’s ship; Brahmā commands Manu to recreate beings; Brahmā emanates Svāyambhuva Manu; Brahmā teaches primordial dharma to Manu
+- **rama**: allied, ancestor_of, other, taught; Divine plan against Rāvaṇa; Revelation after Sītā's fire ordeal; Revelation after Sītā’s ordeal
+- **vishvakarman**: gift, identified_with, parent_of, served_by; Brahmā first owns Pushpaka; Commission to construct Tilottamā
+- **andhaka**: gift; Austerity and fatal boon; Austerity and invulnerability; Blindness, tapas, and boon
+- **apsaras**: created, served_by; Brahmā’s celestial assembly; Commissioning Tilottamā against the asuras; Creation of performers for graceful drama
+- **budha_graha**: allied, other, served; Brahmā Sahampati requests teaching; Resolution of Budha’s paternity dispute; Sahampati supports the dispensation
+- **durga**: allied, created, gift; Awakening Viṣṇu; Formation for the Mahiṣa war
+- **hanuman**: gift, other; Boons to the child Hanumān; Capture in Laṅkā; Gods placate Vāyu
+- **hiranyakashipu**: gift, rescued; Austerity at Mount Mandara; Hiranyakashipu’s boon; Hiraṇyakaśipu's conditional boon
+- **kartikeya**: other, punished_by; Brahmā recognizes and names Skanda; Skanda imprisons Brahmā; Skanda questions Brahmā about Oṃ
+- **mahavidyas**: other, served; Brahmā creates through Mahāvidyā power; Kālī-Kāmākhyā enthroned above Brahmā’s lotus; Tripurasundarī sits above five Brahmans
+- **mahishasura**: gift, other; Boon protecting Mahiṣa from male killers; Creation of the Goddess from divine radiance; Mahiṣāsura's boon
+- **prajapati**: created, identified_with; Creation of the plural Prajāpatis; Vedic creator consolidation
+- **rakshasas**: created, fought, gift; Boons to Rāvaṇa's family; Creation from Brahmā's night-body; Hungry beings rush upon Brahmā
+- **shesha_ananta**: gift, served_by, shared_myth; Brahmā commissions Śeṣa to stabilize earth; Brahmā rewards Śeṣa’s austerities; Lotus-born Brahmā appears above reclining Viṣṇu
+- **shiva**: created, judged_by, punished_by; Decapitation of Brahmā; Liṅgodbhava
+- **uchchaihshravas**: created, other, shared_myth; Counsel before the Churning of the Ocean; Distribution of cosmic lordships; Horse emerges from Brahmā’s sacrifice
+- **vamana**: gift, served; Brahmā washes Trivikrama’s elevated foot; Honoring Vāmana's cosmic stride; Vāmana’s ceremonial initiation
+- **adityas**: descendant_of, taught; Transmission of solar knowledge
+- **ashtadikpala**: other, shared_myth; The four celestial halls
+- **bali**: rescued, shared_myth; Brahmā petitions for Bali; Vāmana's cosmic stride
+- **bhairava**: punished_by; Bhairava severs the fifth head; Severing of Brahmā’s fifth head
+- **chandra_soma**: judged, other; Installation of Soma; Tārakāmaya arbitration
+- **dattatreya**: created, identified_with; Birth from Atri and Anasūyā; Trimūrti embodiment
+- **gandharvas**: created, served_by; Creation of dramatic performance; Variant creation of the Gandharvas
+- **ganga**: other; Descent of Ganga; Ganga as Viṣṇupadī
+- **kamadhenu**: created, gift; Brahmā grants Surabhi the celestial Goloka
+- **krishna**: deceived_by, shared_myth; Brahmā steals the calves; Earth’s appeal for divine descent
+- **kubera**: descendant_of, gift; Brahmā rewards Kubera’s austerities
+- **matsya**: gift, identified_with; Epic Matsyopākhyāna; Restoration of the stolen Vedas
+- **nagas**: created, judged; Kadru's curse; Serpents arise from Brahmā's anger
+- **narasimha**: shared_myth; Brahmā’s boon and its circumvention; Gods approach the raging Narasimha
+- **parvati**: other, shared_myth; Brahmā officiates at Pārvatī’s wedding; Umā reveals the vanished yakṣa as Brahman
+- **ratri**: created, other; Brahmā praises Yoganidrā; Brahmā’s discarded dark body
+- **rudras**: created, parent_of; The crying child and elevenfold division
+- **sati**: ancestor_of, other; Arrangement of Satī’s marriage
+- **savitr**: consort_of, punished_by; Sāvitrī's curse at Pushkar
+- **shumbha_and_nishumbha**: gift; Boon of invulnerability to males; Conditional boon after austerities
+- **sita**: shared_myth; Agni returns Sītā; Divine witness after the fire ordeal
+- **tarakasura**: gift, other; Brahmā reveals how Tāraka can be defeated; Tāraka receives protective power after austerities
+- **vayu**: allied, created; Brahmā appeases Vāyu after Hanumān’s injury; Purāṇic creation of Vāyu
+- **yakshas**: created, identified_with; The unknowable Yaksha; We shall eat
+- **aditi**: ancestor_of
+- **airavata**: created; Garuḍa’s eggshell and elephant origins
+- **annapurna**: served
+- **aryaman**: shared_myth; Mātṛkā and the Carṣaṇis
+- **balarama**: shared_myth; Divine descent plan
+- **bhaga**: shared_myth; Restoration of Dakṣa’s sacrifice
+- **brihaspati**: judged; Tārā and Soma conflict
+- **dhanvantari**: other; Origin of Āyurveda
+- **garuda**: shared_myth; Regulation of Garuḍa
+- **hayagriva**: gift; Recovery of the stolen Vedas
+- **hayagriva_asura**: theft; Theft of the Vedas
+- **hiranyaksha**: gift; Brahmā’s boon
+- **jagannath**: other; Installation of the wooden deity
+- **kalki**: shared_myth; Divine petition for Kalki’s descent
+- **kurma**: allied; Divine consultation and ocean churning
+- **lakshmana**: shared_myth; Revelation of Rama’s divinity
+- **lakshmi**: shared_myth; Churning of the Milk Ocean
+- **mangala**: shared_myth; Brahmā’s divine assembly
+- **matrikas**: created; Emanation of Brāhmī
+- **nandi**: gift; Nandin’s coronation and marriage
+- **navagraha**: served_by; Brahmā appoints the grahas to distribute results
+- **parashurama**: ancestor_of
+- **prithvi**: other; Earth complains of oppressive rulers
+- **pushan**: rescued; Restoration after Dakṣa’s sacrifice
+- **radha**: other; Brahmā officiates Radha and Krishna’s secret marriage
+- **rahu**: gift; Rāhu admitted among the grahas
+- **rati**: other; Rati’s origin and marriage
+- **sampati**: gift; Restoration of Sampāti’s wings
+- **saptarishi**: created; Brahmā’s mind-born sons
+- **shani**: shared_myth; Ganesha’s birth celebration
+- **surya**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **tulsi**: gift; Brahmā rewards Tulasi’s austerities
+- **tvashtar**: shared_myth; The gods plan Vṛtra’s defeat
+- **varuna**: judged; Varuṇa’s complaints before the creator
+- **vasuki**: taught; Remedy for Kadrū’s curse
+- **vithoba**: served; Divine assemblies witness devotional kīrtan
+- **vritra**: shared_myth; Vṛtra's death and purification
+- **yamaraja**: other; Rāvaṇa’s combat with Yama
+- **yamuna**: parent_of
+
+### brihaspati  (26 gods)
+- **shukra**: contest, deceived, shared_myth; Bṛhaspati impersonates Śukra; Impersonation of Śukra; Navagraha cultic grouping; Navagraha rites and images
+- **chandra_soma**: allied, contest, fought, shared_myth; Dispute over Budha’s paternity; Disputed paternity of Budha; Navagraha cultic grouping; Tārakāmaya war
+- **indra**: allied, punished, served; Breaking Vala; Bṛhaspati leaves Indra; Vedic warfare and cattle-winning
+- **budha_graha**: other, shared_myth; Disputed paternity of Budha; Navagraha cultic grouping; Paternity dispute after Tārā’s return
+- **agni**: allied, shared_myth; Joint protective ritual action; Vedic divine-priest functions
+- **bali**: other; Bali’s priestly empowerment; Counsel after Bali conquers heaven
+- **bhaga**: allied, shared_myth; Dawn invocation; Divine wedding
+- **mangala**: shared_myth; Celestial portents before the great war; Navagraha cultic grouping
+- **rudra**: allied, other; Dangerous sacrificial portion; Tārakāmaya war
+- **tvashtar**: created_by, gift; Preparation of the metal axe
+- **aryaman**: allied; Atharvavedic marriage rites
+- **brahma**: judged_by; Tārā and Soma conflict
+- **daksha**: served; Daksha’s Bṛhaspatisava
+- **ganesha**: identified_with; Later use of RV 2.23
+- **kartikeya**: shared_myth; Bṛhaspate Tārāpate
+- **ketu**: shared_myth; Navagraha cultic grouping
+- **prajapati**: identified_with
+- **rahu**: shared_myth; Navagraha cultic grouping
+- **rakshasas**: fought; Atharvavedic protective charms
+- **savitr**: gift; Safe reception of the perilous portion
+- **shani**: shared_myth; Navagraha cultic assembly
+- **surya**: shared_myth; Navagraha cultic grouping
+- **vamana**: gift; Vāmana’s ceremonial initiation
+- **vishnu**: allied; Devas seek divine assistance
+- **vishvakarman**: other
+- **vritra**: shared_myth; Indra's guilt after Vṛtra
+
+### buddha_avatar  (2 gods)
+- **hayagriva_asura**: deceived, killed, taught; Buddha destroys demons; Delusion of the Daityas; Teaching the Daityas śramaṇa doctrines
+- **vishnu**: created_by, identified_with; Māyāmoha emanates from Viṣṇu; Viṣṇu manifests as the Buddha-avatar
+
+### budha_graha  (24 gods)
+- **yakshas**: allied, contest, shared_myth, taught; Khara and Sūciloma; Sūciloma’s confrontation; Āḷavaka’s confrontation; Āḷavaka’s conversion
+- **nagas**: judged, served_by, taught; Guardians of Buddha's relics; Mucalinda shelters the Buddha; Nāga kings receive instruction; The Nāga ordination candidate
+- **brahma**: allied, other, served_by; Brahmā Sahampati requests teaching; Resolution of Budha’s paternity dispute; Sahampati supports the dispensation
+- **brihaspati**: other, shared_myth; Disputed paternity of Budha; Navagraha cultic grouping; Paternity dispute after Tārā’s return
+- **chandra_soma**: child_of, other; Naming the luminous child; Recognition after the Tārā paternity dispute
+- **garuda**: other, shared_myth; Assembly before the Buddha; Refuge amid Nāga–Garuḍa hostility
+- **indra**: served_by, taught; Sakka’s questions at Indasāla; Śakra attends the Buddha
+- **mangala**: other, shared_myth; Simile comparing paired warriors to two planets
+- **rahu**: punished; Buddha commands release of Candimā; Buddha commands release of Suriya
+- **rakshasas**: allied, shared_myth; Conversion of rakkhasas; Rāvaṇa invites Buddha to Laṅkā
+- **ayyappa**: identified_with
+- **gandharvas**: served_by; Pañcasikha sings before the Buddha
+- **jagannath**: identified_with
+- **kubera**: served_by; Offering the Āṭānāṭiya protection
+- **parvati**: other; Ilā’s transformation in the divine grove
+- **rama**: identified_with
+- **ravana**: taught; Buddhist instruction in Laṅkā
+- **saraswati**: served_by; Protection of the Golden Light Sūtra
+- **shani**: shared_myth; Navagraha cultic assembly
+- **shiva**: shared_myth; Hide-and-seek with Buddha
+- **shukra**: shared_myth; Navagraha rites and images
+- **vasuki**: shared_myth; Assembly at the Buddha’s sermon
+- **vishnu**: identified_with; Buddha incorporated as avatāra
+- **vithoba**: identified_with
+
+### chandra_soma  (45 gods)
+- **rahu**: deceived, deceived_by, fought, sibling_of; Eclipses; Moon escapes Rāhu’s mouth; Rāhu exposed among the gods; Rāhu’s revenge against the Moon
+- **rudra**: allied, fought, rescued_by, served; Candra's curse and crescent; Chandra’s penance at Prabhāsa; Joint healing invocation; Relief from Daksha’s curse
+- **brihaspati**: allied, contest, fought, shared_myth; Dispute over Budha’s paternity; Disputed paternity of Budha; Navagraha cultic grouping; Tārakāmaya war
+- **ashvins**: gift, shared_myth; Acquisition of the Soma share; Cyavana obtains their Soma share; Morning Soma drinking; Sūryā's wedding
+- **daksha**: gift, punished_by; Daksha curses the Moon; Daksha’s wasting curse; Marriage to the lunar mansions; Marriage to the lunar stations
+- **surya**: allied, consort_of, created, shared_myth; Indra and Soma raise the sun; Rāhu exposed among the gods; Solar replenishment of the moon; Sūryā’s ritual marriage sequence
+- **agni**: allied, shared_myth; Complementary sacrificial powers; Joint sacrificial offerings; Sūryā’s ritual marriage sequence
+- **budha_graha**: other, parent_of; Naming the luminous child; Recognition after the Tārā paternity dispute
+- **gandharvas**: served_by, shared_myth, theft; Gods acquire Soma for Vāc; Sūryā’s ritual marriage sequence; The Gandharva guards and conveys Soma
+- **indra**: allied, fought, gift; Empowerment before battle; Indra-Soma release the waters; Tārakāmaya war
+- **vritra**: created_by, killed, other; Indra-Soma kill the serpent; Moon formed from Vṛtra’s Soma portion; Vṛtra encloses divine powers
+- **bhaga**: shared_myth; Dawn invocation; Divine wedding
+- **brahma**: judged_by, other; Installation of Soma; Tārakāmaya arbitration
+- **garuda**: theft; Celestial falcon fetches Soma; Theft of amṛta
+- **ketu**: fought, other; Ketu afflicts the Moon at its south node; Moon exposes the disguised nectar-drinker
+- **lakshmi**: gift, shared_myth; Churning of the Milk Ocean; Redistribution of Śrī’s powers
+- **manu**: shared_myth; Soma delivered from heaven; Soma flows for Manu’s primordial offering
+- **maruts**: other, shared_myth; Soma drinking before battle; The Maruts drink Soma
+- **prajapati**: shared_myth; Prajāpati's temporal and sacrificial body; Reconstitution of Prajāpati
+- **pushan**: allied; Generation and oversight of creatures; Joint cosmic guardianship
+- **savitr**: child_of, other; Impulsion of Soma rites
+- **shukra**: allied, shared_myth; Navagraha rites and images; Tārakāmaya war
+- **vayu**: gift, shared_myth; First Soma draught; Vāyu receives Soma’s first draught
+- **vishnu**: rescued_by, shared_myth; Invitation to the Soma rite; Rāhu exposed and decapitated
+- **adityas**: allied; Seven Ādityas protect Soma
+- **aryaman**: shared_myth; Collective prayer for prosperity
+- **ashtadikpala**: other
+- **dattatreya**: sibling_of
+- **dyaus**: allied; Slaying of Vṛtra
+- **ganesha**: shared_myth; Moon mocks Gaṇeśa
+- **kurma**: shared_myth; The moon emerges from the churning
+- **mahishasura**: theft; Appropriation of the gods' offices
+- **mangala**: fought; Battle between Earth’s son and Soma
+- **matsya**: shared_myth; Preservation through cosmic dissolution
+- **mitra**: killed_by; Reluctant killing of Soma
+- **narada**: other; Nārada and Parvata’s Soma hymns
+- **prithvi**: created; Soma establishes Heaven and Earth
+- **rakshasas**: fought; Vedic war at the sacrifice
+- **ravana**: fought; Attempted attack on the Moon
+- **saraswati**: shared_myth; Soma liturgies
+- **shani**: shared_myth; Navagraha cultic assembly
+- **shiva**: rescued_by; Cure of the waning moon
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **vamana**: gift; Vāmana’s ceremonial initiation
+- **varuna**: shared_myth; Succession of Gāṇḍīva’s possessors
+
+### daksha  (29 gods)
+- **aditi**: child_of, parent_of; Reciprocal cosmogonic generation; Reciprocal generation of Aditi and Dakṣa
+- **sati**: contest, other, parent_of, punished, shared_myth; Daksha’s sacrifice and Satī’s death; Dakṣa’s birth bargain; Insult at Dakṣa’s sacrifice; Posthumous reconciliation
+- **rudra**: fought, punished_by, rescued_by; Destruction of Daksha’s sacrifice; Destruction of Dakṣa's sacrifice; Goat-headed restoration; Restoration after the ruined sacrifice
+- **bhaga**: allied, shared_myth; Destruction of Dakṣa’s sacrifice; Enumeration of the Ādityas; Invocation of the Ādityas; Mutilation at Daksha’s sacrifice
+- **brahma**: child_of, created_by, rescued_by, served; Appeal after the ruined sacrifice; Population of the worlds
+- **chandra_soma**: gift, punished; Daksha curses the Moon; Daksha’s wasting curse; Marriage to the lunar mansions; Marriage to the lunar stations
+- **kamadhenu**: created, parent_of; Surabhi emerges from Dakṣa’s fragrant eructation
+- **mitra**: allied, shared_myth; Invocation of the Ādityas; Joint Āditya invocation
+- **nandi**: fought, punished_by; Curse exchange at Dakṣa’s sacrifice; Exchange of curses
+- **narada**: punished; Nārada diverts Daksha’s sons; Renunciation of Dakṣa’s sons
+- **parvati**: ancestor_of, contest; Satī confronts Dakṣa at his sacrifice
+- **pushan**: shared_myth; Destruction of Dakṣa’s sacrifice; Mutilation at Daksha’s sacrifice
+- **rati**: created; Rati’s origin and marriage; Rati’s sweat-birth
+- **shiva**: punished_by, rescued_by; Dakṣa’s sacrifice
+- **vishnu**: rescued_by, shared_myth; Completion of the reconciled sacrifice; Pacification at Kottiyoor
+- **adityas**: shared_myth; Aditi and Dakṣa mutually generate one another
+- **agni**: gift; Marriage of Svāhā
+- **aryaman**: shared_myth; Invocation of the Ādityas
+- **brihaspati**: served_by; Daksha’s Bṛhaspatisava
+- **durga**: parent_of
+- **hiranyakashipu**: shared_myth; Austerity at Mount Mandara
+- **indra**: fought; Defense of Daksha’s sacrifice
+- **kama**: gift; Dakṣa supplies Rati as wife
+- **mahavidyas**: shared_myth; Dakṣa excludes Satī and Śiva from sacrifice
+- **prajapati**: identified_with
+- **rudras**: ancestor_of
+- **saraswati**: shared_myth; Mutilation at Daksha’s sacrifice
+- **savitr**: shared_myth; Injuries at the excluded sacrifice
+- **varuna**: shared_myth; Invocation of the Ādityas
+
+### dattatreya  (10 gods)
+- **rudra**: created_by, identified_with, taught_by; Birth from Atri and Anasūyā; Trimūrti embodiment; Śiva teaches magical rites
+- **brahma**: created_by, identified_with; Birth from Atri and Anasūyā; Trimūrti embodiment
+- **lakshmi**: consort_of, shared_myth; Daityas abduct Lakṣmī; Lakṣmī, wine, and the Daityas
+- **parashurama**: taught; Mystery of Tripurā; Śrīvidyā initiation
+- **chandra_soma**: sibling_of
+- **indra**: allied; Gods seek aid against Daityas
+- **kamadhenu**: shared_myth
+- **nandi**: shared_myth; Modern composite icon
+- **vishnu**: identified_with; Viṣṇu avatāra classification
+- **vithoba**: other
+
+### dhanvantari  (13 gods)
+- **vishnu**: identified_with, other; Churning of the milk ocean; Petition for sacrificial standing
+- **indra**: other, taught_by; Restoration of divine immortality; Transmission of Āyurveda
+- **lakshmi**: shared_myth; Churning of the Milk Ocean; Churning of the ocean
+- **airavata**: shared_myth; Churning of the milk ocean
+- **ashvins**: other; Transmission of Āyurveda
+- **brahma**: other; Origin of Āyurveda
+- **garuda**: taught_by; Snake-poison knowledge
+- **hayagriva_asura**: theft; Seizure of the nectar jar
+- **kurma**: shared_myth; Dhanvantari emerges carrying the nectar
+- **prajapati**: other; Origin of Āyurveda
+- **rahu**: shared_myth; Distribution of the nectar
+- **surya**: taught_by; Transmission of medical knowledge
+- **uchchaihshravas**: shared_myth; Churning treasures emerge
+
+### durga  (33 gods)
+- **shumbha_and_nishumbha**: contest, fought, killed; Battle with Niśumbha; Deaths of Niśumbha and Śumbha; Final duel with Śumbha; The demons’ marriage demand
+- **mahishasura**: deceived, fought, killed, seduced; Battle after Mahiṣa's conquest of heaven; Indigenous king defeated through a woman's deception; Mahiṣāsuramardinī; The Goddess slays the shape-changing buffalo asura
+- **indra**: allied, created_by, gift, rescued; Formation for the Mahiṣa war; Formation of the Goddess; Restoration after Mahiṣa’s defeat; Restoration of divine offices
+- **kali**: allied, created, gift, identified_with; Battle against Caṇḍa and Muṇḍa; Deaths of Caṇḍa and Muṇḍa; Defeat of Raktabīja; Kālī born from Durgā’s brow
+- **vishnu**: deceived, gift, served, sibling_of; Formation for the Mahiṣa war; Kṛṣṇa’s substitute sister; Yoganidrā’s cosmic sleep
+- **brahma**: allied, created_by, gift; Awakening Viṣṇu; Formation for the Mahiṣa war
+- **matrikas**: allied, identified_with, other; Battle against Raktabīja; Final duel with Śumbha
+- **radha**: created_by, identified_with, sibling_of
+- **ganesha**: parent_of, shared_myth; Bengali divine-family tableau
+- **kamsa**: deceived, fought; Kamsa attacks the exchanged infant goddess; Kṛṣṇa’s substitute sister
+- **kartikeya**: parent_of, shared_myth; Bengali divine-family tableau
+- **lakshmi**: identified_with, parent_of
+- **parvati**: created_by, identified_with; Kauśikī emerges from Pārvatī
+- **raktabija**: fought, killed; Defeat of Raktabīja
+- **rama**: gift, other; Autumnal awakening before battle; Rāma’s autumn awakening
+- **ratri**: identified_with, shared_myth; Rātrī–Durgā ritual sequence
+- **rudra**: created_by, gift; Arming the Goddess; Formation of the combined Goddess
+- **saraswati**: identified_with, parent_of
+- **shiva**: consort_of, identified_with; Śiva as Durgā’s incorporated power
+- **agni**: gift; Formation for the Mahiṣa war
+- **annapurna**: identified_with
+- **ashtadikpala**: served_by; Attendance and ritual enclosure of Devī
+- **balarama**: shared_myth; Triadic iconography
+- **daksha**: child_of
+- **gandharvas**: served_by; Acclamation of the Goddess’s victories
+- **kubera**: gift; Formation for the Mahiṣa war
+- **mahavidyas**: created; Durgā produces forms against demons
+- **ravana**: punished; Devī withdraws Ravana’s protection
+- **sati**: identified_with; Satī–Pārvatī–Durgā synthesis
+- **varuna**: gift; Formation for the Mahiṣa war
+- **vasus**: created_by; Formation of the Goddess
+- **vayu**: gift; Formation for the Mahiṣa war
+- **vishvakarman**: gift; Formation for the Mahiṣa war
+
+### dyaus  (16 gods)
+- **indra**: allied, killed_by, parent_of, transformed_by; Indra kills the unnamed father; Separation of heaven and earth; Slaying of Vṛtra
+- **prajapati**: child_of, identified_with, seduced_by; Incest with Sky or Dawn; Prajāpati and the daughter called Sky
+- **agni**: parent_of; Heaven bears Agni
+- **ashvins**: ancestor_of, parent_of
+- **surya**: parent_of, shared_myth; Sun travels between the world-parents
+- **aditi**: identified_with; Aditi identified with all cosmic relations
+- **adityas**: parent_of
+- **chandra_soma**: allied; Slaying of Vṛtra
+- **ganga**: child_of; Birth of the cursed Vasus
+- **maruts**: parent_of
+- **prithvi**: consort_of; Heaven and Earth as cosmic parents
+- **ratri**: parent_of
+- **rudra**: shared_myth; Rudra punishes the incestuous father
+- **ushas**: parent_of
+- **vasus**: shared_myth; Joint protective invocation
+- **vritra**: other; Slaying of Vṛtra
+
+### gandharvas  (17 gods)
+- **apsaras**: consort_of, deceived, shared_myth; Joint haunting near waters and trees; Separation of Urvaśī and Purūravas
+- **chandra_soma**: served, shared_myth, theft; Gods acquire Soma for Vāc; Sūryā’s ritual marriage sequence; The Gandharva guards and conveys Soma
+- **brahma**: created_by, served; Creation of dramatic performance; Variant creation of the Gandharvas
+- **indra**: fought, served; Charms against dangerous Gandharvas; Gandharvas at Indra’s court
+- **rama**: rescued_by; Liberation of Kabandha; Liberation of Virādha
+- **yami**: ancestor_of, parent_of; Watery parentage of Yama and Yamī
+- **agni**: shared_myth; Successive possessors of the bride
+- **budha_graha**: served; Pañcasikha sings before the Buddha
+- **durga**: served; Acclamation of the Goddess’s victories
+- **kubera**: punished_by; Tumburu becomes Virādha
+- **narada**: contest; Rival divine musicians
+- **parvati**: shared_myth; Wedding of Śiva and Pārvatī
+- **savitr**: shared_myth; Impulsion and purification of sacrifice
+- **surya**: gift; Transfer of Soma
+- **varuna**: other; Plant knowledge for Varuṇa
+- **vishnu**: served; Praise of Viṣṇu’s manifestations
+- **yamuna**: parent_of
+
+### ganesha  (29 gods)
+- **rudra**: child_of, created_by, fought, gift, killed_by, rescued_by, transformed_by; Appointment as lord of hosts; Battle at Pārvatī’s door; Beheading of the door guardian; Boy born from Rudra’s laughter
+- **parvati**: child_of, created_by, rescued_by, served; Creation of the door guardian; Guarding Pārvatī’s door; Pārvatī creates Gaṇeśa from her bodily substance; Pārvatī demands restoration of beheaded Gaṇeśa
+- **kartikeya**: allied, contest, shared_myth, sibling_of; Gaṇeśa assists Murukaṉ’s Valli courtship; Race around the world; The brothers compete for the fruit; Śiva-family imagery
+- **brahma**: gift, other, punished; Choosing Vyāsa’s scribe; Gaṇeśa corrects Brahmā; Recognition of Gaṇeśa
+- **lakshmi**: consort_of, shared_myth; Auspicious commerce and Diwali worship; Diwali Lakṣmī Pūjā; Lakṣmī-Gaṇapati imagery
+- **parashurama**: fought, transformed_by; Breaking Gaṇeśa’s tusk; Paraśurāma breaks the tusk
+- **shiva**: child_of, killed_by, rescued_by; Gaṇeśa’s beheading; Gaṇeśa’s restoration
+- **tulsi**: other, punished, punished_by; Gaṇeśa curses Tulsi; Gaṇeśa rejects Tulsi’s proposal; Tulsi curses Gaṇeśa
+- **durga**: child_of, shared_myth; Bengali divine-family tableau
+- **saraswati**: shared_myth; Invocation before literary acts; Opening invocations
+- **airavata**: other; Airāvata supplies the elephant head
+- **annapurna**: child_of
+- **ayyappa**: other
+- **balarama**: fought; Balarāma breaks the tusk
+- **bhairava**: allied; Joint guardianship of ritual boundaries
+- **brihaspati**: identified_with; Later use of RV 2.23
+- **chandra_soma**: shared_myth; Moon mocks Gaṇeśa
+- **indra**: fought; Battle at Pārvatī’s door
+- **kubera**: punished; The Gaṇeśa banquet
+- **matrikas**: shared_myth
+- **nandi**: served_by; Gaṇeśa’s wars against demons
+- **prajapati**: other; Marriage to Siddhi and Buddhi
+- **ravana**: deceived; Gokarṇa Ātmaliṅga stratagem
+- **sati**: consort_of
+- **shani**: other; Shani’s destructive gaze
+- **surya**: shared_myth
+- **tarakasura**: fought; Gaṇeśa assists Skanda in preliminary battles
+- **vishnu**: rescued_by; Obtaining the elephant head
+- **vithoba**: other
+
+### ganga  (19 gods)
+- **rudra**: consort_of, other, punished_by, rescued_by; Birth of Skanda; Descent of Ganga; Gaṅgā's descent; Skanda's birth
+- **saraswati**: contest, punished, punished_by, shared_myth; Goddesses’ household quarrel; Invocation of the rivers; Mutual river curses; Quarrel of Viṣṇu’s wives
+- **vasus**: killed, parent_of, rescued; Birth of the Vasus; Drowning of the Vasus; Mortal births of the cursed Vasus; Release of seven cursed Vasus
+- **parvati**: contest, shared_myth, sibling_of; Gaṅgā carries Śiva’s energy toward Skanda’s birth; Pārvatī resents Gaṅgā dwelling in Śiva’s hair; Rivalry over Śiva
+- **yamuna**: shared_myth; Invocation of the rivers; Paired temple-threshold goddesses; Temple-threshold pairing; Triveṇī Saṅgam at Prayāga
+- **vamana**: consort_of, created_by; Ganga as Viṣṇupadī; Gaṅgā arises from Trivikrama’s foot-water; Quarrel of Viṣṇu’s wives
+- **agni**: allied, gift; Birth of Skanda
+- **brahma**: other; Descent of Ganga; Ganga as Viṣṇupadī
+- **kartikeya**: parent_of; Birth of Skanda
+- **lakshmi**: contest, shared_myth; Divine co-wives’ curse narrative; Quarrel of Viṣṇu’s wives
+- **shiva**: consort_of, other; Descent of Gaṅgā
+- **yami**: shared_myth; Confluence at Prayāga; River goddesses guard temple thresholds
+- **dyaus**: parent_of; Birth of the cursed Vasus
+- **kamadhenu**: other; Gaṅgā bears the Vasus after Nandinī’s theft
+- **nagas**: shared_myth; Descent at Mamallapuram
+- **rama**: shared_myth; Crossing during exile
+- **saptarishi**: shared_myth; Division and escort of Gaṅgā
+- **tarakasura**: other; Gaṅgā bears the power producing Tāraka’s killer
+- **tulsi**: contest; Viṣṇu’s wives exchange curses
+
+### garuda  (29 gods)
+- **nagas**: deceived, fought, served, sibling_of; Bird-serpent feud; Garuḍa and the amṛta; Garuḍa threatens Sumukha; Kāliya flees Garuḍa
+- **indra**: allied, fought; Battle for amṛta; Compact after the amṛta battle; Conflict over amṛta; Settlement over amṛta
+- **shesha_ananta**: allied, shared_myth, sibling_of; Garuḍa assists Śeṣa in bearing the world; Viṣṇu's celestial entourage
+- **vishnu**: gift, served; Exchange of boons
+- **budha_graha**: other, shared_myth; Assembly before the Buddha; Refuge amid Nāga–Garuḍa hostility
+- **chandra_soma**: theft; Celestial falcon fetches Soma; Theft of amṛta
+- **lakshmana**: rescued; Release from Indrajit's serpent weapon; Release from the nāgāstra
+- **rama**: rescued; Indrajit’s serpent weapons; Release from Indrajit's serpent weapon
+- **sampati**: other, parent_of
+- **uchchaihshravas**: shared_myth; Wager causes Garuḍa’s amṛta quest; Wager over the divine horse
+- **agni**: shared_myth; Garuḍa's fiery birth
+- **airavata**: shared_myth; Garuḍa’s eggshell and elephant origins
+- **bali**: punished; Binding with Varuṇa’s noose
+- **brahma**: shared_myth; Regulation of Garuḍa
+- **dhanvantari**: taught; Snake-poison knowledge
+- **hanuman**: identified_with; Pañcamukhī Hanuman
+- **jatayu**: ancestor_of
+- **kalki**: served; Garuḍa serves Kalki as Devadatta
+- **krishna**: served
+- **kurma**: allied; Transporting Mandara to the milk ocean
+- **matsya**: served; Nagalapuram Matsya Jayanti procession
+- **narasimha**: other; Ahobilam sacred geography
+- **surya**: shared_myth; Aruṇa becomes Sūrya's charioteer
+- **vamana**: served; Garuḍa binds Bali
+- **varaha**: served; Transport of Varāha’s divine hill
+- **varuna**: sibling_of
+- **vasuki**: fought; Flight from Garuda
+- **vayu**: shared_myth; Battle for amṛta
+- **vithoba**: served
+
+### hanuman  (24 gods)
+- **rama**: allied, gift, rescued, served; Hanumān’s mission; Mahirāvaṇa’s underworld; Medicinal mountain; Mission to find Sītā
+- **lakshmana**: allied, rescued; Ahi-ravana’s underworld sacrifice; Alliance with Sugriva; Mahirāvaṇa’s underworld; Medicinal mountain rescue
+- **vayu**: child_of, identified_with, rescued_by; Vāyu engenders or empowers Añjanā’s son; Vāyu withdraws air after Hanumān is struck; Vāyu’s first major manifestation; Vāyu’s first salvific descent
+- **indra**: fought, gift, punished_by; Childhood leap at the sun; Compensating boons; Gods placate Vāyu; Hanumān’s childhood flight
+- **sita**: allied, gift, rescued; Discovery in the aśoka grove; Hanumān offers escape from Lanka; Meeting in the aśoka grove
+- **surya**: other, shared_myth, taught_by; Childhood leap at the sun; Hanumān leaps toward the sun; Hanumān studies beside the moving sun; Lessons beside the moving sun
+- **brahma**: gift, other; Boons to the child Hanumān; Capture in Laṅkā; Gods placate Vāyu
+- **ravana**: fought, punished_by; Burning of Hanuman’s tail; Confrontation and burning of Laṅkā; Hanumān confronts Ravana in Laṅkā
+- **rudra**: child_of, created_by, identified_with; Śaiva birth tradition; Śiva’s energy conveyed through Vāyu
+- **shani**: fought, gift, rescued; Promise to spare Hanuman’s devotees; Release from Rāvaṇa’s prison; Shani crushed by Hanuman’s tail
+- **vishnu**: allied, created_by; Mohinī occasions Śiva’s emission; War to recover Sītā
+- **agni**: allied; Burning of Hanuman’s tail
+- **apsaras**: descendant_of; Punjikasthalā’s curse and rebirth as Añjanā
+- **garuda**: identified_with; Pañcamukhī Hanuman
+- **jagannath**: served; Protection of Puri from the sea
+- **kubera**: gift; Childhood divine boons
+- **nandi**: identified_with; Later interpretation of Nandin’s monkey curse
+- **narasimha**: identified_with; Pañcamukhī Hanuman
+- **rakshasas**: fought; Hanumān's mission in Laṅkā
+- **rudras**: identified_with; Hanumān as the eleventh Rudra
+- **sampati**: taught_by; Search for Sītā
+- **varaha**: identified_with; Pañcamukhī Hanuman
+- **varuna**: gift; Childhood divine boons
+- **vithoba**: other
+
+### hayagriva  (6 gods)
+- **lakshmi**: consort_of, punished_by; Viṣṇu’s beheading and restoration
+- **brahma**: gift; Recovery of the stolen Vedas
+- **hayagriva_asura**: killed; The second Hayagrīva
+- **matsya**: killed_by; Matsya recovers the stolen Vedas
+- **vishnu**: identified_with
+- **vishvakarman**: transformed_by; Viṣṇu’s beheading and restoration
+
+### hayagriva_asura  (17 gods)
+- **buddha_avatar**: deceived_by, killed_by, taught_by; Buddha destroys demons; Delusion of the Daityas; Teaching the Daityas śramaṇa doctrines
+- **kurma**: allied, deceived_by; Temporary alliance for ocean churning; Viṣṇu denies Asuras the nectar
+- **matsya**: killed_by; Matsya recovers the stolen Vedas; Veda theft and recovery
+- **prajapati**: child_of, taught_by; Da, da, da
+- **shukra**: rescued_by, served_by; Śukra revives fallen Asuras
+- **vamana**: deceived_by, fought; Deva–Asura war surrounding Bali’s defeat; The dwarf sacrifice acquires the earth
+- **apsaras**: shared_myth; Churning of the cosmic ocean
+- **bali**: served; The deva-asura battle
+- **brahma**: theft; Theft of the Vedas
+- **dhanvantari**: theft; Seizure of the nectar jar
+- **hayagriva**: killed_by; The second Hayagrīva
+- **indra**: punished; Hayagrīva oppresses the gods
+- **manu**: created_by; Manu recreates beings after the flood
+- **nagas**: allied; Churning of the ocean
+- **vasuki**: other; Churning of the ocean
+- **vishnu**: killed_by; The double-Hayagrīva cycle
+- **vishvakarman**: shared_myth; Construction of the second Hayagrīva
+
+### hiranyakashipu  (14 gods)
+- **brahma**: gift, rescued_by; Austerity at Mount Mandara; Hiranyakashipu’s boon; Hiraṇyakaśipu's conditional boon
+- **indra**: fought, other, theft; Abduction of Kayādhu; Conquest of the worlds; Usurpation of divine offices
+- **narasimha**: fought, killed_by; Battle in the Daitya assembly hall; Killing of Hiraṇyakaśipu; Pillar and threshold killing
+- **vishnu**: fought, killed_by; Narasiṃha combat; Narasiṃha kills Hiraṇyakaśipu; Narasiṃha’s killing
+- **hiranyaksha**: shared_myth, sibling_of; Hiraṇyakaśipu’s vengeance
+- **agni**: served_by; Prahlāda’s fire ordeal
+- **bali**: ancestor_of
+- **daksha**: shared_myth; Austerity at Mount Mandara
+- **kubera**: theft; Usurpation of divine offices
+- **narada**: other; Prahlāda’s prenatal instruction
+- **ravana**: identified_with; Jaya–Vijaya cycle
+- **varaha**: other; Death of Hiraṇyākṣa
+- **varuna**: theft; Usurpation of divine offices
+- **vayu**: served_by; Prahlāda’s fire ordeal
+
+### hiranyaksha  (9 gods)
+- **varaha**: fought, killed_by; Death beside the rescued Earth; Death of Hiraṇyākṣa; Earth restoration and boar combat; Mace duel over Earth
+- **andhaka**: parent_of, shared_myth; Andhaka’s adoption; Andhaka’s succession
+- **hiranyakashipu**: shared_myth, sibling_of; Hiraṇyakaśipu’s vengeance
+- **brahma**: gift; Brahmā’s boon
+- **indra**: fought; War against the gods
+- **narada**: taught_by; Finding Hari
+- **prithvi**: other; Hiraṇyākṣa submerges Earth
+- **varuna**: contest; Challenge at Vibhāvarī
+- **vishnu**: killed_by; Varāha raises Earth
+
+### indra  (81 gods)
+- **maruts**: allied, contest, created, sibling_of; Agastya’s sacrifice and threatened rupture; Dismemberment of Diti’s fetus; Diti’s embryo divided into forty-nine; Diti’s embryo divided into seven
+- **vritra**: deceived, fought, killed, taught_by; Rigvedic release of the waters; Treaty and foam at twilight; Vṛtra cycle; Vṛtra’s devotional reinterpretation
+- **agni**: allied, created_by, fought, rescued_by, shared_myth, sibling_of; Burning of Khāṇḍava; Cosmic Puruṣa sacrifice; Indrāgnī joint invocations; Joint sacrificial invocations
+- **ashvins**: contest, deceived_by, punished, rescued_by, shared_myth, taught_by; Dadhyañc's substituted horse head; Dispute over soma eligibility; Divine transmission of medicine; Exclusion from the Soma share
+- **apsaras**: gift, other, served_by; Disruption of dangerous austerities; Indra permits Urvaśī’s mortal union; Performances in Indra’s celestial court; Rambhā’s mission against Viśvāmitra
+- **bali**: fought, killed, parent_of, shared_myth; Battle with Indra; Conquest of the three worlds; Indra–Bali dialogue; Loss of heaven
+- **durga**: allied, created, gift, rescued_by; Formation for the Mahiṣa war; Formation of the Goddess; Restoration after Mahiṣa’s defeat; Restoration of divine offices
+- **kartikeya**: allied, fought, gift; Attack on the young Skanda; Indra attacks the alarming divine child; Indra gives Devasenā after victory; Indra installs Skanda as divine commander
+- **prajapati**: allied, created_by, gift, taught_by; Doctrine of the self; Indra seeks knowledge of the self
+- **surya**: contest, created, fought, rescued, theft; Divine fathers protect rival sons; Indra finds or raises the sun; Indra strikes Sūrya’s wheel; Restoration of sunlight
+- **brahma**: allied, judged_by, rescued_by; Attendance upon the Buddha; Divine councils during cosmic crises; Mystery after the gods’ victory; Release from Meghanāda
+- **brihaspati**: allied, punished_by, served_by; Breaking Vala; Bṛhaspati leaves Indra; Vedic warfare and cattle-winning
+- **dyaus**: allied, child_of, killed, transformed; Indra kills the unnamed father; Separation of heaven and earth; Slaying of Vṛtra
+- **garuda**: allied, fought; Battle for amṛta; Compact after the amṛta battle; Conflict over amṛta; Settlement over amṛta
+- **hanuman**: fought, gift, punished; Childhood leap at the sun; Compensating boons; Gods placate Vāyu; Hanumān’s childhood flight
+- **tvashtar**: fought, gift, theft; Creation of an Indra-slayer; Excluded Soma sacrifice; Indra seizes Tvaṣṭṛ’s Soma; Making of Indra’s vajra
+- **vamana**: allied, rescued_by, sibling_of; Restoration of Indra’s sovereignty; Viṣṇu supports Indra through his expansive strides; Vāmana restores heaven
+- **vayu**: allied, contest, fought, gift; Indra earns a share of Vāyu’s cup; Indra wounds Hanumān and Vāyu withdraws air; Indrāvāyū share Soma and a chariot; Withdrawal of the cosmic air
+- **chandra_soma**: allied, fought, gift; Empowerment before battle; Indra-Soma release the waters; Tārakāmaya war
+- **hiranyakashipu**: fought, other, theft; Abduction of Kayādhu; Conquest of the worlds; Usurpation of divine offices
+- **kama**: allied, served_by; Disruption of asceticism; Joint invocation against enemies; Mission to disturb Śiva
+- **pushan**: allied, sibling_of; Pūṣan assists Indra; Winning cattle and wealth
+- **rama**: allied, gift, served; Final battle against Rāvaṇa; Final combat with Rāvaṇa; Restoration of the vānaras
+- **shukra**: allied, contest, deceived; Indra sends Jayantī during Śukra’s austerity; Priestly rivalry between Devas and Asuras; Uśanas acts or rejoices with Indra
+- **varuna**: allied, contest; Paired divine sovereignty; Rival models of rule; Transfer of divine allegiance
+- **vishnu**: allied, contest; Govardhana challenges Indra’s sacrifice; Opening cosmic space; Vishnu’s three strides
+- **vishvakarman**: gift, identified_with, served_by; Construction of Indra's assembly; Indra Viśvakarman ritual identity; Manufacture of Indra's thunderbolt
+- **aditi**: child_of, rescued_by; Restoration of Indra's sovereignty
+- **airavata**: served_by; Churning of the milk ocean; Indra’s elephant mount
+- **bhaga**: allied, shared_myth; Dawn invocation; Good-fortune charm
+- **budha_graha**: served, taught_by; Sakka’s questions at Indasāla; Śakra attends the Buddha
+- **dhanvantari**: other, taught; Restoration of divine immortality; Transmission of Āyurveda
+- **gandharvas**: fought, served_by; Charms against dangerous Gandharvas; Gandharvas at Indra’s court
+- **kamadhenu**: allied, taught_by; Surabhi and Indra consecrate Kṛṣṇa as Govinda; Surabhi weeps for an abused weak bullock
+- **krishna**: contest, rescued_by; Govardhana and Indra
+- **kubera**: allied, shared_myth; Assemblies of divine kings; Defense against the asuras
+- **lakshmana**: rescued, shared_myth; Lakshmana’s divine translation; Restoration of the dead vānaras
+- **lakshmi**: shared_myth; Indra seeks Śrī as royal fortune; Withdrawal and return of royal fortune
+- **mahishasura**: fought, theft; Century-long war against Indra's gods; Usurpation of Indra's office
+- **manu**: gift, shared_myth; Indra drinks pressed Soma with Manu; Manu’s Soma empowers Indra against Vṛtra
+- **matrikas**: created, served_by; Commission to destroy Skanda; Emanation of Aindrī
+- **nagas**: allied, theft; Takṣaka seeks Indra's refuge; The stolen amṛta
+- **narasimha**: allied, shared_myth; Gods appeal against Hiraṇyakaśipu; Wedding of Narasimha and Vāsantikā
+- **prithvi**: consort_of, created; Indra establishes Heaven and Earth
+- **rakshasas**: fought; Meghanāda captures Indra; Vedic war at the sacrifice
+- **ravana**: fought; Ravana’s invasion of heaven; Rāvaṇa’s campaign against heaven
+- **rudra**: allied, contest; Indra confronts Rudra-Śiva; Tripura and Skanda cycles
+- **rudras**: allied, shared_myth; Storm and battle hymns; The thirty-three gods
+- **saptarishi**: served_by; Envoys for Śiva’s marriage; Indra’s celestial assembly
+- **shiva**: allied, fought; Conflicts with Indra; Divine appeals and battles
+- **sita**: consort_of, gift; Indra visits captive Sītā
+- **uchchaihshravas**: served_by, shared_myth; Indra cools the ocean churning; Indra’s celestial mount
+- **adityas**: shared_myth; Indra joins and leads the Ādityas
+- **andhaka**: fought; Andhaka’s war against the gods
+- **aryaman**: allied; Invocations for aid and marriage
+- **ashtadikpala**: other; Delegation of divine domains
+- **ayyappa**: allied; The tigers return to Pandalam
+- **bhairava**: shared_myth; Indra Jātrā civic festival
+- **daksha**: fought; Defense of Daksha’s sacrifice
+- **dattatreya**: allied; Gods seek aid against Daityas
+- **ganesha**: fought; Battle at Pārvatī’s door
+- **hayagriva_asura**: punished_by; Hayagrīva oppresses the gods
+- **hiranyaksha**: fought; War against the gods
+- **kurma**: allied; Restoration of divine power through churning
+- **mitra**: shared_myth; Mitanni treaty witnesses
+- **nandi**: shared_myth; Śilāda seeks an immortal son
+- **narada**: other; Nārada Kāṇva’s hymn praises Indra
+- **parashurama**: shared_myth; Celestial assemblies and weapon gifts
+- **parvati**: taught_by; Umā teaches Indra who won the gods’ victory
+- **rahu**: fought; Svarbhānu darkens the Sun
+- **saraswati**: allied; Vedic power and victory rites
+- **savitr**: other; Savitr’s irresistible ordinance
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **tarakasura**: fought; Tāraka conquers and subordinates the gods
+- **ushas**: fought; Indra breaks Uṣas's wagon
+- **varaha**: fought; Indra pierces Emuṣa
+- **vasuki**: shared_myth; Churning of the ocean
+- **vasus**: served_by
+- **yakshas**: deceived_by; The unknowable Yaksha
+- **yamaraja**: shared_myth; The gods seek Damayantī
+- **yamuna**: allied; Battle near the Yamuna
+
+### jagannath  (11 gods)
+- **balarama**: allied, shared_myth, sibling_of; Jagannātha triad; Kañcī-Kāverī campaign; Ratha Yatra
+- **lakshmi**: consort_of, contest, punished_by; Hera Pañcamī; Lakṣmī and Śriyā
+- **radha**: consort_of, shared_myth; Ratha Yatra as return to Vṛndāvana
+- **bhairava**: identified_with
+- **brahma**: other; Installation of the wooden deity
+- **budha_graha**: identified_with
+- **hanuman**: served_by; Protection of Puri from the sea
+- **narasimha**: identified_with; Nabakalebara consecration
+- **rama**: identified_with
+- **vishnu**: identified_with
+- **vishvakarman**: created_by; Interrupted carving
+
+### jatayu  (9 gods)
+- **sampati**: contest, other, rescued_by, shared_myth, sibling_of; Brothers race toward the sun; Flight toward the Sun; Mourning and water offerings; Visits to Niśākara
+- **rama**: allied, rescued_by, served, served_by; Jatāyu attains Hari’s abode; Jatāyu pledges to guard Sītā; Jatāyu receives liberation; Jatāyu’s death and funeral
+- **ravana**: fought, killed_by; Battle during Sītā’s abduction; Jatāyus attacks during Sītā’s abduction; Jatāyus is mortally wounded; Rāvaṇa cuts down Jatāyu
+- **sita**: rescued, served; Attempted rescue during her abduction; Guardianship at Pañcavaṭī; Rāvaṇa’s aerial abduction
+- **lakshmana**: served, served_by; Jatāyu’s death and funeral; Meeting and pledge at Pañcavaṭī
+- **surya**: shared_myth; Worship at Vaitheeswaran Koil; Youthful flight toward the sun
+- **garuda**: descendant_of
+- **varuna**: child_of
+- **vishnu**: rescued_by; Attainment of Viṣṇu’s supreme abode
+
+### kali  (18 gods)
+- **durga**: allied, created_by, gift, identified_with; Battle against Caṇḍa and Muṇḍa; Deaths of Caṇḍa and Muṇḍa; Defeat of Raktabīja; Kālī born from Durgā’s brow
+- **parvati**: created_by, identified_with, transformed_by; Dark form departs from Pārvatī; Kālī emanates from the Goddess’s anger; Pārvatī becomes dark Kālikā after Kauśikī emerges
+- **shumbha_and_nishumbha**: fought; War against Niśumbha; War against the Goddess’s manifestations; War against Śumbha; Śumbha temporarily defeats Kālī
+- **rudra**: consort_of, identified_with, served_by; Complementary divine halves; Śiva beneath Kālī
+- **shiva**: allied, contest, identified_with; Battlefield cooperation; Dance competition; Śiva-Kālī theological identity
+- **bhairava**: consort_of, served_by; Kālī dominates or transcends Bhairava
+- **mahavidyas**: created, identified_with; Kālī fills every direction as Śiva leaves; Tārā merges into Kālī
+- **matrikas**: allied, identified_with; Interception of Raktabīja’s blood
+- **raktabija**: fought; Containment of Raktabīja’s blood; Raktabīja’s multiplying blood
+- **sati**: identified_with, shared_myth; Creation of the Kalighat śaktipīṭha; Manifestation of the ten Mahāvidyās
+- **agni**: other; Agni’s seven flame-tongues
+- **andhaka**: fought; Blood-drinking battlefield goddess
+- **kalki**: fought; War against Kali
+- **nagas**: punished_by; Karkoṭaka transforms Nala
+- **narasimha**: allied; Goddess host battles the demons
+- **ratri**: identified_with
+- **sita**: identified_with; Sītā’s martial manifestation
+- **vishnu**: shared_myth; Creation of the Kalighat śaktipīṭha
+
+### kalki  (8 gods)
+- **parashurama**: served, taught_by; Education of Kalki; Kalki’s education in scripture and warfare; Paraśurāma requests sacrificial recompense
+- **vishnu**: identified_with; Future end of Kali age; Viṣṇu descends as Kalki at the yuga’s end
+- **brahma**: shared_myth; Divine petition for Kalki’s descent
+- **garuda**: served_by; Garuḍa serves Kalki as Devadatta
+- **kali**: fought; War against Kali
+- **lakshmi**: consort_of; Marriage to Padmāvatī in Siṃhala
+- **parvati**: shared_myth; Śiva’s benefaction in Pārvatī’s presence
+- **rama**: consort_of
+
+### kama  (18 gods)
+- **rati**: allied, consort_of, rescued_by, shared_myth, taught_by; Counter-magic against Śambara; Kāma’s burning and Rati’s lament; Lalitā restores Kāma; Mission against Śiva
+- **rudra**: fought, killed_by, punished_by, rescued_by, transformed_by; Kāma attacks Śiva’s ascetic concentration; Kāma becomes Ananga; Kāma interrupts Śiva's meditation; Restoration of Kāma
+- **brahma**: created_by, punished_by; Creation of desire; Kāma affects Brahmā; Kāma arises from Brahmā’s mind; Kāma’s arrows disturb his creator
+- **indra**: allied, served; Disruption of asceticism; Joint invocation against enemies; Mission to disturb Śiva
+- **krishna**: child_of, contest; Krishna enchants the love-god
+- **narada**: contest, shared_myth; Kāma attacks Nārada’s austerity; Nārada reveals Pradyumna’s identity
+- **parvati**: shared_myth; Awakening Śiva’s desire for Pārvatī; Kāma tries awakening Śiva’s desire for Pārvatī
+- **shiva**: killed_by, rescued_by; Kāma’s burning; Kāma’s restoration
+- **tarakasura**: other, shared_myth; Kāma awakens Śiva for the Tāraka crisis; Mission prompted by Tāraka’s threat
+- **vishnu**: child_of; Kāma reborn as Pradyumna
+- **agni**: allied; Burning enemies through joint invocation
+- **apsaras**: allied; Rambhā’s mission against Viśvāmitra
+- **daksha**: gift; Dakṣa supplies Rati as wife
+- **kartikeya**: shared_myth; Kāma enables Kumāra’s conception
+- **lakshmi**: child_of
+- **mahavidyas**: other; Chinnamastā stands upon copulating Kāma and Rati
+- **prajapati**: created_by; Creator wills beings into existence
+- **sati**: allied; Plan to engage Śiva
+
+### kamadhenu  (10 gods)
+- **brahma**: created_by, gift; Brahmā grants Surabhi the celestial Goloka
+- **daksha**: child_of, created_by; Surabhi emerges from Dakṣa’s fragrant eructation
+- **indra**: allied, taught; Surabhi and Indra consecrate Kṛṣṇa as Govinda; Surabhi weeps for an abused weak bullock
+- **aditi**: served; Divine mothers authorize Kṛṣṇa’s consecration
+- **airavata**: shared_myth; Airāvata assists Surabhi’s consecration of Kṛṣṇa
+- **dattatreya**: shared_myth
+- **ganga**: other; Gaṅgā bears the Vasus after Nandinī’s theft
+- **kurma**: shared_myth; The divine cow emerges from the ocean
+- **parashurama**: other; Cow seizure precipitates Paraśurāma’s campaigns
+- **vasus**: theft; The Vasus steal Nandinī
+
+### kamsa  (6 gods)
+- **balarama**: fought, other; The Mathurā arena trap
+- **durga**: deceived_by, fought; Kamsa attacks the exchanged infant goddess; Kṛṣṇa’s substitute sister
+- **vishnu**: killed_by; Kṛṣṇa ends Kaṃsa’s tyranny; Viṣṇu kills Kamsa’s previous incarnation Kālanemi
+- **krishna**: killed_by; Kaṃsa’s death
+- **narada**: other; Nārada reveals the concealed brothers’ identities
+- **tarakasura**: allied
+
+### kartikeya  (32 gods)
+- **matrikas**: allied, child_of, created, fought, served_by; Adoption and nursing of Skanda; Attempted killing of the infant Skanda; Emanation of Kaumārī; Skanda incorporates the dangerous Mothers
+- **ganesha**: allied, contest, shared_myth, sibling_of; Gaṇeśa assists Murukaṉ’s Valli courtship; Race around the world; The brothers compete for the fruit; Śiva-family imagery
+- **indra**: allied, fought, gift; Attack on the young Skanda; Indra attacks the alarming divine child; Indra gives Devasenā after victory; Indra installs Skanda as divine commander
+- **agni**: child_of, created_by, other; Agni carries Śiva’s unbearable seed; Skanda’s birth; Transmission of Śiva’s generative energy
+- **tarakasura**: fought, killed; Murukaṉ defeats Sūrapadman’s allied brother; Skanda kills Tāraka with the divine spear; Skanda kills Tāraka with the spear; Skanda leads the divine army against Tāraka
+- **brahma**: other, punished; Brahmā recognizes and names Skanda; Skanda imprisons Brahmā; Skanda questions Brahmā about Oṃ
+- **rudra**: child_of, gift, taught; Skanda teaches Śiva the meaning of Oṃ; Śiva offers a fruit of knowledge
+- **durga**: child_of, shared_myth; Bengali divine-family tableau
+- **ganga**: child_of; Birth of Skanda
+- **mangala**: identified_with, served_by
+- **nandi**: shared_myth, taught_by; Leadership of Śiva’s gaṇas; Teaching Śiva’s mysteries to Skanda
+- **narada**: allied, taught; Nārada arranges Murukaṉ’s courtship of Valli; Sanatkumāra teaches Nārada about plenitude
+- **parvati**: child_of, gift; Pārvatī gives Murukaṉ the vēl
+- **aditi**: shared_myth; Skanda's consecration
+- **andhaka**: shared_myth; Expanded Andhaka war
+- **annapurna**: child_of
+- **bali**: shared_myth; Gods honor Vāmana
+- **brihaspati**: shared_myth; Bṛhaspate Tārāpate
+- **kama**: shared_myth; Kāma enables Kumāra’s conception
+- **mahishasura**: killed; Skanda kills a possibly identical Mahiṣa
+- **maruts**: shared_myth; The gods assemble around Skanda
+- **nagas**: shared_myth; Southern serpent-cult fusion
+- **parashurama**: shared_myth; Paraśurāma visits Kailāsa
+- **prajapati**: child_of
+- **saptarishi**: shared_myth; Birth of Skanda
+- **shiva**: child_of
+- **surya**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **vamana**: shared_myth; Divine installation after Bali’s submission
+- **vasuki**: rescued; Refuge from Garuda at Kukke
+- **vasus**: descendant_of
+- **vishnu**: other
+- **vishvakarman**: gift; Forging Skanda's solar spear
+
+### ketu  (7 gods)
+- **chandra_soma**: fought, other; Ketu afflicts the Moon at its south node; Moon exposes the disguised nectar-drinker
+- **rahu**: other, shared_myth; Rāhu and Ketu as divided body; Severed head and complementary tail form the nodal axis
+- **surya**: fought, other; Later Ketu afflicts the Sun; Sun exposes the disguised nectar-drinker
+- **vishnu**: killed_by, transformed_by; The nectarless severed body dies; Viṣṇu severs the nectar-drinking asura
+- **brihaspati**: shared_myth; Navagraha cultic grouping
+- **shani**: shared_myth; Navagraha cultic assembly
+- **shukra**: shared_myth; Navagraha rites and images
+
+### krishna  (16 gods)
+- **radha**: consort_of, created, identified_with; Brahmā secretly marries the pair at Bhāṇḍīravana; Krishna blows cow-dust from Radhika’s face; Radha embodies Krishna’s intrinsic bliss potency; Radha emerges from Krishna’s left side in Goloka
+- **yamuna**: consort_of, rescued, rescued_by, shared_myth; Crossing the flooded Yamunā; Infant Krishna crosses the Yamuna; Krishna subdues Kaliya; Krishna's river pastimes in Braj
+- **balarama**: allied, sibling_of; Kaṃsa’s death
+- **brahma**: deceived, shared_myth; Brahmā steals the calves; Earth’s appeal for divine descent
+- **indra**: contest, rescued; Govardhana and Indra
+- **kama**: contest, parent_of; Krishna enchants the love-god
+- **vishnu**: created, identified_with
+- **agni**: allied; Burning of Khāṇḍava forest
+- **garuda**: served_by
+- **kamsa**: killed; Kaṃsa’s death
+- **lakshmi**: identified_with
+- **shesha_ananta**: shared_myth; Divine descent through Balarāma
+- **surya**: shared_myth; Syamantaka jewel episode
+- **tarakasura**: killed; Slaying of Narakāsura
+- **uchchaihshravas**: identified_with; Krishna’s manifestations among supreme beings
+- **varuna**: rescued; Nanda in Varuṇa’s realm
+
+### kubera  (25 gods)
+- **ravana**: fought, sibling_of, theft; Conquest of Laṅkā and Kailāsa; Rāvaṇa conquers Kubera; Seizure of Laṅkā and Puṣpaka; Seizure of Puṣpaka and Laṅkā
+- **vishvakarman**: created_by, gift, served_by; Construction of Kubera’s cities; Construction of Laṅkā; Construction of Pushpaka; Construction of Puṣpaka
+- **rudra**: allied, gift; Guṇanidhi’s elevation as Kubera; Kubera receives lordship of wealth; Kubera’s friendship with Śiva
+- **rakshasas**: served_by, sibling_of, theft; Rāvaṇa seizes Laṅkā and Puṣpaka
+- **brahma**: ancestor_of, gift; Brahmā rewards Kubera’s austerities
+- **indra**: allied, shared_myth; Assemblies of divine kings; Defense against the asuras
+- **lakshmi**: shared_myth; Diwali wealth worship; Joint prosperity rites
+- **varuna**: shared_myth; Guardians of the directions; World guardians and divine courts
+- **apsaras**: served_by; Performances in Kubera’s assembly
+- **budha_graha**: served; Offering the Āṭānāṭiya protection
+- **durga**: gift; Formation for the Mahiṣa war
+- **gandharvas**: punished; Tumburu becomes Virādha
+- **ganesha**: punished_by; The Gaṇeśa banquet
+- **hanuman**: gift; Childhood divine boons
+- **hiranyakashipu**: theft; Usurpation of divine offices
+- **mahishasura**: other; Gods equip the Goddess for war
+- **narada**: punished_by; Kubera’s sons become twin trees
+- **narasimha**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **parvati**: transformed_by; Kubera gazes improperly at Pārvatī
+- **rama**: gift; Return of Puṣpaka
+- **shukra**: theft; Śukra steals Kubera’s wealth
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **surya**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **vamana**: gift; Vāmana’s ceremonial initiation
+- **yakshas**: served_by
+
+### kurma  (21 gods)
+- **hayagriva_asura**: allied, deceived; Temporary alliance for ocean churning; Viṣṇu denies Asuras the nectar
+- **lakshmi**: consort_of, shared_myth; Lakṣmī emerges and chooses Viṣṇu
+- **prajapati**: created, identified_with; Creation of living beings in tortoise form; Prajāpati assumes tortoise form and creates living beings
+- **uchchaihshravas**: shared_myth; Kurma supports the churning mountain; Uccaiḥśravas emerges from the churning
+- **vasuki**: allied, served_by; Churning of the ocean; Churning the ocean around Mandara
+- **vishnu**: identified_with; Hari supports Mandara in tortoise form; Viṣṇu assumes tortoise form beneath Mandara
+- **airavata**: shared_myth; Airāvata emerges from the churning
+- **apsaras**: shared_myth; Apsarases arise from the churned ocean
+- **balarama**: other; Balarāma limits tortoise-form worship
+- **bali**: allied; Temporary alliance for churning the ocean
+- **brahma**: allied; Divine consultation and ocean churning
+- **chandra_soma**: shared_myth; The moon emerges from the churning
+- **dhanvantari**: shared_myth; Dhanvantari emerges carrying the nectar
+- **garuda**: allied; Transporting Mandara to the milk ocean
+- **indra**: allied; Restoration of divine power through churning
+- **kamadhenu**: shared_myth; The divine cow emerges from the ocean
+- **narada**: served_by; Nārada directs King Śveta toward Kūrma
+- **rahu**: shared_myth; Rāhu infiltrates the nectar distribution
+- **rudra**: allied; Containing poison from the ocean churning
+- **shesha_ananta**: allied; Preparing Mandara for the ocean churning
+- **surya**: identified_with; Altar tortoise identified with the sun
+
+### lakshmana  (15 gods)
+- **sita**: allied, deceived_by, other, punished, served; Abandonment near Vālmīki’s hermitage; Fire entry; Forest exile; Mārīca’s false cry
+- **hanuman**: allied, rescued_by; Ahi-ravana’s underworld sacrifice; Alliance with Sugriva; Mahirāvaṇa’s underworld; Medicinal mountain rescue
+- **ravana**: fought, killed, punished_by; Jain Lanka war; Jain Vāsudeva–Prativāsudeva combat; Ravana’s spear wound; War for Laṅkā
+- **rama**: allied, identified_with, served, sibling_of; Eighth Baladeva–Vāsudeva pairing; Exile and Laṅkā war; Exile, forest guardianship, and Lanka war
+- **garuda**: rescued_by; Release from Indrajit's serpent weapon; Release from the nāgāstra
+- **indra**: rescued_by, shared_myth; Lakshmana’s divine translation; Restoration of the dead vānaras
+- **jatayu**: served, served_by; Jatāyu’s death and funeral; Meeting and pledge at Pañcavaṭī
+- **rakshasas**: killed, punished; Death of Indrajit; Mutilation of Śūrpaṇakhā
+- **shesha_ananta**: identified_with; Śeṣa descends as Rāma’s younger brother; Śeṣa incarnates as Lakshmana
+- **agni**: shared_myth; Sita’s fire ordeal
+- **balarama**: rescued_by; Threatened destruction of Hastināpura
+- **brahma**: shared_myth; Revelation of Rama’s divinity
+- **parashurama**: shared_myth; Paraśurāma’s challenge after Mithila
+- **vishnu**: identified_with; Divine birth of Daśaratha’s sons
+- **vithoba**: other
+
+### lakshmi  (38 gods)
+- **vishnu**: allied, consort_of, gift, served, shared_myth; Churning of the Milk Ocean; Churning of the milk ocean; Lakṣmī as Nārāyaṇa’s eternal śakti; Śrīvaiṣṇava mediation of grace
+- **jagannath**: consort_of, contest, punished; Hera Pañcamī; Lakṣmī and Śriyā
+- **saraswati**: contest, punished, punished_by; Divine co-wives’ quarrel; Goddesses’ household quarrel; Mutual river curses
+- **ganesha**: consort_of, shared_myth; Auspicious commerce and Diwali worship; Diwali Lakṣmī Pūjā; Lakṣmī-Gaṇapati imagery
+- **radha**: contest, created_by, identified_with; Lakṣmī sighs while celestial women praise Radha
+- **uchchaihshravas**: shared_myth, sibling_of; Joint emergence from the churned ocean; Lakṣmī becomes entranced by the horse
+- **airavata**: shared_myth; Churning of the milk ocean; Durvāsas’s garland and Śrī’s withdrawal
+- **annapurna**: identified_with, shared_myth; Lakṣmī advises the begging Śiva
+- **balarama**: consort_of, gift; Bath after dragging Yamunā; Revati accompanies Balarāma
+- **chandra_soma**: gift, shared_myth; Churning of the Milk Ocean; Redistribution of Śrī’s powers
+- **dattatreya**: consort_of, shared_myth; Daityas abduct Lakṣmī; Lakṣmī, wine, and the Daityas
+- **dhanvantari**: shared_myth; Churning of the Milk Ocean; Churning of the ocean
+- **durga**: child_of, identified_with
+- **ganga**: contest, shared_myth; Divine co-wives’ curse narrative; Quarrel of Viṣṇu’s wives
+- **hayagriva**: consort_of, punished; Viṣṇu’s beheading and restoration
+- **indra**: shared_myth; Indra seeks Śrī as royal fortune; Withdrawal and return of royal fortune
+- **kubera**: shared_myth; Diwali wealth worship; Joint prosperity rites
+- **kurma**: consort_of, shared_myth; Lakṣmī emerges and chooses Viṣṇu
+- **narasimha**: consort_of, shared_myth; Wrath after Hiraṇyakaśipu’s death
+- **prithvi**: identified_with, shared_myth; Fellow consorts beside Viṣṇu
+- **sita**: identified_with; Lakṣmī accompanies Viṣṇu’s Rāma incarnation
+- **tulsi**: contest, identified_with; Tulsi and Lakṣmī compared as Viṣṇu’s beloveds
+- **agni**: gift; Redistribution of Śrī’s powers
+- **bali**: shared_myth; Fortune departs Bali
+- **brahma**: shared_myth; Churning of the Milk Ocean
+- **kalki**: consort_of; Marriage to Padmāvatī in Siṃhala
+- **kama**: parent_of
+- **krishna**: identified_with
+- **mahishasura**: killed; Mahālakṣmī slays the buffalo demon
+- **narada**: shared_myth; Visits to Viṣṇu’s celestial realm
+- **prajapati**: created_by; Śrī emerges from Prajāpati’s creative heat
+- **rama**: consort_of; Sītā accompanies Rāma
+- **ravana**: other; Sītā’s abduction as divine offense
+- **shesha_ananta**: shared_myth; Lakṣmī attends Viṣṇu upon Śeṣa
+- **varaha**: consort_of; Lakṣmī-Varāha enthronement
+- **varuna**: gift; Lakṣmī’s oceanic consecration
+- **vishvakarman**: gift; Lakṣmī’s oceanic manifestation
+- **vithoba**: consort_of
+
+### mahavidyas  (11 gods)
+- **vishnu**: allied, consort_of, other, served_by, shared_myth; Bagalāmukhī stills the cosmic storm; Buddha-Viṣṇu teaches Tārā worship at Mahācīna; Kālī-Kāmākhyā enthroned above Viṣṇu’s lion; Viṣṇu preserves through Mahāvidyā power
+- **brahma**: other, served_by; Brahmā creates through Mahāvidyā power; Kālī-Kāmākhyā enthroned above Brahmā’s lotus; Tripurasundarī sits above five Brahmans
+- **parvati**: created_by, identified_with; Hungry Pārvatī swallows Śiva; Outcaste disguises generate Mātaṅgī; Pārvatī blocks ten exits with her forms
+- **kali**: created_by, identified_with; Kālī fills every direction as Śiva leaves; Tārā merges into Kālī
+- **bhairava**: consort_of
+- **daksha**: shared_myth; Dakṣa excludes Satī and Śiva from sacrifice
+- **durga**: created_by; Durgā produces forms against demons
+- **kama**: other; Chinnamastā stands upon copulating Kāma and Rati
+- **rati**: other; Chinnamastā stands upon copulating Kāma and Rati
+- **saraswati**: identified_with
+- **sati**: created_by; Satī manifests ten forms around Śiva
+
+### mahishasura  (15 gods)
+- **durga**: deceived_by, fought, killed_by, seduced_by; Battle after Mahiṣa's conquest of heaven; Indigenous king defeated through a woman's deception; Mahiṣāsuramardinī; The Goddess slays the shape-changing buffalo asura
+- **brahma**: gift, other; Boon protecting Mahiṣa from male killers; Creation of the Goddess from divine radiance; Mahiṣāsura's boon
+- **agni**: created_by, theft; Agni's boon leads to Mahiṣa's birth; Appropriation of the gods' offices
+- **indra**: fought, theft; Century-long war against Indra's gods; Usurpation of Indra's office
+- **parvati**: killed_by, other; Mahiṣa approaches the ascetic goddess; Warrior manifestation destroys Mahiṣa
+- **chandra_soma**: theft; Appropriation of the gods' offices
+- **kartikeya**: killed_by; Skanda kills a possibly identical Mahiṣa
+- **kubera**: other; Gods equip the Goddess for war
+- **lakshmi**: killed_by; Mahālakṣmī slays the buffalo demon
+- **raktabija**: allied
+- **shesha_ananta**: other; Gods equip the Goddess for war
+- **surya**: theft; Appropriation of the gods' offices
+- **varuna**: theft; Appropriation of the gods' offices
+- **vayu**: theft; Appropriation of the gods' offices
+- **vishnu**: other; Creation of the Goddess from divine radiance
+
+### mangala  (10 gods)
+- **brihaspati**: shared_myth; Celestial portents before the great war; Navagraha cultic grouping
+- **budha_graha**: other, shared_myth; Simile comparing paired warriors to two planets
+- **kartikeya**: identified_with, served
+- **andhaka**: shared_myth; Śiva’s battle with Andhaka
+- **brahma**: shared_myth; Brahmā’s divine assembly
+- **chandra_soma**: fought; Battle between Earth’s son and Soma
+- **navagraha**: shared_myth; Collective planetary installation and worship
+- **shani**: shared_myth; Navagraha cultic assembly
+- **shukra**: shared_myth; Navagraha rites and images
+- **surya**: other; Solar-centered layered cosmos
+
+### manu  (18 gods)
+- **brahma**: created_by, rescued_by, taught_by; Brahmā as fish saves Manu’s ship; Brahmā commands Manu to recreate beings; Brahmā emanates Svāyambhuva Manu; Brahmā teaches primordial dharma to Manu
+- **rudra**: child_of, other, shared_myth; Rudra invoked through Father Manu’s good fortune
+- **agni**: other, served_by; Agni performs sacrifice among Manu’s descendants; Manu establishes Agni as humanity’s ritual light
+- **chandra_soma**: shared_myth; Soma delivered from heaven; Soma flows for Manu’s primordial offering
+- **indra**: gift, shared_myth; Indra drinks pressed Soma with Manu; Manu’s Soma empowers Indra against Vṛtra
+- **matsya**: rescued_by, taught_by; Matsya saves Manu from cosmic dissolution; Matsya teaches Manu during Brahmā’s night
+- **surya**: child_of, taught_by; Vivasvat transmits Kṛṣṇa’s yoga to Manu
+- **adityas**: shared_myth; Ādityas invoked through Manu’s first sacrifice
+- **ashvins**: sibling_of
+- **hayagriva_asura**: created; Manu recreates beings after the flood
+- **prajapati**: created_by
+- **prithvi**: shared_myth; Pṛthu milks the cow Earth
+- **rama**: ancestor_of
+- **vasuki**: served_by; Vāsuki fastens Manu’s boat to Matsya
+- **vishvakarman**: child_of
+- **yakshas**: rescued; Dhruva’s war on the Yakshas
+- **yami**: sibling_of
+- **yamuna**: sibling_of
+
+### maruts  (16 gods)
+- **indra**: allied, contest, created_by, sibling_of; Agastya’s sacrifice and threatened rupture; Dismemberment of Diti’s fetus; Diti’s embryo divided into forty-nine; Diti’s embryo divided into seven
+- **agni**: allied; Agni comes surrounded by the Maruts; Joint invocation with the Maruts
+- **chandra_soma**: other, shared_myth; Soma drinking before battle; The Maruts drink Soma
+- **vayu**: child_of, shared_myth; Maruts born from Vāyu’s belly; Shared sacrificial and atmospheric invocations
+- **vishnu**: rescued_by, shared_myth; Forty-nine embryos survive Indra’s thunderbolt; The disputed Evayāmarut invocation
+- **vritra**: fought; Indra and the Maruts battle Vṛtra; Rigvedic Vṛtra combat
+- **aditi**: other
+- **adityas**: shared_myth; Divine hosts in the solar hierarchy
+- **aryaman**: allied; Collective protective invocation
+- **dyaus**: child_of
+- **kartikeya**: shared_myth; The gods assemble around Skanda
+- **nandi**: gift; Marriage to Suyaśā
+- **rudra**: child_of
+- **rudras**: identified_with; The storm troop
+- **shiva**: child_of
+- **vasus**: shared_myth; Assembly of the gods in heaven
+
+### matrikas  (16 gods)
+- **kartikeya**: allied, created_by, fought, parent_of, served; Adoption and nursing of Skanda; Attempted killing of the infant Skanda; Emanation of Kaumārī; Skanda incorporates the dangerous Mothers
+- **durga**: allied, identified_with, other; Battle against Raktabīja; Final duel with Śumbha
+- **andhaka**: fought; Control of Andhaka’s multiplying blood; The thousand Andhakas
+- **indra**: created_by, served; Commission to destroy Skanda; Emanation of Aindrī
+- **kali**: allied, identified_with; Interception of Raktabīja’s blood
+- **narasimha**: created_by, punished_by; Manifestation of Nārasiṃhī; Restraint of the ravenous Mothers
+- **shumbha_and_nishumbha**: fought; Campaign against Niśumbha; Campaign against Śumbha
+- **agni**: shared_myth; Guardians gathered around Skanda
+- **bhairava**: served
+- **brahma**: created_by; Emanation of Brāhmī
+- **ganesha**: shared_myth
+- **parvati**: identified_with
+- **raktabija**: killed; Slaying of Raktabīja
+- **saraswati**: allied; Śumbha-Niśumbha cycle
+- **varaha**: created_by; Manifestation of Vārāhī
+- **vishnu**: created_by; Emanation of Vaiṣṇavī
+
+### matsya  (9 gods)
+- **brahma**: gift, identified_with; Epic Matsyopākhyāna; Restoration of the stolen Vedas
+- **hayagriva_asura**: killed; Matsya recovers the stolen Vedas; Veda theft and recovery
+- **manu**: rescued, taught; Matsya saves Manu from cosmic dissolution; Matsya teaches Manu during Brahmā’s night
+- **chandra_soma**: shared_myth; Preservation through cosmic dissolution
+- **garuda**: served_by; Nagalapuram Matsya Jayanti procession
+- **hayagriva**: killed; Matsya recovers the stolen Vedas
+- **surya**: shared_myth; Preservation through cosmic dissolution
+- **vasuki**: served_by; Towing Satyavrata’s boat
+- **vishnu**: identified_with; Purāṇic identification of Matsya
+
+### mitra  (16 gods)
+- **varuna**: allied, shared_myth; Birth of Vasiṣṭha; Division of day and night; Joint maintenance of ṛta; Joint sovereignty over order and ritual
+- **ashvins**: shared_myth; Joint covenantal invocation; Mitanni treaty divine witnesses; Mitanni treaty witnesses
+- **bhaga**: allied, shared_myth; Dawn invocation; Enumeration of the Ādityas; Joint Āditya invocation
+- **surya**: identified_with, other; Eye of Mitra; The sun as divine eye
+- **aditi**: allied, child_of; Collective invocation for moral safety
+- **agni**: identified_with, served_by; Kindled Agni becomes Mitra; Summoning Mitra and Varuṇa
+- **aryaman**: allied; Divine governance of custom; Joint Āditya invocation
+- **daksha**: allied, shared_myth; Invocation of the Ādityas; Joint Āditya invocation
+- **savitr**: other, shared_myth; Āditya order complex
+- **adityas**: allied; Sovereign gods preserve order
+- **apsaras**: shared_myth; Birth complex of Vasiṣṭha and Agastya
+- **chandra_soma**: killed; Reluctant killing of Soma
+- **indra**: shared_myth; Mitanni treaty witnesses
+- **prithvi**: shared_myth; Protective invocation with Heaven and Earth
+- **vishnu**: shared_myth; Protective divine invocation
+- **yami**: shared_myth; Yama rejects Yamī’s proposal
+
+### nagas  (14 gods)
+- **garuda**: deceived_by, fought, served_by, sibling_of; Bird-serpent feud; Garuḍa and the amṛta; Garuḍa threatens Sumukha; Kāliya flees Garuḍa
+- **budha_graha**: judged_by, served, taught_by; Guardians of Buddha's relics; Mucalinda shelters the Buddha; Nāga kings receive instruction; The Nāga ordination candidate
+- **vishnu**: allied, served, shared_myth; Ananta's cosmic service; Churning of the ocean; Sacred ordering of Kashmir
+- **balarama**: identified_with; Balarāma's departure; Serpent-canopy assimilation
+- **brahma**: created_by, judged_by; Kadru's curse; Serpents arise from Brahmā's anger
+- **indra**: allied, theft; Takṣaka seeks Indra's refuge; The stolen amṛta
+- **ganga**: shared_myth; Descent at Mamallapuram
+- **hayagriva_asura**: allied; Churning of the ocean
+- **kali**: punished; Karkoṭaka transforms Nala
+- **kartikeya**: shared_myth; Southern serpent-cult fusion
+- **prithvi**: served; Earth rises to receive Sītā
+- **uchchaihshravas**: deceived; Nāgas disguise themselves as black tail-hairs
+- **varuna**: sibling_of
+- **vasuki**: allied; Resistance to the snake sacrifice
+
+### nandi  (19 gods)
+- **parvati**: contest, gift, shared_myth; Blessing of Nandin’s marriage; Nandin joins the divine wedding and household; Nandin’s appearance and coronation; Pārvatī seeks a guard independent of Śiva’s attendants
+- **andhaka**: allied, fought; Andhaka’s conversion; Defense of Pārvatī; War against Andhaka’s forces
+- **bhaga**: fought, punished; Destruction of Dakṣa’s sacrifice
+- **daksha**: fought, punished; Curse exchange at Dakṣa’s sacrifice; Exchange of curses
+- **kartikeya**: shared_myth, taught; Leadership of Śiva’s gaṇas; Teaching Śiva’s mysteries to Skanda
+- **ravana**: punished; Nandin curses Rāvaṇa at Kailāsa; Nandin’s curse at Kailāsa
+- **shukra**: fought, punished; Capture of Śukra during Andhaka’s war; Nandin captures Śukra
+- **vishnu**: created_by, gift; Nandikeśvara arises from Viṣṇu’s side; Nandin’s coronation
+- **brahma**: gift; Nandin’s coronation and marriage
+- **dattatreya**: shared_myth; Modern composite icon
+- **ganesha**: served; Gaṇeśa’s wars against demons
+- **hanuman**: identified_with; Later interpretation of Nandin’s monkey curse
+- **indra**: shared_myth; Śilāda seeks an immortal son
+- **maruts**: gift; Marriage to Suyaśā
+- **rakshasas**: punished; Nandin curses Rāvaṇa
+- **rudra**: served
+- **sati**: served; Life in Śiva’s household
+- **shiva**: served
+- **shumbha_and_nishumbha**: fought; Combat during Jālandhara’s war
+
+### narada  (25 gods)
+- **vishnu**: deceived_by, punished, served, shared_myth, taught_by; Divine messages and narrative missions; Nārada curses Viṣṇu after humiliation; Nārada experiences Māyā; Nārada visits Vishnu
+- **brahma**: child_of, created_by, punished_by, taught_by; Brahmā creates Nārada; Brahmā instructs Nārada; Nārada refuses Brahmā’s command to procreate; Nārada refuses procreation
+- **parvati**: contest, other, taught; Nārada advises Pārvatī to undertake tapas; Nārada provokes divine family contests; Pārvatī’s marriage to Śiva
+- **daksha**: punished_by; Nārada diverts Daksha’s sons; Renunciation of Dakṣa’s sons
+- **kama**: contest, shared_myth; Kāma attacks Nārada’s austerity; Nārada reveals Pradyumna’s identity
+- **kartikeya**: allied, taught_by; Nārada arranges Murukaṉ’s courtship of Valli; Sanatkumāra teaches Nārada about plenitude
+- **ravana**: other; Provocation toward Yama’s realm; Rāvaṇa’s challenge to Yama
+- **andhaka**: other; Movement toward Mandara
+- **chandra_soma**: other; Nārada and Parvata’s Soma hymns
+- **gandharvas**: contest; Rival divine musicians
+- **hiranyakashipu**: other; Prahlāda’s prenatal instruction
+- **hiranyaksha**: taught; Finding Hari
+- **indra**: other; Nārada Kāṇva’s hymn praises Indra
+- **kamsa**: other; Nārada reveals the concealed brothers’ identities
+- **kubera**: punished; Kubera’s sons become twin trees
+- **kurma**: served; Nārada directs King Śveta toward Kūrma
+- **lakshmi**: shared_myth; Visits to Viṣṇu’s celestial realm
+- **narasimha**: allied; Instruction of Prahlāda in the womb
+- **prajapati**: identified_with
+- **radha**: served; Nārada seeks and praises Radha-Krishna
+- **rama**: other; Nārada narrates Rāma’s life
+- **rati**: taught; Recognition of Pradyumna
+- **sati**: taught; Satī’s devotion to Śiva
+- **varaha**: shared_myth; Daitya destiny narratives
+- **vasus**: allied; Warning against the Prasvāpa weapon
+
+### narasimha  (21 gods)
+- **hiranyakashipu**: fought, killed; Battle in the Daitya assembly hall; Killing of Hiraṇyakaśipu; Pillar and threshold killing
+- **varaha**: identified_with, shared_myth; Deaths of the Daitya brothers; Simhachalam fusion; Varāha-Lakṣmī-Narasiṃha fusion
+- **brahma**: shared_myth; Brahmā’s boon and its circumvention; Gods approach the raging Narasimha
+- **indra**: allied, shared_myth; Gods appeal against Hiraṇyakaśipu; Wedding of Narasimha and Vāsantikā
+- **lakshmi**: consort_of, shared_myth; Wrath after Hiraṇyakaśipu’s death
+- **matrikas**: created, punished; Manifestation of Nārasiṃhī; Restraint of the ravenous Mothers
+- **rudra**: fought, shared_myth; Praise after Hiraṇyakaśipu’s death; Śarabha subdues raging Narasimha
+- **agni**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **garuda**: other; Ahobilam sacred geography
+- **hanuman**: identified_with; Pañcamukhī Hanuman
+- **jagannath**: identified_with; Nabakalebara consecration
+- **kali**: allied; Goddess host battles the demons
+- **kubera**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **narada**: allied; Instruction of Prahlāda in the womb
+- **raktabija**: fought; Expanded battle of Raktabīja
+- **shiva**: fought; Śarabha subdues Narasimha
+- **shumbha_and_nishumbha**: fought; Battle of the Mothers
+- **varuna**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **vayu**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **vishnu**: identified_with; Viṣṇu manifests as the man-lion
+- **vithoba**: other
+
+### navagraha  (4 gods)
+- **brahma**: served; Brahmā appoints the grahas to distribute results
+- **mangala**: shared_myth; Collective planetary installation and worship
+- **surya**: other
+- **vishnu**: served; Viṣṇu governs and subordinates the planetary powers
+
+### parashurama  (16 gods)
+- **ganesha**: fought, transformed; Breaking Gaṇeśa’s tusk; Paraśurāma breaks the tusk
+- **kalki**: served_by, taught; Education of Kalki; Kalki’s education in scripture and warfare; Paraśurāma requests sacrificial recompense
+- **dattatreya**: taught_by; Mystery of Tripurā; Śrīvidyā initiation
+- **rama**: contest; Challenge with Viṣṇu’s bow; Confrontation after Śiva’s bow
+- **rudra**: gift, taught_by; Gift of the axe; Training under Śiva
+- **varuna**: contest, gift; Reclamation of the western coast
+- **ayyappa**: other; Installation of the Sabarimala image
+- **balarama**: allied; Campaign from Gomanta
+- **brahma**: descendant_of
+- **indra**: shared_myth; Celestial assemblies and weapon gifts
+- **kamadhenu**: other; Cow seizure precipitates Paraśurāma’s campaigns
+- **kartikeya**: shared_myth; Paraśurāma visits Kailāsa
+- **lakshmana**: shared_myth; Paraśurāma’s challenge after Mithila
+- **parvati**: fought; After Gaṇeśa’s wounding
+- **vasus**: other; Celestial ending of the Bhīṣma duel
+- **vishnu**: identified_with
+
+### parvati  (39 gods)
+- **rudra**: consort_of, contest, gift, served, shared_myth; Annapūrṇā feeds the food-denying Śiva; Containment of the ocean poison; Pārvatī merges bodily with Śiva as Ardhanārīśvara; Pārvatī serves Śiva during his meditation
+- **ganesha**: created, parent_of, rescued, served_by; Creation of the door guardian; Guarding Pārvatī’s door; Pārvatī creates Gaṇeśa from her bodily substance; Pārvatī demands restoration of beheaded Gaṇeśa
+- **andhaka**: created, other, parent_of; Andhaka is entrusted to the divine couple; Attempted seizure of Pārvatī; Birth in cosmic darkness; Conversion on the trident
+- **ganga**: contest, shared_myth, sibling_of; Gaṅgā carries Śiva’s energy toward Skanda’s birth; Pārvatī resents Gaṅgā dwelling in Śiva’s hair; Rivalry over Śiva
+- **kali**: created, identified_with, transformed; Dark form departs from Pārvatī; Kālī emanates from the Goddess’s anger; Pārvatī becomes dark Kālikā after Kauśikī emerges
+- **nandi**: contest, gift, shared_myth; Blessing of Nandin’s marriage; Nandin joins the divine wedding and household; Nandin’s appearance and coronation; Pārvatī seeks a guard independent of Śiva’s attendants
+- **mahavidyas**: created, identified_with; Hungry Pārvatī swallows Śiva; Outcaste disguises generate Mātaṅgī; Pārvatī blocks ten exits with her forms
+- **narada**: contest, other, taught_by; Nārada advises Pārvatī to undertake tapas; Nārada provokes divine family contests; Pārvatī’s marriage to Śiva
+- **ravana**: punished, shared_myth; Expanded Kailāsa curse traditions; Rāvaṇa shakes Kailāsa and frightens Pārvatī; Shaking of Kailāsa
+- **agni**: punished, shared_myth; Agni carries Śiva’s energy toward Skanda’s birth; Interruption of Śiva and Pārvatī
+- **brahma**: other, shared_myth; Brahmā officiates at Pārvatī’s wedding; Umā reveals the vanished yakṣa as Brahman
+- **daksha**: contest, descendant_of; Satī confronts Dakṣa at his sacrifice
+- **durga**: created, identified_with; Kauśikī emerges from Pārvatī
+- **kama**: shared_myth; Awakening Śiva’s desire for Pārvatī; Kāma tries awakening Śiva’s desire for Pārvatī
+- **kartikeya**: gift, parent_of; Pārvatī gives Murukaṉ the vēl
+- **mahishasura**: killed, other; Mahiṣa approaches the ascetic goddess; Warrior manifestation destroys Mahiṣa
+- **rati**: other, rescued; Intercession after Kāma’s burning; Pārvatī helps occasion Kāma’s restoration
+- **saptarishi**: judged_by, served_by; Testing Pārvatī’s resolve; Śiva and Pārvatī’s marriage
+- **sati**: identified_with; Rebirth as Pārvatī; Satī is reborn as Himavat’s daughter Pārvatī
+- **shiva**: consort_of, identified_with; Ardhanārīśvara
+- **tarakasura**: other; Pārvatī becomes mother of Tāraka’s destined killer; Pārvatī’s marriage enables Tāraka’s future defeat
+- **tulsi**: created, deceived; Goddess enables Vṛndā’s delusion; Sacred plants arise from Vṛndā’s ashes
+- **vishnu**: shared_myth, sibling_of; Viṣṇu gives Pārvatī away as her ritual brother; Viṣṇu participates in Pārvatī’s divine wedding
+- **annapurna**: identified_with
+- **ayyappa**: shared_myth; Śiva encounters Mohinī
+- **budha_graha**: other; Ilā’s transformation in the divine grove
+- **gandharvas**: shared_myth; Wedding of Śiva and Pārvatī
+- **indra**: taught; Umā teaches Indra who won the gods’ victory
+- **kalki**: shared_myth; Śiva’s benefaction in Pārvatī’s presence
+- **kubera**: transformed; Kubera gazes improperly at Pārvatī
+- **matrikas**: identified_with
+- **parashurama**: fought; After Gaṇeśa’s wounding
+- **radha**: shared_myth; Parvati discusses and receives Radha-Krishna mysteries
+- **rakshasas**: shared_myth; Rāvaṇa shakes Kailāsa
+- **saraswati**: created; Emergence of Mahāsarasvatī
+- **shani**: other; Shani’s destructive gaze
+- **shumbha_and_nishumbha**: shared_myth; Emergence of Kauśikī
+- **vritra**: punished; Citraketu's curse
+- **yakshas**: served_by; Kubera’s Kailāsa entourage
+
+### prajapati  (34 gods)
+- **agni**: created, fought, identified_with, rescued_by; Agnicayana reconstruction; Creation of the divine eater; Creator escapes Agni as Death; Reconstruction of Prajāpati's altar-body
+- **indra**: allied, created, gift, taught; Doctrine of the self; Indra seeks knowledge of the self
+- **brahma**: created_by, identified_with; Creation of the plural Prajāpatis; Vedic creator consolidation
+- **dyaus**: identified_with, parent_of, seduced; Incest with Sky or Dawn; Prajāpati and the daughter called Sky
+- **rudra**: created, punished_by; Birth and naming of the crying child; Prajāpati's approach to his daughter; Rudra shoots the incestuous creator
+- **surya**: created, identified_with; Primordial offering produces the sun; Āditya-hṛdaya inclusivist hymn
+- **chandra_soma**: shared_myth; Prajāpati's temporal and sacrificial body; Reconstitution of Prajāpati
+- **hayagriva_asura**: parent_of, taught; Da, da, da
+- **kurma**: created_by, identified_with; Creation of living beings in tortoise form; Prajāpati assumes tortoise form and creates living beings
+- **saraswati**: created, rescued_by; Prajāpati and daughter Speech; Restoration through Speech
+- **shiva**: created, punished_by; Prajāpati’s sexual transgression
+- **tvashtar**: identified_with, shared_myth; Conception invocation
+- **ushas**: other, parent_of; Prajāpati violates his daughter
+- **varaha**: identified_with; Cosmogonic boar dive; Emūṣa raises Earth
+- **vishnu**: identified_with, other; Transfer of the creator's functions
+- **adityas**: shared_myth; Classification of the thirty-three gods
+- **ashvins**: taught; Divine transmission of medicine
+- **bhaga**: shared_myth; Removal of Rudra's dangerous dart
+- **brihaspati**: identified_with
+- **daksha**: identified_with
+- **dhanvantari**: other; Origin of Āyurveda
+- **ganesha**: other; Marriage to Siddhi and Buddhi
+- **kama**: created; Creator wills beings into existence
+- **kartikeya**: parent_of
+- **lakshmi**: created; Śrī emerges from Prajāpati’s creative heat
+- **manu**: created
+- **narada**: identified_with
+- **prithvi**: rescued; Boar raises Earth from primordial waters
+- **pushan**: shared_myth; Removal of Rudra's dangerous dart
+- **rudras**: shared_myth; The thirty-three gods
+- **saptarishi**: shared_myth; Prajāpati’s sacrificial cosmos
+- **savitr**: identified_with
+- **vasus**: parent_of
+- **vishvakarman**: identified_with; Sacrificial creator identification
+
+### prithvi  (19 gods)
+- **vishnu**: consort_of, descendant_of, rescued_by, shared_myth; Divine descent relieves Earth's burden; Viṣṇu strides across terrestrial spaces
+- **aditi**: identified_with, shared_myth; Cosmic invocations with Heaven and Earth
+- **agni**: other, sibling_of; Earth bears Agni
+- **indra**: consort_of, created_by; Indra establishes Heaven and Earth
+- **lakshmi**: identified_with, shared_myth; Fellow consorts beside Viṣṇu
+- **sita**: parent_of, rescued; Earth receives Sītā; Sītā emerges from the furrow
+- **tarakasura**: other, parent_of; After Kṛṣṇa kills Naraka
+- **varaha**: consort_of, rescued_by; Varāha raises Earth from cosmic waters; Varāha unites with rescued Earth
+- **brahma**: other; Earth complains of oppressive rulers
+- **chandra_soma**: created_by; Soma establishes Heaven and Earth
+- **dyaus**: consort_of; Heaven and Earth as cosmic parents
+- **hiranyaksha**: other; Hiraṇyākṣa submerges Earth
+- **manu**: shared_myth; Pṛthu milks the cow Earth
+- **mitra**: shared_myth; Protective invocation with Heaven and Earth
+- **nagas**: served_by; Earth rises to receive Sītā
+- **prajapati**: rescued_by; Boar raises Earth from primordial waters
+- **shesha_ananta**: served_by
+- **surya**: consort_of
+- **varuna**: shared_myth; Guardians of cosmic order
+
+### pushan  (15 gods)
+- **rudra**: other, punished_by; Dakṣa's sacrifice; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice; Pūṣan laughs during Śiva’s humiliation
+- **surya**: consort_of, identified_with, other, served; Divine union with Sūryā; Golden covering of truth; Messenger in golden ships; The sun’s golden wheel
+- **bhaga**: shared_myth; Dawn invocation; Destruction of Dakṣa’s sacrifice; Divine injuries at the broken sacrifice; Divine wedding
+- **indra**: allied, sibling_of; Pūṣan assists Indra; Winning cattle and wealth
+- **savitr**: allied, served, shared_myth; Funeral journey to the Fathers; Savitar commissions the path-knower; The perilous sacrificial portion
+- **chandra_soma**: allied; Generation and oversight of creatures; Joint cosmic guardianship
+- **daksha**: shared_myth; Destruction of Dakṣa’s sacrifice; Mutilation at Daksha’s sacrifice
+- **aditi**: child_of
+- **agni**: allied; Funeral journey to the Fathers
+- **aryaman**: allied; Wedding of Sūryā
+- **ashvins**: rescued_by; Treatment of Pūṣan's teeth
+- **brahma**: rescued_by; Restoration after Dakṣa’s sacrifice
+- **prajapati**: shared_myth; Removal of Rudra's dangerous dart
+- **tvashtar**: shared_myth; Preparing Soma for Indra
+- **vishnu**: sibling_of
+
+### radha  (15 gods)
+- **krishna**: consort_of, created_by, identified_with; Brahmā secretly marries the pair at Bhāṇḍīravana; Krishna blows cow-dust from Radhika’s face; Radha embodies Krishna’s intrinsic bliss potency; Radha emerges from Krishna’s left side in Goloka
+- **durga**: created, identified_with, sibling_of
+- **lakshmi**: contest, created, identified_with; Lakṣmī sighs while celestial women praise Radha
+- **tulsi**: punished, served_by; Rādhā expels Tulasi from Goloka; Tulasī’s fragrance perfumes Radha’s feet; Vṛndā arranges Rādhā-Kṛṣṇa meetings
+- **jagannath**: consort_of, shared_myth; Ratha Yatra as return to Vṛndāvana
+- **shiva**: served, shared_myth; Shiva discusses and receives Radha-Krishna mysteries; Shiva guards or seeks entry to the rāsa
+- **vithoba**: other, shared_myth; Rukmini sees Kṛṣṇa with Rādhā
+- **apsaras**: parent_of
+- **brahma**: other; Brahmā officiates Radha and Krishna’s secret marriage
+- **narada**: served_by; Nārada seeks and praises Radha-Krishna
+- **parvati**: shared_myth; Parvati discusses and receives Radha-Krishna mysteries
+- **saraswati**: created
+- **savitr**: created
+- **yami**: shared_myth; Rādhā and Kṛṣṇa beside Yamunā
+- **yamuna**: shared_myth; Krishna's Braj landscape
+
+### rahu  (13 gods)
+- **chandra_soma**: deceived, deceived_by, fought, sibling_of; Eclipses; Moon escapes Rāhu’s mouth; Rāhu exposed among the gods; Rāhu’s revenge against the Moon
+- **surya**: deceived, fought; Rāhu seizes Suriya; Rāhu’s revenge against the Sun; Svarbhānu darkens the Sun; Theft of amṛta
+- **vishnu**: punished_by; Purāṇic theft of nectar; Rāhu infiltrates the gods; Theft of amṛta and beheading
+- **bali**: served, shared_myth; Asura army attacks Vāmana; Asura forces surrounding Bali
+- **budha_graha**: punished_by; Buddha commands release of Candimā; Buddha commands release of Suriya
+- **ketu**: other, shared_myth; Rāhu and Ketu as divided body; Severed head and complementary tail form the nodal axis
+- **shukra**: shared_myth; Bali addresses Asura warriors; Navagraha rites and images
+- **brahma**: gift; Rāhu admitted among the grahas
+- **brihaspati**: shared_myth; Navagraha cultic grouping
+- **dhanvantari**: shared_myth; Distribution of the nectar
+- **indra**: fought; Svarbhānu darkens the Sun
+- **kurma**: shared_myth; Rāhu infiltrates the nectar distribution
+- **shani**: shared_myth; Navagraha cultic assembly
+
+### rakshasas  (17 gods)
+- **rama**: allied, killed_by, transformed_by; Cursed beings released through death; Defense of Viśvāmitra's sacrifice; Destruction of Janasthāna; The Laṅkā war
+- **brahma**: created_by, fought, gift; Boons to Rāvaṇa's family; Creation from Brahmā's night-body; Hungry beings rush upon Brahmā
+- **kubera**: served, sibling_of, theft; Rāvaṇa seizes Laṅkā and Puṣpaka
+- **sita**: allied, deceived, other; Sītā imprisoned in Laṅkā; Sītā's abduction; Trijaṭā comforts Sītā
+- **budha_graha**: allied, shared_myth; Conversion of rakkhasas; Rāvaṇa invites Buddha to Laṅkā
+- **indra**: fought; Meghanāda captures Indra; Vedic war at the sacrifice
+- **lakshmana**: killed_by, punished_by; Death of Indrajit; Mutilation of Śūrpaṇakhā
+- **agni**: fought; Vedic war at the sacrifice
+- **brihaspati**: fought; Atharvavedic protective charms
+- **chandra_soma**: fought; Vedic war at the sacrifice
+- **hanuman**: fought; Hanumān's mission in Laṅkā
+- **nandi**: punished_by; Nandin curses Rāvaṇa
+- **parvati**: shared_myth; Rāvaṇa shakes Kailāsa
+- **ratri**: other; Rākṣasas appropriate Brahmā’s dark body
+- **saraswati**: shared_myth; The river of blood
+- **savitr**: fought; Vedic expulsion of nocturnal evils
+- **yakshas**: sibling_of
+
+### raktabija  (7 gods)
+- **shumbha_and_nishumbha**: served; Battle against the Mothers; Śumbha commissions Raktabīja; Śumbha–Niśumbha war
+- **durga**: fought, killed_by; Defeat of Raktabīja
+- **kali**: fought; Containment of Raktabīja’s blood; Raktabīja’s multiplying blood
+- **mahishasura**: allied
+- **matrikas**: killed_by; Slaying of Raktabīja
+- **narasimha**: fought; Expanded battle of Raktabīja
+- **rudra**: gift; Rudra grants the blood boon
+
+### rama  (31 gods)
+- **sita**: allied, consort_of, judged, punished, rescued, sibling_of; Abandonment near Vālmīki’s hermitage; Choice of exile; Fire entry; Fire ordeal
+- **hanuman**: allied, gift, rescued_by, served_by; Hanumān’s mission; Mahirāvaṇa’s underworld; Medicinal mountain; Mission to find Sītā
+- **ravana**: fought, killed, shared_myth; Final battle in Laṅkā; Final duel at Laṅkā; Jain Laṅkā conflict; Jain universal-history pairing
+- **jatayu**: allied, rescued, served, served_by; Jatāyu attains Hari’s abode; Jatāyu pledges to guard Sītā; Jatāyu receives liberation; Jatāyu’s death and funeral
+- **rakshasas**: allied, killed, transformed; Cursed beings released through death; Defense of Viśvāmitra's sacrifice; Destruction of Janasthāna; The Laṅkā war
+- **brahma**: allied, descendant_of, other, taught_by; Divine plan against Rāvaṇa; Revelation after Sītā's fire ordeal; Revelation after Sītā’s ordeal
+- **lakshmana**: allied, identified_with, served_by, sibling_of; Eighth Baladeva–Vāsudeva pairing; Exile and Laṅkā war; Exile, forest guardianship, and Lanka war
+- **agni**: allied, other; Fire ordeal; Māyā-Sītā exchange; Sītā’s fire ordeal
+- **indra**: allied, gift, served_by; Final battle against Rāvaṇa; Final combat with Rāvaṇa; Restoration of the vānaras
+- **durga**: gift, other; Autumnal awakening before battle; Rāma’s autumn awakening
+- **gandharvas**: rescued; Liberation of Kabandha; Liberation of Virādha
+- **garuda**: rescued_by; Indrajit’s serpent weapons; Release from Indrajit's serpent weapon
+- **parashurama**: contest; Challenge with Viṣṇu’s bow; Confrontation after Śiva’s bow
+- **surya**: descendant_of, other; Āditya-hṛdaya before battle
+- **varuna**: contest; Petition for passage; Rāma threatens the sea
+- **budha_graha**: identified_with
+- **ganga**: shared_myth; Crossing during exile
+- **jagannath**: identified_with
+- **kalki**: consort_of
+- **kubera**: gift; Return of Puṣpaka
+- **lakshmi**: consort_of; Sītā accompanies Rāma
+- **manu**: descendant_of
+- **narada**: other; Nārada narrates Rāma’s life
+- **sampati**: served_by; Search for Sītā
+- **shesha_ananta**: served_by; Lakṣmaṇa attends Rāma through exile and war
+- **vasus**: identified_with; Rāma's cosmic manifestation
+- **vayu**: served_by; Hanumān accompanies and serves Rāma
+- **vishnu**: identified_with; Divine descent
+- **vishvakarman**: shared_myth; Rāma's journey in Pushpaka
+- **vithoba**: other
+- **yamuna**: shared_myth; Crossing the Yamuna during exile
+
+### rati  (9 gods)
+- **kama**: allied, consort_of, rescued, shared_myth, taught; Counter-magic against Śambara; Kāma’s burning and Rati’s lament; Lalitā restores Kāma; Mission against Śiva
+- **daksha**: created_by; Rati’s origin and marriage; Rati’s sweat-birth
+- **parvati**: other, rescued_by; Intercession after Kāma’s burning; Pārvatī helps occasion Kāma’s restoration
+- **brahma**: other; Rati’s origin and marriage
+- **mahavidyas**: other; Chinnamastā stands upon copulating Kāma and Rati
+- **narada**: taught_by; Recognition of Pradyumna
+- **rudra**: other; Kāma’s burning and promised restoration
+- **shiva**: other; Kāma’s restoration
+- **tarakasura**: other; Rati laments Kāma during the Tāraka crisis
+
+### ratri  (10 gods)
+- **brahma**: created_by, other; Brahmā praises Yoganidrā; Brahmā’s discarded dark body
+- **durga**: identified_with, shared_myth; Rātrī–Durgā ritual sequence
+- **ushas**: shared_myth, sibling_of; Dawn and Night alternate without collision
+- **bhaga**: other
+- **dyaus**: child_of
+- **kali**: identified_with
+- **rakshasas**: other; Rākṣasas appropriate Brahmā’s dark body
+- **savitr**: other
+- **vishnu**: other; Yoganidrā withdraws from Viṣṇu
+- **yakshas**: other; Yakṣas appropriate Brahmā’s dark body
+
+### ravana  (29 gods)
+- **rama**: fought, killed_by, shared_myth; Final battle in Laṅkā; Final duel at Laṅkā; Jain Laṅkā conflict; Jain universal-history pairing
+- **brahma**: descendant_of, gift, rescued_by, taught_by; Attempted attack on the Moon; Austerities and the divine boon; Battle with Yama; Rāvaṇa's conditional protection
+- **kubera**: fought, sibling_of, theft; Conquest of Laṅkā and Kailāsa; Rāvaṇa conquers Kubera; Seizure of Laṅkā and Puṣpaka; Seizure of Puṣpaka and Laṅkā
+- **lakshmana**: fought, killed_by, punished; Jain Lanka war; Jain Vāsudeva–Prativāsudeva combat; Ravana’s spear wound; War for Laṅkā
+- **sita**: other, parent_of, seduced, theft; Abduction of Sītā; Captivity in the aśoka grove; Coercion in the Aśoka grove; Golden deer and abduction
+- **jatayu**: fought, killed; Battle during Sītā’s abduction; Jatāyus attacks during Sītā’s abduction; Jatāyus is mortally wounded; Rāvaṇa cuts down Jatāyu
+- **hanuman**: fought, punished; Burning of Hanuman’s tail; Confrontation and burning of Laṅkā; Hanumān confronts Ravana in Laṅkā
+- **parvati**: punished_by, shared_myth; Expanded Kailāsa curse traditions; Rāvaṇa shakes Kailāsa and frightens Pārvatī; Shaking of Kailāsa
+- **sampati**: fought, other; Alleged battle after a Yakṣa woman’s abduction; Alleged non-aggression pact; Identification of Sītā’s abductor
+- **indra**: fought; Ravana’s invasion of heaven; Rāvaṇa’s campaign against heaven
+- **nandi**: punished_by; Nandin curses Rāvaṇa at Kailāsa; Nandin’s curse at Kailāsa
+- **narada**: other; Provocation toward Yama’s realm; Rāvaṇa’s challenge to Yama
+- **rudra**: gift, punished_by; Rāvaṇa praises Śiva beneath Kailāsa; Rāvaṇa shakes Kailāsa
+- **shiva**: gift, punished_by; Rāvaṇa lifts Kailāsa; Rāvaṇa’s penance and music
+- **vishnu**: killed_by; Rāma’s war against Rāvaṇa; Viṣṇu incarnates to defeat Ravana
+- **airavata**: fought; Rāvaṇa’s remembered celestial combat
+- **apsaras**: other; Rāvaṇa’s assault upon Rambhā
+- **budha_graha**: taught_by; Buddhist instruction in Laṅkā
+- **chandra_soma**: fought; Attempted attack on the Moon
+- **durga**: punished_by; Devī withdraws Ravana’s protection
+- **ganesha**: deceived_by; Gokarṇa Ātmaliṅga stratagem
+- **hiranyakashipu**: identified_with; Jaya–Vijaya cycle
+- **lakshmi**: other; Sītā’s abduction as divine offense
+- **shani**: punished; Imprisonment of the planets
+- **surya**: contest; Ravana challenges the Sun
+- **varuna**: contest; Challenge in Varuṇa’s domain
+- **vishvakarman**: theft; Seizure of Laṅkā and Pushpaka
+- **yakshas**: fought; Kubera, Rāvaṇa, and Laṅkā
+- **yamaraja**: fought; Rāvaṇa invades Yama’s domain
+
+### rudra  (45 gods)
+- **brahma**: child_of, contest, created, created_by, identified_with, judged, punished, shared_myth; Assembly recognizes Kṛṣṇa's supremacy; Bhairava severs Brahmā's fifth head; Brahmā derives from Śiva; False claim at the fiery column
+- **vishnu**: allied, contest, fought, gift, identified_with, judged, seduced_by, served, served_by, shared_myth; Battle against Bāṇa; Harihara fusion; Harihara synthesis; Infinite fiery liṅga
+- **ganesha**: created, fought, gift, killed, parent_of, rescued, transformed; Appointment as lord of hosts; Battle at Pārvatī’s door; Beheading of the door guardian; Boy born from Rudra’s laughter
+- **parvati**: consort_of, contest, gift, served_by, shared_myth; Annapūrṇā feeds the food-denying Śiva; Containment of the ocean poison; Pārvatī merges bodily with Śiva as Ardhanārīśvara; Pārvatī serves Śiva during his meditation
+- **sati**: consort_of, contest, created, shared_myth; Birth and marriage of Satī; Dakṣa's sacrifice; Dispute over attending Dakṣa’s sacrifice; Division of Śiva’s female power
+- **chandra_soma**: allied, fought, rescued, served_by; Candra's curse and crescent; Chandra’s penance at Prabhāsa; Joint healing invocation; Relief from Daksha’s curse
+- **ganga**: consort_of, other, punished, rescued; Birth of Skanda; Descent of Ganga; Gaṅgā's descent; Skanda's birth
+- **kama**: fought, killed, punished, rescued, transformed; Kāma attacks Śiva’s ascetic concentration; Kāma becomes Ananga; Kāma interrupts Śiva's meditation; Restoration of Kāma
+- **daksha**: fought, punished, rescued; Destruction of Daksha’s sacrifice; Destruction of Dakṣa's sacrifice; Goat-headed restoration; Restoration after the ruined sacrifice
+- **pushan**: other, punished; Dakṣa's sacrifice; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice; Pūṣan laughs during Śiva’s humiliation
+- **bhaga**: punished, shared_myth; Attack on the excluded sacrifice; Dakṣa's sacrifice; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice
+- **kubera**: allied, gift; Guṇanidhi’s elevation as Kubera; Kubera receives lordship of wealth; Kubera’s friendship with Śiva
+- **agni**: identified_with, other, served_by; Birth of Skanda; Skanda's birth
+- **dattatreya**: created, identified_with, taught; Birth from Atri and Anasūyā; Trimūrti embodiment; Śiva teaches magical rites
+- **hanuman**: created, identified_with, parent_of; Śaiva birth tradition; Śiva’s energy conveyed through Vāyu
+- **kali**: consort_of, identified_with, served; Complementary divine halves; Śiva beneath Kālī
+- **kartikeya**: gift, parent_of, taught_by; Skanda teaches Śiva the meaning of Oṃ; Śiva offers a fruit of knowledge
+- **manu**: other, parent_of, shared_myth; Rudra invoked through Father Manu’s good fortune
+- **prajapati**: created_by, punished; Birth and naming of the crying child; Prajāpati's approach to his daughter; Rudra shoots the incestuous creator
+- **savitr**: punished, shared_myth; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice; The perilous sacrificial portion
+- **bhairava**: created, identified_with; Decapitation of Brahmā's fifth head
+- **brihaspati**: allied, other; Dangerous sacrificial portion; Tārakāmaya war
+- **durga**: created, gift; Arming the Goddess; Formation of the combined Goddess
+- **indra**: allied, contest; Indra confronts Rudra-Śiva; Tripura and Skanda cycles
+- **narasimha**: fought, shared_myth; Praise after Hiraṇyakaśipu’s death; Śarabha subdues raging Narasimha
+- **parashurama**: gift, taught; Gift of the axe; Training under Śiva
+- **ravana**: gift, punished; Rāvaṇa praises Śiva beneath Kailāsa; Rāvaṇa shakes Kailāsa
+- **andhaka**: killed; Battle with multiplying Andhaka
+- **aryaman**: allied; Collective protective invocation
+- **ayyappa**: parent_of; Union of Śiva and Mohinī
+- **dyaus**: shared_myth; Rudra punishes the incestuous father
+- **kurma**: allied; Containing poison from the ocean churning
+- **maruts**: parent_of
+- **nandi**: served_by
+- **raktabija**: gift; Rudra grants the blood boon
+- **rati**: other; Kāma’s burning and promised restoration
+- **rudras**: parent_of
+- **saraswati**: other; Vāc bends Rudra’s bow
+- **shesha_ananta**: created_by; Rudra emerges from Śeṣa’s apocalyptic fire
+- **surya**: served_by
+- **tarakasura**: other; Śiva supplies the power producing Tāraka’s killer
+- **ushas**: other; Rudra avenges the violated daughter
+- **varuna**: shared_myth; Vedic divine assemblages
+- **vayu**: shared_myth; Rudra’s power is transmitted through Vāyu
+- **vithoba**: other
+
+### rudras  (11 gods)
+- **vasus**: shared_myth; Assembly of the gods in heaven; The thirty-three gods; Vedic divine catalogues
+- **adityas**: shared_myth; Classification of the thirty-three gods; The thirty-three gods
+- **brahma**: child_of, created_by; The crying child and elevenfold division
+- **indra**: allied, shared_myth; Storm and battle hymns; The thirty-three gods
+- **aditi**: child_of
+- **daksha**: descendant_of
+- **hanuman**: identified_with; Hanumān as the eleventh Rudra
+- **maruts**: identified_with; The storm troop
+- **prajapati**: shared_myth; The thirty-three gods
+- **rudra**: child_of
+- **vishnu**: allied; Demonic combat
+
+### sampati  (9 gods)
+- **jatayu**: contest, other, rescued, shared_myth, sibling_of; Brothers race toward the sun; Flight toward the Sun; Mourning and water offerings; Visits to Niśākara
+- **ravana**: fought, other; Alleged battle after a Yakṣa woman’s abduction; Alleged non-aggression pact; Identification of Sītā’s abductor
+- **garuda**: child_of, other
+- **surya**: child_of, other; Flight toward the Sun
+- **brahma**: gift; Restoration of Sampāti’s wings
+- **hanuman**: taught; Search for Sītā
+- **rama**: served; Search for Sītā
+- **sita**: other; Locating Sītā in Laṅkā
+- **varuna**: child_of
+
+### saptarishi  (10 gods)
+- **agni**: identified_with, shared_myth; Birth of Skanda; Seven-potsherd offering
+- **indra**: served; Envoys for Śiva’s marriage; Indra’s celestial assembly
+- **parvati**: judged, served; Testing Pārvatī’s resolve; Śiva and Pārvatī’s marriage
+- **brahma**: created_by; Brahmā’s mind-born sons
+- **ganga**: shared_myth; Division and escort of Gaṅgā
+- **kartikeya**: shared_myth; Birth of Skanda
+- **prajapati**: shared_myth; Prajāpati’s sacrificial cosmos
+- **saraswati**: other; Naimiṣa sacrifice
+- **vishnu**: served; Circumambulation of Viṣṇu’s station
+- **vishvakarman**: allied; Primordial cosmic sacrifice
+
+### saraswati  (29 gods)
+- **brahma**: allied, consort_of, created_by, seduced_by; Brahmā desires daughter Speech; Brahmā produces Vāc; Creation and pursuit of the goddess; Sarasvatī distorts Kumbhakarṇa's request
+- **ganga**: contest, punished, punished_by, shared_myth; Goddesses’ household quarrel; Invocation of the rivers; Mutual river curses; Quarrel of Viṣṇu’s wives
+- **lakshmi**: contest, punished, punished_by; Divine co-wives’ quarrel; Goddesses’ household quarrel; Mutual river curses
+- **ashvins**: allied; Healing and restorative offerings; Joint healing of Indra
+- **durga**: child_of, identified_with
+- **ganesha**: shared_myth; Invocation before literary acts; Opening invocations
+- **prajapati**: created_by, rescued; Prajāpati and daughter Speech; Restoration through Speech
+- **shumbha_and_nishumbha**: fought, killed; Śumbha-Niśumbha cycle
+- **vishnu**: consort_of, shared_myth; Quarrel in Viṣṇu’s household; Regional sculptural ensembles
+- **agni**: shared_myth; Fire sacrifice
+- **balarama**: shared_myth; Balarāma’s Sarasvatī pilgrimage
+- **bali**: allied; Three powers of Devī
+- **budha_graha**: served; Protection of the Golden Light Sūtra
+- **chandra_soma**: shared_myth; Soma liturgies
+- **daksha**: shared_myth; Mutilation at Daksha’s sacrifice
+- **indra**: allied; Vedic power and victory rites
+- **mahavidyas**: identified_with
+- **matrikas**: allied; Śumbha-Niśumbha cycle
+- **parvati**: created_by; Emergence of Mahāsarasvatī
+- **radha**: created_by
+- **rakshasas**: shared_myth; The river of blood
+- **rudra**: other; Vāc bends Rudra’s bow
+- **saptarishi**: other; Naimiṣa sacrifice
+- **tulsi**: contest; Viṣṇu’s wives exchange curses
+- **vamana**: gift; Vāmana’s ceremonial initiation
+- **varuna**: shared_myth; Joint ritual contexts
+- **vritra**: shared_myth; Sautrāmaṇī restoration of Indra
+- **yami**: shared_myth; The triveṇī at Prayāga
+- **yamuna**: shared_myth; Triveṇī Saṅgam at Prayāga
+
+### sati  (15 gods)
+- **rudra**: consort_of, contest, created_by, shared_myth; Birth and marriage of Satī; Dakṣa's sacrifice; Dispute over attending Dakṣa’s sacrifice; Division of Śiva’s female power
+- **daksha**: child_of, contest, other, punished_by, shared_myth; Daksha’s sacrifice and Satī’s death; Dakṣa’s birth bargain; Insult at Dakṣa’s sacrifice; Posthumous reconciliation
+- **bali**: created, served_by; Destruction of Dakṣa’s sacrifice; Emanation from Satī’s anger
+- **brahma**: descendant_of, other; Arrangement of Satī’s marriage
+- **kali**: identified_with, shared_myth; Creation of the Kalighat śaktipīṭha; Manifestation of the ten Mahāvidyās
+- **parvati**: identified_with; Rebirth as Pārvatī; Satī is reborn as Himavat’s daughter Pārvatī
+- **shiva**: consort_of, shared_myth; Dakṣa’s sacrifice
+- **vishnu**: allied, transformed_by; Dismemberment of Satī’s corpse; Divine plan for Śiva’s marriage
+- **agni**: transformed_by; Satī enters the sacrificial fire
+- **durga**: identified_with; Satī–Pārvatī–Durgā synthesis
+- **ganesha**: consort_of
+- **kama**: allied; Plan to engage Śiva
+- **mahavidyas**: created; Satī manifests ten forms around Śiva
+- **nandi**: served_by; Life in Śiva’s household
+- **narada**: taught_by; Satī’s devotion to Śiva
+
+### savitr  (23 gods)
+- **bhaga**: allied, shared_myth; Distribution of desirable goods; Divine wedding; The perilous sacrificial portion
+- **pushan**: allied, served_by, shared_myth; Funeral journey to the Fathers; Savitar commissions the path-knower; The perilous sacrificial portion
+- **rudra**: punished_by, shared_myth; Dangerous sacrificial portion; Destruction of Dakṣa’s sacrifice; The perilous sacrificial portion
+- **aryaman**: allied, other; Savitr’s irresistible command; Wedding of Sūryā
+- **brahma**: consort_of, punished; Sāvitrī's curse at Pushkar
+- **chandra_soma**: other, parent_of; Impulsion of Soma rites
+- **mitra**: other, shared_myth; Āditya order complex
+- **surya**: identified_with, other; Savitr directs Sūrya’s movement
+- **varuna**: shared_myth; Coordination within cosmic order; Joint Āditya theology
+- **aditi**: child_of
+- **adityas**: other
+- **agni**: allied; Joint protection and ritual efficacy
+- **ashvins**: shared_myth; Sūryā's wedding
+- **brihaspati**: gift; Safe reception of the perilous portion
+- **daksha**: shared_myth; Injuries at the excluded sacrifice
+- **gandharvas**: shared_myth; Impulsion and purification of sacrifice
+- **indra**: other; Savitr’s irresistible ordinance
+- **prajapati**: identified_with
+- **radha**: created_by
+- **rakshasas**: fought; Vedic expulsion of nocturnal evils
+- **ratri**: other
+- **tvashtar**: identified_with
+- **vayu**: allied; Protection of the living world
+
+### shani  (16 gods)
+- **hanuman**: fought, gift, rescued_by; Promise to spare Hanuman’s devotees; Release from Rāvaṇa’s prison; Shani crushed by Hanuman’s tail
+- **surya**: child_of, shared_myth; Navagraha cultic assembly
+- **ashvins**: sibling_of
+- **brahma**: shared_myth; Ganesha’s birth celebration
+- **brihaspati**: shared_myth; Navagraha cultic assembly
+- **budha_graha**: shared_myth; Navagraha cultic assembly
+- **chandra_soma**: shared_myth; Navagraha cultic assembly
+- **ganesha**: other; Shani’s destructive gaze
+- **ketu**: shared_myth; Navagraha cultic assembly
+- **mangala**: shared_myth; Navagraha cultic assembly
+- **parvati**: other; Shani’s destructive gaze
+- **rahu**: shared_myth; Navagraha cultic assembly
+- **ravana**: punished_by; Imprisonment of the planets
+- **shukra**: shared_myth; Navagraha cultic assembly
+- **vishnu**: shared_myth; Restoration of Ganesha
+- **yamuna**: sibling_of
+
+### shesha_ananta  (18 gods)
+- **vasuki**: allied, identified_with, shared_myth, sibling_of; Churning of the ocean; Nāgas receive Balarāma’s returning serpent essence
+- **brahma**: gift, served, shared_myth; Brahmā commissions Śeṣa to stabilize earth; Brahmā rewards Śeṣa’s austerities; Lotus-born Brahmā appears above reclining Viṣṇu
+- **garuda**: allied, shared_myth, sibling_of; Garuḍa assists Śeṣa in bearing the world; Viṣṇu's celestial entourage
+- **vishnu**: identified_with, served; Cosmic sleep between creations; Viṣṇu reclines upon Śeṣa during cosmic suspension
+- **balarama**: identified_with; Balarāma returns to thousand-headed serpent form; Serpent departure
+- **lakshmana**: identified_with; Śeṣa descends as Rāma’s younger brother; Śeṣa incarnates as Lakshmana
+- **varuna**: gift, shared_myth; Varuṇa receives Balarāma’s serpent essence; Varuṇa sends Vāruṇī to Balarāma
+- **yamuna**: gift, punished; Balarāma drags the disobedient Yamunā; Yamunā submits and gives Balarāma gifts
+- **ashtadikpala**: other
+- **krishna**: shared_myth; Divine descent through Balarāma
+- **kurma**: allied; Preparing Mandara for the ocean churning
+- **lakshmi**: shared_myth; Lakṣmī attends Viṣṇu upon Śeṣa
+- **mahishasura**: other; Gods equip the Goddess for war
+- **prithvi**: served
+- **rama**: served; Lakṣmaṇa attends Rāma through exile and war
+- **rudra**: created; Rudra emerges from Śeṣa’s apocalyptic fire
+- **sita**: served; Lakṣmaṇa serves Sītā during Rāma’s exile
+- **varaha**: served; Varāha stands upon Śeṣa
+
+### shiva  (25 gods)
+- **andhaka**: killed, parent_of, rescued; Conversion of Andhaka; Slaying of Andhaka
+- **brahma**: created_by, judged, punished; Decapitation of Brahmā; Liṅgodbhava
+- **ganesha**: killed, parent_of, rescued; Gaṇeśa’s beheading; Gaṇeśa’s restoration
+- **kali**: allied, contest, identified_with; Battlefield cooperation; Dance competition; Śiva-Kālī theological identity
+- **vishnu**: allied, contest, identified_with; Harihara; Joint battles against demons; Liṅgodbhava
+- **agni**: allied, other; Birth of Skanda; Destruction of Tripura
+- **bhairava**: created, identified_with; Emanation of Bhairava
+- **daksha**: punished, rescued; Dakṣa’s sacrifice
+- **durga**: consort_of, identified_with; Śiva as Durgā’s incorporated power
+- **ganga**: consort_of, other; Descent of Gaṅgā
+- **indra**: allied, fought; Conflicts with Indra; Divine appeals and battles
+- **kama**: killed, rescued; Kāma’s burning; Kāma’s restoration
+- **parvati**: consort_of, identified_with; Ardhanārīśvara
+- **prajapati**: created_by, punished; Prajāpati’s sexual transgression
+- **radha**: served_by, shared_myth; Shiva discusses and receives Radha-Krishna mysteries; Shiva guards or seeks entry to the rāsa
+- **ravana**: gift, punished; Rāvaṇa lifts Kailāsa; Rāvaṇa’s penance and music
+- **sati**: consort_of, shared_myth; Dakṣa’s sacrifice
+- **ayyappa**: parent_of; Birth from Śiva and Mohinī
+- **budha_graha**: shared_myth; Hide-and-seek with Buddha
+- **chandra_soma**: rescued; Cure of the waning moon
+- **kartikeya**: parent_of
+- **maruts**: parent_of
+- **nandi**: served_by
+- **narasimha**: fought; Śarabha subdues Narasimha
+- **rati**: other; Kāma’s restoration
+
+### shukra  (16 gods)
+- **bali**: punished, rescued, served, taught; Bali rejects Śukra’s warning; Bali seeks self-knowledge; Bali’s restoration; Completion of Bali’s sacrifice
+- **brihaspati**: contest, deceived_by, shared_myth; Bṛhaspati impersonates Śukra; Impersonation of Śukra; Navagraha cultic grouping; Navagraha rites and images
+- **vamana**: contest, fought, punished_by; Vāmana blinds Śukra’s eye; Vāmana pierces Śukra’s obstructing eye; Śukra opposes Vāmana’s three-step request; Śukra opposes the three-paces gift
+- **indra**: allied, contest, deceived_by; Indra sends Jayantī during Śukra’s austerity; Priestly rivalry between Devas and Asuras; Uśanas acts or rejoices with Indra
+- **andhaka**: allied, served; Revival of the daitya army; Śukra revives Andhaka’s fallen forces
+- **chandra_soma**: allied, shared_myth; Navagraha rites and images; Tārakāmaya war
+- **hayagriva_asura**: rescued, served; Śukra revives fallen Asuras
+- **nandi**: fought, punished_by; Capture of Śukra during Andhaka’s war; Nandin captures Śukra
+- **rahu**: shared_myth; Bali addresses Asura warriors; Navagraha rites and images
+- **budha_graha**: shared_myth; Navagraha rites and images
+- **ketu**: shared_myth; Navagraha rites and images
+- **kubera**: theft; Śukra steals Kubera’s wealth
+- **mangala**: shared_myth; Navagraha rites and images
+- **shani**: shared_myth; Navagraha cultic assembly
+- **surya**: shared_myth; Navagraha rites and images
+- **vishnu**: other; Viṣṇu kills Kavyamātā
+
+### shumbha_and_nishumbha  (16 gods)
+- **durga**: contest, fought, killed_by; Battle with Niśumbha; Deaths of Niśumbha and Śumbha; Final duel with Śumbha; The demons’ marriage demand
+- **kali**: fought; War against Niśumbha; War against the Goddess’s manifestations; War against Śumbha; Śumbha temporarily defeats Kālī
+- **raktabija**: served_by; Battle against the Mothers; Śumbha commissions Raktabīja; Śumbha–Niśumbha war
+- **brahma**: gift; Boon of invulnerability to males; Conditional boon after austerities
+- **matrikas**: fought; Campaign against Niśumbha; Campaign against Śumbha
+- **saraswati**: fought, killed_by; Śumbha-Niśumbha cycle
+- **agni**: theft; Conquest of heaven
+- **chandra_soma**: theft; Conquest of heaven
+- **indra**: theft; Conquest of heaven
+- **kubera**: theft; Conquest of heaven
+- **nandi**: fought; Combat during Jālandhara’s war
+- **narasimha**: fought; Battle of the Mothers
+- **parvati**: shared_myth; Emergence of Kauśikī
+- **surya**: theft; Conquest of heaven
+- **varuna**: theft; Conquest of heaven
+- **vayu**: theft; Conquest of heaven
+
+### sita  (16 gods)
+- **rama**: allied, consort_of, judged_by, punished_by, rescued_by, sibling_of; Abandonment near Vālmīki’s hermitage; Choice of exile; Fire entry; Fire ordeal
+- **lakshmana**: allied, deceived, other, punished_by, served_by; Abandonment near Vālmīki’s hermitage; Fire entry; Forest exile; Mārīca’s false cry
+- **ravana**: child_of, other, seduced_by, theft; Abduction of Sītā; Captivity in the aśoka grove; Coercion in the Aśoka grove; Golden deer and abduction
+- **agni**: judged_by, rescued_by; Fire entry; Māyā-Sītā substitution; Sītā’s fire ordeal
+- **hanuman**: allied, gift, rescued_by; Discovery in the aśoka grove; Hanumān offers escape from Lanka; Meeting in the aśoka grove
+- **jatayu**: rescued_by, served_by; Attempted rescue during her abduction; Guardianship at Pañcavaṭī; Rāvaṇa’s aerial abduction
+- **rakshasas**: allied, deceived_by, other; Sītā imprisoned in Laṅkā; Sītā's abduction; Trijaṭā comforts Sītā
+- **brahma**: shared_myth; Agni returns Sītā; Divine witness after the fire ordeal
+- **indra**: consort_of, gift; Indra visits captive Sītā
+- **lakshmi**: identified_with; Lakṣmī accompanies Viṣṇu’s Rāma incarnation
+- **prithvi**: child_of, rescued_by; Earth receives Sītā; Sītā emerges from the furrow
+- **vishnu**: consort_of, rescued_by; War to recover Sītā
+- **kali**: identified_with; Sītā’s martial manifestation
+- **sampati**: other; Locating Sītā in Laṅkā
+- **shesha_ananta**: served_by; Lakṣmaṇa serves Sītā during Rāma’s exile
+- **yamuna**: served; Sītā's vow at the Yamuna
+
+### surya  (53 gods)
+- **ashvins**: consort_of, parent_of, shared_myth; Birth of the divine twins; Equine conception of the Aśvins; Later marriage of Sūryā; Sūryā's wedding and bridal journey
+- **indra**: contest, created_by, fought, rescued_by, theft; Divine fathers protect rival sons; Indra finds or raises the sun; Indra strikes Sūrya’s wheel; Restoration of sunlight
+- **pushan**: consort_of, identified_with, other, served_by; Divine union with Sūryā; Golden covering of truth; Messenger in golden ships; The sun’s golden wheel
+- **chandra_soma**: allied, consort_of, created_by, shared_myth; Indra and Soma raise the sun; Rāhu exposed among the gods; Solar replenishment of the moon; Sūryā’s ritual marriage sequence
+- **hanuman**: other, shared_myth, taught; Childhood leap at the sun; Hanumān leaps toward the sun; Hanumān studies beside the moving sun; Lessons beside the moving sun
+- **rahu**: deceived_by, fought; Rāhu seizes Suriya; Rāhu’s revenge against the Sun; Svarbhānu darkens the Sun; Theft of amṛta
+- **agni**: identified_with, other; Agnihotra identified with the sun; Eye and celestial fire
+- **mitra**: identified_with, other; Eye of Mitra; The sun as divine eye
+- **prajapati**: created_by, identified_with; Primordial offering produces the sun; Āditya-hṛdaya inclusivist hymn
+- **varuna**: other, served_by; Aruṇa drives the solar chariot; Establishment of the sun’s path; Eye of Varuṇa
+- **aditi**: child_of; Mārtaṇḍa rejected and recalled
+- **aryaman**: allied; Clearing the Sun’s roads; Wedding of Sūryā
+- **dyaus**: child_of, shared_myth; Sun travels between the world-parents
+- **jatayu**: shared_myth; Worship at Vaitheeswaran Koil; Youthful flight toward the sun
+- **ketu**: fought, other; Later Ketu afflicts the Sun; Sun exposes the disguised nectar-drinker
+- **manu**: parent_of, taught; Vivasvat transmits Kṛṣṇa’s yoga to Manu
+- **rama**: ancestor_of, other; Āditya-hṛdaya before battle
+- **sampati**: other, parent_of; Flight toward the Sun
+- **savitr**: identified_with, other; Savitr directs Sūrya’s movement
+- **shani**: parent_of, shared_myth; Navagraha cultic assembly
+- **ushas**: other, seduced; The Sun follows the Dawn; Uṣas opens the Sun's path
+- **vayu**: other, shared_myth; Hanumān seeks instruction from Sūrya; Sun and wind form cosmic counterparts
+- **vishnu**: created_by, identified_with; Indra and Viṣṇu establish Sūrya
+- **vishvakarman**: transformed_by; Trimming the Sun's radiance; Viśvakarman pares Sūrya’s radiance
+- **adityas**: identified_with
+- **ashtadikpala**: other
+- **bhaga**: other; Marriage of Sūryā and the Aśvins
+- **brahma**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **brihaspati**: shared_myth; Navagraha cultic grouping
+- **dhanvantari**: taught; Transmission of medical knowledge
+- **gandharvas**: gift; Transfer of Soma
+- **ganesha**: shared_myth
+- **garuda**: shared_myth; Aruṇa becomes Sūrya's charioteer
+- **kartikeya**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **krishna**: shared_myth; Syamantaka jewel episode
+- **kubera**: identified_with; Āditya-hṛdaya inclusivist hymn
+- **kurma**: identified_with; Altar tortoise identified with the sun
+- **mahishasura**: theft; Appropriation of the gods' offices
+- **mangala**: other; Solar-centered layered cosmos
+- **matsya**: shared_myth; Preservation through cosmic dissolution
+- **navagraha**: other
+- **prithvi**: consort_of
+- **ravana**: contest; Ravana challenges the Sun
+- **rudra**: served
+- **shukra**: shared_myth; Navagraha rites and images
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **uchchaihshravas**: identified_with; Conflation with Sūrya’s seven horses
+- **vamana**: taught; Vāmana’s ceremonial initiation
+- **vithoba**: other
+- **vritra**: other; Release of light and waters
+- **yamaraja**: parent_of
+- **yami**: parent_of
+- **yamuna**: parent_of
+
+### tarakasura  (15 gods)
+- **kartikeya**: fought, killed_by; Murukaṉ defeats Sūrapadman’s allied brother; Skanda kills Tāraka with the divine spear; Skanda kills Tāraka with the spear; Skanda leads the divine army against Tāraka
+- **brahma**: gift, other; Brahmā reveals how Tāraka can be defeated; Tāraka receives protective power after austerities
+- **kama**: other, shared_myth; Kāma awakens Śiva for the Tāraka crisis; Mission prompted by Tāraka’s threat
+- **parvati**: other; Pārvatī becomes mother of Tāraka’s destined killer; Pārvatī’s marriage enables Tāraka’s future defeat
+- **prithvi**: child_of, other; After Kṛṣṇa kills Naraka
+- **agni**: other; Agni carries the power producing Tāraka’s killer
+- **ganesha**: fought; Gaṇeśa assists Skanda in preliminary battles
+- **ganga**: other; Gaṅgā bears the power producing Tāraka’s killer
+- **indra**: fought; Tāraka conquers and subordinates the gods
+- **kamsa**: allied
+- **krishna**: killed_by; Slaying of Narakāsura
+- **rati**: other; Rati laments Kāma during the Tāraka crisis
+- **rudra**: other; Śiva supplies the power producing Tāraka’s killer
+- **varaha**: child_of
+- **vishnu**: fought; Viṣṇu joins the gods’ campaign against Tāraka
+
+### tulsi  (8 gods)
+- **vishnu**: consort_of, deceived_by, gift, punished, shared_myth, transformed_by; Tulasi becomes river and sacred plant; Tulasi curses Viṣṇu into stone; Tulasi ultimately joins Nārāyaṇa; Tulsi Vivah
+- **ganesha**: other, punished, punished_by; Gaṇeśa curses Tulsi; Gaṇeśa rejects Tulsi’s proposal; Tulsi curses Gaṇeśa
+- **radha**: punished_by, served; Rādhā expels Tulasi from Goloka; Tulasī’s fragrance perfumes Radha’s feet; Vṛndā arranges Rādhā-Kṛṣṇa meetings
+- **lakshmi**: contest, identified_with; Tulsi and Lakṣmī compared as Viṣṇu’s beloveds
+- **parvati**: created_by, deceived_by; Goddess enables Vṛndā’s delusion; Sacred plants arise from Vṛndā’s ashes
+- **brahma**: gift; Brahmā rewards Tulasi’s austerities
+- **ganga**: contest; Viṣṇu’s wives exchange curses
+- **saraswati**: contest; Viṣṇu’s wives exchange curses
+
+### tvashtar  (13 gods)
+- **indra**: fought, gift, theft; Creation of an Indra-slayer; Excluded Soma sacrifice; Indra seizes Tvaṣṭṛ’s Soma; Making of Indra’s vajra
+- **brihaspati**: created, gift; Preparation of the metal axe
+- **prajapati**: identified_with, shared_myth; Conception invocation
+- **vishnu**: shared_myth; Shaping of the embryo; The gods plan Vṛtra’s defeat
+- **vishvakarman**: child_of, identified_with
+- **vritra**: created, parent_of; Tvaṣṭṛ’s retaliatory sacrifice
+- **aditi**: child_of
+- **agni**: shared_myth; Āprī sacrificial liturgies
+- **ashvins**: ancestor_of
+- **brahma**: shared_myth; The gods plan Vṛtra’s defeat
+- **pushan**: shared_myth; Preparing Soma for Indra
+- **savitr**: identified_with
+- **yami**: ancestor_of
+
+### uchchaihshravas  (14 gods)
+- **brahma**: created_by, other, shared_myth; Counsel before the Churning of the Ocean; Distribution of cosmic lordships; Horse emerges from Brahmā’s sacrifice
+- **lakshmi**: shared_myth, sibling_of; Joint emergence from the churned ocean; Lakṣmī becomes entranced by the horse
+- **airavata**: shared_myth; Churning of the milk ocean; Exemplary horse and elephant emerge
+- **bali**: other, served; Bali acquires the celestial horse; Bali desires the moon-white horse
+- **garuda**: shared_myth; Wager causes Garuḍa’s amṛta quest; Wager over the divine horse
+- **indra**: served, shared_myth; Indra cools the ocean churning; Indra’s celestial mount
+- **kurma**: shared_myth; Kurma supports the churning mountain; Uccaiḥśravas emerges from the churning
+- **vishnu**: shared_myth; Churning of the Ocean; Kurma supports Mandara during the churning
+- **agni**: shared_myth; Kadru curses the disobedient nāgas
+- **dhanvantari**: shared_myth; Churning treasures emerge
+- **krishna**: identified_with; Krishna’s manifestations among supreme beings
+- **nagas**: deceived_by; Nāgas disguise themselves as black tail-hairs
+- **surya**: identified_with; Conflation with Sūrya’s seven horses
+- **vasuki**: shared_myth; Churning of the Ocean
+
+### ushas  (8 gods)
+- **ashvins**: parent_of, shared_myth; Arrival of the Aśvins at dawn
+- **prajapati**: child_of, other; Prajāpati violates his daughter
+- **ratri**: shared_myth, sibling_of; Dawn and Night alternate without collision
+- **surya**: other, seduced_by; The Sun follows the Dawn; Uṣas opens the Sun's path
+- **agni**: other; Agni is kindled at dawn
+- **dyaus**: child_of
+- **indra**: fought; Indra breaks Uṣas's wagon
+- **rudra**: other; Rudra avenges the violated daughter
+
+### vamana  (17 gods)
+- **bali**: deceived, gift, punished, served_by; Bali grants Vāmana three paces; Bali offers his head; Bali receives Sutala and future Indrahood; Bali’s binding and third step
+- **indra**: allied, rescued, sibling_of; Restoration of Indra’s sovereignty; Viṣṇu supports Indra through his expansive strides; Vāmana restores heaven
+- **shukra**: contest, fought, punished; Vāmana blinds Śukra’s eye; Vāmana pierces Śukra’s obstructing eye; Śukra opposes Vāmana’s three-step request; Śukra opposes the three-paces gift
+- **brahma**: gift, served_by; Brahmā washes Trivikrama’s elevated foot; Honoring Vāmana's cosmic stride; Vāmana’s ceremonial initiation
+- **ganga**: consort_of, created; Ganga as Viṣṇupadī; Gaṅgā arises from Trivikrama’s foot-water; Quarrel of Viṣṇu’s wives
+- **aditi**: child_of, rescued; Vāmana restores Aditi's displaced sons
+- **hayagriva_asura**: deceived, fought; Deva–Asura war surrounding Bali’s defeat; The dwarf sacrifice acquires the earth
+- **adityas**: rescued; Vāmana restores the dispossessed Ādityas
+- **brihaspati**: gift; Vāmana’s ceremonial initiation
+- **chandra_soma**: gift; Vāmana’s ceremonial initiation
+- **garuda**: served_by; Garuḍa binds Bali
+- **kartikeya**: shared_myth; Divine installation after Bali’s submission
+- **kubera**: gift; Vāmana’s ceremonial initiation
+- **saraswati**: gift; Vāmana’s ceremonial initiation
+- **surya**: taught_by; Vāmana’s ceremonial initiation
+- **varuna**: gift; Bali is bound with Varuṇa’s cords
+- **vishnu**: identified_with
+
+### varaha  (16 gods)
+- **hiranyaksha**: fought, killed; Death beside the rescued Earth; Death of Hiraṇyākṣa; Earth restoration and boar combat; Mace duel over Earth
+- **brahma**: contest, created_by, identified_with, shared_myth, taught_by; Boar emerges from Brahmā’s nostril; Brahmā becomes the creator-boar; Counsel before Hiraṇyākṣa’s death; Liṅgodbhava
+- **narasimha**: identified_with, shared_myth; Deaths of the Daitya brothers; Simhachalam fusion; Varāha-Lakṣmī-Narasiṃha fusion
+- **prajapati**: identified_with; Cosmogonic boar dive; Emūṣa raises Earth
+- **prithvi**: consort_of, rescued; Varāha raises Earth from cosmic waters; Varāha unites with rescued Earth
+- **vishnu**: allied, identified_with; Emuṣa episode; Vaiṣṇava assimilation of the cosmic boar
+- **garuda**: served_by; Transport of Varāha’s divine hill
+- **hanuman**: identified_with; Pañcamukhī Hanuman
+- **hiranyakashipu**: other; Death of Hiraṇyākṣa
+- **indra**: fought; Indra pierces Emuṣa
+- **lakshmi**: consort_of; Lakṣmī-Varāha enthronement
+- **matrikas**: created; Manifestation of Vārāhī
+- **narada**: shared_myth; Daitya destiny narratives
+- **shesha_ananta**: served_by; Varāha stands upon Śeṣa
+- **tarakasura**: parent_of
+- **varuna**: other; Varuṇa directs Hiraṇyākṣa toward Viṣṇu
+
+### varuna  (45 gods)
+- **mitra**: allied, shared_myth; Birth of Vasiṣṭha; Division of day and night; Joint maintenance of ṛta; Joint sovereignty over order and ritual
+- **agni**: allied, gift, served_by, shared_myth; Khāṇḍava forest conflagration; Summoning Varuṇa to sacrifice; Transfer of divine allegiance; Weapons for the Khāṇḍava burning
+- **indra**: allied, contest; Paired divine sovereignty; Rival models of rule; Transfer of divine allegiance
+- **surya**: other, served; Aruṇa drives the solar chariot; Establishment of the sun’s path; Eye of Varuṇa
+- **aditi**: allied, child_of; Release from bonds and guilt
+- **adityas**: served, shared_myth; Sovereign guardians preserve cosmic order; Ādityas consume the sun’s third nectar
+- **apsaras**: served_by, shared_myth; Birth complex of Vasiṣṭha and Agastya; Varuṇa’s aquatic celestial assembly
+- **aryaman**: allied; Divine governance of custom; Joint Āditya guardianship
+- **ashvins**: shared_myth; Joint covenantal invocation; Mitanni treaty divine witnesses
+- **bhaga**: shared_myth; Dawn invocation; Enumeration of the Ādityas
+- **kubera**: shared_myth; Guardians of the directions; World guardians and divine courts
+- **parashurama**: contest, gift; Reclamation of the western coast
+- **rama**: contest; Petition for passage; Rāma threatens the sea
+- **savitr**: shared_myth; Coordination within cosmic order; Joint Āditya theology
+- **shesha_ananta**: gift, shared_myth; Varuṇa receives Balarāma’s serpent essence; Varuṇa sends Vāruṇī to Balarāma
+- **yamaraja**: shared_myth; Kings of the other world; The gods seek Damayantī
+- **balarama**: gift; Varuṇī and Yamunā
+- **bali**: punished; Bali bound in Varuṇa’s cords
+- **brahma**: judged_by; Varuṇa’s complaints before the creator
+- **chandra_soma**: shared_myth; Succession of Gāṇḍīva’s possessors
+- **daksha**: shared_myth; Invocation of the Ādityas
+- **durga**: gift; Formation for the Mahiṣa war
+- **gandharvas**: other; Plant knowledge for Varuṇa
+- **garuda**: sibling_of
+- **hanuman**: gift; Childhood divine boons
+- **hiranyakashipu**: theft; Usurpation of divine offices
+- **hiranyaksha**: contest; Challenge at Vibhāvarī
+- **jatayu**: parent_of
+- **krishna**: rescued_by; Nanda in Varuṇa’s realm
+- **lakshmi**: gift; Lakṣmī’s oceanic consecration
+- **mahishasura**: theft; Appropriation of the gods' offices
+- **nagas**: sibling_of
+- **narasimha**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **prithvi**: shared_myth; Guardians of cosmic order
+- **ravana**: contest; Challenge in Varuṇa’s domain
+- **rudra**: shared_myth; Vedic divine assemblages
+- **sampati**: parent_of
+- **saraswati**: shared_myth; Joint ritual contexts
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **vamana**: gift; Bali is bound with Varuṇa’s cords
+- **varaha**: other; Varuṇa directs Hiraṇyākṣa toward Viṣṇu
+- **vayu**: shared_myth; Directional divine assemblies
+- **vishvakarman**: served_by; Construction of Varuṇa's assembly hall
+- **yami**: shared_myth; Yama rejects Yamī’s proposal
+- **yamuna**: shared_myth; Iconographic arrangement beside Varuṇa
+
+### vasuki  (16 gods)
+- **shesha_ananta**: allied, identified_with, shared_myth, sibling_of; Churning of the ocean; Nāgas receive Balarāma’s returning serpent essence
+- **kurma**: allied, served; Churning of the ocean; Churning the ocean around Mandara
+- **airavata**: sibling_of
+- **ashtadikpala**: other
+- **brahma**: taught_by; Remedy for Kadrū’s curse
+- **budha_graha**: shared_myth; Assembly at the Buddha’s sermon
+- **garuda**: fought; Flight from Garuda
+- **hayagriva_asura**: other; Churning of the ocean
+- **indra**: shared_myth; Churning of the ocean
+- **kartikeya**: rescued_by; Refuge from Garuda at Kukke
+- **manu**: served; Vāsuki fastens Manu’s boat to Matsya
+- **matsya**: served; Towing Satyavrata’s boat
+- **nagas**: allied; Resistance to the snake sacrifice
+- **uchchaihshravas**: shared_myth; Churning of the Ocean
+- **vayu**: contest; Vāyu and Vāsuki struggle around a mountain
+- **vishnu**: shared_myth; Churning of the milk ocean
+
+### vasus  (17 gods)
+- **ganga**: child_of, killed_by, rescued_by; Birth of the Vasus; Drowning of the Vasus; Mortal births of the cursed Vasus; Release of seven cursed Vasus
+- **adityas**: identified_with, shared_myth; Assembly of the gods in heaven; Classification of the thirty-three gods; Vedic divine catalogues
+- **rudras**: shared_myth; Assembly of the gods in heaven; The thirty-three gods; Vedic divine catalogues
+- **aditi**: child_of, shared_myth; Vedic divine catalogues
+- **agni**: identified_with, served
+- **vishvakarman**: ancestor_of, other
+- **ashvins**: shared_myth; Assembly of the gods in heaven
+- **durga**: created; Formation of the Goddess
+- **dyaus**: shared_myth; Joint protective invocation
+- **indra**: served
+- **kamadhenu**: theft; The Vasus steal Nandinī
+- **kartikeya**: ancestor_of
+- **maruts**: shared_myth; Assembly of the gods in heaven
+- **narada**: allied; Warning against the Prasvāpa weapon
+- **parashurama**: other; Celestial ending of the Bhīṣma duel
+- **prajapati**: child_of
+- **rama**: identified_with; Rāma's cosmic manifestation
+
+### vayu  (20 gods)
+- **hanuman**: identified_with, parent_of, rescued; Vāyu engenders or empowers Añjanā’s son; Vāyu withdraws air after Hanumān is struck; Vāyu’s first major manifestation; Vāyu’s first salvific descent
+- **agni**: created, other, shared_myth; Fire and wind coordinate across cosmic regions; Fire resolves into Vāyu; The Yakṣa’s blade of grass; Wind generates fire in elemental creation
+- **indra**: allied, contest, fought, gift; Indra earns a share of Vāyu’s cup; Indra wounds Hanumān and Vāyu withdraws air; Indrāvāyū share Soma and a chariot; Withdrawal of the cosmic air
+- **brahma**: allied, created_by; Brahmā appeases Vāyu after Hanumān’s injury; Purāṇic creation of Vāyu
+- **chandra_soma**: gift, shared_myth; First Soma draught; Vāyu receives Soma’s first draught
+- **maruts**: parent_of, shared_myth; Maruts born from Vāyu’s belly; Shared sacrificial and atmospheric invocations
+- **surya**: other, shared_myth; Hanumān seeks instruction from Sūrya; Sun and wind form cosmic counterparts
+- **durga**: gift; Formation for the Mahiṣa war
+- **garuda**: shared_myth; Battle for amṛta
+- **hiranyakashipu**: served; Prahlāda’s fire ordeal
+- **mahishasura**: theft; Appropriation of the gods' offices
+- **narasimha**: shared_myth; Wedding of Narasimha and Vāsantikā
+- **rama**: served; Hanumān accompanies and serves Rāma
+- **rudra**: shared_myth; Rudra’s power is transmitted through Vāyu
+- **savitr**: allied; Protection of the living world
+- **shumbha_and_nishumbha**: theft; Conquest of heaven
+- **varuna**: shared_myth; Directional divine assemblies
+- **vasuki**: contest; Vāyu and Vāsuki struggle around a mountain
+- **vishnu**: served; Vāyu serves as Viṣṇu’s chief mediator
+- **yakshas**: contest; The unknowable Yaksha
+
+### vishnu  (88 gods)
+- **rudra**: allied, contest, fought, gift, identified_with, judged_by, seduced, served, served_by, shared_myth; Battle against Bāṇa; Harihara fusion; Harihara synthesis; Infinite fiery liṅga
+- **tulsi**: consort_of, deceived, gift, punished_by, shared_myth, transformed; Tulasi becomes river and sacred plant; Tulasi curses Viṣṇu into stone; Tulasi ultimately joins Nārāyaṇa; Tulsi Vivah
+- **brahma**: contest, created, created_by, identified_with, shared_myth; Disputes over divine supremacy; Liṅgodbhava endless fiery column; Lotus birth from Viṣṇu's navel; Lotus-navel creation
+- **narada**: deceived, punished_by, served_by, shared_myth, taught; Divine messages and narrative missions; Nārada curses Viṣṇu after humiliation; Nārada experiences Māyā; Nārada visits Vishnu
+- **lakshmi**: allied, consort_of, gift, served_by, shared_myth; Churning of the Milk Ocean; Churning of the milk ocean; Lakṣmī as Nārāyaṇa’s eternal śakti; Śrīvaiṣṇava mediation of grace
+- **mahavidyas**: allied, consort_of, other, served, shared_myth; Bagalāmukhī stills the cosmic storm; Buddha-Viṣṇu teaches Tārā worship at Mahācīna; Kālī-Kāmākhyā enthroned above Viṣṇu’s lion; Viṣṇu preserves through Mahāvidyā power
+- **vritra**: fought, killed, other, served_by; Righteous Asura king; Sacrificial defeat of Vṛtra; Treaty and foam at twilight; Vṛtrāsura the devotee
+- **aditi**: child_of, gift, served_by; Austerity and the payovrata; Birth of Vāmana; Viṣṇu promises incarnation as her son
+- **balarama**: created, identified_with, sibling_of; Fourfold Pāñcarātra emanation
+- **durga**: deceived_by, gift, served_by, sibling_of; Formation for the Mahiṣa war; Kṛṣṇa’s substitute sister; Yoganidrā’s cosmic sleep
+- **prithvi**: ancestor_of, consort_of, rescued, shared_myth; Divine descent relieves Earth's burden; Viṣṇu strides across terrestrial spaces
+- **bali**: deceived, gift, shared_myth; Bali receives a subordinate realm; Bali’s annual Onam return; Vāmana requests three steps
+- **dhanvantari**: identified_with, other; Churning of the milk ocean; Petition for sacrificial standing
+- **garuda**: gift, served_by; Exchange of boons
+- **hiranyakashipu**: fought, killed; Narasiṃha combat; Narasiṃha kills Hiraṇyakaśipu; Narasiṃha’s killing
+- **indra**: allied, contest; Govardhana challenges Indra’s sacrifice; Opening cosmic space; Vishnu’s three strides
+- **nagas**: allied, served_by, shared_myth; Ananta's cosmic service; Churning of the ocean; Sacred ordering of Kashmir
+- **rahu**: punished; Purāṇic theft of nectar; Rāhu infiltrates the gods; Theft of amṛta and beheading
+- **shesha_ananta**: identified_with, served_by; Cosmic sleep between creations; Viṣṇu reclines upon Śeṣa during cosmic suspension
+- **shiva**: allied, contest, identified_with; Harihara; Joint battles against demons; Liṅgodbhava
+- **agni**: allied, shared_myth; Joint Vedic invocations; Joint sacrificial action
+- **andhaka**: fought; The prolonged war; The thousand Andhakas
+- **ashtadikpala**: other, served_by; Viṣṇu’s cosmic court
+- **bhairava**: shared_myth; Brahmā and Viṣṇu dispute divine supremacy; Encounter during Bhairava’s skull-bearing pilgrimage
+- **buddha_avatar**: created, identified_with; Māyāmoha emanates from Viṣṇu; Viṣṇu manifests as the Buddha-avatar
+- **chandra_soma**: rescued, shared_myth; Invitation to the Soma rite; Rāhu exposed and decapitated
+- **daksha**: rescued, shared_myth; Completion of the reconciled sacrifice; Pacification at Kottiyoor
+- **hanuman**: allied, created; Mohinī occasions Śiva’s emission; War to recover Sītā
+- **kalki**: identified_with; Future end of Kali age; Viṣṇu descends as Kalki at the yuga’s end
+- **kama**: parent_of; Kāma reborn as Pradyumna
+- **kamsa**: killed; Kṛṣṇa ends Kaṃsa’s tyranny; Viṣṇu kills Kamsa’s previous incarnation Kālanemi
+- **ketu**: killed, transformed; The nectarless severed body dies; Viṣṇu severs the nectar-drinking asura
+- **krishna**: created_by, identified_with
+- **kurma**: identified_with; Hari supports Mandara in tortoise form; Viṣṇu assumes tortoise form beneath Mandara
+- **maruts**: rescued, shared_myth; Forty-nine embryos survive Indra’s thunderbolt; The disputed Evayāmarut invocation
+- **nandi**: created, gift; Nandikeśvara arises from Viṣṇu’s side; Nandin’s coronation
+- **parvati**: shared_myth, sibling_of; Viṣṇu gives Pārvatī away as her ritual brother; Viṣṇu participates in Pārvatī’s divine wedding
+- **prajapati**: identified_with, other; Transfer of the creator's functions
+- **ravana**: killed; Rāma’s war against Rāvaṇa; Viṣṇu incarnates to defeat Ravana
+- **saraswati**: consort_of, shared_myth; Quarrel in Viṣṇu’s household; Regional sculptural ensembles
+- **sati**: allied, transformed; Dismemberment of Satī’s corpse; Divine plan for Śiva’s marriage
+- **sita**: consort_of, rescued; War to recover Sītā
+- **surya**: created, identified_with; Indra and Viṣṇu establish Sūrya
+- **tvashtar**: shared_myth; Shaping of the embryo; The gods plan Vṛtra’s defeat
+- **uchchaihshravas**: shared_myth; Churning of the Ocean; Kurma supports Mandara during the churning
+- **varaha**: allied, identified_with; Emuṣa episode; Vaiṣṇava assimilation of the cosmic boar
+- **yami**: consort_of, shared_myth; Kālindī seeks Kṛṣṇa as husband; Kṛṣṇa’s childhood beside the Yamunā
+- **adityas**: shared_myth; Viṣṇu becomes foremost among the twelve
+- **airavata**: shared_myth; Churning of the milk ocean
+- **apsaras**: shared_myth; Churning of the cosmic ocean
+- **aryaman**: shared_myth; Twelve Ādityas and monthly suns
+- **ashvins**: rescued_by; Restoration of Viṣṇu's severed head
+- **ayyappa**: parent_of; Birth of Hariharaputra
+- **bhaga**: shared_myth; Destruction of Dakṣa’s sacrifice
+- **brihaspati**: allied; Devas seek divine assistance
+- **budha_graha**: identified_with; Buddha incorporated as avatāra
+- **dattatreya**: identified_with; Viṣṇu avatāra classification
+- **gandharvas**: served_by; Praise of Viṣṇu’s manifestations
+- **ganesha**: rescued; Obtaining the elephant head
+- **hayagriva**: identified_with
+- **hayagriva_asura**: killed; The double-Hayagrīva cycle
+- **hiranyaksha**: killed; Varāha raises Earth
+- **jagannath**: identified_with
+- **jatayu**: rescued; Attainment of Viṣṇu’s supreme abode
+- **kali**: shared_myth; Creation of the Kalighat śaktipīṭha
+- **kartikeya**: other
+- **lakshmana**: identified_with; Divine birth of Daśaratha’s sons
+- **mahishasura**: other; Creation of the Goddess from divine radiance
+- **matrikas**: created; Emanation of Vaiṣṇavī
+- **matsya**: identified_with; Purāṇic identification of Matsya
+- **mitra**: shared_myth; Protective divine invocation
+- **narasimha**: identified_with; Viṣṇu manifests as the man-lion
+- **navagraha**: served_by; Viṣṇu governs and subordinates the planetary powers
+- **parashurama**: identified_with
+- **pushan**: sibling_of
+- **rama**: identified_with; Divine descent
+- **ratri**: other; Yoganidrā withdraws from Viṣṇu
+- **rudras**: allied; Demonic combat
+- **saptarishi**: served_by; Circumambulation of Viṣṇu’s station
+- **shani**: shared_myth; Restoration of Ganesha
+- **shukra**: other; Viṣṇu kills Kavyamātā
+- **tarakasura**: fought; Viṣṇu joins the gods’ campaign against Tāraka
+- **vamana**: identified_with
+- **vasuki**: shared_myth; Churning of the milk ocean
+- **vayu**: served_by; Vāyu serves as Viṣṇu’s chief mediator
+- **vishvakarman**: gift; Forging Sudarśana from solar radiance
+- **vithoba**: identified_with
+- **yamaraja**: other; Ajāmila and the contested soul
+
+### vishvakarman  (25 gods)
+- **kubera**: created, gift, served; Construction of Kubera’s cities; Construction of Laṅkā; Construction of Pushpaka; Construction of Puṣpaka
+- **brahma**: child_of, gift, identified_with, served; Brahmā first owns Pushpaka; Commission to construct Tilottamā
+- **indra**: gift, identified_with, served; Construction of Indra's assembly; Indra Viśvakarman ritual identity; Manufacture of Indra's thunderbolt
+- **ashvins**: ancestor_of, other; Teaching of Tvaṣṭṛ's honey
+- **surya**: transformed; Trimming the Sun's radiance; Viśvakarman pares Sūrya’s radiance
+- **tvashtar**: identified_with, parent_of
+- **vasus**: descendant_of, other
+- **agni**: shared_myth; Fire-altar construction rite
+- **annapurna**: served; Construction of Kāśī
+- **apsaras**: created; Fashioning of Tilottamā
+- **brihaspati**: other
+- **durga**: gift; Formation for the Mahiṣa war
+- **hayagriva**: transformed; Viṣṇu’s beheading and restoration
+- **hayagriva_asura**: shared_myth; Construction of the second Hayagrīva
+- **jagannath**: created; Interrupted carving
+- **kartikeya**: gift; Forging Skanda's solar spear
+- **lakshmi**: gift; Lakṣmī’s oceanic manifestation
+- **manu**: parent_of
+- **prajapati**: identified_with; Sacrificial creator identification
+- **rama**: shared_myth; Rāma's journey in Pushpaka
+- **ravana**: theft; Seizure of Laṅkā and Pushpaka
+- **saptarishi**: allied; Primordial cosmic sacrifice
+- **varuna**: served; Construction of Varuṇa's assembly hall
+- **vishnu**: gift; Forging Sudarśana from solar radiance
+- **yami**: ancestor_of
+
+### vithoba  (15 gods)
+- **radha**: other, shared_myth; Rukmini sees Kṛṣṇa with Rādhā
+- **balarama**: sibling_of
+- **brahma**: served_by; Divine assemblies witness devotional kīrtan
+- **budha_graha**: identified_with
+- **dattatreya**: other
+- **ganesha**: other
+- **garuda**: served_by
+- **hanuman**: other
+- **lakshmana**: other
+- **lakshmi**: consort_of
+- **narasimha**: other
+- **rama**: other
+- **rudra**: other
+- **surya**: other
+- **vishnu**: identified_with
+
+### vritra  (14 gods)
+- **indra**: deceived_by, fought, killed_by, taught; Rigvedic release of the waters; Treaty and foam at twilight; Vṛtra cycle; Vṛtra’s devotional reinterpretation
+- **vishnu**: fought, killed_by, other, served; Righteous Asura king; Sacrificial defeat of Vṛtra; Treaty and foam at twilight; Vṛtrāsura the devotee
+- **chandra_soma**: created, killed_by, other; Indra-Soma kill the serpent; Moon formed from Vṛtra’s Soma portion; Vṛtra encloses divine powers
+- **maruts**: fought; Indra and the Maruts battle Vṛtra; Rigvedic Vṛtra combat
+- **tvashtar**: child_of, created_by; Tvaṣṭṛ’s retaliatory sacrifice
+- **agni**: other; Vṛtra encloses divine powers
+- **airavata**: fought; Vṛtrāsura swallows Indra
+- **ashvins**: shared_myth; Sautrāmaṇī restoration of Indra
+- **brahma**: shared_myth; Vṛtra's death and purification
+- **brihaspati**: shared_myth; Indra's guilt after Vṛtra
+- **dyaus**: other; Slaying of Vṛtra
+- **parvati**: punished_by; Citraketu's curse
+- **saraswati**: shared_myth; Sautrāmaṇī restoration of Indra
+- **surya**: other; Release of light and waters
+
+### yakshas  (11 gods)
+- **budha_graha**: allied, contest, shared_myth, taught_by; Khara and Sūciloma; Sūciloma’s confrontation; Āḷavaka’s confrontation; Āḷavaka’s conversion
+- **brahma**: created_by, identified_with; The unknowable Yaksha; We shall eat
+- **agni**: contest; The unknowable Yaksha
+- **indra**: deceived; The unknowable Yaksha
+- **kubera**: served
+- **manu**: rescued_by; Dhruva’s war on the Yakshas
+- **parvati**: served; Kubera’s Kailāsa entourage
+- **rakshasas**: sibling_of
+- **ratri**: other; Yakṣas appropriate Brahmā’s dark body
+- **ravana**: fought; Kubera, Rāvaṇa, and Laṅkā
+- **vayu**: contest; The unknowable Yaksha
+
+### yamaraja  (8 gods)
+- **yami**: gift, seduced_by, shared_myth, sibling_of; The refused primordial incest; Yama Dvitīyā sibling feast; Yamadvitīyā sibling feast; Yamī mourns Yama’s death
+- **agni**: allied, shared_myth; The gods seek Damayantī; Yama’s road of the fathers
+- **varuna**: shared_myth; Kings of the other world; The gods seek Damayantī
+- **brahma**: other; Rāvaṇa’s combat with Yama
+- **indra**: shared_myth; The gods seek Damayantī
+- **ravana**: fought; Rāvaṇa invades Yama’s domain
+- **surya**: child_of
+- **vishnu**: other; Ajāmila and the contested soul
+
+### yami  (13 gods)
+- **yamaraja**: gift, seduced, shared_myth, sibling_of; The refused primordial incest; Yama Dvitīyā sibling feast; Yamadvitīyā sibling feast; Yamī mourns Yama’s death
+- **gandharvas**: child_of, descendant_of; Watery parentage of Yama and Yamī
+- **ganga**: shared_myth; Confluence at Prayāga; River goddesses guard temple thresholds
+- **vishnu**: consort_of, shared_myth; Kālindī seeks Kṛṣṇa as husband; Kṛṣṇa’s childhood beside the Yamunā
+- **ashvins**: sibling_of
+- **manu**: sibling_of
+- **mitra**: shared_myth; Yama rejects Yamī’s proposal
+- **radha**: shared_myth; Rādhā and Kṛṣṇa beside Yamunā
+- **saraswati**: shared_myth; The triveṇī at Prayāga
+- **surya**: child_of
+- **tvashtar**: descendant_of
+- **varuna**: shared_myth; Yama rejects Yamī’s proposal
+- **vishvakarman**: descendant_of
+
+### yamuna  (17 gods)
+- **krishna**: consort_of, rescued, rescued_by, shared_myth; Crossing the flooded Yamunā; Infant Krishna crosses the Yamuna; Krishna subdues Kaliya; Krishna's river pastimes in Braj
+- **ganga**: shared_myth; Invocation of the rivers; Paired temple-threshold goddesses; Temple-threshold pairing; Triveṇī Saṅgam at Prayāga
+- **balarama**: punished_by; Balarāma drags Yamuna with his plough; Dragging of Yamunā
+- **shesha_ananta**: gift, punished_by; Balarāma drags the disobedient Yamunā; Yamunā submits and gives Balarāma gifts
+- **apsaras**: child_of
+- **ashvins**: sibling_of
+- **brahma**: child_of
+- **gandharvas**: child_of
+- **indra**: allied; Battle near the Yamuna
+- **manu**: sibling_of
+- **radha**: shared_myth; Krishna's Braj landscape
+- **rama**: shared_myth; Crossing the Yamuna during exile
+- **saraswati**: shared_myth; Triveṇī Saṅgam at Prayāga
+- **shani**: sibling_of
+- **sita**: served_by; Sītā's vow at the Yamuna
+- **surya**: child_of
+- **varuna**: shared_myth; Iconographic arrangement beside Varuṇa
+
+## Named but without a dossier here
+
+- Śiva (119): airavata, andhaka, annapurna, apsaras, ashtadikpala, ayyappa, bali, bhairava
+- Kṛṣṇa (75): adityas, agni, airavata, aryaman, balarama, brahma, buddha_avatar, chandra_soma
+- Kaśyapa (43): aditi, adityas, airavata, apsaras, aryaman, bali, daksha, gandharvas
+- Yama (35): adityas, agni, ashvins, bhairava, daksha, durga, gandharvas, hanuman
+- Arjuna (31): agni, apsaras, balarama, gandharvas, hanuman, indra, krishna, kubera
+- the gods (22): agni, annapurna, ashvins, brahma, brihaspati, gandharvas, ganesha, kalki
+- Uṣas (17): aditi, agni, ashvins, bhaga, dyaus, indra, prajapati, ratri
+- Bhīma (17): balarama, hanuman, krishna, kubera, rakshasas, vasuki, vayu, yakshas
+- Prahlāda (16): andhaka, bali, hiranyakashipu, narada, narasimha, shukra, shumbha_and_nishumbha, uchchaihshravas
+- Vīrabhadra (15): andhaka, bhaga, daksha, mangala, matrikas, nandi, narasimha, pushan
+- Vasiṣṭha (13): apsaras, brahma, dyaus, kamadhenu, mahavidyas, mitra, prajapati, rama
+- Diti (12): aditi, adityas, bali, daksha, hayagriva_asura, hiranyakashipu, hiranyaksha, indra
+- Vāc (12): brahma, chandra_soma, gandharvas, kama, mitra, prajapati, saraswati, vasus
+- Vibhīṣaṇa (12): brahma, ganesha, hanuman, kubera, lakshmana, rama, ravana
+- Tvaṣṭṛ (11): agni, indra, pushan, surya, vishvakarman, vritra, yami
+- Pradyumna (11): balarama, kama, krishna, rati, shesha_ananta, vishnu, vithoba
+- Śani (10): ashvins, brihaspati, ganesha, rudra, shukra, surya, yamaraja, yami
+- Bhṛgu (10): brahma, hiranyakashipu, lakshmi, nandi, parashurama, prajapati, shukra, varuna
+- Vinatā (9): aditi, daksha, garuda, jatayu, nagas, sampati, shesha_ananta, uchchaihshravas
+- Surabhi (9): aditi, airavata, daksha, indra, nandi, rudra, rudras, uchchaihshravas
+- Vijaya (9): bali, hiranyakashipu, hiranyaksha, kalki, narasimha, sati, vamana, vishnu
+- Bhūdevī (9): brahma, lakshmi, matsya, varaha, vishnu
+- Bhīṣma (9): dyaus, ganga, parashurama, vasus
+- Karṇa (9): indra, parashurama, rakshasas, surya
+- Kadrū (8): aditi, daksha, garuda, shesha_ananta, vasuki
+- Svāhā (8): agni, daksha, kartikeya, matrikas, parvati, saptarishi
+- Himavat (8): annapurna, durga, ganga, mahishasura, parvati, sati
+- Devas (8): apsaras, chandra_soma, nagas, prajapati, vasuki
+- Viśvāmitra (8): apsaras, kamadhenu, lakshmana, rama, saraswati
+- Saṃjñā (8): ashvins, shani, surya, vishvakarman, yami, yamuna
+- Tārā (8): brihaspati, budha_graha, chandra_soma, kali, lakshmana
+- Dhruva (8): ganga, narada, saptarishi, vishnu, yakshas
+- Caṇḍikā (8): kali, matrikas, parvati, raktabija
+- Durvāsas (7): airavata, chandra_soma, dattatreya, kurma, lakshmana, lakshmi, vishnu
+- Rohiṇī (7): balarama, budha_graha, chandra_soma, daksha, shani, shesha_ananta
+- Yogamāyā (7): balarama, krishna, lakshmi, radha, shesha_ananta, vishnu
+- Aniruddha (7): balarama, krishna, rati, vishnu
+- Jaya (7): bali, hiranyakashipu, kalki, narasimha, vamana, vishnu
+- Atri (7): brahma, chandra_soma, dattatreya, indra, prajapati, surya
+- Dharma (7): brahma, daksha, kalki, kama, vasus, yakshas, yamaraja
+- Jāmbavān (7): hanuman, krishna, lakshmana, rama, sampati, vamana
+- Satyabhāmā (7): indra, jagannath, krishna, lakshmi, prithvi, vithoba
+- Chāyā (7): manu, shani, surya, yamaraja, yami, yamuna
+- Mārtāṇḍa (6): aditi, adityas
+- Menā (6): annapurna, durga, ganga, parvati, saptarishi, sati
+- Purūravas (6): apsaras, budha_graha, chandra_soma, manu
+- Saraṇyū (6): ashvins, manu, surya, tvashtar, yamaraja, yami
+- Sāvarṇi Manu (6): ashvins, manu, shani, surya, yami, yamuna
+- Subhadrā (6): balarama, durga, jagannath, krishna
+- Pulastya (6): brahma, kubera, prajapati, ravana, yakshas
+- Sanatkumāra (6): brahma, hiranyakashipu, kartikeya, nandi, narada
+- Madhu (6): brahma, durga, hayagriva, ratri, shesha_ananta, vishnu
+- Kaiṭabha (6): brahma, durga, hayagriva, ratri, shesha_ananta, vishnu
+- Kaca (6): brihaspati, shukra
+- Mohinī (6): dhanvantari, ketu, kurma, rahu, shiva, vishnu
+- Sudarśana (6): hiranyaksha, jagannath, krishna, rahu
+- Śambara (6): indra, kama, rati
+- Bhūmi (6): krishna, mangala, sita, vamana
+- Aṃśa (5): aditi, adityas, bhaga, daksha, mitra
+- Pṛthivī (5): aditi, dyaus, parvati, shesha_ananta

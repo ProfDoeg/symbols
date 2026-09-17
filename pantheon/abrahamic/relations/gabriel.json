@@ -1,0 +1,390 @@
+{
+ "subject": "gabriel",
+ "relations": [
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH",
+    "Allah",
+    "Most High",
+    "Lord of Spirits"
+   ],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Gabriel is consistently regarded as a celestial being created by God.",
+   "source": "Jewish, Christian, and Islamic traditions",
+   "date": "antiquity onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "served",
+   "myth": "Interpretation of Daniel’s visions",
+   "note": "God commissions Gabriel to explain Daniel’s symbolic visions and seventy weeks.",
+   "source": "Daniel 8–9",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "Lord of Spirits"
+   ],
+   "kind": "allied",
+   "myth": "Petition over earthly bloodshed",
+   "note": "Gabriel and other principal angels petition God concerning violence caused by the Watchers’ offspring.",
+   "source": "1 Enoch 9–10",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "punished_by",
+   "myth": "Destruction of Jerusalem",
+   "note": "God punishes Gabriel for modifying the commanded destruction of Jerusalem.",
+   "source": "Babylonian Talmud, Yoma 77a",
+   "date": "fifth–sixth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Allah",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "served",
+   "myth": "Revelation of the Qurʾan",
+   "note": "Allah sends Jibrīl to transmit revelation by divine permission.",
+   "source": "Qurʾan 2:97",
+   "date": "seventh c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Mīkāl",
+    "Mīkāʾīl"
+   ],
+   "kind": "allied",
+   "myth": "Petition over earthly bloodshed",
+   "note": "Michael and Gabriel jointly observe earthly violence and petition God.",
+   "source": "1 Enoch 9",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uriel",
+   "other_aliases": [
+    "Sariel"
+   ],
+   "kind": "allied",
+   "myth": "Petition over earthly bloodshed",
+   "note": "Uriel or Sariel and Gabriel jointly observe the catastrophe and petition God.",
+   "source": "1 Enoch 9",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Petition over earthly bloodshed",
+   "note": "Raphael and Gabriel jointly petition God before receiving separate missions.",
+   "source": "1 Enoch 9–10",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Fallen Watchers",
+   "other_aliases": [
+    "Watchers"
+   ],
+   "kind": "other",
+   "myth": "War against the giants",
+   "note": "Gabriel is commissioned against their giant offspring, not explicitly against the Watchers themselves.",
+   "source": "1 Enoch 10",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giant offspring",
+   "other_aliases": [
+    "giants"
+   ],
+   "kind": "fought",
+   "myth": "War against the giants",
+   "note": "Gabriel causes the violent giant offspring of the Watchers to destroy one another.",
+   "source": "1 Enoch 10:9–10",
+   "date": "third–second c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cherubim",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "The received Ethiopic text places Gabriel over the cherubim.",
+   "source": "1 Enoch 20:7",
+   "date": "second c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Serpents",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "The received Ethiopic angel-list places Gabriel over serpents.",
+   "source": "1 Enoch 20:7",
+   "date": "second c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phanuel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four presences before the Lord",
+   "note": "Gabriel and Phanuel appear among four figures surrounding the Lord of Spirits.",
+   "source": "1 Enoch 40",
+   "date": "turn of the era",
+   "tier": "attested"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Mary’s announced son"
+   ],
+   "kind": "shared_myth",
+   "myth": "Annunciation to Mary",
+   "note": "Gabriel announces Jesus’ conception, name, identity, and future kingship before his birth.",
+   "source": "Luke 1:26–38",
+   "date": "c. 80–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "pure son",
+    "Mary’s announced son"
+   ],
+   "kind": "shared_myth",
+   "myth": "Qurʾanic annunciation to Mary",
+   "note": "The Spirit identified exegetically as Gabriel announces Mary’s pure son.",
+   "source": "Qurʾan 19:17–21; tafsīr",
+   "date": "seventh c. CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Rūḥ al-qudus",
+    "Our Spirit",
+    "Trustworthy Spirit"
+   ],
+   "kind": "shared_myth",
+   "myth": "Annunciation to Mary",
+   "note": "Gabriel announces the conception that Luke attributes to the Holy Spirit.",
+   "source": "Luke 1:35",
+   "date": "c. 80–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Rūḥ al-qudus",
+    "Our Spirit",
+    "Trustworthy Spirit"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Classical Islamic exegesis commonly identifies Gabriel with several Qurʾanic Spirit titles.",
+   "source": "Qurʾan; classical tafsīr",
+   "date": "seventh c. CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Christian archangel lists and liturgy",
+   "note": "Gabriel and Michael are paired as principal archangels in Christian lists and worship.",
+   "source": "Christian liturgy",
+   "date": "late antiquity onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Christian archangel feast",
+   "note": "Gabriel, Raphael, and Michael share Western devotion and a joint Roman feast.",
+   "source": "Roman liturgical calendar",
+   "date": "late antiquity; 1969",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dispute concerning kadkod",
+   "note": "Gabriel and Michael dispute the meaning or material of kadkod in Isaiah.",
+   "source": "Bava Batra 75a",
+   "date": "fifth–sixth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cherub",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Destruction of Jerusalem",
+   "note": "A cherub gives Gabriel fire, which Gabriel casts upon Jerusalem.",
+   "source": "Babylonian Talmud, Yoma 77a",
+   "date": "fifth–sixth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Three angels visit Abraham",
+   "note": "Gabriel and Michael visit Abraham as members of a three-angel mission.",
+   "source": "Bava Metzia 86b",
+   "date": "fifth–sixth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Three angels visit Abraham",
+   "note": "Gabriel and Raphael visit Abraham as members of a three-angel mission.",
+   "source": "Bava Metzia 86b",
+   "date": "fifth–sixth c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mīkāl",
+   "other_aliases": [
+    "Mīkāʾīl",
+    "Michael"
+   ],
+   "kind": "shared_myth",
+   "myth": "Enemies of Gabriel and Michael",
+   "note": "Jibrīl and Mīkāl are named together among God’s angels opposed by unbelieving enemies.",
+   "source": "Qurʾan 2:98",
+   "date": "seventh c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angels",
+   "other_aliases": [
+    "angels collectively"
+   ],
+   "kind": "allied",
+   "myth": "Support of Muḥammad",
+   "note": "Jibrīl and the angels collectively support Muḥammad.",
+   "source": "Qurʾan 66:4",
+   "date": "seventh c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Burāq",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Night Journey and Ascension",
+   "note": "Gabriel brings or accompanies Burāq while guiding Muḥammad through the journey.",
+   "source": "Sīra, ḥadīth, miʿrājnāma",
+   "date": "eighth c. onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mīkāʾīl",
+   "other_aliases": [
+    "Mīkāl",
+    "Michael"
+   ],
+   "kind": "shared_myth",
+   "myth": "Expanded heavenly and prophetic narratives",
+   "note": "Mīkāʾīl appears with Gabriel in expanded Islamic heavenly and prophetic accounts.",
+   "source": "Ḥadīth, tafsīr, qiṣaṣ",
+   "date": "eighth c. onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isrāfīl",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Expanded heavenly and prophetic narratives",
+   "note": "Isrāfīl appears with Gabriel in expanded Islamic heavenly and prophetic accounts.",
+   "source": "Ḥadīth, tafsīr, qiṣaṣ",
+   "date": "eighth c. onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mālik",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Night Journey and Ascension",
+   "note": "Gabriel introduces or encounters Mālik, the guardian of Hell, during the ascension.",
+   "source": "Ḥadīth and miʿrāj literature",
+   "date": "eighth c. onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "Iblīs"
+   ],
+   "kind": "fought",
+   "myth": "Later prophetic confrontations",
+   "note": "Later Islamic tales depict Gabriel directly confronting Satan while defending prophets.",
+   "source": "Medieval qiṣaṣ and folklore",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Edenic combat",
+   "note": "Gabriel guards Eden and confronts Satan until a divine sign forces Satan’s withdrawal.",
+   "source": "Milton, Paradise Lost IV",
+   "date": "1667",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Uriel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four quarters ritual",
+   "note": "Gabriel and Uriel occupy distinct quarters in Golden Dawn ritual.",
+   "source": "Golden Dawn materials",
+   "date": "late nineteenth c.",
+   "tier": "modern"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four quarters ritual",
+   "note": "Gabriel and Raphael occupy distinct quarters in Golden Dawn ritual.",
+   "source": "Golden Dawn materials",
+   "date": "late nineteenth c.",
+   "tier": "modern"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four quarters ritual",
+   "note": "Gabriel and Michael occupy distinct quarters in Golden Dawn ritual.",
+   "source": "Golden Dawn materials",
+   "date": "late nineteenth c.",
+   "tier": "modern"
+  }
+ ]
+}

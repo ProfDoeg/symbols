@@ -1,0 +1,420 @@
+{
+ "subject": "hemera",
+ "relations": [
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox",
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "Generation of Day",
+   "note": "Nyx bears Hemera after uniting with Erebos.",
+   "source": "Hesiod, Theogony 123–125",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erebos",
+   "other_aliases": [
+    "Erebus"
+   ],
+   "kind": "child_of",
+   "myth": "Generation of Day",
+   "note": "Erebos fathers Hemera with Nyx.",
+   "source": "Hesiod, Theogony 123–125",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aither",
+   "other_aliases": [
+    "Aether"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hemera and Aither are the luminous children of Nyx and Erebos.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox",
+    "Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Day and Night exchange places",
+   "note": "Mother and daughter greet each other at the bronze threshold and alternate over earth.",
+   "source": "Hesiod, Theogony 744–757",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Time"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A calendrical Day is called the radiant daughter of Chronos and Nyx.",
+   "source": "Bacchylides, fragment 7",
+   "date": "early fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Roman cosmogony",
+   "note": "Dies issues directly from Chaos alongside Nox, Erebus, and Aether.",
+   "source": "Pseudo-Hyginus, Fabulae, preface",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aither",
+   "other_aliases": [
+    "Aether"
+   ],
+   "kind": "consort_of",
+   "myth": "Roman learned cosmogony",
+   "note": "Aether and Dies unite as parents of Caelus.",
+   "source": "Cicero, De natura deorum 3.17/44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aither",
+   "other_aliases": [
+    "Aether"
+   ],
+   "kind": "consort_of",
+   "myth": "Hyginus’s cosmogony",
+   "note": "Aether and Dies generate Terra, Caelum, and Mare.",
+   "source": "Pseudo-Hyginus, Fabulae, preface",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Caelus",
+    "Heaven"
+   ],
+   "kind": "parent_of",
+   "myth": "Roman learned cosmogony",
+   "note": "Dies and Aether are named as the parents of Caelus.",
+   "source": "Cicero, De natura deorum 3.17/44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Terra",
+    "Earth"
+   ],
+   "kind": "parent_of",
+   "myth": "Hyginus’s cosmogony",
+   "note": "Terra is born to Aether and Dies.",
+   "source": "Pseudo-Hyginus, Fabulae, preface",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Caelum",
+    "Caelus",
+    "Heaven"
+   ],
+   "kind": "parent_of",
+   "myth": "Hyginus’s cosmogony",
+   "note": "Caelum is born to Aether and Dies.",
+   "source": "Pseudo-Hyginus, Fabulae, preface",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thalassa",
+   "other_aliases": [
+    "Mare",
+    "Sea"
+   ],
+   "kind": "parent_of",
+   "myth": "Hyginus’s cosmogony",
+   "note": "Mare is born to Aether and Dies.",
+   "source": "Pseudo-Hyginus, Fabulae, preface",
+   "date": "date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later writers apply Hemera’s name to Eos’s actions, lovers, and children.",
+   "source": "Pausanias; Philostratus; Callistratus",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hemera implicitly acquires Eos’s father when used as the dawn goddess.",
+   "source": "Eos-identifying tradition",
+   "date": "Classical and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hemera implicitly acquires Eos’s mother when used as the dawn goddess.",
+   "source": "Eos-identifying tradition",
+   "date": "Classical and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Eos-identifying genealogy",
+   "note": "Hemera inherits Eos’s partnership with Tithonus in the Memnon tradition.",
+   "source": "Eos-identifying tradition",
+   "date": "Classical and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Abduction of Cephalus",
+   "note": "Hemera falls in love with beautiful Cephalus, carries him away, and bears Phaethon.",
+   "source": "Pausanias 1.3.1; 3.18.12",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Cephalus and Hemera",
+   "note": "Hemera bears Phaethon to Cephalus in a genealogy normally associated with Eos.",
+   "source": "Pausanias 1.3.1",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure of Phaethon",
+   "note": "Aphrodite carries away Hemera’s son Phaethon and appoints him temple guardian.",
+   "source": "Pausanias 1.3.1",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Memnon and Achilles",
+   "note": "Hemera is called Memnon’s mother in traditions otherwise assigning maternity to Eos.",
+   "source": "Pausanias 5.22.2; Philostratus 1.7; Callistratus 1, 9",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mothers petition before the duel",
+   "note": "Hemera and Thetis entreat Zeus concerning Memnon and Achilles before their combat.",
+   "source": "Pausanias 5.22.2",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mothers petition before the duel",
+   "note": "The divine mothers jointly petition Zeus for their opposing sons.",
+   "source": "Pausanias 5.22.2",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mothers petition before the duel",
+   "note": "Hemera petitions for Memnon before his impending duel with Thetis’s son Achilles.",
+   "source": "Pausanias 5.22.2",
+   "date": "ca. 150–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Funeral of Memnon",
+   "note": "Helios consoles Hemera as she mourns her son Memnon.",
+   "source": "Philostratus, Imagines 1.7",
+   "date": "early third century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fall of Phaethon",
+   "note": "Hemera is displaced as Helios’s solar vehicle plunges and cosmic order collapses.",
+   "source": "Philostratus, Imagines 1.11",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox",
+    "Night"
+   ],
+   "kind": "punished_by",
+   "myth": "Fall of Phaethon",
+   "note": "Nyx drives Hemera from the noonday sky during Phaethon’s catastrophe.",
+   "source": "Philostratus, Imagines 1.11",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Horae",
+   "other_aliases": [
+    "Hours"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fall of Phaethon",
+   "note": "The Horae abandon their gates while Hemera is driven from the sky.",
+   "source": "Philostratus, Imagines 1.11",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asteres",
+   "other_aliases": [
+    "Stars"
+   ],
+   "kind": "shared_myth",
+   "myth": "Fall of Phaethon",
+   "note": "The stars follow the plunging solar orb while Hemera is displaced.",
+   "source": "Philostratus, Imagines 1.11",
+   "date": "early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hekate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared altar on Kos",
+   "note": "Hemera and Hekate are co-recipients on the same inscribed altar.",
+   "source": "IG XII.4 1.397",
+   "date": "ca. 350–300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Shared altar on Kos",
+   "note": "Hemera and Helios are co-recipients on the same inscribed altar.",
+   "source": "IG XII.4 1.397",
+   "date": "ca. 350–300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Machaon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared altar on Kos",
+   "note": "Hemera and Machaon are co-recipients on the same inscribed altar.",
+   "source": "IG XII.4 1.397",
+   "date": "ca. 350–300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox",
+    "Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daphne cosmic procession",
+   "note": "Images of Day and Night appear together among cosmic personifications.",
+   "source": "Polybius, Histories 30.25.15",
+   "date": "166 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Terra",
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daphne cosmic procession",
+   "note": "Images of Day and Earth appear together in Antiochus IV’s procession.",
+   "source": "Polybius, Histories 30.25.15",
+   "date": "166 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Caelus",
+    "Heaven"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daphne cosmic procession",
+   "note": "Images of Day and Heaven appear together in Antiochus IV’s procession.",
+   "source": "Polybius, Histories 30.25.15",
+   "date": "166 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daphne cosmic procession",
+   "note": "Separate images of Day and Dawn appear, preserving their distinction.",
+   "source": "Polybius, Histories 30.25.15",
+   "date": "166 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Midday",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Daphne cosmic procession",
+   "note": "Images of Day and Midday appear together among cosmic personifications.",
+   "source": "Polybius, Histories 30.25.15",
+   "date": "166 BCE",
+   "tier": "attested"
+  }
+ ]
+}

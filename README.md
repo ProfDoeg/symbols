@@ -28,6 +28,16 @@ Goetia and tree ran at high reasoning effort (`REASONING.txt`); memoria's briefs
 catalogue entry, so its dossiers run longer. The pantheon build-out ran eight wide in two passes
 (559 and 358 items, about 7 h 20 min and 4 h; two OpenAI capacity failures re-run afterwards).
 
+**Pantheon interaction matrices** (2026-09-17): every pantheon folder also holds `relations/<slug>.json`
+(the relations Codex extracted from that dossier: kinship, meetings, shared myths, identifications,
+each with source and evidence tier; `tools/extract_relations.py` from `pantheon/RELATIONS_PROMPT.md`),
+and the built products of `tools/build_matrix.py`: `_relations.json` (resolved, merged, with sources),
+`_matrix.csv` (god × god count of distinct relations), `_matrix.md` (most connected gods, each god's
+relations, and the beings named without a dossier). 11,853 relations inside the 27 pantheons. Matrices
+are strictly within one pantheon; the 1,765 cross-pantheon mentions sit in `pantheon/_cross_pantheon.*`
+as raw material only, since bridges between pantheons are chosen deliberately, not merged. Name
+resolution: exact, then `pantheon/ALIASES.json`, then a close-spelling match within the same folder.
+
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
 pointers; writes `briefs/`), and `batch_progress.log` (the run record). Sets built before the

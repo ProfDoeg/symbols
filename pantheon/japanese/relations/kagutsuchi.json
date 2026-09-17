@@ -1,0 +1,421 @@
+{
+ "subject": "kagutsuchi",
+ "relations": [
+  {
+   "other": "Izanami",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "The fatal birth",
+   "note": "Kagutsuchi is born from Izanami and fatally burns her during delivery.",
+   "source": "Kojiki; Nihon shoki; Engishiki norito",
+   "date": "712–927 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Izanami",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The fatal birth",
+   "note": "His fiery birth burns Izanami, causing her fatal illness or death.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Izanagi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Izanagi and Izanami are Kagutsuchi's parents.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Izanagi",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Izanagi's vengeance",
+   "note": "Izanagi decapitates or dismembers Kagutsuchi with his sword after Izanami dies.",
+   "source": "Kojiki; Nihon shoki variants 6–8",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haniyamahime",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage and agricultural generation",
+   "note": "Kagutsuchi marries the earth and clay goddess Haniyamahime.",
+   "source": "Nihon shoki variant 2",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wakumusubi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Marriage and agricultural generation",
+   "note": "Wakumusubi is the child of Kagutsuchi and Haniyamahime.",
+   "source": "Nihon shoki variant 2",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wakumusubi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Izanami's fatal illness",
+   "note": "Wakumusubi instead arises from Izanami's urine after Kagutsuchi's burning birth.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mizuhanome",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The ritual taming of fire",
+   "note": "The water deity is generated or appointed to subdue the dangerous fire-child.",
+   "source": "Nihon shoki variants 3–4; Engishiki norito",
+   "date": "720–927 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kanayamahiko",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Kanayamahiko arises from Izanami's vomit during Kagutsuchi's delivery.",
+   "source": "Nihon shoki variant 4",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kanayamabiko",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Kanayamabiko arises from Izanami's vomit after Kagutsuchi burns her.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kanayamabime",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Kanayamabime arises from Izanami's vomit after Kagutsuchi burns her.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haniyasubiko",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Haniyasubiko arises from Izanami's feces during her fatal illness.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haniyasubime",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Haniyasubime arises from Izanami's feces during her fatal illness.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mitsuhanome",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The fatal birth",
+   "note": "Mitsuhanome arises from Izanami's urine during Kagutsuchi-caused illness.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nakisawame",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Izanagi mourns Izanami",
+   "note": "Nakisawame is born from Izanagi's tears before he kills Kagutsuchi.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iwasaku",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Iwasaku is generated from Kagutsuchi's blood upon Izanagi's sword.",
+   "source": "Kojiki; Nihon shoki variant 6",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nesaku",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Nesaku is generated from Kagutsuchi's blood upon Izanagi's sword.",
+   "source": "Kojiki; Nihon shoki variant 6",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iwashitsunoo",
+   "other_aliases": [
+    "Iwatsutsunoo"
+   ],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Iwashitsunoo is generated from Kagutsuchi's blood.",
+   "source": "Kojiki; Nihon shoki variant 6",
+   "date": "712–720 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iwatsutsunome",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Iwatsutsunome appears in the genealogy generated from Kagutsuchi's blood.",
+   "source": "Nihon shoki variant 6",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mikahayahi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Mikahayahi is generated from Kagutsuchi's blood.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hihayahi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Hihayahi is generated from Kagutsuchi's blood.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Takemikazuchi",
+   "other_aliases": [
+    "Takemikazuchinoo"
+   ],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Takemikazuchi is generated from Kagutsuchi's blood upon the sword.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Futsunushi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Blood and rock generation",
+   "note": "Futsunushi arises in the divine sequence generated by Kagutsuchi's blood.",
+   "source": "Nihon shoki variant 6",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kuraokami",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Kuraokami is generated from Kagutsuchi's blood.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kuramitsuha",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Deities born from sword blood",
+   "note": "Kuramitsuha is generated from Kagutsuchi's blood.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Masakayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Masakayamatsumi emerges from Kagutsuchi's head.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odomayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Odomayamatsumi emerges from Kagutsuchi's chest.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Okuyamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Okuyamatsumi emerges from Kagutsuchi's belly.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kurayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Kurayamatsumi emerges from Kagutsuchi's genital or hidden region.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kurayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Kagutsuchi's divided body",
+   "note": "A dark-mountain deity arises in a variant division of Kagutsuchi.",
+   "source": "Nihon shoki division account",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shigiyamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Shigiyamatsumi emerges from Kagutsuchi's left hand.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Hayamatsumi emerges from Kagutsuchi's right hand.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harayamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Harayamatsumi emerges from Kagutsuchi's left foot.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Toyamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Mountain gods from Kagutsuchi's corpse",
+   "note": "Toyamatsumi emerges from Kagutsuchi's right foot.",
+   "source": "Kojiki",
+   "date": "712 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ikazuchi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Kagutsuchi cut into thirds",
+   "note": "Ikazuchi is one of three beings produced from Kagutsuchi's divided body.",
+   "source": "Nihon shoki variant 7",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōyamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Kagutsuchi cut into thirds",
+   "note": "Ōyamatsumi is one of three beings produced from Kagutsuchi's divided body.",
+   "source": "Nihon shoki variant 7",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ōyamatsumi",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Kagutsuchi cut into five pieces",
+   "note": "Mountain deities, including Ōyamatsumi, arise from Kagutsuchi's five portions.",
+   "source": "Nihon shoki variant 8",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Takaokami",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Kagutsuchi cut into thirds",
+   "note": "Takaokami is one of three beings produced from Kagutsuchi's divided body.",
+   "source": "Nihon shoki variant 7",
+   "date": "720 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atago Tarōbō",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Atago institutions equated or co-located Kagutsuchi with this mountain figure.",
+   "source": "Atago institutional traditions",
+   "date": "Medieval–Meiji periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shōgun Jizō",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Atago's Buddhist-kami complex associated Kagutsuchi's later cult setting with Shōgun Jizō.",
+   "source": "Atago institutional traditions",
+   "date": "Medieval–Meiji periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Akiba Sanjakubō",
+   "other_aliases": [
+    "Akiba Sanjakubō Daigongen"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Meiji reclassification placed Kagutsuchi where the older Akiba Sanjakubō cult had predominated.",
+   "source": "Akiba institutional histories",
+   "date": "1868–1873",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "subject": "matrikas",
+ "relations": [
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Mahāsena"
+   ],
+   "kind": "fought",
+   "myth": "Attempted killing of the infant Skanda",
+   "note": "Sent to kill the newborn Skanda, the Mothers find him invincible.",
+   "source": "Mahābhārata, Vana-parvan 225–230",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Mahāsena"
+   ],
+   "kind": "parent_of",
+   "myth": "Adoption and nursing of Skanda",
+   "note": "The Mothers adopt Skanda, offer their milk, and become his nurses.",
+   "source": "Mahābhārata, Vana-parvan 225–230",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Mahāsena"
+   ],
+   "kind": "served",
+   "myth": "Skanda’s Mother-host entourage",
+   "note": "After adopting Skanda, the Mothers remain among his fearsome companions.",
+   "source": "Mahābhārata Skanda cycle",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Commission to destroy Skanda",
+   "note": "Indra authorizes the Mothers to attack the child feared by the gods.",
+   "source": "Mahābhārata, Vana-parvan 225",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Guardians gathered around Skanda",
+   "note": "Agni approaches Skanda and remains beside him together with the Mothers.",
+   "source": "Mahābhārata, Vana-parvan 225",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Svāhā",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Competing maternity claims over Skanda",
+   "note": "Svāhā claims Skanda as hers while the Mothers acquire him through adoption.",
+   "source": "Mahābhārata, Vana-parvan 225",
+   "date": "first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛttikās",
+   "other_aliases": [
+    "wives of the Seven Seers"
+   ],
+   "kind": "shared_myth",
+   "myth": "Overlapping foster-mother traditions of Skanda",
+   "note": "The Kṛttikās and the larger Mother-host both participate in Skanda’s foster-mother complex.",
+   "source": "Mahābhārata Skanda cycle and later Purāṇas",
+   "date": "first centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emanation of Brāhmī",
+   "note": "Brahmā projects Brāhmī, who assumes his form and implements his power.",
+   "source": "Devīmāhātmya 8.12–15",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Maheśvara",
+    "Rudra-Śiva"
+   ],
+   "kind": "created_by",
+   "myth": "Emanation of Māheśvarī",
+   "note": "Śiva projects Māheśvarī bearing his trident, crescent, serpents, and associated form.",
+   "source": "Devīmāhātmya 8.12–16",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Guha",
+   "other_aliases": [
+    "Skanda",
+    "Kumāra"
+   ],
+   "kind": "created_by",
+   "myth": "Emanation of Kaumārī",
+   "note": "Guha projects Kaumārī in his form, mounted on a peacock and spear-armed.",
+   "source": "Devīmāhātmya 8.12–17",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emanation of Vaiṣṇavī",
+   "note": "Viṣṇu projects Vaiṣṇavī carrying his characteristic weapons and emblems.",
+   "source": "Devīmāhātmya 8.12–18",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Varāha",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Manifestation of Vārāhī",
+   "note": "Varāha’s boar power manifests as Vārāhī and enters the battle.",
+   "source": "Devīmāhātmya 8.19",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Narasiṃha",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Manifestation of Nārasiṃhī",
+   "note": "Narasiṃha’s power manifests as the leonine Nārasiṃhī.",
+   "source": "Devīmāhātmya 8.20",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emanation of Aindrī",
+   "note": "Indra projects Aindrī, who bears his thunderbolt and rides an elephant.",
+   "source": "Devīmāhātmya 8.21",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [
+    "Ambikā",
+    "Devī"
+   ],
+   "kind": "allied",
+   "myth": "War against Śumbha and Niśumbha",
+   "note": "The Mothers approach Caṇḍikā and fight the demon armies under her command.",
+   "source": "Devīmāhātmya 8",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [
+    "Ambikā",
+    "Devī"
+   ],
+   "kind": "created_by",
+   "myth": "Powers absorbed into the supreme Goddess",
+   "note": "The Mothers are comprehended within Caṇḍikā and withdraw into her before Śumbha’s duel.",
+   "source": "Devīmāhātmya 10",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [
+    "Cāmuṇḍā"
+   ],
+   "kind": "allied",
+   "myth": "Interception of Raktabīja’s blood",
+   "note": "The Mothers wound Raktabīja while Kālī drinks his blood and devours his duplicates.",
+   "source": "Devīmāhātmya 8.53–62",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Śivadūta"
+   ],
+   "kind": "shared_myth",
+   "myth": "Śiva serves as Caṇḍikā’s messenger",
+   "note": "Śiva delivers the ultimatum while Śivadūtī and the Mothers share Caṇḍikā’s battle company.",
+   "source": "Devīmāhātmya 8.22–29",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Raktabīja",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying of Raktabīja",
+   "note": "The Mothers drain him with their weapons while Cāmuṇḍā prevents spilled blood from reproducing.",
+   "source": "Devīmāhātmya 8.40–63",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śumbha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Campaign against Śumbha",
+   "note": "The Mothers destroy Śumbha’s forces before withdrawing into the supreme Goddess.",
+   "source": "Devīmāhātmya 8–10",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Niśumbha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Campaign against Niśumbha",
+   "note": "The Mothers destroy Niśumbha’s forces as members of Caṇḍikā’s battle company.",
+   "source": "Devīmāhātmya 8–10",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andhaka",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Control of Andhaka’s multiplying blood",
+   "note": "The Mothers consume Andhaka’s blood before its drops can generate additional demons.",
+   "source": "Matsya Purāṇa 179",
+   "date": "Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Maheśvara"
+   ],
+   "kind": "created_by",
+   "myth": "Creation of Mothers against Andhaka",
+   "note": "In Śaiva variants, Śiva creates or summons the Mothers to control Andhaka’s blood.",
+   "source": "Matsya Purāṇa 179 and Śaiva variants",
+   "date": "Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nṛsiṃha",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Restraint of the ravenous Mothers",
+   "note": "Nṛsiṃha subdues the uncontrolled Mothers and commands them to protect the world.",
+   "source": "Matsya Purāṇa 179",
+   "date": "Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vīrabhadra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Gupta and medieval panels repeatedly place Vīrabhadra as a framing guardian beside the Mothers.",
+   "source": "Gupta and medieval Matrika panels",
+   "date": "fifth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Gaṇeśa commonly frames the Mothers’ row and shares protective, obstacle-controlling functions.",
+   "source": "Medieval Matrika panels",
+   "date": "early medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Tantric Mother and Yoginī circles place Bhairava as guardian or central lord.",
+   "source": "Tantric texts and Yoginī temples",
+   "date": "seventh century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Yoginīs",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Medieval systems make the Matrikas mothers, leaders, or prototypes of Yoginī clans.",
+   "source": "Medieval Tantric systems",
+   "date": "seventh century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Yoginīs",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some system-dependent traditions equate or overlap Matrikas with Yoginīs.",
+   "source": "Medieval Tantric systems",
+   "date": "seventh century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Śākta exegesis and regional shrines identify the Mothers as powers or forms of Durgā.",
+   "source": "Śākta exegesis and regional cult",
+   "date": "early medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Regional and Śākta interpretation absorbs the Mothers into the one Goddess as Pārvatī.",
+   "source": "Śākta exegesis and regional cult",
+   "date": "early medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Śākta exegesis and regional worship sometimes identify the Mothers with Kālī.",
+   "source": "Śākta exegesis and regional cult",
+   "date": "early medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mahālakṣmī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some regional systems absorb the Mothers into Mahālakṣmī or add her to their group.",
+   "source": "Regional Śākta traditions",
+   "date": "medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Buddhist Mātṛkās",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Buddhist Mātṛkās share protective, child-seizing, ritual, and iconographic territory with Hindu Mothers.",
+   "source": "Northwestern Buddhist art and dhāraṇī literature",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hārītī",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hārītī functionally converges with the Mothers as both child-seizing and child-protecting goddess.",
+   "source": "Buddhist art and dhāraṇī literature",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  }
+ ]
+}

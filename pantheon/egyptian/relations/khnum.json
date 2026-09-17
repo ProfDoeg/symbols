@@ -1,0 +1,276 @@
+{
+ "subject": "khnum",
+ "relations": [
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "other",
+   "myth": "Khnum conveys the gods’ communications to Ra",
+   "note": "Khnum, as Lord of Shen, reports the gods’ words to Ra.",
+   "source": "Book of the Dead 113",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Khnum is fused with the solar god as Khnum-Ra.",
+   "source": "Elephantine and Esna inscriptions",
+   "date": "Ptolemaic–Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Amun orders Khnum to form Hatshepsut",
+   "note": "Khnum obeys Amun’s command and models Hatshepsut and her ka.",
+   "source": "Deir el-Bahri divine-birth reliefs",
+   "date": "15th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heqet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Formation and birth of the royal child",
+   "note": "Heqet accompanies Khnum’s formation, presents life, and assists the birth process.",
+   "source": "Deir el-Bahri and Luxor birth cycles",
+   "date": "18th Dynasty",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hatshepsut",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Khnum models Hatshepsut and her ka",
+   "note": "Khnum fashions the divine royal child and her ka on his wheel.",
+   "source": "Deir el-Bahri divine-birth reliefs",
+   "date": "c. 15th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amenhotep III",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Khnum models the future king",
+   "note": "The Luxor birth cycle adapts Khnum’s royal-child formation for Amenhotep III.",
+   "source": "Luxor Temple birth room",
+   "date": "18th Dynasty",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Satet is commonly Khnum’s consort in the later Elephantine triad.",
+   "source": "Elephantine inscriptions and temples",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some variant summaries make Satet Khnum’s daughter rather than his consort.",
+   "source": "Variant Elephantine configurations",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anuket",
+   "other_aliases": [
+    "Anukis"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Anuket is ordinarily Khnum’s daughter in the later cataract triad.",
+   "source": "Elephantine inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anuket",
+   "other_aliases": [
+    "Anukis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A variant configuration makes Anuket Khnum’s consort rather than daughter.",
+   "source": "Variant Elephantine configurations",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anuket",
+   "other_aliases": [
+    "Anukis"
+   ],
+   "kind": "shared_myth",
+   "myth": "Festival of Khnum and Anuket",
+   "note": "Khnum and Anuket share a local festival and receive offerings together.",
+   "source": "Thutmose III festival list",
+   "date": "18th Dynasty",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hapy",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Khnum releases the Nile inundation",
+   "note": "Khnum controls or releases the inundation personified by Hapy without being identical to him.",
+   "source": "Famine Stela",
+   "date": "Ptolemaic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Neith functions as Khnum’s paired female source of creation at Esna.",
+   "source": "Esna façade hymns",
+   "date": "170 and 169–164 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Khnum-Ra and Neith can manifest the male and female aspects of one creator.",
+   "source": "Roman Esna corpus",
+   "date": "1st–3rd centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Heka",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Esna theology makes Heka Khnum’s son or firstborn, often through Neith.",
+   "source": "Esna inscriptions",
+   "date": "Ptolemaic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Menhyt",
+   "other_aliases": [
+    "Menhyt-Nebtu"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Menhyt is Khnum’s consort or female partner within Esna’s divine family.",
+   "source": "Esna inscriptions",
+   "date": "Ptolemaic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nebetu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Esna litanies and festival worship",
+   "note": "Nebetu belongs to Khnum’s local divine circle and shares liturgical worship.",
+   "source": "Esna 234 and 241",
+   "date": "Ptolemaic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Esna coordinated creation theology",
+   "note": "Shu appears within the creation program headed by Khnum-Ra and Neith.",
+   "source": "Esna II 17 and 31",
+   "date": "170 and 169–164 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Esna coordinated creation theology",
+   "note": "Tefnut is paired with Shu in the creation program of Khnum-Ra and Neith.",
+   "source": "Esna II 17 and 31",
+   "date": "170 and 169–164 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Esna litany and temple ritual",
+   "note": "Osiris and Khnum co-occur in Esna liturgy without a preserved independent encounter.",
+   "source": "Esna liturgical corpus",
+   "date": "Ptolemaic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Southern temple litanies",
+   "note": "Isis and Khnum receive cult in overlapping southern temple networks and litanies.",
+   "source": "Esna and Philae temple material",
+   "date": "Ptolemaic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal child formation and Horus-kingship",
+   "note": "Khnum’s making of the royal child supports the king’s identification with Horus.",
+   "source": "New Kingdom birth theology",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amun-Ra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Shared ram, solar, and creator attributes produced composite or ambiguous representations.",
+   "source": "New Kingdom and later material",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Chnoubis",
+   "other_aliases": [
+    "Chnoumis",
+    "Chnumis",
+    "Chnouphis",
+    "Chnubis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Khnum’s name and creator symbolism became associated with Chnoubis, though their identity remains disputed.",
+   "source": "Magical gems and papyri",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Agathos Daimon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Khnum became secondarily associated with Agathos Daimon through Chnoubis and serpentine creator imagery.",
+   "source": "Greco-Roman magical tradition",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

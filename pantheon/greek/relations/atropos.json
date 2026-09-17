@@ -1,0 +1,501 @@
+{
+ "subject": "atropos",
+ "relations": [
+  {
+   "other": "Clotho",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Clotho is Atropos's sister in every genealogy naming the triad.",
+   "source": "Hesiod, Theogony 218–222, 904–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Allotment of destiny at birth",
+   "note": "They jointly give mortals good and evil at birth.",
+   "source": "Hesiod, Theogony 218–222, 904–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lachesis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Lachesis is Atropos's sister in every genealogy naming the triad.",
+   "source": "Hesiod, Theogony 218–222, 904–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lachesis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Allotment of destiny at birth",
+   "note": "They jointly give mortals good and evil at birth.",
+   "source": "Hesiod, Theogony 218–222, 904–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Night bears Atropos and the other Moirai without a mate.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Atropos and the other Moirai by Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Bestowal of honor upon the Moirai",
+   "note": "Zeus grants Atropos and her sisters exceptional honor.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Themis bears Atropos and the other Moirai to Zeus.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Plato makes Atropos one of the three daughters of Necessity.",
+   "source": "Plato, Republic 617c",
+   "date": "c. 380 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "served",
+   "myth": "Myth of Er",
+   "note": "Atropos sits beside Ananke's spindle and helps turn its cosmic circles.",
+   "source": "Plato, Republic 616c–617d",
+   "date": "c. 380 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman mythography makes Erebus and Night parents of the Parcae.",
+   "source": "Hyginus, Fabulae, preface",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late Orphic material makes Ouranos a parent of the Moirai.",
+   "source": "Orphic rhapsodic fragments",
+   "date": "late or uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late Orphic material makes Gaia a parent of the Moirai.",
+   "source": "Orphic rhapsodic fragments",
+   "date": "late or uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Moros",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moros and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ker",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ker and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Thanatos and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hypnos and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Dreams",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Dreams and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Momos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Momos and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oizys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Oizys and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hesperides and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nemesis and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apate",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apate and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Philotes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Philotes and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Geras",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Geras and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eris and Atropos are siblings under Hesiod's Night genealogy.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eunomia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eunomia and Atropos share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dike",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dike and Atropos share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eirene",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eirene and Atropos share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Sirens",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Harmony of the cosmic spindle",
+   "note": "Atropos sings the future in harmony with eight cosmic Sirens.",
+   "source": "Plato, Republic 617b–d",
+   "date": "c. 380 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "chosen daimones",
+   "other_aliases": [
+    "guardian daimones"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ratification of reincarnating souls",
+   "note": "Guardian daimones lead souls onward before Atropos makes their chosen lives irreversible.",
+   "source": "Plato, Republic 620d–621a",
+   "date": "c. 380 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Admetus escapes his allotted death",
+   "note": "Apollo deceives the collective Moirai with wine to secure an exception for Admetus.",
+   "source": "Aeschylus, Eumenides 723–728",
+   "date": "458 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Erinyes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Erinyes invoke the Moirai as their Night-born sisters.",
+   "source": "Aeschylus, Eumenides 956–967",
+   "date": "458 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Themis escorted to Olympus",
+   "note": "Atropos and the Moirai bring Themis from Ocean to marry Zeus.",
+   "source": "Pindar, fragment",
+   "date": "early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agrius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "The Moirai collectively kill the Giant Agrius with bronze clubs.",
+   "source": "Pseudo-Apollodorus, Library 1.6.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "The Moirai collectively kill the Giant Thoon with bronze clubs.",
+   "source": "Pseudo-Apollodorus, Library 1.6.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus Moiragetes",
+   "other_aliases": [
+    "Zeus Guide of Fate"
+   ],
+   "kind": "shared_myth",
+   "myth": "Lycosura cult relief",
+   "note": "A lost relief represented the Moirai together with Zeus Moiragetes.",
+   "source": "Pausanias 8.37.1",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite Ourania",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "An Athenian inscription exceptionally calls Aphrodite the eldest of the Moirai.",
+   "source": "Pausanias 1.19.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pausanias interprets Tyche as a Moira more powerful than her sisters.",
+   "source": "Pausanias 7.26.8",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Hades"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Fulgentius assigns the three Fates to Pluto's realm.",
+   "source": "Fulgentius, Mythologies 1.8",
+   "date": "fifth–sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Abduction of Proserpina",
+   "note": "Fate and textile imagery foreshadow Proserpina's abduction without a discrete encounter.",
+   "source": "Claudian, De raptu Proserpinae",
+   "date": "c. 395–404 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Meleager and the fatal brand",
+   "note": "Atropos declares Meleager will live only while the hearth-brand remains unconsumed.",
+   "source": "Hyginus, Fabulae 171",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphiaraus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "War of the Seven against Thebes",
+   "note": "Atropos overwhelms Amphiaraus's reluctance and drives him toward his ordained death.",
+   "source": "Statius, Thebaid 4.187",
+   "date": "c. 80–92 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Atropos participates among the Parcae singing prophecy at Peleus's wedding.",
+   "source": "Catullus 64.305–383",
+   "date": "mid-first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Atropos participates among the Parcae singing prophecy at Thetis's wedding.",
+   "source": "Catullus 64.305–383",
+   "date": "mid-first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prophecy and first bath of Achilles",
+   "note": "The Parcae foretell Achilles's destiny and appear behind his parents at his bath.",
+   "source": "Catullus 64; Paphos mosaic",
+   "date": "first century BCE–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Morta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretive tradition conventionally equates Atropos with Morta.",
+   "source": "Roman literary and antiquarian tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philosophical allegory treats both names as aspects of invincible causal order.",
+   "source": "Stoic and philosophical allegory",
+   "date": "Hellenistic–Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

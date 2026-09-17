@@ -1,0 +1,359 @@
+{
+ "subject": "nemesis",
+ "relations": [
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx bears Nemesis without a named father.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ocean",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pausanias gives Ocean as Nemesis’s father at Rhamnous.",
+   "source": "Pausanias 1.33.3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus pursues shape-changing Nemesis",
+   "note": "Zeus pursues the unwilling Nemesis and fathers Helen under harsh compulsion.",
+   "source": "Cypria fragments in Athenaeus",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swan and goose union",
+   "note": "Goose-shaped Nemesis attempts escape, but swan-shaped Zeus mates with her.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.10.7",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Conception of Helen",
+   "note": "Nemesis conceives Helen after Zeus’s compelled union with her.",
+   "source": "Cypria fragments",
+   "date": "late seventh–early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Helen hatches from Nemesis’s egg",
+   "note": "Nemesis lays the egg from which Helen hatches under Leda’s care.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.10.7",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Helen brought to Nemesis",
+   "note": "The Rhamnous statue base presented Nemesis as Helen’s true mother.",
+   "source": "Pausanias 1.33.7–8",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Dioscuri",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nemesis is conjecturally reconstructed as their mother from fragmentary secondary evidence.",
+   "source": "Fragmentary and secondary evidence",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "other": "Aidos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Withdrawal from corrupt humanity",
+   "note": "Aidos and Nemesis veil themselves and leave humanity for Olympus.",
+   "source": "Hesiod, Works and Days 197–201",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Themis and Nemesis shared sacred space in the Rhamnous sanctuary.",
+   "source": "Rhamnous dedication and archaeology",
+   "date": "fourth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Erysichthon",
+   "note": "Nemesis records Erysichthon’s impious boast before Demeter punishes him.",
+   "source": "Callimachus, Hymn to Demeter 44–56",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [
+    "Nikai"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Small figures of Nike adorned the crown of Nemesis’s Rhamnous statue.",
+   "source": "Pausanias 1.33.3",
+   "date": "second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Golden Charites reportedly stood above Smyrna’s two Nemeseis.",
+   "source": "Pausanias 7.5.3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [
+    "The Inescapable"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Nemesis and Adrasteia received joint worship at Andros and Cos.",
+   "source": "Cultic and literary evidence",
+   "date": "fifth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [
+    "The Inescapable"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later tradition merged Adrasteia’s functions and identity with Nemesis.",
+   "source": "Later literary and cultic tradition",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial worship fused Nemesis with Diana as Diana Nemesis.",
+   "source": "Roman inscriptions and images",
+   "date": "first–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [
+    "Fortuna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Nemesis fused iconographically and functionally with Tyche or Fortuna.",
+   "source": "Hellenistic and Roman art",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Egyptian imagery combined Nemesis’s form and gestures with Isis’s attributes.",
+   "source": "Roman Egyptian images",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Livia Augusta",
+   "other_aliases": [
+    "Livia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Rhamnous closely associated Nemesis with the deified empress without universal identification.",
+   "source": "I Rhamnous 156",
+   "date": "first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Foundation of relocated Smyrna",
+   "note": "Apollo’s Claros oracle approves the Nemeseis’ command to relocate Smyrna.",
+   "source": "Pausanias 7.5",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Moros",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moros and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ker",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ker and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Thanatos and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hypnos and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Oneiroi",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Oneiroi and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Momos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Momos and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oizys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Oizys and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hesperides and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Moirai",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Moirai and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Keres",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Keres and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apate",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apate and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Philotes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Philotes and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Geras",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Geras and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eris and Nemesis are fatherless children of Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  }
+ ]
+}

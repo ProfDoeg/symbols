@@ -1,0 +1,446 @@
+{
+ "subject": "hercules_in_rome",
+ "relations": [
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Jupiter fathers Hercules through Alcmena",
+   "note": "Jupiter assumes Amphitryon’s appearance and becomes Hercules’ biological divine father.",
+   "source": "Hesiodic tradition; Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Apotheosis after the pyre on Oeta",
+   "note": "Jupiter preserves Hercules’ divine part and receives him into heaven.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcmena",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Alcmena is Hercules’ mortal mother in the dominant Greek-Roman genealogy.",
+   "source": "Greek epic and Roman tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphitryon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Amphitryon is Hercules’ social father, though Jupiter is his biological father.",
+   "source": "Greek-Roman mythographic tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphicles",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iphicles is Hercules’ mortal twin or half-brother.",
+   "source": "Greek-Roman mythographic tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "punished_by",
+   "myth": "Juno persecutes the infant and sends serpents",
+   "note": "Juno’s hostility begins in infancy when she sends serpents against Hercules.",
+   "source": "Virgil, Aeneid 8",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "punished_by",
+   "myth": "Juno drives Hercules into murderous madness",
+   "note": "Juno inflicts madness that makes Hercules kill his family.",
+   "source": "Seneca, Hercules Furens",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "shared_myth",
+   "myth": "Juno acquiesces in Hercules’ apotheosis",
+   "note": "After prolonged hostility, Juno reluctantly accepts Hercules into divine order.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Uni adopts or reconciles with Hercle",
+   "note": "An Etruscan mirror calls Hercle “son of Uni,” presenting divine adoption.",
+   "source": "Inscribed Etruscan mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [
+    "Juventas"
+   ],
+   "kind": "consort_of",
+   "myth": "Marriage following Hercules’ apotheosis",
+   "note": "Hebe becomes Hercules’ divine wife after his ascent to heaven.",
+   "source": "Greek epic and Roman reception",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Menrva",
+    "Athena"
+   ],
+   "kind": "allied",
+   "myth": "Minerva repeatedly assists and receives Hercules",
+   "note": "Minerva helps Hercules and receives him into divine order.",
+   "source": "Greek vases; Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mercury mediates Hercules’ divine presentation",
+   "note": "Etruscan images pair Mercury with Hercules as a mediator of divine presentation.",
+   "source": "Etruscan mirrors",
+   "date": "Etruscan period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Struggle over the Delphic tripod",
+   "note": "Hercules struggles with Apollo after being refused purification or an oracle.",
+   "source": "Cicero, De natura deorum 3.42",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Artemis"
+   ],
+   "kind": "other",
+   "myth": "Capture of the sacred Ceryneian hind",
+   "note": "Hercules captures Diana’s hind without killing it and explains his task.",
+   "source": "Greek mythographic tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "fought",
+   "myth": "Defense of Pylos",
+   "note": "Hercules wounds Ares while defending Pylos.",
+   "source": "Homeric and later mythography",
+   "date": "early Greek tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "shared_myth",
+   "myth": "Hercules sacks Laomedon’s Troy",
+   "note": "Hercules sacks Troy after Neptune and Apollo had built its walls.",
+   "source": "Homeric and mythographic corpus",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Dis",
+    "Hades"
+   ],
+   "kind": "fought",
+   "myth": "Hercules enters Hades for Cerberus",
+   "note": "Some versions have Hercules wound Hades during his underworld descent.",
+   "source": "Homer, Iliad 5.395–404",
+   "date": "archaic Greek period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Encounter during the underworld descent",
+   "note": "Hercules encounters Proserpina while attempting to rescue Theseus and Pirithous.",
+   "source": "Later Greek and Roman mythography",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue of Theseus from the underworld",
+   "note": "Hercules frees Theseus during his descent for Cerberus.",
+   "source": "Later Greek and Roman mythography",
+   "date": "later antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pirithous",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Failed rescue from the underworld",
+   "note": "Hercules attempts but in some accounts cannot rescue Pirithous.",
+   "source": "Later Greek and Roman mythography",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Deianira",
+   "note": "Hercules defeats the transforming river-god and breaks off one horn.",
+   "source": "Ovid, Metamorphoses 9.1–97",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Atlas retrieves the Hesperidean apples",
+   "note": "Hercules tricks Atlas into resuming the sky after obtaining the apples.",
+   "source": "Greek mythographic tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hercules becomes leader and guardian of the Muses",
+   "note": "Hercules is presented as the Muses’ companion, guardian, or leader.",
+   "source": "Eumenius, Pro instaurandis scholis 7",
+   "date": "Roman imperial period",
+   "tier": "attested"
+  },
+  {
+   "other": "Bona Dea",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Exclusion from Bona Dea’s women-only sanctuary",
+   "note": "Denied water, Hercules forces entry and retaliates by excluding women from his altar.",
+   "source": "Propertius 4.9",
+   "date": "c. 16 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Carmenta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Carmenta foretells Hercules’ divinity",
+   "note": "Carmenta recognizes Jupiter’s son and prophesies his future apotheosis.",
+   "source": "Livy 1.7; Ovid, Fasti 1",
+   "date": "Augustan age",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Reform of Saturnian practices in Italy",
+   "note": "Hercules alters or displaces violent practices attributed to Saturnian Italy.",
+   "source": "Dionysius, Roman Antiquities 1.38–44",
+   "date": "c. 7 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Faunus tests Hercules in disguise",
+   "note": "Late inconsistent Roman accounts describe a disguised Italian Faunus testing Hercules.",
+   "source": "Late Roman antiquarian accounts",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [
+    "Liber"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Both are mortal-born benefactors elevated to godhood and later shared a temple.",
+   "source": "Cicero, De natura deorum 3.45",
+   "date": "45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cacus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Cacus steals Geryon’s cattle",
+   "note": "Hercules discovers the stolen cattle and kills Cacus.",
+   "source": "Livy, Ab urbe condita 1.7",
+   "date": "c. 27 BCE–14 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cacus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle with the fire-breathing cave monster",
+   "note": "Hercules tears open Cacus’ cave and strangles Vulcan’s monstrous son.",
+   "source": "Virgil, Aeneid 8.184–305",
+   "date": "c. 29–19 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cacus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "War against the chieftain Cacus",
+   "note": "In a rationalized variant, Hercules defeats the barbarian chieftain Cacus in war.",
+   "source": "Dionysius, Roman Antiquities 1.39–42",
+   "date": "c. 7 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Final labour in the underworld",
+   "note": "Hercules subdues Cerberus, brings him alive above ground, then returns him.",
+   "source": "Greek and Roman mythographic tradition",
+   "date": "canonical antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Nessus attacks Deianira",
+   "note": "Hercules kills Nessus with a poisoned arrow after the centaur attacks Deianira.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "The poisoned robe of Deianira",
+   "note": "Nessus’ poisoned blood later causes Hercules’ fatal burning and pyre.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antaeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Wrestling Antaeus",
+   "note": "Hercules defeats Antaeus by lifting him away from his sustaining mother Earth.",
+   "source": "Roman art and later mythography",
+   "date": "Roman antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geryon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Labour for Geryon’s cattle",
+   "note": "Hercules kills Geryon and drives his cattle through Italy.",
+   "source": "Archaic Greek tradition",
+   "date": "archaic Greek period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caca",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Caca betrays her brother Cacus",
+   "note": "A poorly attested tradition makes Caca betray her brother to Hercules.",
+   "source": "Late antiquarian tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Deianira",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage after the contest with Achelous",
+   "note": "Hercules wins Deianira after defeating her river-god suitor Achelous.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hēraklēs"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Hercules naturalizes the Greek Heracles’ genealogy, Labours, death, and apotheosis.",
+   "source": "Republican Roman cult and literature",
+   "date": "Roman Republic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hercle",
+   "other_aliases": [
+    "Hercele"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan Hercle was closely equated with Roman Hercules despite distinctive local mythology.",
+   "source": "Etruscan mirrors",
+   "date": "fourth–third centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Melqart",
+   "other_aliases": [
+    "Tyrian Hercules",
+    "Gaditan Hercules"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman writers identify the Tyrian and Gaditan Melqart as Heracles or Hercules.",
+   "source": "Greek and Roman literary tradition",
+   "date": "classical antiquity",
+   "tier": "syncretism"
+  }
+ ]
+}

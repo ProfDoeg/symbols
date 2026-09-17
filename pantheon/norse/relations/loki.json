@@ -1,0 +1,789 @@
+{
+ "subject": "loki",
+ "relations": [
+  {
+   "other": "Fárbauti",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri names Fárbauti as Loki’s father.",
+   "source": "Gylfaginning; Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laufey",
+   "other_aliases": [
+    "Nál"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri names Laufey, also called Nál, as Loki’s mother.",
+   "source": "Gylfaginning; Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Býleistr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri identifies Býleistr as Loki’s brother.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helblindi",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri identifies Helblindi as Loki’s brother.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigyn",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Sigyn is Loki’s wife and the mother or presumed mother of his sons.",
+   "source": "Vǫluspá; Lokasenna prose; Snorri",
+   "date": "10th–13th centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigyn",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Loki’s binding",
+   "note": "Sigyn loyally catches the serpent’s venom above her bound husband.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "10th century; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Narfi",
+   "other_aliases": [
+    "Nari"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Narfi or Nari is Loki’s son; sources conflict over his punishment.",
+   "source": "Lokasenna prose; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Váli is Loki’s son; manuscripts conflict over which son becomes a wolf.",
+   "source": "Lokasenna prose; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angrboða",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Snorri makes the giantess Angrboða Loki’s partner and mother of three children.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri names Fenrir as Loki and Angrboða’s child.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fenrir’s binding",
+   "note": "A poetic Loki-description calls him Fenrir’s binder, though the Æsir and Týr perform the binding.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri names Jǫrmungandr as Loki and Angrboða’s child.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri names Hel as Loki and Angrboða’s child.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Baldr’s failed release",
+   "note": "Disguised as Þökk, Loki presumably defeats Hel’s condition by refusing to weep.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sleipnir",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Loki becomes a mare, mates with Svaðilfari, and bears Sleipnir.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Svaðilfari",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Sleipnir’s conception",
+   "note": "Mare-shaped Loki mates with Svaðilfari and subsequently bears Sleipnir.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Svaðilfari",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The fortification of Ásgarðr",
+   "note": "Loki becomes a mare and lures Svaðilfari away, preventing the fortification’s completion.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Blood-brotherhood at Ægir’s feast",
+   "note": "Loki invokes their mingled blood to compel Óðinn to admit him.",
+   "source": "Lokasenna 9",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Þjazi and Iðunn",
+   "note": "Loki travels with Óðinn and Hœnir during their encounter with Þjazi.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ótr and the cursed hoard",
+   "note": "Loki travels with Óðinn and Hœnir and obtains Ótr’s ransom.",
+   "source": "Reginsmál",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki and Óðinn trade accusations concerning injustice, sex change, and childbirth.",
+   "source": "Lokasenna 22–24",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Sleipnir’s birth",
+   "note": "Loki bears Sleipnir and gives the eight-legged horse to Óðinn.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The theft of Brísingamen",
+   "note": "At Óðinn’s command, Loki steals Freyja’s necklace.",
+   "source": "Sǫrla þáttr",
+   "date": "late 14th century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hœnir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Þjazi and Iðunn",
+   "note": "Loki travels with Hœnir and Óðinn during their encounter with Þjazi.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Hœnir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ótr and the cursed hoard",
+   "note": "Loki travels with Hœnir and Óðinn during the Ótr ransom episode.",
+   "source": "Reginsmál",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Journey to Geirrøðr",
+   "note": "Loki induces Þórr to visit Geirrøðr without his hammer or strength-belt.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "c. 990–1000; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Útgarða-Loki’s contests",
+   "note": "Loki accompanies Þórr to Útgarðr and participates in the deceptive contests.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of Mjǫllnir",
+   "note": "Loki discovers Þrymr’s terms and assists bridal-disguised Þórr as his maid.",
+   "source": "Þrymskviða",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Þórr repeatedly threatens Loki with Mjǫllnir until Loki leaves.",
+   "source": "Lokasenna 57–64",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Sif’s golden hair",
+   "note": "Loki shears away Sif’s hair and must procure a golden replacement.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Sif’s golden hair",
+   "note": "Loki commissions magical golden hair to replace what he cut from Sif.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sif",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki alleges sexual access to Sif, but no surviving narrative corroborates it.",
+   "source": "Lokasenna 53–54",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iðunn",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Þjazi and Iðunn",
+   "note": "Loki lures Iðunn outside Ásgarðr so Þjazi can abduct her.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Iðunn",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Þjazi and Iðunn",
+   "note": "Loki transforms Iðunn into a nut and carries her home.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Iðunn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki insults Iðunn and alleges she embraced her brother’s killer.",
+   "source": "Lokasenna 16–18",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þjazi",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Þjazi and Iðunn",
+   "note": "Loki strikes eagle-shaped Þjazi with a pole and is dragged through the air.",
+   "source": "Haustlǫng",
+   "date": "late 9th–early 10th",
+   "tier": "attested"
+  },
+  {
+   "other": "Þjazi",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Þjazi and Iðunn",
+   "note": "Coerced by Þjazi, Loki promises and delivers Iðunn outside Ásgarðr.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Þjazi",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Rescue of Iðunn",
+   "note": "Loki infiltrates Þjazi’s home and escapes with Iðunn transformed into a nut.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "c. 900; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Þjazi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki boasts to Skaði that he was foremost in causing Þjazi’s death.",
+   "source": "Lokasenna 49–52",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Bragi tries to exclude Loki; they exchange insults about courage and status.",
+   "source": "Lokasenna 8–15",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Baldr’s vulnerability",
+   "note": "Disguised as a woman, Loki tricks Frigg into revealing mistletoe’s exemption.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki tells Frigg that he caused Baldr never to return home.",
+   "source": "Lokasenna 27–28",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Baldr’s death",
+   "note": "Loki engineers Baldr’s death by supplying mistletoe and directing Hǫðr’s shot.",
+   "source": "Gylfaginning; Lokasenna",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hǫðr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Baldr’s death",
+   "note": "Loki places mistletoe in blind Hǫðr’s hand and aims the fatal shot.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Baldr’s failed release",
+   "note": "Loki as presumed Þökk indirectly defeats the release condition Hermóðr negotiated.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Flights to Þrymr and Þjazi",
+   "note": "Freyja lends Loki her feather garment for his retrieval missions.",
+   "source": "Þrymskviða; Skáldskaparmál",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The theft of Brísingamen",
+   "note": "Loki transforms into a fly and steals Freyja’s necklace for Óðinn.",
+   "source": "Sǫrla þáttr",
+   "date": "late 14th century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki accuses Freyja of incest and indiscriminate sexuality.",
+   "source": "Lokasenna 30–32",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Heimdallr calls Loki drunk and witless; Loki attacks Heimdallr’s appointed life.",
+   "source": "Lokasenna 47–48",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest over Brísingamen",
+   "note": "Loki and Heimdallr fight as seals over Freyja’s necklace.",
+   "source": "Húsdrápa; Sǫrla þáttr",
+   "date": "late 10th; late 14th",
+   "tier": "attested"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ragnarök",
+   "note": "Loki and Heimdallr kill one another during the final battle.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Ragnarök",
+   "note": "Heimdallr kills Loki while dying by Loki’s hand.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki mocks Týr’s lost hand and alleges fathering a child with Týr’s wife.",
+   "source": "Lokasenna 38–40",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Njǫrðr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki and Njǫrðr trade allegations about hostage status and sexual degradation.",
+   "source": "Lokasenna 33–36",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skaði",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Skaði predicts Loki’s binding; Loki boasts about Þjazi and alleges intimacy with her.",
+   "source": "Lokasenna 49–52",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skaði",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Loki’s binding",
+   "note": "Skaði suspends a venomous serpent above bound Loki.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skaði",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Skaði’s settlement",
+   "note": "Loki ties his genitals to a goat’s beard and makes Skaði laugh.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Freyr threatens Loki with binding; Loki mocks Freyr for surrendering his sword.",
+   "source": "Lokasenna 41–44",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gefjun",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki rebuffs Gefjun’s peacemaking and alleges she traded sex for jewelry.",
+   "source": "Lokasenna 19–21",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viðarr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Loki’s return to Ægir’s feast",
+   "note": "At Óðinn’s order, Viðarr gives Loki a seat and drink.",
+   "source": "Lokasenna 10",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ægir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Flyting at Ægir’s feast",
+   "note": "Loki disrupts Ægir’s feast and abuses Ægir as its host.",
+   "source": "Lokasenna",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fimafeng",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ægir’s feast",
+   "note": "Loki kills Ægir’s servant after the gods praise the servants.",
+   "source": "Lokasenna prose",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lóðurr",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars dispute identifying Loki with Lóðurr; no source states the equation.",
+   "source": "Modern comparative scholarship",
+   "date": "19th–21st centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Útgarða-Loki",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Útgarða-Loki’s contests",
+   "note": "Loki competes in Útgarða-Loki’s hall; the narrative treats them as separate beings.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Logi",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Útgarða-Loki’s eating contest",
+   "note": "Loki loses an eating contest to Logi, the personification of wildfire.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrymr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Recovery of Mjǫllnir",
+   "note": "Disguised as a maid, Loki helps conceal bridal Þórr’s identity from Þrymr.",
+   "source": "Þrymskviða",
+   "date": "manuscript c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geirrøðr",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Journey to Geirrøðr",
+   "note": "Captured by Geirrøðr, Loki promises to bring Þórr without his weapons.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "c. 990–1000; c. 1220",
+   "tier": "attested"
+  },
+  {
+   "other": "Ótr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ótr and the cursed hoard",
+   "note": "Loki kills an otter that is actually the shape-shifted Ótr.",
+   "source": "Reginsmál; Vǫlsunga saga",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andvari",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Ótr and the cursed hoard",
+   "note": "Loki captures Andvari and confiscates his treasure and ring.",
+   "source": "Reginsmál; Vǫlsunga saga",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hreiðmarr",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Ótr’s ransom",
+   "note": "Loki obtains gold to satisfy Hreiðmarr’s ransom demand for Ótr’s death.",
+   "source": "Reginsmál; Vǫlsunga saga",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brokkr",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The forging wager",
+   "note": "Loki wagers his head that Brokkr’s brother cannot equal Ívaldi’s sons’ treasures.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brokkr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The forging wager",
+   "note": "Fly-shaped Loki bites Brokkr repeatedly to sabotage his work at the bellows.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brokkr",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Loki’s sewn mouth",
+   "note": "After Loki evades forfeiting his head, Brokkr sews Loki’s lips shut.",
+   "source": "Skáldskaparmál; Snaptun stone",
+   "date": "c. 1220; c. 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Eitri",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The forging wager",
+   "note": "Loki wagers that Eitri cannot forge treasures equal to those already obtained.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "sons of Ívaldi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The divine treasures",
+   "note": "Loki commissions them to make Sif’s hair, Skíðblaðnir, and Gungnir.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þökk",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Baldr’s failed release",
+   "note": "The Æsir believe Loki assumed the giantess Þökk’s identity to withhold tears.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utgarthilocus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Saxo’s bound being is sometimes equated with Loki, but the identification remains uncertain.",
+   "source": "Gesta Danorum VIII",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Loge",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Wagner adapts Loki as Loge, combining cunning mediation with elemental fire.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1876",
+   "tier": "modern"
+  }
+ ]
+}

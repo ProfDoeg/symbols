@@ -1,0 +1,271 @@
+{
+ "subject": "genius",
+ "relations": [
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Iuno"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Juno functions as the female personal counterpart to a man's Genius.",
+   "source": "Imperial literature, inscriptions, domestic iconography",
+   "date": "Imperial period",
+   "tier": "attested"
+  },
+  {
+   "other": "Lares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pompeian household cult",
+   "note": "The household Genius sacrifices between two Lares in lararium paintings.",
+   "source": "Pompeian lararia",
+   "date": "Before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lares Augusti",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Augustan neighborhood cult",
+   "note": "Two Lares Augusti and the leader's Genius formed three neighborhood divinities.",
+   "source": "Ovid, Fasti 5.145–146",
+   "date": "2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Iovis"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Inscriptions attest a Genius belonging to Jupiter, without a narrative encounter.",
+   "source": "Genius Iovis inscriptions",
+   "date": "Republican and imperial",
+   "tier": "attested"
+  },
+  {
+   "other": "Victoria",
+   "other_aliases": [
+    "Victory"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Regional inscriptions assign Victoria a Genius despite her female identity.",
+   "source": "Genius Victoriae inscriptions",
+   "date": "Imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vetutius Placidus lararium",
+   "note": "Mercury appears beside the household Genius, Lares, and Bacchus.",
+   "source": "Vetutius Placidus lararium",
+   "date": "Before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [
+    "Liber"
+   ],
+   "kind": "shared_myth",
+   "myth": "Vetutius Placidus lararium",
+   "note": "Bacchus appears beside the household Genius, Lares, and Mercury.",
+   "source": "Vetutius Placidus lararium",
+   "date": "Before 79 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Liber Pater",
+   "other_aliases": [
+    "Liber",
+    "Bacchus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "At Lambaesis, Liber Pater is invoked as a family's Genius.",
+   "source": "Lambaesis inscription",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anchises",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Serpent at Anchises' tomb",
+   "note": "The serpent may be Genius loci or Anchises' attendant; Virgil leaves it unresolved.",
+   "source": "Virgil, Aeneid 5.84–96",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "daimōn",
+   "other_aliases": [
+    "daemon"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial Platonism equates the personal Genius with a Greek daemon or embodied soul.",
+   "source": "Apuleius, De deo Socratis 15",
+   "date": "Second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Agathos Daimon",
+   "other_aliases": [
+    "Agathos Daimōn",
+    "Good Daimon"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Servius identifies Greek agathodaimon snakes with Roman Genii.",
+   "source": "Servius on Aeneid 5.85",
+   "date": "Late fourth–early fifth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lar familiaris",
+   "other_aliases": [
+    "Lar"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Granius Flaccus and other authorities reportedly identified Genius with Lar.",
+   "source": "Censorinus, De die natali 3",
+   "date": "238 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lar familiaris",
+   "other_aliases": [
+    "Lar"
+   ],
+   "kind": "transformed",
+   "myth": "Postmortem spirit classification",
+   "note": "In Apuleius's system, a good embodied spirit becomes a household-tending Lar after death.",
+   "source": "Apuleius, De deo Socratis 15",
+   "date": "Second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Larva",
+   "other_aliases": [
+    "Larvae"
+   ],
+   "kind": "transformed",
+   "myth": "Postmortem spirit classification",
+   "note": "In Apuleius's system, a harmful postmortem spirit becomes a wandering Larva.",
+   "source": "Apuleius, De deo Socratis 15",
+   "date": "Second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Manes",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Postmortem spirit classification",
+   "note": "Apuleius calls a dead spirit of uncertain moral status one of the Manes.",
+   "source": "Apuleius, De deo Socratis 15",
+   "date": "Second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Petronian usage attributes a Genius to Priapus as the deity's effective nature.",
+   "source": "Petronius, Satyrica",
+   "date": "First century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Fama",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Martial speaks of Fama's Genius as a literary extension of the concept.",
+   "source": "Martial, Epigrams",
+   "date": "Late first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later antiquarian interpretation identifies Apollo as the tutelary Genius of Sulla's household.",
+   "source": "Later antiquarian interpretation",
+   "date": "Date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Modern scholarship compares Cicero's protecting Minerva with Genius patronage without identifying them.",
+   "source": "Cicero; modern scholarship",
+   "date": "Modern interpretation",
+   "tier": "modern"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An inscription identifies Attis as the Genius of the dendrophori association.",
+   "source": "Dendrophori inscription",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Provincial inscriptions could identify Mars as a body's or locality's Genius and protector.",
+   "source": "Provincial inscriptions",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cocidius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Provincial inscriptions could identify Cocidius as a body's or locality's Genius and protector.",
+   "source": "Provincial inscriptions",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "guardian angel",
+   "other_aliases": [
+    "Christian angel"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Late antique and medieval thought compared guardian angels with Genii without establishing direct identity.",
+   "source": "Christian authors",
+   "date": "Late antique and medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Holy Guardian Angel",
+   "other_aliases": [
+    "higher self"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern esoteric systems fuse the Genius with the Holy Guardian Angel or higher self.",
+   "source": "Modern ceremonial magic",
+   "date": "Early-modern to present",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,931 @@
+{
+ "subject": "vishnu",
+ "relations": [
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vishnu’s three strides",
+   "note": "Vishnu strides widely, accompanies Indra, and helps him gain cosmic space.",
+   "source": "Ṛgveda 1.154–156, 6.69, 7.99–100",
+   "date": "late second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Govardhana challenges Indra’s sacrifice",
+   "note": "As Kṛṣṇa, Vishnu challenges Indra’s sacrifice by promoting worship at Govardhana.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Vedic invocations",
+   "note": "Agni and Vishnu receive joint invocation and possess parallel sacrificial and cosmic functions.",
+   "source": "Rigvedic hymns and ritual exegesis",
+   "date": "late second millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late Vedic classification places Vishnu among the Ādityas, the sons of Aditi.",
+   "source": "Late Vedic Āditya lists",
+   "date": "late Vedic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of Vāmana",
+   "note": "Vishnu is born to Aditi in his dwarf manifestation Vāmana.",
+   "source": "Rāmāyaṇa 1 and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of Vāmana",
+   "note": "Kaśyapa fathers Vishnu’s Vāmana manifestation in the developed narrative.",
+   "source": "Rāmāyaṇa 1 and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Lotus-navel creation",
+   "note": "Brahmā emerges upon the lotus growing from reclining Nārāyaṇa’s navel.",
+   "source": "Mahābhārata and Viṣṇu Purāṇa",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Non-Vaiṣṇava creation schemes",
+   "note": "Some non-Vaiṣṇava cosmologies make Brahmā precede or generate Vishnu.",
+   "source": "Sectarian Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Disputes over divine supremacy",
+   "note": "Purāṇic texts variously rank Brahmā and Vishnu or portray disputes between them.",
+   "source": "Mahābhārata and sectarian Purāṇas",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Trimūrti cosmic functions",
+   "note": "Brahmā and Vishnu occupy coordinated cosmic functions with Śiva in trimūrti schemes.",
+   "source": "Purāṇic trimūrti traditions",
+   "date": "first millennium CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "allied",
+   "myth": "Sectarian alliance traditions",
+   "note": "Epic and Purāṇic traditions sometimes present Vishnu and Śiva as divine allies.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "fought",
+   "myth": "Battle against Bāṇa",
+   "note": "As Kṛṣṇa, Vishnu battles Śiva while Śiva supports Bāṇa.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "gift",
+   "myth": "Kṛṣṇa honors Śiva",
+   "note": "Kṛṣṇa honors Śiva after their combat in the Bāṇa narrative.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "identified_with",
+   "myth": "Harihara synthesis",
+   "note": "Harihara images fuse Vishnu and Śiva into a single split-bodied deity.",
+   "source": "Harihara images and sectarian texts",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "served",
+   "myth": "Reciprocal sectarian worship",
+   "note": "Some sources portray Vishnu as worshipping Śiva, while hierarchies vary by sect.",
+   "source": "Sectarian Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "served_by",
+   "myth": "Reciprocal sectarian worship",
+   "note": "Some sources portray Śiva as Vishnu’s worshipper, reversing competing sectarian hierarchies.",
+   "source": "Sectarian Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lakṣmī",
+   "other_aliases": [
+    "Śrī",
+    "Śrīdevī"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Lakṣmī becomes Vishnu’s principal consort and dwells upon his chest.",
+   "source": "Epic-Purāṇic and Śrīvaiṣṇava traditions",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmī",
+   "other_aliases": [
+    "Śrī",
+    "Śrīdevī"
+   ],
+   "kind": "gift",
+   "myth": "Churning of the milk ocean",
+   "note": "After emerging from the churned ocean, Lakṣmī chooses Vishnu as her consort.",
+   "source": "Epic-Purāṇic churning accounts",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmī",
+   "other_aliases": [
+    "Śrī",
+    "Śrīdevī"
+   ],
+   "kind": "served_by",
+   "myth": "Śrīvaiṣṇava mediation of grace",
+   "note": "Śrīvaiṣṇava theology makes Śrī the compassionate mediator of Vishnu’s grace.",
+   "source": "Medieval Śrīvaiṣṇava theology",
+   "date": "eleventh century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bhūdevī",
+   "other_aliases": [
+    "Bhū",
+    "Earth"
+   ],
+   "kind": "rescued",
+   "myth": "Varāha raises Earth",
+   "note": "As Varāha, Vishnu raises Bhūdevī from the cosmic waters.",
+   "source": "Viṣṇu and Bhāgavata Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhūdevī",
+   "other_aliases": [
+    "Bhū",
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Earth requests avatāric relief",
+   "note": "Earth appeals for Vishnu’s intervention against oppressive rulers burdening her.",
+   "source": "Mahābhārata; Harivaṃśa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhūdevī",
+   "other_aliases": [
+    "Bhū",
+    "Earth"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Developed South Indian theology and iconography place Bhūdevī beside Vishnu as a consort.",
+   "source": "South Indian theology and iconography",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nīlādevī",
+   "other_aliases": [
+    "Nīlā"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Developed South Indian traditions place Nīlādevī beside Vishnu, though her status varies.",
+   "source": "South Indian theology and iconography",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śeṣa",
+   "other_aliases": [
+    "Ananta",
+    "Śeṣa-Ananta"
+   ],
+   "kind": "served_by",
+   "myth": "Cosmic sleep between creations",
+   "note": "Śeṣa-Ananta serves as Vishnu’s serpent couch upon the causal ocean.",
+   "source": "Epic and Purāṇic sources",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Garuḍa",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Garuḍa serves Vishnu as vehicle, attendant, emblem, and divine standard.",
+   "source": "Mahābhārata 1; Garuḍa-standard inscriptions",
+   "date": "second century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarasvatī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Regional sculptural ensembles",
+   "note": "Sarasvatī appears beside Vishnu in some regional medieval sculptural programs.",
+   "source": "Medieval Pāla and regional images",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nārada",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Nārada visits Vishnu",
+   "note": "Vishnu imparts religious or theological instruction to the visiting sage Nārada.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nārada",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine messages and narrative missions",
+   "note": "Nārada visits Vishnu or Kṛṣṇa, carries messages, and prompts divine narratives.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sanatkumāras",
+   "other_aliases": [
+    "Kumāras"
+   ],
+   "kind": "taught",
+   "myth": "Transmission of divine knowledge",
+   "note": "Vishnu or his tradition transmits theological knowledge to the Sanatkumāras.",
+   "source": "Purāṇic and Pāñcarātra literature",
+   "date": "first millennium CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bṛgu",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Bṛgu tests the great gods",
+   "note": "Bṛgu kicks Vishnu’s chest while testing the gods; Vishnu’s forbearance proves his superiority.",
+   "source": "Bhāgavata Purāṇa 10.89",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mohinī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Vishnu assumes female form",
+   "note": "Mohinī is the enchanting female form assumed by Vishnu.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dhanvantari",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Churning of the milk ocean",
+   "note": "The divine physician emerging with amṛta is later classified as Vishnu’s manifestation.",
+   "source": "Purāṇic churning cycle",
+   "date": "first millennium CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bali",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Vāmana requests three steps",
+   "note": "As Vāmana, Vishnu requests three paces, expands, and takes Bali’s worlds.",
+   "source": "Rāmāyaṇa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bali",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Bali receives a subordinate realm",
+   "note": "After taking the worlds, Vishnu grants Bali a realm or future dignity.",
+   "source": "Epic-Purāṇic Vāmana narratives",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bali",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bali’s annual Onam return",
+   "note": "Kerala tradition remembers Bali benevolently as a beloved king permitted to return.",
+   "source": "Kerala Onam traditions",
+   "date": "medieval onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prahlāda",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Narasiṃha protects Prahlāda",
+   "note": "Vishnu manifests as Narasiṃha to protect his devotee Prahlāda from Hiraṇyakaśipu.",
+   "source": "Mahābhārata; Harivaṃśa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hiraṇyakaśipu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Narasiṃha kills Hiraṇyakaśipu",
+   "note": "Narasiṃha kills him at twilight upon a threshold using his claws.",
+   "source": "Mahābhārata; Harivaṃśa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hiraṇyākṣa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Varāha raises Earth",
+   "note": "Vishnu as Varāha kills Hiraṇyākṣa before raising Earth from cosmic waters.",
+   "source": "Epic-Purāṇic Varāha cycle",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Madhu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying Madhu and Kaiṭabha",
+   "note": "Vishnu kills the primordial-water demon Madhu alongside Kaiṭabha.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaiṭabha",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying Madhu and Kaiṭabha",
+   "note": "Vishnu kills the primordial-water demon Kaiṭabha alongside Madhu.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hayagrīva",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Recovery of the stolen Vedas",
+   "note": "In some versions Vishnu confronts the demon Hayagrīva who stole the Vedas.",
+   "source": "Mahābhārata and later Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hayagrīva",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Vishnu assumes a horse head",
+   "note": "Other versions identify Hayagrīva as Vishnu’s horse-headed form recovering the Vedas.",
+   "source": "Mahābhārata and later Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Samudra",
+   "other_aliases": [
+    "Ocean",
+    "milk ocean"
+   ],
+   "kind": "shared_myth",
+   "myth": "Churning of the milk ocean",
+   "note": "Vishnu directs and supports the churning of Samudra for amṛta.",
+   "source": "Mahābhārata; Rāmāyaṇa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vāsuki",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Churning of the milk ocean",
+   "note": "Vāsuki serves as the churning rope while Vishnu stabilizes the operation.",
+   "source": "Epic-Purāṇic churning accounts",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "anti-gods",
+   "other_aliases": [
+    "demons"
+   ],
+   "kind": "deceived",
+   "myth": "Mohinī distributes amṛta",
+   "note": "As Mohinī, Vishnu deceives the anti-gods and distributes amṛta to the gods.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāhu",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Rāhu infiltrates the gods",
+   "note": "Vishnu decapitates Rāhu after Sun and Moon reveal his attempt to drink amṛta.",
+   "source": "Epic-Purāṇic churning cycle",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā’s gods and devas collectively",
+   "other_aliases": [
+    "devas"
+   ],
+   "kind": "served",
+   "myth": "Divine appeal for an avatāra",
+   "note": "Vishnu answers the gods’ appeals by descending against Rāvaṇa, Kaṃsa, and other enemies.",
+   "source": "Rāmāyaṇa; Harivaṃśa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rāma’s war against Rāvaṇa",
+   "note": "Vishnu descends as the human prince Rāma and kills Rāvaṇa.",
+   "source": "Rāmāyaṇa 1 and 6–7",
+   "date": "approximately 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaṃsa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Kṛṣṇa ends Kaṃsa’s tyranny",
+   "note": "As Kṛṣṇa, Vishnu is born to end Kaṃsa’s tyranny and kills him.",
+   "source": "Harivaṃśa; Viṣṇu and Bhāgavata Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balarāma",
+   "other_aliases": [
+    "Saṃkarṣaṇa",
+    "Balabhadra"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Balarāma is Kṛṣṇa’s brother and a major Vṛṣṇi deity.",
+   "source": "Early inscriptions; epic and Purāṇic texts",
+   "date": "first century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Balarāma",
+   "other_aliases": [
+    "Saṃkarṣaṇa",
+    "Balabhadra"
+   ],
+   "kind": "created",
+   "myth": "Fourfold Pāñcarātra emanation",
+   "note": "Saṃkarṣaṇa is the first emanation from Vāsudeva in some Pāñcarātra systems.",
+   "source": "Pāñcarātra Saṃhitās",
+   "date": "first millennium CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pradyumna",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pradyumna is a son of Vishnu in his Kṛṣṇa manifestation.",
+   "source": "Epic-Purāṇic material",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pradyumna",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Fourfold Pāñcarātra emanation",
+   "note": "Pradyumna is a member of the fourfold emanational sequence derived from Vāsudeva.",
+   "source": "Pāñcarātra Saṃhitās",
+   "date": "first millennium CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aniruddha",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Aniruddha is Kṛṣṇa’s grandson.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aniruddha",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Bāṇa imprisons Aniruddha",
+   "note": "Vishnu-Kṛṣṇa rescues his grandson Aniruddha during the conflict with Bāṇa.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aniruddha",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Fourfold Pāñcarātra emanation",
+   "note": "Aniruddha is the fourth member of the Pāñcarātra emanational sequence.",
+   "source": "Pāñcarātra Saṃhitās",
+   "date": "first millennium CE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bāṇa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle against Bāṇa",
+   "note": "Vishnu-Kṛṣṇa defeats Bāṇa and cuts away most of his arms.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bāṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Vishnu spares defeated Bāṇa",
+   "note": "After defeating and mutilating Bāṇa, Vishnu-Kṛṣṇa permits him to live.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Buddha",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Buddha incorporated as avatāra",
+   "note": "Some Purāṇic lists incorporate Buddha as Vishnu’s manifestation, sometimes sent to delude anti-gods.",
+   "source": "Viṣṇu, Bhāgavata and Agni Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kalkin",
+   "other_aliases": [
+    "Kalki"
+   ],
+   "kind": "identified_with",
+   "myth": "Future end of Kali age",
+   "note": "Kalkin is Vishnu’s future manifestation who destroys corrupt powers and restores order.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gajendra",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Gajendramokṣa",
+   "note": "Vishnu frees the surrendered elephant devotee from a crocodile.",
+   "source": "Bhāgavata Purāṇa 8",
+   "date": "eighth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dhruva",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Dhruva receives an eternal station",
+   "note": "Vishnu appears to the child ascetic and grants him an imperishable celestial station.",
+   "source": "Viṣṇu and Bhāgavata Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ambarīṣa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Sudarśana protects Ambarīṣa",
+   "note": "Vishnu’s Sudarśana protects the devotee Ambarīṣa from Durvāsas.",
+   "source": "Bhāgavata Purāṇa 9",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Durvāsas",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Sudarśana pursues Durvāsas",
+   "note": "Vishnu’s discus pursues Durvāsas after the sage threatens Ambarīṣa.",
+   "source": "Bhāgavata Purāṇa 9",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jaya",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Jaya serves as one of Vishnu’s gatekeepers.",
+   "source": "Bhāgavata Purāṇa",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jaya",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gatekeeper’s enemy births",
+   "note": "Vishnu repeatedly kills Jaya during the gatekeeper’s cursed births as divine enemies.",
+   "source": "Bhāgavata Purāṇa",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vijaya",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Vijaya serves as one of Vishnu’s gatekeepers.",
+   "source": "Bhāgavata Purāṇa",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vijaya",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gatekeeper’s enemy births",
+   "note": "Vishnu repeatedly kills Vijaya during the gatekeeper’s cursed births as divine enemies.",
+   "source": "Bhāgavata Purāṇa",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mārkaṇḍeya",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vision across cosmic dissolution",
+   "note": "Mārkaṇḍeya encounters Nārāyaṇa and sees the cosmos within the divine child.",
+   "source": "Mahābhārata and Bhāgavata Purāṇa",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nara",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nara-Nārāyaṇa austerities",
+   "note": "Nara and Nārāyaṇa perform austerities together as a paired sage formation.",
+   "source": "Mahābhārata",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Kṛṣṇa drives Arjuna’s chariot",
+   "note": "As Kṛṣṇa, Vishnu serves as Arjuna’s charioteer in the Kurukṣetra war.",
+   "source": "Mahābhārata 6",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Bhagavad Gītā discourse",
+   "note": "Kṛṣṇa teaches Arjuna and reveals his cosmic form.",
+   "source": "Bhagavad Gītā",
+   "date": "second century BCE–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yogamāyā",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Kṛṣṇa’s protected birth",
+   "note": "Yogamāyā transfers or substitutes children and carries out Vishnu-Kṛṣṇa’s birth plan.",
+   "source": "Harivaṃśa; Viṣṇu and Bhāgavata Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śarabha",
+   "other_aliases": [
+    "Śiva as Śarabha"
+   ],
+   "kind": "punished_by",
+   "myth": "Śarabha subdues raging Narasiṃha",
+   "note": "Some Śaiva texts say Śarabha subdues Vishnu’s raging Narasiṃha manifestation.",
+   "source": "Medieval Śaiva sectarian texts",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gandabheruṇḍa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Vaiṣṇava answer to Śarabha",
+   "note": "Vaiṣṇava counternarratives make Gandabheruṇḍa a further Vishnu form opposing Śarabha.",
+   "source": "Medieval Vaiṣṇava sectarian texts",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ayyappa",
+   "other_aliases": [
+    "Hariharaputra"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Hariharaputra",
+   "note": "Kerala tradition makes Ayyappa the son of Śiva and Vishnu in Mohinī form.",
+   "source": "Regional sthala-purāṇas",
+   "date": "medieval–early modern",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Kāma reborn as Pradyumna",
+   "note": "Kāma is sometimes reborn as Pradyumna, the son of Vishnu’s Kṛṣṇa manifestation.",
+   "source": "Epic-Purāṇic material",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pūtanā",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Infant Kṛṣṇa defeats Pūtanā",
+   "note": "As the infant Kṛṣṇa, Vishnu defeats the murderous being Pūtanā.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śakaṭa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Infant Kṛṣṇa defeats Śakaṭa",
+   "note": "As the infant Kṛṣṇa, Vishnu destroys the supernatural cart threat Śakaṭa.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tṛṇāvarta",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Kṛṣṇa defeats Tṛṇāvarta",
+   "note": "As the child Kṛṣṇa, Vishnu defeats the whirlwind demon Tṛṇāvarta.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kāliya",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Kṛṣṇa subdues Kāliya",
+   "note": "As Kṛṣṇa, Vishnu subdues the serpent Kāliya.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jarāsandha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kṛṣṇa’s conflicts with Jarāsandha",
+   "note": "Vishnu-Kṛṣṇa participates in repeated conflicts with Jarāsandha.",
+   "source": "Mahābhārata; Harivaṃśa; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Naraka",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kṛṣṇa’s conflict with Naraka",
+   "note": "Vishnu-Kṛṣṇa fights Naraka in the expanded Kṛṣṇa narrative cycle.",
+   "source": "Harivaṃśa and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sugrīva",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rāma allies with Sugrīva",
+   "note": "As Rāma, Vishnu allies with Sugrīva during the campaign against Rāvaṇa.",
+   "source": "Rāmāyaṇa",
+   "date": "approximately 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War to recover Sītā",
+   "note": "Hanumān becomes Rāma’s principal divine-monkey ally against Rāvaṇa.",
+   "source": "Rāmāyaṇa",
+   "date": "approximately 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Sītā is the wife of Vishnu’s Rāma manifestation.",
+   "source": "Rāmāyaṇa",
+   "date": "approximately 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "War to recover Sītā",
+   "note": "As Rāma, Vishnu wages war against Rāvaṇa and recovers the abducted Sītā.",
+   "source": "Rāmāyaṇa",
+   "date": "approximately 400 BCE–300 CE",
+   "tier": "canonical"
+  }
+ ]
+}

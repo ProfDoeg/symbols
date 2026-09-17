@@ -1,0 +1,881 @@
+{
+ "subject": "jotnar",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Slaying of Ymir",
+   "note": "Óðinn, Vili, and Vé kill Ymir and fashion the cosmos.",
+   "source": "Vǫluspá; Vafþrúðnismál; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Vili",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Slaying of Ymir",
+   "note": "Vili joins Óðinn and Vé in killing Ymir.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vé",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Slaying of Ymir",
+   "note": "Vé joins Óðinn and Vili in killing Ymir.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Bestla and Bölþorn place Óðinn within a maternal Jotunn lineage.",
+   "source": "Snorri genealogies",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Borr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Jotunn Bestla marries Borr and bears three sons.",
+   "source": "Gylfaginning; Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Nine mighty songs",
+   "note": "Bölþorn's unnamed son teaches Óðinn nine mighty songs.",
+   "source": "Hávamál 140",
+   "date": "medieval Eddic poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Mímir's counsel and well",
+   "note": "Mímir gives counsel, and Óðinn drinks from his well for an eye.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Wisdom contest with Vafþrúðnir",
+   "note": "Vafþrúðnir loses a fatal wisdom contest against the disguised Óðinn.",
+   "source": "Vafþrúðnismál",
+   "date": "medieval Eddic poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Bölverkr"
+   ],
+   "kind": "seduced_by",
+   "myth": "The mead of poetry",
+   "note": "Gunnlǫð sleeps with Óðinn for three nights and grants three drinks.",
+   "source": "Hávamál; Skáldskaparmál",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Bölverkr"
+   ],
+   "kind": "deceived_by",
+   "myth": "The mead of poetry",
+   "note": "Óðinn betrays Gunnlǫð and takes all the guarded mead.",
+   "source": "Hávamál; Skáldskaparmál",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Bölverkr"
+   ],
+   "kind": "theft",
+   "myth": "The mead of poetry",
+   "note": "Óðinn steals Suttungr's mead and escapes his eagle-form pursuit.",
+   "source": "Hávamál; Skáldskaparmál",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Bölverkr"
+   ],
+   "kind": "served_by",
+   "myth": "Baugi's bargain",
+   "note": "Óðinn labors for Baugi, who helps bore into Hnitbjörg.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Race into Ásgarðr",
+   "note": "Hrungnir races Sleipnir, enters Ásgarðr, and becomes violently boastful.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Hrungnir's duel",
+   "note": "Þórr kills Hrungnir but is pinned and wounded by whetstone.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Þjálfi",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Hrungnir's duel",
+   "note": "Þjálfi kills Hrungnir's clay helper Mǫkkurkálfi.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Þjazi seizes Loki",
+   "note": "Þjazi traps and drags Loki until he promises to deliver Iðunn.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Recovery of Iðunn",
+   "note": "Loki retrieves Iðunn and helps lure Þjazi into the gods' fire.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Iðunn",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Abduction of Iðunn",
+   "note": "Þjazi abducts Iðunn and her apples to Þrymheimr.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of Þjazi",
+   "note": "The Æsir burn or kill Þjazi while he pursues Loki.",
+   "source": "Haustlǫng; Skáldskaparmál",
+   "date": "late ninth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "judged_by",
+   "myth": "Skaði's compensation",
+   "note": "The Æsir settle Skaði's claim with husband-choice and laughter.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Njörðr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Skaði's compensation marriage",
+   "note": "Skaði chooses Njörðr by his feet; incompatible homes separate them.",
+   "source": "Gylfaginning; Grímnismál",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Skaði's laughter",
+   "note": "Loki makes Skaði laugh by tying himself to a goat.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding of Loki",
+   "note": "Skaði places a venomous serpent above the bound Loki.",
+   "source": "Lokasenna prose",
+   "date": "medieval Eddic prose",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Lokasenna alleges a sexual history between Skaði and Loki.",
+   "source": "Lokasenna",
+   "date": "medieval Eddic poem",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Freyr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Courtship of Gerðr",
+   "note": "Gerðr agrees to meet Freyr at Barri after Skírnir's coercion.",
+   "source": "Skírnismál; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Skírnir",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Coercion of Gerðr",
+   "note": "Skírnir forces Gerðr's agreement through violent and magical threats.",
+   "source": "Skírnismál",
+   "date": "medieval Eddic poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The stolen hammer",
+   "note": "Þrymr steals Mjǫllnir and demands Freyja as its ransom.",
+   "source": "Þrymskviða",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Þrymr's wedding feast",
+   "note": "Disguised as a bride, Þórr recovers Mjǫllnir and kills Þrymr.",
+   "source": "Þrymskviða",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Þrymr's marriage demand",
+   "note": "Þrymr demands Freyja as bride, but she refuses and never meets him.",
+   "source": "Þrymskviða",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Þrymr's wedding feast",
+   "note": "Loki, disguised as maid, explains the false bride's alarming behavior.",
+   "source": "Þrymskviða",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hymiskviða presents Hymir as Týr's father.",
+   "source": "Hymiskviða",
+   "date": "medieval Eddic poem",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Hymir's tests",
+   "note": "Hymir tests Þórr with cups, oxen, fishing, and the cauldron.",
+   "source": "Hymiskviða; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Escape with Hymir's cauldron",
+   "note": "Hymir and pursuing giants fight Þórr after he takes the cauldron.",
+   "source": "Hymiskviða",
+   "date": "medieval Eddic poem",
+   "tier": "attested"
+  },
+  {
+   "other": "Jörmungandr",
+   "other_aliases": [
+    "the world-serpent"
+   ],
+   "kind": "rescued",
+   "myth": "Þórr's fishing expedition",
+   "note": "Hymir cuts Þórr's line, allowing Jörmungandr to escape.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Geirröðr captures Loki",
+   "note": "Geirröðr captures Loki and compels him to bring Þórr unarmed.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Þórr and Geirröðr",
+   "note": "Þórr kills Geirröðr with a red-hot iron projectile.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "late tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Journey to Geirröðr",
+   "note": "Gríðr warns Þórr and lends him staff, belt, and gloves.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Crossing the Vimur",
+   "note": "Gjálp swells the river against Þórr, who later breaks her back.",
+   "source": "Þórsdrápa; Skáldskaparmál",
+   "date": "late tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Geirröðr's crushing chair",
+   "note": "Greip and Gjálp try crushing Þórr; he breaks their backs.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Trials at Útgarðr",
+   "note": "Útgarða-Loki humiliates Þórr with contests concealed by cosmic illusions.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Eating contest at Útgarðr",
+   "note": "Útgarða-Loki matches Loki against Logi, personified wildfire.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þjálfi",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Footrace at Útgarðr",
+   "note": "Útgarða-Loki matches Þjálfi's speed against Hugi, personified thought.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Wrestling with Elli",
+   "note": "Elli, personified Old Age, wrestles Þórr to one knee.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ragnarök",
+   "note": "Surtr kills the swordless Freyr during Ragnarök.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "fought",
+   "myth": "Ragnarök",
+   "note": "Surtr leads Muspell's forces against the gods and burns the world.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Binding of Fenrir",
+   "note": "Fenrir bites off Týr's hand while the gods bind him.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Fenrir's upbringing",
+   "note": "Týr alone feeds Fenrir before the binding.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ragnarök",
+   "note": "Fenrir swallows Óðinn during Ragnarök.",
+   "source": "Vafþrúðnismál; Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Vengeance for Óðinn",
+   "note": "Víðarr kills Fenrir in vengeance for Óðinn.",
+   "source": "Vafþrúðnismál; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Fishing for Jörmungandr",
+   "note": "Þórr hooks and strikes Jörmungandr during the fishing expedition.",
+   "source": "Hymiskviða; Húsdrápa; Gylfaginning",
+   "date": "c. 983 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ragnarök",
+   "note": "Jörmungandr kills Þórr with venom after receiving a fatal blow.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Ragnarök",
+   "note": "Þórr kills Jörmungandr before dying from its venom.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Hel cast into Niflheim",
+   "note": "Óðinn casts Hel into Niflheim and grants authority over certain dead.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Baldr's failed release",
+   "note": "Þökk refuses to weep, preventing Baldr's release from Hel.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Baldr's failed release",
+   "note": "Þökk refuses Frigg's messengers and frustrates the attempt to recover Baldr.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ægir's feast",
+   "note": "Ægir and Rán host the gods at divine feasts.",
+   "source": "Lokasenna; Skáldskaparmál",
+   "date": "c. 1220 synthesis",
+   "tier": "attested"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Ægir's mythographic questions",
+   "note": "Ægir questions Bragi and receives explanations of myths and kennings.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Capture of Andvari",
+   "note": "Rán lends Loki her net for Andvari's capture.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Óttar's genealogy",
+   "note": "Hyndla accompanies Freyja and recites Óttar's ancestry.",
+   "source": "Hyndluljóð",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Óttar's genealogy",
+   "note": "Freyja threatens Hyndla with fire to compel further revelation.",
+   "source": "Hyndluljóð",
+   "date": "medieval Eddic poem",
+   "tier": "canonical"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "rescued",
+   "myth": "Baldr's funeral",
+   "note": "Hyrrokkin launches Baldr's funeral ship when the gods cannot.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Baldr's funeral",
+   "note": "Þórr nearly kills Hyrrokkin after she launches Baldr's ship.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Angrboða and Loki produce Fenrir, Jörmungandr, and Hel.",
+   "source": "Hyndluljóð; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Jotunn Angrboða is Fenrir's mother.",
+   "source": "Hyndluljóð; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jörmungandr",
+   "other_aliases": [
+    "the world-serpent"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Jotunn Angrboða is Jörmungandr's mother.",
+   "source": "Hyndluljóð; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Jotunn Angrboða is Hel's mother.",
+   "source": "Hyndluljóð; Gylfaginning",
+   "date": "c. 1220 synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Járnsaxa bears Þórr's son Magni.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Magni",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Járnsaxa, or an unnamed giantess in the account, is Magni's mother.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dellingr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Jotunn-associated Nótt marries Dellingr and bears Dagr.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dagr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nótt and Dellingr are the parents of Dagr.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The giantess Jörð unites with Óðinn and bears Þórr.",
+   "source": "Eddic kennings; Snorri",
+   "date": "medieval sources",
+   "tier": "attested"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jörð, classified as a giantess, is Þórr's mother.",
+   "source": "Eddic kennings; Snorri",
+   "date": "medieval sources",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogy makes the Jotunn Gríðr Óðinn's partner and Víðarr's mother.",
+   "source": "later genealogical tradition",
+   "date": "medieval tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogy identifies Gríðr as Víðarr's mother.",
+   "source": "later genealogical tradition",
+   "date": "medieval tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ásgarðr wall bargain",
+   "note": "The unnamed builder demands Freyja, sun, and moon as payment.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Ásgarðr wall bargain",
+   "note": "Loki, as a mare, lures Svaðilfari away and ruins the builder's deadline.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Ásgarðr wall bargain",
+   "note": "Þórr kills the unnamed builder after his Jotunn nature is revealed.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Svaðilfari",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Building Ásgarðr's wall",
+   "note": "Svaðilfari performs the builder's extraordinary hauling work.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sleipnir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth after the wall bargain",
+   "note": "The builder episode indirectly produces Sleipnir through Loki and Svaðilfari.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Auðhumla",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Primordial creation",
+   "note": "Auðhumla nourishes Ymir with her milk.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Búri",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Primordial creation",
+   "note": "Búri emerges as Auðhumla nourishes Ymir in Ginnungagap.",
+   "source": "Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ægir",
+   "other_aliases": [
+    "Gymir"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Poetic usage calls Ægir Gymir, though identity with Gerðr's father is uncertain.",
+   "source": "poetic usage; Snorri",
+   "date": "medieval sources",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Utgarthilocus tradition",
+   "note": "Saxo's bound Utgarthilocus probably fuses Útgarða-Loki with punished Loki.",
+   "source": "Gesta Danorum",
+   "date": "c. 1208–1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fasolt",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Building Valhalla",
+   "note": "Wagner reinvents giant-builder material through the giant Fasolt.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1876",
+   "tier": "modern"
+  },
+  {
+   "other": "Fafner",
+   "other_aliases": [
+    "Fafnir"
+   ],
+   "kind": "identified_with",
+   "myth": "Building Valhalla",
+   "note": "Wagner reinvents Fafner as a giant builder who later becomes a dragon.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1876",
+   "tier": "modern"
+  }
+ ]
+}

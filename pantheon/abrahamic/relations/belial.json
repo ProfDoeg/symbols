@@ -1,0 +1,185 @@
+{
+ "subject": "belial",
+ "relations": [
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "created_by",
+   "myth": "Creation of Belial for the pit",
+   "note": "God creates or appoints Belial and permits his temporary dominion.",
+   "source": "1QM 13–14",
+   "date": "late Second Temple period",
+   "tier": "attested"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "punished_by",
+   "myth": "Final destruction of Belial",
+   "note": "God fixes Belial's annihilation and supports the forces that defeat him.",
+   "source": "1QM 13–14",
+   "date": "late Second Temple period",
+   "tier": "attested"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Prince of Light"
+   ],
+   "kind": "fought",
+   "myth": "War of Light and Darkness",
+   "note": "Michael and his angelic lot oppose Belial's forces in the final war.",
+   "source": "1QM 13, 17; 1QS 3",
+   "date": "late Second Temple period",
+   "tier": "attested"
+  },
+  {
+   "other": "Melchizedek",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Melchizedek's heavenly judgment",
+   "note": "Melchizedek judges Belial and the spirits belonging to his lot.",
+   "source": "11Q13 II",
+   "date": "first century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mastema",
+   "other_aliases": [
+    "Prince Mastema"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their adversarial functions overlap, prompting a tentative scholarly equation without a narrated meeting.",
+   "source": "1QM 13; Jubilees",
+   "date": "Second Temple period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jewish and Christian traditions align Belial with Satanic power or render his name as Satan.",
+   "source": "11Q11; Peshitta 2 Corinthians 6:15",
+   "date": "Second Temple–early Christian",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Samael",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Isaiah exposes Samael",
+   "note": "Beliar is closely associated with Samael, though recensions do not always identify them.",
+   "source": "Ascension of Isaiah 1–5",
+   "date": "late first–early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Beloved",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "fought",
+   "myth": "Beliar opposes the Beloved",
+   "note": "Beliar persecutes the faithful and opposes the Beloved's descent and mission.",
+   "source": "Ascension of Isaiah 3–4",
+   "date": "late first–early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Beloved",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "killed_by",
+   "myth": "Final manifestation of the Beloved",
+   "note": "Beliar is defeated and destroyed when the Beloved returns.",
+   "source": "Ascension of Isaiah 3–4",
+   "date": "late first–early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "The Beloved"
+   ],
+   "kind": "other",
+   "myth": "Christ and Beliar have no concord",
+   "note": "Christ and Beliar represent absolutely incompatible spiritual allegiances.",
+   "source": "2 Corinthians 6:15",
+   "date": "mid-first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Messianic/priestly deliverer",
+   "other_aliases": [
+    "righteous priestly or messianic figure"
+   ],
+   "kind": "punished_by",
+   "myth": "End of Beliar's dominion",
+   "note": "The future deliverer binds or overthrows Beliar's power.",
+   "source": "Testaments of the Twelve Patriarchs",
+   "date": "first century BCE–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Early-modern demonology claims Belial was created immediately after Lucifer.",
+   "source": "Weyer, Pseudomonarchia Daemonum",
+   "date": "1577",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the fallen angels",
+   "other_aliases": [
+    "those who fell"
+   ],
+   "kind": "seduced",
+   "myth": "Seduction of the fallen spirits",
+   "note": "Weyer calls Belial the father and seducer of those who fell.",
+   "source": "Weyer, Pseudomonarchia Daemonum",
+   "date": "1577",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bileth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solomon's brazen vessel",
+   "note": "Bileth ranks first and Belial second among the imprisoned spirit-kings.",
+   "source": "Weyer/Scot",
+   "date": "1577/1584",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asmoday",
+   "other_aliases": [
+    "Asmodeus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solomon's brazen vessel",
+   "note": "Asmoday ranks third after Bileth and Belial among the imprisoned kings.",
+   "source": "Weyer/Scot",
+   "date": "1577/1584",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Pandemonium's infernal council",
+   "note": "Belial sits in Satan's council and advises against renewed open war.",
+   "source": "Milton, Paradise Lost I–II",
+   "date": "1667/1674",
+   "tier": "modern"
+  }
+ ]
+}

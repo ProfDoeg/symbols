@@ -1,0 +1,690 @@
+{
+ "subject": "tethys",
+ "relations": [
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Oceanus are sibling children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tethys is Oceanus's wife and bears his rivers and Oceanids.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Quarrel and prolonged marital separation",
+   "note": "The couple abstain from bed and love after a quarrel.",
+   "source": "Iliad 14.200–210, 301–306",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Watery parents of the gods",
+   "note": "Homeric language possibly makes Oceanus and mother Tethys divine progenitors, though the grammar is debated.",
+   "source": "Iliad 14.200–210",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nursing of Hera",
+   "note": "Tethys and Oceanus lovingly receive, nurse, and rear Hera.",
+   "source": "Iliad 14.200–210",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Rhea are daughters of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nursing of Hera",
+   "note": "Rhea entrusts young Hera to Tethys and Oceanus for upbringing.",
+   "source": "Iliad 14.200–210",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears Tethys among the Titans.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Sky"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tethys is a daughter of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "a Curete",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Cretan account makes an unnamed Curete Tethys's father.",
+   "source": "Diodorus Siculus, Library 5.66",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Titaea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Cretan account makes Titaea Tethys's mother.",
+   "source": "Diodorus Siculus, Library 5.66",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Cronus are sibling Titans.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the river gods",
+   "other_aliases": [
+    "rivers"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tethys bears three thousand river sons to Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nile",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nile is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Alpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alpheus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eridanus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eridanus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Strymon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Strymon is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Maeander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maeander is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ister",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ister is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phasis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phasis is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhesus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Achelous is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nessus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhodius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhodius is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Haliacmon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Haliacmon is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heptaporus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Heptaporus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Granicus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Granicus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aesepus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aesepus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Simois",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Simois is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peneus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Peneus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Caicus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Caicus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sangarius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sangarius is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ladon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ladon is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Parthenius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Parthenius is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Euenus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ardescus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ardescus is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scamander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scamander is a river son of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 337–345",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tethys bears three thousand Oceanid daughters to Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Peitho is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Admete",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Admete is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ianthe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ianthe is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electra is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Doris is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eurynome is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Clymene is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Callirhoe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Callirhoe is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Dione is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Metis is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tyche is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calypso is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perseis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Perseis is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Styx is an Oceanid daughter of Tethys and Oceanus.",
+   "source": "Hesiod, Theogony 346–370",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Inachus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Inachus is named as a son of Tethys and Oceanus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pleione",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pleione is named as a daughter of Tethys and Oceanus.",
+   "source": "Ovid, Fasti 5.81–84",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "served",
+   "myth": "Reception of the setting sun",
+   "note": "Tethys receives the descending solar chariot in her western waters.",
+   "source": "Ovid, Metamorphoses 2.63",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Phaethon is Tethys's grandson through her daughter Clymene.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Phaethon's fatal solar journey",
+   "note": "Tethys opens the eastern barriers for Phaethon's journey, unaware of its fatal outcome.",
+   "source": "Ovid, Metamorphoses 2.156–160",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [
+    "Ursa Major",
+    "Great Bear"
+   ],
+   "kind": "punished",
+   "myth": "The Great Bear's circumpolarity",
+   "note": "Tethys refuses to receive transformed Callisto into Ocean because Callisto offended Hera.",
+   "source": "Hyginus, Astronomica 2.1",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Cypris"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The syncretized Tethys-Thalassa is called mother of Cypris.",
+   "source": "Orphic Hymn 22",
+   "date": "second–third century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thalassa",
+   "other_aliases": [
+    "Sea"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The hymn addresses the Sea with language identifying or overlapping her with Tethys.",
+   "source": "Orphic Hymn 22",
+   "date": "second–third century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding procession of Peleus and Thetis",
+   "note": "Tethys and Eileithyia jointly attend the divine wedding procession.",
+   "source": "Sophilos dinos",
+   "date": "ca. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Tethys attends Thetis's wedding as a divine guest.",
+   "source": "Sophilos dinos",
+   "date": "ca. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Tethys is described as Thetis's remote ancestress by genealogical logic.",
+   "source": "Hesiodic genealogical tradition",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Tethys attends Peleus's wedding as a divine guest.",
+   "source": "Sophilos dinos",
+   "date": "ca. 580–570 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "A fragmentarily identified Tethys probably fights the Giants beside Oceanus.",
+   "source": "Pergamon Altar",
+   "date": "second century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hydaspes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oceanus addresses Tethys as mother while lamenting their threatened river child Hydaspes.",
+   "source": "Nonnus, Dionysiaca 23.280–320",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

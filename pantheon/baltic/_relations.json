@@ -1,0 +1,1051 @@
+{
+ "folder": "baltic",
+ "gods": [
+  "dievas",
+  "laima",
+  "perkunas",
+  "saule",
+  "velnias",
+  "zemyna"
+ ],
+ "relations": [
+  {
+   "a": "dievas",
+   "b": "laima",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later summaries and reconstructions sometimes call Laima the daughter of Dievs.",
+   "source": "Later summaries and reconstructions",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "laima"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "laima",
+   "kind": "shared_myth",
+   "myth": "Divine transport in celestial wedding arrangements",
+   "note": "Variants associate Dievs’s horses and Laima’s wagon with wedding arrangements.",
+   "source": "Daina variants and modern composites",
+   "date": "modern-era collections",
+   "tier": "modern",
+   "stated_by": [
+    "dievas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "laima",
+   "kind": "shared_myth",
+   "myth": "Joint allotment of human fate",
+   "note": "Dievs and Laima travel, deliberate, bless, or oversee human fate together.",
+   "source": "Latvian dainas",
+   "date": "collected chiefly nineteenth century",
+   "tier": "attested",
+   "stated_by": [
+    "laima"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "laima",
+   "kind": "shared_myth",
+   "myth": "Dievturi divine triad",
+   "note": "Laima embodies fate alongside Dievs as spiritual or cosmic order.",
+   "source": "Brastiņš and successors",
+   "date": "from 1925 onward",
+   "tier": "modern",
+   "stated_by": [
+    "laima"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "perkunas",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later interpretations infer that Perkūnas is Dievas’s son from Dievaitis and Christianized folklore.",
+   "source": "Folklore and modern reconstruction",
+   "date": "19th–20th centuries",
+   "tier": "modern",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "perkunas",
+   "kind": "served_by",
+   "myth": "Pērkons executes divine punishment",
+   "note": "Christianized folklore makes Pērkons an agent who carries out the high God’s punishments.",
+   "source": "Latvian folklore",
+   "date": "19th-century collections",
+   "tier": "regional_variant",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "perkunas",
+   "kind": "shared_myth",
+   "myth": "Celestial wedding and striking the golden oak",
+   "note": "Pērkons joins or disrupts wedding cycles involving Dievs’s sons.",
+   "source": "Latvian dainas",
+   "date": "nineteenth-century records",
+   "tier": "regional_variant",
+   "stated_by": [
+    "dievas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "perkunas",
+   "kind": "shared_myth",
+   "myth": "Dievs dances with Pērkons",
+   "note": "Latvian songs place Dievs and Pērkons together in a divine dance.",
+   "source": "Latvian dainas",
+   "date": "19th-century collections",
+   "tier": "attested",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "saule",
+   "kind": "allied",
+   "myth": "Celestial wedding and neighboring heavenly households",
+   "note": "Their heavenly households are allied through his sons’ courtship of Saule’s daughters.",
+   "source": "Latvian dainas",
+   "date": "nineteenth-century records",
+   "tier": "attested",
+   "stated_by": [
+    "dievas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "Dievs’s celestial feast",
+   "note": "Saule attends Dievs’s feast or participates in his ordered celestial household.",
+   "source": "Latvju dainas",
+   "date": "1894–1915",
+   "tier": "regional_variant",
+   "stated_by": [
+    "saule"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "velnias",
+   "kind": "allied",
+   "myth": "God and Velnias create the world",
+   "note": "Velnias accompanies God, retrieves primordial earth, and shares creative labor.",
+   "source": "Lithuanian and Latvian etiological legends",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "velnias"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "velnias",
+   "kind": "contest",
+   "myth": "God and Devil create the world",
+   "note": "They form land, animals, or terrain while Velns imitates or sabotages Dievs.",
+   "source": "Lithuanian and Latvian folktales",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "dievas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "velnias",
+   "kind": "contest",
+   "myth": "Opposed creation of animals and landscape",
+   "note": "Velnias imitates God’s creations, producing harmful creatures and uneven or barren terrain.",
+   "source": "Lithuanian and Latvian etiological legends",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "velnias"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "velnias",
+   "kind": "deceived_by",
+   "myth": "Velnias conceals primordial earth",
+   "note": "Velnias hides some retrieved earth in his mouth, attempting to appropriate it from God.",
+   "source": "Lithuanian and Latvian etiological legends",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "velnias"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "velnias",
+   "kind": "shared_myth",
+   "myth": "God and Devil travel among humans",
+   "note": "They travel together as opposing figures testing hospitality, greed, and disorder.",
+   "source": "Lithuanian and Latvian folktales",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "dievas"
+   ]
+  },
+  {
+   "a": "dievas",
+   "b": "zemyna",
+   "kind": "shared_myth",
+   "myth": "Sambariai offerings and crop prayers",
+   "note": "God and Žemyna jointly receive offerings and appear together in prayers.",
+   "source": "Prätorius, Deliciae Prussicae",
+   "date": "late seventeenth century",
+   "tier": "syncretism",
+   "stated_by": [
+    "zemyna"
+   ]
+  },
+  {
+   "a": "laima",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "The Sun’s allotted day",
+   "note": "Laima occasionally appears in formulas concerning the Sun’s allotted day, without a stable narrative relationship.",
+   "source": "Lithuanian and Latvian songs",
+   "date": "modern collection",
+   "tier": "regional_variant",
+   "stated_by": [
+    "laima"
+   ]
+  },
+  {
+   "a": "laima",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "Life-cycle and wedding songs",
+   "note": "Saule and Laima jointly appear in songs of fate, birth, marriage, and women’s lives.",
+   "source": "Latvian folklore",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "saule"
+   ]
+  },
+  {
+   "a": "laima",
+   "b": "zemyna",
+   "kind": "shared_myth",
+   "myth": "The cradle and the grave",
+   "note": "Laima admits the child into life while the earth mother receives the dead.",
+   "source": "Latvian funeral dainas",
+   "date": "modern collection",
+   "tier": "attested",
+   "stated_by": [
+    "laima"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "Pērkons strikes the heavenly oak",
+   "note": "After Pērkons strikes the celestial tree, Saulė mourns or gathers its golden branches.",
+   "source": "Latvian dainas LD 33802, 34043, 34047",
+   "date": "19th-century collections",
+   "tier": "regional_variant",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "Marriage of Sun and Moon",
+   "note": "Perkūnas avenges Moon’s love of Aušrinė by splitting him with a sword.",
+   "source": "Rėza, Dainos",
+   "date": "1825",
+   "tier": "regional_variant",
+   "stated_by": [
+    "saule"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "saule",
+   "kind": "shared_myth",
+   "myth": "The disrupted celestial wedding",
+   "note": "Pērkons appears in variants involving disrupted weddings, damaged celestial trees, or punishment.",
+   "source": "Latvju dainas",
+   "date": "1894–1915",
+   "tier": "regional_variant",
+   "stated_by": [
+    "saule"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "velnias",
+   "kind": "fought",
+   "myth": "Perkūnas pursues the hiding devil during thunderstorms",
+   "note": "Perkūnas attacks Velnias with lightning as he hides in natural objects, animals, or people.",
+   "source": "Lithuanian and Latvian belief legends",
+   "date": "19th–20th centuries",
+   "tier": "attested",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "velnias",
+   "kind": "fought",
+   "myth": "Perkūnas hunts Velnias with lightning",
+   "note": "Velnias hides in stones, trees, water, animals, or clothing while Perkūnas attacks.",
+   "source": "Lithuanian belief legends published by Vėlius",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "attested",
+   "stated_by": [
+    "velnias"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "velnias",
+   "kind": "fought",
+   "myth": "Pērkons pursues Velns during thunderstorms",
+   "note": "Latvian folklore associates thunder with Pērkons pursuing Velns or another evil being.",
+   "source": "Latvian folklore",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "velnias"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "zemyna",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Modern synthetic accounts pair Perkūnas with the earth goddess Žemyna; no early source confirms the marriage.",
+   "source": "Modern synthetic accounts",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "perkunas"
+   ]
+  },
+  {
+   "a": "perkunas",
+   "b": "zemyna",
+   "kind": "other",
+   "myth": "Thunder fertilizes Earth",
+   "note": "Modern scholarship and revival tradition pair him with Žemyna as a fertilizing counterpart.",
+   "source": "Modern comparative reconstruction",
+   "date": "twentieth century–present",
+   "tier": "modern",
+   "stated_by": [
+    "zemyna"
+   ]
+  },
+  {
+   "a": "saule",
+   "b": "zemyna",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Popular modern genealogies allege that Žemyna is Saulė's daughter.",
+   "source": "Modern popular systematization",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "zemyna"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Andajus": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Gods worshipped by Mindaugas and Lithuanians",
+    "note": "Andajus and Perkūnas appear in the same Lithuanian divine list without narrative interaction.",
+    "source": "Malalas interpolation",
+    "date": "1261",
+    "tier": "attested"
+   }
+  ],
+  "Auseklis": [
+   {
+    "stated_by": "saule",
+    "kind": "shared_myth",
+    "myth": "Wedding of a Sun-daughter",
+    "note": "Auseklis courts or joins the wedding of a Saules meita.",
+    "source": "Latvju dainas",
+    "date": "1894–1915",
+    "tier": "regional_variant"
+   }
+  ],
+  "Austėja": [
+   {
+    "stated_by": "zemyna",
+    "kind": "shared_myth",
+    "myth": "Joint association with growth",
+    "note": "Łasicki lists both goddesses together and says they assist growth.",
+    "source": "Łasicki, De diis Samagitarum",
+    "date": "c. 1582",
+    "tier": "attested"
+   }
+  ],
+  "Auxtheias Vissagistis": [
+   {
+    "stated_by": "dievas",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later interpreters equated Łasicki’s highest Samogitian god with Dievas.",
+    "source": "Łasicki, De diis Samagitarum",
+    "date": "c. 1580/1615",
+    "tier": "syncretism"
+   }
+  ],
+  "Aušrinė": [
+   {
+    "stated_by": "laima",
+    "kind": "other",
+    "myth": "Aušrinė’s reconstructed birth myth",
+    "note": "Greimas reconstructs Laimė as Aušrinė’s godmother and birth-and-fate deity.",
+    "source": "1888 folklore text; Greimas",
+    "date": "1888; twentieth century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Perkūnas strikes the celestial wedding tree",
+    "note": "Perkūnas strikes a tree in a celestial-wedding song associated with Aušrinė.",
+    "source": "Rėza, Dainos, song 62",
+    "date": "1825",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "other",
+    "myth": "Marriage of Sun and Moon",
+    "note": "Aušrinė becomes Saulė’s rival when the estranged Moon loves her.",
+    "source": "Rėza, Dainos",
+    "date": "1825",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some Lithuanian traditions describe Aušrinė as Saulė’s daughter.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "served_by",
+    "myth": "The daily celestial journey",
+    "note": "Aušrinė serves Saulė in the morning and prepares her way.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "velnias",
+    "kind": "other",
+    "myth": "Velnias abducts or possesses Aušrinė",
+    "note": "Modern reconstructions claim Velnias abducts or possesses Aušrinė, provoking the thunder-god’s pursuit.",
+    "source": "Twentieth-century mythological interpretation",
+    "date": "twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "velnias",
+    "kind": "fought",
+    "myth": "Christ defeats the devil",
+    "note": "Christ or a wandering divine figure defeats, exposes, or corrects Velnias.",
+    "source": "Late folk-Christian tales",
+    "date": "late folklore",
+    "tier": "late_accretion"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "dievas",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Christian translators adopted Dievas, Dievs, and Deiws as the ordinary name for God.",
+    "source": "Old Prussian catechisms and Enchiridion",
+    "date": "1545–1561",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian saints": [
+   {
+    "stated_by": "velnias",
+    "kind": "fought",
+    "myth": "Saints drive away the devil",
+    "note": "Saints and their holy names or signs repel Velnias in Christianized legends.",
+    "source": "Folk-Christian legends and magical beliefs",
+    "date": "late folklore",
+    "tier": "late_accretion"
+   }
+  ],
+  "Dalia": [
+   {
+    "stated_by": "laima",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Laima and Dalia overlap as allotter and allotted share, forming the compound Laima-Dalia.",
+    "source": "Lithuanian folklore and scholarship",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Dieva dēli": [
+   {
+    "stated_by": "dievas",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Latvian songs repeatedly identify the divine horsemen as Dievs’s sons.",
+    "source": "Barons, Latvju dainas",
+    "date": "1894–1915",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "rescued_by",
+    "myth": "Rescue in the golden boat",
+    "note": "The sons of Dievs row a golden boat to assist or rescue Saule.",
+    "source": "Latvju dainas",
+    "date": "1894–1915",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "shared_myth",
+    "myth": "Wedding of the Sun-daughters",
+    "note": "The sons of Dievs court Saule’s daughters in celestial-wedding songs.",
+    "source": "Latvju dainas",
+    "date": "1894–1915",
+    "tier": "regional_variant"
+   }
+  ],
+  "Dēkla": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Infant care and life allotment",
+    "note": "They care for infants and allot life, occasionally coordinating or occupying parallel song lines.",
+    "source": "Latvian dainas",
+    "date": "nineteenth-century collection",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "laima",
+    "kind": "sibling_of",
+    "myth": "The three Laimas",
+    "note": "Modern writers arrange Laima, Dēkla, and Kārta as three fate-goddess sisters.",
+    "source": "Comparativism and Dievturība",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "modern"
+   }
+  ],
+  "Earth": [
+   {
+    "stated_by": "saule",
+    "kind": "parent_of",
+    "myth": "Sun and Moon care for Earth",
+    "note": "Some variants call Earth their child, watched alternately by Sun and Moon.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Giltinė": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Fate powers approach a newborn",
+    "note": "Laima allots life or fortune while Giltinė brings death; some narratives place both beside a newborn.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Holy Angel": [
+   {
+    "stated_by": "zemyna",
+    "kind": "shared_myth",
+    "myth": "Prayer for flowering crops",
+    "note": "Žemyna's prayer invokes an angel to stand nearby and repel harmful people.",
+    "source": "Prätorius, Deliciae Prussicae",
+    "date": "late seventeenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Kapu māte": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "The cradle and the grave",
+    "note": "Laima’s life-allotting role contrasts with the grave mother’s reception of the dead.",
+    "source": "Latvian funeral dainas",
+    "date": "modern collection",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "other",
+    "myth": "Variants of the grave key",
+    "note": "Different song variants assign the grave key to either earth or grave mother.",
+    "source": "Dainas 27519–27522",
+    "date": "nineteenth-century collected",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kārta": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Hanging a person’s course",
+    "note": "Both determine or hang a person’s course; Kārta may specialize the concept of fate.",
+    "source": "Latvian dainas; Biezais",
+    "date": "1955 analysis",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "laima",
+    "kind": "sibling_of",
+    "myth": "The three Laimas",
+    "note": "Modern writers arrange Laima, Dēkla, and Kārta as three fate-goddess sisters.",
+    "source": "Comparativism and Dievturība",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "modern"
+   }
+  ],
+  "Laimė": [
+   {
+    "stated_by": "zemyna",
+    "kind": "shared_myth",
+    "myth": "Birth and christening rites",
+    "note": "Žemyna and Laimė could be invoked together during childbirth ceremonies.",
+    "source": "Prätorius, Deliciae Prussicae",
+    "date": "late seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Laumė": [
+   {
+    "stated_by": "laima",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Overlapping childbirth, spinning, and fate functions caused disputed identification through Praetorius’s spelling Leumele.",
+    "source": "Praetorius, Deliciae Prussicae",
+    "date": "late seventeenth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "perkunas",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Regional folklore sometimes links Perkūnas matrimonially with Laumė or a female atmospheric being.",
+    "source": "Regional folklore",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mary": [
+   {
+    "stated_by": "velnias",
+    "kind": "fought",
+    "myth": "Mary drives away the devil",
+    "note": "Mary’s holy name, signs, or prayers drive Velnias away in folk-Christian belief.",
+    "source": "Folk-Christian legends and magical beliefs",
+    "date": "late folklore",
+    "tier": "late_accretion"
+   }
+  ],
+  "Māra": [
+   {
+    "stated_by": "dievas",
+    "kind": "shared_myth",
+    "myth": "Beneficent invocation with Māra and Laima",
+    "note": "Traditional formulas jointly invoke Dievs, Māra, and Laima as beneficent powers.",
+    "source": "Latvian religious folklore",
+    "date": "modern-era collections",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "dievas",
+    "kind": "shared_myth",
+    "myth": "Dievturi divine triad",
+    "note": "Dievturi theology and art coordinate Dievs with Māra and Laima.",
+    "source": "Brastiņš and Bīne",
+    "date": "1920s–1930s",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Childbirth and household protection",
+    "note": "They attend childbirth, women, cattle, and household welfare, sometimes appearing together or substituting for one another.",
+    "source": "Latvian dainas and ethnography",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Dievturi divine triad",
+    "note": "Laima represents fate while Māra represents material manifestation.",
+    "source": "Brastiņš’s Dievturi theology",
+    "date": "twentieth century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Māra handles blood-stained wedding garments",
+    "note": "Some variants attach Māra’s handling or advice about bloody garments to the heavenly-tree episode.",
+    "source": "Latvian song variants",
+    "date": "19th–20th centuries",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Latvian scholarship and Dievturi theology merge Māra's earthly domain with Zemes māte.",
+    "source": "Latvian scholarship and Dievturi theology",
+    "date": "twentieth century–present",
+    "tier": "modern"
+   }
+  ],
+  "Mēness": [
+   {
+    "stated_by": "dievas",
+    "kind": "shared_myth",
+    "myth": "Wedding of Dievs’s sons and Saule’s daughters",
+    "note": "Mēness exchanges rings during the celestial wedding involving Dievs’s sons.",
+    "source": "Latvian dainas",
+    "date": "nineteenth-century records",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "consort_of",
+    "myth": "The celestial wedding",
+    "note": "Latvian variants inconsistently cast Mēness as Saule’s spouse or wedding partner.",
+    "source": "Latvju dainas",
+    "date": "1894–1915",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mėnulis": [
+   {
+    "stated_by": "saule",
+    "kind": "consort_of",
+    "myth": "Marriage of Sun and Moon",
+    "note": "Moon marries Saulė, separates from her, and later loves Aušrinė.",
+    "source": "Rėza, Dainos",
+    "date": "1825",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Lithuanian belief texts alternatively describe Sun and Moon as siblings.",
+    "source": "Later Lithuanian belief records",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "contest",
+    "myth": "Dispute over care of Earth",
+    "note": "Sun and Moon quarrel over dividing or alternating care of Earth.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Popular modern genealogies allege that Žemyna is Mėnulis's daughter.",
+    "source": "Modern popular systematization",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Ockopirmus": [
+   {
+    "stated_by": "dievas",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later scholars identified the Sudovian chief god of sky and stars with Dievas.",
+    "source": "Sudovian Book",
+    "date": "sixteenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Patollo": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Three gods appear at the sacred oak",
+    "note": "Grunau places Perkuno and Patollo together in an embellished Prussian divine triad.",
+    "source": "Grunau, Preussische Chronik",
+    "date": "c. 1530",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "velnias",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later reconstruction identifies Grunau’s death-associated Patollo as an Old Prussian Velnias equivalent.",
+    "source": "Simon Grunau and later scholarship",
+    "date": "c. 1530 onward",
+    "tier": "modern"
+   }
+  ],
+  "Peckols": [
+   {
+    "stated_by": "velnias",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern authors equate this Old Prussian underworld-associated figure with Velnias.",
+    "source": "Sudovian Book and later scholarship",
+    "date": "sixteenth century onward",
+    "tier": "modern"
+   }
+  ],
+  "Potrimpo": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Three gods appear at the sacred oak",
+    "note": "Grunau places Perkuno and Potrimpo together in an embellished Prussian divine triad.",
+    "source": "Grunau, Preussische Chronik",
+    "date": "c. 1530",
+    "tier": "late_accretion"
+   }
+  ],
+  "Prakorimas": [
+   {
+    "stated_by": "dievas",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later interpreters equated Stryjkowski’s disputed creator or highest deity with Dievas.",
+    "source": "Stryjkowski, Kronika",
+    "date": "1582",
+    "tier": "syncretism"
+   }
+  ],
+  "Saules meita": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Pērkons disrupts the Sun daughter’s wedding",
+    "note": "Celestial-wedding variants make Pērkons oppose or disrupt the wedding party involving Saules meita.",
+    "source": "Latvian dainas",
+    "date": "19th-century corpus",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "other",
+    "myth": "Variants of the grave key",
+    "note": "One song variant asks Saules meita instead of Zemes māte for the key.",
+    "source": "Variants adjacent to daina 27519",
+    "date": "nineteenth-century collected",
+    "tier": "regional_variant"
+   }
+  ],
+  "Saules meitas": [
+   {
+    "stated_by": "saule",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Saule mothers and cares for one or several Sun-daughters.",
+    "source": "Latvju dainas",
+    "date": "1894–1915",
+    "tier": "canonical"
+   }
+  ],
+  "Teliavelis": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Gods worshipped by Mindaugas and Lithuanians",
+    "note": "Teliavelis and Perkūnas appear in the same Lithuanian divine list without narrative interaction.",
+    "source": "Malalas interpolation",
+    "date": "1261",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "created_by",
+    "myth": "The forged and liberated Sun",
+    "note": "The mighty smith Teliavelis forges the Sun.",
+    "source": "Baltic interpolation in Malalas’s Chronographia",
+    "date": "1261",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "velnias",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Greimas connected Velnias with the medieval divine smith Teliavelis, without textual identification.",
+    "source": "Greimas and Malalas interpolation",
+    "date": "twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Vakarinė": [
+   {
+    "stated_by": "saule",
+    "kind": "served_by",
+    "myth": "The daily celestial journey",
+    "note": "Vakarinė prepares Saulė’s bed or receives her at day’s end.",
+    "source": "Lithuanian folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "saule",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some modern genealogical syntheses describe Vakarinė as Saulė’s daughter.",
+    "source": "Modern genealogical syntheses",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Veļu māte": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "The cradle and the grave",
+    "note": "Laima hangs or gives the cradle; Veļu māte removes it and receives the dead.",
+    "source": "Latvian dainas",
+    "date": "nineteenth-century collection",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "other",
+    "myth": "Custodianship of the dead",
+    "note": "Latvian songs alternate them as receivers or guardians of the dead.",
+    "source": "Latvian funeral dainas",
+    "date": "nineteenth-century collected",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vielona": [
+   {
+    "stated_by": "velnias",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later scholarship disputes whether Łasicki’s god of souls Vielona is Velnias.",
+    "source": "Łasicki, De diis Samagitarum",
+    "date": "c. 1582; printed 1615",
+    "tier": "modern"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "laima",
+    "kind": "identified_with",
+    "myth": "Protection during childbirth",
+    "note": "Christian Mary assumes or shares Laima’s protection of childbirth in charms and belief texts.",
+    "source": "Baltic charms and belief texts",
+    "date": "early-modern to modern",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "zemyna",
+    "kind": "shared_myth",
+    "myth": "Childbirth ritual complex",
+    "note": "Mary appears as an additional or alternate patron where Žemyna receives libation.",
+    "source": "Prätorius, Deliciae Prussicae",
+    "date": "late seventeenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "angels": [
+   {
+    "stated_by": "laima",
+    "kind": "shared_myth",
+    "myth": "Christianized fate pronouncement",
+    "note": "Christianized birth-fate variants place angels within episodes otherwise centered on Laima or fate women.",
+    "source": "Baltic folklore variants",
+    "date": "modern collection",
+    "tier": "syncretism"
+   }
+  ],
+  "the stars": [
+   {
+    "stated_by": "saule",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Late folklore and scholarly syntheses sometimes make Sun and Moon parents of the stars.",
+    "source": "Late folklore and scholarly syntheses",
+    "date": "modern collections",
+    "tier": "late_accretion"
+   }
+  ],
+  "the zodiacal signs": [
+   {
+    "stated_by": "saule",
+    "kind": "rescued_by",
+    "myth": "The forged and liberated Sun",
+    "note": "The signs shatter the Sun’s prison tower with a great hammer.",
+    "source": "Baltic interpolation in Malalas’s Chronographia",
+    "date": "1261",
+    "tier": "attested"
+   }
+  ],
+  "Žemėpatis": [
+   {
+    "stated_by": "zemyna",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Prätorius classifies Žemyna as the sister of Žemėpatis.",
+    "source": "Prätorius, Deliciae Prussicae",
+    "date": "late seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Žvorūna": [
+   {
+    "stated_by": "perkunas",
+    "kind": "shared_myth",
+    "myth": "Gods worshipped by Mindaugas and Lithuanians",
+    "note": "Žvorūna and Perkūnas appear in the same Lithuanian divine list without narrative interaction.",
+    "source": "Malalas interpolation",
+    "date": "1261",
+    "tier": "attested"
+   }
+  ]
+ }
+}

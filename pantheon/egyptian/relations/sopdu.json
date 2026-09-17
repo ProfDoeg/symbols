@@ -1,0 +1,195 @@
+{
+ "subject": "sopdu",
+ "relations": [
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Celestial birth of Horus-Sopdu",
+   "note": "Sopdu combines with Horus as Horus-Sopdu, an eastern falcon and royal power.",
+   "source": "Pyramid Text tradition",
+   "date": "Late Fifth–Sixth Dynasties",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sopdet",
+   "other_aliases": [
+    "Sothis"
+   ],
+   "kind": "child_of",
+   "myth": "Celestial birth of Horus-Sopdu",
+   "note": "Sopdet generates Horus-Sopdu in astral birth language and is later treated as Sopdu’s mother.",
+   "source": "Pyramid Texts",
+   "date": "Sixth Dynasty",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sah",
+   "other_aliases": [
+    "Orion"
+   ],
+   "kind": "child_of",
+   "myth": "Celestial birth of Horus-Sopdu",
+   "note": "Sah functions as Sopdu’s father within the astral family of Sah, Sopdet, and Sopdu.",
+   "source": "Pyramid Text and later astral theology",
+   "date": "Old Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vindication of Osiris",
+   "note": "Sopdu joins the divine coalition that responds to Seth’s assault and restores Osiris.",
+   "source": "Pyramid Text corpus and temple theology",
+   "date": "Old Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial birth of Horus-Sopdu",
+   "note": "Isis is paralleled with Sopdet, making Horus-Sopdu analogous to her son Horus.",
+   "source": "Pyramid Texts and Isis-Sothis theology",
+   "date": "Old Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Vindication of Osiris",
+   "note": "Later theology places Sopdu among divine powers judging and restraining Seth after his attack on Osiris.",
+   "source": "Pyramid Text traditions and temple theology",
+   "date": "Old Kingdom and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vindication of Osiris",
+   "note": "Geb and Sopdu participate in the divine framework validating the resurrected king and opposing Seth.",
+   "source": "Pyramid Text corpus",
+   "date": "Late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vindication of Osiris",
+   "note": "Thoth and Sopdu occur together as divine authorities or judges within the Osirian and Horus–Seth complex.",
+   "source": "Pyramid Text and temple traditions",
+   "date": "Old Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transformation of the deceased king",
+   "note": "Re addresses or recognizes the transformed king as Sopdu within eastern celestial theology.",
+   "source": "Pyramid Texts",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal ascent and cosmic allocation",
+   "note": "Atum and Sopdu occur together in royal ascent and cosmic-allocation spells without a separate encounter.",
+   "source": "Pyramid Text Utterance 306",
+   "date": "Late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [
+    "Mistress of Turquoise"
+   ],
+   "kind": "shared_myth",
+   "myth": "Serabit and the turquoise land",
+   "note": "Hathor governs turquoise while Sopdu represents and protects the eastern region at Serabit el-Khadim.",
+   "source": "Serabit temple and expedition inscriptions",
+   "date": "Middle–New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khensit",
+   "other_aliases": [
+    "Khensyt"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Khensit is Sopdu’s local consort, although no developed marriage narrative survives.",
+   "source": "Eastern Delta theological material",
+   "date": "Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shesmetet",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some disputed local traditions call Shesmetet Sopdu’s mother, separately from the astral genealogy involving Sopdet.",
+   "source": "Pyramid Text and local traditions",
+   "date": "Old Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sopdu is fused with Shu as Shu-Sopdu or Sopdu-Shu, combining air, frontier force, and royal protection.",
+   "source": "Nectanebo I naoi",
+   "date": "Fourth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Per-Sopdu naoi theology",
+   "note": "Tefnut and Sopdu belong to the coordinated divine group represented by the Nectanebid naoi.",
+   "source": "Nectanebid naoi",
+   "date": "Fourth century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Similar double-feathered and ithyphallic imagery encouraged context-dependent assimilation between Sopdu and Min.",
+   "source": "Late temple and magical iconography",
+   "date": "Late Period–Greco-Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bes",
+   "other_aliases": [
+    "Pantheos"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Winged, knife-bearing Sopdu figures contributed to the development of composite Bes or Pantheos imagery.",
+   "source": "Late Period–Greco-Roman iconography",
+   "date": "Late Period–Greco-Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Serabit mining cult",
+   "note": "Ptah and Sopdu share Serabit’s mining theology; occasional equations with a local Ptah form remain contested.",
+   "source": "Serabit inscriptions",
+   "date": "Middle–New Kingdom",
+   "tier": "regional_variant"
+  }
+ ]
+}

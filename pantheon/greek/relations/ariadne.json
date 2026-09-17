@@ -1,0 +1,549 @@
+{
+ "subject": "ariadne",
+ "relations": [
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ariadne is consistently identified as Minos’ daughter.",
+   "source": "Homer, Odyssey 11.321–325",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythographers standardize Pasiphae as Ariadne’s mother.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.1.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ariadne descends from Zeus through her father Minos.",
+   "source": "Later mythographic genealogy",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ariadne descends from Europa through her father Minos.",
+   "source": "Later mythographic genealogy",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ariadne descends from Helios through her mother Pasiphae.",
+   "source": "Later mythographic genealogy",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perse",
+   "other_aliases": [
+    "Perseis"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ariadne descends from Perse through her mother Pasiphae.",
+   "source": "Later mythographic genealogy",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaedra",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phaedra is commonly listed as Ariadne’s sister.",
+   "source": "Later mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Androgeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Androgeus is commonly listed as Ariadne’s brother.",
+   "source": "Later mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deucalion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Deucalion is commonly listed as Ariadne’s brother.",
+   "source": "Later mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Glaucus is commonly listed as Ariadne’s brother.",
+   "source": "Later mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Catreus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some genealogies list Catreus as Ariadne’s brother.",
+   "source": "Variant mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acacallis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some sources include Acacallis among Ariadne’s siblings.",
+   "source": "Variant mythographic genealogies",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterios"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Minotaur is Ariadne’s maternal half-brother through Pasiphae.",
+   "source": "Ancient genealogical handbooks",
+   "date": "Classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minotaur",
+   "other_aliases": [
+    "Asterios"
+   ],
+   "kind": "other",
+   "myth": "Theseus and the Labyrinth",
+   "note": "Ariadne’s thread enables Theseus to escape after killing her half-brother.",
+   "source": "Ovid, Metamorphoses 8.152–182",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Flight from Crete",
+   "note": "Theseus attempts to carry Ariadne from Crete to Athens.",
+   "source": "Homer, Odyssey 11.321–325",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Theseus and the Labyrinth",
+   "note": "Ariadne supplies the means by which Theseus escapes the Labyrinth.",
+   "source": "Apollonius Rhodius, Argonautica 3",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Abandonment on Dia",
+   "note": "After accepting Ariadne’s aid and marriage bargain, Theseus abandons her.",
+   "source": "Ovid, Metamorphoses 8.152–182",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cypriot separation",
+   "note": "A storm separates pregnant Ariadne from Theseus; she dies before his return.",
+   "source": "Paeon, preserved in Plutarch, Theseus 20",
+   "date": "Hellenistic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Dionysus makes Ariadne his immortal wife.",
+   "source": "Hesiod, Theogony 947–949",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "other",
+   "myth": "Death on Dia",
+   "note": "Dionysus’ testimony or accusation occasions Artemis’ killing of Ariadne.",
+   "source": "Homer, Odyssey 11.321–325",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "rescued_by",
+   "myth": "Discovery on Dia",
+   "note": "Dionysus arrives after Theseus’ departure and brings Ariadne aid.",
+   "source": "Ovid, Metamorphoses 8.152–182",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "gift",
+   "myth": "Crown of Ariadne",
+   "note": "One tradition makes Ariadne’s celestial crown Dionysus’ bridal gift.",
+   "source": "Eratosthenes, Catasterisms 5",
+   "date": "late third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "other",
+   "myth": "Seizure from Theseus",
+   "note": "Dionysus takes Ariadne from Theseus by force, superior ships, or ambush.",
+   "source": "Pausanias, Description of Greece 10.29.3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "transformed_by",
+   "myth": "Ariadne’s deification",
+   "note": "Bacchus deifies Ariadne and places her crown among the stars.",
+   "source": "Ovid, Fasti 3.459–516",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus",
+    "Liber",
+    "Fufluns"
+   ],
+   "kind": "deceived_by",
+   "myth": "Bacchus and the Indian woman",
+   "note": "Ariadne complains that Bacchus has deserted her for an Indian woman.",
+   "source": "Ovid, Fasti 3.459–516",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "transformed_by",
+   "myth": "Ariadne’s immortality",
+   "note": "Zeus makes Ariadne immortal and ageless for Dionysus.",
+   "source": "Hesiod, Theogony 947–949",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death on Dia",
+   "note": "Artemis kills Ariadne on Dia because of Dionysus’ testimony.",
+   "source": "Homer, Odyssey 11.321–325",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "identified_with",
+   "myth": "Aphrodite Ariadne at Amathus",
+   "note": "Ariadne receives the local combined designation Aphrodite Ariadne.",
+   "source": "Paeon, preserved in Plutarch, Theseus 20",
+   "date": "Hellenistic tradition",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "gift",
+   "myth": "Bridal crown",
+   "note": "Aphrodite and the Horai give Ariadne a bridal crown.",
+   "source": "Hyginus, Astronomica 2.5",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horai",
+   "other_aliases": [
+    "Hours"
+   ],
+   "kind": "gift",
+   "myth": "Bridal crown",
+   "note": "The Horai join Aphrodite in presenting Ariadne’s bridal crown.",
+   "source": "Hyginus, Astronomica 2.5",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "other",
+   "myth": "Making Ariadne’s crown",
+   "note": "Hephaestus fashions Ariadne’s crown from gold and fiery gems.",
+   "source": "Hyginus, Astronomica 2.5",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Knossian dancing place",
+   "note": "Daedalus constructs Ariadne’s celebrated dancing place at Knossos.",
+   "source": "Homer, Iliad 18.590–592",
+   "date": "c. 750–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Daedalus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Theseus and the Labyrinth",
+   "note": "Daedalus advises Ariadne to give Theseus the thread for escape.",
+   "source": "Pseudo-Apollodorus, Epitome 1.7–9",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Argive war with Dionysus",
+   "note": "Perseus exposes Medusa’s head, petrifying or killing Ariadne.",
+   "source": "Nonnus, Dionysiaca 47–48",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Argive war with Dionysus",
+   "note": "The severed head of Medusa petrifies or kills Ariadne.",
+   "source": "Nonnus, Dionysiaca 47–48",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reconciliation after Ariadne’s death",
+   "note": "Hermes mediates reconciliation between Dionysus and Perseus after Ariadne’s death.",
+   "source": "Nonnus, Dionysiaca 47–48",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "other",
+   "myth": "Discovery of sleeping Ariadne",
+   "note": "Eros leads or draws Dionysus toward the sleeping Ariadne.",
+   "source": "Walters Roman sarcophagus",
+   "date": "c. 190–200 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Somnus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Sleep before Dionysus’ arrival",
+   "note": "Roman compositions place sleeping Ariadne against or near Hypnos.",
+   "source": "Roman discovery compositions",
+   "date": "second–third centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Mors"
+   ],
+   "kind": "shared_myth",
+   "myth": "Death-like sleep",
+   "note": "Ariadne rests beside Thanatos as Dionysus approaches in funerary imagery.",
+   "source": "Walters Roman sarcophagus",
+   "date": "c. 190–200 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [
+    "Semla"
+   ],
+   "kind": "shared_myth",
+   "myth": "Etruscan Dionysiac family grouping",
+   "note": "Etruscan mirrors show Semla beside Fufluns and Areatha.",
+   "source": "Etruscan engraved mirrors",
+   "date": "Etruscan period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Theseus’ divinely authorized departure",
+   "note": "Some Classical images show Athena leading Theseus from sleeping Ariadne.",
+   "source": "Classical iconographic variants",
+   "date": "Classical period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Staphylus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Naxian tradition makes Staphylus a son of Ariadne and Dionysus.",
+   "source": "Plutarch, Theseus 20",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oenopion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions make Oenopion Ariadne’s son by Dionysus.",
+   "source": "Diodorus, Library of History 5",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some lists make Thoas a son of Ariadne and Dionysus.",
+   "source": "Pseudo-Apollodoran genealogical lists",
+   "date": "first or second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peparethus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythographic lists attribute Peparethus to Ariadne.",
+   "source": "Later mythographic lists",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Euanthes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some mythographic genealogies attribute Euanthes to Ariadne.",
+   "source": "Variant mythographic genealogies",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Latramys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Variant genealogical compilations list Latramys as Ariadne’s child.",
+   "source": "Variant genealogical compilations",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tauropolis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Variant genealogical compilations list Tauropolis as Ariadne’s child.",
+   "source": "Variant genealogical compilations",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceramus",
+   "other_aliases": [
+    "Keramos"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Athenian genealogy makes Ariadne Ceramus’ mother by Dionysus.",
+   "source": "Athenian local genealogy",
+   "date": "Ancient local tradition",
+   "tier": "regional_variant"
+  }
+ ]
+}

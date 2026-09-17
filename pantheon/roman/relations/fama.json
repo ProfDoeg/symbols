@@ -1,0 +1,215 @@
+{
+ "subject": "fama",
+ "relations": [
+  {
+   "other": "Terra",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Terra produces Fama last in anger against the gods.",
+   "source": "Virgil, Aeneid 4.178–180",
+   "date": "approximately 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Virgil names Coeus as Fama's brother without narrating an encounter.",
+   "source": "Virgil, Aeneid 4.179",
+   "date": "approximately 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enceladus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Virgil names Enceladus as Fama's brother without narrating an encounter.",
+   "source": "Virgil, Aeneid 4.179",
+   "date": "approximately 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phēmē",
+   "other_aliases": [
+    "Pheme"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later mythography regularly presents Fama as the Roman equivalent of Greek Phēmē.",
+   "source": "Later Greco-Roman mythography",
+   "date": "antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ossa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later mythography equates Roman Fama with the related Homeric figure Ossa.",
+   "source": "Later Greco-Roman mythography",
+   "date": "antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Elpis",
+   "other_aliases": [
+    "Hope"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sophocles lyrically calls Greek Phēmē the immortal child of golden Hope.",
+   "source": "Sophocles, Oedipus Tyrannus 151–158",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Venus weaponizes rumour against Lemnos",
+   "note": "Venus orders Fama to fabricate news of Thracian wives, and Fama obeys.",
+   "source": "Valerius Flaccus, Argonautica 2.115–140",
+   "date": "approximately 70–90 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove"
+   ],
+   "kind": "punished_by",
+   "myth": "Fama excluded from peaceful heaven",
+   "note": "Jupiter excludes Fama from peaceful heaven but permits her to trouble earth.",
+   "source": "Valerius Flaccus, Argonautica 2.116–124",
+   "date": "approximately 70–90 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Mobilization for the Theban war",
+   "note": "Fama flies before Mars's war-chariot as part of his personified retinue.",
+   "source": "Statius, Thebaid 3.420–431",
+   "date": "approximately 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mars's war-retinue",
+   "note": "Furor adorns Mars's crest while Fama flies before the war-chariot.",
+   "source": "Statius, Thebaid 3.424–431",
+   "date": "approximately 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ira",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mars's war-retinue",
+   "note": "Ira appears alongside Fama in the personified retinue of Mars.",
+   "source": "Statius, Thebaid 3.424–431",
+   "date": "approximately 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pavor",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mars's war-retinue",
+   "note": "Pavor drives Mars's chariot and goads Fama to report truth or falsehood.",
+   "source": "Statius, Thebaid 3.424–431",
+   "date": "approximately 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Credulitas",
+   "other_aliases": [
+    "Credulity"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "Credulitas resides among the personified forces inside Fama's cosmic house.",
+   "source": "Ovid, Metamorphoses 12.59",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Error",
+   "other_aliases": [
+    "rash Error"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "Error resides among the personified forces inside Fama's cosmic house.",
+   "source": "Ovid, Metamorphoses 12.59",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Laetitia",
+   "other_aliases": [
+    "groundless Joy"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "Laetitia resides among the personified forces inside Fama's cosmic house.",
+   "source": "Ovid, Metamorphoses 12.60",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Timores",
+   "other_aliases": [
+    "alarmed Fears"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "The collective Timores reside inside Fama's house and embody responses to rumour.",
+   "source": "Ovid, Metamorphoses 12.60",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seditio",
+   "other_aliases": [
+    "sudden Sedition"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "Seditio resides among the personified forces inside Fama's cosmic house.",
+   "source": "Ovid, Metamorphoses 12.61",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Susurri",
+   "other_aliases": [
+    "Whispers"
+   ],
+   "kind": "other",
+   "myth": "House of Fama",
+   "note": "The collective Susurri inhabit Fama's house as whispers of doubtful authorship.",
+   "source": "Ovid, Metamorphoses 12.61",
+   "date": "approximately 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeolus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Lady Fame judges petitioners",
+   "note": "Aeolus sounds golden or black trumpets to disseminate Lady Fame's praise or blame.",
+   "source": "Chaucer, House of Fame",
+   "date": "approximately 1374–1385",
+   "tier": "late_accretion"
+  }
+ ]
+}

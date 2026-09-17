@@ -1,0 +1,267 @@
+{
+ "subject": "vediovis",
+ "relations": [
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Iuppiter",
+    "Jove",
+    "Iovis",
+    "Jovis",
+    "Diovis"
+   ],
+   "kind": "identified_with",
+   "myth": "The young Jupiter",
+   "note": "Ovid interprets Vediovis as Jupiter in youth, before acquiring thunderbolts.",
+   "source": "Ovid, Fasti 3.429–448",
+   "date": "c. 1–17 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Iuppiter",
+    "Jove",
+    "Iovis",
+    "Jovis",
+    "Diovis"
+   ],
+   "kind": "other",
+   "myth": "Helper and non-helper contrast",
+   "note": "Gellius contrasts helpful Jupiter with Vediovis, interpreted as a harmful power.",
+   "source": "Gellius, Noctes Atticae 5.12",
+   "date": "c. 160–180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Arrow-bearing cult image",
+   "note": "Vediovis was sometimes called Apollo because his cult statue carried arrows.",
+   "source": "Gellius, Noctes Atticae 5.12",
+   "date": "c. 160–180 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aesculapius",
+   "other_aliases": [
+    "Asclepius"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tiber Island cult observance",
+   "note": "Their cults shared a January 1 island observance and neighboring sanctuaries.",
+   "source": "Fasti Praenestini; Ovid, Fasti 1",
+   "date": "Augustan–Tiberian period",
+   "tier": "attested"
+  },
+  {
+   "other": "Coronis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Insular calendar listing",
+   "note": "A fragmentary calendar jointly lists Coronis, Aesculapius, and Vediovis.",
+   "source": "Early-imperial calendar fragment",
+   "date": "early Imperial period",
+   "tier": "attested"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis"
+   ],
+   "kind": "allied",
+   "myth": "Devotio of Carthage",
+   "note": "Vediovis and Dis are jointly invoked to devote Carthage and its army.",
+   "source": "Macrobius, Saturnalia 3.9.10–11",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Martianus treats Vedius as Pluto, also called Dis and Vejovis.",
+   "source": "Martianus Capella 2.166",
+   "date": "fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Di Manes",
+   "other_aliases": [
+    "Manes"
+   ],
+   "kind": "allied",
+   "myth": "Devotio of Carthage",
+   "note": "Vediovis and the Manes are jointly invoked against Carthage and its army.",
+   "source": "Macrobius, Saturnalia 3.9.10–11",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Martianus explicitly identifies Vedius with Pluto, Dis, and Vejovis.",
+   "source": "Martianus Capella 2.166",
+   "date": "fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "As young Jupiter, Vediovis precedes the war when the Giants attacked heaven.",
+   "source": "Ovid, Fasti 3.429–448",
+   "date": "c. 1–17 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Flora",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Summanus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Larunda",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Terminus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vortumnus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Lares",
+   "other_aliases": [
+    "Lares"
+   ],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lucina",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Titus Tatius altar catalogue",
+   "note": "Varro co-lists their altars among those supposedly vowed by Titus Tatius.",
+   "source": "Varro, De lingua Latina 5.74",
+   "date": "c. 47–45 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

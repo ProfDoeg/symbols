@@ -1,0 +1,363 @@
+{
+ "subject": "sigurd",
+ "relations": [
+  {
+   "other": "Sigmund",
+   "other_aliases": [
+    "Sigmund Völsungsson"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sigurd is the posthumous son of Sigmund and Hjördís.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hjördís",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hjördís gives birth to Sigurd after Sigmund’s death.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigi",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sigurd descends through Völsung from Óðinn’s son Sigi.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Odin"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sigurd descends from Óðinn through Sigi and the Völsung lineage.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Odin"
+   ],
+   "kind": "taught_by",
+   "myth": "Advice before the Fáfnir fight",
+   "note": "Óðinn, disguised as a one-eyed man, advises additional blood-drainage trenches.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Odin"
+   ],
+   "kind": "gift",
+   "myth": "Selection of Grani",
+   "note": "Óðinn, disguised as an old man, helps Sigurd select Grani.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gudrun",
+   "other_aliases": [
+    "Guðrún"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Sigurd marries Gudrun after an enchanted drink erases his promises.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brynhild",
+   "other_aliases": [
+    "Brynhildr"
+   ],
+   "kind": "consort_of",
+   "myth": "Vows with Brynhild",
+   "note": "Sigurd and Brynhild exchange vows and become Áslaug’s parents.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Áslaug",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sigurd and Brynhild are presented as Áslaug’s parents.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Siegmund",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Siegfried is the son of King Siegmund of Xanten.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Siegelind",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Siegfried is the son of Queen Siegelind of Xanten.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Siegfried marries Kriemhild in the continental tradition.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Regin",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Preparation for Fáfnir’s death",
+   "note": "Regin fosters Sigurd, reforges Gram, and directs him against Fáfnir.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Regin",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "The birds expose Regin’s treachery",
+   "note": "After hearing the birds’ warning, Sigurd decapitates Regin.",
+   "source": "Fáfnismál",
+   "date": "preserved about 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Fáfnir",
+   "other_aliases": [
+    "Fafnir"
+   ],
+   "kind": "fought",
+   "myth": "Slaying Fáfnir from beneath",
+   "note": "Sigurd attacks the dragon from a trench with Gram.",
+   "source": "Fáfnismál",
+   "date": "preserved about 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Fáfnir",
+   "other_aliases": [
+    "Fafnir"
+   ],
+   "kind": "killed",
+   "myth": "Slaying Fáfnir from beneath",
+   "note": "Sigurd mortally wounds Fáfnir and gains the cursed treasure.",
+   "source": "Fáfnismál",
+   "date": "preserved about 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigrdrífa",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "rescued",
+   "myth": "Awakening the sleeping valkyrie",
+   "note": "Sigurd cuts apart the armor constricting the sleeping valkyrie.",
+   "source": "Sigrdrífumál",
+   "date": "preserved about 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigrdrífa",
+   "other_aliases": [
+    "Brynhild"
+   ],
+   "kind": "taught_by",
+   "myth": "Sigrdrífa’s rune instruction",
+   "note": "Sigrdrífa gives Sigurd a memory-drink, rune-lore, and counsel.",
+   "source": "Sigrdrífumál",
+   "date": "preserved about 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Brynhild",
+   "other_aliases": [
+    "Brynhildr"
+   ],
+   "kind": "deceived",
+   "myth": "Crossing Brynhild’s ring of fire",
+   "note": "Sigurd crosses the fire in Gunnar’s form and exchanges rings with Brynhild.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gunnar",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Gunnar’s courtship of Brynhild",
+   "note": "Sigurd exchanges forms with Gunnar and crosses Brynhild’s fire for him.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gutthorm",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Sigurd’s murder in bed",
+   "note": "Gutthorm mortally attacks Sigurd after Gunnar and Högni incite him.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gutthorm",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Sigurd’s murder in bed",
+   "note": "The dying Sigurd throws Gram and cuts Gutthorm in two.",
+   "source": "Völsunga saga",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hagen",
+   "other_aliases": [
+    "Högni"
+   ],
+   "kind": "killed_by",
+   "myth": "Murder beside the spring",
+   "note": "Hagen spears Siegfried through his vulnerable spot during a hunt.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gunther",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Winning Brünhild for Gunther",
+   "note": "Siegfried uses his invisibility cloak to help Gunther overcome Brünhild.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brünhild",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Gunther’s concealed substitution",
+   "note": "Siegfried secretly helps Gunther defeat and subdue Brünhild.",
+   "source": "Nibelungenlied",
+   "date": "about 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kriemhild",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from the dragon",
+   "note": "Seyfrid rescues Kriemhild during his expanded dragon adventures.",
+   "source": "Lied vom Hürnen Seyfrid",
+   "date": "late medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [
+    "Wanderer"
+   ],
+   "kind": "contest",
+   "myth": "Riddles with the Wanderer",
+   "note": "Siegfried impatiently answers the disguised Wotan’s riddles.",
+   "source": "Siegfried, Act III",
+   "date": "1851–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [
+    "Wanderer"
+   ],
+   "kind": "fought",
+   "myth": "Shattering Wotan’s spear",
+   "note": "Siegfried breaks Wotan’s spear with Nothung during their confrontation.",
+   "source": "Siegfried, Act III",
+   "date": "1851–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Awakening behind Loge’s fire",
+   "note": "Siegfried passes the magic fire and awakens the former valkyrie.",
+   "source": "Siegfried, Act III",
+   "date": "1851–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Union after Brünnhilde’s awakening",
+   "note": "Siegfried and Brünnhilde unite after he overcomes fear through love.",
+   "source": "Siegfried, Act III",
+   "date": "1851–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Mime",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Mime’s intended treachery exposed",
+   "note": "Siegfried kills Mime after learning that Mime intends to murder him.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Fafner",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Siegfried slays the dragon",
+   "note": "Siegfried kills Fafner, a giant transformed into a dragon.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1852",
+   "tier": "modern"
+  },
+  {
+   "other": "Forest Bird",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Counsel after Fafner’s death",
+   "note": "The Forest Bird warns and guides Siegfried after he tastes dragon blood.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1852",
+   "tier": "modern"
+  }
+ ]
+}

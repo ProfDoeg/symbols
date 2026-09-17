@@ -1,0 +1,447 @@
+{
+ "subject": "anubis",
+ "relations": [
+  {
+   "other": "Qebehut",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Qebehut is identified as Anubis’s daughter; her mother is unspecified.",
+   "source": "Pyramid Texts",
+   "date": "late Fifth–Sixth Dynasties",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Divine embalming of Osiris",
+   "note": "Anubis embalms, purifies, wraps, guards, and restores Osiris’s body.",
+   "source": "Coffin Texts and mortuary liturgies",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Anubis wraps the lord of life",
+   "note": "Anubis places his hands upon the bier and wraps Osiris through his craft.",
+   "source": "Book of the Dead Spell 151",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Defense of Osiris’s corpse",
+   "note": "Anubis protects Osiris’s corpse and scattered relics from Seth.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Judgment of the dead",
+   "note": "Anubis attends Osiris’s tribunal and introduces the justified deceased.",
+   "source": "Books of the Dead",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Osiris secretly fathers Anubis with Nephthys.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "around 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Secret conception and exposure of Anubis",
+   "note": "Nephthys conceives Anubis by Osiris and exposes the newborn.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "around 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mourning and embalming of Osiris",
+   "note": "Nephthys mourns Osiris while Anubis performs funerary protection.",
+   "source": "Mortuary scenes and liturgies",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Exposure and adoption of Anubis",
+   "note": "Isis finds the exposed Anubis and raises him.",
+   "source": "Plutarch, On Isis and Osiris",
+   "date": "around 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Isis searches for Osiris",
+   "note": "Anubis guards Isis and assists her search for and protection of Osiris.",
+   "source": "Diodorus, Library of History I",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of Osiris",
+   "note": "Isis mourns or revives Osiris while Anubis embalms him.",
+   "source": "Mortuary liturgies and temple mythography",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isiac processions",
+   "note": "Anubis accompanies Isis in processions and Greco-Roman sanctuaries.",
+   "source": "Diodorus, Plutarch, and Apuleius",
+   "date": "first century BCE–second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some Isiac settings describe Anubis as Isis’s son or companion.",
+   "source": "Hellenistic and Roman cult evidence",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A scattered late theological variant names Seth as Anubis’s father.",
+   "source": "Scattered late theological variants",
+   "date": "Late Period or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "fought",
+   "myth": "Defense of Osiris’s relics",
+   "note": "Anubis fights and captures Seth after attacks upon Osiris’s body.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "punished",
+   "myth": "Punishment and flaying of Seth",
+   "note": "Anubis binds, mutilates, brands, castrates, or flays Seth in variant episodes.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "punished",
+   "myth": "Seth bears Osiris",
+   "note": "Anubis forces the defeated Seth to carry Osiris.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection and restoration of Osiris",
+   "note": "Anubis and Horus jointly protect and serve Osiris and the dead.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old–Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of the dead",
+   "note": "Anubis attends the balance while Horus conducts the vindicated deceased.",
+   "source": "Books of the Dead",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Horus’s party battles Seth",
+   "note": "Anubis assists Horus’s faction against Seth.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weighing of the heart",
+   "note": "Anubis steadies the balance while Thoth records or announces its result.",
+   "source": "Papyri of Ani and Greenfield",
+   "date": "c. 1250 and 950–930 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration and funerary judgment",
+   "note": "Anubis and Thoth cooperate in restoration, ritual knowledge, and judgment.",
+   "source": "Coffin Texts and Books of Dead",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Syncretistic magical invocation",
+   "note": "Their names are combined in ritual invocations and divinatory formulae.",
+   "source": "Greek and Demotic magical papyri",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weighing of the heart",
+   "note": "Anubis tests the deceased’s heart against Maat or her feather.",
+   "source": "Book of the Dead vignettes",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ammit",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weighing of the heart",
+   "note": "Anubis attends the balance while Ammit waits to consume a condemned heart.",
+   "source": "Papyri of Ani and Greenfield",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anput",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Local theology presents Anput as Anubis’s feminine counterpart or consort.",
+   "source": "Cynopolitan theological arrangements",
+   "date": "Late and regional evidence",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wepwawet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Parallel funerary and local theology",
+   "note": "Anubis and Wepwawet appear together or perform overlapping funerary functions.",
+   "source": "Egyptian ritual and temple sources",
+   "date": "Pharaonic period onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Wepwawet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late local sources fuse their functions in the form Anubis-Wepwawet.",
+   "source": "Late Egyptian temple sources",
+   "date": "Late Period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Khentiamentiu",
+   "other_aliases": [
+    "Foremost of the Westerners"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Anubis can bear Khentiamentiu’s name or title amid historical titular absorption.",
+   "source": "Abydene funerary theology",
+   "date": "Old Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solar passage through nocturnal regions",
+   "note": "Anubis participates in solar-afterlife transformations and assists nocturnal passage.",
+   "source": "Funerary theological texts",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some late theological systems call Anubis a child of Ra.",
+   "source": "Late theological systems",
+   "date": "Late Period or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Divine tribunal",
+   "note": "Anubis gives or executes judgment under Geb’s judicial authority.",
+   "source": "Funerary spells",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Ennead",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The title “Son of the Ennead” places Anubis theologically, not biologically.",
+   "source": "Funerary and temple texts",
+   "date": "Pharaonic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A scattered late theological variant names Bastet as Anubis’s parent.",
+   "source": "Scattered late theological variants",
+   "date": "Late Period or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Anubis is presented as Bata’s elder brother.",
+   "source": "Papyrus D’Orbiney",
+   "date": "c. 1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "False accusation against Bata",
+   "note": "Deceived by his wife, Anubis pursues Bata intending to kill him.",
+   "source": "Papyrus D’Orbiney",
+   "date": "c. 1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation of the brothers",
+   "note": "Anubis learns Bata’s innocence and reconciles with him.",
+   "source": "Papyrus D’Orbiney",
+   "date": "c. 1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Restoration of Bata",
+   "note": "Anubis safeguards Bata’s heart and restores his brother after death.",
+   "source": "Papyrus D’Orbiney",
+   "date": "c. 1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Bata’s royal succession",
+   "note": "Anubis succeeds Bata as king after Bata appoints him.",
+   "source": "Papyrus D’Orbiney",
+   "date": "c. 1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bata",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Local reinterpretation of Bata",
+   "note": "Local mythology identifies Bata with a pacified or transformed Seth.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic–early Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Anubis is compared and fused with Hermes as psychopomp and boundary-crosser.",
+   "source": "Plutarch and Roman iconography",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [
+    "Serapis/Osiris"
+   ],
+   "kind": "shared_myth",
+   "myth": "Roman Isiac divine family",
+   "note": "Anubis appears with Serapis in Roman Isiac cult groups and sanctuaries.",
+   "source": "Roman Isiac cult evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harpocrates",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isiac cult groups",
+   "note": "Anubis and Harpocrates appear jointly in Isiac groups and sanctuaries.",
+   "source": "Hellenistic and Roman cult evidence",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  }
+ ]
+}

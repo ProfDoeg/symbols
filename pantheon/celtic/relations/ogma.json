@@ -1,0 +1,293 @@
+{
+ "subject": "ogma",
+ "relations": [
+  {
+   "other": "Elatha",
+   "other_aliases": [
+    "Elada"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ogma is repeatedly named as the son of Elatha.",
+   "source": "Cath Maige Tuired; Lebor Gabála; Auraicept",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Auraicept makes Bres and Ogma sons of Elatha.",
+   "source": "Auraicept na n-Éces",
+   "date": "late medieval tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Servitude under Bres",
+   "note": "Bres degrades Ogma by forcing the champion to carry firewood.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Delbaeth",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Auraicept makes Ogma, Bres, and Delbaeth brothers.",
+   "source": "Auraicept na n-Éces",
+   "date": "late medieval tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Delbaeth",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One extended pedigree makes Delbaeth an ancestor of Ogma.",
+   "source": "Auraicept na n-Éces",
+   "date": "late medieval tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Delbaeth",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Book of Leinster genealogies alternatively make Delbaeth Ogma's son.",
+   "source": "Book of Leinster genealogies",
+   "date": "c. 1160",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nét",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "A pedigree makes Ogma son of Elatha son of Nét.",
+   "source": "Lebor Gabála Érenn",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Dagda",
+   "other_aliases": [
+    "Dagda"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Irish Historia Brittonum calls Ogma brother of the Dagda.",
+   "source": "Irish Historia Brittonum",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Dagda",
+   "other_aliases": [
+    "Dagda"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned poem calls Ogma son of the brown Dagda.",
+   "source": "Aimirgin Glúngel",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Dagda",
+   "other_aliases": [
+    "Dagda"
+   ],
+   "kind": "allied",
+   "myth": "Preparations for Mag Tuired",
+   "note": "Ogma accompanies the Dagda and Lug while securing battle equipment.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Dagda",
+   "other_aliases": [
+    "Dagda"
+   ],
+   "kind": "gift",
+   "myth": "Distribution of the síde",
+   "note": "The Dagda assigns Síd Aircheltrai to Ogma.",
+   "source": "De Gabáil in t-Sída",
+   "date": "c. 1160",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Battle consultation",
+   "note": "Ogma answers Lug's summons and promises to repel the enemy king.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Preparations for Mag Tuired",
+   "note": "Ogma joins Lug and the Dagda in obtaining battle equipment.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "First ogam warning",
+   "note": "Ogma writes seven b-strokes warning about the removal of Lug's wife.",
+   "source": "Auraicept na n-Éces",
+   "date": "late medieval tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The three gods of Danu",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Preparations for Mag Tuired",
+   "note": "Ogma, Lug, and Dagda receive battle equipment or support from them.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indech mac Dé Domnann",
+   "other_aliases": [
+    "Indech"
+   ],
+   "kind": "fought",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Ogma meets the Fomorian king or champion Indech in single combat.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indech mac Dé Domnann",
+   "other_aliases": [
+    "Indech"
+   ],
+   "kind": "killed_by",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "One strand says Ogma and Indech fall together in combat.",
+   "source": "Cath Maige Tuired; Lebor Gabála",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Indech mac Dé Domnann",
+   "other_aliases": [
+    "Indech"
+   ],
+   "kind": "killed",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Their mutual fall implies that Indech also dies in their combat.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tethra",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Acquisition of Orna",
+   "note": "After battle Ogma finds and takes the Fomorian king Tethra's sword.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orna",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The speaking sword",
+   "note": "Ogma draws and cleans Orna, which then recounts its deeds.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brian",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One genealogy makes Brian Ogma's descendant through Delbaeth.",
+   "source": "Book of Leinster genealogy",
+   "date": "c. 1160",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iuchar",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One genealogy makes Iuchar Ogma's descendant through Delbaeth.",
+   "source": "Book of Leinster genealogy",
+   "date": "c. 1160",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iucharba",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "One genealogy makes Iucharba Ogma's descendant through Delbaeth.",
+   "source": "Book of Leinster genealogy",
+   "date": "c. 1160",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ogmios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars reconstruct Ogma and Ogmios as related or identical figures.",
+   "source": "Modern comparative scholarship",
+   "date": "nineteenth century–present",
+   "tier": "modern"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Lucian's chained eloquence",
+   "note": "Through Ogmios, Ogma is indirectly associated with Lucian's Celtic Heracles.",
+   "source": "Lucian, Heracles",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lucian's comparison of eloquence",
+   "note": "Lucian contrasts Greek Hermes with the Celtic association of eloquence and Heracles.",
+   "source": "Lucian, Heracles",
+   "date": "second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Túatha Dé Danann",
+   "other_aliases": [
+    "the Túatha Dé"
+   ],
+   "kind": "served",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "Ogma serves as the Túatha Dé's strongman and martial champion.",
+   "source": "Cath Maige Tuired",
+   "date": "medieval",
+   "tier": "canonical"
+  }
+ ]
+}

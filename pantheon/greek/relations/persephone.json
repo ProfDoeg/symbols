@@ -1,0 +1,419 @@
+{
+ "subject": "persephone",
+ "relations": [
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Demeter is Persephone’s mother in the dominant archaic genealogy.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "shared_myth",
+   "myth": "Abduction, famine, reunion, and divided residence",
+   "note": "Their separation provokes famine; their reunion restores fertility and establishes shared seasonal residence.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Persephone with Demeter in the dominant genealogy.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "deceived_by",
+   "myth": "Narcissus trap and authorized abduction",
+   "note": "Zeus designs the narcissus snare and secretly authorizes Hades to seize Persephone.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Negotiated return from Hades",
+   "note": "When Demeter’s famine threatens humanity, Zeus orders negotiations for Persephone’s return.",
+   "source": "Homeric Hymn to Demeter 313–385",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus unusually names Styx, rather than Demeter, as Persephone’s mother.",
+   "source": "Apollodorus, Bibliotheca 1.3.1",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Aidoneus",
+    "Pluto",
+    "Dis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Persephone becomes Hades’s wife and enthroned underworld queen.",
+   "source": "Hesiod, Theogony 912–914",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Aidoneus",
+    "Pluto",
+    "Dis"
+   ],
+   "kind": "punished_by",
+   "myth": "Abduction into the underworld",
+   "note": "Hades violently seizes the unwilling Persephone and carries her into the underworld.",
+   "source": "Homeric Hymn to Demeter 1–32",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Aidoneus",
+    "Pluto",
+    "Dis"
+   ],
+   "kind": "deceived_by",
+   "myth": "Pomegranate before Persephone’s release",
+   "note": "Before releasing Persephone, Hades secretly gives or compels her to eat pomegranate.",
+   "source": "Homeric Hymn to Demeter 334–403",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Narcissus snare",
+   "note": "Gaia produces the marvelous narcissus that lures Persephone into the abduction trap.",
+   "source": "Homeric Hymn to Demeter 8–18",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Search and reunion",
+   "note": "Hecate hears Persephone’s cry, aids the search, and embraces her after her return.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Persephone’s return",
+   "note": "After Persephone returns, Hecate becomes her attendant and companion.",
+   "source": "Homeric Hymn to Demeter 438–440",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Roman Egyptian magical invocations",
+   "note": "Magical texts merge or overlap Persephone with Hecate and related cosmic goddesses.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Witness to Persephone’s abduction",
+   "note": "Helios witnesses or hears the seizure and later tells Demeter what occurred.",
+   "source": "Homeric Hymn to Demeter 62–87",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Persephone’s negotiated return",
+   "note": "Hermes negotiates with Hades and escorts Persephone from the underworld.",
+   "source": "Homeric Hymn to Demeter 334–385",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Chthonic binding formula",
+   "note": "Hermes and Kore-Persephone are jointly invoked in a Roman Egyptian binding spell.",
+   "source": "PGM IV 335–406",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [
+    "Oceanid nymphs"
+   ],
+   "kind": "shared_myth",
+   "myth": "Flower gathering before the abduction",
+   "note": "Persephone gathers meadow flowers with a named company of Oceanid nymphs.",
+   "source": "Homeric Hymn to Demeter 5, 417–423",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Flower gathering before the abduction",
+   "note": "Persephone names Athena among her divine flower-gathering companions.",
+   "source": "Homeric Hymn to Demeter 424",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine search for the lost maiden",
+   "note": "In Euripides’ transformed version, Athena accompanies the divine search.",
+   "source": "Euripides, Helen 1301–1368",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Flower gathering before the abduction",
+   "note": "Persephone names Artemis among her divine flower-gathering companions.",
+   "source": "Homeric Hymn to Demeter 424",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine search for the lost maiden",
+   "note": "In Euripides’ transformed version, Artemis accompanies the divine search.",
+   "source": "Euripides, Helen 1301–1368",
+   "date": "412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Roman Egyptian magical invocations",
+   "note": "Roman Egyptian spells invoke Artemis and Persephone as overlapping manifestations.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Roman Egyptian magical invocations",
+   "note": "Roman Egyptian spells invoke Selene and Persephone as overlapping manifestations.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dispute over Adonis",
+   "note": "Aphrodite entrusts Adonis to Persephone, who later refuses to surrender him.",
+   "source": "Apollodorus, Bibliotheca 3.14.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fostering and retention of Adonis",
+   "note": "Persephone fosters Adonis, retains him after seeing his beauty, and receives part of his time.",
+   "source": "Apollodorus, Bibliotheca 3.14.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Chthonic binding formula",
+   "note": "Adonis and Kore-Persephone are jointly invoked in a Roman Egyptian binding spell.",
+   "source": "PGM IV 335–406",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "judged_by",
+   "myth": "Division of Adonis’s time",
+   "note": "In one version, Zeus judges Persephone’s dispute with Aphrodite and divides Adonis’s time.",
+   "source": "Apollodorus, Bibliotheca 3.14.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Calliope",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division of Adonis’s time",
+   "note": "In a variant, Calliope adjudicates Persephone’s dispute with Aphrodite over Adonis.",
+   "source": "Apollodorus, Bibliotheca 3.14.4",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Zagreus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Persephone bears Dionysus or Zagreus to Zeus in Orphic genealogies.",
+   "source": "Diodorus 4.4.1; Orphic fragments",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "consort_of",
+   "myth": "Conception of Dionysus-Zagreus",
+   "note": "Zeus mates with Persephone, sometimes in serpent form, and fathers Dionysus-Zagreus.",
+   "source": "Diodorus 4.4.1; Orphic fragments",
+   "date": "first century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melinoe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Persephone bears the nocturnal goddess Melinoe after Zeus approaches her disguised as Pluto.",
+   "source": "Orphic Hymn 71",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "deceived_by",
+   "myth": "Conception of Melinoe",
+   "note": "Zeus deceives Persephone by assuming Pluto’s form and fathers Melinoe.",
+   "source": "Orphic Hymn 71",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eumenides",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A late Orphic hymn names Persephone as mother of the Eumenides.",
+   "source": "Orphic Hymn 29",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eubouleus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Orphic Hymn 29 ambiguously makes Persephone mother of many-formed Eubouleus.",
+   "source": "Orphic Hymn 29",
+   "date": "second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eubouleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception of the purified dead",
+   "note": "Eubouleus receives purified initiates beside Persephone in the Thurii funerary tablets.",
+   "source": "Thurii gold tablets",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eukles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception of the purified dead",
+   "note": "Eukles receives purified initiates beside Persephone in the Thurii funerary tablets.",
+   "source": "Thurii gold tablets",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Roman-era religious interpretation",
+   "note": "Persephone overlaps with Isis through underworld, agrarian, many-named, and mother-searching aspects.",
+   "source": "Apuleian and magical environments",
+   "date": "Roman Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Final reconciliation after Persephone’s return",
+   "note": "Rhea mediates the final reconciliation that restores fertility after Persephone’s return.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  }
+ ]
+}

@@ -1,0 +1,1137 @@
+{
+ "subject": "odin",
+ "relations": [
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Mercurius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretatio identifies the principal Germanic god with Mercury.",
+   "source": "Tacitus, Germania 9",
+   "date": "c. 98 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned Greek equivalence follows Odin's Roman identification with Mercury.",
+   "source": "Learned Mercury equation",
+   "date": "medieval and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Devil",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Christian clerical and folk traditions recast Odin as a demonic figure.",
+   "source": "Conversion-period folklore",
+   "date": "medieval and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Borr",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Odin is Borr's son alongside Vili and Vé.",
+   "source": "Gylfaginning 6",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bestla",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Odin is Bestla's son alongside Vili and Vé.",
+   "source": "Gylfaginning 6",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Búri",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Odin is Búri's grandson through Borr.",
+   "source": "Gylfaginning 6",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vili",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Vili is Odin's brother and a fellow son of Borr and Bestla.",
+   "source": "Gylfaginning 6",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vili",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Slaying Ymir and creating the cosmos",
+   "note": "Odin, Vili, and Vé kill Ymir and fashion the world.",
+   "source": "Vafþrúðnismál 21; Gylfaginning 7–9",
+   "date": "manuscript c. 1270; c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vé",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Vé is Odin's brother and a fellow son of Borr and Bestla.",
+   "source": "Gylfaginning 6",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vé",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Slaying Ymir and creating the cosmos",
+   "note": "Odin, Vili, and Vé kill Ymir and fashion the world.",
+   "source": "Vafþrúðnismál 21; Gylfaginning 7–9",
+   "date": "manuscript c. 1270; c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ymir",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying Ymir",
+   "note": "Odin and Borr's other sons kill Ymir.",
+   "source": "Vafþrúðnismál 21; Gylfaginning 7",
+   "date": "manuscript c. 1270; c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ymir",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Creation from Ymir's body",
+   "note": "Odin and his brothers fashion the cosmos from Ymir's body.",
+   "source": "Gylfaginning 8–9",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hœnir",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Animation of Ask and Embla",
+   "note": "Odin and Hœnir help give life and faculties to the first humans.",
+   "source": "Völuspá 17–18",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Lóðurr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Animation of Ask and Embla",
+   "note": "Odin and Lóðurr help give life and faculties to the first humans.",
+   "source": "Völuspá 17–18",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Ask",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Animation of Ask and Embla",
+   "note": "Odin and two companions animate the lifeless Ask.",
+   "source": "Völuspá 17–18",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Ask",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Snorri's creation of humanity",
+   "note": "Odin, Vili, and Vé give Ask life and human faculties.",
+   "source": "Gylfaginning 9",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Embla",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Animation of Ask and Embla",
+   "note": "Odin and two companions animate the lifeless Embla.",
+   "source": "Völuspá 17–18",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Embla",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Snorri's creation of humanity",
+   "note": "Odin, Vili, and Vé give Embla life and human faculties.",
+   "source": "Gylfaginning 9",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Frigg is Odin's principal wife and counselor.",
+   "source": "Eddic poems; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Warning before Vafþrúðnir's contest",
+   "note": "Frigg warns Odin against visiting the dangerous giant Vafþrúðnir.",
+   "source": "Vafþrúðnismál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "contest",
+   "myth": "Wager over their foster sons",
+   "note": "Odin and Frigg wager over their foster sons Geirröðr and Agnarr.",
+   "source": "Grímnismál prose frame",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "deceived_by",
+   "myth": "Grímnir and Geirröðr",
+   "note": "Frigg tricks Odin into believing Geirröðr violates hospitality.",
+   "source": "Grímnismál prose frame",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "shared_myth",
+   "myth": "Viewing worlds from Hlíðskjálf",
+   "note": "Odin and Frigg share the high seat Hlíðskjálf.",
+   "source": "Grímnismál; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frea",
+    "Friia"
+   ],
+   "kind": "deceived_by",
+   "myth": "Naming of the Longobards",
+   "note": "Frea tricks Godan into naming the Longobards and granting them victory.",
+   "source": "Historia Langobardorum I.8",
+   "date": "late eighth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jörð",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Jörð is Odin's partner and Thor's mother in genealogical formulas.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Donar",
+    "Þonar",
+    "Wigi-Þonar"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thor is repeatedly presented as Odin's son.",
+   "source": "Hárbarðsljóð 9; Snorri's Edda",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Donar",
+    "Þonar",
+    "Wigi-Þonar"
+   ],
+   "kind": "contest",
+   "myth": "Hárbarðr's quarrel with Thor",
+   "note": "Disguised as Hárbarðr, Odin denies Thor passage and trades insults.",
+   "source": "Hárbarðsljóð",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Donar",
+    "Þonar",
+    "Wigi-Þonar"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Wodan and Wigi-Þonar appear together, but their grammatical relationship is disputed.",
+   "source": "Nordendorf I fibula",
+   "date": "c. 560–585",
+   "tier": "attested"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder",
+    "Balderus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Baldr is Odin's son and, in Snorri, Frigg's son.",
+   "source": "Eddic poems; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder",
+    "Balderus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Investigation of Baldr's dreams",
+   "note": "Odin rides to Hel and questions a dead seeress about Baldr's danger.",
+   "source": "Baldrs draumar",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder",
+    "Balderus"
+   ],
+   "kind": "gift",
+   "myth": "Baldr's funeral",
+   "note": "Odin places the ring Draupnir on Baldr's funeral pyre.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder",
+    "Balderus"
+   ],
+   "kind": "other",
+   "myth": "Vengeance for Baldr",
+   "note": "Odin fathers Váli specifically to avenge Baldr's death.",
+   "source": "Baldrs draumar; Völuspá; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Snorrian tradition makes the blind Höðr Odin's son.",
+   "source": "Snorri's Edda",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "punished",
+   "myth": "Vengeance for Baldr",
+   "note": "Odin begets Váli, who kills Höðr for Baldr's death.",
+   "source": "Völuspá 32–33; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "fought",
+   "myth": "Saxo's Balder conflict",
+   "note": "Saxo's Othinus opposes the human hero Høtherus after Balderus's death.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rindr",
+   "other_aliases": [
+    "Rinda"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rindr bears Odin's avenging son Váli.",
+   "source": "Baldrs draumar 11; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rindr",
+   "other_aliases": [
+    "Rinda"
+   ],
+   "kind": "deceived",
+   "myth": "Othinus's pursuit of Rinda",
+   "note": "Othinus uses disguises and magic during his coercive pursuit of Rinda.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rindr",
+   "other_aliases": [
+    "Rinda"
+   ],
+   "kind": "seduced",
+   "myth": "Begetting Baldr's avenger",
+   "note": "Othinus magically incapacitates and coercively impregnates Rinda to beget Bous.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [
+    "Ali",
+    "Bous"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Odin fathers Váli on Rindr to avenge Baldr.",
+   "source": "Baldrs draumar 11; Völuspá 32–33",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [
+    "Ali",
+    "Bous"
+   ],
+   "kind": "allied",
+   "myth": "Vengeance for Baldr",
+   "note": "Odin's newborn son Váli fulfills the planned vengeance by killing Höðr.",
+   "source": "Völuspá 32–33; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Víðarr is Odin's silent son by Gríðr.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Víðarr",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Vengeance at Ragnarök",
+   "note": "After Fenrir kills Odin, Víðarr avenges him by killing the wolf.",
+   "source": "Völuspá 55; Gylfaginning 51",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gríðr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Gríðr is named as Víðarr's mother by Odin.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Meili",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Meili is called Odin's son in Þórsdrápa.",
+   "source": "Þórsdrápa",
+   "date": "late tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri's lists sometimes identify Bragi as Odin's son.",
+   "source": "Snorri's Edda",
+   "date": "c. 1220",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Eiríkr's arrival in Valhalla",
+   "note": "Odin asks Bragi to greet the arriving King Eiríkr.",
+   "source": "Eiríksmál",
+   "date": "c. 960–990",
+   "tier": "attested"
+  },
+  {
+   "other": "Týr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One Snorrian formula calls Týr Odin's son, conflicting with Hymiskviða.",
+   "source": "Snorri's Edda",
+   "date": "c. 1220",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An isolated Snorrian kenning calls Heimdallr Odin's son.",
+   "source": "Snorri's Edda",
+   "date": "c. 1220",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Manuscript wording calls Hermóðr Odin's boy or son.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ride to ransom Baldr",
+   "note": "Odin sends Hermóðr on Sleipnir to negotiate Baldr's release from Hel.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Attempt to ransom Baldr",
+   "note": "Through Hermóðr, Odin seeks Baldr's release; Hel requires universal mourning.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Þökk"
+   ],
+   "kind": "allied",
+   "myth": "Odin and Loki's blood-brotherhood",
+   "note": "Odin says he and Loki mixed blood and vowed to drink together.",
+   "source": "Lokasenna 9",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Þökk"
+   ],
+   "kind": "deceived_by",
+   "myth": "Baldr's death",
+   "note": "Loki engineers Baldr's death and, as Þökk, prevents his release.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Þökk"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Marvel recasts Loki as Odin's adopted son, unlike medieval tradition.",
+   "source": "Marvel Comics",
+   "date": "from 1962",
+   "tier": "modern"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Teaching seiðr to the Æsir",
+   "note": "Freyja teaches seiðr to Odin's Æsir circle.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of the battle-dead",
+   "note": "Freyja receives half the battle-slain while Odin receives the other half.",
+   "source": "Grímnismál 14",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Njörðr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Æsir–Vanir war",
+   "note": "Odin leads the Æsir against Njörðr's Vanir before hostages are exchanged.",
+   "source": "Völuspá 21–24; Ynglinga saga 4",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Njörðr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Peace after the Æsir–Vanir war",
+   "note": "After peace, Njörðr joins Odin's Æsir as an exchanged hostage.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyr",
+   "other_aliases": [
+    "Fricco"
+   ],
+   "kind": "fought",
+   "myth": "Æsir–Vanir war",
+   "note": "Odin leads the Æsir against the Vanir, including Freyr's divine family.",
+   "source": "Völuspá 21–24; Ynglinga saga 4",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyr",
+   "other_aliases": [
+    "Fricco"
+   ],
+   "kind": "allied",
+   "myth": "Peace after the Æsir–Vanir war",
+   "note": "Freyr enters Odin's Æsir community following the hostage settlement.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Vanir",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Æsir–Vanir war",
+   "note": "Odin leads the Æsir host in war against the Vanir.",
+   "source": "Völuspá 21–24",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "the Vanir",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Peace after the Æsir–Vanir war",
+   "note": "The Æsir and Vanir make peace and exchange hostages.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mímir",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Odin's pledge at Mímir's well",
+   "note": "Odin pledges his eye for a drink from Mímir's wisdom-giving well.",
+   "source": "Völuspá 28; Gylfaginning 15",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mímir",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Preservation of Mímir's head",
+   "note": "Odin preserves Mímir's severed head with herbs and spells.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mímir",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Consulting Mímir's head",
+   "note": "Odin consults Mímir's preserved head for secret knowledge and counsel.",
+   "source": "Ynglinga saga 4",
+   "date": "c. 1230",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kvasir",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The mead of poetry",
+   "note": "Odin steals the poetic mead made from Kvasir's blood.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gunnlöð",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "The mead of poetry",
+   "note": "Odin spends three nights with Gunnlöð to obtain three drinks of mead.",
+   "source": "Hávamál 105–110; Skáldskaparmál",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gunnlöð",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The mead of poetry",
+   "note": "Odin exploits Gunnlöð's trust, drains the mead, and abandons her.",
+   "source": "Hávamál 105–110; Skáldskaparmál",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Suttungr",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The mead of poetry",
+   "note": "Odin enters Suttungr's mountain and steals his guarded poetic mead.",
+   "source": "Hávamál 104–110; Skáldskaparmál",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Suttungr",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Eagle pursuit after the mead theft",
+   "note": "Suttungr pursues the fleeing Odin after both transform into eagles.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baugi",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The mead of poetry",
+   "note": "Odin deceives Baugi, works for him, and uses him to breach Hnitbjörg.",
+   "source": "Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vafþrúðnir",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Vafþrúðnir's wisdom contest",
+   "note": "Disguised as Gagnráðr, Odin defeats Vafþrúðnir with an unanswerable question.",
+   "source": "Vafþrúðnismál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Vafþrúðnir",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vafþrúðnir's wisdom contest",
+   "note": "Odin's victory in the wager dooms or kills the giant.",
+   "source": "Vafþrúðnismál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Odin's death at Ragnarök",
+   "note": "Fenrir swallows and kills Odin during the final battle.",
+   "source": "Völuspá; Vafþrúðnismál; Gylfaginning",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Odin confronts Fenrir at Ragnarök",
+   "note": "Odin advances against Fenrir with Gungnir before the wolf devours him.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the unnamed völva",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Odin purchases prophecy",
+   "note": "Odin gives the völva rings and necklaces for prophecy or narration.",
+   "source": "Völuspá",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "the unnamed völva",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "The prophecy of Völuspá",
+   "note": "The völva recounts cosmic history and Ragnarök in response to Odin.",
+   "source": "Völuspá",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "the dead seeress",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Odin awakens the dead seeress",
+   "note": "Odin compels a dead seeress from her grave with spells.",
+   "source": "Baldrs draumar",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "the dead seeress",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Questioning about Baldr's dreams",
+   "note": "Odin questions the seeress until she recognizes and dismisses him.",
+   "source": "Baldrs draumar",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Gefjon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Gefjon ploughs out Zealand",
+   "note": "Odin sends Gefjon north to seek land, and she creates Zealand.",
+   "source": "Ynglinga saga",
+   "date": "c. 1230",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sága",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Drinking at Sökkvabekkr",
+   "note": "Odin and Sága drink daily together at Sökkvabekkr.",
+   "source": "Grímnismál 7",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Ullr",
+   "other_aliases": [
+    "Ollerus"
+   ],
+   "kind": "deceived_by",
+   "myth": "Ollerus usurps the exiled Othinus",
+   "note": "Ollerus impersonates and temporarily replaces exiled Othinus using a spell-marked bone.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ullr",
+   "other_aliases": [
+    "Ollerus"
+   ],
+   "kind": "punished",
+   "myth": "Othinus returns from exile",
+   "note": "Othinus returns to power and drives the usurping Ollerus away.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mithothyn",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Mithothyn's usurpation",
+   "note": "The false god Mithothyn seizes Odin's power and changes sacrificial practice.",
+   "source": "Gesta Danorum I",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mithothyn",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Othinus returns from exile",
+   "note": "Othinus returns, forcing the usurper Mithothyn to flee.",
+   "source": "Gesta Danorum I",
+   "date": "c. 1185–1220",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fulla",
+   "other_aliases": [
+    "Volla"
+   ],
+   "kind": "shared_myth",
+   "myth": "Healing Balder's horse",
+   "note": "Volla participates in healing charms before Wodan successfully heals the horse.",
+   "source": "Second Merseburg Charm",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sunna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Healing Balder's horse",
+   "note": "Sunna attempts a healing charm before Wodan heals Balder's horse.",
+   "source": "Second Merseburg Charm",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sinthgunt",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Healing Balder's horse",
+   "note": "Sinthgunt attempts a healing charm before Wodan heals Balder's horse.",
+   "source": "Second Merseburg Charm",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Healing Balder's horse",
+   "note": "Phol rides into the wood with Wodan before Balder's horse is injured.",
+   "source": "Second Merseburg Charm",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balder",
+    "Balderus"
+   ],
+   "kind": "rescued",
+   "myth": "Healing Balder's horse",
+   "note": "Wodan successfully charms Balder's injured horse after other divine healers fail.",
+   "source": "Second Merseburg Charm",
+   "date": "early tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hrist",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Choosing and serving the slain",
+   "note": "Odin sends Hrist among the valkyries who choose or serve warriors.",
+   "source": "Grímnismál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Mist",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Choosing and serving the slain",
+   "note": "Odin sends Mist among the valkyries who choose or serve warriors.",
+   "source": "Grímnismál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Göndul",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Choosing the battle-slain",
+   "note": "Odin dispatches Göndul to choose slain warriors and escort royal dead.",
+   "source": "Hákonarmál; Eiríksmál",
+   "date": "c. 960–990",
+   "tier": "attested"
+  },
+  {
+   "other": "Skögul",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Choosing the battle-slain",
+   "note": "Odin dispatches Skögul to choose slain warriors and escort royal dead.",
+   "source": "Hákonarmál; Eiríksmál",
+   "date": "c. 960–990",
+   "tier": "attested"
+  },
+  {
+   "other": "the valkyries",
+   "other_aliases": [
+    "female choosers of the slain"
+   ],
+   "kind": "served_by",
+   "myth": "Gathering warriors for Valhalla",
+   "note": "Odin sends or directs valkyries to choose and serve the battle-slain.",
+   "source": "Eddic and skaldic poetry",
+   "date": "ninth–thirteenth centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Sleipnir",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Odin's journeys between worlds",
+   "note": "Odin rides Sleipnir to Jötunheimr, Hel, and Ragnarök.",
+   "source": "Eddic poems; Snorri's Edda",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Huginn",
+   "other_aliases": [
+    "Thought"
+   ],
+   "kind": "served_by",
+   "myth": "Daily flight over the world",
+   "note": "Odin dispatches Huginn worldwide each day to return with knowledge.",
+   "source": "Grímnismál 20; Gylfaginning 38",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muninn",
+   "other_aliases": [
+    "Memory",
+    "Mind"
+   ],
+   "kind": "served_by",
+   "myth": "Daily flight over the world",
+   "note": "Odin dispatches Muninn worldwide each day to return with knowledge.",
+   "source": "Grímnismál 20; Gylfaginning 38",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geri",
+   "other_aliases": [
+    "Ravenous"
+   ],
+   "kind": "served_by",
+   "myth": "Feeding Odin's wolves",
+   "note": "Odin feeds Geri his meat while sustaining himself on wine.",
+   "source": "Grímnismál 19; Gylfaginning 38",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freki",
+   "other_aliases": [
+    "Greedy"
+   ],
+   "kind": "served_by",
+   "myth": "Feeding Odin's wolves",
+   "note": "Odin feeds Freki his meat while sustaining himself on wine.",
+   "source": "Grímnismál 19; Gylfaginning 38",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ótr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ótr's death and cursed gold",
+   "note": "Odin travels with Hœnir and Loki when Ótr is killed.",
+   "source": "Reginsmál",
+   "date": "manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "the serpent",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Woden and the nine herbs",
+   "note": "Woden strikes a serpent with nine glory-twigs, breaking it into pieces.",
+   "source": "Nine Herbs Charm",
+   "date": "copied c. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Wagner's Ring cycle",
+   "note": "Wagner gives Wotan a central dramatic relationship with Brünnhilde.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1848–1876",
+   "tier": "modern"
+  },
+  {
+   "other": "Gandalf",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Tolkien partly shaped Gandalf from the Odinic wandering god archetype.",
+   "source": "Tolkien's writings",
+   "date": "twentieth century",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "subject": "hodr",
+ "relations": [
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Othinus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Snorri explicitly names Hodr as Odin’s son.",
+   "source": "Snorri, Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hodr and Baldr are sons of Odin in Snorri’s genealogy.",
+   "source": "Snorri, Skáldskaparmál",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "killed",
+   "myth": "Hodr casts the fatal growth",
+   "note": "Hodr casts or shoots the slender growth that kills Baldr.",
+   "source": "Vǫluspá 31–33",
+   "date": "c. 1000; manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "killed",
+   "myth": "The seeress foretells Baldr’s killer",
+   "note": "A dead seeress prophesies that Hodr will become Baldr’s killer.",
+   "source": "Baldrs draumar",
+   "date": "manuscript c. 1300–1325",
+   "tier": "attested"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "killed",
+   "myth": "Snorri’s mistletoe plot",
+   "note": "Blind Hodr throws Loki’s mistletoe at Baldr, killing him unwittingly.",
+   "source": "Snorri, Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "shared_myth",
+   "myth": "Return after Ragnarök",
+   "note": "Hodr and Baldr dwell together in Hropt’s halls after Ragnarök.",
+   "source": "Vǫluspá 62",
+   "date": "c. 1000; manuscript c. 1270",
+   "tier": "attested"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "contest",
+   "myth": "Hotherus and Balderus rival for Nanna",
+   "note": "Hotherus and Balderus compete for Nanna’s love and marriage.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "fought",
+   "myth": "War between Hotherus and Balderus",
+   "note": "Hotherus repeatedly battles Balderus and his divinely supported forces.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baldr",
+   "other_aliases": [
+    "Balderus",
+    "Balder"
+   ],
+   "kind": "killed",
+   "myth": "Hotherus fatally wounds Balderus",
+   "note": "Hotherus wounds Balderus with Mimingus’s sword; Balderus dies three days later.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Snorri’s mistletoe plot",
+   "note": "Loki gives blind Hodr the mistletoe and directs his fatal aim.",
+   "source": "Snorri, Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [
+    "Bous",
+    "Both"
+   ],
+   "kind": "killed_by",
+   "myth": "Váli avenges Baldr",
+   "note": "One-night-old Váli kills Hodr to avenge Baldr before washing or combing.",
+   "source": "Vǫluspá; Baldrs draumar",
+   "date": "c. 1000; manuscript medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [
+    "Bous",
+    "Both"
+   ],
+   "kind": "killed_by",
+   "myth": "Bous and Hotherus battle",
+   "note": "Bous and Hotherus mortally wound one another, avenging Balderus.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Othinus"
+   ],
+   "kind": "fought",
+   "myth": "War against Balderus’s divine allies",
+   "note": "Hotherus fights forces supported by Othinus and other gods.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Thoro"
+   ],
+   "kind": "fought",
+   "myth": "Hotherus breaks Thoro’s weapon",
+   "note": "Hotherus severs Thoro’s club or hammer-shaft, causing the divine army’s retreat.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hodr’s stay in Hel",
+   "note": "Snorri calls Hodr Hel’s companion and says he later comes from Hel.",
+   "source": "Skáldskaparmál; Gylfaginning",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mimingus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Seizure of Mimingus’s treasures",
+   "note": "Hotherus coerces Mimingus into surrendering an invincible sword and magical bracelet.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Forest maidens",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Forest maidens aid Hotherus",
+   "note": "Three supernatural women warn Hotherus about Balderus and advise his warfare.",
+   "source": "Saxo, Gesta Danorum III",
+   "date": "c. 1190–1208/1219",
+   "tier": "regional_variant"
+  }
+ ]
+}

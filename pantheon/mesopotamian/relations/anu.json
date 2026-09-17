@@ -1,0 +1,595 @@
+{
+ "subject": "anu",
+ "relations": [
+  {
+   "other": "Antu",
+   "other_aliases": [
+    "Antum"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Anu and Antu were spouses and paired ritual recipients at Bīt Rēš.",
+   "source": "Late Uruk ritual tablets",
+   "date": "Achaemenid–Seleucid periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Uraš",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Third-millennium regional traditions pair heavenly An with the earth goddess Uraš.",
+   "source": "Lagashite traditions",
+   "date": "third millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "An and Ki form the primordial Heaven-and-Earth pair.",
+   "source": "Sumerian cosmogonic allusions",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Separation of Heaven and Earth",
+   "note": "Their original unity is divided as the differentiated cosmos emerges.",
+   "source": "Sumerian cosmogonic tradition",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Anu is the son and heir of Anšar in the Babylonian genealogy.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Anu commissioned against Tiamat",
+   "note": "Anšar sends Anu to confront Tiamat, but Anu retreats.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kišar",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kišar is Anu’s mother in the Babylonian creation genealogy.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki",
+    "Nudimmud"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Anu begets Nudimmud, identified with Ea, in the Babylonian genealogy.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki",
+    "Nudimmud"
+   ],
+   "kind": "allied",
+   "myth": "Division of the cosmic domains",
+   "note": "Anu, Enlil, and Ea form the senior triad with distinct cosmic portions.",
+   "source": "Atraḫasīs",
+   "date": "eighteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki",
+    "Nudimmud"
+   ],
+   "kind": "shared_myth",
+   "myth": "Feast after humanity's creation",
+   "note": "An, Enlil, and Nudimmud feast within the senior divine order.",
+   "source": "Enki and Ninmaḫ",
+   "date": "Old Babylonian period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Tiamat crisis",
+   "note": "Anu approaches Tiamat but cannot overcome her power and withdraws.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marduk's elevation",
+   "note": "Marduk receives comprehensive kingship, and his command becomes equivalent to Anu’s.",
+   "source": "Enūma eliš",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogies call Enlil a son of An, though others differ.",
+   "source": "Mesopotamian genealogical traditions",
+   "date": "third–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Division of the cosmic domains",
+   "note": "Anu and Enlil jointly govern among the senior gods and hold distinct domains.",
+   "source": "Atraḫasīs",
+   "date": "eighteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial omen authority",
+   "note": "Anu and Enlil jointly authorize the celestial signs named in the series.",
+   "source": "Enūma Anu Enlil",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Flood decision",
+   "note": "Anu participates with Enlil in the senior assembly implicated in the flood.",
+   "source": "Atraḫasīs",
+   "date": "eighteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Separation of Heaven and Earth",
+   "note": "Enlil frequently effects or maintains the separation of An’s heaven from earth.",
+   "source": "Sumerian cosmogonic tradition",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninmaḫ",
+   "other_aliases": [
+    "Nintu",
+    "Bēlet-ilī"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation of humanity",
+   "note": "An belongs to the senior order authorizing creation performed by Ninmaḫ and Enki.",
+   "source": "Enki and Ninmaḫ",
+   "date": "Old Babylonian period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Inana or Ištar is repeatedly described as An or Anu’s daughter.",
+   "source": "Sumerian and Akkadian traditions",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "gift",
+   "myth": "Inana receives terrifying power",
+   "note": "Inana says An made her terrifying throughout heaven.",
+   "source": "Inana and Ebiḫ",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "other",
+   "myth": "Inana appeals before attacking Ebiḫ",
+   "note": "An cautions or refuses Inana, but she attacks Ebiḫ independently.",
+   "source": "Inana and Ebiḫ",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "gift",
+   "myth": "Bull of Heaven",
+   "note": "After resisting her demand, An yields and gives Inana the Bull.",
+   "source": "Gilgameš and the Bull of Heaven",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ištar",
+   "other_aliases": [
+    "Inana"
+   ],
+   "kind": "gift",
+   "myth": "Bull of Heaven",
+   "note": "Anu releases the Bull after Ištar claims provisions exist for the famine.",
+   "source": "Epic of Gilgameš VI",
+   "date": "first-millennium witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgameš",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bull of Heaven",
+   "note": "An releases the Bull to attack Gilgameš, though they never meet directly.",
+   "source": "Gilgameš and the Bull of Heaven",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgameš",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bull of Heaven",
+   "note": "Anu releases Ištar’s requested Bull, which Gilgameš and Enkidu ultimately kill.",
+   "source": "Epic of Gilgameš VI",
+   "date": "first-millennium witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bull of Heaven",
+   "other_aliases": [
+    "Gugalanna"
+   ],
+   "kind": "other",
+   "myth": "Bull of Heaven",
+   "note": "An controls the Bull at the horizon and relinquishes it to Inana.",
+   "source": "Gilgameš and the Bull of Heaven",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The dominant Akkadian genealogy makes the storm god Adad a son of Anu.",
+   "source": "Akkadian genealogical tradition",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sîn",
+   "other_aliases": [
+    "Nanna"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Limited genealogies call Sîn Anu’s son, conflicting with standard Nippur parentage.",
+   "source": "Regional genealogical traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some literary traditions call the underworld and warrior god Nergal Anu’s son.",
+   "source": "Mesopotamian literary traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Anu arms Erra with the Sebetti",
+   "note": "Anu gives Erra seven destructive gods to serve as weapons.",
+   "source": "Erra and Išum",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sebetti",
+   "other_aliases": [
+    "the seven"
+   ],
+   "kind": "created",
+   "myth": "Anu arms Erra with the Sebetti",
+   "note": "Anu creates or commissions the seven destructive gods and gives them to Erra.",
+   "source": "Erra and Išum",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lamaštu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Incantation traditions call the hostile demon Lamaštu a daughter of Anu.",
+   "source": "Mesopotamian incantation traditions",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asag",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "",
+   "note": "Some learned and ritual traditions connect Asag’s origin with Anu.",
+   "source": "Learned ritual traditions",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gatumdug",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lagashite inscriptions call An the father of Gatumdug.",
+   "source": "Lagashite inscriptions",
+   "date": "third millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baba",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lagashite tradition identifies Baba as a daughter of An.",
+   "source": "Lagashite traditions",
+   "date": "third millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ningirsu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some early Lagashite material makes Ningirsu a son of An.",
+   "source": "Lagashite material",
+   "date": "third millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Šara",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some Sumerian literary or god-list traditions call Šara a son of An.",
+   "source": "Sumerian literary and god lists",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nanaya",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Urukian and god-list systems place Nanaya among Anu’s daughters or descendants.",
+   "source": "Late Uruk god-list traditions",
+   "date": "Seleucid period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nidaba",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular regional genealogies identify Nidaba as An’s daughter.",
+   "source": "Regional genealogical traditions",
+   "date": "third–second millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninisina",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some healing-goddess genealogies define Ninisina as a daughter of Anu.",
+   "source": "Healing-goddess traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninkarrak",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some learned healing-goddess genealogies call Ninkarrak a daughter of Anu.",
+   "source": "Healing-goddess traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninmug",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular divine lists include Ninmug among Anu’s daughters.",
+   "source": "Mesopotamian god lists",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninsumun",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogical texts call Gilgameš’s divine mother Ninsumun An’s daughter.",
+   "source": "Mesopotamian genealogical texts",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nungal",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Literary and list traditions can identify the prison goddess Nungal as An’s daughter.",
+   "source": "Literary and god-list traditions",
+   "date": "second–first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Papsukkal",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Papsukkal serves Anu as chief minister and gatekeeper of Bīt Rēš.",
+   "source": "Late Uruk ritual traditions",
+   "date": "Seleucid period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ninšubur",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Through assimilation with Papsukkal, Ninšubur acquired a ministerial relationship to Anu.",
+   "source": "Late Uruk learned theology",
+   "date": "Seleucid period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anunnaki",
+   "other_aliases": [
+    "Anuna"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Anu is represented as progenitor or presiding head of this variable divine collectivity.",
+   "source": "Mesopotamian canonical traditions",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunnaki",
+   "other_aliases": [
+    "Anuna"
+   ],
+   "kind": "judged",
+   "myth": "Divine assembly and netherworld judgment",
+   "note": "Anu presides over the high collectivity, while seven Anuna serve as judges.",
+   "source": "Inana's Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Igigi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "First-millennium titles call Anu king and senior authority of the Igigi.",
+   "source": "First-millennium hymnic and royal texts",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Igigi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Revolt of the laboring gods",
+   "note": "The Igigi rebel against labor imposed within the senior gods’ cosmic order.",
+   "source": "Atraḫasīs",
+   "date": "eighteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Assyrian theology transferred supreme political functions toward Aššur while retaining Anu’s senior rank.",
+   "source": "Assyrian royal theology",
+   "date": "first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amurru",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some learned god lists equate Anu with Amurru despite their independent cult histories.",
+   "source": "Mesopotamian god lists",
+   "date": "second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some late learned texts equate or closely parallel Anu and Anšar.",
+   "source": "Late Assyrian learned texts",
+   "date": "first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enmešarra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Seleucid Urukian theology assimilated Enmešarra’s identity or attributes into Anu’s sovereignty.",
+   "source": "Late Uruk theological systems",
+   "date": "Seleucid period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Certain late Urukian systems correlate Dumuzi with Anu while older myths distinguish them.",
+   "source": "Late Uruk theological systems",
+   "date": "Seleucid period",
+   "tier": "syncretism"
+  }
+ ]
+}

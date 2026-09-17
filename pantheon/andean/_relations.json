@@ -1,0 +1,3443 @@
+{
+ "folder": "andean",
+ "gods": [
+  "amaru",
+  "apus",
+  "ayar_brothers",
+  "catequil",
+  "chasca",
+  "coniraya_and_cavillace",
+  "ekeko",
+  "huallallo_carhuincho",
+  "illapa",
+  "inti",
+  "kon",
+  "mama_cocha",
+  "mama_huaco",
+  "mama_ocllo",
+  "mama_quilla",
+  "mama_sara",
+  "manco_capac",
+  "pachacamac",
+  "pachamama",
+  "pariacaca",
+  "supay",
+  "urcuchillay",
+  "viracocha"
+ ],
+ "relations": [
+  {
+   "a": "amaru",
+   "b": "huallallo_carhuincho",
+   "kind": "killed_by",
+   "myth": "Amaru and Huaytapallana romance",
+   "note": "Huallallo opposes or kills the young Amaru in the romance cycle.",
+   "source": "Modern Junín retelling",
+   "date": "modern, undated",
+   "tier": "late_accretion",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "huallallo_carhuincho",
+   "kind": "served",
+   "myth": "Battle of Pariacaca and Huallallo",
+   "note": "Huallallo releases Amaru as a weapon against Pariacaca.",
+   "source": "Huarochirí Manuscript, chapter 16",
+   "date": "c. 1598–1608",
+   "tier": "attested",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "huallallo_carhuincho",
+   "kind": "served",
+   "myth": "The two-headed Amaru",
+   "note": "Huallallo releases the two-headed monster against Pariacaca, who strikes and petrifies it.",
+   "source": "Huarochirí Manuscript, chapter 16",
+   "date": "ca. 1598–1608",
+   "tier": "attested",
+   "stated_by": [
+    "huallallo_carhuincho"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "pariacaca",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some modern Junín versions identify Amaru as Pariacaca's son.",
+   "source": "Modern Junín oral-literary circulation",
+   "date": "modern, undated",
+   "tier": "regional_variant",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "pariacaca",
+   "kind": "fought",
+   "myth": "Battle of Pariacaca and Huallallo",
+   "note": "Amaru confronts Pariacaca, who pierces its back with a golden staff.",
+   "source": "Huarochirí Manuscript, chapter 16",
+   "date": "c. 1598–1608",
+   "tier": "attested",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "pariacaca",
+   "kind": "transformed_by",
+   "myth": "Petrification of Amaru",
+   "note": "Pariacaca's golden staff makes Amaru grow cold and become stone.",
+   "source": "Huarochirí Manuscript, chapter 16",
+   "date": "c. 1598–1608",
+   "tier": "attested",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "amaru",
+   "b": "viracocha",
+   "kind": "other",
+   "myth": "Amaru Aranway",
+   "note": "Viracocha orders Tulumanya to engender Amaru during a catastrophe.",
+   "source": "Modern Amaru Aranway retellings",
+   "date": "twentieth–twenty-first century",
+   "tier": "modern",
+   "stated_by": [
+    "amaru"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "coniraya_and_cavillace",
+   "kind": "deceived",
+   "myth": "Cuniraya covertly impregnates Cavillaca",
+   "note": "Cuniraya places semen in a lucuma fruit that Cavillaca unknowingly eats.",
+   "source": "Huarochirí Manuscript, chapter 2",
+   "date": "c. 1608",
+   "tier": "canonical",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "coniraya_and_cavillace",
+   "kind": "other",
+   "myth": "Cuniraya pursues the fleeing Cavillaca",
+   "note": "After learning his paternity, Cavillaca flees Cuniraya and becomes stone at the sea.",
+   "source": "Huarochirí Manuscript, chapter 2",
+   "date": "c. 1608",
+   "tier": "canonical",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "coniraya_and_cavillace",
+   "kind": "shared_myth",
+   "myth": "Overlapping Huarochirí sacred histories",
+   "note": "Pariacaca and Cuniraya occupy overlapping cultic and narrative spheres without a harmonized genealogy.",
+   "source": "Huarochirí Manuscript",
+   "date": "c. 1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "huallallo_carhuincho",
+   "kind": "fought",
+   "myth": "Pariacaca defeats and expels Wallallu",
+   "note": "Pariacaca overwhelms the fiery Huanca patron with storm, flood, snow, and cold.",
+   "source": "Huarochirí Manuscript, chapters 8–9",
+   "date": "c. 1608",
+   "tier": "canonical",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "illapa",
+   "kind": "shared_myth",
+   "myth": "Joint weather and summit rites",
+   "note": "Mountain powers overlap with Illapa through thunder, lightning, hail, rain, and summit sacrifice.",
+   "source": "Colonial chronicles and summit archaeology",
+   "date": "Late Horizon–colonial era",
+   "tier": "attested",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Joint Inca state ceremonies",
+   "note": "Inca ceremonies offered to both solar and mountain powers without establishing universal kinship.",
+   "source": "Colonial chronicles and summit archaeology",
+   "date": "Late Horizon–colonial era",
+   "tier": "attested",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Joint despacho offerings",
+   "note": "Apus and Pachamama are jointly addressed in offerings, while their precise kinship varies regionally.",
+   "source": "Contemporary ethnography",
+   "date": "20th–21st centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Bolivian earth and mountain rites",
+   "note": "Illimani and other ancestral mountains are honored jointly with Pachamama in Bolivian rites.",
+   "source": "Contemporary yatiri testimony",
+   "date": "20th–21st centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "apus"
+   ]
+  },
+  {
+   "a": "apus",
+   "b": "supay",
+   "kind": "identified_with",
+   "myth": "Underground mountain ownership",
+   "note": "Tío or Supay may be understood as an underground aspect or transformed form of mountain ownership.",
+   "source": "Modern mining ethnography",
+   "date": "modern period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "supay"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "inti",
+   "kind": "child_of",
+   "myth": "Solar mission of Manco Cápac",
+   "note": "Manco Cápac is presented as the Sun’s child or emissary.",
+   "source": "Garcilaso, Comentarios reales, book I",
+   "date": "1609",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "mama_huaco",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Mama Huaco is paired with Ayar Cachi in Sarmiento’s allocation.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "mama_huaco",
+   "kind": "consort_of",
+   "myth": "Settlement after Ayar Cachi’s removal",
+   "note": "A variant gives Mama Huaco to Manco after Cachi’s removal.",
+   "source": "Betanzos, Suma y narración, chs. 3–4",
+   "date": "1551",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "mama_huaco",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Huaco belongs to the eightfold sibling founding group.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "mama_ocllo",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ayar Manco marries his sister Mama Ocllo.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "mama_ocllo",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Ocllo belongs to the eightfold sibling founding group.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "ayar_brothers",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Emergence from Qhapaq T’uqu",
+   "note": "Viracocha creates the Ayars and commands them to emerge and rule.",
+   "source": "Sarmiento, Historia de los Incas, ch. 11",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "ayar_brothers"
+   ]
+  },
+  {
+   "a": "catequil",
+   "b": "illapa",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later writers functionally equate their sling-wielding lightning powers; no primary encounter exists.",
+   "source": "Comparative Inca chronicles",
+   "date": "modern scholarly reconstruction",
+   "tier": "modern",
+   "stated_by": [
+    "catequil",
+    "illapa"
+   ]
+  },
+  {
+   "a": "catequil",
+   "b": "pachacamac",
+   "kind": "shared_myth",
+   "myth": "Making another wak’a speak",
+   "note": "Llocllayhuancupa, whom Catequil enables to speak, claims descent or commission from Pachacamac.",
+   "source": "Huarochirí Manuscript, chapter 20",
+   "date": "early seventeenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "catequil"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "inti",
+   "kind": "child_of",
+   "myth": "",
+   "note": "A disputed reading makes the Sun Chasca’s father.",
+   "source": "Guaman Poma, Nueva corónica, fol. 265",
+   "date": "c. 1615",
+   "tier": "regional_variant",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "inti",
+   "kind": "served",
+   "myth": "Page of the Sun",
+   "note": "Chasca attends Inti as his page, appearing before or behind him.",
+   "source": "Garcilaso, Comentarios reales II.21 and III.21",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Chasca ritual fast",
+   "note": "Chasca’s disappearance in the Sun’s presence marks the fast’s conclusion.",
+   "source": "Anonymous Jesuit, Relación de las costumbres antiguas",
+   "date": "late 16th c.",
+   "tier": "attested",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Coricancha cosmographic scheme",
+   "note": "Chasca is positioned beneath or near the Sun in the diagram.",
+   "source": "Santa Cruz Pachacuti, Relación de antigüedades",
+   "date": "c. 1613",
+   "tier": "attested",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Celestial cult complex",
+   "note": "Inti and Chasca share celestial temple and calendrical classifications.",
+   "source": "Garcilaso; Cobo; calendrical materials",
+   "date": "1609–1653",
+   "tier": "canonical",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "mama_quilla",
+   "kind": "child_of",
+   "myth": "",
+   "note": "A disputed reading makes the Moon Chasca’s mother.",
+   "source": "Guaman Poma, Nueva corónica, fol. 265",
+   "date": "c. 1615",
+   "tier": "regional_variant",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "chasca",
+   "b": "mama_quilla",
+   "kind": "shared_myth",
+   "myth": "Capac Raymi divine complex",
+   "note": "Mama Quilla and Chasca appear together in the cultic hierarchy and festival list.",
+   "source": "Guaman Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "attested",
+   "stated_by": [
+    "chasca"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "kon",
+   "kind": "deceived_by",
+   "myth": "Cuniraya impregnates Cahuillaca",
+   "note": "Cuniraya secretly places semen in a lúcuma fruit, which Cahuillaca eats unknowingly.",
+   "source": "Huarochirí Manuscript, ch. 2",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "kon",
+   "kind": "other",
+   "myth": "Cahuillaca flees Cuniraya",
+   "note": "After their child identifies Cuniraya, he pursues Cahuillaca until she enters the sea.",
+   "source": "Huarochirí Manuscript, ch. 2",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "pachacamac",
+   "kind": "other",
+   "myth": "Cuniraya invades Pachacamac’s household",
+   "note": "While Pachacamac is absent, Cuniraya assaults his daughters and damages Urpayhuachac’s fish pond.",
+   "source": "Huarochirí Manuscript, chapter 2",
+   "date": "ca. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pachacamac"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "pariacaca",
+   "kind": "created",
+   "myth": "Primordial creation account",
+   "note": "The text reports that Cuniraya created Pariacaca.",
+   "source": "Huarochirí Manuscript, chapter 15",
+   "date": "circa 1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "coniraya_and_cavillace"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "pariacaca",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "People consequently call Cuniraya Pariacaca's father.",
+   "source": "Huarochirí Manuscript, chapter 15",
+   "date": "circa 1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "coniraya_and_cavillace",
+    "pariacaca"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "viracocha",
+   "kind": "deceived_by",
+   "myth": "Cuniraya and Cahuillaca",
+   "note": "Cuniraya secretly impregnates Cahuillaca through a lúcuma fruit.",
+   "source": "Huarochirí Manuscript",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "viracocha"
+   ]
+  },
+  {
+   "a": "coniraya_and_cavillace",
+   "b": "viracocha",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The compound Cuniraya Viracocha fuses the local huaca with Viracocha's name and creator functions.",
+   "source": "Huarochirí Manuscript, chapters 1–2, 14–15",
+   "date": "circa 1608",
+   "tier": "syncretism",
+   "stated_by": [
+    "coniraya_and_cavillace"
+   ]
+  },
+  {
+   "a": "ekeko",
+   "b": "viracocha",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship extends a Tunupa–Viracocha equation to Ekeko without primary narrative evidence.",
+   "source": "Modern scholarly reconstruction",
+   "date": "twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "ekeko"
+   ]
+  },
+  {
+   "a": "huallallo_carhuincho",
+   "b": "pariacaca",
+   "kind": "fought",
+   "myth": "Elemental battle at Mullucocha",
+   "note": "Pariacaca overwhelms Huallallo's immense fire with rain, hail, lightning, cold, and flood.",
+   "source": "Huarochirí Manuscript, chapters 5–8, 16",
+   "date": "ca. 1598–1608",
+   "tier": "canonical",
+   "stated_by": [
+    "huallallo_carhuincho"
+   ]
+  },
+  {
+   "a": "huallallo_carhuincho",
+   "b": "pariacaca",
+   "kind": "fought",
+   "myth": "Battle with Huallallo",
+   "note": "Pariacaca defeats Huallallo with storms and floods, driving him toward the Antis.",
+   "source": "Huarochirí Manuscript, chs. 1 and 8",
+   "date": "c. 1598–1608",
+   "tier": "canonical",
+   "stated_by": [
+    "pariacaca"
+   ]
+  },
+  {
+   "a": "huallallo_carhuincho",
+   "b": "pariacaca",
+   "kind": "punished_by",
+   "myth": "Sentence to dog eating",
+   "note": "Pariacaca sentences the defeated human-eater to eat dogs and receive Huanca worship.",
+   "source": "Huarochirí Manuscript, chapter 9",
+   "date": "ca. 1598–1608",
+   "tier": "canonical",
+   "stated_by": [
+    "huallallo_carhuincho"
+   ]
+  },
+  {
+   "a": "huallallo_carhuincho",
+   "b": "pariacaca",
+   "kind": "shared_myth",
+   "myth": "Seven huacas confronted by Pachacuti Inca",
+   "note": "Huallallo and Pariacaca jointly appear among seven curaca-like huacas subordinated by Pachacuti Inca.",
+   "source": "Relación de antigüedades",
+   "date": "ca. 1613",
+   "tier": "regional_variant",
+   "stated_by": [
+    "huallallo_carhuincho"
+   ]
+  },
+  {
+   "a": "illapa",
+   "b": "inti",
+   "kind": "served",
+   "myth": "",
+   "note": "Garcilaso interprets Illapa’s lightning, thunder, and bolt as servants of Inti.",
+   "source": "Comentarios reales I",
+   "date": "1609",
+   "tier": "late_accretion",
+   "stated_by": [
+    "illapa"
+   ]
+  },
+  {
+   "a": "illapa",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Cusco state cult hierarchy",
+   "note": "Illapa stands below or beside Inti in offerings and state ritual.",
+   "source": "Polo, Acosta, Cobo",
+   "date": "1560s–1653",
+   "tier": "attested",
+   "stated_by": [
+    "illapa"
+   ]
+  },
+  {
+   "a": "illapa",
+   "b": "inti",
+   "kind": "shared_myth",
+   "myth": "Coordinated state cult",
+   "note": "Inti and Illapa receive coordinated offerings within state ritual.",
+   "source": "Molina; Guaman Poma; Cobo",
+   "date": "c. 1575–1653",
+   "tier": "attested",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "illapa",
+   "b": "pariacaca",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The regional Sullca Illapa is listed among Pariacaca’s sons.",
+   "source": "Huarochirí Manuscript, chapter 16",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "illapa"
+   ]
+  },
+  {
+   "a": "illapa",
+   "b": "viracocha",
+   "kind": "shared_myth",
+   "myth": "Principal images in Cusco ritual",
+   "note": "Illapa’s image accompanies the Maker in processions, offerings, and cult rankings.",
+   "source": "Molina, Relación",
+   "date": "c. 1573–1575",
+   "tier": "attested",
+   "stated_by": [
+    "illapa"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "kon",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some unstable regional traditions present Kon as Inti's offspring.",
+   "source": "Lope de Gómara and later compilations",
+   "date": "colonial period",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_huaco",
+   "kind": "gift",
+   "myth": "Dowry before marriage to Manco Cápac",
+   "note": "Mama Huaco requests a marriage dowry from the Sun, who supplies it.",
+   "source": "Guamán Poma, Nueva corónica, p. 121",
+   "date": "c. 1615",
+   "tier": "late_accretion",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_huaco",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely identifies Mama Huaco as the Sun's daughter.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_huaco",
+   "kind": "shared_myth",
+   "myth": "Sausero maize ceremonial economy",
+   "note": "Maize associated with Mama Huaco also participates in state ceremonies serving the Sun.",
+   "source": "Molina, Relación de las fábulas",
+   "date": "c. 1573–1575",
+   "tier": "attested",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_ocllo",
+   "kind": "gift",
+   "myth": "Children of the Sun and the golden rod",
+   "note": "The Sun gives the founding pair a golden rod to locate Cusco.",
+   "source": "Garcilaso, Comentarios reales I.15–16",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_ocllo",
+   "kind": "parent_of",
+   "myth": "The Sun sends Manco Cápac and Mama Ocllo",
+   "note": "Inti fathers Mama Ocllo and sends her to teach women.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_ocllo",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mama Ocllo and Manco Cápac are children of the Sun.",
+   "source": "Garcilaso, Comentarios reales I.15–16",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_ocllo",
+   "kind": "served_by",
+   "myth": "Children of the Sun and the golden rod",
+   "note": "The Sun sends Mama Ocllo to instruct humanity and establish solar rule.",
+   "source": "Garcilaso, Comentarios reales I.15–16",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_quilla",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Moon is described as Inti's wife in imperial cult structure.",
+   "source": "Garcilaso; Cobo",
+   "date": "1609; 1653",
+   "tier": "canonical",
+   "stated_by": [
+    "inti",
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_quilla",
+   "kind": "contest",
+   "myth": "Rival brightness of Moon and Sun",
+   "note": "The Moon was initially brighter than the jealous Sun.",
+   "source": "Sarmiento de Gamboa",
+   "date": "1572",
+   "tier": "regional_variant",
+   "stated_by": [
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_quilla",
+   "kind": "other",
+   "myth": "Adjacent Coricancha chapels",
+   "note": "Her silver hall stood beside Inti’s principal golden chapel.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "attested",
+   "stated_by": [
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_quilla",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Moon is commonly described as Inti's sister.",
+   "source": "Garcilaso; Cobo",
+   "date": "1609; 1653",
+   "tier": "canonical",
+   "stated_by": [
+    "inti",
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "mama_sara",
+   "kind": "transformed",
+   "myth": "The maiden Sara and Kuru",
+   "note": "An unsupported modern tale says Inti transformed the maiden Sara into maize.",
+   "source": "Uncited online retellings",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "mama_sara"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "manco_capac",
+   "kind": "gift",
+   "myth": "The golden staff determines Cusco's foundation",
+   "note": "Inti gives Manco a golden staff to locate his destined center.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "manco_capac",
+   "kind": "gift",
+   "myth": "The Sun gives the founders a golden rod",
+   "note": "The Sun gives Manco and Mama Ocllo a rod locating Cusco.",
+   "source": "Garcilaso, Comentarios reales, Book I",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "manco_capac",
+   "kind": "parent_of",
+   "myth": "The Sun sends Manco Cápac and Mama Ocllo",
+   "note": "Inti fathers Manco Cápac and sends him to establish Inca order.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "manco_capac",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Manco and Mama Ocllo are presented as children of the Sun.",
+   "source": "Garcilaso, Comentarios reales, Book I",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "manco_capac",
+   "kind": "served_by",
+   "myth": "Manco prays before founding Cusco and Coricancha",
+   "note": "Manco prays to the Sun and establishes solar worship at Cusco.",
+   "source": "Cieza, El señorío de los incas",
+   "date": "before 1554",
+   "tier": "attested",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachacamac",
+   "kind": "contest",
+   "myth": "The starving woman and food plants",
+   "note": "The Sun impregnates the woman after Pachacamac fails her, provoking Pachacamac’s jealous retaliation.",
+   "source": "Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pachacamac"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachacamac",
+   "kind": "shared_myth",
+   "myth": "Vichama–Pachacamac solar cycle",
+   "note": "Pachacamac resents solar worship, murders Inti's child, then flees Vichama.",
+   "source": "Teruel through Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "regional_variant",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachacamac",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later Inca-colonial theology sometimes presents Pachacamac and the Sun as brothers.",
+   "source": "Later colonial accounts",
+   "date": "sixteenth–seventeenth centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pachacamac"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Agricultural and imperial ritual",
+   "note": "Inti and Pachamama receive offerings within the same ritual field.",
+   "source": "Molina and later ritual descriptions",
+   "date": "c. 1575 and later",
+   "tier": "attested",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Sun and Earth as father and mother",
+   "note": "Inti and Pachamama appear together as paternal and maternal powers.",
+   "source": "Zárate, Historia del descubrimiento y conquista del Perú",
+   "date": "1555",
+   "tier": "attested",
+   "stated_by": [
+    "pachamama"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Powers protecting the Inca",
+   "note": "Sun and Earth are invoked together among powers protecting the Inca.",
+   "source": "Cieza, Señorío de los Incas",
+   "date": "c. 1553",
+   "tier": "attested",
+   "stated_by": [
+    "pachamama"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Creation of the Sun at Titicaca",
+   "note": "Viracocha creates or stations Inti and commands his cosmic course.",
+   "source": "Betanzos; Cieza; Molina; Sarmiento",
+   "date": "c. 1551–1575",
+   "tier": "attested",
+   "stated_by": [
+    "inti"
+   ]
+  },
+  {
+   "a": "inti",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Creation of celestial light at Tiwanaku",
+   "note": "Viracocha creates the Sun and sets its course.",
+   "source": "Betanzos, Suma y narración de los Incas",
+   "date": "c. 1551",
+   "tier": "attested",
+   "stated_by": [
+    "viracocha"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "pachacamac",
+   "kind": "fought",
+   "myth": "Pachacamac displaces Con",
+   "note": "Pachacamac arrives from the south, defeats or expels Con, and replaces his creation.",
+   "source": "Gómara, Historia general; Zárate",
+   "date": "1552; 1555",
+   "tier": "attested",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "pachacamac",
+   "kind": "fought",
+   "myth": "Con–Pachacamac succession",
+   "note": "Pachacamac overcomes, displaces, or drives away the earlier coastal creator Con.",
+   "source": "Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pachacamac"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "pachacamac",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some modern retellings call Pachacamac Con’s son; early sources do not establish this.",
+   "source": "Modern retellings",
+   "date": "modern",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "pachacamac",
+   "kind": "shared_myth",
+   "myth": "Cuniraya visits Pachacamac’s household",
+   "note": "Cuniraya enters Pachacamac’s coastal household while its absent lord never confronts him directly.",
+   "source": "Huarochirí Manuscript, ch. 2",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "pariacaca",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some Huarochirí narrators uncertainly call Pariacaca a son of Cuniraya.",
+   "source": "Huarochirí Manuscript, chs. 14–16",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "kon",
+   "b": "viracocha",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cuniraya bears Viracocha as a compound name or title; its mechanism remains uncertain.",
+   "source": "Huarochirí Manuscript, chs. 1–2, 14–16",
+   "date": "c. 1598–1608",
+   "tier": "syncretism",
+   "stated_by": [
+    "kon"
+   ]
+  },
+  {
+   "a": "mama_cocha",
+   "b": "pachamama",
+   "kind": "other",
+   "myth": "Terrestrial and marine fields in the Coricancha cosmogram",
+   "note": "Pachamama and Mama Cocha occupy corresponding terrestrial and marine positions.",
+   "source": "Santa Cruz Pachacuti, Coricancha diagram",
+   "date": "c. 1613",
+   "tier": "attested",
+   "stated_by": [
+    "mama_cocha"
+   ]
+  },
+  {
+   "a": "mama_cocha",
+   "b": "pachamama",
+   "kind": "shared_myth",
+   "myth": "Catalogue of worshipped earth and sea powers",
+   "note": "Acosta lists Pachamama and Mamacocha successively as worshipped natural powers.",
+   "source": "Acosta, Historia natural y moral V.4",
+   "date": "1590",
+   "tier": "attested",
+   "stated_by": [
+    "mama_cocha"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "mama_ocllo",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Garcilaso's name Mama Ocllo Huaco partly conflates the two female founders.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "late_accretion",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "mama_ocllo",
+   "kind": "shared_myth",
+   "myth": "The Ayar migration",
+   "note": "They migrate in the same founding company; Mama Huaco leads armed conquest.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "mama_ocllo",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Ocllo is Mama Huaco's sister and fellow female Ayar founder.",
+   "source": "Betanzos; Sarmiento",
+   "date": "c. 1551–1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_huaco",
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "mama_sara",
+   "kind": "other",
+   "myth": "Sausero maize rites",
+   "note": "Zuidema connects Mama Sara's seed vessel and rites with Mama Huaco's agricultural identity.",
+   "source": "Cobo; Zuidema's reconstruction",
+   "date": "1653; modern scholarship",
+   "tier": "modern",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "manco_capac",
+   "kind": "allied",
+   "myth": "Migration and conquest of Cusco",
+   "note": "Mama Huaco and Manco Cápac jointly command the founders' migration and conquest.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "manco_capac",
+   "kind": "allied",
+   "myth": "Mama Huaco helps seize the Cusco valley",
+   "note": "She defeats or terrifies the Huallas and helps Manco's migrants seize Cusco.",
+   "source": "Betanzos, Sarmiento, and Guaman Poma",
+   "date": "1551–c. 1616",
+   "tier": "regional_variant",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "manco_capac",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Murúa and Guamán Poma make Mama Huaco the wife or coya of Manco Cápac.",
+   "source": "Murúa; Guamán Poma",
+   "date": "c. 1590–1616",
+   "tier": "late_accretion",
+   "stated_by": [
+    "mama_huaco",
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "manco_capac",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Guamán Poma uniquely makes Mama Huaco both Manco Cápac's mother and wife.",
+   "source": "Guamán Poma, Nueva corónica",
+   "date": "c. 1615",
+   "tier": "late_accretion",
+   "stated_by": [
+    "mama_huaco",
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "manco_capac",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sarmiento and the ritual tradition make her Manco Cápac's sister.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_huaco",
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_huaco",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Emergence from Cápac-toco",
+   "note": "Viracocha produces Mama Huaco and the other Ayars to become rulers.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_huaco"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "mama_quilla",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mama Ocllo and Manco Cápac are children of the Moon.",
+   "source": "Garcilaso, Comentarios reales I.15–16",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "mama_quilla",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "She is Mama Quilla’s dynastic descendant or child in later synthesis.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "manco_capac",
+   "kind": "allied",
+   "myth": "Solar couple travels from Titicaca and founds Cusco",
+   "note": "She co-founds Cusco, gathers women, and teaches household and textile work.",
+   "source": "Garcilaso, Comentarios reales, Book I",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "manco_capac",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Mama Ocllo is paired as Ayar Manco's wife.",
+   "source": "Betanzos, Suma y narración, Part I, chapter 3",
+   "date": "c. 1551–1557",
+   "tier": "attested",
+   "stated_by": [
+    "mama_ocllo",
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "manco_capac",
+   "kind": "shared_myth",
+   "myth": "The Ayar migration from Tampu Tocco",
+   "note": "They migrate together, and Manco establishes the ruling line at Cusco.",
+   "source": "Betanzos, Suma y narración, Part I, chapter 3",
+   "date": "c. 1551–1557",
+   "tier": "attested",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "manco_capac",
+   "kind": "shared_myth",
+   "myth": "Children of the Sun and the golden rod",
+   "note": "They travel from Titicaca, gather inhabitants, and establish Cusco together.",
+   "source": "Garcilaso, Comentarios reales I.15–16",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "manco_capac",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mama Ocllo is Manco Cápac's legitimate sister-wife.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_ocllo",
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "mama_ocllo",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Creation of the primordial sibling collective",
+   "note": "Viracocha creates or commissions the founding siblings, including Mama Ocllo.",
+   "source": "Sarmiento, Historia de los Incas",
+   "date": "1572",
+   "tier": "attested",
+   "stated_by": [
+    "mama_ocllo"
+   ]
+  },
+  {
+   "a": "mama_quilla",
+   "b": "manco_capac",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "He is her dynastic descendant or child; direct maternity varies.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical",
+   "stated_by": [
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "mama_quilla",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Celestial installation from Titicaca",
+   "note": "The Creator made or commanded the Moon to rise into heaven.",
+   "source": "Molina, Relación",
+   "date": "c. 1573–1575",
+   "tier": "attested",
+   "stated_by": [
+    "mama_quilla"
+   ]
+  },
+  {
+   "a": "mama_sara",
+   "b": "pachamama",
+   "kind": "gift",
+   "myth": "Modern Pachamama offerings",
+   "note": "Some recent practices use Mama Sara objects as offerings to Pachamama.",
+   "source": "Modern scholarship and ethnographic practice",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "mama_sara"
+   ]
+  },
+  {
+   "a": "manco_capac",
+   "b": "pachamama",
+   "kind": "child_of",
+   "myth": "Pachamamaachi and the roots of the Incas",
+   "note": "Pachamamaachi is his mother, though identification with cosmic Pachamama is disputed.",
+   "source": "Santacruz Pachacuti, Relación de antigüedades",
+   "date": "c. 1613",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pachamama"
+   ]
+  },
+  {
+   "a": "manco_capac",
+   "b": "viracocha",
+   "kind": "created_by",
+   "myth": "Creator moves the ancestors underground toward Pacaritambo",
+   "note": "A late variant makes the Creator bring Manco's ancestral group from Titicaca.",
+   "source": "Cobo, Historia del Nuevo Mundo",
+   "date": "1653",
+   "tier": "regional_variant",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "manco_capac",
+   "b": "viracocha",
+   "kind": "served",
+   "myth": "Manco founds Cusco invoking Ticci Viracocha",
+   "note": "Manco founds Cusco in the name of Ticci Viracocha and other gods.",
+   "source": "Cieza, El señorío de los incas",
+   "date": "before 1554",
+   "tier": "attested",
+   "stated_by": [
+    "manco_capac"
+   ]
+  },
+  {
+   "a": "pachacamac",
+   "b": "pariacaca",
+   "kind": "shared_myth",
+   "myth": "Convocation of the great huacas",
+   "note": "Pariacaca and Pachacamac attend or are represented at the Inca's assembly of powerful huacas.",
+   "source": "Huarochirí Manuscript, ch. 23",
+   "date": "c. 1598–1608",
+   "tier": "canonical",
+   "stated_by": [
+    "pariacaca"
+   ]
+  },
+  {
+   "a": "pachacamac",
+   "b": "viracocha",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Colonial theological syntheses equate both as the supreme maker, though other evidence distinguishes them.",
+   "source": "Santillán, Cieza, Garcilaso",
+   "date": "sixteenth–seventeenth centuries",
+   "tier": "syncretism",
+   "stated_by": [
+    "pachacamac"
+   ]
+  },
+  {
+   "a": "pachacamac",
+   "b": "viracocha",
+   "kind": "shared_myth",
+   "myth": "Cuniraya's pursuit to the coast",
+   "note": "Cuniraya enters Pachacamac's coastal domain and household while pursuing Cahuillaca.",
+   "source": "Huarochirí Manuscript",
+   "date": "c. 1598–1608",
+   "tier": "regional_variant",
+   "stated_by": [
+    "viracocha"
+   ]
+  },
+  {
+   "a": "pachamama",
+   "b": "supay",
+   "kind": "consort_of",
+   "myth": "Mine-owner traditions",
+   "note": "Some mining accounts describe Pachamama and Tío or Supay as spouses, but this is not universal.",
+   "source": "Bolivian mining ethnography",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "supay"
+   ]
+  },
+  {
+   "a": "pachamama",
+   "b": "supay",
+   "kind": "other",
+   "myth": "Joint mine offerings",
+   "note": "Mine rites may address both beings as complementary or distinct recipients of offerings.",
+   "source": "Bolivian mining ethnography",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "supay"
+   ]
+  },
+  {
+   "a": "pachamama",
+   "b": "viracocha",
+   "kind": "shared_myth",
+   "myth": "Qorikancha cosmographic order",
+   "note": "Viracocha and mama pacha occupy the same ordered cosmos without genealogy.",
+   "source": "Santacruz Pachacuti, Relación de antigüedades",
+   "date": "c. 1613",
+   "tier": "canonical",
+   "stated_by": [
+    "pachamama"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Anchanchu": [
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "This Aymara dangerous place-being is sometimes equated with the Devil or Supay-like mine spirits.",
+    "source": "Modern regional ethnography",
+    "date": "modern period",
+    "tier": "syncretism"
+   }
+  ],
+  "Apotampo": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Apo Manco Cápac is named as a child of Apotampo.",
+    "source": "Santa Cruz Pachacuti, Relación de antigüedades",
+    "date": "c. 1613",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pachamama",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Pachamamaachi is Apotampo's partner; her identification with Pachamama is uncertain.",
+    "source": "Santacruz Pachacuti, Relación de antigüedades",
+    "date": "c. 1613",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ataguju": [
+   {
+    "stated_by": "catequil",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Ataguju is Catequil’s grandfather and supreme sky-associated progenitor.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "catequil",
+    "kind": "other",
+    "myth": "Bringing the Huamachucos from Cerro Guacat",
+    "note": "Catequil requests humans; Ataguju directs him to bring them from Guacat.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Axomama": [
+   {
+    "stated_by": "pachamama",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "This potato power participates with Pachamama in the agricultural generative field.",
+    "source": "Albornoz and Arriaga extirpation records",
+    "date": "c. 1582–1621",
+    "tier": "attested"
+   }
+  ],
+  "Ayar Auca": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Auca is Mama Huaco's brother and fellow migrant in the Ayar cycle.",
+    "source": "Sarmiento; Cabello",
+    "date": "1572–1586",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_huaco",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some genealogical arrangements pair Mama Huaco with Ayar Auca.",
+    "source": "Sarmiento; later harmonizations",
+    "date": "1572 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Auca belongs to the same primordial sibling collective.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "shared_myth",
+    "myth": "The Ayar migration",
+    "note": "They belong to the founding migration; no discrete interaction is recorded.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Auca is one of Ayar Manco's three brothers.",
+    "source": "Betanzos, Suma y narración de los incas",
+    "date": "1551",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "allied",
+    "myth": "Ayar Auca supernaturally takes possession of Cusco",
+    "note": "Manco directs or accompanies Auca, then inherits the political result of his land-taking.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551; 1572",
+    "tier": "attested"
+   }
+  ],
+  "Ayar Cachi": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Cachi is one of Mama Huaco's male Ayar siblings.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_huaco",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some unstable arrangements pair Mama Huaco as Ayar Cachi's sister-wife.",
+    "source": "Sarmiento-derived editorial pairings",
+    "date": "1572 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mama_huaco",
+    "kind": "deceived",
+    "myth": "Confinement of the dangerous Ayar",
+    "note": "Mama Huaco shames or persuades him to return to the cave, enabling his confinement.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Cachi belongs to the same primordial sibling collective.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "shared_myth",
+    "myth": "The Ayar migration",
+    "note": "They belong to the founding migration; no individual interaction is recorded.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Cachi is one of Ayar Manco's three brothers.",
+    "source": "Betanzos, Suma y narración de los incas",
+    "date": "1551",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "deceived",
+    "myth": "Ayar Cachi is trapped inside the origin cave",
+    "note": "Manco participates in or benefits from deceiving and enclosing his dangerous brother.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551; 1572",
+    "tier": "attested"
+   }
+  ],
+  "Ayar Uchu": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Uchu belongs to the sibling founder group with Mama Huaco.",
+    "source": "Betanzos, Suma y narración",
+    "date": "c. 1551",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_huaco",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Betanzos associates her with the Ayar who disappears into the sacred landscape.",
+    "source": "Betanzos, Suma y narración",
+    "date": "c. 1551",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Uchu belongs to the same primordial sibling collective.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "shared_myth",
+    "myth": "The Ayar migration",
+    "note": "They belong to the founding migration; no discrete interaction is recorded.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ayar Uchu is Manco's brother and becomes the Huanacauri huaca.",
+    "source": "Betanzos and Cieza",
+    "date": "1551; before 1554",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "allied",
+    "myth": "Ayar Uchu becomes Huanacauri and guides Manco",
+    "note": "After transformation, Ayar Uchu instructs Manco and promises continued assistance.",
+    "source": "Betanzos, Suma y narración de los incas",
+    "date": "1551",
+    "tier": "attested"
+   }
+  ],
+  "Aysavillca": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Seven huacas confronted by Pachacuti Inca",
+    "note": "Huallallo and Aysavillca jointly appear among seven curaca-like huacas subordinated by Pachacuti Inca.",
+    "source": "Relación de antigüedades",
+    "date": "ca. 1613",
+    "tier": "regional_variant"
+   }
+  ],
+  "Cahuillaca’s child": [
+   {
+    "stated_by": "viracocha",
+    "kind": "parent_of",
+    "myth": "Cahuillaca's paternity test",
+    "note": "The child reveals Cuniraya as its father by crawling to him.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Caqui": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "served_by",
+    "myth": "The bird barrier at Pumarauca",
+    "note": "Huallallo deploys the tropical bird against Pariacaca, who breaks its wing and petrifies it.",
+    "source": "Huarochirí Manuscript, chapter 16",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Catachillay": [
+   {
+    "stated_by": "urcuchillay",
+    "kind": "shared_myth",
+    "myth": "The herders’ celestial llama",
+    "note": "Catachillay and her young appear near Urcuchillay as associated celestial llamas.",
+    "source": "Polo, Tratado y averiguación",
+    "date": "1559",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "urcuchillay",
+    "kind": "ancestor_of",
+    "myth": "Catachillay proceeds from Urcuchillay",
+    "note": "Cobo says Catachillay and her young proceeded from Urcuchillay, perhaps by descent or emanation.",
+    "source": "Cobo, Historia del Nuevo Mundo",
+    "date": "1653",
+    "tier": "late_accretion"
+   }
+  ],
+  "Cautaguan": [
+   {
+    "stated_by": "catequil",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Cautaguan is Catequil’s mother and produces the egg from which he emerges.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "catequil",
+    "kind": "rescued",
+    "myth": "Resurrection and vengeance",
+    "note": "Catequil restores his dead mother to life.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Chancharuna": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Chancharuna is named among Pariacaca's children.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Chaupi Churin Illapa": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Middle-son Illapa is one member of Guaman Poma’s threefold thunder complex.",
+    "source": "Nueva corónica",
+    "date": "c. 1615–1616",
+    "tier": "late_accretion"
+   }
+  ],
+  "Chaupiñamca": [
+   {
+    "stated_by": "apus",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Chaupiñamca is treated as Pariacaca's sister in Huarochirí tradition.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "other",
+    "myth": "Marginal identification of Huallallo's counterpart",
+    "note": "A secondary marginal equation with Manañamca retrospectively makes Chaupiñamca Huallallo's female counterpart.",
+    "source": "Huarochirí Manuscript, chapters 8 and 10 margins",
+    "date": "ca. 1598–1608",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Some passages make Pariacaca and Chaupiñamca siblings through the Sun and Hanan Maclla.",
+    "source": "Huarochirí Manuscript, chs. 10 and 13",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "shared_myth",
+    "myth": "Animation and regional ritual order",
+    "note": "Pariacaca animates men while Chaupiñamca animates women; their festivals form a paired ritual order.",
+    "source": "Huarochirí Manuscript, chs. 9–13",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Chimbo Urma": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Guamán Poma uniquely names Chimbo Urma among Mama Huaco's children.",
+    "source": "Guamán Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "late_accretion"
+   }
+  ],
+  "Chinchacocha": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Seven huacas confronted by Pachacuti Inca",
+    "note": "Huallallo and Chinchacocha jointly appear among seven curaca-like huacas subordinated by Pachacuti Inca.",
+    "source": "Relación de antigüedades",
+    "date": "ca. 1613",
+    "tier": "regional_variant"
+   }
+  ],
+  "Choquechinchay": [
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Paired celestial scheme",
+    "note": "Choquechinchay occupies Chasca’s counterpart position, possibly representing evening Venus.",
+    "source": "Santa Cruz Pachacuti, Relación de antigüedades",
+    "date": "c. 1613",
+    "tier": "attested"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "pachamama",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Christ and Pachamama are invoked within the same syncretistic ritual world.",
+    "source": "Colonial Christianity and modern practice",
+    "date": "colonial to modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "viracocha",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Missionaries and Christian Andean authors equate or subordinate Viracocha to the Christian creator.",
+    "source": "Missionary and Christian Andean writings",
+    "date": "sixteenth–seventeenth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian saints": [
+   {
+    "stated_by": "supay",
+    "kind": "contest",
+    "myth": "Protection of mine entrances",
+    "note": "Saints and Christian invocations protect mines or restrain Supay-like subterranean danger.",
+    "source": "Modern mining practice",
+    "date": "modern period",
+    "tier": "syncretism"
+   }
+  ],
+  "Chucpaico": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Chucpaico is named among Pariacaca's children.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Chuqui Ylla": [
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Temple cult of royal youth",
+    "note": "Chasca and Chuqui Ylla share a temple cult and service by selected women.",
+    "source": "Guaman Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "chasca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "A disputed Sun–Moon genealogy makes Chuqui Ylla Chasca’s sibling.",
+    "source": "Guaman Poma, Nueva corónica, fol. 265",
+    "date": "c. 1615",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Two manifestations of Venus",
+    "note": "Modern scholarship reconstructs them as morning and evening Venus counterparts.",
+    "source": "Ziółkowski, modern study",
+    "date": "late 20th c.",
+    "tier": "modern"
+   }
+  ],
+  "Chuquihuacra": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Seven huacas confronted by Pachacuti Inca",
+    "note": "Huallallo and Chuquihuacra jointly appear among seven curaca-like huacas subordinated by Pachacuti Inca.",
+    "source": "Relación de antigüedades",
+    "date": "ca. 1613",
+    "tier": "regional_variant"
+   }
+  ],
+  "Chuquihuampo": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Chuquihuampo is named as a son of Pariacaca.",
+    "source": "Huarochirí Manuscript, ch. 8",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Battle with Huallallo",
+    "note": "Chuquihuampo fights beside Pariacaca and is wounded in the foot by Manañamca.",
+    "source": "Huarochirí Manuscript, ch. 8",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Chuquisuso": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "consort_of",
+    "myth": "Pariacaca and Chuquisuso",
+    "note": "After negotiating irrigation benefits for her community, Chuquisuso accepts union with Pariacaca.",
+    "source": "Huarochirí Manuscript, chs. 6–7",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "gift",
+    "myth": "Pariacaca and Chuquisuso",
+    "note": "Pariacaca supplies water and canal works after Chuquisuso negotiates lasting irrigation for her community.",
+    "source": "Huarochirí Manuscript, chs. 6–7",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Churapa": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Formation of Mullucocha",
+    "note": "Churapa enters Mullucocha and turns it into a lake during Huallallo's pursuit.",
+    "source": "Huarochirí Manuscript, chapter 16",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Churapa is one of Pariacaca's five brothers or manifestations.",
+    "source": "Huarochirí Manuscript, ch. 16",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Battle with Huallallo",
+    "note": "Churapa emerges and fights Huallallo jointly with Pariacaca and the other brothers.",
+    "source": "Huarochirí Manuscript, chs. 6 and 8",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Cocamama": [
+   {
+    "stated_by": "pachamama",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "This coca power participates with Pachamama in the agricultural generative field.",
+    "source": "Albornoz and Arriaga extirpation records",
+    "date": "c. 1582–1621",
+    "tier": "attested"
+   }
+  ],
+  "Creator": [
+   {
+    "stated_by": "mama_cocha",
+    "kind": "other",
+    "myth": "Offerings travel by river through Mamacocha to the Creator",
+    "note": "River-borne sacrifices could reach the Creator through or within Mamacocha.",
+    "source": "Molina, Relación de las fábulas y ritos",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   }
+  ],
+  "Cuniraya Viracocha": [
+   {
+    "stated_by": "kon",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern scholars sometimes identify coastal Con with Cuniraya, though no early source equates them.",
+    "source": "Rostworowski and later comparisons",
+    "date": "20th century",
+    "tier": "modern"
+   }
+  ],
+  "El Tío": [
+   {
+    "stated_by": "pachamama",
+    "kind": "other",
+    "myth": "The Tío fertilizes Pachamama",
+    "note": "Mining ritual portrays the phallic Tío fertilizing Pachamama so she yields metal.",
+    "source": "Modern Bolivian mining ethnography",
+    "date": "20th–21st centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "The mine-owner",
+    "note": "Bolivian miners sometimes identify Supay with the subterranean owner of ore and wealth.",
+    "source": "Modern Bolivian mining ethnography",
+    "date": "twentieth–twenty-first centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "First daughter of Urpayhuachac": [
+   {
+    "stated_by": "kon",
+    "kind": "other",
+    "myth": "Assault and transformation into a dove",
+    "note": "Cuniraya attempts to rape her, but she escapes by becoming a dove.",
+    "source": "Huarochirí Manuscript, ch. 2",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Guachemines": [
+   {
+    "stated_by": "catequil",
+    "kind": "fought",
+    "myth": "Resurrection and vengeance",
+    "note": "Catequil attacks the primordial Guachemines with slings, killing or expelling them.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Hanan Maclla": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "child_of",
+    "myth": "",
+    "note": "One genealogical arrangement names Hanan Maclla as Pariacaca's mother.",
+    "source": "Huarochirí Manuscript, chs. 10 and 13",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Huamancántac": [
+   {
+    "stated_by": "mama_cocha",
+    "kind": "other",
+    "myth": "Sequential Huacho shoreline and guano-island rites",
+    "note": "Travelers offered chicha beside the sea, then worshipped Huamancántac on the islands.",
+    "source": "Arriaga, Extirpación de la idolatría",
+    "date": "1621",
+    "tier": "regional_variant"
+   }
+  ],
+  "Huamansuri": [
+   {
+    "stated_by": "catequil",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Huamansuri is Catequil’s father, killed before the twins emerge.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "catequil",
+    "kind": "gift",
+    "myth": "Resurrection and vengeance",
+    "note": "Catequil inherits the two slings Huamansuri left for his avenger.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Huanacauri": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "identified_with",
+    "myth": "Ayar Uchu’s petrification on Huanacauri",
+    "note": "Uchu fastens to the pre-existing wak’a, becomes stone, and converges with Huanacauri.",
+    "source": "Sarmiento, Historia de los Incas, ch. 12",
+    "date": "1572",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Capac Raymi divine complex",
+    "note": "Huanacauri and Chasca appear in the same sacred festival enumeration.",
+    "source": "Guaman Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "served",
+    "myth": "Manco petitions the brother-huaca before founding Cusco",
+    "note": "Manco prays to Huanacauri for favor and reveres him as a god.",
+    "source": "Cieza, El señorío de los incas",
+    "date": "before 1554",
+    "tier": "attested"
+   }
+  ],
+  "Huari": [
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "Oruro plague legends",
+    "note": "Some Oruro variants connect the underground Huari with the Devil or Supay.",
+    "source": "Modern Oruro folklore",
+    "date": "modern period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Huariruma": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Huariruma is named among Pariacaca's children.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Huatiacuri": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Huatiacuri is paradoxically called Pariacaca's son although he precedes Pariacaca's emergence.",
+    "source": "Huarochirí Manuscript, ch. 5",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Huatiacuri's contests",
+    "note": "Pariacaca's supernatural power helps Huatiacuri expose Tantañamca and defeat his wealthy rival.",
+    "source": "Huarochirí Manuscript, ch. 5",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Huayllama": [
+   {
+    "stated_by": "apus",
+    "kind": "shared_myth",
+    "myth": "Expansion of Pariacaca's ritual order",
+    "note": "Huayllama is implicated in the expansion of Pariacaca's cult and territorial order.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Huaytapallana": [
+   {
+    "stated_by": "amaru",
+    "kind": "consort_of",
+    "myth": "Amaru and Huaytapallana romance",
+    "note": "A humanlike Amaru falls in love with Huaytapallana.",
+    "source": "Circulating Junín legend",
+    "date": "modern, undated",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern Mantaro traditions identify Huallallo with the sacred snow massif and its resident apu.",
+    "source": "Mantaro herranza fieldwork",
+    "date": "2016–2023; published 2024",
+    "tier": "modern"
+   }
+  ],
+  "Hugi": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "created",
+    "myth": "The hugi attacks Pariacaca",
+    "note": "Huallallo produces the unidentified animal to harm Pariacaca; a Checa man eventually captures it.",
+    "source": "Huarochirí Manuscript, chapter 17",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Imaymana Viracochan": [
+   {
+    "stated_by": "viracocha",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Molina describes Imaymana as Viracocha's son or emanated agent.",
+    "source": "Molina, Relación de las fábulas",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "viracocha",
+    "kind": "served_by",
+    "myth": "Ordering peoples, plants, and landscapes",
+    "note": "Viracocha sends Imaymana along the mountain or eastern route.",
+    "source": "Molina, Relación de las fábulas",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   }
+  ],
+  "Inca Yupanqui": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Guamán Poma uniquely names Inca Yupanqui among Mama Huaco's children.",
+    "source": "Guamán Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kuru": [
+   {
+    "stated_by": "mama_sara",
+    "kind": "other",
+    "myth": "The maiden Sara and Kuru",
+    "note": "In an unsupported modern tale, the maiden Sara rejects the sorcerer Kuru.",
+    "source": "Uncited online retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Libiac": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Writers compare this central-highland thunder power with Illapa, without a meeting myth.",
+    "source": "Cajatambo proceedings",
+    "date": "seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Llacsa Churapa": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Damming the flood at Mullucocha",
+    "note": "Llacsa Churapa dams Pariacaca's waters, forming the lake that nearly submerges Huallallo.",
+    "source": "Huarochirí Manuscript, chapter 8",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Llocllayhuancupa": [
+   {
+    "stated_by": "catequil",
+    "kind": "other",
+    "myth": "Making another wak’a speak",
+    "note": "Catequil enables the previously mute wak’a to speak and reveal its mission.",
+    "source": "Huarochirí Manuscript, chapter 20",
+    "date": "early seventeenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Líbiac": [
+   {
+    "stated_by": "mama_sara",
+    "kind": "gift",
+    "myth": "Ayrihua sacrifice to Líbiac",
+    "note": "Zaramama stalks and joined ears were danced with, then burned for Líbiac.",
+    "source": "Arriaga, Extirpación de la idolatría del Pirú",
+    "date": "1621",
+    "tier": "regional_variant"
+   }
+  ],
+  "Macahuisa": [
+   {
+    "stated_by": "apus",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Macahuisa is described as Pariacaca's son or emanated martial agent.",
+    "source": "Huarochirí Manuscript, chapter 23",
+    "date": "c. 1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "apus",
+    "kind": "allied",
+    "myth": "Macahuisa aids the Inca",
+    "note": "Pariacaca's martial agent defeats imperial enemies using rain, lightning, and flood.",
+    "source": "Huarochirí Manuscript, chapter 23",
+    "date": "c. 1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Macahuisa is named as Pariacaca's son.",
+    "source": "Huarochirí Manuscript, ch. 23",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "served_by",
+    "myth": "Aid to Túpac Inca Yupanqui",
+    "note": "Pariacaca sends Macahuisa, who defeats the Inca's rebels through catastrophic weather.",
+    "source": "Huarochirí Manuscript, ch. 23",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Mama Cura": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Cura is Mama Huaco's sister and fellow female Ayar founder.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Cura is a fellow female member of the primordial sibling collective.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "shared_myth",
+    "myth": "The Ayar migration",
+    "note": "They join the same migration; no one-to-one interaction is preserved.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   }
+  ],
+  "Mama Ipacura": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Ipacura belongs to the eightfold sibling founding group.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Mama Ipacura is paired with Ayar Uchu in Sarmiento’s allocation.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   }
+  ],
+  "Mama Rahua": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Rahua is Mama Huaco's sister and fellow female Ayar founder.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   }
+  ],
+  "Mama Raua": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Raua belongs to the eightfold sibling founding group.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Mama Raua is paired with Ayar Auca in Sarmiento’s allocation.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Mama Raua is a fellow female member of the primordial sibling collective.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "shared_myth",
+    "myth": "The Ayar migration",
+    "note": "They join the same migration; no one-to-one interaction is preserved.",
+    "source": "Betanzos and Sarmiento",
+    "date": "1551–1572",
+    "tier": "attested"
+   }
+  ],
+  "Manañamca": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Pariacaca's campaign against the fiery beings",
+    "note": "The fiery female supay is described as being with Huallallo, but their precise relationship is unstated.",
+    "source": "Huarochirí Manuscript, chapter 8",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "other",
+    "myth": "Battle with Huallallo",
+    "note": "Manañamca wounds Pariacaca's son Chuquihuampo during the combat cycle.",
+    "source": "Huarochirí Manuscript, ch. 8",
+    "date": "c. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Menes": [
+   {
+    "stated_by": "manco_capac",
+    "kind": "identified_with",
+    "myth": "Theosophists compare legendary founders across civilizations",
+    "note": "Later Theosophical writing compares Manco with Menes as a primordial founder.",
+    "source": "Later Theosophical writings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Other assembled huacas": [
+   {
+    "stated_by": "viracocha",
+    "kind": "shared_myth",
+    "myth": "Cahuillaca's paternity test",
+    "note": "Cuniraya sits among the assembled huacas disguised as a despised beggar.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Other summoned huacas": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "shared_myth",
+    "myth": "Convocation of the great huacas",
+    "note": "Pariacaca asks the assembled huacas who will help the Inca; they hesitate before Macahuisa volunteers.",
+    "source": "Huarochirí Manuscript, ch. 23",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Our Lady of Peace": [
+   {
+    "stated_by": "ekeko",
+    "kind": "shared_myth",
+    "myth": "Post-siege founding of the January Alasita fair",
+    "note": "Later legend links Ekeko’s fair to January 24, the Virgin’s feast.",
+    "source": "Rigoberto Paredes folklore collection",
+    "date": "ca. 1920",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pachacamac’s elder daughter": [
+   {
+    "stated_by": "pachacamac",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "She is Pachacamac and Urpayhuachac’s elder daughter.",
+    "source": "Huarochirí Manuscript, chapter 2",
+    "date": "ca. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pachacamac’s younger daughter": [
+   {
+    "stated_by": "pachacamac",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "She is Pachacamac and Urpayhuachac’s younger daughter.",
+    "source": "Huarochirí Manuscript, chapter 2",
+    "date": "ca. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pachacuti Inca": [
+   {
+    "stated_by": "mama_huaco",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Guamán Poma uniquely names Pachacuti Inca among Mama Huaco's children.",
+    "source": "Guamán Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pachamama Achi": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Apo Manco Cápac is named as her child; identification with Pachamama is uncertain.",
+    "source": "Santa Cruz Pachacuti, Relación de antigüedades",
+    "date": "c. 1613",
+    "tier": "regional_variant"
+   }
+  ],
+  "Paria Carco": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Pursuit toward the Anti",
+    "note": "Paria Carco pursues Huallallo and remains a snowy sentinel preventing his return.",
+    "source": "Huarochirí Manuscript, chapters 8 and 16",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Pariacaca’s four brothers": [
+   {
+    "stated_by": "kon",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "The four brothers accompanying Pariacaca are collectively and uncertainly called Cuniraya’s sons.",
+    "source": "Huarochirí Manuscript, ch. 16",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pariacarco": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pariacarco is one of Pariacaca's five brothers or manifestations.",
+    "source": "Huarochirí Manuscript, ch. 16",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Guarding against Huallallo",
+    "note": "Pariacarco remains toward the Antis to guard against Huallallo's return.",
+    "source": "Huarochirí Manuscript, ch. 16",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Piguerao": [
+   {
+    "stated_by": "catequil",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Piguerao is Catequil’s twin brother, emerging from the second egg.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Pleiades": [
+   {
+    "stated_by": "inti",
+    "kind": "shared_myth",
+    "myth": "Qorikancha cosmographic arrangement",
+    "note": "The Pleiades appear with Inti in temple and cosmographic arrangements.",
+    "source": "Santa Cruz Pachacuti; Cobo",
+    "date": "early 1600s; 1653",
+    "tier": "canonical"
+   }
+  ],
+  "Punchao": [
+   {
+    "stated_by": "illapa",
+    "kind": "shared_myth",
+    "myth": "Calendrical procession of principal images",
+    "note": "Chuqui Ylla Yllapa is carried and offered to alongside Punchao.",
+    "source": "Molina, Relación",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pachacamac",
+    "kind": "other",
+    "myth": "Inca incorporation of Pachacamac",
+    "note": "Imperial solar worship was installed above Pachacamac’s sanctuary, expressing political hierarchy and complementarity.",
+    "source": "Cieza, chronicles, Inca architecture",
+    "date": "ca. 1470–1533",
+    "tier": "attested"
+   }
+  ],
+  "Puncho": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Five brothers defeat Huallallo",
+    "note": "Puncho is named among the Pariacaca brothers collectively engaged in Huallallo's defeat.",
+    "source": "Huarochirí Manuscript, chapter 16",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Puncho is one of Pariacaca's five brothers or manifestations.",
+    "source": "Huarochirí Manuscript, ch. 16",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Battle with Huallallo",
+    "note": "Puncho emerges and fights Huallallo jointly with Pariacaca and the other brothers.",
+    "source": "Huarochirí Manuscript, chs. 6 and 8",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Qullqipunku": [
+   {
+    "stated_by": "apus",
+    "kind": "shared_myth",
+    "myth": "Qoyllur Rit’i sacred geography",
+    "note": "Ausangate and Qullqipunku frame a shared pilgrimage landscape of glacier, water, and livestock fertility.",
+    "source": "Modern ethnography and UNESCO documentation",
+    "date": "20th–21st centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Rainbow": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "shared_myth",
+    "myth": "Rainbow sign on Huanacauri",
+    "note": "A rainbow appears as a favorable summit sign; its independent personhood is ambiguous.",
+    "source": "Sarmiento, Historia de los Incas, ch. 12",
+    "date": "1572",
+    "tier": "attested"
+   }
+  ],
+  "Santiago": [
+   {
+    "stated_by": "catequil",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Santiago absorbed thunder and martial attributes resembling Catequil in colonial and later religion.",
+    "source": "Regional practice and Topic",
+    "date": "colonial-to-modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Santiago Apostle": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "Santiago at Sunturhuasi",
+    "note": "Santiago became Illapa’s Christian successor, analogue, mask, and transformed continuation.",
+    "source": "Garcilaso, Murúa, Bertonio",
+    "date": "seventeenth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Saqra": [
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Regional usage sometimes substitutes Saqra for Supay, although early lexicography distinguishes them.",
+    "source": "Regional tradition and González Holguín",
+    "date": "1608–present",
+    "tier": "syncretism"
+   }
+  ],
+  "Saramama": [
+   {
+    "stated_by": "pachamama",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "This maize power participates with Pachamama in the agricultural generative field.",
+    "source": "Albornoz and Arriaga extirpation records",
+    "date": "c. 1582–1621",
+    "tier": "attested"
+   }
+  ],
+  "Sasenmale": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Sasenmale is named among Pariacaca's children.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Second daughter of Urpayhuachac": [
+   {
+    "stated_by": "kon",
+    "kind": "seduced",
+    "myth": "Cuniraya assaults Urpayhuachac’s daughter",
+    "note": "Cuniraya has intercourse with or assaults her; translations differ regarding coercion.",
+    "source": "Huarochirí Manuscript, ch. 2",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Señor de los Milagros": [
+   {
+    "stated_by": "pachacamac",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Rostworowski proposed a transformation linking both earthquake-associated sacred figures, without demonstrating continuous identity.",
+    "source": "Rostworowski",
+    "date": "1992",
+    "tier": "modern"
+   }
+  ],
+  "Sinchi Roca": [
+   {
+    "stated_by": "ayar_brothers",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Manco Cápac and Mama Ocllo procreate Sinchi Roca.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mama_ocllo",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Mama Ocllo is his mother; he succeeds Manco Cápac.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "manco_capac",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Sinchi Roca is usually Manco's son and dynastic successor.",
+    "source": "Colonial Inca royal genealogies",
+    "date": "sixteenth–seventeenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Sons of Catequil": [
+   {
+    "stated_by": "catequil",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Lightning stones and subsidiary wak’as are described as Catequil’s children.",
+    "source": "Augustinian Relación",
+    "date": "c.1557–1560",
+    "tier": "attested"
+   }
+  ],
+  "Stars": [
+   {
+    "stated_by": "viracocha",
+    "kind": "created",
+    "myth": "Creation of celestial light at Tiwanaku",
+    "note": "Viracocha creates and orders the stars at Tiwanaku.",
+    "source": "Betanzos, Suma y narración de los Incas",
+    "date": "c. 1551",
+    "tier": "attested"
+   }
+  ],
+  "Sullca Churin Illapa": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Younger-son Illapa is one member of Guaman Poma’s threefold thunder complex.",
+    "source": "Nueva corónica",
+    "date": "c. 1615–1616",
+    "tier": "late_accretion"
+   }
+  ],
+  "Sullca Illapa": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "A textually unstable or canceled reading possibly names Sullca Illapa as the fifth brother.",
+    "source": "Huarochirí Manuscript, textual note",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sullca Yllapa": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Fivefold campaign against Huallallo",
+    "note": "Sullca Yllapa appears in the uncertain list of Pariacaca persons involved in the campaign.",
+    "source": "Huarochirí Manuscript, chapters 8 and 16",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Taguapaca": [
+   {
+    "stated_by": "viracocha",
+    "kind": "punished",
+    "myth": "Rebellion of Viracocha's assistant",
+    "note": "After Taguapaca disobeys, Viracocha has him bound and cast onto water.",
+    "source": "Betanzos, Suma y narración de los Incas",
+    "date": "c. 1551",
+    "tier": "attested"
+   }
+  ],
+  "Tambotoco": [
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Capac Raymi divine complex",
+    "note": "Tambotoco and Chasca appear together among Inca sacred beings and places.",
+    "source": "Guaman Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "attested"
+   }
+  ],
+  "Tantañamca": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "other",
+    "myth": "Exposure of the false huaca",
+    "note": "Pariacaca's son Huatiacuri exposes Tantañamca and redirects his household toward Pariacaca.",
+    "source": "Huarochirí Manuscript, ch. 5",
+    "date": "c. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Tauris": [
+   {
+    "stated_by": "mama_sara",
+    "kind": "shared_myth",
+    "myth": "Cajatambo harvest cycle",
+    "note": "Mama Sara ears were carried before Tauris, danced with, brewed, and burned.",
+    "source": "Cajatambo trial, Pedro Sarmiento testimony",
+    "date": "28 January 1657",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tayta Shanti": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Living Mantaro practice situationally identifies the Huaytapallana mountain being with Tayta Shanti.",
+    "source": "Mantaro herranza fieldwork",
+    "date": "2016–2023; published 2024",
+    "tier": "syncretism"
+   }
+  ],
+  "Titicaca": [
+   {
+    "stated_by": "chasca",
+    "kind": "shared_myth",
+    "myth": "Capac Raymi divine complex",
+    "note": "Titicaca and Chasca occur in the same sacred enumeration.",
+    "source": "Guaman Poma, Nueva corónica",
+    "date": "c. 1615",
+    "tier": "attested"
+   }
+  ],
+  "Tiw": [
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "Transformation of Tiw into the Diablada devil",
+    "note": "Oruro heritage narratives connect Tiw with the festival figure later called Devil or Supay.",
+    "source": "UNESCO Carnival of Oruro dossier",
+    "date": "2001 onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Tocapo Viracochan": [
+   {
+    "stated_by": "viracocha",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Molina describes Tocapo as Viracocha's second son or emanated agent.",
+    "source": "Molina, Relación de las fábulas",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "viracocha",
+    "kind": "served_by",
+    "myth": "Ordering peoples along the second route",
+    "note": "Viracocha sends Tocapo along another route to continue ordering creation.",
+    "source": "Molina, Relación de las fábulas",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   }
+  ],
+  "Tulumanya": [
+   {
+    "stated_by": "amaru",
+    "kind": "child_of",
+    "myth": "Amaru Aranway",
+    "note": "The rainbow power Tulumanya engenders Amaru in modern folklore versions.",
+    "source": "Modern educational folklore versions",
+    "date": "twentieth–twenty-first century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tunupa": [
+   {
+    "stated_by": "ekeko",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Bertonio equates Ecaco with Thunnupa, indicating identity or close local equivalence.",
+    "source": "Bertonio, Vocabulario de la lengua aymara",
+    "date": "1612",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Tunupa expels the huacas",
+    "note": "Tunupa expels Uallollo and other huacas to the snowy mountains.",
+    "source": "Relación de antigüedades",
+    "date": "ca. 1613",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Writers compare this southern storm and culture-hero power with Illapa.",
+    "source": "Colonial regional accounts",
+    "date": "colonial period",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "viracocha",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some writers equate Tunupa with Taguapaca or a Viracocha-like wandering preacher.",
+    "source": "Santa Cruz Pachacuti and later scholarship",
+    "date": "colonial and modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Tutayquiri": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Tutayquiri is Pariacaca's conquering son, whose advance into Yunca territory Chuquisuso halts.",
+    "source": "Huarochirí Manuscript, chs. 11–12",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Tutañamca": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Huallallo defeats the former rulers",
+    "note": "Huallallo defeats Tutañamca alongside Yanañamca and assumes sovereignty.",
+    "source": "Huarochirí Manuscript, chapter 1",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Túpac Inca Yupanqui": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "allied",
+    "myth": "Aid to Túpac Inca Yupanqui",
+    "note": "Pariacaca answers the sacred Inca's request by sending Macahuisa against the rebels.",
+    "source": "Huarochirí Manuscript, ch. 23",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Unnamed child of Cahuillaca": [
+   {
+    "stated_by": "kon",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Cuniraya fathers Cahuillaca’s unnamed child, who recognizes him before becoming stone offshore.",
+    "source": "Huarochirí Manuscript, ch. 2",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Unnamed heavenly maiden": [
+   {
+    "stated_by": "illapa",
+    "kind": "sibling_of",
+    "myth": "The heavenly water jar",
+    "note": "A brother plausibly identified with Illapa breaks her jar, producing storms and rain.",
+    "source": "Garcilaso, Comentarios reales I",
+    "date": "1609",
+    "tier": "late_accretion"
+   }
+  ],
+  "Urpayhuachac": [
+   {
+    "stated_by": "apus",
+    "kind": "punished",
+    "myth": "Cuniraya disrupts Urpayhuachac's coastal domain",
+    "note": "While seeking Cavillaca, Cuniraya retaliates against Urpayhuachac's fish-related order.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "coniraya_and_cavillace",
+    "kind": "theft",
+    "myth": "Origin of sea fish",
+    "note": "Cuniraya takes Urpayhuachac's captive fish and throws them into the ocean, where they multiply.",
+    "source": "Huarochirí Manuscript, chapter 2",
+    "date": "circa 1608",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "coniraya_and_cavillace",
+    "kind": "fought",
+    "myth": "Urpayhuachac's attempted vengeance",
+    "note": "Urpayhuachac pursues Cuniraya and plots to crush him with a rock, but he escapes.",
+    "source": "Huarochirí Manuscript, chapter 2",
+    "date": "circa 1608",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kon",
+    "kind": "theft",
+    "myth": "Origin of sea fish",
+    "note": "Cuniraya takes fish from Urpayhuachac’s pond and casts them into the ocean.",
+    "source": "Huarochirí Manuscript, ch. 2",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kon",
+    "kind": "contest",
+    "myth": "Urpayhuachac attempts to trap Cuniraya",
+    "note": "Urpayhuachac tries to lure Cuniraya into a trap or precipice, but he escapes.",
+    "source": "Huarochirí Manuscript, ch. 2",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pachacamac",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Urpayhuachac is Pachacamac’s wife and head of his coastal household.",
+    "source": "Huarochirí Manuscript",
+    "date": "ca. 1598–1608",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "viracocha",
+    "kind": "punished",
+    "myth": "Cuniraya at Urpayhuachac's household",
+    "note": "Cuniraya retaliates against absent Urpayhuachac by casting her fish into the sea.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Urpayhuachac’s daughters": [
+   {
+    "stated_by": "viracocha",
+    "kind": "other",
+    "myth": "Cuniraya at Urpayhuachac's household",
+    "note": "Cuniraya attempts sexual aggression against Urpayhuachac's daughters; one escapes.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "regional_variant"
+   }
+  ],
+  "Utcochuco": [
+   {
+    "stated_by": "pariacaca",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Utcochuco is named among Pariacaca's children.",
+    "source": "Huarochirí Manuscript",
+    "date": "c. 1598–1608",
+    "tier": "canonical"
+   }
+  ],
+  "Uñachillay": [
+   {
+    "stated_by": "urcuchillay",
+    "kind": "shared_myth",
+    "myth": "The neighboring celestial llama and calf",
+    "note": "Lehmann-Nitsche conjecturally restored this name for the young llama appearing near Urcuchillay.",
+    "source": "Lehmann-Nitsche philological reconstruction",
+    "date": "1920s",
+    "tier": "modern"
+   }
+  ],
+  "Vichama": [
+   {
+    "stated_by": "inti",
+    "kind": "parent_of",
+    "myth": "Vichama–Pachacamac solar cycle",
+    "note": "Inti engenders or creates Vichama after Pachacamac murders the first child.",
+    "source": "Teruel through Calancha, Corónica moralizada",
+    "date": "1638",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inti",
+    "kind": "allied",
+    "myth": "Vichama pursues Pachacamac",
+    "note": "Inti hears or assists Vichama following Pachacamac's violence.",
+    "source": "Teruel through Calancha, Corónica moralizada",
+    "date": "1638",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "inti",
+    "kind": "gift",
+    "myth": "The Sun sends three social eggs",
+    "note": "Inti sends three eggs from which ranked human groups emerge.",
+    "source": "Teruel through Calancha, Corónica moralizada",
+    "date": "1638",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pachacamac",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Calancha describes Pachacamac and Vichama as brothers within the story’s logic.",
+    "source": "Calancha, Corónica moralizada",
+    "date": "1638",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "pachacamac",
+    "kind": "other",
+    "myth": "Vichama’s revenge",
+    "note": "Vichama seeks vengeance for his mother’s murder; Pachacamac escapes into the sea.",
+    "source": "Calancha, Corónica moralizada",
+    "date": "1638",
+    "tier": "late_accretion"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "pachamama",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some worshippers identify or analogize Mary and Pachamama through maternal and landscape devotion.",
+    "source": "Colonial-to-modern Andean Catholic practice",
+    "date": "colonial to modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Virgin of the Socavón": [
+   {
+    "stated_by": "supay",
+    "kind": "served",
+    "myth": "Oruro Diablada",
+    "note": "Festival devils identified loosely with Supay dance devotionally before the Virgin and submit to Marian order.",
+    "source": "Oruro festival tradition",
+    "date": "late eighteenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Yacana": [
+   {
+    "stated_by": "urcuchillay",
+    "kind": "identified_with",
+    "myth": "Comparative celestial-llama identification",
+    "note": "Modern comparisons sometimes equate them, but the sources preserve distinct names and celestial forms.",
+    "source": "Zuidema and Urton comparative study",
+    "date": "1976",
+    "tier": "modern"
+   }
+  ],
+  "Yana Raman": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Writers classify this Yaro or Llacuaz thunder being as an Illapa counterpart.",
+    "source": "Colonial regional accounts",
+    "date": "colonial period",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yanañamca": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "fought",
+    "myth": "Huallallo defeats the former rulers",
+    "note": "Huallallo defeats Yanañamca and succeeds to the rule of the land.",
+    "source": "Huarochirí Manuscript, chapter 1",
+    "date": "ca. 1598–1608",
+    "tier": "attested"
+   }
+  ],
+  "Yayan Illapa": [
+   {
+    "stated_by": "illapa",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Father Illapa is the senior member of Guaman Poma’s threefold thunder complex.",
+    "source": "Nueva corónica",
+    "date": "c. 1615–1616",
+    "tier": "late_accretion"
+   }
+  ],
+  "dead mitayos": [
+   {
+    "stated_by": "supay",
+    "kind": "identified_with",
+    "myth": "The dead mitayos",
+    "note": "One mining narrative says dead colonial laborers became Tíos or joined the subterranean master.",
+    "source": "Potosí mining ethnography",
+    "date": "modern period",
+    "tier": "regional_variant"
+   }
+  ],
+  "first race of giants": [
+   {
+    "stated_by": "viracocha",
+    "kind": "created",
+    "myth": "First creation in darkness",
+    "note": "Viracocha creates a primordial race of giants before making the second humanity.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "viracocha",
+    "kind": "killed",
+    "myth": "Destruction of the disobedient giants",
+    "note": "Viracocha destroys the disobedient giants by flood or petrification.",
+    "source": "Sarmiento, Historia de los Incas",
+    "date": "1572",
+    "tier": "attested"
+   }
+  ],
+  "saints": [
+   {
+    "stated_by": "pachamama",
+    "kind": "shared_myth",
+    "myth": "",
+    "note": "Saints and Pachamama are invoked within the same ritual world without necessary identification.",
+    "source": "Colonial Christianity and modern practice",
+    "date": "colonial to modern",
+    "tier": "syncretism"
+   }
+  ],
+  "the Christian God": [
+   {
+    "stated_by": "pachacamac",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Colonial authors equated Pachacamac’s invisible creator role with the Christian God.",
+    "source": "Cieza and Garcilaso",
+    "date": "sixteenth–seventeenth centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "the Lord of Qoyllur Rit’i": [
+   {
+    "stated_by": "apus",
+    "kind": "shared_myth",
+    "myth": "Qoyllur Rit’i pilgrimage",
+    "note": "Ausangate's mountain landscape is ritually related to the Christian image and sanctuary.",
+    "source": "Modern festival documentation",
+    "date": "20th–21st centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "the rainbow": [
+   {
+    "stated_by": "inti",
+    "kind": "shared_myth",
+    "myth": "Qorikancha cosmographic arrangement",
+    "note": "The rainbow appears with Inti in temple and cosmographic arrangements.",
+    "source": "Santa Cruz Pachacuti; Cobo",
+    "date": "early 1600s; 1653",
+    "tier": "canonical"
+   }
+  ],
+  "the stars": [
+   {
+    "stated_by": "inti",
+    "kind": "shared_myth",
+    "myth": "Qorikancha cosmographic arrangement",
+    "note": "The stars appear with Inti in temple and cosmographic arrangements.",
+    "source": "Santa Cruz Pachacuti; Cobo",
+    "date": "early 1600s; 1653",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mama_quilla",
+    "kind": "shared_myth",
+    "myth": "Celestial installation from Titicaca",
+    "note": "The Moon and stars jointly rose from Titicaca into the sky.",
+    "source": "Molina, Relación",
+    "date": "c. 1573–1575",
+    "tier": "attested"
+   }
+  ],
+  "two Cañari huacas": [
+   {
+    "stated_by": "huallallo_carhuincho",
+    "kind": "shared_myth",
+    "myth": "Seven huacas confronted by Pachacuti Inca",
+    "note": "Two unnamed Cañari huacas appear with Huallallo among the seven beings subordinated by Pachacuti Inca.",
+    "source": "Relación de antigüedades",
+    "date": "ca. 1613",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

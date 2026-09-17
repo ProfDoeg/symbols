@@ -1,0 +1,326 @@
+{
+ "subject": "ceres",
+ "relations": [
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Dēmētēr"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman cult and literature historically assimilate Ceres to the Greek goddess Demeter.",
+   "source": "Aventine cult and Republican literature",
+   "date": "early Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Ceres a daughter of Saturn.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Ceres a daughter of Ops.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Jupiter the brother of Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Jupiter fathers Proserpina with Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division of Proserpina's year",
+   "note": "Ceres appeals to Jupiter, who conditions Proserpina's return and divides her year.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Neptune the brother of Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Dis Pater the brother of Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "other",
+   "myth": "Abduction of Proserpina",
+   "note": "Dis abducts Ceres' daughter, bringing Ceres into conflict with the underworld order.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Juno the sister of Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Vesta the sister of Ceres.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Kore",
+    "Persephone"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ceres is the mother of Proserpina by Jupiter.",
+   "source": "Greek-derived Roman genealogy",
+   "date": "Roman literary tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Kore",
+    "Persephone"
+   ],
+   "kind": "rescued",
+   "myth": "Abduction and partial return of Proserpina",
+   "note": "Ceres searches, blights crops, and negotiates her abducted daughter's partial restoration.",
+   "source": "Ovid, Metamorphoses 5; Fasti 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Kore",
+    "Persephone"
+   ],
+   "kind": "shared_myth",
+   "myth": "Second Punic War crisis rites",
+   "note": "Roman matrons perform state crisis rites jointly honoring Ceres and Proserpina.",
+   "source": "Livy, Ab urbe condita",
+   "date": "Augustan era",
+   "tier": "attested"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [
+    "Dionysus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cicero's theological explanation calls Liber a child of Ceres.",
+   "source": "Cicero, De natura deorum 2.62",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [
+    "Dionysus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aventine triad",
+   "note": "Ceres and Liber receive joint cult with Libera at the Aventine temple.",
+   "source": "Aventine temple tradition",
+   "date": "493 BCE, traditional",
+   "tier": "attested"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [
+    "Dionysus"
+   ],
+   "kind": "allied",
+   "myth": "Civilization through grain and wine",
+   "note": "Ceres and Liber jointly civilize human subsistence through grain and wine.",
+   "source": "Virgil, Georgics 1",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Libera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cicero's theological explanation calls Libera a child of Ceres.",
+   "source": "Cicero, De natura deorum 2.62",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Libera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aventine triad",
+   "note": "Ceres and Libera receive joint cult with Liber at the Aventine temple.",
+   "source": "Aventine temple tradition",
+   "date": "493 BCE, traditional",
+   "tier": "attested"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction of Proserpina",
+   "note": "Venus initiates the crisis by ordering Cupid to make Dis desire Proserpina.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction of Proserpina",
+   "note": "Cupid's arrow makes Dis desire Ceres' daughter and initiates her abduction.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arethusa",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Ceres learns Proserpina's fate",
+   "note": "Arethusa tells Ceres that Proserpina has become queen below.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tellus",
+   "other_aliases": [
+    "Terra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint agricultural worship",
+   "note": "Tellus supplies soil and Ceres causes crops; they jointly receive agricultural prayer and sacrifice.",
+   "source": "Ovid, Fasti 1.671–704",
+   "date": "c. 8 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tellus",
+   "other_aliases": [
+    "Terra"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cicero's philosophical theology alternatively identifies Ceres with the earth-goddess Tellus.",
+   "source": "Cicero, De natura deorum 2.67",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ceres Mater and Ops Augusta",
+   "note": "Ceres and Ops share an Augustan altar-title linking grain, plenty, and imperial welfare.",
+   "source": "Vicus Iugarius altar inscription",
+   "date": "7 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial iconography and provincial religion occasionally converge Ceres with Isis without a universal equation.",
+   "source": "Imperial provincial iconography",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Triptolemus spreads grain",
+   "note": "Ceres gives Triptolemus seed and a serpent-drawn chariot for his agricultural mission.",
+   "source": "Ovid, Metamorphoses 5.642–661",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Triptolemus spreads grain",
+   "note": "Ceres equips Triptolemus to teach agriculture throughout the world.",
+   "source": "Ovid, Metamorphoses 5.642–661",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Attempted immortalization at Eleusis",
+   "note": "Ceres tends Triptolemus and attempts to immortalize him in fire before Metanira interrupts.",
+   "source": "Ovid, Fasti 4",
+   "date": "c. 8 CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

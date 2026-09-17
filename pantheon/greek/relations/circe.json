@@ -1,0 +1,593 @@
+{
+ "subject": "circe",
+ "relations": [
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Helios is consistently named as Circe’s father in early genealogy.",
+   "source": "Odyssey 10.135–139; Theogony 956–957",
+   "date": "late eighth–ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "rescued_by",
+   "myth": "Circe’s journey west",
+   "note": "Helios carries Circe westward in his divine chariot.",
+   "source": "Argonautica 3.309–313",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perse",
+   "other_aliases": [
+    "Perseis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Perse, an Oceanid, is Circe’s mother in the early genealogy.",
+   "source": "Odyssey 10.139; Theogony 956–957",
+   "date": "late eighth–ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Circe is Oceanus’s granddaughter through her mother Perse.",
+   "source": "Odyssey 10.139",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Aeëtes is Circe’s brother in Homeric and Hesiodic genealogy.",
+   "source": "Odyssey 10.135–139; Theogony 956–957",
+   "date": "late eighth–ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Circe’s journey west",
+   "note": "Aeëtes recalls accompanying Helios when Circe was transported west.",
+   "source": "Argonautica 3.309–313",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus alternatively makes Aeëtes Circe’s father by Hecate.",
+   "source": "Diodorus, Library 4.45",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pasiphae",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pasiphae is Circe’s sister in the Hesiodic solar family.",
+   "source": "Hesiodic genealogy and later mythographers",
+   "date": "archaic and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus’s rationalized genealogy makes Hecate Circe’s mother.",
+   "source": "Diodorus, Library 4.45",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Circe learns pharmacology",
+   "note": "Hecate teaches Circe the properties and preparation of drugs.",
+   "source": "Diodorus, Library 4.45",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Purification after Apsyrtus’s murder",
+   "note": "Circe recognizes Medea as her niece, purifies her, then expels her.",
+   "source": "Argonautica 4.559–752",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Diodorus alternatively makes Medea and Circe daughters of Hecate and Aeëtes.",
+   "source": "Diodorus, Library 4.45",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aegialeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Diodorus makes Aegialeus Circe’s brother through Hecate and Aeëtes.",
+   "source": "Diodorus, Library 4.45",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Moly defeats Circe’s magic",
+   "note": "Hermes supplies Odysseus an antidote and instructions that overcome Circe’s spell.",
+   "source": "Odyssey 10.275–332",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "other",
+   "myth": "Conception of Circe’s sons",
+   "note": "Circe bears Odysseus’s sons through the agency of golden Aphrodite.",
+   "source": "Theogony 1011–1016",
+   "date": "ca. 700 BCE, disputed layer",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished_by",
+   "myth": "Venus influences Circe’s desires",
+   "note": "Ovid speculates Venus made Circe amorous because Helios exposed Venus’s adultery.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "contest",
+   "myth": "Sword confrontation on Aeaea",
+   "note": "Immune to her drug, Odysseus threatens Circe until she swears against harming him.",
+   "source": "Odyssey 10.275–347",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "consort_of",
+   "myth": "Year on Aeaea",
+   "note": "Circe becomes Odysseus’s lover and hosts him and his crew for a year.",
+   "source": "Odyssey 10",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "taught",
+   "myth": "Journey to the dead",
+   "note": "Circe teaches Odysseus the route, rites, and sacrifices for consulting Tiresias.",
+   "source": "Odyssey 10.488–540",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "taught",
+   "myth": "Departure from Aeaea",
+   "note": "Circe warns Odysseus about the Sirens, Scylla, Charybdis, and Helios’s cattle.",
+   "source": "Odyssey 12.37–143",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "gift",
+   "myth": "Telegonus receives the fatal spear",
+   "note": "Circe provides the stingray-spine spear with which Telegonus accidentally kills Odysseus.",
+   "source": "Oppian, Halieutica 2.497–506",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus’s crew",
+   "other_aliases": [
+    "companions of Odysseus"
+   ],
+   "kind": "transformed",
+   "myth": "Men transformed into swine",
+   "note": "Circe drugs twenty-two sailors and changes their bodies into swine.",
+   "source": "Odyssey 10.230–243",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus’s crew",
+   "other_aliases": [
+    "companions of Odysseus"
+   ],
+   "kind": "rescued",
+   "myth": "Restoration of the transformed crew",
+   "note": "Circe reverses the transformation, restoring the sailors younger and more handsome.",
+   "source": "Odyssey 10.388–396",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Elpenor",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Burial after the Nekyia",
+   "note": "Circe helps Odysseus’s company perform burial rites for Elpenor on Aeaea.",
+   "source": "Odyssey 12.8–15",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Journey to the dead",
+   "note": "Circe directs Odysseus to consult the dead prophet Tiresias.",
+   "source": "Odyssey 10.488–540",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agrius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Agrius is named as a son of Circe and Odysseus.",
+   "source": "Theogony 1011–1016",
+   "date": "ca. 700 BCE, disputed layer",
+   "tier": "attested"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Latinus is named as a son of Circe and Odysseus.",
+   "source": "Theogony 1011–1016",
+   "date": "ca. 700 BCE, disputed layer",
+   "tier": "attested"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus alternatively makes Latinus the son of Circe and Telemachus.",
+   "source": "Hyginus, Fabula 127",
+   "date": "second century CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telegonus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Telegonus is Circe’s son by Odysseus in cyclic and genealogical traditions.",
+   "source": "Theogony 1011–1016; Telegony",
+   "date": "archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telegonus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Telegonus receives the fatal spear",
+   "note": "Circe gives Telegonus the stingray-spine weapon that later kills Odysseus.",
+   "source": "Oppian, Halieutica 2.497–506",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nausithous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus names Nausithous as a son of Circe and Odysseus.",
+   "source": "Hyginus, Fabula 125",
+   "date": "second century CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhomos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhomos is a son of Circe and Odysseus and eponymous founder of Rome.",
+   "source": "Xenagoras apud Dionysius 1.72.5",
+   "date": "Roman-period quotation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anteias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Anteias is a son of Circe and Odysseus and eponymous founder of Antium.",
+   "source": "Xenagoras apud Dionysius 1.72.5",
+   "date": "Roman-period quotation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ardeias",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ardeias is a son of Circe and Odysseus and eponymous founder of Ardea.",
+   "source": "Xenagoras apud Dionysius 1.72.5",
+   "date": "Roman-period quotation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriages after Odysseus’s death",
+   "note": "Telemachus marries Circe after arriving on Aeaea with Telegonus and Penelope.",
+   "source": "Nostoi fragment 4; Telegony",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Immortalization after Odysseus’s death",
+   "note": "Circe makes Telemachus immortal after his arrival on Aeaea.",
+   "source": "Telegony summary",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penelope",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Immortalization after Odysseus’s death",
+   "note": "Circe makes Penelope immortal after Telegonus brings her to Aeaea.",
+   "source": "Telegony summary",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Settlement after Odysseus’s death",
+   "note": "Athena directs the survivors to Aeaea and advises their paired marriages.",
+   "source": "Hyginus, Fabula 127",
+   "date": "second century CE or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Nonnus makes Poseidon Circe’s partner and father of Phaunos.",
+   "source": "Nonnus, Dionysiaca 13 and 37",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phaunos",
+   "other_aliases": [
+    "Faunus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phaunos is Circe’s son by Poseidon in Nonnus.",
+   "source": "Nonnus, Dionysiaca 13 and 37",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phaunos",
+   "other_aliases": [
+    "Faunus"
+   ],
+   "kind": "taught",
+   "myth": "Phaunos learns the wilderness",
+   "note": "Circe teaches Phaunos knowledge of wild places before Dionysus’s Indian war.",
+   "source": "Nonnus, Dionysiaca 37.10–70",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cassiphone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late scholia name Cassiphone as Circe’s daughter, with uncertain paternity.",
+   "source": "Lycophron scholia and Tzetzes",
+   "date": "late scholastic tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Scylla’s transformation",
+   "note": "Circe poisons Scylla’s bathing pool and makes her lower body monstrous.",
+   "source": "Ovid, Metamorphoses 14; Hyginus 199",
+   "date": "ca. 8 CE and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Glaucus seeks a charm for Scylla",
+   "note": "Circe offers herself to Glaucus, but he rejects her for Scylla.",
+   "source": "Ovid, Metamorphoses 13.898–14.74",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Glaucus seeks a charm for Scylla",
+   "note": "Glaucus asks Circe for magic that will make Scylla return his love.",
+   "source": "Ovid, Metamorphoses 13.898–14.74",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jason",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Purification after Apsyrtus’s murder",
+   "note": "Circe ritually purifies Jason of blood guilt, then expels him from her home.",
+   "source": "Argonautica 4.559–752",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeus the Purifier"
+   ],
+   "kind": "served",
+   "myth": "Purification after Apsyrtus’s murder",
+   "note": "Circe offers rites to Zeus the Purifier to remove the killers’ blood guilt.",
+   "source": "Argonautica 4.559–752",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Argo",
+   "other_aliases": [
+    "the speaking Argo"
+   ],
+   "kind": "allied",
+   "myth": "Argonauts seek purification",
+   "note": "The divine speaking ship directs Jason and Medea to Circe for purification.",
+   "source": "Argonautica 4; Bibliotheca 1.9.24",
+   "date": "third century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "served",
+   "myth": "Purification after Apsyrtus’s murder",
+   "note": "Circe makes offerings to the Erinyes during Jason and Medea’s purification.",
+   "source": "Argonautica 4.559–752",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Picolous",
+   "other_aliases": [
+    "unnamed Giant"
+   ],
+   "kind": "fought",
+   "myth": "Origin of moly",
+   "note": "Circe fights a giant with Helios’s aid; his blood produces moly.",
+   "source": "Ptolemy Hephaestion summarized by Photius",
+   "date": "Roman-era learned myth",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Picus",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Picus rejects Circe",
+   "note": "Circe propositions Picus after isolating him with a phantom boar.",
+   "source": "Ovid, Metamorphoses 14.320–396",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Picus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Picus rejects Circe",
+   "note": "Circe transforms the faithful Picus into a woodpecker after his rejection.",
+   "source": "Ovid, Metamorphoses 14.320–396",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Picus’s companions",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Picus rejects Circe",
+   "note": "Circe changes Picus’s protesting companions into assorted beasts.",
+   "source": "Ovid, Metamorphoses 14.397–415",
+   "date": "ca. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Calchus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Calchus pursues Circe",
+   "note": "Circe drugs her unwanted suitor into madness and confines him in a pigsty.",
+   "source": "Parthenius, Erotica Pathemata 12",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Calchus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Calchus’s release",
+   "note": "Circe releases Calchus after he swears never to return to Aeaea.",
+   "source": "Parthenius, Erotica Pathemata 12",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  }
+ ]
+}

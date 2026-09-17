@@ -1,0 +1,670 @@
+{
+ "subject": "rhea",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia and Uranus generate Rhea among the Titans.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Uranus and Gaia generate Rhea among the Titans.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Oceanus and Tethys Rhea's parents.",
+   "source": "Plato, Timaeus 40e",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Orphic genealogy makes Tethys and Oceanus Rhea's parents.",
+   "source": "Plato, Timaeus 40e",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Protogonos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Orphic hymn unusually calls Rhea the daughter of Protogonos.",
+   "source": "Orphic Hymn 14",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus gives Aether as one possible father of Ops-Rhea.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Cronus are fellow children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Oceanus are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Coeus are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Crius are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Hyperion are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Iapetus are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Theia are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Themis are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Mnemosyne are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Phoebe are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Tethys are fellow Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–138",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rhea is Cronus's sister-wife and bears his six Olympian children.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "deceived",
+   "myth": "The swaddled stone",
+   "note": "Rhea substitutes a swaddled stone for Zeus, which Cronus swallows.",
+   "source": "Hesiod, Theogony 468–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "allied",
+   "myth": "The concealment of Zeus",
+   "note": "Rhea petitions Gaia, who receives and conceals newborn Zeus.",
+   "source": "Hesiod, Theogony 459–484",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The plan against Cronus",
+   "note": "Rhea petitions Uranus with Gaia for a plan to defeat Cronus.",
+   "source": "Hesiod, Theogony 459–473",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [
+    "Vesta"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Hestia, whom Cronus swallows.",
+   "source": "Hesiod, Theogony 453–467",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Demeter, whom Cronus swallows.",
+   "source": "Hesiod, Theogony 453–467",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Hera, whom Cronus swallows in the Hesiodic account.",
+   "source": "Hesiod, Theogony 453–467",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Hades, whom Cronus swallows.",
+   "source": "Hesiod, Theogony 455–467",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Poseidon, whom Cronus swallows.",
+   "source": "Hesiod, Theogony 455–467",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rhea bears Zeus as the youngest child of Cronus.",
+   "source": "Hesiod, Theogony 453–478",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued",
+   "myth": "The concealment of Zeus",
+   "note": "Rhea secretly bears and hides Zeus, saving him from Cronus.",
+   "source": "Hesiod, Theogony 468–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Demeter's reconciliation",
+   "note": "At Zeus's command, Rhea carries his settlement to Demeter.",
+   "source": "Homeric Hymn to Demeter 441–470",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Transformation of Aeneas's ships",
+   "note": "As Magna Mater, Rhea asks Zeus to preserve her sacred timber as transformed ships.",
+   "source": "Virgil, Aeneid 9.77–122",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "other",
+   "myth": "Demeter's reconciliation",
+   "note": "Rhea embraces Demeter and persuades her to restore crops and accept Persephone's settlement.",
+   "source": "Homeric Hymn to Demeter 441–470",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "other",
+   "myth": "Hera's fostering",
+   "note": "Rhea gives Hera into the care of Oceanus and Tethys.",
+   "source": "Iliad 14.200–204",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "other",
+   "myth": "Jupiter's concealment",
+   "note": "In a Roman variant, Ops gives infant Jupiter to Juno for concealment.",
+   "source": "Hyginus, Fabula 139",
+   "date": "probably second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "rescued",
+   "myth": "The Arcadian foal substitution",
+   "note": "Rhea hides Poseidon among lambs and gives Cronus a foal to swallow.",
+   "source": "Pausanias 8.8.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "other",
+   "myth": "Poseidon's Rhodian fostering",
+   "note": "Rhea entrusts infant Poseidon to Capheira and the Telchines.",
+   "source": "Diodorus 5.55.1",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Capheira",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Poseidon's Rhodian fostering",
+   "note": "Rhea entrusts infant Poseidon to Capheira and the Telchines.",
+   "source": "Diodorus 5.55.1",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Telchines",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Poseidon's Rhodian fostering",
+   "note": "Rhea entrusts infant Poseidon to the Telchines and Capheira.",
+   "source": "Diodorus 5.55.1",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Apollo's birth on Delos",
+   "note": "Rhea attends Leto during her prolonged divine labor on Delos.",
+   "source": "Homeric Hymn to Apollo 93–119",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo's birth on Delos",
+   "note": "Rhea helps receive, wash, and swaddle Apollo after his birth.",
+   "source": "Homeric Hymn to Apollo 93–119",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Dionysus's purification in Phrygia",
+   "note": "Rhea purifies Dionysus from Hera-induced madness.",
+   "source": "Pseudo-Apollodorus 3.5.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Dionysus's initiation in Phrygia",
+   "note": "Rhea teaches Dionysus her mystery rites.",
+   "source": "Pseudo-Apollodorus 3.5.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Convergence of Mother and Bacchic rites",
+   "note": "Rhea's drums and Curetic dances are incorporated into Dionysiac worship.",
+   "source": "Euripides, Bacchae 72–134",
+   "date": "405 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Indian war",
+   "note": "Rhea advises and assists Dionysus during his Indian campaign.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The earlier divine succession",
+   "note": "Rhea helps depose Eurynome from cosmic rule.",
+   "source": "Apollonius, Argonautica 1.503–511",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rhea wrestles Eurynome",
+   "note": "Rhea wrestles Eurynome and casts her into Tartarus.",
+   "source": "Lycophron, Alexandra 1191–1207",
+   "date": "Hellenistic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ophion",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "The earlier divine succession",
+   "note": "Rhea joins Cronus in displacing Ophion and Eurynome from rule.",
+   "source": "Apollonius, Argonautica 1.503–511",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Curetes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The concealment of Zeus",
+   "note": "Rhea entrusts Zeus to the Curetes, who conceal his cries with shields.",
+   "source": "Pseudo-Apollodorus 1.1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ida",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The nursing of Zeus",
+   "note": "Rhea entrusts infant Zeus to the nymph Ida.",
+   "source": "Pseudo-Apollodorus 1.1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The nursing of Zeus",
+   "note": "Rhea entrusts infant Zeus to the nymph Adrasteia.",
+   "source": "Pseudo-Apollodorus 1.1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amalthea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The nursing of Zeus",
+   "note": "Rhea arranges for Amalthea, goat or nymph, to nurse Zeus.",
+   "source": "Pseudo-Apollodorus 1.1.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Golden Dog",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The guarding of Amalthea",
+   "note": "Rhea appoints the golden dog to guard Amalthea.",
+   "source": "Antoninus Liberalis 36",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neda",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Arcadian birth of Zeus",
+   "note": "Rhea entrusts infant Zeus to Neda, who washes or carries him.",
+   "source": "Callimachus, Hymn to Zeus",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oenoe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Tegean nursing scene",
+   "note": "Oenoe and Rhea jointly hold infant Zeus in a Tegean altar scene.",
+   "source": "Pausanias 8.46.3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hopladamus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection from Cronus",
+   "note": "Rhea recruits Hopladamus and his Giants to protect her from Cronus.",
+   "source": "Pausanias 8.36.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection from Cronus",
+   "note": "Rhea recruits Hopladamus's Giants as protection against Cronus.",
+   "source": "Pausanias 8.36.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nocturnal Mother worship at Thebes",
+   "note": "The Mother receives joint nocturnal worship with Pan near Pindar's house.",
+   "source": "Pindar, Pythian 3.77–79",
+   "date": "462 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus summons the wandering Mother",
+   "note": "Aphrodite urges the wandering Mother to answer Zeus's summons.",
+   "source": "Fragmentary Rhea-Cybele hymn",
+   "date": "not given",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Persephone's reunion with Demeter",
+   "note": "Rhea joins Demeter and Persephone after Persephone's return.",
+   "source": "Homeric Hymn to Demeter 441–470",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Creusa after Troy",
+   "note": "As Mother of the Gods, Rhea and Aphrodite save Creusa from enslavement.",
+   "source": "Pausanias 10.26.1",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [
+    "Cybebe",
+    "Mother of the Gods",
+    "Great Mother",
+    "Magna Mater Deum Idaea"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman traditions increasingly equate Rhea with the Anatolian Mother Cybele.",
+   "source": "Greek poetry, cult, and mythography",
+   "date": "sixth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Opis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin mythographers substitute Roman Ops for Rhea as Saturn's wife.",
+   "source": "Hyginus, Fabulae",
+   "date": "probably second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rhea-Cybele and Attis",
+   "note": "Attis becomes associated with Rhea only through her identification with Cybele.",
+   "source": "IG II² 13252",
+   "date": "fourth century CE",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,2369 @@
+{
+ "folder": "mapuche",
+ "gods": [
+  "anchimallen",
+  "antu",
+  "caleuche",
+  "camahueto",
+  "cherufe",
+  "chonchon",
+  "colo_colo",
+  "cuero",
+  "elal",
+  "invunche",
+  "kai_kai_and_tren_tren",
+  "kalku",
+  "kuyen",
+  "machi_spirits",
+  "millalobo",
+  "ngen",
+  "ngunechen",
+  "nguru_filu",
+  "peuchen",
+  "pillan",
+  "pincoya",
+  "selknam_spirits",
+  "sumpall",
+  "trauco",
+  "wekufe"
+ ],
+ "relations": [
+  {
+   "a": "anchimallen",
+   "b": "antu",
+   "kind": "consort_of",
+   "myth": "The benign solar maiden",
+   "note": "Guevara conjectures Anchimalhuén as the Moon or woman of the Sun, later described as Antü's wife.",
+   "source": "Guevara, Folklore araucano",
+   "date": "1911",
+   "tier": "late_accretion",
+   "stated_by": [
+    "anchimallen"
+   ]
+  },
+  {
+   "a": "anchimallen",
+   "b": "cherufe",
+   "kind": "other",
+   "myth": "",
+   "note": "Modern accounts say Anchimallén's ember-like or meteor-like form may be mistaken for Cherufe.",
+   "source": "Modern folklore syntheses",
+   "date": "late twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "anchimallen"
+   ]
+  },
+  {
+   "a": "anchimallen",
+   "b": "chonchon",
+   "kind": "other",
+   "myth": "",
+   "note": "Neuquén testimony assigns both beings similar purposes and flying nocturnal forms, without narrating a meeting.",
+   "source": "Koessler-Ilg Neuquén testimony",
+   "date": "1954–1962",
+   "tier": "regional_variant",
+   "stated_by": [
+    "anchimallen"
+   ]
+  },
+  {
+   "a": "anchimallen",
+   "b": "invunche",
+   "kind": "shared_myth",
+   "myth": "The cave apparitions",
+   "note": "Anchimalguén apparitions appear in a cave alongside imbunches; no further relationship is stated.",
+   "source": "Boroa/Vilcún sorcery proceeding",
+   "date": "1693",
+   "tier": "attested",
+   "stated_by": [
+    "anchimallen"
+   ]
+  },
+  {
+   "a": "anchimallen",
+   "b": "kalku",
+   "kind": "served",
+   "myth": "Nocturnal familiar dispatched by witches",
+   "note": "Some regional accounts describe witches dispatching this luminous nocturnal being.",
+   "source": "Faron and Chilean folklore collections",
+   "date": "1964; twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kalku"
+   ]
+  },
+  {
+   "a": "anchimallen",
+   "b": "kuyen",
+   "kind": "identified_with",
+   "myth": "The benign solar maiden",
+   "note": "Guevara speculates Anchimalhuén represented the Moon, ordinarily called Küyen; later works conflate or separate them.",
+   "source": "Guevara, Folklore araucano",
+   "date": "1911",
+   "tier": "late_accretion",
+   "stated_by": [
+    "anchimallen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "allied",
+   "myth": "Creation before the serpent flood",
+   "note": "Sun and Moon jointly create or care for the primordial world.",
+   "source": "Koessler-Ilg collection",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "consort_of",
+   "myth": "Marriage of Sun and Moon",
+   "note": "Antü and Küyen are husband and wife in regional Neuquén traditions.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "consort_of",
+   "myth": "Sun–Moon spouses",
+   "note": "Küyen is Antü’s wife in regional Puelmapu traditions.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "consort_of",
+   "myth": "Marriage at the world’s end",
+   "note": "Küyen and Antü marry where Earth ends but repeatedly fail to meet.",
+   "source": "Koessler-Ilg corpus",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "fought",
+   "myth": "Troubled marriage of Antü and Küyen",
+   "note": "Antü strikes Küyen, whose marked face recalls the marital violence.",
+   "source": "Koessler-Ilg collection",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "other",
+   "myth": "Antü pursues Küyen",
+   "note": "Antü pursues his retreating wife across the sky but cannot catch her.",
+   "source": "Koessler-Ilg collection",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "other",
+   "myth": "Antü’s eternal pursuit",
+   "note": "After their separation, Antü eternally pursues Küyen but cannot catch her.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "punished",
+   "myth": "The Moon’s bruised face",
+   "note": "Antü strikes Küyen, staining her face and bruising one eye.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "shared_myth",
+   "myth": "Sun and Moon as caretakers",
+   "note": "They alternate illumination and care for dispersed human beings.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "shared_myth",
+   "myth": "Alternating illumination of Earth",
+   "note": "Küyen and Antü alternately illuminate Earth and care for humanity.",
+   "source": "Koessler-Ilg, Cuentan los araucanos",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "shared_myth",
+   "myth": "Primordial creation and governance",
+   "note": "Sun and Moon jointly create or oversee beings before the serpent conflict.",
+   "source": "Koessler-Ilg, two creation narratives",
+   "date": "1954",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "kuyen",
+   "kind": "shared_myth",
+   "myth": "The tears of the Moon",
+   "note": "Küyen quarrels with Antü and weeps when he takes a celestial maiden.",
+   "source": "Twenty-first-century educational retellings",
+   "date": "21st century",
+   "tier": "modern",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "ngunechen",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some accounts identify or incorporate Antü's solar-lunar family within fourfold Ngünechen.",
+   "source": "Faron, Gundermann, Marileo, Foerster, Bacigalupo",
+   "date": "twentieth century",
+   "tier": "syncretism",
+   "stated_by": [
+    "antu"
+   ]
+  },
+  {
+   "a": "antu",
+   "b": "pillan",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern syntheses identify Antü as the chief or solar Pillan.",
+   "source": "Modern popular pantheon syntheses",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "pillan"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "millalobo",
+   "kind": "created_by",
+   "myth": "Millalobo creates the Caleuche",
+   "note": "Some late accounts identify the sea ruler as the vessel’s creator.",
+   "source": "Late Chilote systematizations",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "caleuche"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "millalobo",
+   "kind": "created_by",
+   "myth": "Government of the sea",
+   "note": "Some late retellings say Millalobo created the supernatural vessel.",
+   "source": "Later retellings",
+   "date": "late twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "millalobo",
+   "kind": "other",
+   "myth": "Millalobo governs access to the Caleuche",
+   "note": "Some late accounts make Millalobo its maritime superior and rule-giver.",
+   "source": "Late Chilote systematizations",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "caleuche"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "millalobo",
+   "kind": "other",
+   "myth": "Government of the sea",
+   "note": "Alternative retellings make Millalobo the ship's owner or controlling authority.",
+   "source": "Later retellings",
+   "date": "late twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "pincoya",
+   "kind": "other",
+   "myth": "Drowned sailors and the Caleuche",
+   "note": "Contested later retellings say Pincoya guides drowned sailors to the ghost ship Caleuche.",
+   "source": "Popular twentieth-century folklore syntheses",
+   "date": "Twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pincoya"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "pincoya",
+   "kind": "rescued_by",
+   "myth": "Pincoya delivers drowned mariners to the Caleuche",
+   "note": "Pincoya conveys drowned bodies aboard, where the ship revives them.",
+   "source": "Quintana, Chiloé mitológico",
+   "date": "1972",
+   "tier": "late_accretion",
+   "stated_by": [
+    "caleuche"
+   ]
+  },
+  {
+   "a": "caleuche",
+   "b": "pincoya",
+   "kind": "served_by",
+   "myth": "Pincoy helps carry the drowned aboard",
+   "note": "Pincoy assists Pincoya in transporting drowned mariners to the vessel.",
+   "source": "Quintana, Chiloé mitológico",
+   "date": "1972",
+   "tier": "late_accretion",
+   "stated_by": [
+    "caleuche"
+   ]
+  },
+  {
+   "a": "cherufe",
+   "b": "ngunechen",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ranquel narrator Macedonio Carripí identifies Cherufe as Ngenechén.",
+   "source": "Carripí testimony analyzed by Hernández",
+   "date": "published 2006",
+   "tier": "syncretism",
+   "stated_by": [
+    "cherufe"
+   ]
+  },
+  {
+   "a": "cherufe",
+   "b": "pillan",
+   "kind": "shared_myth",
+   "myth": "Caupolicán’s dream",
+   "note": "After Cheburbue counsels Caupolicán, he offers tobacco incense to Pillán.",
+   "source": "Rosales, Historia general",
+   "date": "circa 1674",
+   "tier": "attested",
+   "stated_by": [
+    "cherufe"
+   ]
+  },
+  {
+   "a": "chonchon",
+   "b": "kalku",
+   "kind": "other",
+   "myth": "Nocturnal sorcerer transformation",
+   "note": "A harmful sorcerer travels as the Chonchón or projects the flying head.",
+   "source": "Mapuche ethnography and oral testimony",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "chonchon"
+   ]
+  },
+  {
+   "a": "chonchon",
+   "b": "kalku",
+   "kind": "other",
+   "myth": "Witch becomes a flying head",
+   "note": "A powerful witch may transform into, project, or travel as this flying head or night bird.",
+   "source": "Chilean and Mapuche folklore",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kalku"
+   ]
+  },
+  {
+   "a": "cuero",
+   "b": "millalobo",
+   "kind": "other",
+   "myth": "Government of the sea",
+   "note": "Modern hierarchical accounts place Cuero under Millalobo's authority without a discrete episode.",
+   "source": "Modern hierarchical accounts",
+   "date": "modern",
+   "tier": "late_accretion",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "cuero",
+   "b": "nguru_filu",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some authors conflate their similar aquatic forms and behavior, though Guevara distinguishes them.",
+   "source": "Guevara and later compilers",
+   "date": "1908 onward",
+   "tier": "late_accretion",
+   "stated_by": [
+    "cuero"
+   ]
+  },
+  {
+   "a": "cuero",
+   "b": "nguru_filu",
+   "kind": "identified_with",
+   "myth": "Contradictory lake monster",
+   "note": "The hide-shaped form is sometimes conflated with Cuero, though Guevara distinguishes them.",
+   "source": "Anonymous Bologna Compendio",
+   "date": "1776",
+   "tier": "regional_variant",
+   "stated_by": [
+    "nguru_filu"
+   ]
+  },
+  {
+   "a": "cuero",
+   "b": "sumpall",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern analysis associates Cuero’s hide form with Shumpall water-personification and groups it under nwenko.",
+   "source": "Aigo and Ladio",
+   "date": "2016",
+   "tier": "modern",
+   "stated_by": [
+    "cuero"
+   ]
+  },
+  {
+   "a": "cuero",
+   "b": "wekufe",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some informants identify Cuero as the aquatic bodily form assumed by a harmful Wekufü.",
+   "source": "Vicuña Cifuentes, Mitos y supersticiones",
+   "date": "1915",
+   "tier": "regional_variant",
+   "stated_by": [
+    "cuero"
+   ]
+  },
+  {
+   "a": "invunche",
+   "b": "kalku",
+   "kind": "created_by",
+   "myth": "Making the cave-bound Invunche",
+   "note": "Chilote witches allegedly deform a stolen or surrendered infant into the cave-dwelling Invunche.",
+   "source": "Chiloé proceedings; Cavada",
+   "date": "1880; 1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kalku"
+   ]
+  },
+  {
+   "a": "invunche",
+   "b": "kalku",
+   "kind": "served",
+   "myth": "Invunche guards and advises the witches",
+   "note": "The Invunche allegedly guards the witches’ cave, advises them, and serves as an instrument of vengeance.",
+   "source": "Chiloé proceedings; Cavada",
+   "date": "1880; 1914",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kalku"
+   ]
+  },
+  {
+   "a": "kai_kai_and_tren_tren",
+   "b": "ngunechen",
+   "kind": "shared_myth",
+   "myth": "Mapuche second birth",
+   "note": "The catastrophe grounds survivors’ renewed relationship with Chau Ngünechen and the ngillatun.",
+   "source": "Armando Marileo’s formulation",
+   "date": "1989",
+   "tier": "modern",
+   "stated_by": [
+    "kai_kai_and_tren_tren"
+   ]
+  },
+  {
+   "a": "kai_kai_and_tren_tren",
+   "b": "sumpall",
+   "kind": "created",
+   "myth": "Flood survivors become the first Sumpall",
+   "note": "Popular retellings claim Trentren helped transform flood victims into Sumpall; this derives from modern comparative reconstruction.",
+   "source": "Carrasco and Foerster comparative reconstruction",
+   "date": "1986–1993",
+   "tier": "modern",
+   "stated_by": [
+    "sumpall"
+   ]
+  },
+  {
+   "a": "kai_kai_and_tren_tren",
+   "b": "sumpall",
+   "kind": "shared_myth",
+   "myth": "Fish ancestry interpretation",
+   "note": "Later interpreters structurally relate Tren-Tren’s transformed aquatic survivors to the Sumpall cycle.",
+   "source": "Foerster and later interpretations",
+   "date": "1990s",
+   "tier": "modern",
+   "stated_by": [
+    "kai_kai_and_tren_tren"
+   ]
+  },
+  {
+   "a": "kalku",
+   "b": "machi_spirits",
+   "kind": "fought",
+   "myth": "Filew counters harmful forces sent through kalku sorcery",
+   "note": "Filew empowers diagnosis and resistance against attacks attributed to a kalku.",
+   "source": "Modern ethnographic pattern",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "attested",
+   "stated_by": [
+    "machi_spirits"
+   ]
+  },
+  {
+   "a": "kalku",
+   "b": "wekufe",
+   "kind": "served_by",
+   "myth": "Wekufe dispatched against a victim",
+   "note": "Kalku allegedly direct, bargain with, or exploit harmful forces against victims.",
+   "source": "Faron; Foerster; Bacigalupo",
+   "date": "1964; 1993; 2001/2007",
+   "tier": "attested",
+   "stated_by": [
+    "kalku"
+   ]
+  },
+  {
+   "a": "kuyen",
+   "b": "ngunechen",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Variable accounts merge Küyen, Antü, the divine family, and the creator.",
+   "source": "Koessler-Ilg; Marileo; Bacigalupo",
+   "date": "1954–2007",
+   "tier": "syncretism",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "kuyen",
+   "b": "ngunechen",
+   "kind": "shared_myth",
+   "myth": "The tears of the Moon",
+   "note": "A modern retelling says Ngenechen presides over Küyen’s marriage to Antü.",
+   "source": "Twenty-first-century educational retellings",
+   "date": "21st century",
+   "tier": "modern",
+   "stated_by": [
+    "kuyen"
+   ]
+  },
+  {
+   "a": "machi_spirits",
+   "b": "ngen",
+   "kind": "allied",
+   "myth": "Ngen selects machi and delegates power through Filew",
+   "note": "Regional testimony links tutelary ngen with Filew in selecting and empowering practitioners.",
+   "source": "Jorge Quilaqueo testimony",
+   "date": "2020",
+   "tier": "regional_variant",
+   "stated_by": [
+    "machi_spirits"
+   ]
+  },
+  {
+   "a": "machi_spirits",
+   "b": "ngunechen",
+   "kind": "identified_with",
+   "myth": "Filew and Ngünechen merge in some practitioners’ accounts",
+   "note": "Recent ritual testimony sometimes identifies Filew with Ngünechen and sometimes distinguishes them.",
+   "source": "Ulutun ethnography",
+   "date": "2024",
+   "tier": "syncretism",
+   "stated_by": [
+    "machi_spirits"
+   ]
+  },
+  {
+   "a": "machi_spirits",
+   "b": "ngunechen",
+   "kind": "other",
+   "myth": "Unity of the four divine persons",
+   "note": "Filew is described as Ngünechen's spirit and the unifying principle of four persons.",
+   "source": "Alonqueo's studies",
+   "date": "1979",
+   "tier": "modern",
+   "stated_by": [
+    "ngunechen"
+   ]
+  },
+  {
+   "a": "machi_spirits",
+   "b": "ngunechen",
+   "kind": "served",
+   "myth": "Ngünechen sends Filew to sustain the succession of machi",
+   "note": "Filew acts as Ngünechen’s Spirit of Power and Wisdom.",
+   "source": "Alonqueo, quoted in Foerster",
+   "date": "1979 testimony",
+   "tier": "modern",
+   "stated_by": [
+    "machi_spirits"
+   ]
+  },
+  {
+   "a": "machi_spirits",
+   "b": "wekufe",
+   "kind": "other",
+   "myth": "Contrasting positive and negative possession",
+   "note": "Filew positively possesses the prospective machi; Wekufe negatively possesses the patient.",
+   "source": "Foerster, Introducción a la religiosidad mapuche",
+   "date": "1993",
+   "tier": "modern",
+   "stated_by": [
+    "wekufe"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "ngen",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern Chiloé analysis sometimes interprets Millalobo as a maritime ngen.",
+   "source": "Chiloé heritage research",
+   "date": "2022",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ngen"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "peuchen",
+   "kind": "other",
+   "myth": "Government of the sea",
+   "note": "Modern hierarchical accounts place Piuchén under Millalobo's authority without a discrete episode.",
+   "source": "Modern hierarchical accounts",
+   "date": "modern",
+   "tier": "late_accretion",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "pincoya",
+   "kind": "other",
+   "myth": "Government of the sea",
+   "note": "Millalobo delegates fish and shellfish abundance and distribution to Pincoya.",
+   "source": "Quintana–Cárdenas tradition",
+   "date": "1972–1998",
+   "tier": "canonical",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "pincoya",
+   "kind": "parent_of",
+   "myth": "Huenchula and the birth of Pincoya",
+   "note": "Later tradition makes Pincoya the daughter of Millalobo and Huenchula.",
+   "source": "Quintana, Tangol, García Barría, Cárdenas",
+   "date": "1972 onward",
+   "tier": "canonical",
+   "stated_by": [
+    "millalobo"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "pincoya",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late genealogies identify Pincoy as Millalobo's son.",
+   "source": "Late twentieth-century system",
+   "date": "late twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "millalobo",
+    "pincoya"
+   ]
+  },
+  {
+   "a": "millalobo",
+   "b": "pincoya",
+   "kind": "served_by",
+   "myth": "Millalobo’s marine kingdom",
+   "note": "Pincoya becomes a subordinate helper or princess within Millalobo’s marine kingdom.",
+   "source": "Twentieth-century folklore syntheses",
+   "date": "Twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pincoya"
+   ]
+  },
+  {
+   "a": "ngen",
+   "b": "ngunechen",
+   "kind": "created_by",
+   "myth": "",
+   "note": "Some modern formulations make Ngünechen creator or superior of nature owners.",
+   "source": "Foerster; Bacigalupo; Course",
+   "date": "1993–2012",
+   "tier": "syncretism",
+   "stated_by": [
+    "ngen",
+    "ngunechen"
+   ]
+  },
+  {
+   "a": "ngen",
+   "b": "ngunechen",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Other explanations treat Ngen as localized expressions or an aggregate of Ngünechen's power.",
+   "source": "modern regional explanations",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ngunechen"
+   ]
+  },
+  {
+   "a": "ngen",
+   "b": "pillan",
+   "kind": "shared_myth",
+   "myth": "Creation after the pillan conflict",
+   "note": "Popular accounts place the ngen’s institution after destructive pillan conflict.",
+   "source": "unidentified popular accounts",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "ngen"
+   ]
+  },
+  {
+   "a": "ngen",
+   "b": "pincoya",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Contemporary Chiloé testimony identifies Pincoya as an owner of shellfish and intertidal abundance.",
+   "source": "Chiloé heritage research",
+   "date": "2022",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ngen"
+   ]
+  },
+  {
+   "a": "ngunechen",
+   "b": "pillan",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars proposed that Ngünechen partially absorbed Pillán's atmospheric and sovereign functions.",
+   "source": "Latcham and Guevara",
+   "date": "1911–1924",
+   "tier": "modern",
+   "stated_by": [
+    "ngunechen",
+    "pillan"
+   ]
+  },
+  {
+   "a": "ngunechen",
+   "b": "wekufe",
+   "kind": "contest",
+   "myth": "Cosmological opposition of life and destruction",
+   "note": "Later systems contrast life-giving Ngünechen with destructive Wekufe without narrating personal combat.",
+   "source": "Twentieth-century ethnographic syntheses",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wekufe"
+   ]
+  },
+  {
+   "a": "nguru_filu",
+   "b": "sumpall",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A Botxolwe community publication overlaps this local aquatic divinity with Augusta’s definition of Shompallwe.",
+   "source": "Botxolwe community publication",
+   "date": "2020s",
+   "tier": "syncretism",
+   "stated_by": [
+    "sumpall"
+   ]
+  },
+  {
+   "a": "nguru_filu",
+   "b": "wekufe",
+   "kind": "other",
+   "myth": "Comparable whirlwind manifestation",
+   "note": "Nahuelpi said a Wekufe could appear in a comparable whirlwind form.",
+   "source": "Lehmann-Nitsche, Nahuelpi account",
+   "date": "1902",
+   "tier": "attested",
+   "stated_by": [
+    "nguru_filu"
+   ]
+  },
+  {
+   "a": "pillan",
+   "b": "trauco",
+   "kind": "allied",
+   "myth": "Trentren and Kai-Kai flood",
+   "note": "Pillan's rain assists Trauco and Kai-Kai in flooding the world.",
+   "source": "Ñamco narrative, Sperata de Saunière",
+   "date": "early twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pillan"
+   ]
+  },
+  {
+   "a": "pillan",
+   "b": "wekufe",
+   "kind": "other",
+   "myth": "Huecubuyes consult Pillán in secluded caves",
+   "note": "Disputed huecubuye specialists consult Pillán; their connection with Wekufe is uncertain.",
+   "source": "Núñez, Cautiverio feliz",
+   "date": "seventeenth century",
+   "tier": "attested",
+   "stated_by": [
+    "wekufe"
+   ]
+  },
+  {
+   "a": "pillan",
+   "b": "wekufe",
+   "kind": "served_by",
+   "myth": "",
+   "note": "Later syntheses describe Huecubu as dependent upon or controlled by Pillán.",
+   "source": "Folklore and ethnographic syntheses",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "late_accretion",
+   "stated_by": [
+    "wekufe"
+   ]
+  },
+  {
+   "a": "pillan",
+   "b": "wekufe",
+   "kind": "shared_myth",
+   "myth": "Joint invocation in sickness and necessity",
+   "note": "Elders and ritual specialists advised invoking Pillan and Wekufü together.",
+   "source": "Valdivia, Sermón en lengua de Chile",
+   "date": "1621",
+   "tier": "attested",
+   "stated_by": [
+    "pillan"
+   ]
+  },
+  {
+   "a": "pillan",
+   "b": "wekufe",
+   "kind": "shared_myth",
+   "myth": "Alternative causes of volcanic smoke, ash, and stones",
+   "note": "Pillán or Wekufü is credited with causing destructive volcanic emissions.",
+   "source": "Coña and Moesbach, Vida y costumbres",
+   "date": "1930",
+   "tier": "attested",
+   "stated_by": [
+    "wekufe"
+   ]
+  },
+  {
+   "a": "sumpall",
+   "b": "wekufe",
+   "kind": "other",
+   "myth": "Aquatic abduction contrasted with predatory hide attack",
+   "note": "Comparative analysis contrasts Sumpall's marital abduction with Trülke Wekufü's destructive attack.",
+   "source": "Comparative Mapuche tale analysis",
+   "date": "",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wekufe"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Alwe": [
+   {
+    "stated_by": "wekufe",
+    "kind": "other",
+    "myth": "Capture of a recently dead person's soul",
+    "note": "Uncertain later summaries say a wekufe may capture and employ a dead person's soul.",
+    "source": "Later ethnographic summaries",
+    "date": "",
+    "tier": "late_accretion"
+   }
+  ],
+  "Armadillo": [
+   {
+    "stated_by": "elal",
+    "kind": "theft",
+    "myth": "Theft of animal fire",
+    "note": "Elal takes fire after Armadillo and the other animal owners conceal it.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "punished",
+    "myth": "Origin of shell markings",
+    "note": "Elal slashes Armadillo’s shell, explaining its permanent markings.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Basilisco chilote": [
+   {
+    "stated_by": "colo_colo",
+    "kind": "identified_with",
+    "myth": "Colo Colo and the basilisk",
+    "note": "Later collectors compare or conflate Colo Colo with the Chilote basilisk tradition.",
+    "source": "Enciclopedia Chilena, “Colocolo, El”",
+    "date": "1948–1971",
+    "tier": "syncretism"
+   }
+  ],
+  "Basilisk of Chiloé": [
+   {
+    "stated_by": "peuchen",
+    "kind": "parent_of",
+    "myth": "The transformed rooster lays the Basilisk’s egg",
+    "note": "The red rooster lays the Basilisk’s egg, then becomes a Piguchén.",
+    "source": "Cavada, Chiloé y los chilotes, p. 109",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Caballo Marino": [
+   {
+    "stated_by": "caleuche",
+    "kind": "served_by",
+    "myth": "Brujos ride the sea-horse to board the Caleuche",
+    "note": "The sea-horse transports brujos to the vessel, carrying as many as twelve.",
+    "source": "Cavada, Chiloé y los chilotes",
+    "date": "1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "other",
+    "myth": "Government of the sea",
+    "note": "Recent compendia place the sea horses under Millalobo's rule and protection.",
+    "source": "Recent mythology compendia",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Cahuel": [
+   {
+    "stated_by": "caleuche",
+    "kind": "shared_myth",
+    "myth": "Dolphins signal the Caleuche’s approach",
+    "note": "Grouped dolphins indicate pursuit by the Caleuche; later lore personifies its herald.",
+    "source": "Cavada, Chiloé y los chilotes",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Caicai-Vilu": [
+   {
+    "stated_by": "millalobo",
+    "kind": "other",
+    "myth": "Investiture after the great flood",
+    "note": "Caicai approves Millalobo and appoints him lord and representative over the seas.",
+    "source": "Cárdenas-derived late compilations",
+    "date": "late twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Chaw Antü": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "Huilliche sacred family",
+    "note": "Chaw Antü corresponds to Ngünechen's elder male heavenly aspect in some Huilliche schemes.",
+    "source": "Huilliche-oriented modern ethnography",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Chibato": [
+   {
+    "stated_by": "invunche",
+    "kind": "shared_myth",
+    "myth": "Cueva de Quicaví encounter",
+    "note": "Chibato and Ibunche emerge together as distinct, disfigured cave captives.",
+    "source": "Mateo Coñuecar deposition, Proceso de los brujos de Chiloé",
+    "date": "1880",
+    "tier": "attested"
+   }
+  ],
+  "Chilote Sirena": [
+   {
+    "stated_by": "pincoya",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Later standardized genealogy makes Pincoya and the Chilote Sirena sisters.",
+    "source": "Twentieth-century folklore syntheses",
+    "date": "Twentieth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pincoya",
+    "kind": "shared_myth",
+    "myth": "Complementary guardians of shore and sea",
+    "note": "Pincoya guards shellfish while Sirena guards fish, assigning them complementary maritime domains.",
+    "source": "Rosa Chiguay testimony, cited by Núñez",
+    "date": "2013",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pincoya",
+    "kind": "shared_myth",
+    "myth": "Drowned sailors and the Caleuche",
+    "note": "Later retellings make Pincoya and Sirena jointly carry drowned sailors to the Caleuche.",
+    "source": "Popular twentieth-century folklore syntheses",
+    "date": "Twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Chivato Pillán": [
+   {
+    "stated_by": "anchimallen",
+    "kind": "shared_myth",
+    "myth": "The Chillán cave scene",
+    "note": "Anchimalguén guards a cave that also contains a Chivato Pillán.",
+    "source": "Chillán sorcery proceeding",
+    "date": "1749",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "selknam_spirits",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Selk’nam speakers equated or compared Temáukel with the Christian God.",
+    "source": "Twentieth-century field ethnography",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Condor": [
+   {
+    "stated_by": "elal",
+    "kind": "fought",
+    "myth": "Elal and Condor",
+    "note": "After Condor refuses a feather and insults him, Elal shoots him down.",
+    "source": "Lista; Fernández Garay",
+    "date": "1894; 1993",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "punished",
+    "myth": "Origin of Condor’s baldness",
+    "note": "Elal plucks Condor’s head and decrees that it will remain permanently bald.",
+    "source": "Lista; Fernández Garay",
+    "date": "1894; 1993",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "theft",
+    "myth": "Feathers for arrows",
+    "note": "Elal takes feathers from the wounded Condor for use on his arrows.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Cuchivilu": [
+   {
+    "stated_by": "millalobo",
+    "kind": "other",
+    "myth": "Government of the sea",
+    "note": "Modern hierarchical accounts place Cuchivilu under Millalobo's authority without a discrete episode.",
+    "source": "Modern hierarchical accounts",
+    "date": "modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "nguru_filu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later Chiloé compendia sometimes merge their names despite distinct morphologies.",
+    "source": "Later Chiloé folklore collections",
+    "date": "1972 onward",
+    "tier": "regional_variant"
+   }
+  ],
+  "Dangerous Rhea egg": [
+   {
+    "stated_by": "elal",
+    "kind": "killed",
+    "myth": "Courtship rhea-egg trial",
+    "note": "Elal destroys the magically lethal egg with an arrow to obtain the required item.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Daughter of Sun": [
+   {
+    "stated_by": "elal",
+    "kind": "consort_of",
+    "myth": "Marriage after the trials",
+    "note": "In Hughes’s version Elal marries Sun and Moon’s daughter.",
+    "source": "Hughes version",
+    "date": "1927",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "other",
+    "myth": "Failed celestial courtship",
+    "note": "Elal seeks her as bride but detects her parents’ substitution and leaves unmarried.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "other",
+    "myth": "Rejection after the trials",
+    "note": "Some variants say Elal completes the trials but rejects the daughter after discovering deception.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Elchen": [
+   {
+    "stated_by": "antu",
+    "kind": "allied",
+    "myth": "Reconstructed Pillán war",
+    "note": "Popular modern summaries make Elchen Antü's collaborator or subordinate creator.",
+    "source": "modern popular summaries",
+    "date": "late twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Elmapu": [
+   {
+    "stated_by": "antu",
+    "kind": "allied",
+    "myth": "Reconstructed Pillán war",
+    "note": "Popular modern summaries make Elmapu Antü's collaborator or subordinate creator.",
+    "source": "modern popular summaries",
+    "date": "late twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Elmapun": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The maker or placer of the land was consolidated into Ngünechen's creator attributes.",
+    "source": "twentieth-century ethnological reconstruction",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Fiura": [
+   {
+    "stated_by": "trauco",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Early sources record Fiura as an alternative name for the Trauco.",
+    "source": "Cavada; Vicuña Cifuentes",
+    "date": "1914–1915",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "trauco",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Later Chilote literature makes Fiura his wife or female partner.",
+    "source": "Tangol; Quintana; Cárdenas",
+    "date": "1972–1998",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "trauco",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Late genealogies make Fiura his daughter as well as his wife.",
+    "source": "Quintana/Plath-derived popular accounts",
+    "date": "late twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Fox": [
+   {
+    "stated_by": "elal",
+    "kind": "served",
+    "myth": "Making Patagonia habitable",
+    "note": "Fox submits to Elal’s authority and accompanies him on his journeys.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Füta Chachai": [
+   {
+    "stated_by": "ngen",
+    "kind": "created_by",
+    "myth": "Emplacement of the ngen",
+    "note": "With Ñuke Papai, makes the world and appoints ngen as caretakers.",
+    "source": "Grebe’s field material",
+    "date": "late twentieth century",
+    "tier": "attested"
+   }
+  ],
+  "Goshge": [
+   {
+    "stated_by": "elal",
+    "kind": "killed",
+    "myth": "Goshge the devouring giant",
+    "note": "Elal becomes a horsefly, enters the child-eating giant, and stings him to death.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "transformed",
+    "myth": "Legend of the whale",
+    "note": "Elal changes Góos’s legs into fins and sends the terrestrial whale to sea.",
+    "source": "Modern educational retelling",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Güenupillán": [
+   {
+    "stated_by": "wekufe",
+    "kind": "served",
+    "myth": "",
+    "note": "Plural guecubus are subordinate chiefs commanded by Güenupillán.",
+    "source": "Ovalle, Histórica relación",
+    "date": "1646",
+    "tier": "attested"
+   }
+  ],
+  "Huenchula": [
+   {
+    "stated_by": "millalobo",
+    "kind": "consort_of",
+    "myth": "Huenchula and the birth of Pincoya",
+    "note": "Huenchula becomes Millalobo's wife and lives with him beneath the sea.",
+    "source": "Quintana, Chiloé mitológico",
+    "date": "1972",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "seduced",
+    "myth": "Huenchula and the birth of Pincoya",
+    "note": "Some versions say Millalobo seduces Huenchula and leads her beneath the water.",
+    "source": "Quintana and later retellings",
+    "date": "1972 onward",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "other",
+    "myth": "Huenchula taken beneath the water",
+    "note": "Other versions characterize Millalobo's taking of Huenchula as an abduction.",
+    "source": "Later collected tradition",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pincoya",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Later genealogy identifies the human Huenchula as Pincoya’s mother.",
+    "source": "Quintana and Cárdenas folklore syntheses",
+    "date": "1987–1998",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pincoya",
+    "kind": "served",
+    "myth": "",
+    "note": "Blume’s structural analysis classifies Pincoya as subordinate helper or servant to Huenchula.",
+    "source": "Blume, Narraciones míticas de Chiloé",
+    "date": "Late twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Huenchur": [
+   {
+    "stated_by": "caleuche",
+    "kind": "served_by",
+    "myth": "Huenchur orders Cahuelche to announce the Caleuche",
+    "note": "Huenchur commands the Cahuelche whose leaps herald the vessel.",
+    "source": "Late collected Chilote variant",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus": [
+   {
+    "stated_by": "kuyen",
+    "kind": "shared_myth",
+    "myth": "Machi Catholic cosmology",
+    "note": "A machi describes Mary, Moon, and Jesus as inseparable.",
+    "source": "Bacigalupo, Shamans of the Foye Tree",
+    "date": "2007",
+    "tier": "syncretism"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "parent_of",
+    "myth": "Christian translated theology",
+    "note": "Scripture and catechisms present Christ as son of the God translated Ngünechen.",
+    "source": "Mapudungun catechisms and New Testament",
+    "date": "nineteenth–twenty-first centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Kai-Kai": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "gift",
+    "myth": "Sacrifice ending the inundation",
+    "note": "Tren-Tren commands survivors to offer a quartered child partly to Kai-Kai.",
+    "source": "Rosales, Historia general, book I, chapter 1",
+    "date": "1674",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ngen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Recent Chiloé scholarship classifies Kai-Kai among maritime ngen.",
+    "source": "Chiloé heritage research",
+    "date": "2022",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "pillan",
+    "kind": "allied",
+    "myth": "Trentren and Kai-Kai flood",
+    "note": "Pillan produces catastrophic rain that assists Kai-Kai's inundation.",
+    "source": "Ñamco narrative, Sperata de Saunière",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kaikai": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "other",
+    "myth": "Trentren and Kaikai flood",
+    "note": "Modern retellings oppose Ngünechen's protection to the destructive waters raised by Kaikai.",
+    "source": "modern Christianized flood accounts",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kallfümalen": [
+   {
+    "stated_by": "sumpall",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Late regional discussions align female Sumpall with the Blue Maiden, without narrating them as separate interacting beings.",
+    "source": "Late regional discussions",
+    "date": "late twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kay Kay": [
+   {
+    "stated_by": "kuyen",
+    "kind": "created",
+    "myth": "Primordial serpents and flood",
+    "note": "The destructive flood serpent is subordinate to Küyen and Antü.",
+    "source": "Koessler-Ilg creation narratives",
+    "date": "1954",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kaykay": [
+   {
+    "stated_by": "antu",
+    "kind": "shared_myth",
+    "myth": "Creation before the serpent flood",
+    "note": "Antü and Küyen precede Kaykay's flood struggle in some Neuquén accounts.",
+    "source": "Koessler-Ilg collection",
+    "date": "1954",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kénos": [
+   {
+    "stated_by": "selknam_spirits",
+    "kind": "other",
+    "myth": "Commissioning Kénos to order the primordial earth",
+    "note": "Temáukel sends Kénos to order earth, establish norms, and form humanity.",
+    "source": "Gusinde, Die Selk’nam",
+    "date": "1931",
+    "tier": "attested"
+   }
+  ],
+  "Kóoch": [
+   {
+    "stated_by": "elal",
+    "kind": "shared_myth",
+    "myth": "Later cosmogonic ordering",
+    "note": "Kóoch creates the primordial cosmos before Elal makes the human world inhabitable.",
+    "source": "Bórmida–Siffredi-derived syntheses",
+    "date": "1969–70 onward",
+    "tier": "late_accretion"
+   }
+  ],
+  "La Condená": [
+   {
+    "stated_by": "trauco",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Late genealogy says he couples with La Condená and fathers Fiura.",
+    "source": "popular Chilote mythology",
+    "date": "late twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Laftrache": [
+   {
+    "stated_by": "anchimallen",
+    "kind": "other",
+    "myth": "",
+    "note": "Comparative folklore likens their small humanoid forms, but records no shared episode or kinship.",
+    "source": "Modern comparative folklore",
+    "date": "late twentieth century",
+    "tier": "modern"
+   }
+  ],
+  "Mankián": [
+   {
+    "stated_by": "anchimallen",
+    "kind": "shared_myth",
+    "myth": "Women travelling alone at dangerous hours",
+    "note": "Anchimallén and Mankián jointly appear in Norma Huentén's modern admonitory narrative.",
+    "source": "Modern community educational collection",
+    "date": "early twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Mocho-Choshuenco’s spirit": [
+   {
+    "stated_by": "pillan",
+    "kind": "fought",
+    "myth": "Battle of volcanic beings",
+    "note": "Rukapillan defeats the hostile volcano spirit after it spreads illness.",
+    "source": "Villarrica community field narrative",
+    "date": "2015",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "pillan",
+    "kind": "transformed",
+    "myth": "Battle of volcanic beings",
+    "note": "Rukapillan's thunderbolt truncates its crater and leaves the volcano inactive.",
+    "source": "Villarrica community field narrative",
+    "date": "2015",
+    "tier": "modern"
+   }
+  ],
+  "Ngen-ko": [
+   {
+    "stated_by": "nguru_filu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Quillén testimony classifies Guirivilu beings as water owners.",
+    "source": "Guevara, Pichún account",
+    "date": "1908",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ngen-mawida": [
+   {
+    "stated_by": "trauco",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern interpretation sometimes treats the Trauco as a transformed Williche forest ngen.",
+    "source": "modern comparative interpretation",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Ngenemapun": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The land's governor or sustainer is paired or merged with Ngünechen.",
+    "source": "twentieth-century ritual discourse",
+    "date": "twentieth century",
+    "tier": "canonical"
+   }
+  ],
+  "Ngen’ko": [
+   {
+    "stated_by": "trauco",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary father-water etymology equates Chawko with an ngen’ko, though Núñez rejects it.",
+    "source": "contemporary Williche-oriented accounts",
+    "date": "2021/22",
+    "tier": "modern"
+   }
+  ],
+  "Ngürüvilu": [
+   {
+    "stated_by": "kalku",
+    "kind": "served_by",
+    "myth": "Water creature used by kalku",
+    "note": "Twentieth-century compilations sometimes classify this water creature as a wekufe usable by kalku.",
+    "source": "Twentieth-century popular compilations",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Nóshtex": [
+   {
+    "stated_by": "elal",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Nóshtex is Elal’s father in the earliest recorded genealogy.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "fought",
+    "myth": "Conflict with his father",
+    "note": "Elal temporarily submits to Nóshtex, then escapes his pursuit behind a raised forest.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "killed_by",
+    "myth": "Attempted fetal devouring",
+    "note": "Nóshtex extracts Elal from his murdered mother and intends to eat him.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Pampas Cat": [
+   {
+    "stated_by": "elal",
+    "kind": "theft",
+    "myth": "Theft of animal fire",
+    "note": "Elal takes fire concealed by Pampas Cat and the other animal owners.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "punished",
+    "myth": "Punishment of the fire owners",
+    "note": "Elal punishes Pampas Cat less severely than Armadillo and Skunk.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Peripillán": [
+   {
+    "stated_by": "antu",
+    "kind": "fought",
+    "myth": "War of Antü and Peripillán",
+    "note": "A modern reconstruction makes Peripillán leader of a celestial rebellion against Antü.",
+    "source": "Trivero, Trentrenfilú",
+    "date": "1999",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "antu",
+    "kind": "punished",
+    "myth": "War of Antü and Peripillán",
+    "note": "Antü defeats and buries Peripillán beneath mountains in the reconstructed war.",
+    "source": "Trivero, Trentrenfilú",
+    "date": "1999",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "kuyen",
+    "kind": "shared_myth",
+    "myth": "Cosmic rebellion and dimmed stars",
+    "note": "Küyen’s selection as Antü’s wife motivates stars joining Peripillán’s rebellion.",
+    "source": "Late compilations and Trivero",
+    "date": "20th century",
+    "tier": "modern"
+   }
+  ],
+  "Pillanes": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "allied",
+    "myth": "Later Kai-Kai traditions",
+    "note": "Some later stories describe pillanes as Kai-Kai’s assistants.",
+    "source": "Regional and modern retellings",
+    "date": "modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Some later stories make Kai-Kai a descendant or child of pillanes.",
+    "source": "Regional and modern retellings",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Pu-am": [
+   {
+    "stated_by": "ngen",
+    "kind": "created_by",
+    "myth": "Creation after the pillan conflict",
+    "note": "A poorly sourced popular synthesis says Pu-am created the ngen.",
+    "source": "unidentified popular accounts",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Puma": [
+   {
+    "stated_by": "elal",
+    "kind": "fought",
+    "myth": "Making Patagonia habitable",
+    "note": "Elal fights and subdues Puma while bringing dangerous animals under his authority.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "allied",
+    "myth": "Elal and Puma hunt",
+    "note": "Puma hunts a guanaco with Elal before refusing the human use of fire.",
+    "source": "Nemesio Chongle/Casamiquela",
+    "date": "1975",
+    "tier": "regional_variant"
+   }
+  ],
+  "Püllü/am of the dead": [
+   {
+    "stated_by": "kalku",
+    "kind": "other",
+    "myth": "Manipulation of a vulnerable dead spirit",
+    "note": "A kalku may allegedly capture or manipulate the spirit of a deceased person.",
+    "source": "Twentieth-century ethnography",
+    "date": "twentieth century",
+    "tier": "attested"
+   }
+  ],
+  "Quetrupillán": [
+   {
+    "stated_by": "pillan",
+    "kind": "fought",
+    "myth": "Battle of volcanic beings",
+    "note": "Recent local narratives describe combat between Rukapillan and Quetrupillán.",
+    "source": "Villarrica educational and popular narratives",
+    "date": "recent",
+    "tier": "modern"
+   }
+  ],
+  "Sintalk’n": [
+   {
+    "stated_by": "elal",
+    "kind": "fought",
+    "myth": "Combat with Sintalk’n",
+    "note": "The powerful warrior fights Elal and is defeated and imprisoned.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "killed",
+    "myth": "Devouring of Sintalk’n",
+    "note": "After defeating and imprisoning Sintalk’n, Elal devours him.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Sirena": [
+   {
+    "stated_by": "ngen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Contemporary Chiloé classification identifies Sirena as the owner of fish.",
+    "source": "Chiloé heritage research",
+    "date": "2022",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sirena Chilota": [
+   {
+    "stated_by": "caleuche",
+    "kind": "served_by",
+    "myth": "Sirena Chilota helps carry the drowned aboard",
+    "note": "She assists Pincoya and Pincoy in conveying drowned mariners to the vessel.",
+    "source": "Quintana, Chiloé mitológico",
+    "date": "1972",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Late genealogies make Sirena Chilota Millalobo's youngest daughter.",
+    "source": "Late twentieth-century system",
+    "date": "late twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "served_by",
+    "myth": "Government of the sea",
+    "note": "Sirena Chilota helps Millalobo within his organized marine kingdom.",
+    "source": "Late twentieth-century system",
+    "date": "late twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "millalobo",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some recent summaries call Sirena his wife, conflicting with her usual daughter role.",
+    "source": "Recent summaries",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Skunk": [
+   {
+    "stated_by": "elal",
+    "kind": "theft",
+    "myth": "Theft of animal fire",
+    "note": "Elal takes the fire that Skunk falsely denies possessing.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "punished",
+    "myth": "Punishment of the fire owners",
+    "note": "Skunk receives or retains foul smell and degraded food after withholding fire.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Swan": [
+   {
+    "stated_by": "elal",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Lista describes Swan among Elal’s swan brothers.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "rescued_by",
+    "myth": "Departure over the eastern sea",
+    "note": "The strongest Swan carries bird-transformed Elal eastward across the sea.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "rescued_by",
+    "myth": "Infant flight to Chaltén",
+    "note": "Later versions have Swan carry infant Elal westward from an eastern island.",
+    "source": "Later collected versions",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Taita Huenteyao": [
+   {
+    "stated_by": "ngen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Williche tradition describes Huenteyao as a powerful coastal ngen at Pucatrihue.",
+    "source": "Williche regional testimony",
+    "date": "modern ethnography",
+    "tier": "regional_variant"
+   }
+  ],
+  "Taita Wenteyao": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "shared_myth",
+    "myth": "Huilliche joint ritual invocation",
+    "note": "Huilliche rites invoke Ngünechen and Wenteyao together, with Wenteyao serving as ancestral intercessor or territorial power.",
+    "source": "Huilliche ritual and poetry",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Teo": [
+   {
+    "stated_by": "elal",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Teo is Elal’s biological mother in the later Cloud Woman genealogy.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "Terrible Guanaco": [
+   {
+    "stated_by": "elal",
+    "kind": "killed",
+    "myth": "Courtship guanaco trial",
+    "note": "Elal kills the trial-animal by arrow or after trapping it in a bog.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Thrauca": [
+   {
+    "stated_by": "trauco",
+    "kind": "other",
+    "myth": "",
+    "note": "She is the Trauco’s female counterpart and carries a sexual dream omen.",
+    "source": "Cavada, Chiloé y los chilotes",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Tkaur": [
+   {
+    "stated_by": "elal",
+    "kind": "identified_with",
+    "myth": "Transitional Nóshtex episode",
+    "note": "Tkaur appears as a transformed or alternative name of Nóshtex; the identity is uncertain.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Tren-Tren": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "fought",
+    "myth": "Rosales’s inundation",
+    "note": "Kai-Kai raises the sea while Tren-Tren raises its mountain to protect refugees.",
+    "source": "Rosales, Historia general, book I, chapter 1",
+    "date": "1674",
+    "tier": "attested"
+   }
+  ],
+  "Treng Treng": [
+   {
+    "stated_by": "kuyen",
+    "kind": "created",
+    "myth": "Primordial serpents and flood",
+    "note": "Küyen and Antü precede and create or govern the saving serpent.",
+    "source": "Koessler-Ilg creation narratives",
+    "date": "1954",
+    "tier": "regional_variant"
+   }
+  ],
+  "Trengtreng": [
+   {
+    "stated_by": "antu",
+    "kind": "shared_myth",
+    "myth": "Creation before the serpent flood",
+    "note": "Antü and Küyen precede Trengtreng's flood struggle in some Neuquén accounts.",
+    "source": "Koessler-Ilg collection",
+    "date": "1954",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "antu",
+    "kind": "parent_of",
+    "myth": "War of Antü and Peripillán",
+    "note": "The reconstructed cycle makes Trengtreng the transformed son of Antü.",
+    "source": "Trivero, Trentrenfilú",
+    "date": "1999",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "antu",
+    "kind": "transformed",
+    "myth": "War of Antü and Peripillán",
+    "note": "Antü's rebellious son is transformed into the serpent Trengtreng.",
+    "source": "Trivero, Trentrenfilú",
+    "date": "1999",
+    "tier": "modern"
+   }
+  ],
+  "Trentren": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "allied",
+    "myth": "Trentren and Kaikai flood",
+    "note": "Later accounts associate Ngünechen's protection with beneficial Trentren during the flood.",
+    "source": "modern Christianized flood accounts",
+    "date": "modern",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "pillan",
+    "kind": "other",
+    "myth": "Trentren and Kai-Kai flood",
+    "note": "Pillan aids the inundating side while Trentren protects the survivors.",
+    "source": "Ñamco narrative, Sperata de Saunière",
+    "date": "early twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Térguerr": [
+   {
+    "stated_by": "elal",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Later variants describe the rodent rescuer as Elal’s maternal grandmother.",
+    "source": "Bórmida–Siffredi corpus",
+    "date": "1969–70",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "rescued_by",
+    "myth": "Rescue from Nóshtex",
+    "note": "She saves the infant, hides him underground, and raises him in her burrow.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "elal",
+    "kind": "taught_by",
+    "myth": "Elal’s accelerated childhood",
+    "note": "She teaches Elal about plant food and routes through the mountains.",
+    "source": "Lista; Bórmida–Siffredi",
+    "date": "1894; 1969–70",
+    "tier": "canonical"
+   }
+  ],
+  "Unnamed primordial great serpent": [
+   {
+    "stated_by": "peuchen",
+    "kind": "created_by",
+    "myth": "Great serpent shattered during a lunar cosmic catastrophe",
+    "note": "Individual Piwichen arise from fragments of the shattered primordial serpent.",
+    "source": "Koessler-Ilg, Neuquén oral collections",
+    "date": "1954/1962 onward",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vaca Marina": [
+   {
+    "stated_by": "millalobo",
+    "kind": "other",
+    "myth": "Government of the sea",
+    "note": "Modern hierarchical accounts list Vaca Marina as a dangerous being under his sovereignty.",
+    "source": "Modern hierarchical accounts",
+    "date": "modern",
+    "tier": "late_accretion"
+   }
+  ],
+  "Vaca Marina Chilota": [
+   {
+    "stated_by": "camahueto",
+    "kind": "consort_of",
+    "myth": "Mating after reaching the sea",
+    "note": "A late popular account says Camahueto reaches the sea to mate with her.",
+    "source": "Late popular mythological compilations",
+    "date": "late twentieth century",
+    "tier": "late_accretion"
+   }
+  ],
+  "Virgin Mary": [
+   {
+    "stated_by": "kuyen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A machi closely identifies or associates Mary with the Moon.",
+    "source": "Bacigalupo, Shamans of the Foye Tree",
+    "date": "2007",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Capuchin teaching analogizes Mary with Ngünechen's Kushe or Ñuke aspect.",
+    "source": "Foerster, Introducción a la religiosidad mapuche",
+    "date": "1993",
+    "tier": "syncretism"
+   }
+  ],
+  "Wangülen": [
+   {
+    "stated_by": "antu",
+    "kind": "punished",
+    "myth": "War of Antü and Peripillán",
+    "note": "The reconstructed war says Antü dims the rebellious Wangülen.",
+    "source": "Trivero, Trentrenfilú",
+    "date": "1999",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "kuyen",
+    "kind": "parent_of",
+    "myth": "Mother of the stars",
+    "note": "Late accounts call Küyen mother or ruler of the star beings.",
+    "source": "Late collected and modern retellings",
+    "date": "Modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "kuyen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern syntheses classify Küyen as the principal Wangülen.",
+    "source": "Modern scholarly and popular syntheses",
+    "date": "Modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "kuyen",
+    "kind": "shared_myth",
+    "myth": "Cosmic rebellion and dimmed stars",
+    "note": "Jealous stars rebel after Antü chooses Küyen as his preferred wife.",
+    "source": "Late compilations and Trivero",
+    "date": "20th century",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "pillan",
+    "kind": "other",
+    "myth": "",
+    "note": "Modern summaries describe Wangülen as female companions or counterparts of pillanes.",
+    "source": "Modern popular pantheon summaries",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Wangülén": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "shared_myth",
+    "myth": "Huilliche sacred family",
+    "note": "Wangülén appears as a younger celestial member of Ngünechen's sacred family.",
+    "source": "Huilliche-oriented modern ethnography",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Weche Wentru": [
+   {
+    "stated_by": "antu",
+    "kind": "shared_myth",
+    "myth": "Fourfold celestial family",
+    "note": "The young man accompanies Antü's senior forms as a younger member or aspect.",
+    "source": "twentieth-century ethnographic classifications",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wekufü": [
+   {
+    "stated_by": "anchimallen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later scholarship variously classifies Anchimallén as a Wekufü-type harmful power or comparable auxiliary.",
+    "source": "Waag, Tres entidades Wekufu",
+    "date": "1982",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "chonchon",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later authors classify the Chonchón as a wekufü, though sources remain inconsistent.",
+    "source": "Waag, Tres entidades wekufu",
+    "date": "1982",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern pantheon charts classify Kai-Kai among destructive wekufü.",
+    "source": "Modern pantheon charts",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "machi_spirits",
+    "kind": "fought",
+    "myth": "Filew empowers healing against harmful wekufü possession",
+    "note": "Filew enables the machi to identify, negotiate with, or expel harmful wekufü.",
+    "source": "Foerster, Introducción a la religiosidad mapuche",
+    "date": "1993/1995",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "ngunechen",
+    "kind": "served_by",
+    "myth": "",
+    "note": "Some accounts say an angered Ngünechen permits or commands wekufü to afflict people.",
+    "source": "Bacigalupo, Ngünechen concept study",
+    "date": "1995–1996",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "trauco",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Núñez classifies Trauco among hostile forces described as wekufü or wedake newen.",
+    "source": "Núñez, Indigenous-substrate reassessment",
+    "date": "2021/22",
+    "tier": "modern"
+   }
+  ],
+  "Wenu Püllüam": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "This ancestral heavenly power was possibly generalized into the supreme Ngünechen complex.",
+    "source": "Bacigalupo, Ngünechen concept study",
+    "date": "1995–1996",
+    "tier": "modern"
+   }
+  ],
+  "Wenu püllüam": [
+   {
+    "stated_by": "machi_spirits",
+    "kind": "shared_myth",
+    "myth": "Filew belongs to the ancestral upper-world spirit complex",
+    "note": "Filew is associated with ancestral sky spirits and may arrive from wenu mapu.",
+    "source": "Modern ritual ethnography",
+    "date": "twentieth–twenty-first centuries",
+    "tier": "attested"
+   }
+  ],
+  "Wenumapu Fucha": [
+   {
+    "stated_by": "antu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Central Araucanian systems use this elder celestial figure as Antü Fucha's structural equivalent.",
+    "source": "twentieth-century ethnographic classifications",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wenumapu Kuse": [
+   {
+    "stated_by": "antu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Central Araucanian systems use this elder celestial figure as Antü Kuse's structural equivalent.",
+    "source": "twentieth-century ethnographic classifications",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Witranalwe": [
+   {
+    "stated_by": "kalku",
+    "kind": "served_by",
+    "myth": "Spectral being exploited by harmful specialists",
+    "note": "Kalku are regionally associated with or said to exploit this dangerous nocturnal being.",
+    "source": "Faron and later folklore",
+    "date": "1964 and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yepü": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "shared_myth",
+    "myth": "Huilliche sacred family",
+    "note": "Yepü appears as a younger celestial member of Ngünechen's sacred family.",
+    "source": "Huilliche-oriented modern ethnography",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "cave serpent": [
+   {
+    "stated_by": "anchimallen",
+    "kind": "shared_myth",
+    "myth": "The Chillán cave scene",
+    "note": "Anchimalguén guards a cave associated with a great serpent.",
+    "source": "Chillán sorcery proceeding",
+    "date": "1749",
+    "tier": "syncretism"
+   }
+  ],
+  "creator": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "created_by",
+    "myth": "Creation of the guardian serpent",
+    "note": "The creator fashions Tren-Tren from special clay and orders it to warn humanity.",
+    "source": "Koessler-Ilg, Cuentan los araucanos",
+    "date": "1954",
+    "tier": "syncretism"
+   }
+  ],
+  "fish-kings": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "shared_myth",
+    "myth": "Sacrifice ending the inundation",
+    "note": "Fish-kings consume portions of the child offered to appease the sea powers.",
+    "source": "Rosales, Historia general, book I, chapter 1",
+    "date": "1674",
+    "tier": "attested"
+   }
+  ],
+  "mermaids": [
+   {
+    "stated_by": "kai_kai_and_tren_tren",
+    "kind": "shared_myth",
+    "myth": "Sacrifice ending the inundation",
+    "note": "Mermaids consume portions of the child cast into the sea as an offering.",
+    "source": "Rosales, Historia general, book I, chapter 1",
+    "date": "1674",
+    "tier": "attested"
+   }
+  ],
+  "the substituted servant": [
+   {
+    "stated_by": "elal",
+    "kind": "deceived_by",
+    "myth": "Counterfeit bride",
+    "note": "The servant wears the daughter’s clothes and name, but Elal recognizes the substitution.",
+    "source": "Lista, Los indios tehuelches",
+    "date": "1894",
+    "tier": "attested"
+   }
+  ],
+  "Ñuke Küyen": [
+   {
+    "stated_by": "ngunechen",
+    "kind": "identified_with",
+    "myth": "Huilliche sacred family",
+    "note": "Ñuke Küyen corresponds to Ngünechen's elder female heavenly aspect in some Huilliche schemes.",
+    "source": "Huilliche-oriented modern ethnography",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñuke Papai": [
+   {
+    "stated_by": "ngen",
+    "kind": "created_by",
+    "myth": "Emplacement of the ngen",
+    "note": "With Füta Chachai, makes the world and appoints ngen as caretakers.",
+    "source": "Grebe’s field material",
+    "date": "late twentieth century",
+    "tier": "attested"
+   }
+  ],
+  "Ülcha Domo": [
+   {
+    "stated_by": "antu",
+    "kind": "shared_myth",
+    "myth": "Fourfold celestial family",
+    "note": "The young woman accompanies Antü's senior forms as a younger member or aspect.",
+    "source": "twentieth-century ethnographic classifications",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

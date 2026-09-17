@@ -1,0 +1,277 @@
+{
+ "subject": "lucifer",
+ "relations": [
+  {
+   "other": "Eōs",
+   "other_aliases": [
+    "Aurora",
+    "Dawn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eōs and Astraios generate Eōsphoros and the shining stars.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eōs",
+   "other_aliases": [
+    "Aurora",
+    "Dawn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythography makes the morning star a child of Eōs and Cephalus.",
+   "source": "Hyginus, Astronomica",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eōs",
+   "other_aliases": [
+    "Aurora",
+    "Dawn"
+   ],
+   "kind": "shared_myth",
+   "myth": "The coming of dawn",
+   "note": "Lucifer accompanies, precedes, or summons Dawn while announcing the new day.",
+   "source": "Ovid, Metamorphoses 2 and 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Astraios",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Astraios and Eōs generate the morning star in Greek astral genealogy.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginian mythography associates Eōsphoros genealogically with Eōs and Cephalus.",
+   "source": "Hyginus, Astronomica",
+   "date": "early imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceyx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ovid calls Ceyx the son of Lucifer, though Lucifer takes no active role.",
+   "source": "Ovid, Metamorphoses 11.270",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [
+    "Helios",
+    "the Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "The coming of dawn",
+   "note": "Lucifer precedes sunrise and then yields or retreats before the strengthening Sun.",
+   "source": "Statius, Thebaid 2",
+   "date": "c. 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lucifer is Venus as the planet appears before sunrise.",
+   "source": "Cicero, De natura deorum 2.53",
+   "date": "45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vesper",
+   "other_aliases": [
+    "Hesperos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lucifer and Vesper are distinct morning and evening appearances of one planet.",
+   "source": "Cicero, De natura deorum 2.53",
+   "date": "45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [
+    "Selene"
+   ],
+   "kind": "shared_myth",
+   "myth": "Celestial lights withdraw before sunrise",
+   "note": "Lucifer and Luna jointly appear as celestial lights changing or withdrawing before the Sun.",
+   "source": "Statius, Thebaid",
+   "date": "c. 80–92 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šāḥar",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Isaiah calls Hêlēl the shining son of Dawn.",
+   "source": "Isaiah 14:12",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Most High",
+   "other_aliases": [
+    "God",
+    "El",
+    "Elyon"
+   ],
+   "kind": "contest",
+   "myth": "Hêlēl's attempted ascent",
+   "note": "Hêlēl boasts that he will ascend and make himself like the Most High.",
+   "source": "Isaiah 14:12–15",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Most High",
+   "other_aliases": [
+    "God",
+    "El",
+    "Elyon"
+   ],
+   "kind": "punished_by",
+   "myth": "Hêlēl's attempted ascent",
+   "note": "Hêlēl's celestial ambition ends in abasement and descent to Sheol.",
+   "source": "Isaiah 14:12–15",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Stars of El",
+   "other_aliases": [
+    "stars of God"
+   ],
+   "kind": "contest",
+   "myth": "Hêlēl's attempted ascent",
+   "note": "Hêlēl proposes to raise his throne above the divine stars.",
+   "source": "Isaiah 14:13",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "the Devil",
+    "the dragon",
+    "the ancient serpent"
+   ],
+   "kind": "identified_with",
+   "myth": "The fall of Lucifer-Satan",
+   "note": "Patristic exegesis identifies Isaiah's fallen morning star with Satan's prior glory and fall.",
+   "source": "Augustine, City of God 11.15",
+   "date": "c. 413–426 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War in heaven",
+   "note": "Later synthesis names Michael's defeated dragon-adversary Lucifer, though Revelation calls him Satan.",
+   "source": "Revelation 12:7–9",
+   "date": "late first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "fallen angels",
+   "other_aliases": [
+    "rebel angels"
+   ],
+   "kind": "served_by",
+   "myth": "The fall of Lucifer-Satan",
+   "note": "Medieval synthesis makes Lucifer leader and instigator of the angels joining his revolt.",
+   "source": "medieval angelological tradition",
+   "date": "Middle Ages",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Jesus",
+    "Son of God"
+   ],
+   "kind": "identified_with",
+   "myth": "The unsetting morning star",
+   "note": "Christian scripture and Easter liturgy apply positive morning-star language, including lucifer, to Christ.",
+   "source": "Exsultet",
+   "date": "medieval surviving form",
+   "tier": "canonical"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Jesus",
+    "Son of God"
+   ],
+   "kind": "fought",
+   "myth": "Defeat of Lucifer-Satan",
+   "note": "Later Christian theology presents Christ as the divine victor over the conflated Lucifer-Satan.",
+   "source": "later Christian theological tradition",
+   "date": "patristic and medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iblīs",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Refusal to honor Adam",
+   "note": "Modern comparative and esoteric readings equate Lucifer with Iblīs despite separate historical traditions.",
+   "source": "modern comparative tradition",
+   "date": "modern period",
+   "tier": "modern"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern esotericism equates them as rebellious bringers of light or knowledge.",
+   "source": "Blavatsky, Lucifer",
+   "date": "1887",
+   "tier": "modern"
+  },
+  {
+   "other": "Lumiel",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Montalban's angelic magical system often identifies Lumiel with Lucifer.",
+   "source": "Order of the Morning Star tradition",
+   "date": "mid-twentieth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Ahriman",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Luciferic-Ahrimanic polarity",
+   "note": "Steiner's Anthroposophy makes Lucifer a cosmic pole opposed or balanced by Ahriman.",
+   "source": "Steiner's Anthroposophical system",
+   "date": "early twentieth century",
+   "tier": "modern"
+  }
+ ]
+}

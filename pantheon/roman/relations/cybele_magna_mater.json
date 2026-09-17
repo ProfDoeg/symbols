@@ -1,0 +1,454 @@
+{
+ "subject": "cybele_magna_mater",
+ "relations": [
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek assimilation identified the Anatolian Mother with Rhea.",
+   "source": "Greek cult and literary tradition",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Tellus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman philosophical exegesis interpreted the Great Mother as Earth or Tellus.",
+   "source": "Lucretius 2; Varro via Augustine",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Maternal, agricultural, and mystery associations prompted limited equations and shared imagery.",
+   "source": "Cult and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman antiquarians compared Ops with Magna Mater despite their separate cults.",
+   "source": "Roman antiquarian tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Isis names her universal Phrygian form",
+   "note": "Isis declares that Phrygians call her Pessinuntine Mother of the Gods.",
+   "source": "Apuleius, Metamorphoses 11.5",
+   "date": "late second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Regional and iconographic evidence sometimes associated or equated Cybele with Nemesis.",
+   "source": "Regional and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local and artistic traditions sometimes equated Cybele with Artemis.",
+   "source": "Regional and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local and artistic traditions sometimes equated Cybele with Aphrodite.",
+   "source": "Regional and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local and artistic traditions sometimes equated Cybele with Athena.",
+   "source": "Regional and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Adrasteia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local and artistic traditions sometimes equated Cybele with Adrasteia.",
+   "source": "Regional and iconographic evidence",
+   "date": "Greek and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agdistis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some traditions treat Agdistis as another name or manifestation of the Mother.",
+   "source": "Pausanias 7.17; Arnobius 5",
+   "date": "second–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is a daughter of Uranus.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is a daughter of Gaia.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the consort of Cronus.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the mother of Hestia.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the mother of Demeter.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the mother of Hera.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the mother of Hades.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Rhea, Cybele is the mother of Poseidon.",
+   "source": "Greek Rhea genealogy",
+   "date": "archaic/classical Greek",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Through identification with Rhea, Cybele becomes Zeus's mother.",
+   "source": "Greek genealogy; Virgil, Aeneid 9",
+   "date": "archaic Greek–first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Julian presents the cosmic Mother as Zeus's metaphysical partner.",
+   "source": "Julian, Hymn to the Mother",
+   "date": "362 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Diodorus's mortal Cybele",
+   "note": "Cybele loves Attis and bears his child before her father kills him.",
+   "source": "Diodorus Siculus 3.58–59",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions describe Attis as Cybele's child or son.",
+   "source": "Variant Metroac traditions",
+   "date": "Hellenistic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Attis breaks his chastity vow",
+   "note": "After Attis sleeps with Sagaritis, Cybele's vengeance precipitates his madness and castration.",
+   "source": "Ovid, Fasti 4.221–246",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Attis becomes her temple guardian",
+   "note": "Cybele chooses Attis as permanent guardian and requires him to remain chaste.",
+   "source": "Ovid, Fasti 4.221–246",
+   "date": "early first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Cybele drives Attis back",
+   "note": "Cybele releases a lion to frighten the repentant Attis back into her wilderness.",
+   "source": "Catullus 63",
+   "date": "mid-first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cybele drives Attis back",
+   "note": "After Cybele's lion drives him back, Attis remains her permanent servant.",
+   "source": "Catullus 63",
+   "date": "mid-first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Petition for Attis's preservation",
+   "note": "The Mother and Agdistis seek preservation of dead Attis rather than full resurrection.",
+   "source": "Arnobius 5.7; Pausanias 7.17",
+   "date": "second–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mother buries Attis's severed parts",
+   "note": "The Mother gathers and buries Attis's severed parts; violets arise from his blood.",
+   "source": "Arnobius 5.5–7",
+   "date": "c. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agdistis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Petition for Attis's preservation",
+   "note": "The Mother and Agdistis jointly love, protect, and petition for Attis.",
+   "source": "Arnobius 5.5–7",
+   "date": "c. 300 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Generation of Agdistis",
+   "note": "Jupiter attempts union with the sleeping Mother before his semen generates Agdistis.",
+   "source": "Arnobius 5.5",
+   "date": "c. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Transformation of Aeneas's ships",
+   "note": "Jupiter grants Cybele's petition by promising her surviving sacred-wood ships divine transformation.",
+   "source": "Virgil, Aeneid 9.77–122",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Purification of maddened Dionysus",
+   "note": "Rhea-Cybele purifies Dionysus and instructs him in her mystery rites.",
+   "source": "Apollodorus 3.5.1; Strabo 10.3",
+   "date": "Greek and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cybele wanders after Attis's death",
+   "note": "The chaste musician and healer accompanies Cybele during her grief-stricken wanderings.",
+   "source": "Diodorus Siculus 3.58–59",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Corybantes",
+   "other_aliases": [
+    "Curetes"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Their armed dancing, shield-clashing, and music accompany the rites of Mother-Rhea.",
+   "source": "Strabo, Geography 10.3",
+   "date": "late first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sagaritis",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Attis breaks his chastity vow",
+   "note": "Cybele kills Sagaritis by destroying or wounding the tree sustaining her life.",
+   "source": "Ovid, Fasti 4.229–244",
+   "date": "early first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nana",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Almond conception of Attis",
+   "note": "Nana conceives Attis from the almond produced by Agdistis's severed organ.",
+   "source": "Pausanias 7.17; Arnobius 5.6",
+   "date": "second–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sea nymphs",
+   "other_aliases": [
+    "Cymodocea"
+   ],
+   "kind": "transformed",
+   "myth": "Transformation of Aeneas's ships",
+   "note": "Cybele's sacred-wood ships become sea nymphs under Jupiter's promised protection.",
+   "source": "Virgil, Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Cybele provides Aeneas's fleet",
+   "note": "Cybele gives Aeneas sacred Idaean pinewood from which his fleet is built.",
+   "source": "Virgil, Aeneid 9.77–122",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Cymodocea warns Aeneas",
+   "note": "Through the transformed fleet and Cymodocea's warning, Cybele preserves and aids Aeneas.",
+   "source": "Virgil, Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bellona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Bellona and Magna Mater share Ostia's sacred landscape and eastern-priestly associations.",
+   "source": "Ostian cult and literary evidence",
+   "date": "imperial Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "An Ostian archigallus dedicated images connecting Mater Deum and Nemesis.",
+   "source": "Ostian dedicatory inscription",
+   "date": "imperial Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Victoria",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cybele's temporary Palatine lodging",
+   "note": "Cybele's imported stone lodged in Victoria's temple until her own temple was completed.",
+   "source": "Livy 29.14",
+   "date": "204–191 BCE",
+   "tier": "attested"
+  }
+ ]
+}

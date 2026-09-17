@@ -1,0 +1,516 @@
+{
+ "subject": "thoth",
+ "relations": [
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Named as Thoth’s mother in one Egyptian genealogy.",
+   "source": "Egyptian genealogical traditions",
+   "date": "Later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Local and learned theological sources name Neith as Thoth’s mother.",
+   "source": "Local theological sources",
+   "date": "Later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rat-tawy",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Local temple theology names Rat-tawy as Thoth’s mother.",
+   "source": "Local temple theology",
+   "date": "Later Egyptian periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Thoth emerges from Seth’s skull",
+   "note": "Thoth emerges after Seth is impregnated by Horus’s semen.",
+   "source": "Horus–Seth theological tradition",
+   "date": "Later pharaonic Egypt",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Rape of Horit",
+   "note": "A Bubastite tradition makes Thoth the child of Seth’s rape of Horit.",
+   "source": "Local mythological handbook",
+   "date": "Later pharaonic Egypt",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horit",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Rape of Horit",
+   "note": "Horit bears Thoth after Seth rapes her in a local tradition.",
+   "source": "Local mythological handbook",
+   "date": "Later pharaonic Egypt",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Thoth is functionally called Osiris’s son as the embalmer burying his father.",
+   "source": "Funerary ritual texts",
+   "date": "Pharaonic Egypt",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nehemetawy",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later Hermopolitan theology pairs Nehemetawy with Thoth as his consort.",
+   "source": "Hermopolitan temple evidence",
+   "date": "Especially later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Horus’s succession claim",
+   "note": "Thoth supports Horus’s claim, advises the Ennead, and validates his legal position.",
+   "source": "Pyramid Texts; Chester Beatty I",
+   "date": "c. 2350–1100 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Healing the Eye of Horus",
+   "note": "Thoth restores Horus’s damaged eyes and fills the injured Eye.",
+   "source": "Mortuary and temple texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Seth’s sexual assault on Horus",
+   "note": "Thoth removes Seth’s semen from Horus after the sexual contest.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Litigation of Horus and Seth",
+   "note": "Thoth opposes Seth judicially while supporting Horus’s claim to Osiris’s office.",
+   "source": "Pyramid Texts; Chester Beatty I",
+   "date": "c. 2350–1100 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Testimony of Horus’s semen",
+   "note": "Thoth summons the semen that emerges from Seth’s head and testifies against him.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Seth injures Thoth",
+   "note": "Some traditions describe Seth injuring Thoth during their opposition.",
+   "source": "Pyramid and Coffin traditions",
+   "date": "Old–Middle Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Osiris’s embalming and defense",
+   "note": "Thoth protects, mourns, embalms, and ritually revivifies Osiris with efficacious spells.",
+   "source": "Pyramid Texts onward",
+   "date": "c. 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Letopolitan accidental killing of Osiris",
+   "note": "Thoth and Horus accidentally strike Osiris, and Thoth completes the fatal injury.",
+   "source": "Letopolitan nome mythology",
+   "date": "Later pharaonic Egypt",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of Horus and Osiris",
+   "note": "Thoth cooperates with Isis in protecting Horus and restoring Osiris.",
+   "source": "Pyramid Texts onward",
+   "date": "c. 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Litigation of Horus and Seth",
+   "note": "Thoth handles consequences of Isis’s stratagems and conveys legal acts.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re/Ra",
+   "other_aliases": [
+    "Re",
+    "Ra"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Thoth serves Re as scribe, counselor, magical defender, and cosmic administrator.",
+   "source": "Old Kingdom religious texts",
+   "date": "c. 2350 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Re/Ra",
+   "other_aliases": [
+    "Re",
+    "Ra"
+   ],
+   "kind": "served",
+   "myth": "Re appoints Thoth his deputy",
+   "note": "After withdrawing to heaven, Re appoints Thoth as vizier and representative.",
+   "source": "Book of the Heavenly Cow",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re/Ra",
+   "other_aliases": [
+    "Re",
+    "Ra"
+   ],
+   "kind": "rescued",
+   "myth": "Return of the Solar Eye",
+   "note": "Thoth retrieves and pacifies Re’s angry daughter after her flight to Nubia.",
+   "source": "Solar Eye texts",
+   "date": "Old Kingdom–Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dialogue on rebellious humanity",
+   "note": "Thoth and Atum discuss human rebellion, disorder, and mortality.",
+   "source": "Book of the Dead 175a",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Writing Ramesses II’s royal name",
+   "note": "Thoth and Atum jointly write the king’s name with Seshat.",
+   "source": "Ramesseum ished-tree scene",
+   "date": "Reign of Ramesses II",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seshat",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Recording royal names and years",
+   "note": "Thoth and Seshat jointly record royal names, regnal years, and measurements.",
+   "source": "New Kingdom temple reliefs",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Osiris’s embalming",
+   "note": "Thoth cooperates with Anubis as embalmer and mortuary ritualist.",
+   "source": "Funerary texts and rituals",
+   "date": "Pharaonic Egypt",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Competing mortuary roles",
+   "note": "Thoth and Anubis sometimes compete for the embalmer and ritualist role.",
+   "source": "Funerary texts and rituals",
+   "date": "Later pharaonic Egypt",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Judgment of the dead",
+   "note": "Thoth records and validates judgment according to Maat’s cosmic order.",
+   "source": "Book of the Dead",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maat",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solar and royal administration",
+   "note": "Thoth and Maat jointly accompany solar and royal administration.",
+   "source": "Temple scenes",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Creation of five intercalary days",
+   "note": "Thoth wins moonlight and creates days permitting Nut to bear her children.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Khonsu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Coordination of lunar functions",
+   "note": "Temple systems coordinate or juxtapose Thoth and Khonsu as distinct lunar gods.",
+   "source": "Temple evidence",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Thoth merges syncretically with Iah in the lunar form Iah-Thoth.",
+   "source": "Egyptian religious evidence",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hedj-Wer",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Scholars hypothesize that ibis-Thoth absorbed Hedj-Wer’s older Hermopolitan baboon form.",
+   "source": "Coffin Texts interpreted historically",
+   "date": "Middle Kingdom",
+   "tier": "modern"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [
+    "Solar Eye",
+    "Dangerous Goddess"
+   ],
+   "kind": "rescued",
+   "myth": "Return of the Distant Goddess",
+   "note": "Thoth persuades the angry Tefnut to return from Nubia and pacifies her.",
+   "source": "Demotic Solar Eye narrative",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return of the Distant Goddess",
+   "note": "Hathor can occupy the returning Solar Eye role pacified by Thoth.",
+   "source": "Solar Eye traditions",
+   "date": "Late–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return of the Distant Goddess",
+   "note": "Sekhmet can occupy the returning Solar Eye role pacified by Thoth.",
+   "source": "Solar Eye traditions",
+   "date": "Late–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mehyt",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return of the Distant Goddess",
+   "note": "Mehyt can occupy the returning Solar Eye role pacified by Thoth.",
+   "source": "Solar Eye traditions",
+   "date": "Late–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Return of the Distant Goddess",
+   "note": "Thoth of Pnubs assumes Shu-like traits and iconography in Nubian theology.",
+   "source": "Nubian temple theology",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Onuris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Return of the Distant Goddess",
+   "note": "Thoth locally overlaps or fuses with the warrior who retrieves the goddess.",
+   "source": "Late temple traditions",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Arensnuphis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Return of the Dangerous Goddess",
+   "note": "At Dakka, both gods help pacify and return the Dangerous Goddess.",
+   "source": "Dakka temple theology",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ogdoad",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Hermopolitan creation",
+   "note": "Some theological systems make Thoth creator of the eight primeval beings.",
+   "source": "Late temple texts",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ogdoad",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Hermopolitan creation",
+   "note": "Thoth presides over or commands the Ogdoad in some temple systems.",
+   "source": "Late temple texts",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Restoration after Hathor’s decapitation",
+   "note": "Thoth heals or restores Hathor after her decapitation in one conflict version.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 12th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baba/Babi",
+   "other_aliases": [
+    "Baba",
+    "Babi"
+   ],
+   "kind": "judged_by",
+   "myth": "Accusation concerning stolen offerings",
+   "note": "Baba accuses Thoth of theft or misconduct involving divine offerings.",
+   "source": "Papyrus Jumilhac",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpretatio identifies Thoth with Hermes, producing Hermes-Thoth.",
+   "source": "Greek documentary and literary evidence",
+   "date": "Hellenistic period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes Trismegistos",
+   "other_aliases": [
+    "Hermes Trismegistus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late Egyptian greatness titles and Hermes identification generate Hermes Trismegistos.",
+   "source": "Hermetic and Egyptian evidence",
+   "date": "Late Egyptian–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Mercurius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman tradition translates Hermes-Thoth as Mercury or Mercurius.",
+   "source": "Roman religious and magical evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Agathos Daimon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Composite magical invocations",
+   "note": "Hermes-Thoth appears with Agathos Daimon in composite magical invocations.",
+   "source": "Greek Magical Papyri",
+   "date": "2nd BCE–5th CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Naneferkaptah",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "The dangerous Book of Thoth",
+   "note": "Thoth complains to Re after Naneferkaptah takes his book, bringing catastrophe upon the family.",
+   "source": "Setna cycle",
+   "date": "Roman-period manuscripts",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Setna",
+   "other_aliases": [
+    "Setne Khamwas"
+   ],
+   "kind": "punished",
+   "myth": "The dangerous Book of Thoth",
+   "note": "Setna suffers supernatural deception after taking Thoth’s book and eventually returns it.",
+   "source": "Setna cycle",
+   "date": "Roman-period manuscripts",
+   "tier": "late_accretion"
+  }
+ ]
+}

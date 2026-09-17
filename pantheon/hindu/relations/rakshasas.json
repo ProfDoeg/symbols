@@ -1,0 +1,474 @@
+{
+ "subject": "rakshasas",
+ "relations": [
+  {
+   "other": "Agni",
+   "other_aliases": [
+    "rakṣohan"
+   ],
+   "kind": "fought",
+   "myth": "Vedic war at the sacrifice",
+   "note": "Agni detects, burns, and expels rākṣasas threatening sacrifices.",
+   "source": "Ṛgveda 1.36; 4.4; 7.104; 10.87",
+   "date": "later 2nd millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Vedic war at the sacrifice",
+   "note": "Indra strikes rākṣasas and yātudhānas and defends ritual order.",
+   "source": "Ṛgveda 7.104 and related hymns",
+   "date": "later 2nd millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Vedic war at the sacrifice",
+   "note": "Soma joins Indra in imprecations against rākṣasas and sorcerous enemies.",
+   "source": "Ṛgveda 7.104",
+   "date": "later 2nd millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Savitṛ",
+   "other_aliases": [
+    "Sūrya"
+   ],
+   "kind": "fought",
+   "myth": "Vedic expulsion of nocturnal evils",
+   "note": "Savitṛ is invoked to drive away rākṣasas and scatter nocturnal evils.",
+   "source": "Ṛgveda 1.35; 7.104",
+   "date": "later 2nd millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bṛhaspati",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Atharvavedic protective charms",
+   "note": "Bṛhaspati helps expose or destroy hostile magical beings including rākṣasas.",
+   "source": "Atharvavedic charms",
+   "date": "c. 1200–800 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Creation from Brahmā's night-body",
+   "note": "Rākṣasas arise from Brahmā's dark or cast-off body of night.",
+   "source": "Bhāgavata Purāṇa 3.20.19–22",
+   "date": "c. 3rd–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hungry beings rush upon Brahmā",
+   "note": "Newly created, hungry rākṣasas rush upon Brahmā and nearly devour him.",
+   "source": "Bhāgavata Purāṇa 3.20.19–22",
+   "date": "c. 3rd–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Boons to Rāvaṇa's family",
+   "note": "Brahmā grants boons to Rāvaṇa, Kumbhakarṇa, and Vibhīṣaṇa.",
+   "source": "Rāmāyaṇa; Purāṇas",
+   "date": "epic and Purāṇic periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Purāṇic genealogy makes Kaśyapa father of rākṣasas through Khasā.",
+   "source": "Viṣṇu Purāṇa 1.21",
+   "date": "c. 3rd–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Khasā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Purāṇic genealogy makes Khasā mother of yakṣas and rākṣasas.",
+   "source": "Viṣṇu Purāṇa 1.21",
+   "date": "c. 3rd–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "yakṣas",
+   "other_aliases": [
+    "yakṣa"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Viṣṇu Purāṇa makes yakṣas and rākṣasas siblings through Khasā.",
+   "source": "Viṣṇu Purāṇa 1.21",
+   "date": "c. 3rd–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nirṛti",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Rākṣasas are associated with Nirṛti, destructive disorder, and the southwest.",
+   "source": "Vedic ritual and later cosmography",
+   "date": "Vedic through later periods",
+   "tier": "attested"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [
+    "Vaiśravaṇa"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rāvaṇa is Kubera's half-brother through their father Viśravas.",
+   "source": "Rāmāyaṇa genealogical strata",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [
+    "Vaiśravaṇa"
+   ],
+   "kind": "theft",
+   "myth": "Rāvaṇa seizes Laṅkā and Puṣpaka",
+   "note": "Rāvaṇa dispossesses Kubera of Laṅkā and the Puṣpaka aerial car.",
+   "source": "Rāmāyaṇa genealogical strata",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu"
+   ],
+   "kind": "killed_by",
+   "myth": "Defense of Viśvāmitra's sacrifice",
+   "note": "Rāma kills Tāṭakā and Subāhu and defeats Mārīca.",
+   "source": "Rāmāyaṇa, Bālakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu"
+   ],
+   "kind": "killed_by",
+   "myth": "Destruction of Janasthāna",
+   "note": "Rāma destroys Khara, Dūṣaṇa, and their rākṣasa force.",
+   "source": "Rāmāyaṇa, Araṇyakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu"
+   ],
+   "kind": "killed_by",
+   "myth": "The Laṅkā war",
+   "note": "Rāma kills Kumbhakarṇa, Rāvaṇa, and numerous rākṣasa warriors.",
+   "source": "Rāmāyaṇa, Yuddhakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu"
+   ],
+   "kind": "allied",
+   "myth": "Vibhīṣaṇa defects during Laṅkā war",
+   "note": "Vibhīṣaṇa joins Rāma, who installs him as king of Laṅkā.",
+   "source": "Rāmāyaṇa, Yuddhakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [
+    "Viṣṇu"
+   ],
+   "kind": "transformed_by",
+   "myth": "Cursed beings released through death",
+   "note": "Rāma's killing releases cursed rākṣasas such as Virādha and Kabandha.",
+   "source": "Rāmāyaṇa, Araṇyakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmaṇa",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Mutilation of Śūrpaṇakhā",
+   "note": "Lakṣmaṇa mutilates Śūrpaṇakhā after her approach to the brothers.",
+   "source": "Rāmāyaṇa, Araṇyakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lakṣmaṇa",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Indrajit",
+   "note": "Lakṣmaṇa kills Indrajit and other rākṣasa warriors during the war.",
+   "source": "Rāmāyaṇa, Yuddhakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Sītā's abduction",
+   "note": "Rāvaṇa approaches Sītā disguised as an ascetic before abducting her.",
+   "source": "Rāmāyaṇa, Araṇyakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sītā imprisoned in Laṅkā",
+   "note": "Rāvaṇa abducts and imprisons Sītā while rākṣasīs threaten her.",
+   "source": "Rāmāyaṇa, Araṇya and Sundara Kāṇḍas",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sītā",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trijaṭā comforts Sītā",
+   "note": "The rākṣasī Trijaṭā comforts Sītā during her captivity in Laṅkā.",
+   "source": "Rāmāyaṇa, Sundarakāṇḍa",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hanumān's mission in Laṅkā",
+   "note": "Hanumān defeats Laṅkinī, kills Akṣa and warriors, and burns Laṅkā.",
+   "source": "Rāmāyaṇa, Sundara and Yuddha Kāṇḍas",
+   "date": "c. 5th BCE–3rd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rāvaṇa shakes Kailāsa",
+   "note": "Rāvaṇa attempts to lift Śiva's mountain, but Śiva pins him beneath it.",
+   "source": "Later Rāmāyaṇa; Purāṇas",
+   "date": "later epic and Purāṇic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Rāvaṇa's penance beneath Kailāsa",
+   "note": "After Rāvaṇa's praise and penance, Śiva releases and favors him.",
+   "source": "Later Rāmāyaṇa; Purāṇas",
+   "date": "later epic and Purāṇic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rāvaṇa shakes Kailāsa",
+   "note": "Pārvatī is present beside Śiva as Rāvaṇa shakes their mountain.",
+   "source": "Purāṇic narratives and Rāvaṇānugraha art",
+   "date": "c. 5th century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nandin",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Nandin curses Rāvaṇa",
+   "note": "Nandin curses Rāvaṇa after mockery, foreshadowing monkey agents in his fall.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "late epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vedavatī",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Vedavatī curses Rāvaṇa",
+   "note": "After Rāvaṇa assaults her, Vedavatī curses him and is linked to Sītā's rebirth.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "late epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Meghanāda captures Indra",
+   "note": "Meghanāda defeats and captures Indra, thereby earning the title Indrajit.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "late epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rāvaṇa's universal conquest",
+   "note": "Rāvaṇa fights Yama until Brahmā intervenes to preserve his boon.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "late epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Varuṇa's sons",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Rāvaṇa's aquatic conquest",
+   "note": "Rāvaṇa campaigns against Varuṇa's sons and other aquatic divine powers.",
+   "source": "Uttarakāṇḍa; Purāṇic retellings",
+   "date": "late epic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bhīma's forest encounters",
+   "note": "Bhīma kills the rākṣasas Hidimba, Baka, and Kirmīra.",
+   "source": "Mahābhārata, Ādi and Vana Parvans",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The rākṣasī Hidimbā marries Bhīma under an agreed limitation.",
+   "source": "Mahābhārata, Ādi Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhīma",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ghaṭotkaca, son of Hidimbā and Bhīma, belongs to the rākṣasa line.",
+   "source": "Mahābhārata, Ādi Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ghaṭotkaca's sacrificial death",
+   "note": "Kṛṣṇa directs the strategy using Ghaṭotkaca to exhaust Karṇa's divine missile.",
+   "source": "Mahābhārata, Droṇa Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Karṇa",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Ghaṭotkaca",
+   "note": "Karṇa kills Ghaṭotkaca with Indra's one-use Śakti weapon.",
+   "source": "Mahābhārata, Droṇa Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Kurukṣetra night battle",
+   "note": "Ghaṭotkaca fights as Arjuna's rākṣasa nephew and Pāṇḍava ally.",
+   "source": "Mahābhārata, Droṇa Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Ghaṭotkaca exhausts Karṇa's missile",
+   "note": "Ghaṭotkaca's death expends Karṇa's divine missile and thereby saves Arjuna.",
+   "source": "Mahābhārata, Droṇa Parvan",
+   "date": "c. 4th BCE–4th CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Devī",
+   "other_aliases": [
+    "Bhīmā Devī",
+    "the Goddess"
+   ],
+   "kind": "killed_by",
+   "myth": "Himalayan manifestation of Bhīmā Devī",
+   "note": "Devī predicts she will manifest and devour rākṣasas threatening Himalayan sages.",
+   "source": "Devī Māhātmya 11",
+   "date": "c. 5th–6th century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Buddha",
+   "other_aliases": [
+    "Buddha"
+   ],
+   "kind": "allied",
+   "myth": "Conversion of rakkhasas",
+   "note": "Buddhist rakkhasas may be converted from threatening beings into Dharma protectors.",
+   "source": "Early Buddhist narrative corpus",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Buddha",
+   "other_aliases": [
+    "Buddha"
+   ],
+   "kind": "shared_myth",
+   "myth": "Rāvaṇa invites Buddha to Laṅkā",
+   "note": "Rāvaṇa hosts and questions the Buddha in Laṅkā.",
+   "source": "Laṅkāvatāra Sūtra",
+   "date": "c. 4th century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vaiśravaṇa",
+   "other_aliases": [
+    "Kubera"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Later Buddhist taxonomies sometimes place rākṣasas among Vaiśravaṇa's subordinate nonhuman hosts.",
+   "source": "Buddhist cosmological texts",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  }
+ ]
+}

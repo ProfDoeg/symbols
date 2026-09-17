@@ -1,0 +1,105 @@
+{
+ "subject": "sif",
+ "relations": [
+  {
+   "other": "Þórr",
+   "other_aliases": [
+    "Thor"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Poetic diction calls Þórr Sif’s intimate or husband; Snorri explicitly calls her his wife.",
+   "source": "Eysteinn Valdason; Hymiskviða; Þrymskviða; Snorri’s Edda",
+   "date": "tenth to thirteenth centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Ullr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri names Ullr as Sif’s son and Þórr’s stepson.",
+   "source": "Gylfaginning 31",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrúðr",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Snorri makes Þrúðr the daughter of Sif and Þórr.",
+   "source": "Skáldskaparmál family notices",
+   "date": "thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "son of Laufey"
+   ],
+   "kind": "other",
+   "myth": "Loki cuts off Sif’s hair",
+   "note": "Loki maliciously cuts off all Sif’s hair, prompting Þórr’s threats and compensation.",
+   "source": "Skáldskaparmál",
+   "date": "early thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "son of Laufey"
+   ],
+   "kind": "served",
+   "myth": "Sif serves Loki at Ægir’s feast",
+   "note": "Sif pours Loki mead and asks him to acknowledge that she is blameless.",
+   "source": "Lokasenna 53–54",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "son of Laufey"
+   ],
+   "kind": "other",
+   "myth": "Loki alleges intimacy with Sif",
+   "note": "Loki claims he was Sif’s lover besides Þórr, but the hostile allegation is unconfirmed.",
+   "source": "Lokasenna 54",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hárbarðr",
+   "other_aliases": [
+    "Óðinn"
+   ],
+   "kind": "other",
+   "myth": "Hárbarðr’s lover-at-home taunt",
+   "note": "Hárbarðr tells Þórr that Sif has an unnamed lover at home.",
+   "source": "Hárbarðsljóð 48",
+   "date": "medieval witness",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ægir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ægir’s feast",
+   "note": "Sif attends Ægir’s feast, where she offers Loki mead.",
+   "source": "Lokasenna prose frame and 53–54",
+   "date": "Codex Regius c. 1270",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sons of Ívaldi",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Creation of Sif’s golden hair",
+   "note": "The sons of Ívaldi manufacture golden replacement hair intended for Sif through Loki.",
+   "source": "Skáldskaparmál",
+   "date": "early thirteenth century",
+   "tier": "canonical"
+  }
+ ]
+}

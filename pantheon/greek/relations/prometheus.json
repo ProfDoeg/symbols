@@ -1,0 +1,578 @@
+{
+ "subject": "prometheus",
+ "relations": [
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Prometheus is the son of Iapetus and Clymene.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Clymene is Prometheus's mother by Iapetus.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [
+    "Gaia"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Prometheus names Themis, equated with Gaia, as his mother.",
+   "source": "Prometheus Bound 18, 209–210",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asia replaces Clymene as Prometheus's mother by Iapetus.",
+   "source": "Pseudo-Apollodorus, Library 1.2.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Herodotus instead places Asia as Prometheus's wife.",
+   "source": "Herodotus 4.45",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late learned genealogy makes Uranus Prometheus's father.",
+   "source": "Scholia and Byzantine commentary",
+   "date": "late antique/Byzantine",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late genealogy makes Prometheus the child of Uranus and Clymene.",
+   "source": "Scholia and Byzantine commentary",
+   "date": "late antique/Byzantine",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurymedon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late learned genealogy makes the Titan Eurymedon his father.",
+   "source": "Scholia and Byzantine commentary",
+   "date": "late antique/Byzantine",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late learned genealogy makes Hera Prometheus's mother by Eurymedon.",
+   "source": "Scholia and Byzantine commentary",
+   "date": "late antique/Byzantine",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Atlas and Prometheus are brothers, both sons of Iapetus and Clymene.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menoetius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Menoetius and Prometheus are brothers.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [
+    "Afterthinker"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Epimetheus is Prometheus's brother and intellectual opposite.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deucalion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Deucalion is the divine or heroic son of Prometheus.",
+   "source": "Pseudo-Apollodorus, Library 1.7.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aetnaeus",
+   "other_aliases": [
+    "Aetnaus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Cabeiric Prometheus is father of Aetnaeus.",
+   "source": "Pausanias 9.25.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lycus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late sources make Lycus a son of Prometheus and Celaeno.",
+   "source": "Scholia and late mythographers",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chimaereus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late sources make Chimaereus a son of Prometheus and Celaeno.",
+   "source": "Scholia and late mythographers",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Celaeno",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Celaeno bears Prometheus the sons Lycus and Chimaereus.",
+   "source": "Scholia and late mythographers",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hellen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late genealogies make Hellen a son of Prometheus.",
+   "source": "Scholia and late mythographers",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Division of the ox at Mecone",
+   "note": "Prometheus hides bones beneath attractive fat and invites Zeus to choose.",
+   "source": "Hesiod, Theogony 535–557",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of divine fire",
+   "note": "Prometheus steals the fire Zeus withheld and returns it to mortals.",
+   "source": "Hesiod, Theogony 561–569",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Binding and the eagle",
+   "note": "Zeus binds Prometheus and sends an eagle to consume his renewing liver.",
+   "source": "Hesiod, Theogony 521–525",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War against Cronus",
+   "note": "Prometheus says he helped Zeus's faction defeat Cronus and the Titans.",
+   "source": "Prometheus Bound 199–241",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Secret of the threatening marriage",
+   "note": "Prometheus withholds a prophecy capable of protecting Zeus from dynastic overthrow.",
+   "source": "Prometheus Bound 755–770",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [
+    "Afterthinker"
+   ],
+   "kind": "taught",
+   "myth": "Epimetheus accepts Pandora",
+   "note": "Prometheus warns Epimetheus not to accept Zeus's gift, but he forgets.",
+   "source": "Hesiod, Works and Days 83–89",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [
+    "Afterthinker"
+   ],
+   "kind": "allied",
+   "myth": "Distribution of mortal capacities",
+   "note": "Prometheus corrects Epimetheus's improvident distribution by obtaining arts and fire.",
+   "source": "Plato, Protagoras 320c–321d",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pandora as Zeus's counter-gift",
+   "note": "Zeus sends Pandora to humanity as retaliation for Prometheus's theft of fire.",
+   "source": "Hesiod, Works and Days 59–105",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of Pandora",
+   "note": "Prometheus's theft precipitates Zeus ordering Hephaestus to shape Pandora.",
+   "source": "Hesiod, Works and Days 60–71",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Chaining in Scythia",
+   "note": "Hephaestus reluctantly chains Prometheus while expressing pity for his fellow god.",
+   "source": "Prometheus Bound 1–87",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kratos",
+   "other_aliases": [
+    "Power"
+   ],
+   "kind": "punished_by",
+   "myth": "Chaining in Scythia",
+   "note": "Kratos supervises the chaining and demands strict execution of Zeus's sentence.",
+   "source": "Prometheus Bound 1–87",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bia",
+   "other_aliases": [
+    "Force"
+   ],
+   "kind": "punished_by",
+   "myth": "Chaining in Scythia",
+   "note": "Bia silently assists Kratos and Hephaestus during Prometheus's chaining.",
+   "source": "Prometheus Bound opening scene",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ocean",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ocean's visit to the prisoner",
+   "note": "Ocean advises submission and offers to intercede with Zeus, but Prometheus refuses.",
+   "source": "Prometheus Bound 284–396",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Lament and final catastrophe",
+   "note": "The Oceanids lament with Prometheus and remain beside him during the catastrophe.",
+   "source": "Prometheus Bound",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Io visits the bound Prometheus",
+   "note": "Prometheus recounts Io's wanderings and foretells liberation by her descendant Heracles.",
+   "source": "Prometheus Bound 561–886",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Demand for the succession prophecy",
+   "note": "Hermes demands Prometheus's secret and threatens further torment; Prometheus refuses.",
+   "source": "Prometheus Bound 944–1093",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft from the divine workshop",
+   "note": "Prometheus steals Athena's practical arts from her shared workshop for humanity.",
+   "source": "Plato, Protagoras 321d",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft from the divine workshop",
+   "note": "Prometheus steals Hephaestus's fire-dependent technical skill for humanity.",
+   "source": "Plato, Protagoras 321d",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Distribution of civic virtues",
+   "note": "After Prometheus's gift proves insufficient, Hermes distributes Zeus's justice and reverence.",
+   "source": "Plato, Protagoras 322c–d",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Heracles kills the eagle",
+   "note": "Heracles kills Prometheus's tormenting eagle with Zeus's approval.",
+   "source": "Hesiod, Theogony 526–534",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Release of Prometheus",
+   "note": "Heracles shoots the eagle and releases Prometheus in the lost sequel.",
+   "source": "Prometheus Unbound fragments",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Exchange of immortality",
+   "note": "Chiron relinquishes immortality, satisfying the condition for Prometheus's release.",
+   "source": "Pseudo-Apollodorus 2.5.11; Hyginus",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [
+    "Gaia"
+   ],
+   "kind": "taught_by",
+   "myth": "Prophecy of divine succession",
+   "note": "Themis informs Prometheus of the succession secret and counsels the winning divine faction.",
+   "source": "Prometheus Bound 199–211, 873–876",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prophecy concerning Thetis's son",
+   "note": "Prometheus knows that Thetis will bear a son stronger than his father.",
+   "source": "Promethean cycle fragments and mythography",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abandonment of pursuit of Thetis",
+   "note": "Prometheus's disclosed prophecy causes Poseidon and Zeus to abandon pursuing Thetis.",
+   "source": "Promethean cycle fragments and mythography",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Entry into heaven",
+   "note": "Athena assists Prometheus in entering heaven to obtain fire.",
+   "source": "Servius and later commentary",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Animation of clay humanity",
+   "note": "Athena helps animate the clay humans modelled by Prometheus.",
+   "source": "Servius and later iconography",
+   "date": "Roman and late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "theft",
+   "myth": "Fire taken from the Sun's chariot",
+   "note": "Prometheus lights his torch from Helios's wheel or chariot.",
+   "source": "Servius on Eclogue 6.42",
+   "date": "late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Cabeiric sacred deposit",
+   "note": "Demeter entrusts a secret sacred deposit or rite to the Cabeiric Prometheus.",
+   "source": "Pausanias 9.25.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aetnaeus",
+   "other_aliases": [
+    "Aetnaus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cabeiric sacred deposit",
+   "note": "Prometheus and his son jointly receive Demeter's secret deposit or rite.",
+   "source": "Pausanias 9.25.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Brothers' punishments",
+   "note": "The Vatican kylix juxtaposes Prometheus's torment with Atlas supporting heaven.",
+   "source": "Laconian Vatican kylix",
+   "date": "c. 560 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prometheus and Hera",
+   "note": "The Douris cup pairs Prometheus with Hera in an uncertain lost narrative.",
+   "source": "Douris cup",
+   "date": "c. 480–470 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Caucasian eagle",
+   "other_aliases": [
+    "eagle",
+    "vulture"
+   ],
+   "kind": "punished_by",
+   "myth": "Consumption of Prometheus's liver",
+   "note": "Zeus's winged agent repeatedly consumes Prometheus's liver until Heracles kills it.",
+   "source": "Hesiod, Theogony 523–534",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deucalion",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Deucalion's flood",
+   "note": "Prometheus warns Deucalion of Zeus's flood and instructs him to build a provisioned chest.",
+   "source": "Pseudo-Apollodorus, Library 1.7.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Disputed Panopean statue",
+   "note": "Viewers variously identify one Panopean statue as Prometheus or Asclepius.",
+   "source": "Pausanias 10.4.4",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prometheus the Cabeir",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Theban Cabeiric tradition",
+   "note": "The pan-Hellenic Prometheus may have been assimilated to a distinct local Cabeiric figure.",
+   "source": "Pausanias 9.25.6",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Forbidden-light analogy",
+   "note": "Modern occult writers analogically identify Prometheus with Lucifer as a forbidden-light bringer.",
+   "source": "Modern occult writings",
+   "date": "modern",
+   "tier": "modern"
+  }
+ ]
+}

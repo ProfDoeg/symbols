@@ -1,0 +1,671 @@
+{
+ "subject": "artemis",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Artemis is the daughter of Zeus and Leto.",
+   "source": "Hesiod, Theogony 918–920",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Artemis is the daughter of Leto and Zeus.",
+   "source": "Hesiod, Theogony 918–920",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Artemis and Apollo are children of Zeus and Leto.",
+   "source": "Hesiod, Theogony 918–920",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Artemis leads dancing at Apollo’s Delphic house",
+   "note": "Artemis visits Apollo’s house and leads the Muses and Graces.",
+   "source": "Homeric Hymn 27",
+   "date": "6th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Artemis assists at Apollo’s birth",
+   "note": "Late mythography makes newborn Artemis Leto’s midwife for Apollo.",
+   "source": "Late mythography and commentary",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Child Artemis petitions Zeus",
+   "note": "Zeus grants her virginity, attendants, domains, names, and childbirth functions.",
+   "source": "Callimachus, Hymn to Artemis 1–40",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Artemis flees Hera’s beating",
+   "note": "The humiliated Artemis flees weeping to Zeus, who receives her.",
+   "source": "Iliad 21.505–513",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "fought",
+   "myth": "Olympian theomachy",
+   "note": "Hera seizes Artemis, beats her with her bow, and scatters her arrows.",
+   "source": "Iliad 21.470–496",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Niobe",
+   "note": "Artemis and Apollo avenge Leto after Niobe insults her.",
+   "source": "Iliad 24.602–617",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Niobe",
+   "note": "Apollo kills Niobe’s sons while Artemis kills her daughters.",
+   "source": "Iliad 24.602–617",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Punishment of Niobe",
+   "note": "Artemis kills Niobe’s daughters after Niobe boasts against Leto.",
+   "source": "Iliad 24.602–617",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death of Hippolytus",
+   "note": "Aphrodite destroys Artemis’ devotee; Artemis promises retaliation against her favorite.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [
+    "Virbius"
+   ],
+   "kind": "served_by",
+   "myth": "Death of Hippolytus",
+   "note": "Hippolytus devotes himself to Artemis and rejects Aphrodite and sexuality.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolytus",
+   "other_aliases": [
+    "Virbius"
+   ],
+   "kind": "other",
+   "myth": "Death of Hippolytus",
+   "note": "Artemis reveals the truth, reconciles him with Theseus, and establishes memorial rites.",
+   "source": "Euripides, Hippolytus",
+   "date": "428 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Resurrection of Hippolytus",
+   "note": "Artemis asks Asclepius to restore Hippolytus, subsequently called Virbius.",
+   "source": "Later Roman sources",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Taurian image and cult settlement",
+   "note": "Athena directs Artemis’ image to Halae and establishes Iphigenia at Brauron.",
+   "source": "Euripides, Iphigenia among Taurians",
+   "date": "414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Persephone before her abduction",
+   "note": "Later traditions place Artemis and Athena with Persephone before her abduction.",
+   "source": "Diodorus, Library 5.3",
+   "date": "1st century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore"
+   ],
+   "kind": "shared_myth",
+   "myth": "Persephone before her abduction",
+   "note": "Artemis and Athena accompany Persephone before her abduction in later accounts.",
+   "source": "Diodorus, Library 5.3",
+   "date": "1st century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Magical and Orphic materials combine Artemis with Hecate’s names, torches, and powers.",
+   "source": "Greek Magical Papyri; Orphic Hymns",
+   "date": "2nd c. BCE–5th c. CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Iphigenia’s rescue at Aulis",
+   "note": "The Cypria apparently said Artemis immortalized the rescued Iphigenia as Hecate.",
+   "source": "Cypria fragments",
+   "date": "Archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman poetry and magical texts increasingly treat Artemis and Selene as lunar manifestations.",
+   "source": "Roman poetry; Greek Magical Papyri",
+   "date": "Hellenistic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman interpretation made their myths largely interchangeable despite Diana’s Italian roots.",
+   "source": "Greek and Roman literary convention",
+   "date": "Hellenistic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Artumes",
+   "other_aliases": [
+    "Artume"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan goddess was identified iconographically and mythologically with Artemis.",
+   "source": "Etruscan iconographic evidence",
+   "date": "Ancient Etruscan period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Artemis was identified or paired with the childbirth goddess Eileithyia.",
+   "source": "Cult titles and local evidence",
+   "date": "Ancient Greek period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bendis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greeks compared Artemis with Bendis, though the Thracian goddess remained separately named.",
+   "source": "Athenian cult evidence",
+   "date": "late 5th century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [
+    "Bubastis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus interprets the Egyptian goddess of Bubastis as Artemis.",
+   "source": "Herodotus, Histories 2.137, 2.156",
+   "date": "440s–420s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Taurian Parthenos",
+   "other_aliases": [
+    "maiden goddess"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek authors and cults connected the Taurian maiden goddess with Artemis.",
+   "source": "Herodotus, Histories 4.103",
+   "date": "440s–420s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anāhitā",
+   "other_aliases": [
+    "Anaitis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman writers used Artemis for Iranian or Anatolian manifestations of Anāhitā.",
+   "source": "Greek and Roman interpretive evidence",
+   "date": "Hellenistic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis declares that different peoples call her by names including Diana.",
+   "source": "Apuleius, Metamorphoses 11",
+   "date": "2nd century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Artemis gathers hunting equipment",
+   "note": "Pan gives Artemis hunting dogs when she visits him in Arcadia.",
+   "source": "Callimachus, Hymn to Artemis 70–97",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Artemis visits the Cyclopes",
+   "note": "The Cyclopes forge Artemis’ bow and arrows.",
+   "source": "Callimachus, Hymn to Artemis 46–86",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brontes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Artemis visits the Cyclopes",
+   "note": "Young Artemis playfully pulls the Cyclops Brontes’ chest hair.",
+   "source": "Callimachus, Hymn to Artemis 46–86",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Artemis chooses her attendants",
+   "note": "Artemis selects sixty young daughters of Oceanus for her chorus.",
+   "source": "Callimachus, Hymn to Artemis 13–17",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [
+    "daughters of Oceanus"
+   ],
+   "kind": "served_by",
+   "myth": "Artemis chooses her attendants",
+   "note": "Sixty young Oceanids become Artemis’ attendants and chorus.",
+   "source": "Callimachus, Hymn to Artemis 13–17",
+   "date": "3rd century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Britomartis",
+   "other_aliases": [
+    "Diktynna"
+   ],
+   "kind": "rescued",
+   "myth": "Britomartis escapes Minos",
+   "note": "Artemis saves her favorite companion after Britomartis leaps into fishing nets.",
+   "source": "Callimachus, Hymn to Artemis 189–205",
+   "date": "3rd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Britomartis",
+   "other_aliases": [
+    "Diktynna"
+   ],
+   "kind": "created",
+   "myth": "Divinization of Britomartis",
+   "note": "Artemis makes Britomartis divine under the title Diktynna.",
+   "source": "Callimachus, Hymn to Artemis 189–205",
+   "date": "3rd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Capture of the Ceryneian hind",
+   "note": "Artemis and Apollo confront Heracles, then permit him to take her hind.",
+   "source": "Apollodorus, Library 2.5.3",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Orion assaults Artemis",
+   "note": "Artemis kills Orion when he attempts to rape her.",
+   "source": "Later mythographic tradition",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Orion assaults Opis",
+   "note": "Artemis kills Orion because he assaults the Hyperborean maiden Opis.",
+   "source": "Later mythographic tradition",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Apollo tricks Artemis into shooting Orion",
+   "note": "Apollo tricks or challenges Artemis into shooting Orion at sea.",
+   "source": "Hyginus, Astronomica 2.34",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Apollo tricks Artemis into shooting Orion",
+   "note": "Deceived by Apollo, Artemis shoots the distant Orion.",
+   "source": "Hyginus, Astronomica 2.34",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "allied",
+   "myth": "Earth’s scorpion kills Orion",
+   "note": "Earth sends a scorpion after Orion threatens to exterminate all animals.",
+   "source": "Astronomical mythographic variants",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Catasterism of Orion",
+   "note": "Artemis and Leto ask Zeus to place Orion among the stars.",
+   "source": "Astronomical mythographic variants",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Eos abducts Orion",
+   "note": "Artemis kills Orion on Ortygia after Eos abducts him.",
+   "source": "Odyssey 5.121–124",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Actaeon",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Actaeon sees Artemis bathing",
+   "note": "Artemis transforms Actaeon into a stag after he sees her bathing.",
+   "source": "Ovid, Metamorphoses 3.138–252",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Actaeon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Actaeon sees Artemis bathing",
+   "note": "After Artemis transforms him, Actaeon is torn apart by his dogs.",
+   "source": "Ovid, Metamorphoses 3.138–252",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Callisto’s pregnancy and transformation",
+   "note": "Artemis shoots Callisto after Hera changes her into a bear.",
+   "source": "Apollodorus, Library 3.8.2",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Callisto breaks her virginity",
+   "note": "One variant makes Artemis transform Callisto for failing to preserve virginity.",
+   "source": "Apollodorus, Library 3.8.2",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Callisto’s pregnancy is exposed",
+   "note": "Diana expels the pregnant Callisto from her company.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Sacrifice of Iphigenia at Aulis",
+   "note": "Artemis substitutes a deer for Iphigenia and transports her to Tauris.",
+   "source": "Euripides, Iphigenia among Taurians",
+   "date": "414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iphigenia",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Iphigenia in Tauris",
+   "note": "Artemis appoints the rescued Iphigenia as her priestess in Tauris.",
+   "source": "Euripides, Iphigenia among Taurians",
+   "date": "414–412 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Otus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The Aloadae pursue Artemis",
+   "note": "As a deer, Artemis runs between the brothers, causing mutual slaughter.",
+   "source": "Apollodorus, Library 1.7.4",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ephialtes",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The Aloadae pursue Artemis",
+   "note": "As a deer, Artemis runs between the brothers, causing mutual slaughter.",
+   "source": "Apollodorus, Library 1.7.4",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Admetus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Admetus neglects Artemis",
+   "note": "Artemis fills Admetus’ marriage chamber with snakes after he neglects her sacrifice.",
+   "source": "Apollodorus, Library 1.9.15",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo reconciles Admetus with Artemis",
+   "note": "Apollo reconciles Admetus with Artemis after the neglected marriage sacrifice.",
+   "source": "Apollodorus, Library 1.9.15",
+   "date": "1st–2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Calydonian boar",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Calydonian boar hunt",
+   "note": "Artemis sends the monstrous boar against Calydon after Oeneus neglects her.",
+   "source": "Iliad 9.529–599",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aura",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Aura mocks Artemis",
+   "note": "Artemis appeals to Nemesis after Aura mocks her body.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Punishment of Aura",
+   "note": "Artemis appeals to Nemesis to punish Aura’s insult.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "5th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sipriotes",
+   "other_aliases": [
+    "Siproites"
+   ],
+   "kind": "transformed",
+   "myth": "Sipriotes sees Artemis bathing",
+   "note": "Artemis transforms the Cretan boy into a girl after he sees her bathing.",
+   "source": "Antoninus Liberalis and later summaries",
+   "date": "2nd–3rd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polyphonte",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Polyphonte rejects Aphrodite",
+   "note": "Polyphonte rejects Aphrodite and joins Artemis.",
+   "source": "Antoninus Liberalis, Metamorphoses 21",
+   "date": "2nd–3rd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Madness of Artemis’ companions",
+   "note": "Dionysus drives the Minyads or Proetids mad; Artemis participates in variants.",
+   "source": "Regional mythographic traditions",
+   "date": "Classical–later periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian theomachy",
+   "note": "Artemis and Ares support the Trojan divine side in the theomachy.",
+   "source": "Iliad 21",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphaia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Aeginetan Artemis was related to Aphaia, though direct equation is uncertain.",
+   "source": "Aeginetan cult evidence",
+   "date": "Ancient Greek period",
+   "tier": "regional_variant"
+  }
+ ]
+}

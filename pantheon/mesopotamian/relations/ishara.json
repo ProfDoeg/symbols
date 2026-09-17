@@ -1,0 +1,562 @@
+{
+ "subject": "ishara",
+ "relations": [
+  {
+   "other": "Kura",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ebla royal wedding and temple partnership",
+   "note": "The royal couple offered to both, and Išḫara’s statue stood in Kura’s temple.",
+   "source": "Ebla administrative texts",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kura",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Differentiated Eblaite royal functions",
+   "note": "Kura embodied kingship while Išḫara protected the dynasty.",
+   "source": "Ebla cult distributions",
+   "date": "twenty-fourth century BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Ištar",
+   "other_aliases": [
+    "Aštar",
+    "Labutu"
+   ],
+   "kind": "shared_myth",
+   "myth": "Paired statues in Ebla royal ritual",
+   "note": "A royal ritual offered statues to Išḫara and Labutu, the Lioness.",
+   "source": "ARET XI ritual",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ištar",
+   "other_aliases": [
+    "Aštar",
+    "Labutu"
+   ],
+   "kind": "identified_with",
+   "myth": "Nine-day institution of marriage",
+   "note": "Celebrants were instructed to call bridal Ištar Išḫara.",
+   "source": "Atra-ḫasīs II 301–304",
+   "date": "seventeenth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ištar",
+   "other_aliases": [
+    "Aštar",
+    "Labutu"
+   ],
+   "kind": "gift",
+   "myth": "Joint votive gift at Kaneš",
+   "note": "Silver and two wild-bull figures were sent jointly for Išḫara and Ištar.",
+   "source": "TC 3.106",
+   "date": "early second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abī-simtī’s parallel offerings",
+   "note": "Both goddesses received offerings in the Ur III royal archive.",
+   "source": "Abī-simtī archive",
+   "date": "late third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Allatum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šulgi-simti’s joint offerings",
+   "note": "Šulgi-simti made offerings to Išḫara and Allatum at Puzrish-Dagan.",
+   "source": "Šulgi-simti archive",
+   "date": "late twenty-first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Allani",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Song of Release",
+   "note": "They jointly appear as underworld-associated goddesses during the crisis threatening Ebla.",
+   "source": "Song of Release",
+   "date": "copies around 1400 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Allani",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hurrian offering-list pairing",
+   "note": "Hurrian offering lists repeatedly place Išḫara near Allani.",
+   "source": "Hurrian offering lists",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Teššub",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Teššub threatens Ebla",
+   "note": "Išḫara intercedes for Ebla when Teššub threatens its destruction over refused emancipation.",
+   "source": "Song of Release",
+   "date": "copies around 1400 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Teššub",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hurro-Hittite sacrificial series",
+   "note": "Išḫara appears in sacrificial series belonging to Teššub and Ḫepat.",
+   "source": "Hurro-Hittite offering lists",
+   "date": "Late Bronze Age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ḫepat",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Membership in Ḫepat’s kaluti",
+   "note": "Išḫara belongs to Ḫepat’s ordered offering circle.",
+   "source": "Kaluti offering lists",
+   "date": "Late Bronze Age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hutena-Hutellura",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ḫepat’s kaluti sequence",
+   "note": "Išḫara immediately follows the birth and fate goddesses in the offering order.",
+   "source": "Kaluti offering lists",
+   "date": "Late Bronze Age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nabarbi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Yazılıkaya goddess procession",
+   "note": "A probable Išḫara figure stands beside Nabarbi according to reconstructed procession order.",
+   "source": "Yazılıkaya procession",
+   "date": "Late Bronze Age",
+   "tier": "modern"
+  },
+  {
+   "other": "Šauška",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Shared Ištar logogram and offerings",
+   "note": "Scribal usage partially assimilated them, although explicit lists could distinguish them.",
+   "source": "Hurrian ritual texts",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pirinkir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hattusa Babylonian-style rituals",
+   "note": "Pirinkir and Išḫara were grouped as related Ištar-type goddesses.",
+   "source": "Hattusa babilili rituals",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "DINGIR.GE₆",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hattusa Babylonian-style rituals",
+   "note": "DINGIR.GE₆ and Išḫara were grouped as related Ištar-type goddesses.",
+   "source": "Hattusa babilili rituals",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ur III joint offerings",
+   "note": "Dagan and Išḫara received offerings together without being identified as spouses.",
+   "source": "Abī-simtī archive",
+   "date": "c. 2046–2038 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Emar festival association",
+   "note": "Both deities occur together in Emar festival lists.",
+   "source": "Emar festival tablets",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ḫabūrītum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abī-simtī’s parallel offerings",
+   "note": "Both received distinct offerings in the same royal archive.",
+   "source": "Abī-simtī archive",
+   "date": "c. 2046–2038 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Annunītum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šulgi-simti’s joint offerings",
+   "note": "Annunītum and Išḫara received offerings in the same royal cult.",
+   "source": "Šulgi-simti archive",
+   "date": "late twenty-first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ulmašītum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šulgi-simti’s joint offerings",
+   "note": "Ulmašītum and Išḫara received offerings in the same royal cult.",
+   "source": "Šulgi-simti archive",
+   "date": "late twenty-first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Belet-Šuḫnir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šulgi-simti’s joint offerings",
+   "note": "Belet-Šuḫnir and Išḫara received offerings in the same royal cult.",
+   "source": "Šulgi-simti archive",
+   "date": "late twenty-first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Belet-Terraban",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šulgi-simti’s joint offerings",
+   "note": "Belet-Terraban and Išḫara received offerings in the same royal cult.",
+   "source": "Šulgi-simti archive",
+   "date": "late twenty-first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninkarrak",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Assur–Apum treaty oath",
+   "note": "The treaty invokes Išḫara beside Ninkarrak as an oath-enforcing deity.",
+   "source": "Assur–Apum treaty",
+   "date": "mid-eighteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninkarrak",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Emar legal curses",
+   "note": "Emar curse formulas pair them as divine punishers of oath-breaking.",
+   "source": "Emar legal texts",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sîn",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ibal-pi-El’s diplomatic oath",
+   "note": "Išḫara and Sîn jointly witness an Old Babylonian diplomatic oath.",
+   "source": "Ibal-pi-El oath",
+   "date": "Old Babylonian period",
+   "tier": "attested"
+  },
+  {
+   "other": "Tišpak",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ibal-pi-El’s diplomatic oath",
+   "note": "Išḫara and Tišpak jointly witness an Old Babylonian diplomatic oath.",
+   "source": "Ibal-pi-El oath",
+   "date": "Old Babylonian period",
+   "tier": "attested"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ibal-pi-El’s diplomatic oath",
+   "note": "Išḫara and Adad jointly witness an Old Babylonian diplomatic oath.",
+   "source": "Ibal-pi-El oath",
+   "date": "Old Babylonian period",
+   "tier": "attested"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Assur temple association",
+   "note": "Late tākultu tradition connects Išḫara with the temple of Anu and Adad.",
+   "source": "Assyrian tākultu lists",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kušuḫ",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Military-oath enforcement",
+   "note": "Išḫara and Kušuḫ jointly destroy the seed of oath-breakers.",
+   "source": "Hurro-Hittite military oaths",
+   "date": "c. 1300 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Other moon gods",
+   "other_aliases": [
+    "local lunar deities"
+   ],
+   "kind": "shared_myth",
+   "myth": "Regional treaty witness lists",
+   "note": "Several regional oath lists place Išḫara alongside local lunar deities.",
+   "source": "Regional treaty lists",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Damkina",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Šattiwaza treaty witness list",
+   "note": "Išḫara immediately follows Damkina in the treaty’s divine witness list.",
+   "source": "Šattiwaza treaty",
+   "date": "fourteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kumarbi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation opening the Song of Kumarbi",
+   "note": "The singer invokes Išḫara among the gods summoned to hear Kumarbi’s tale.",
+   "source": "Song of Kumarbi",
+   "date": "Late Bronze Age",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ḫišamītum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Shared bird-omen position",
+   "note": "A bird omen names a single divinatory position belonging to both goddesses.",
+   "source": "Old Babylonian bird omen",
+   "date": "Old Babylonian period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisaba",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "God-list equation",
+   "note": "A learned god list equates Išḫara with Nisaba.",
+   "source": "An = Anum",
+   "date": "late second millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Saggar",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Middle Assyrian recension assigns Saggar as Išḫara’s husband.",
+   "source": "An = Anum",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ḫaštamer",
+   "other_aliases": [
+    "Haštamēr"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Middle Assyrian recension assigns Ḫaštamer as Išḫara’s son.",
+   "source": "An = Anum",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tašme-zikru",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "The god list assigns Tašme-zikru as Išḫara’s female vizier or attendant.",
+   "source": "An = Anum",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arsay",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ugaritic sacrificial sequence",
+   "note": "The standard list places Išḫara immediately after Arsay.",
+   "source": "Ugaritic sacrificial list",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ashtart",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ugaritic sacrificial sequence",
+   "note": "The standard list places Išḫara immediately before Ashtart.",
+   "source": "Ugaritic sacrificial list",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ilu-Bêti",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sequential nighttime cow sacrifices",
+   "note": "A cow was offered first to Ilu-Bêti and then to Išḫara.",
+   "source": "RS 1.001",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "dNIN.URTA",
+   "other_aliases": [
+    "Emar’s city god"
+   ],
+   "kind": "shared_myth",
+   "myth": "Emar kissu celebration",
+   "note": "Išḫara and Emar’s city god participated jointly in the kissu celebration.",
+   "source": "Emar kissu texts",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "dNIN.URTA",
+   "other_aliases": [
+    "Emar’s city god"
+   ],
+   "kind": "allied",
+   "myth": "Emar legal curse",
+   "note": "Both deities were invoked together against violators in an Emar legal curse.",
+   "source": "Emar legal text",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shuwala",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dagan’s kissu festival",
+   "note": "Shuwala appears with Išḫara during Dagan’s kissu festival.",
+   "source": "Emar festival tablets",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ugur",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dagan’s kissu festival",
+   "note": "Ugur appears with Išḫara during Dagan’s kissu festival.",
+   "source": "Emar festival tablets",
+   "date": "fourteenth–thirteenth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hadabal",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Darib royal funerary cult",
+   "note": "Hadabal and Išḫara were co-invoked for deceased Eblaite kings.",
+   "source": "Ebla funerary records",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Resheph",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Darib royal funerary cult",
+   "note": "Resheph and Išḫara were co-invoked for deceased Eblaite kings.",
+   "source": "Ebla funerary records",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adamma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Darib royal funerary cult",
+   "note": "Adamma and Išḫara were co-invoked for deceased Eblaite kings.",
+   "source": "Ebla funerary records",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Darib royal funerary cult",
+   "note": "Agu and Išḫara were co-invoked for deceased Eblaite kings.",
+   "source": "Ebla funerary records",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Guladu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Darib royal funerary cult",
+   "note": "Guladu and Išḫara were co-invoked for deceased Eblaite kings.",
+   "source": "Ebla funerary records",
+   "date": "twenty-fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Residence in Ea’s temple",
+   "note": "A late divine address-book locates Išḫara within Ea’s temple.",
+   "source": "Assyrian divine address-book",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Assur temple association",
+   "note": "Late tākultu tradition connects Išḫara with the temple of Anu and Adad.",
+   "source": "Assyrian tākultu lists",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bēlet-īli",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seleucid Uruk temple association",
+   "note": "Išḫara was apparently housed or worshipped in Bēlet-īli’s temple.",
+   "source": "Seleucid Uruk cult records",
+   "date": "Seleucid period",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "subject": "grendel",
+ "relations": [
+  {
+   "other": "Grendel's mother",
+   "other_aliases": [
+    "ides, aglæcwif"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "She is Grendel's unnamed mother and avenges his death.",
+   "source": "Beowulf, lines 1251–1650",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Cain",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Grendel belongs to the condemned monstrous lineage descended from Cain.",
+   "source": "Beowulf, lines 102–114",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "the Lord",
+    "the Creator",
+    "the Almighty",
+    "the eternal Lord"
+   ],
+   "kind": "fought",
+   "myth": "Cain's monstrous descendants struggle against God",
+   "note": "Grendel belongs among adversarial beings said to struggle against God.",
+   "source": "Beowulf, lines 102–114",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "the Lord",
+    "the Creator",
+    "the Almighty",
+    "the eternal Lord"
+   ],
+   "kind": "judged_by",
+   "myth": "Beowulf's divinely decided combat with Grendel",
+   "note": "Divine judgment favors Beowulf and determines Grendel's defeat.",
+   "source": "Beowulf, lines 705–789",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Beowulf",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Beowulf wrestles Grendel in Heorot",
+   "note": "Grendel seizes Beowulf, but the hero overpowers him in unarmed combat.",
+   "source": "Beowulf, lines 702–836",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Beowulf",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Grendel's fatal wounding at Heorot",
+   "note": "Beowulf tears away Grendel's arm, causing his mortal wound.",
+   "source": "Beowulf, lines 702–852",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "Beowulf",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Grendel's corpse is decapitated",
+   "note": "Beowulf finds Grendel's corpse underwater and cuts off its head.",
+   "source": "Beowulf, lines 1492–1650",
+   "date": "manuscript circa 1000",
+   "tier": "attested"
+  },
+  {
+   "other": "dragon",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Grendel visits the philosophizing dragon",
+   "note": "The dragon debates metaphysics with Grendel and becomes his philosophical teacher.",
+   "source": "John Gardner, Grendel",
+   "date": "1971",
+   "tier": "modern"
+  },
+  {
+   "other": "dragon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Zemeckis's invented dynastic cycle",
+   "note": "Grendel and the dragon are maternal half-brothers fathered by Hrothgar and Beowulf.",
+   "source": "Zemeckis's Beowulf",
+   "date": "2007",
+   "tier": "modern"
+  }
+ ]
+}

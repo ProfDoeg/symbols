@@ -1,0 +1,775 @@
+{
+ "subject": "hephaestus",
+ "relations": [
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hera produces Hephaestus without sexual union, in rivalry with Zeus.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Maternal rejection and fall",
+   "note": "Ashamed of his weakness or impairment, Hera throws him into the sea.",
+   "source": "Homeric Hymn to Apollo 305–355",
+   "date": "7th–6th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Quarrel between Hera and Zeus",
+   "note": "Hephaestus intervenes to protect Hera during her conflict with Zeus.",
+   "source": "Iliad 1.568–611",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding throne",
+   "note": "Hephaestus traps Hera in a crafted throne and initially refuses release.",
+   "source": "Archaic vase painting and Plato",
+   "date": "6th–4th centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return to Olympus",
+   "note": "After Dionysus returns him to Olympus, Hephaestus releases Hera.",
+   "source": "François Vase and later accounts",
+   "date": "c. 570 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Battle with Scamander",
+   "note": "At Hera's direction, Hephaestus attacks Scamander with fire.",
+   "source": "Iliad 21.328–382",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later canonical genealogy makes Hephaestus the son of Zeus and Hera.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "punished_by",
+   "myth": "Paternal fall from Olympus",
+   "note": "Zeus hurls Hephaestus from Olympus for aiding Hera.",
+   "source": "Iliad 1.586–594",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Olympian feast",
+   "note": "Hephaestus pours nectar for the gods in Zeus's household.",
+   "source": "Iliad 1.568–611",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Pandora's creation",
+   "note": "Hephaestus obeys Zeus's command to fashion Pandora from earth and water.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Binding Prometheus",
+   "note": "Hephaestus obeys Zeus's authority and binds Prometheus despite his sympathy.",
+   "source": "Prometheus Bound",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Birth of Athena",
+   "note": "Hephaestus splits Zeus's head with an axe so Athena can emerge.",
+   "source": "Pindar, Olympian 7",
+   "date": "5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Divine scepter",
+   "note": "Hephaestus makes the divine scepter originally presented to Zeus.",
+   "source": "Iliad 2.101–108",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cinaethon's Cretan genealogy makes Talos the father of Hephaestus.",
+   "source": "Cinaethon fragment via Pausanias",
+   "date": "Archaic, preserved 2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cres",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Cinaethon's genealogy makes Hephaestus the grandson of Cres through Talos.",
+   "source": "Cinaethon fragment via Pausanias",
+   "date": "Archaic, preserved 2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "created_by",
+   "myth": "",
+   "note": "A lost archaic tradition reportedly described Hephaestus as earthborn.",
+   "source": "Lost Danais",
+   "date": "Archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Charis",
+   "other_aliases": [
+    "a Grace"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Charis is Hephaestus's wife and receives Thetis in their palace.",
+   "source": "Iliad 18.382–392",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aglaea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aglaea, youngest of the Charites, is named as Hephaestus's wife.",
+   "source": "Hesiod, Theogony 945",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aphrodite is Hephaestus's wife in the Odyssey's adultery song.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "punished",
+   "myth": "Adultery net",
+   "note": "Hephaestus traps and publicly exposes Aphrodite after discovering her adultery.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "seduced_by",
+   "myth": "Forging Aeneas's armor",
+   "note": "Venus seduces or persuades Vulcan to forge armor for Aeneas.",
+   "source": "Virgil, Aeneid 8.370–453",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "consort_of",
+   "myth": "Conception of Erichthonius",
+   "note": "Earth receives Hephaestus's semen and conceives Erichthonius.",
+   "source": "Apollodorus 3.14.6",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Pursuit of Athena",
+   "note": "Hephaestus pursues Athena and attempts intercourse, but she resists.",
+   "source": "Euripides, Ion",
+   "date": "c. 413 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Abbreviated genealogies loosely treat Athena as Hephaestus's partner or Erichthonius's mother.",
+   "source": "Classical and later genealogies",
+   "date": "5th century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cabeiro",
+   "other_aliases": [
+    "Kabeiro"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Lemnian and Samothracian genealogy makes Cabeiro Hephaestus's partner.",
+   "source": "Strabo and scholia",
+   "date": "Roman-period preservation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aetna",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A Sicilian genealogy pairs Hephaestus with Aetna as parents of the Palici.",
+   "source": "Later Sicilian genealogy",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hephaestus fathers Erichthonius when his semen impregnates Earth.",
+   "source": "Apollodorus 3.14.6",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cabeiri",
+   "other_aliases": [
+    "Cabiri"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hephaestus fathers or ancestrally generates the Cabeiri through Cabeiro.",
+   "source": "Strabo and scholia",
+   "date": "Roman-period preservation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Palaemonius",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Some sources explain the Argonaut Palaemonius's lameness through descent from Hephaestus.",
+   "source": "Argonautic genealogical tradition",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Periphetes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus calls the club-bearing adversary of Theseus a son of Hephaestus.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ardalus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pausanias calls the Troezenian flute inventor Ardalus a son of Hephaestus.",
+   "source": "Pausanias, Description of Greece",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Olenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus assigns Olenus to Vulcan as his son.",
+   "source": "Hyginus",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eucleia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic genealogy makes Eucleia a daughter of Hephaestus and Aglaea.",
+   "source": "Neoplatonic tradition",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euthenia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic genealogy makes Euthenia a daughter of Hephaestus and Aglaea.",
+   "source": "Neoplatonic tradition",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eupheme",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic genealogy makes Eupheme a daughter of Hephaestus and Aglaea.",
+   "source": "Neoplatonic tradition",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Philophrosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Neoplatonic genealogy makes Philophrosyne a daughter of Hephaestus and Aglaea.",
+   "source": "Neoplatonic tradition",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Palici",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Sicilian variant makes the Palici children of Hephaestus and Aetna.",
+   "source": "Later Sicilian genealogy",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cinaethon's divergent Cretan genealogy makes Rhadamanthys Hephaestus's son.",
+   "source": "Cinaethon fragment via Pausanias",
+   "date": "Archaic, preserved 2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "taught",
+   "myth": "Civilizing gift of crafts",
+   "note": "Hephaestus and Athena jointly teach humanity the crafts enabling settled life.",
+   "source": "Homeric Hymn 20",
+   "date": "Archaic–early classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Joint possession of Attica",
+   "note": "Athena and Hephaestus share Attica because both love craft.",
+   "source": "Plato, Critias 109c–d",
+   "date": "4th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Hephaisteion joint cult",
+   "note": "Their statues and inscriptions attest a shared Athenian civic craft cult.",
+   "source": "Hephaisteion statues and inscriptions",
+   "date": "5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "other",
+   "myth": "Birth of Athena",
+   "note": "Hephaestus assists Athena's armed emergence by splitting Zeus's head.",
+   "source": "Pindar and vase painting",
+   "date": "6th–5th centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation of Pandora",
+   "note": "Hephaestus forms Pandora's body while Athena clothes and trains her.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "punished",
+   "myth": "Adultery net",
+   "note": "Hephaestus traps and exposes Ares after his adultery with Aphrodite.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "fought",
+   "myth": "Failed retrieval of Hephaestus",
+   "note": "Ares tries forcing Hephaestus back to Olympus but is repelled by fire.",
+   "source": "Later mythographic tradition",
+   "date": "Post-archaic",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "served",
+   "myth": "Mars's chariot",
+   "note": "Vulcan and the Cyclopes work upon Mars's chariot in the volcanic forge.",
+   "source": "Virgil, Aeneid 8",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Golden cup of Helios",
+   "note": "Later epic tradition credits Hephaestus with making Helios's ocean-crossing cup.",
+   "source": "Archaic epic fragments",
+   "date": "Archaic, later preserved",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Exposure of Aphrodite's adultery",
+   "note": "Helios discovers the lovers and informs Hephaestus.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Release of the adulterers",
+   "note": "Poseidon guarantees Ares's payment and persuades Hephaestus to release the lovers.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Adultery net spectacle",
+   "note": "Apollo witnesses the trapped lovers and questions Hermes about Hephaestus's bonds.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Hephaestian sanctuary artifacts",
+   "note": "Regional traditions assigned bronze objects made by Hephaestus to Apollo's sanctuaries.",
+   "source": "Pausanias, Description of Greece",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Adultery net spectacle",
+   "note": "Hermes jokes that he would accept Hephaestus's bonds to sleep with Aphrodite.",
+   "source": "Odyssey 8.266–366",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of Pandora",
+   "note": "Hephaestus forms Pandora while Hermes gives her deceitful speech and character.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Return to Olympus",
+   "note": "Dionysus intoxicates or persuades Hephaestus and leads him back on a mule.",
+   "source": "François Vase and later accounts",
+   "date": "c. 570 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue beneath Ocean",
+   "note": "Thetis shelters and fosters Hephaestus for nine years after his fall.",
+   "source": "Iliad 18.394–405",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Forging Achilles' armor",
+   "note": "At Thetis's request, Hephaestus makes armor and a cosmographic shield for Achilles.",
+   "source": "Iliad 18.368–617",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Rescue beneath Ocean",
+   "note": "Eurynome joins Thetis in concealing and fostering Hephaestus beneath Ocean.",
+   "source": "Iliad 18.394–405",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Scamander",
+   "other_aliases": [
+    "Xanthus"
+   ],
+   "kind": "fought",
+   "myth": "Battle with Scamander",
+   "note": "Hephaestus boils the river with fire until Scamander submits.",
+   "source": "Iliad 21.328–382",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Technical arts stolen for humanity",
+   "note": "Prometheus steals technical wisdom associated with Hephaestus and Athena for humanity.",
+   "source": "Plato, Protagoras 320d–322a",
+   "date": "4th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding Prometheus",
+   "note": "Hephaestus reluctantly chains Prometheus to a rock under Zeus's command.",
+   "source": "Prometheus Bound",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Athenian torch cults",
+   "note": "Athenian torch races and monuments place their fire cults in close association.",
+   "source": "Attic inscriptions and Pausanias",
+   "date": "5th century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Athena",
+   "note": "Eileithyia sometimes attends as Hephaestus wields the axe at Athena's birth.",
+   "source": "Archaic vase painting",
+   "date": "6th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visit to the Liparian forge",
+   "note": "The child Artemis visits the Cyclopes working at Hephaestus's anvils.",
+   "source": "Callimachus, Hymn to Artemis",
+   "date": "3rd century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [
+    "Brontes",
+    "Steropes",
+    "Pyracmon"
+   ],
+   "kind": "served_by",
+   "myth": "Volcanic forge",
+   "note": "The Cyclopes labor as Hephaestus's assistants in the western volcanic forge.",
+   "source": "Callimachus and Virgil",
+   "date": "3rd–1st centuries BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mimas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Hephaestus kills the Giant Mimas with molten iron or metal.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "1st–2nd century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Creation of Pandora",
+   "note": "Hephaestus mixes earth and water and gives Pandora a maiden's form and voice.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Golden female attendants",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Automata in Hephaestus's palace",
+   "note": "Hephaestus fashions animated golden attendants possessing speech, knowledge, strength, and motion.",
+   "source": "Iliad 18.417–421",
+   "date": "8th–7th centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Talos",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Bronze guardian",
+   "note": "One variant attributes creation of the bronze guardian Talos to Hephaestus.",
+   "source": "Later mythographic tradition",
+   "date": "Hellenistic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Volcanus",
+    "Mulciber",
+    "Vulcanus Mulciber"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literature conventionally equates Hephaestus with the older Roman fire god Vulcan.",
+   "source": "Varro, Cicero, Virgil, Ovid",
+   "date": "1st century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus calls the Egyptian craftsman god Ptah by the Greek name Hephaestus.",
+   "source": "Herodotus, Histories 2",
+   "date": "430s–420s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sethlans",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan Sethlans is identified iconographically and through Roman interpretation with Hephaestus and Vulcan.",
+   "source": "Etruscan inscriptions and images",
+   "date": "Ancient Italian evidence",
+   "tier": "syncretism"
+  }
+ ]
+}

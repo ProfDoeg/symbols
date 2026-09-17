@@ -1,0 +1,513 @@
+{
+ "subject": "brihaspati",
+ "relations": [
+  {
+   "other": "Aṅgiras",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aṅgiras is Bṛhaspati’s father in the established epic-Purāṇic genealogy.",
+   "source": "Mahābhārata 3.217",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Aṅgirases",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Breaking Vala’s enclosure",
+   "note": "Bṛhaspati leads or acts with the priestly singers to recover cattle and light.",
+   "source": "Ṛgveda 4.50; 6.73; 10.67–68",
+   "date": "c. 1500–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śubhā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One epic genealogy names Śubhā as Bṛhaspati’s mother.",
+   "source": "Mahābhārata 3.217",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śraddhā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogical traditions variously name Śraddhā as Bṛhaspati’s mother.",
+   "source": "Later genealogical texts",
+   "date": "later tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Surūpā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogical traditions variously name Surūpā as Bṛhaspati’s mother.",
+   "source": "Later genealogical texts",
+   "date": "later tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [
+    "devas"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A Vedic verse calls Brahmaṇaspati father of the gods as an exaltatory title.",
+   "source": "Ṛgveda 2.26.3",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [
+    "devas"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Later Vedic ritual identifies Bṛhaspati as priest and chaplain of the gods.",
+   "source": "Śatapatha Brāhmaṇa 5.3.1",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vala",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Breaking Vala’s enclosure",
+   "note": "Bṛhaspati splits Vala’s rock enclosure and takes the imprisoned cattle.",
+   "source": "Ṛgveda 10.67–68",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Vala",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Recovery of Vala’s cattle",
+   "note": "Vala laments the cattle Bṛhaspati removed after breaking the enclosure.",
+   "source": "Ṛgveda 10.68.10–11",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vedic warfare and cattle-winning",
+   "note": "Bṛhaspati and Indra are jointly invoked for warfare, victory, and cattle-winning.",
+   "source": "Ṛgveda and Sāmaveda",
+   "date": "Vedic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Bṛhaspati serves as Indra’s priest, guru, and political counselor.",
+   "source": "Brāhmaṇas; Mahābhārata; Purāṇas",
+   "date": "first millennium BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Bṛhaspati leaves Indra",
+   "note": "After Indra fails to honor him, Bṛhaspati withdraws his priestly protection.",
+   "source": "Bhāgavata Purāṇa 6.7",
+   "date": "ninth–tenth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vedic divine-priest functions",
+   "note": "Bṛhaspati and Agni share priestly, fiery, and mediating functions in Vedic religion.",
+   "source": "Ṛgveda",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Candra"
+   ],
+   "kind": "allied",
+   "myth": "Vedic battle liturgy",
+   "note": "Bṛhaspati and Soma are jointly invoked in Vedic battle liturgy.",
+   "source": "Ṛgveda and Sāmaveda",
+   "date": "Vedic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Candra"
+   ],
+   "kind": "fought",
+   "myth": "Tārakāmaya war",
+   "note": "Bṛhaspati’s party fights Soma’s allies after Soma refuses to return Tārā.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Candra"
+   ],
+   "kind": "contest",
+   "myth": "Disputed paternity of Budha",
+   "note": "Bṛhaspati and Soma both claim Tārā’s newborn until she identifies Soma.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tārā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tārā is Bṛhaspati’s wife in the mature epic-Purāṇic genealogy.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tārā",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Tārā’s restoration",
+   "note": "Bṛhaspati’s side secures Tārā’s return after Soma refuses demands for restitution.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Budha",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Disputed paternity of Budha",
+   "note": "Bṛhaspati claims Tārā’s child, but she declares Soma the biological father.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Tārā and Soma conflict",
+   "note": "Brahmā halts the conflict and compels or facilitates disclosure of Budha’s paternity.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "fourth–fifth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rudra",
+   "other_aliases": [
+    "Śiva"
+   ],
+   "kind": "allied",
+   "myth": "Tārakāmaya war",
+   "note": "Rudra supports Bṛhaspati’s divine faction against Soma in some Purāṇic versions.",
+   "source": "Viṣṇu Purāṇa 4.6",
+   "date": "Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śukra",
+   "other_aliases": [
+    "Uśanas"
+   ],
+   "kind": "contest",
+   "myth": "Rival divine priesthoods",
+   "note": "Bṛhaspati and Śukra oppose one another as priests of devas and asuras.",
+   "source": "Mahābhārata 1.76–78",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śukra",
+   "other_aliases": [
+    "Uśanas"
+   ],
+   "kind": "deceived",
+   "myth": "Impersonation of Śukra",
+   "note": "Bṛhaspati assumes Śukra’s appearance and supplants him while teaching the asuras.",
+   "source": "Devī Bhāgavata 4.13",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kaca",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kaca is Bṛhaspati’s eldest son and an agent of the devas.",
+   "source": "Mahābhārata 1.76–78",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaca",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Mission for resurrection knowledge",
+   "note": "Kaca advances his father’s divine priesthood by infiltrating Śukra’s school.",
+   "source": "Mahābhārata 1.76–78",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mamatā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bṛhaspati and Mamatā",
+   "note": "Bṛhaspati coerces his pregnant sister-in-law despite her explicit protest.",
+   "source": "Mahābhārata 1.104",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utathya",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Utathya is Bṛhaspati’s elder brother and Mamatā’s husband.",
+   "source": "Mahābhārata 1.104",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saṃvarta",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Saṃvarta appears as Bṛhaspati’s brother in epic Aṅgirasa genealogies.",
+   "source": "Epic Aṅgirasa genealogies",
+   "date": "epic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bharadvāja",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Bṛhaspati and Mamatā",
+   "note": "Some epic-Purāṇic variants make Bharadvāja the offspring of Bṛhaspati and Mamatā.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "epic-Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dīrghatamas",
+   "other_aliases": [
+    "the unborn Dīrghatamas"
+   ],
+   "kind": "punished",
+   "myth": "The unborn child’s protest",
+   "note": "Bṛhaspati curses the unborn Dīrghatamas with blindness after he protests the intercourse.",
+   "source": "Mahābhārata 1.104",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indrāṇī",
+   "other_aliases": [
+    "Śacī"
+   ],
+   "kind": "rescued",
+   "myth": "Nahusha’s pursuit of Indrāṇī",
+   "note": "Bṛhaspati shelters and counsels Indrāṇī when Nahusha attempts to obtain her.",
+   "source": "Mahābhārata; Devī Bhāgavata 6.8",
+   "date": "epic-Purāṇic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nahusha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Nahusha’s pursuit of Indrāṇī",
+   "note": "Bṛhaspati resists Nahusha’s claim over Indrāṇī principally through counsel and strategy.",
+   "source": "Mahābhārata; Devī Bhāgavata",
+   "date": "epic-Purāṇic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viśvarūpa",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bṛhaspati leaves Indra",
+   "note": "Viśvarūpa replaces Bṛhaspati as the devas’ priest after Bṛhaspati withdraws.",
+   "source": "Bhāgavata Purāṇa 6.7",
+   "date": "ninth–tenth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bali",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Bali’s priestly empowerment",
+   "note": "Bṛhaspati advises Indra not to attack Bali while brahman priests empower him.",
+   "source": "Bhāgavata Purāṇa 8.15",
+   "date": "ninth–tenth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa"
+   ],
+   "kind": "allied",
+   "myth": "Devas seek divine assistance",
+   "note": "Bṛhaspati joins or advises devas seeking Viṣṇu’s assistance in Purāṇic cycles.",
+   "source": "Purāṇic cycles",
+   "date": "Purāṇic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Later use of RV 2.23",
+   "note": "Later worship applies Brahmaṇaspati’s title gaṇapati to Gaṇeśa without an early narrative encounter.",
+   "source": "Ṛgveda 2.23.1; later liturgy",
+   "date": "medieval–modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Sūrya and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Candra",
+   "other_aliases": [
+    "Soma"
+   ],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Candra and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maṅgala",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Maṅgala and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Budha",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Budha and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śukra",
+   "other_aliases": [
+    "Uśanas"
+   ],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Śukra and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śani",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Śani and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rāhu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Rāhu and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ketu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Navagraha cultic grouping",
+   "note": "Ketu and Bṛhaspati appear together as members of the Navagraha ensemble.",
+   "source": "Navagraha temple art and ritual",
+   "date": "early-medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Guruguha"
+   ],
+   "kind": "shared_myth",
+   "myth": "Bṛhaspate Tārāpate",
+   "note": "Dīkṣitar’s composition praises Skanda alongside, or as approving, Bṛhaspati.",
+   "source": "Bṛhaspate Tārāpate",
+   "date": "1775–1835",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Indian astral tradition identifies Bṛhaspati or Guru with the visible planet Jupiter.",
+   "source": "Classical Jyotiṣa; Navagraha art",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparisons map Bṛhaspati to Zeus through Jupiter, without ancient personal identification.",
+   "source": "Modern comparative occultism",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  },
+  {
+   "other": "Zadkiel",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Western esoteric correspondence systems map Bṛhaspati to Jupiter’s archangel Zadkiel.",
+   "source": "Modern comparative occultism",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "modern"
+  }
+ ]
+}

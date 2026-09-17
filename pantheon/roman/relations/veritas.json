@@ -1,0 +1,191 @@
+{
+ "subject": "veritas",
+ "relations": [
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Prometheus creates Truth and Falsehood",
+   "note": "Prometheus forms Veritas from clay, fires her, and gives her life.",
+   "source": "Phaedrus, Appendix Perottina, Prometheus et Dolus",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dolus",
+   "other_aliases": [
+    "Guile"
+   ],
+   "kind": "deceived_by",
+   "myth": "Dolus counterfeits Veritas",
+   "note": "Dolus secretly copies Veritas but lacks enough clay to give his counterfeit feet.",
+   "source": "Phaedrus, Appendix Perottina, Prometheus et Dolus",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mendacium",
+   "other_aliases": [
+    "Falsehood"
+   ],
+   "kind": "contest",
+   "myth": "Truth and footless Falsehood",
+   "note": "Veritas walks after animation while her counterfeit Mendacium remains immobile.",
+   "source": "Phaedrus, Appendix Perottina, Prometheus et Dolus",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove"
+   ],
+   "kind": "shared_myth",
+   "myth": "Jove summons Prometheus",
+   "note": "Jupiter summons Prometheus away, indirectly enabling Dolus to counterfeit Veritas.",
+   "source": "Phaedrus, Appendix Perottina, Prometheus et Dolus",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Time",
+   "other_aliases": [
+    "Tempus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An unnamed old poet calls Truth the daughter of Time.",
+   "source": "Gellius, Noctes Atticae 12.11.7",
+   "date": "second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Greek Alatheia is invoked as Zeus's daughter, later transferred to Veritas.",
+   "source": "Pindar, Olympian 10.3–4",
+   "date": "476 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Muse",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation for truthful praise",
+   "note": "Pindar jointly invokes the Muse and Alatheia to correct delayed praise.",
+   "source": "Pindar, Olympian 10.3–4",
+   "date": "476 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Repentance",
+   "other_aliases": [
+    "Metanoia"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Calumny of Apelles",
+   "note": "Repentance turns tearfully toward Truth as Truth approaches the allegorical procession.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Calumny",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches behind Calumny's procession as its compositional and moral opposite.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Envy",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches the allegorical scene in opposition to Envy and Calumny's attendants.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Fraud",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches the allegorical scene in opposition to Fraud attending Calumny.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Conspiracy",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches the allegorical scene in opposition to Conspiracy attending Calumny.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ignorance",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches the allegorical scene opposing the deception encouraged by Ignorance.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Suspicion",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Calumny of Apelles",
+   "note": "Truth approaches the allegorical scene opposing the deception encouraged by Suspicion.",
+   "source": "Lucian, On Slander 5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Fides",
+   "other_aliases": [
+    "Faith"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mourning Quintilius",
+   "note": "Faith and naked Truth jointly search for anyone equal to the dead Quintilius.",
+   "source": "Horace, Odes 1.24.6–7",
+   "date": "about 23 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pudor",
+   "other_aliases": [
+    "Modesty"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mourning Quintilius",
+   "note": "Modesty and naked Truth jointly search for anyone equal to the dead Quintilius.",
+   "source": "Horace, Odes 1.24.6–7",
+   "date": "about 23 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later mythographers made Saturn her father by equating him with Time.",
+   "source": "Later learned systematization",
+   "date": "post-classical",
+   "tier": "late_accretion"
+  }
+ ]
+}

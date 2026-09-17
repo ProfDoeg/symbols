@@ -1,0 +1,240 @@
+{
+ "subject": "tonatiuh",
+ "relations": [
+  {
+   "other": "Nanahuatzin",
+   "other_aliases": [
+    "Nanauatzin"
+   ],
+   "kind": "identified_with",
+   "myth": "Creation of the Fifth Sun",
+   "note": "Nanahuatzin enters the divine fire and emerges as the present Sun.",
+   "source": "Florentine Codex Book 7; Leyenda de los Soles",
+   "date": "1558; c. 1575–1577",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tecuciztecatl",
+   "other_aliases": [
+    "Moon"
+   ],
+   "kind": "contest",
+   "myth": "Creation of the Fifth Sun",
+   "note": "He follows Nanahuatzin into the fire but is dimmed into the Moon.",
+   "source": "Florentine Codex Book 7",
+   "date": "c. 1575–1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Ehecatl",
+   "other_aliases": [
+    "Ehecatl-Quetzalcoatl"
+   ],
+   "kind": "served_by",
+   "myth": "The stationary Sun begins moving",
+   "note": "Ehecatl sacrifices the gods and blows forcefully until the Sun moves.",
+   "source": "Florentine Codex Book 7",
+   "date": "c. 1575–1577",
+   "tier": "canonical"
+  },
+  {
+   "other": "Xolotl",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Xolotl flees the gods' sacrifice",
+   "note": "Xolotl evades sacrifice through transformations but is caught, enabling solar order.",
+   "source": "Florentine Codex Book 7",
+   "date": "c. 1575–1577",
+   "tier": "attested"
+  },
+  {
+   "other": "Tlahuizcalpantecuhtli",
+   "other_aliases": [
+    "Morning Star"
+   ],
+   "kind": "fought",
+   "myth": "Morning Star attacks the enthroned Sun",
+   "note": "The Morning Star shoots first and misses; Tonatiuh's answering dart strikes him.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tlahuizcalpantecuhtli",
+   "other_aliases": [
+    "Morning Star"
+   ],
+   "kind": "transformed",
+   "myth": "Morning Star becomes Itztlacoliuhqui",
+   "note": "Tonatiuh's answering attack transforms or disables the wounded Morning Star.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Itztlacoliuhqui",
+   "other_aliases": [
+    "curved-obsidian/cold being"
+   ],
+   "kind": "created",
+   "myth": "Punishment of the Morning Star",
+   "note": "Later systematization identifies the Morning Star wounded by Tonatiuh as Itztlacoliuhqui.",
+   "source": "Leyenda de los Soles tradition",
+   "date": "1558 and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tonacatecuhtli",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Heavenly enthronement of the Sun",
+   "note": "Tonacatecuhtli receives the Sun in heaven with a throne and regalia.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "attested"
+  },
+  {
+   "other": "Tonacacihuatl",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Heavenly enthronement of the Sun",
+   "note": "Tonacacihuatl receives the Sun in heaven with a throne and regalia.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "attested"
+  },
+  {
+   "other": "Itztlotli",
+   "other_aliases": [
+    "obsidian hawk"
+   ],
+   "kind": "served",
+   "myth": "Negotiation with the stationary Sun",
+   "note": "Itztlotli is sent as a messenger to question or negotiate with Tonatiuh.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Titlacahuan",
+   "other_aliases": [
+    "Tezcatlipoca"
+   ],
+   "kind": "shared_myth",
+   "myth": "Council before the gods' mortality",
+   "note": "Titlacahuan joins the divine gathering following the solar confrontation.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Huitzilopochtli",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Council before the gods' mortality",
+   "note": "Huitzilopochtli participates in the divine assembly or slaughter sequence.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Huitzilopochtli",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later imperial ideology gives Huitzilopochtli overlapping solar-warrior functions without establishing complete identity.",
+   "source": "Mexica imperial iconography and ritual",
+   "date": "Late Postclassic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Xochiquetzal",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Council before the gods' mortality",
+   "note": "Xochiquetzal belongs to the divine group assembled when the gods die.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yapalicue",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Council before the gods' mortality",
+   "note": "Yapalicue is named among the goddesses assembled during the gods' mortality.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nochpalliicue",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Council before the gods' mortality",
+   "note": "Nochpalliicue is named among the goddesses assembled during the gods' mortality.",
+   "source": "Leyenda de los Soles",
+   "date": "22 May 1558",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [
+    "the unnamed gods collectively"
+   ],
+   "kind": "gift",
+   "myth": "Gods sacrifice themselves for solar motion",
+   "note": "The gods choose death to revive the stationary Sun and sustain humanity.",
+   "source": "Florentine Codex Book 7",
+   "date": "c. 1575–1577",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cihuateteo",
+   "other_aliases": [
+    "women dead in first childbirth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Western procession of the Sun",
+   "note": "The Cihuateteo accompany or receive the Sun during its western course.",
+   "source": "Sahaguntine sources",
+   "date": "sixteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Tlaltecuhtli",
+   "other_aliases": [
+    "Earth Lord"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern iconographic analysis proposes a Tonatiuh-Tlaltecuhtli fusion in the Sun Stone.",
+   "source": "Sun Stone iconographic analysis",
+   "date": "1974 onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Yohualtecuhtli",
+   "other_aliases": [
+    "Lord of Night",
+    "nocturnal Sun"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship proposes Yohualtecuhtli as Tonatiuh's nocturnal or underworld aspect.",
+   "source": "Sun Stone iconographic analysis",
+   "date": "modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Quetzalcoatl",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Watching for the newborn Sun",
+   "note": "Quetzalcoatl and several gods look east before Nanahuatzin rises as the Sun.",
+   "source": "Florentine Codex Book 7",
+   "date": "c. 1575–1577",
+   "tier": "attested"
+  }
+ ]
+}

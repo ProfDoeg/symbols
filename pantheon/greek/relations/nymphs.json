@@ -1,0 +1,650 @@
+{
+ "subject": "nymphs",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mountain and pastoral nymphs are called daughters of Zeus.",
+   "source": "Odyssey 9.154–155",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Zeus's unions with Aegina and Callisto",
+   "note": "Zeus fathers descendants with nymphs including Aegina and Callisto.",
+   "source": "Pindar, Apollodorus, Ovid",
+   "date": "fifth century BCE–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nymphs rear the hidden infant Zeus",
+   "note": "Different local companies of nymphs rear Zeus in infancy.",
+   "source": "Local nursing traditions",
+   "date": "various ancient periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "Birth of the Meliae",
+   "note": "Gaia bears the Meliae after receiving Uranus's blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of the Meliae",
+   "note": "The Meliae arise from Uranus's blood falling upon Gaia.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [
+    "Ocean"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Oceanus and Tethys are parents of the three thousand Oceanids.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tethys and Oceanus are parents of the three thousand Oceanids.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nereus and Doris are parents of the fifty Nereids.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Doris and Nereus are parents of the fifty Nereids.",
+   "source": "Hesiod, Theogony 240–264",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "River gods",
+   "other_aliases": [
+    "Asopus",
+    "Peneus",
+    "Cephisus",
+    "Ladon"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Numerous Naiads are daughters of named river gods.",
+   "source": "Greek genealogical traditions",
+   "date": "archaic through Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "River gods",
+   "other_aliases": [
+    "Cephisus",
+    "Acheloos"
+   ],
+   "kind": "allied",
+   "myth": "Joint river and nymph cult",
+   "note": "Dedications and reliefs associate nymphs with Cephisus, Acheloos, and local rivers.",
+   "source": "Dedications and cave reliefs",
+   "date": "Classical period onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Atlas fathers the Pleiades, Hyades, and, in some versions, Hesperides.",
+   "source": "Greek mythographic traditions",
+   "date": "various ancient periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hesiod makes the Hesperides children of Night.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One variant makes Zeus and Themis parents of the Hesperides.",
+   "source": "Later Hesperides genealogies",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One variant makes Phorcys and Ceto parents of the Hesperides.",
+   "source": "Later Hesperides genealogies",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceto",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One variant makes Ceto and Phorcys parents of the Hesperides.",
+   "source": "Later Hesperides genealogies",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hesperus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hesperus appears among the alternative parents of the Hesperides.",
+   "source": "Later Hesperides genealogies",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Poseidon's pursuit and union with Amymone",
+   "note": "Poseidon pursues or unites with nymphs including Amymone.",
+   "source": "Pindar, Apollodorus, Pausanias",
+   "date": "fifth century BCE–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Treasure hidden in the Naiads' cave",
+   "note": "Athena uses the Naiads' cave to conceal Odysseus's Phaeacian treasure.",
+   "source": "Odyssey 13.349–371",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Artemis leads the mountain nymphs",
+   "note": "Artemis hunts and dances among choruses of mountain nymphs.",
+   "source": "Odyssey 6.102–109",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Callisto's pregnancy and expulsion",
+   "note": "Some versions assign Callisto's expulsion or transformation to Artemis.",
+   "source": "Callimachus, Apollodorus, Ovid",
+   "date": "Hellenistic through Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Apollo pursues and loves local nymphs",
+   "note": "Apollo pursues or unites with Daphne, Cyrene, Corycia, Castalia, and others.",
+   "source": "Pindar, Pausanias, Parthenius, Ovid",
+   "date": "fifth century BCE–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Shared cave cult at Vari",
+   "note": "Apollo receives cave cult beside the nymphs and Pan.",
+   "source": "Vari inscriptions and niches",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hermes leads the nymphs' dance",
+   "note": "Attic reliefs regularly depict Hermes leading three dancing nymphs.",
+   "source": "Attic cave reliefs",
+   "date": "fourth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of Pan",
+   "note": "Hermes unites with an unnamed daughter of Dryops, who bears Pan.",
+   "source": "Homeric Hymn to Pan 27–41",
+   "date": "fifth century BCE or later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Finite-lived tree nymphs",
+   "note": "Tree-associated mountain nymphs mate with Hermes and Sileni.",
+   "source": "Homeric Hymn to Aphrodite 256–273",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Pan dances beside the spring",
+   "note": "Pan pipes, roams, and dances with mountain nymphs beside springs.",
+   "source": "Homeric Hymn to Pan",
+   "date": "fifth century BCE or later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nymphs rear Pan",
+   "note": "Nymphs rear Pan in one of the differing divine-nurse traditions.",
+   "source": "Ancient nursing traditions",
+   "date": "various ancient periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pan's pursuit of Syrinx",
+   "note": "The nymph Syrinx flees Pan and becomes reeds used for his pipes.",
+   "source": "Ovid, Metamorphoses 1.689–712",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pan's pursuit of Echo",
+   "note": "Later traditions make the nymph Echo an object of Pan's desire.",
+   "source": "Longus and later mythography",
+   "date": "Roman period and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pan's pursuit of Pitys",
+   "note": "Late traditions make Pitys flee Pan and become a pine.",
+   "source": "Later Greek and Roman mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nymphs nurse the infant Dionysus",
+   "note": "Nymphs receive and nurse Dionysus, then accompany him.",
+   "source": "Homeric Hymn 26",
+   "date": "archaic or Classical period",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysiac processions",
+   "note": "Nymphs accompany Dionysus alongside satyrs, Silens, and maenads.",
+   "source": "Hellenistic and Roman art",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satyrs",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysiac processions",
+   "note": "Nymphs and satyrs jointly accompany Dionysus in processions.",
+   "source": "Hellenistic and Roman art",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silens",
+   "other_aliases": [
+    "Sileni"
+   ],
+   "kind": "allied",
+   "myth": "Dionysiac processions",
+   "note": "Nymphs and Silens jointly accompany Dionysus in processions.",
+   "source": "Hellenistic and Roman art",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sileni",
+   "other_aliases": [
+    "Silens"
+   ],
+   "kind": "consort_of",
+   "myth": "Finite-lived tree nymphs",
+   "note": "Tree-associated mountain nymphs mate with Sileni and Hermes.",
+   "source": "Homeric Hymn to Aphrodite 256–273",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Maenads",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysiac processions",
+   "note": "Nymphs and maenads jointly accompany Dionysus in processions.",
+   "source": "Hellenistic and Roman art",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aphrodite explains tree nymph lifespans",
+   "note": "Aphrodite describes tree nymphs while deceiving Anchises about Aeneas.",
+   "source": "Homeric Hymn to Aphrodite 256–275",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Aphrodite's nymph attendants",
+   "note": "Local and marine nymphs attend Aphrodite in later poetry and art.",
+   "source": "Later poetry and art",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Flower gathering before Persephone's abduction",
+   "note": "Oceanids and other maidens accompany Persephone before Hades seizes her.",
+   "source": "Homeric Hymn to Demeter 5–33",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Cyane opposes Persephone's abduction",
+   "note": "The Sicilian nymph Cyane confronts Hades and dissolves into her pool.",
+   "source": "Ovid, Metamorphoses 5.409–437",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Inquiry after Persephone's abduction",
+   "note": "Demeter learns which Oceanids accompanied Persephone before the abduction.",
+   "source": "Homeric Hymn to Demeter 417–433",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The nymphs Phaethusa and Lampetie are daughters of Helios and Neaera.",
+   "source": "Odyssey 12.127–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Guarding the cattle of Helios",
+   "note": "Phaethusa and Lampetie tend their father Helios's sacred herds.",
+   "source": "Odyssey 12.127–136, 374–375",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neaera",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The nymphs Phaethusa and Lampetie are daughters of Neaera and Helios.",
+   "source": "Odyssey 12.127–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera deprives Echo of independent speech",
+   "note": "Hera punishes Echo for distracting her during Zeus's affairs.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Hera persecutes Zeus's nymph lovers",
+   "note": "Several traditions make Hera attack nymphs loved by Zeus.",
+   "source": "Greek and Roman mythic variants",
+   "date": "various ancient periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acheloos",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attic cave reliefs",
+   "note": "Acheloos's horned or bearded head accompanies nymphs in cave reliefs.",
+   "source": "Attic cave reliefs",
+   "date": "fourth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces",
+    "Charis"
+   ],
+   "kind": "allied",
+   "myth": "Joint cave cult at Vari",
+   "note": "Charites and nymphs share dance, fertility, inscriptions, and cave cult.",
+   "source": "Vari cave inscriptions",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Childbirth cult on the Xenokrateia relief",
+   "note": "Eileithyia appears near nymphs, rivers, and child-nurturing figures.",
+   "source": "Xenokrateia relief",
+   "date": "late fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Nereids console Thetis",
+   "note": "The Nereids rise from the sea to console Thetis and mourn Achilles.",
+   "source": "Iliad 18.35–69; 24.83–87",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nereids mourn Achilles",
+   "note": "The Nereids join Thetis in mourning Achilles.",
+   "source": "Iliad 18.35–69; 24.83–87",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Sheltering Hephaestus after his fall",
+   "note": "Thetis and Eurynome shelter Hephaestus after his fall.",
+   "source": "Iliad 18.394–405",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Heracles obtains the golden apples",
+   "note": "Heracles takes the apples guarded by the Hesperides, directly or through Atlas.",
+   "source": "Pherecydes, Apollonius, Apollodorus",
+   "date": "Classical through Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Death of Eurydice",
+   "note": "The nymph Eurydice's death and loss prompt her husband Orpheus's katabasis.",
+   "source": "Virgil and Ovid",
+   "date": "first century BCE–c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Mountain nymphs rear Aeneas",
+   "note": "Aphrodite says mountain nymphs will rear her son Aeneas.",
+   "source": "Homeric Hymn to Aphrodite",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nymphs rear Aristaeus",
+   "note": "Nymphs rear Aristaeus in regional divine-nurse traditions.",
+   "source": "Ancient nursing traditions",
+   "date": "various ancient periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alpheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Alpheus pursues Arethusa",
+   "note": "The nymph Arethusa becomes or travels as a spring while fleeing Alpheus.",
+   "source": "Hellenistic and Roman traditions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Lotis flees Priapus",
+   "note": "The nymph Lotis becomes a lotus after fleeing Priapus.",
+   "source": "Ovidian transformation tradition",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Narcissus",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Echo's rejected love for Narcissus",
+   "note": "Echo desires Narcissus, who rejects her, and she wastes away.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lymphae",
+   "other_aliases": [
+    "Lympha"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman freshwater powers became linguistically and conceptually associated with Greek nymphs.",
+   "source": "Varro and later antiquarians",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Undines",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Early-modern occult systems associated water elementals called undines with nymphs.",
+   "source": "Paracelsian occult tradition",
+   "date": "sixteenth century onward",
+   "tier": "modern"
+  }
+ ]
+}

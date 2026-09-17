@@ -1,0 +1,583 @@
+{
+ "subject": "sol_invictus",
+ "relations": [
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek Helios supplied Sol's literary identity, genealogy, chariot myths, and visual form.",
+   "source": "Greco-Roman literary and artistic tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sol, as Roman Helios, is commonly the son of the Titan Hyperion.",
+   "source": "Greek canonical tradition received in Rome",
+   "date": "Greco-Roman antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sol, as Roman Helios, is commonly the son of Theia.",
+   "source": "Greek canonical tradition received in Rome",
+   "date": "Greco-Roman antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [
+    "Selene"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sol and Luna inherit the Greek genealogy of Helios and Selene.",
+   "source": "Greek canonical tradition received in Rome",
+   "date": "Greco-Roman antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [
+    "Selene"
+   ],
+   "kind": "shared_myth",
+   "myth": "Paired Circus cult and celestial chariots",
+   "note": "Sol and Luna shared a Circus shrine and festival; their vehicles were quadriga and biga.",
+   "source": "Fasti; Tacitus; Tertullian, De spectaculis",
+   "date": "first–second centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aurora",
+   "other_aliases": [
+    "Eos"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Sol and Aurora inherit the Greek genealogy of Helios and Eos.",
+   "source": "Greek canonical tradition received in Rome",
+   "date": "Greco-Roman antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aurora",
+   "other_aliases": [
+    "Eos"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aurora summons the sun's daily course",
+   "note": "Aurora precedes and summons Sol's daily journey across the sky.",
+   "source": "Virgilian and Ovidian poetic convention",
+   "date": "first century BCE–first CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Aether"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One of Cicero's five learned Suns is offspring of Jupiter, identified here with Aether.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Mulciber"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Ciceronian learned genealogy makes a Sun the offspring of Vulcan.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nile",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Cicero's Vulcan-born Sun belongs to a genealogy in which Vulcan descends from Nile.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Acantho",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One of Cicero's five learned Suns has the Rhodian Acantho as mother.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "45 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sol is Phaethon's father through Clymene.",
+   "source": "Ovid, Metamorphoses 1–2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Phaethon drives the solar chariot",
+   "note": "Bound by his oath, Sol reluctantly lets Phaethon drive his chariot for one day.",
+   "source": "Ovid, Metamorphoses 1–2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Jupiter kills Phaethon",
+   "note": "Jupiter kills Sol's son to halt the conflagration; Sol mourns and withdraws his light.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Heliades",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Heliades, including Phaethusa and Lampetia, are daughters of Sol.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Heliades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heliades mourn Phaethon",
+   "note": "Sol's daughters mourn their brother Phaethon and are transformed into poplars.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Circe is a daughter of Sol in Greek and Roman tradition.",
+   "source": "Virgil, Aeneid 7; Cicero, De natura deorum 3",
+   "date": "45–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeëtes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Colchian Sol is father of Aeëtes.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pasiphaë",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pasiphaë is regularly named as a daughter of Sol.",
+   "source": "Cicero, De natura deorum 3.48",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Virgil gives Latinus solar ancestry through Sol's daughter Circe.",
+   "source": "Virgil, Aeneid 7",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Mulciber"
+   ],
+   "kind": "served_by",
+   "myth": "Decoration of Sol's palace",
+   "note": "Vulcan fashions the cosmic decoration adorning Sol's jeweled palace.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Adultery of Mars and Venus",
+   "note": "Sol witnesses Mars committing adultery with Venus and reveals the concealed affair.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Adultery of Mars and Venus",
+   "note": "Sol witnesses Venus committing adultery with Mars and reveals the concealed affair.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Mulciber"
+   ],
+   "kind": "allied",
+   "myth": "Sol exposes Venus's adultery",
+   "note": "Sol informs Vulcan of Venus's affair, enabling Vulcan to trap the lovers.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Venus retaliates against Sol",
+   "note": "Venus retaliates for Sol's disclosure by making him desire Leucothoe.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leucothoe",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Sol enters Leucothoe's chamber disguised",
+   "note": "Desiring Leucothoe, Sol assumes her mother's appearance, enters her chamber, and reveals his radiance.",
+   "source": "Ovid, Metamorphoses 4.169–270",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leucothoe",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Leucothoe becomes frankincense",
+   "note": "Unable to revive the buried Leucothoe, Sol transforms her body into frankincense.",
+   "source": "Ovid, Metamorphoses 4.169–270",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clytie",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Clytie's unrequited devotion",
+   "note": "Sol abandons the jealous Clytie, who wastes away watching him and becomes a heliotropic flower.",
+   "source": "Ovid, Metamorphoses 4.169–270",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philosophers and poets identify Apollo with Sol, although their cult institutions remain distinct.",
+   "source": "Cicero, De natura deorum 2.68; Macrobius 1.17",
+   "date": "45 BCE–early fifth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Janus as a manifestation of solar power.",
+   "source": "Macrobius, Saturnalia 1.9, 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Adonis as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Attis as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Osiris as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Liber as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Hercules as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Asclepius as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Mercury as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Mars as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius interprets Saturn as the sun or a solar power.",
+   "source": "Macrobius, Saturnalia 1.17–23",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Elagabal",
+   "other_aliases": [
+    "Deus Sol Invictus Elagabalus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Emesene god was officially styled Deus Sol Invictus Elagabalus under the emperor Elagabalus.",
+   "source": "CIL VI 708; coins; Dio; Herodian",
+   "date": "218–222 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Urania",
+   "other_aliases": [
+    "Caelestis"
+   ],
+   "kind": "consort_of",
+   "myth": "Elagabal's arranged divine marriage",
+   "note": "The emperor arranged a divine marriage between Sol Elagabal and the Carthaginian Urania-Caelestis.",
+   "source": "Herodian 5.6; Cassius Dio 80.12",
+   "date": "218–222 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sacred objects moved to the Elagabalium",
+   "note": "Vesta's sacred objects were reportedly transferred to Sol Elagabal's temple to subordinate Roman cults.",
+   "source": "Historia Augusta, Elagabalus 3.4",
+   "date": "late fourth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Magna Mater",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sacred objects moved to the Elagabalium",
+   "note": "Magna Mater's sacred objects were reportedly transferred to Sol Elagabal's temple to subordinate Roman cults.",
+   "source": "Historia Augusta, Elagabalus 3.4",
+   "date": "late fourth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Palladium moved to the Elagabalium",
+   "note": "Minerva's Palladium was reportedly transferred to Sol Elagabal's temple to subordinate Roman cults.",
+   "source": "Historia Augusta, Elagabalus 3.4",
+   "date": "late fourth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bel",
+   "other_aliases": [
+    "Belos"
+   ],
+   "kind": "shared_myth",
+   "myth": "Images housed in Aurelian's solar temple",
+   "note": "According to Zosimus, images of Bel and Helios stood together in Aurelian's Temple of Sol.",
+   "source": "Zosimus 1.61",
+   "date": "late fifth–early sixth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Malakbel",
+   "other_aliases": [
+    "Malachbel"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Palmyrene and Roman inscriptions style Malakbel as Sol Invictus Malachbel.",
+   "source": "CIL VI 31036",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman evidence presents the Egyptian god as Sol Invictus Serapis.",
+   "source": "CIL VI 579 and related iconography",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [
+    "Deus Sol Invictus Mithras"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mithras bears Sol's Invictus identity while Mithraic art can still depict both gods separately.",
+   "source": "Mithraic inscriptions and relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sol watches Mithras slay the bull",
+   "note": "Sol appears separately in an upper corner while Mithras performs the bull-slaying.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Sol submits to Mithras",
+   "note": "Some Mithraic reliefs show Sol kneeling before or submitting to Mithras.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Mithras and Sol clasp hands",
+   "note": "The two gods seal their association by clasping right hands.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Banquet on the bull's hide",
+   "note": "Sol and Mithras feast together on the hide of the slain bull.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Solar authority exchanged with Mithras",
+   "note": "Mithraic scenes portray Sol and Mithras exchanging or sharing authority.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mithras",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ascent in Sol's chariot",
+   "note": "Sol and Mithras ascend together in Sol's solar chariot.",
+   "source": "Mithraic relief cycles",
+   "date": "second–fourth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Christian appropriation of solar imagery",
+   "note": "Christian writers apply solar language to Christ but provide no cultic equation with Sol Invictus.",
+   "source": "Christian homilies; Chronography of 354; Leo I",
+   "date": "fourth–fifth centuries CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

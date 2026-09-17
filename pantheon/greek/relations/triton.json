@@ -1,0 +1,251 @@
+{
+ "subject": "triton",
+ "relations": [
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune",
+    "Earth-shaker"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Triton is the son of Poseidon and Amphitrite.",
+   "source": "Hesiod, Theogony 930–933",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Triton is Amphitrite’s son and shares his parents’ golden sea-house.",
+   "source": "Hesiod, Theogony 930–933",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune",
+    "Earth-shaker"
+   ],
+   "kind": "gift",
+   "myth": "Triton guides the Argonauts from Lake Tritonis",
+   "note": "Poseidon grants Triton knowledge of the sea and rule over the shore.",
+   "source": "Apollonius, Argonautica 4.1558–1561",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune",
+    "Earth-shaker"
+   ],
+   "kind": "served",
+   "myth": "Recall of the floodwaters",
+   "note": "At Neptune’s command, Triton sounds his conch and recalls the floodwaters.",
+   "source": "Ovid, Metamorphoses 1.324–342",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The Argonauts dedicate Apollo’s tripod",
+   "note": "Triton receives Apollo’s consecrated tripod from the Argonauts.",
+   "source": "Apollonius, Argonautica 4.1547–1553",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Eurypylus gives Euphemus Libyan earth",
+   "note": "Zeus ratifies Triton’s gift of Libyan earth by thundering approval.",
+   "source": "Pindar, Pythian 4.22–25",
+   "date": "462 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Triton raises Athena as his foster-child alongside his daughter Pallas.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pallas is Triton’s daughter and Athena’s martial companion.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Athena accidentally kills Pallas",
+   "note": "Zeus frightens Triton’s daughter Pallas with the aegis during her combat with Athena.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Triteia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A local Achaean genealogy makes Triteia Triton’s daughter.",
+   "source": "Pausanias, Description of Greece 7.22.8",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melanippus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Triton is Melanippus’s maternal grandfather through Triteia.",
+   "source": "Pausanias, Description of Greece 7.22.8",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Ares fathers Melanippus with Triton’s daughter Triteia, creating an affine relationship.",
+   "source": "Pausanias, Description of Greece 7.22.8",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Heracles wrestles Triton",
+   "note": "Heracles grapples with fish-tailed Triton; surviving images provide no cause or outcome.",
+   "source": "Archaic Attic images",
+   "date": "ca. 570–500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles wrestles Triton",
+   "note": "Nereus appears as an observer in some Attic images of the contest.",
+   "source": "Archaic Attic vase paintings",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles wrestles Triton",
+   "note": "Athena appears as spectator or in associated registers in some vase compositions.",
+   "source": "Archaic Attic vase paintings",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Tanagra’s Triton attacks women",
+   "note": "Dionysus fights and defeats Triton after it attacks women preparing for his rites.",
+   "source": "Pausanias, Description of Greece 9.20.4",
+   "date": "ca. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Euphemus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Eurypylus gives Euphemus Libyan earth",
+   "note": "Disguised as Eurypylus, Triton gives Euphemus earth securing his descendants’ Libyan claim.",
+   "source": "Pindar, Pythian 4",
+   "date": "462 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Argonauts",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "The Argonauts escape Lake Tritonis",
+   "note": "Triton reveals the outlet and physically guides the Argo from the lake.",
+   "source": "Apollonius, Argonautica 4.1537–1637",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Misenus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Misenus challenges the gods",
+   "note": "Jealous of Misenus’s shell-playing challenge, Triton seizes and drowns him.",
+   "source": "Virgil, Aeneid 6.162–174",
+   "date": "ca. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Europa’s marine procession",
+   "note": "A pair of generic Tritons bears Aphrodite on a shell.",
+   "source": "Lucian, Dialogues of the Sea-Gods",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marine processions of Tritons and Nereids",
+   "note": "Nereids ride, accompany, and converse with plural Tritons in poetry and art.",
+   "source": "Orphic Hymn 24",
+   "date": "Imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune",
+    "Earth-shaker"
+   ],
+   "kind": "served",
+   "myth": "Poseidon’s marine procession",
+   "note": "Companies of generic Tritons accompany Poseidon’s marine procession.",
+   "source": "Lucian and Roman marine art",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amphitrite",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Amphitrite’s marine procession",
+   "note": "Companies of generic Tritons accompany Amphitrite’s marine procession.",
+   "source": "Lucian and Roman marine art",
+   "date": "Roman period",
+   "tier": "canonical"
+  }
+ ]
+}

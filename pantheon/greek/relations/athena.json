@@ -1,0 +1,644 @@
+{
+ "subject": "athena",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth from Zeus’s head",
+   "note": "Zeus swallows pregnant Metis and later gives birth to Athena.",
+   "source": "Hesiod, Theogony 886–929",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Attempted binding of Zeus",
+   "note": "Athena joins Hera and Poseidon in a briefly mentioned attempt to bind Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Athena petitions for Odysseus",
+   "note": "Athena petitions Zeus and acts as his favored agent in aiding Odysseus.",
+   "source": "Homer, Odyssey 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Bearing Zeus’s aegis",
+   "note": "Athena receives and carries the aegis belonging to Zeus.",
+   "source": "Homer, Iliad",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Metis swallowed before Athena’s birth",
+   "note": "Metis conceives Athena before Zeus swallows her.",
+   "source": "Hesiod, Theogony 886–900",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Olympian intervention at Troy",
+   "note": "Hera and Athena support the Achaeans and act together against Troy.",
+   "source": "Homer, Iliad 5, 8, 14, 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Attempted binding of Zeus",
+   "note": "Athena and Hera participate with Poseidon in an attempt to bind Zeus.",
+   "source": "Homer, Iliad 1.396–406",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Athena and Hera compete with Aphrodite for the golden apple.",
+   "source": "Epic Cycle and later mythography",
+   "date": "archaic and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Contest for Attica",
+   "note": "Athena’s olive defeats Poseidon’s salt spring or horse for possession of Attica.",
+   "source": "Pausanias 1.24–27; later mythography",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Destruction of the Greek fleet",
+   "note": "Athena and Poseidon jointly plan punishment of the Greeks returning from Troy.",
+   "source": "Euripides, Trojan Women 48–97",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dispute over Odysseus",
+   "note": "Athena’s protection of Odysseus conflicts with Poseidon’s hostility toward him.",
+   "source": "Homer, Odyssey",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Libyan tradition calls Athena Poseidon’s daughter by Lake Tritonis.",
+   "source": "Herodotus, Histories 4.180",
+   "date": "c. 440s–420s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lake Tritonis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Auseans call Athena the daughter of Poseidon and personified Lake Tritonis.",
+   "source": "Herodotus, Histories 4.180",
+   "date": "c. 440s–420s BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth from Zeus’s head",
+   "note": "Hephaestus splits Zeus’s head with a bronze axe, releasing Athena.",
+   "source": "Pindar, Olympian 7.33–53",
+   "date": "464 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conception of Erichthonius",
+   "note": "Athena repels Hephaestus’s sexual pursuit; his fallen semen impregnates Gaia.",
+   "source": "Pseudo-Apollodorus 3.14.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Birth and fostering of Erichthonius",
+   "note": "Gaia bears Erichthonius from Hephaestus’s seed, and Athena becomes his guardian.",
+   "source": "Pseudo-Apollodorus 3.14.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Diomedes wounds Ares",
+   "note": "Athena assists Diomedes in attacking and wounding Ares.",
+   "source": "Homer, Iliad 5.825–863",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of the gods",
+   "note": "Athena strikes Ares down with a stone during the divine battle.",
+   "source": "Homer, Iliad 21.391–414",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battlefield opposition at Troy",
+   "note": "Athena opposes Aphrodite’s Trojan alignment and enables Diomedes to wound her.",
+   "source": "Homer, Iliad 5, 21",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Athena competes against Aphrodite and Hera for the golden apple.",
+   "source": "Epic Cycle and later mythography",
+   "date": "archaic and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Trial of Orestes",
+   "note": "Athena presides over the case in which Apollo defends Orestes.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Settlement of Ion’s identity",
+   "note": "Athena appears to convey Apollo’s settlement and confirm his paternity of Ion.",
+   "source": "Euripides, Ion",
+   "date": "c. 410s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Equipping Perseus",
+   "note": "Athena and Hermes collaborate in preparing Perseus to confront Medusa.",
+   "source": "Pseudo-Apollodorus 2.4.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of Pandora",
+   "note": "Athena and Hermes contribute different qualities to the newly fashioned Pandora.",
+   "source": "Hesiod, Works and Days 60–82",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [
+    "Victory"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The distinct goddess Nike becomes Athena’s cult title, though their assimilation remains debated.",
+   "source": "Athena Nike cult and Parthenos",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Athena’s childhood with Pallas",
+   "note": "Triton raises Athena alongside his daughter Pallas.",
+   "source": "Pseudo-Apollodorus 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pallas, daughter of Triton",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "killed",
+   "myth": "Death of Pallas",
+   "note": "Athena accidentally kills her childhood companion during martial exercise.",
+   "source": "Pseudo-Apollodorus 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pallas, daughter of Triton",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "other",
+   "myth": "Creation of the Palladium",
+   "note": "Athena commemorates the dead Pallas by creating the Palladium.",
+   "source": "Pseudo-Apollodorus 3.12.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Athena’s cosmic birth",
+   "note": "Helios halts his horses when Athena springs armed from Zeus’s head.",
+   "source": "Homeric Hymn 28",
+   "date": "seventh–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Erinyes",
+   "other_aliases": [
+    "Eumenides"
+   ],
+   "kind": "judged",
+   "myth": "Trial of Orestes",
+   "note": "Athena adjudicates the Erinyes’ prosecution of Orestes and breaks the tied vote.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Erinyes",
+   "other_aliases": [
+    "Eumenides"
+   ],
+   "kind": "allied",
+   "myth": "Settlement of the Erinyes",
+   "note": "Athena prevents their curse and persuades them to accept honored Athenian residence.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Moirai",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Settlement of the Erinyes",
+   "note": "The Moirai are invoked during Athena’s civic settlement with the Erinyes.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Athena and Hera help Thetis at her wedding in later traditions.",
+   "source": "Cyclic tradition and later sources",
+   "date": "archaic and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth from Zeus’s head",
+   "note": "Some later visual versions place Eileithyia at Athena’s head-birth.",
+   "source": "Later visual tradition",
+   "date": "classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth from Zeus’s head",
+   "note": "One variant assigns Prometheus the opening of Zeus’s head.",
+   "source": "Later witnesses",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Labors and battles of Heracles",
+   "note": "Athena protects Heracles, assisting him with counsel, instruments, and combat.",
+   "source": "Shield of Heracles; later accounts",
+   "date": "sixth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Heracles enters Olympus",
+   "note": "Athena introduces or accompanies the apotheosized Heracles among the Olympian gods.",
+   "source": "Archaic visual tradition",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greeks identify Athena with the Egyptian goddess Neith, especially at Sais.",
+   "source": "Herodotus; Plato, Timaeus 21e",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Menrva",
+    "Menerva"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman and Etruscan Minerva becomes progressively assimilated to Athena while retaining distinct traditions.",
+   "source": "Etruscan and Roman reception",
+   "date": "Roman Republic and Empire",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Athena fosters Erichthonius",
+   "note": "Athena guards Gaia’s child Erichthonius and hides him in a chest.",
+   "source": "Pseudo-Apollodorus 3.14.6",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Killing of Medusa",
+   "note": "Athena guides Perseus and helps him use a reflection against Medusa.",
+   "source": "Pindar; Pseudo-Apollodorus 2.4",
+   "date": "498 BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Gift of Medusa’s head",
+   "note": "Perseus gives Athena Medusa’s severed head for her aegis or shield.",
+   "source": "Later Greek mythography",
+   "date": "classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Killing of Medusa",
+   "note": "Athena helps Perseus defeat Medusa by guiding his attack.",
+   "source": "Pseudo-Apollodorus 2.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation of Medusa’s hair",
+   "note": "Minerva changes Medusa’s hair into snakes after Neptune violates her sanctuary.",
+   "source": "Ovid, Metamorphoses 4",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pallas, the giant",
+   "other_aliases": [
+    "Pallas"
+   ],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Athena kills and flays the giant Pallas, then uses his skin.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enceladus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Athena crushes the giant Enceladus beneath Sicily.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Return to Ithaca",
+   "note": "Athena plans, disguises, protects, and directs Odysseus throughout his return.",
+   "source": "Homer, Odyssey",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Theft of the Palladium",
+   "note": "Athena’s safeguard is stolen from Troy by Odysseus and Diomedes.",
+   "source": "Cyclic and later traditions",
+   "date": "archaic and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Telemachus’s journey",
+   "note": "Athena mentors Telemachus in mortal disguises and prompts his search for news.",
+   "source": "Homer, Odyssey",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Quarrel with Agamemnon",
+   "note": "Athena restrains Achilles from attacking Agamemnon.",
+   "source": "Homer, Iliad 1",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Diomedes’ aristeia",
+   "note": "Athena assists Diomedes against Ares and Aphrodite during battle.",
+   "source": "Homer, Iliad 5",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Hector’s final battle",
+   "note": "Athena deceives Hector into standing and fighting Achilles.",
+   "source": "Homer, Iliad 22",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ajax",
+   "other_aliases": [
+    "Ajax the Great"
+   ],
+   "kind": "punished",
+   "myth": "Madness of Ajax",
+   "note": "Athena deludes Ajax after his attempted revenge and displays him to Odysseus.",
+   "source": "Sophocles, Ajax",
+   "date": "c. 440s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ajax the Lesser",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Violation of Cassandra",
+   "note": "Athena punishes the returning Greeks because Ajax violated Cassandra at her sanctuary.",
+   "source": "Euripides, Trojan Women",
+   "date": "415 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orestes",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Trial of Orestes",
+   "note": "Athena establishes a court, judges Orestes, and votes for his acquittal.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Creation of Pandora",
+   "note": "Athena teaches Pandora weaving and helps adorn her.",
+   "source": "Hesiod, Works and Days 60–82",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Weaving contest",
+   "note": "Minerva competes with Arachne, whose tapestry is technically faultless.",
+   "source": "Ovid, Metamorphoses 6",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Destruction of Arachne’s weaving",
+   "note": "Minerva destroys Arachne’s tapestry and strikes her.",
+   "source": "Ovid, Metamorphoses 6",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation into a spider",
+   "note": "After Arachne attempts suicide, Minerva transforms her into a spider.",
+   "source": "Ovid, Metamorphoses 6",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Bath of Pallas",
+   "note": "Athena blinds Tiresias after he accidentally sees her bathing.",
+   "source": "Callimachus, Hymn 5",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiresias",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Bath of Pallas",
+   "note": "Athena compensates Tiresias with prophecy and postmortem privileges.",
+   "source": "Callimachus, Hymn 5",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Discarding the aulos",
+   "note": "Athena discards her aulos, which Marsyas takes up before challenging Apollo.",
+   "source": "Later literary and visual tradition",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  }
+ ]
+}

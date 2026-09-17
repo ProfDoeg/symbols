@@ -1,0 +1,658 @@
+{
+ "subject": "hades",
+ "relations": [
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cronus is Hades’ father in the dominant early genealogy.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Cronus swallows his children",
+   "note": "Cronus swallows Hades after birth before Zeus forces their release.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rhea bears Hades as one of her six children.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hestia and Hades are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Demeter and Hades are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hera and Hades are children of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Poseidon and Hades are sons of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Zeus and Hades are sons of Cronus and Rhea.",
+   "source": "Hesiod, Theogony 453–57",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "allied",
+   "myth": "Division of the cosmos",
+   "note": "Hades receives darkness below while Zeus receives the sky.",
+   "source": "Iliad 15.187–93; Theogony 881–85",
+   "date": "eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "allied",
+   "myth": "Abduction and return of Persephone",
+   "note": "Zeus authorizes Hades’ seizure of Persephone, then orders her partial release.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Division of the cosmos",
+   "note": "Hades receives the underworld while Poseidon receives the sea.",
+   "source": "Iliad 15.187–93",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Poseidon shakes the earth",
+   "note": "Hades fears Poseidon’s earthquake will expose his realm.",
+   "source": "Iliad 20.61–65",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore",
+    "Proserpina"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Persephone is Hades’ bride and enthroned co-ruler below.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore",
+    "Proserpina"
+   ],
+   "kind": "other",
+   "myth": "Abduction of Persephone",
+   "note": "Hades emerges in his chariot and violently seizes Persephone.",
+   "source": "Homeric Hymn to Demeter 1–39",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Kore",
+    "Proserpina"
+   ],
+   "kind": "gift",
+   "myth": "Pomegranate and seasonal settlement",
+   "note": "Hades gives Persephone pomegranate seed, binding her to return below.",
+   "source": "Homeric Hymn to Demeter 371–413",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Famine and Persephone’s return",
+   "note": "Demeter’s famine forces negotiation over Hades’ seizure and retention of her daughter.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Ge"
+   ],
+   "kind": "allied",
+   "myth": "Narcissus lure for Persephone",
+   "note": "Gaia produces the narcissus that enables Hades to seize Persephone.",
+   "source": "Homeric Hymn to Demeter 8–21",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction of Persephone",
+   "note": "Helios witnesses Hades’ abduction and later reveals it to Demeter.",
+   "source": "Homeric Hymn to Demeter 24–87",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction and return of Persephone",
+   "note": "Hecate hears Persephone’s cries and later attends Hades’ queen.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Release of Persephone",
+   "note": "Hermes enters Hades’ realm, conveys Zeus’s order, and escorts Persephone upward.",
+   "source": "Homeric Hymn to Demeter 334–86",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Athena borrows the cap",
+   "note": "Athena uses Hades’ cap to become invisible to Ares.",
+   "source": "Iliad 5.844–45",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ descent for Cerberus",
+   "note": "Athena assists Heracles during his descent into Hades’ realm.",
+   "source": "Iliad 8.362–69",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Paieon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Hades’ wound",
+   "note": "Paieon heals Hades on Olympus after Heracles wounds him.",
+   "source": "Iliad 5.395–404",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Heracles wounds Hades at Pylos",
+   "note": "Heracles shoots and wounds Hades, forcing him to seek healing on Olympus.",
+   "source": "Iliad 5.395–404",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Hades defends Pylos",
+   "note": "Regional tradition makes Hades the Pylians’ ally against Heracles.",
+   "source": "Pausanias 6.25.2–3",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Cerberus",
+   "note": "Hades permits Heracles to take Cerberus if he uses no weapons.",
+   "source": "Pseudo-Apollodorus 2.5.12",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Cerberus is Hades’ gate-dog and guards the underworld.",
+   "source": "Hesiod, Theogony 767–74",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Cerberus",
+   "note": "Hades authorizes Cerberus’ temporary removal after Heracles subdues him.",
+   "source": "Pseudo-Apollodorus 2.5.12",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Weapons of the Titanomachy",
+   "note": "The Cyclopes give Hades the cap used against the Titans.",
+   "source": "Pseudo-Apollodorus 1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Hades and his brothers use the Cyclopes’ weapons to defeat the Titans.",
+   "source": "Pseudo-Apollodorus 1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death of Alcestis",
+   "note": "Thanatos takes Alcestis while Hades rules her intended destination.",
+   "source": "Euripides, Alcestis 24–76",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Admetus’ substitute death",
+   "note": "Apollo arranges a substitute death, indirectly altering who enters Hades’ realm.",
+   "source": "Euripides, Alcestis 1–76",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "Fates"
+   ],
+   "kind": "shared_myth",
+   "myth": "Admetus’ substitute death",
+   "note": "The Fates negotiate mortal death independently of Hades’ underworld sovereignty.",
+   "source": "Euripides, Alcestis",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Asclepius restores the dead",
+   "note": "Hades complains that Asclepius’ resurrections deprive his kingdom of subjects.",
+   "source": "Diodorus 4.71; Apollodorus 3.10.3",
+   "date": "first century BCE–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Orpheus seeks Eurydice",
+   "note": "Hades and Persephone grant Orpheus a conditional release for Eurydice.",
+   "source": "Pseudo-Apollodorus 1.3.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Orpheus seeks Eurydice",
+   "note": "Hades conditionally releases Eurydice, but she returns when Orpheus looks back.",
+   "source": "Virgil, Georgics 4; Ovid, Metamorphoses 10",
+   "date": "first century BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theseus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Attempted seizure of Persephone",
+   "note": "Hades traps Theseus for entering the underworld to seize Persephone.",
+   "source": "Pseudo-Apollodorus, Epitome 1.23–24",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pirithous",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Attempted seizure of Persephone",
+   "note": "Hades traps Pirithous, who commonly remains imprisoned when Heracles intervenes.",
+   "source": "Pseudo-Apollodorus, Epitome 1.23–24",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sisyphus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Sisyphus escapes the underworld",
+   "note": "One variant makes Sisyphus deceive Hades and obtain temporary release.",
+   "source": "Pherecydes fragments; later mythographers",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Descent to recover Semele",
+   "note": "Dionysus descends into Hades’ realm, though direct negotiation is uncertain.",
+   "source": "Later mythic tradition",
+   "date": "Classical and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Aeacus is honored beside Plouton and entrusted with the underworld keys.",
+   "source": "Pausanias 5.20.7",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Later systems place Minos among the judges in Hades’ realm.",
+   "source": "Plato, Gorgias 523e–524a",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Later systems place Rhadamanthys among the judges in Hades’ realm.",
+   "source": "Plato, Gorgias 523e–524a",
+   "date": "fourth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zagreus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Fragmentary Aeschylean evidence may call Zagreus Hades’ son.",
+   "source": "Aeschylean fragments",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late Orphic material makes the Erinyes daughters of Plouton and Persephone.",
+   "source": "Late Orphic material",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Macaria",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Suda alone clearly identifies Macaria as Hades’ daughter.",
+   "source": "Suda",
+   "date": "tenth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minthe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Regional tradition describes the nymph Minthe as Hades’ concubine.",
+   "source": "Strabo 8.3.14",
+   "date": "first century BCE–first century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Leuke",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Leuke",
+   "note": "Pluto abducts the Oceanid Leuke in a late-antique account.",
+   "source": "Servius on Virgil",
+   "date": "late fourth–early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Leuke",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Leuke becomes the white poplar",
+   "note": "After Leuke’s death, Pluto changes her into Elysium’s white poplar.",
+   "source": "Servius on Virgil",
+   "date": "late fourth–early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ploutos",
+   "other_aliases": [
+    "Wealth"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ploutos overlaps conceptually and iconographically with Plouton but remains a separate Hesiodic child-god.",
+   "source": "Aristophanes; Eleusinian imagery",
+   "date": "Classical period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Serapis acquires Cerberus and underworld sovereignty, encouraging equation with Plouton.",
+   "source": "Hellenistic and Roman imagery",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman authors translate or equate Plouton with the subterranean wealth-god Dis Pater.",
+   "source": "Cicero, De natura deorum 2.66",
+   "date": "first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Orcus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literature later freely equates Orcus with Dis, Pluto, or the underworld.",
+   "source": "Latin literary tradition",
+   "date": "Roman Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aita",
+   "other_aliases": [
+    "Eita"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan underworld god reflects contact with Greek Hades or Aidoneus.",
+   "source": "Etruscan iconography and names",
+   "date": "Etruscan period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cybele",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "At Hierapolis, Cybele-associated cavern worship was layered with the cult of Plouton.",
+   "source": "Hierapolis cult and archaeology",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "At Hierapolis, Plouton’s chasm-cult was administratively associated with Apollo’s sanctuary.",
+   "source": "Hierapolis cult and archaeology",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Eubouleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Eubouleus shares Eleusinian ritual space and representations with Plouton and Kore.",
+   "source": "Eleusinian cult and imagery",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iacchus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Iacchus shares Eleusinian ritual space and representations with Plouton and Kore.",
+   "source": "Eleusinian cult and imagery",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Triptolemus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Triptolemus appears with Plouton, Kore, and Demeter in Eleusinian scenes.",
+   "source": "Eleusinian cult and imagery",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eumenides",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "The Eumenides receive worship with Plouton, Hermes, and Ge at Athens.",
+   "source": "Pausanias 1.28.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ge",
+   "other_aliases": [
+    "Gaia",
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Ge receives sacrifice with Plouton and Hermes at the Athenian Semnai sanctuary.",
+   "source": "Pausanias 1.28.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Hermes receives worship with Plouton, Ge, and the Eumenides at Athens.",
+   "source": "Pausanias 1.28.6",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

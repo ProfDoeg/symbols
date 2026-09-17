@@ -1,0 +1,567 @@
+{
+ "subject": "oceanus",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears Oceanus after mating with Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Oceanus is born from the union of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Coeus and Oceanus are Titan sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Crius and Oceanus are Titan sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hyperion and Oceanus are Titan sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iapetus and Oceanus are Titan sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Theia and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Themis and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mnemosyne and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phoebe and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cronus and Oceanus are Titan sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Oceanus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 132–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Generation of rivers and Oceanids",
+   "note": "Oceanus mates with his sister Tethys and fathers rivers and Oceanids.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Primordial marriage",
+   "note": "An attributed Orphic verse calls Oceanus first to marry Tethys.",
+   "source": "Plato, Cratylus 402b",
+   "date": "fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hera's deceptive reconciliation story",
+   "note": "Hera claims the couple abstain after quarreling, possibly inventing the estrangement.",
+   "source": "Iliad 14.200–210, 301–306",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Gigantomachy",
+   "note": "Pergamon shows Oceanus fighting with probable fragments of Tethys nearby.",
+   "source": "Pergamon Great Altar",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera's fosterage",
+   "note": "Oceanus and Tethys receive and raise Hera after Cronus's overthrow.",
+   "source": "Iliad 14.200–204, 301–306",
+   "date": "c. 750–700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Cosmic subordination",
+   "note": "Even primordial Oceanus fears Zeus's thunder and lightning.",
+   "source": "Iliad 21.195–199",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Styx joins Zeus",
+   "note": "Later summaries say Styx supported Zeus following Oceanus's counsel.",
+   "source": "Theogony 383–403; later scholia",
+   "date": "archaic core; later elaboration",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Titanomachy",
+   "note": "Zeus's assault boils Oceanus's streams, though Oceanus is not a combatant.",
+   "source": "Hesiod, Theogony 695–696",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Oceanus visits bound Prometheus",
+   "note": "Oceanus sympathizes, advises submission, and offers mediation with Zeus.",
+   "source": "Prometheus Bound 284–396",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oceanus and Tethys generate three thousand divine daughters.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanids",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Oceanids lament with Prometheus",
+   "note": "His daughters leave their father's house and remain beside bound Prometheus.",
+   "source": "Prometheus Bound 115–155",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "river gods",
+   "other_aliases": [
+    "rivers"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Oceanus and Tethys generate three thousand river gods.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nile",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nile is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alpheus is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eridanus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eridanus is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Strymon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Strymon is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maeander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maeander is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ister",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ister is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phasis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Phasis is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Achelous is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An early fragment apparently equates Achelous with Oceanus.",
+   "source": "Early fragment",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Simois",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Simois is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scamander",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Scamander is named among Oceanus's river sons.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Styx is Oceanus's foremost or eldest Oceanid daughter.",
+   "source": "Hesiod, Theogony 389, 775–776",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hesiod names Metis among Oceanus's Oceanid daughters.",
+   "source": "Hesiod, Theogony 358",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hesiod names Eurynome among Oceanus's Oceanid daughters.",
+   "source": "Hesiod, Theogony 358",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Doris is an Oceanid daughter of Oceanus and Tethys.",
+   "source": "Hesiod, Theogony 240–264, 350",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electra is an Oceanid daughter of Oceanus and Tethys.",
+   "source": "Hesiod, Theogony 265–269, 349",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Perseis is Oceanus's daughter and later Helios's consort.",
+   "source": "Hesiod, Theogony 956–957",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hesiod makes Clymene Oceanus's daughter and Iapetus's consort.",
+   "source": "Hesiod, Theogony 507–511",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollodorus gives Asia as Oceanus's daughter and Iapetus's consort.",
+   "source": "Apollodorus, Bibliotheca 1.2.3",
+   "date": "first–second centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hesiod counts Calypso among the Oceanids, conflicting with Homer's Atlas genealogy.",
+   "source": "Hesiod, Theogony 359",
+   "date": "c. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tyche is named among Oceanus's Oceanid daughters.",
+   "source": "Hesiod, Theogony 337–370",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Voyage in Helios's cup",
+   "note": "Oceanus raises waves; Heracles aims his bow and frightens him into stopping.",
+   "source": "Pherecydes fragment",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Helios's nightly passage",
+   "note": "Oceanus carries Helios's golden bowl or bed from west to east.",
+   "source": "Mimnermus fr. 12 West",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Heracles threatens Oceanus",
+   "note": "Helios orders Heracles not to shoot Oceanus during the cup voyage.",
+   "source": "Pherecydes fragment",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Shield of Achilles",
+   "note": "Hephaestus fashions the represented river Oceanus around the shield's rim.",
+   "source": "Iliad 18.607–608",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ophion",
+   "other_aliases": [
+    "Ophioneus"
+   ],
+   "kind": "other",
+   "myth": "Ophion's expulsion",
+   "note": "Defeated Ophion is expelled into Oceanus, called Ogenos in variant material.",
+   "source": "Orphic or Pherecydean fragments",
+   "date": "fragmentary ancient tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Giant",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Oceanus attacks an unnamed Giant on the Pergamon Altar frieze.",
+   "source": "Pergamon Great Altar",
+   "date": "second century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mildenhall Great Dish",
+   "note": "Oceanus's central marine head is surrounded by Bacchic imagery.",
+   "source": "Mildenhall Great Dish",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman trident-bearing aquatic images sometimes make Oceanus and Neptune visually indistinguishable.",
+   "source": "Roman mosaics, silver, and sculpture",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Phaethon's catastrophe",
+   "note": "Oceanus and Tethys retreat into their caves as Phaethon scorches the waters.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "first century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

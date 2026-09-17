@@ -1,0 +1,625 @@
+{
+ "subject": "inanna_ishtar",
+ "relations": [
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some Urukean traditions style Inanna as An’s daughter or favorite.",
+   "source": "Uruk traditions and Inanna hymns",
+   "date": "Early Dynastic–Old Babylonian",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "contest",
+   "myth": "An refuses authorization to destroy Ebih",
+   "note": "An cautions or refuses her, but Inanna attacks Ebih independently.",
+   "source": "Inanna and Ebih",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "other",
+   "myth": "Inanna acquires the Eanna sanctuary",
+   "note": "A fragmentary narrative concerns Inanna’s acquisition or claim of An’s Eanna.",
+   "source": "Inanna and An",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "gift",
+   "myth": "An favors and exalts Inanna",
+   "note": "Hymns portray An as favoring Inanna and validating her divine authority.",
+   "source": "Exaltation of Inanna and hymns",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "other",
+   "myth": "Ishtar demands the Bull of Heaven",
+   "note": "Ishtar threatens Anu until he grants her the Bull of Heaven.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Antu appears as Ishtar’s mother in the heavenly family scene.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ishtar appeals after Gilgamesh rejects her",
+   "note": "Ishtar appeals to Antu during her complaint against Gilgamesh.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The widespread later genealogy names Inanna as Nanna and Ningal’s daughter.",
+   "source": "Inanna hymns and genealogical tradition",
+   "date": "Old Babylonian and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn"
+   ],
+   "kind": "other",
+   "myth": "Nanna refuses Ninshubur’s rescue appeal",
+   "note": "Nanna refuses to intervene after Inanna is killed below.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn"
+   ],
+   "kind": "other",
+   "myth": "Nanna remains silent during Enheduanna’s crisis",
+   "note": "His silence contrasts with Inanna’s eventual restoration of legitimate order.",
+   "source": "Exaltation of Inanna",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ningal",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The widespread later genealogy names Ningal as Inanna’s mother.",
+   "source": "Sumerian and Akkadian genealogical tradition",
+   "date": "Old Babylonian and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [
+    "Šamaš"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Inanna is widely described as the sister of the sun god Utu.",
+   "source": "Dumuzi–Inanna cycle and hymns",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [
+    "Šamaš"
+   ],
+   "kind": "taught",
+   "myth": "Utu advises Inanna about marriage",
+   "note": "Utu advises or converses with his sister concerning Dumuzi and marriage.",
+   "source": "Dumuzi–Inanna courtship songs",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [
+    "Šamaš"
+   ],
+   "kind": "other",
+   "myth": "Inanna seeks help after Šukaletuda’s assault",
+   "note": "Inanna appeals to Utu while pursuing her assailant.",
+   "source": "Inanna and Šukaletuda",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "gift",
+   "myth": "Enki grants Inanna the me",
+   "note": "While intoxicated, Enki formally grants her civilization’s powers and offices.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "contest",
+   "myth": "Enki attempts to recover the me",
+   "note": "Enki sends agents against Inanna’s boat, but she reaches Uruk.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "rescued_by",
+   "myth": "Enki devises Inanna’s revival",
+   "note": "Enki creates rescuers and supplies substances that restore Inanna to life.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea"
+   ],
+   "kind": "rescued_by",
+   "myth": "Ea secures Ishtar’s release",
+   "note": "Ea creates Aṣušu-namir to compel Ishtar’s release from Ereshkigal.",
+   "source": "Descent of Ishtar",
+   "date": "second-millennium composition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isimud",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Isimud pursues the Boat of Heaven",
+   "note": "Enki’s minister repeatedly attempts to recover the me from Inanna.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "kurgarra",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "The kurgarra revives Inanna",
+   "note": "Enki’s created emissary helps obtain and revive Inanna’s corpse.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "galatur",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "The galatur revives Inanna",
+   "note": "Enki’s created emissary helps obtain and revive Inanna’s corpse.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aṣušu-namir",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Aṣušu-namir obtains Ishtar’s release",
+   "note": "Ea creates and sends Aṣušu-namir to free Ishtar from below.",
+   "source": "Descent of Ishtar",
+   "date": "first-millennium witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ereshkigal",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Inanna is judged in the netherworld",
+   "note": "Ereshkigal and the netherworld judges condemn the stripped goddess.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ereshkigal",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Ereshkigal kills and hangs Inanna",
+   "note": "Inanna is killed and her corpse suspended on a hook.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ereshkigal",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Ishtar forces entry into Ereshkigal’s realm",
+   "note": "Ishtar threatens entry, is stripped and confined, then released through Ea’s stratagem.",
+   "source": "Descent of Ishtar",
+   "date": "first-millennium witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neti",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Neti strips Inanna at seven gates",
+   "note": "The gatekeeper removes one item of Inanna’s regalia at each gate.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Namtar",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Namtar afflicts captive Ishtar",
+   "note": "Namtar executes Ereshkigal’s commands and imposes diseases upon Ishtar.",
+   "source": "Descent of Ishtar",
+   "date": "first-millennium witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Anunna judges",
+   "other_aliases": [
+    "the Anunna"
+   ],
+   "kind": "judged_by",
+   "myth": "The Anunna condemn naked Inanna",
+   "note": "The netherworld judges pronounce judgment against Inanna.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninshubur",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Ninshubur is Inanna’s loyal female minister in Sumerian tradition.",
+   "source": "Sumerian Inanna corpus",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninshubur",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ninshubur petitions gods for Inanna",
+   "note": "She mourns publicly and persistently seeks divine aid after Inanna’s death.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninshubur",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Inanna spares her mourning minister",
+   "note": "Inanna refuses to surrender loyal Ninshubur as her netherworld substitute.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Papsukkal",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Later Akkadian theology assigns the male minister Papsukkal to Ishtar’s circle.",
+   "source": "Learned god lists",
+   "date": "later second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Enlil refuses Ninshubur’s rescue appeal",
+   "note": "Enlil refuses intervention because Inanna sought both heaven and netherworld.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [
+    "Tammuz",
+    "Ama-ušumgal-ana"
+   ],
+   "kind": "consort_of",
+   "myth": "Courtship and sacred marriage",
+   "note": "Dumuzi courts and marries Inanna in erotic and royal love poetry.",
+   "source": "Dumuzi–Inanna love songs",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [
+    "Tammuz",
+    "Ama-ušumgal-ana"
+   ],
+   "kind": "punished",
+   "myth": "Inanna chooses Dumuzi as substitute",
+   "note": "Finding him insufficiently mournful, Inanna surrenders Dumuzi to the galla.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [
+    "Tammuz",
+    "Ama-ušumgal-ana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mourning and periodic return",
+   "note": "Variant traditions portray Inanna mourning Dumuzi and participating in his return.",
+   "source": "Descent ending and lamentation corpus",
+   "date": "second millennium BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geshtinanna",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Geshtinanna shares Dumuzi’s underworld term",
+   "note": "Inanna participates in arranging Geshtinanna’s sharing of Dumuzi’s fate.",
+   "source": "Dumuzi and Geshtinanna",
+   "date": "Old Babylonian copies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the galla",
+   "other_aliases": [
+    "the demons"
+   ],
+   "kind": "other",
+   "myth": "The galla take Inanna’s substitute",
+   "note": "The galla accompany the restored goddess and seize Dumuzi in her place.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ebih",
+   "other_aliases": [
+    "Mount Ebih"
+   ],
+   "kind": "killed",
+   "myth": "Inanna destroys defiant Mount Ebih",
+   "note": "Inanna demands submission, attacks the deified mountain, and annihilates it.",
+   "source": "Inanna and Ebih",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bilulu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Inanna avenges Dumuzi against Bilulu",
+   "note": "Inanna kills or ritually transforms Bilulu after Dumuzi’s death.",
+   "source": "Inanna and Bilulu",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bilulu",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Bilulu receives a funerary ritual condition",
+   "note": "Inanna assigns Bilulu a transformed fate associated with water skins and offerings.",
+   "source": "Inanna and Bilulu",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Girgire",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Inanna attacks Bilulu and Girgire",
+   "note": "Inanna kills or transforms Bilulu’s son while avenging Dumuzi.",
+   "source": "Inanna and Bilulu",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Girgire",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Girgire receives a funerary ritual condition",
+   "note": "Inanna assigns Girgire a transformed ritual fate after Dumuzi’s death.",
+   "source": "Inanna and Bilulu",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gudam",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gudam ravages Uruk",
+   "note": "Inanna confronts the destructive bull-like Gudam and determines his fate.",
+   "source": "Inanna and Gudam",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zababa",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Inanna or Ishtar is paired locally with Zababa in Kish’s cult.",
+   "source": "Kish cult and learned theology",
+   "date": "second millennium BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nanaya",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Nanaya belongs to Ishtar’s circle and absorbs erotic and Urukean functions.",
+   "source": "First-millennium Urukean theology",
+   "date": "first millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Assyrian gods support royal conquest",
+   "note": "Ishtar of Arbela and Nineveh jointly support Aššur’s chosen kings.",
+   "source": "Neo-Assyrian royal inscriptions",
+   "date": "ninth–seventh centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Ishtar proposes marriage to Gilgamesh",
+   "note": "Ishtar offers royal gifts and marriage, but Gilgamesh rejects and insults her.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ishtar sends the Bull against Gilgamesh",
+   "note": "After his rejection, Ishtar sends the Bull of Heaven against Gilgamesh.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enkidu",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Enkidu kills Ishtar’s Bull",
+   "note": "Enkidu helps kill the Bull and throws part of it at Ishtar.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bull of Heaven",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ishtar unleashes the Bull upon Uruk",
+   "note": "Ishtar obtains, deploys, and later mourns the slain celestial Bull.",
+   "source": "Epic of Gilgamesh Tablet VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninsianna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The personified planet Venus was assimilated to Inanna-Ishtar in later theology.",
+   "source": "Venus omens and learned theology",
+   "date": "second millennium BCE and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ninegalla",
+   "other_aliases": [
+    "Bēlet-ekalli"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Lady of the Palace could be an Ishtar manifestation or distinct goddess.",
+   "source": "Cultic and learned traditions",
+   "date": "second millennium BCE and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [
+    "ʿAštart",
+    "ʿAṯtart"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cognate goddesses were sometimes equated or translated across Mesopotamian and West Semitic settings.",
+   "source": "Bilingual and cross-cultural traditions",
+   "date": "second millennium BCE and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Šauška",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Hurrian goddess Šauška was equated with Ishtar while retaining distinct traditions.",
+   "source": "Bilingual and diplomatic texts",
+   "date": "c. 1600–1200 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hellenistic Babylonia produced explicit syncretized Ishtar-Aphrodite representations.",
+   "source": "Ishtar-Aphrodite figurines",
+   "date": "second century BCE–first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek-speaking communities sometimes interpreted Near Eastern goddesses, including Ishtar, through Artemis.",
+   "source": "Hellenistic interpretive traditions",
+   "date": "fourth–first centuries BCE",
+   "tier": "syncretism"
+  }
+ ]
+}

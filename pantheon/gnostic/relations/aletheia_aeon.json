@@ -1,0 +1,120 @@
+{
+ "subject": "aletheia_aeon",
+ "relations": [
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Mind",
+    "Monogenes",
+    "Only-Begotten",
+    "Pater",
+    "Father",
+    "Archē",
+    "Beginning"
+   ],
+   "kind": "consort_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Aletheia is emitted with Nous as his syzygetic partner.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pater",
+   "other_aliases": [
+    "Father"
+   ],
+   "kind": "consort_of",
+   "myth": "Valentinus's competing primordial tetrad",
+   "note": "In the variant attributed to Valentinus, Aletheia forms the second dyad with Pater.",
+   "source": "Irenaeus, Adversus haereses 1.11.1",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bythos",
+   "other_aliases": [
+    "Propator",
+    "Proarchē"
+   ],
+   "kind": "child_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Bythos and Sige generate Nous and Aletheia within the primordial tetrad.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sige",
+   "other_aliases": [
+    "Ennoia",
+    "Charis",
+    "Silence",
+    "Thought",
+    "Grace"
+   ],
+   "kind": "child_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Sige receives Bythos's seed and emits Nous together with Aletheia.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [
+    "Word"
+   ],
+   "kind": "parent_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Aletheia and Nous produce Logos as one member of the next syzygy.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [
+    "Life"
+   ],
+   "kind": "parent_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Aletheia and Nous produce Zoe together with Logos.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anthropos",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Aletheia is Anthropos's higher-order ancestor through her children Logos and Zoe.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ecclesia",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "The emergence of the Pleroma",
+   "note": "Aletheia is Ecclesia's higher-order ancestor through her children Logos and Zoe.",
+   "source": "Irenaeus, Adversus haereses 1.1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Tetrad",
+   "other_aliases": [
+    "supreme Tetrad"
+   ],
+   "kind": "shared_myth",
+   "myth": "Marcus and the body of Truth",
+   "note": "The female Tetrad reveals mysteries, while Aletheia separately manifests as an alphabetic body.",
+   "source": "Irenaeus, Adversus haereses 1.14–15",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  }
+ ]
+}

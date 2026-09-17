@@ -1,0 +1,347 @@
+{
+ "subject": "nephthys",
+ "relations": [
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb and Nut generate Nephthys and her three siblings.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb and Nut generate Nephthys and her three siblings.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nephthys and Osiris are children of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nephthys and Isis are children of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nephthys and Seth are children of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later Egyptian and Plutarchian traditions explicitly make Nephthys Seth's wife.",
+   "source": "Temple traditions and Plutarch",
+   "date": "Late Period–ca. 100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Birth and abandonment of Anubis",
+   "note": "Nephthys secretly bears Anubis to Osiris and exposes him.",
+   "source": "Plutarch, De Iside 14",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Atum heads the Enneadic genealogy from which Nephthys descends.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Shu is Nephthys's grandfather in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Tefnut is Nephthys's grandmother in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The two mourning sisters",
+   "note": "Together they mourn, protect, gather, and revive Osiris and the dead.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old–Middle Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of the Fifth-Dynasty kings",
+   "note": "Disguised as performers, both goddesses assist Ruddjedet during childbirth.",
+   "source": "Papyrus Westcar",
+   "date": "seventeenth–sixteenth century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth and abandonment of Anubis",
+   "note": "Isis finds and raises the son whom Nephthys exposed.",
+   "source": "Plutarch, De Iside 14",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Search for and restoration of Osiris",
+   "note": "Nephthys mourns, gathers, protects, and helps restore the dead Osiris.",
+   "source": "Pyramid Texts onward",
+   "date": "late Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conception of Anubis",
+   "note": "Osiris sleeps with Nephthys after mistaking her for Isis.",
+   "source": "Plutarch, De Iside 14 and 38",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "other",
+   "myth": "Osirian succession",
+   "note": "Later synthesis has Nephthys abandon Seth's side and support Osiris's heir.",
+   "source": "Later Osirian theology",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Osirian succession",
+   "note": "Nephthys protects Horus and supports his inheritance alongside Isis.",
+   "source": "Osirian liturgies and temple texts",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Rescue of Osiris",
+   "note": "At Horus's call, Nephthys and Isis grasp or rescue Osiris.",
+   "source": "Shabaka Stone",
+   "date": "ca. 710 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Birth of the Fifth-Dynasty kings",
+   "note": "Re commands Nephthys and four other deities to assist Ruddjedet.",
+   "source": "Papyrus Westcar",
+   "date": "seventeenth–sixteenth century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heqet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Birth of the Fifth-Dynasty kings",
+   "note": "Nephthys and Heqet jointly assist Ruddjedet's three deliveries.",
+   "source": "Papyrus Westcar",
+   "date": "seventeenth–sixteenth century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Meskhenet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Birth of the Fifth-Dynasty kings",
+   "note": "Nephthys attends the births while Meskhenet declares the infants' destinies.",
+   "source": "Papyrus Westcar",
+   "date": "seventeenth–sixteenth century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Birth of the Fifth-Dynasty kings",
+   "note": "Nephthys attends the births while Khnum gives the infants health.",
+   "source": "Papyrus Westcar",
+   "date": "seventeenth–sixteenth century BCE manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reception of the dead",
+   "note": "Nut joins Isis and Nephthys in receiving or enclosing the dead.",
+   "source": "Pyramid Texts and coffin iconography",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Hapy",
+   "other_aliases": [
+    "son of Horus"
+   ],
+   "kind": "allied",
+   "myth": "Canopic protection",
+   "note": "Nephthys protects Hapy and the lungs or northern canopic sector.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Imsety",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four-son canopic protection",
+   "note": "Nephthys appears with Imsety in the four-son and four-goddess system.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Duamutef",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four-son canopic protection",
+   "note": "Nephthys appears with Duamutef in the four-son and four-goddess system.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qebehsenuef",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Four-son canopic protection",
+   "note": "Nephthys appears with Qebehsenuef in the four-son and four-goddess system.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Four-goddess canopic protection",
+   "note": "Neith and Nephthys jointly guard the canopic ensemble.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Selket",
+   "other_aliases": [
+    "Serqet"
+   ],
+   "kind": "allied",
+   "myth": "Four-goddess canopic protection",
+   "note": "Selket and Nephthys jointly guard the canopic ensemble.",
+   "source": "Canopic texts and equipment",
+   "date": "New Kingdom–Late Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Temple and funerary divine companies",
+   "note": "Nephthys and Hathor appear together without a universal narrative relationship.",
+   "source": "Temple and funerary texts",
+   "date": "Late Period and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anuket",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint cult at Komir",
+   "note": "A local Roman-period temple at Komir was jointly dedicated to both goddesses.",
+   "source": "Komir temple inscriptions",
+   "date": "mid-second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation of the intercalary days",
+   "note": "Thoth wins the additional day on which Nephthys is born.",
+   "source": "Plutarch, De Iside",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Horus the Elder",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Intercalary divine births",
+   "note": "Plutarch lists both among Nut's five children born on intercalary days.",
+   "source": "Plutarch, De Iside",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

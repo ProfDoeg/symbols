@@ -1,0 +1,3757 @@
+{
+ "folder": "guarani",
+ "gods": [
+  "angatupyry",
+  "ao_ao",
+  "arasy",
+  "guarani_twins",
+  "jakaira",
+  "jasy",
+  "jasy_jatere",
+  "kaa_jaryi",
+  "karai",
+  "kuaray",
+  "kurupi",
+  "luison",
+  "mboi_tui",
+  "monai",
+  "namandu",
+  "nande_sy",
+  "pai_sume",
+  "pombero",
+  "pora",
+  "tau_and_kerana",
+  "teju_jagua",
+  "tupa",
+  "yvy_mara_ey"
+ ],
+ "relations": [
+  {
+   "a": "angatupyry",
+   "b": "arasy",
+   "kind": "shared_myth",
+   "myth": "Aftermath of Kerana’s abduction",
+   "note": "After Angatupyry’s defeat, Arasy answers prayers and curses Taû.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "kurupi",
+   "kind": "punished",
+   "myth": "Curse of Taú and Keraná’s offspring",
+   "note": "Later retellings attribute the children’s monstrous forms to Angatupyry’s curse.",
+   "source": "Colmán-derived retellings",
+   "date": "twentieth century",
+   "tier": "late_accretion",
+   "stated_by": [
+    "kurupi"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tau_and_kerana",
+   "kind": "contest",
+   "myth": "The invisible companions of humanity",
+   "note": "They exert contrary moral influences and struggle whenever illness assails someone.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tau_and_kerana",
+   "kind": "fought",
+   "myth": "Taû’s attempted abduction of Kerana",
+   "note": "Angatupyry fights Taû for seven days and nearly defeats him.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tau_and_kerana",
+   "kind": "fought",
+   "myth": "Seven-day battle over Kerana",
+   "note": "Tau fights Kerana's defender until Pytajovái intervenes against Angatupyry.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1922/1929",
+   "tier": "canonical",
+   "stated_by": [
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tau_and_kerana",
+   "kind": "punished",
+   "myth": "Curse after Kerana's abduction",
+   "note": "Later regional versions make Angatupyry curse Tau or both Tau and Kerana.",
+   "source": "Museum and Misiones retellings",
+   "date": "modern",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tau_and_kerana",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Modern retellings call Taû Angatupyry’s brother; Colmán does not.",
+   "source": "Modern folklore websites",
+   "date": "2000s–2020s",
+   "tier": "modern",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tupa",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Modern websites call Angatupyry Tupã’s son, contrary to Colmán.",
+   "source": "Modern educational websites",
+   "date": "2000s–2020s",
+   "tier": "modern",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tupa",
+   "kind": "created_by",
+   "myth": "The invisible companions of humanity",
+   "note": "Tupã leaves Angatupyry with humanity to sustain people in good.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "angatupyry"
+   ]
+  },
+  {
+   "a": "angatupyry",
+   "b": "tupa",
+   "kind": "created_by",
+   "myth": "Establishment of good and evil",
+   "note": "Tupã creates or leaves Angatupyry, the principle of goodness, among humanity.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "arasy",
+   "kind": "punished_by",
+   "myth": "Birth of the seven monsters",
+   "note": "Arasy curses the offspring of Taú and Keraná to be monstrous.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "arasy",
+   "kind": "punished_by",
+   "myth": "The seven monstrous births",
+   "note": "Ao-Ao is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "jasy_jatere",
+   "kind": "allied",
+   "myth": "Delivery of victims to Ao-Ao",
+   "note": "Jasy Jateré misleads people so that Ao-Ao can consume them.",
+   "source": "Ñande Ypy Kuéra, note 46",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "jasy_jatere",
+   "kind": "served_by",
+   "myth": "Ao Ao and Jasy Jatere",
+   "note": "Jasy Jatere leads people astray and delivers them to cannibal Ao Ao.",
+   "source": "Colmán, Ñande Ypy Kuéra glossary",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "jasy_jatere",
+   "kind": "shared_myth",
+   "myth": "Burning of the seven monsters",
+   "note": "Both are trapped and burned in the cave at Yaguarón.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "jasy_jatere",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Jasy Jatere is one of Ao Ao’s six monstrous siblings.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "kurupi",
+   "kind": "shared_myth",
+   "myth": "Burning of the seven monsters",
+   "note": "Both are trapped and burned in the cave at Yaguarón.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "kurupi",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí is one of Ao Ao’s six monstrous siblings.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "kurupi"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "luison",
+   "kind": "shared_myth",
+   "myth": "Burning of the seven monsters",
+   "note": "Both are trapped and burned in the cave at Yaguarón.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "luison",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Huisõ is Ao Ao’s seventh and youngest monstrous sibling.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "luison"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Burning of the seven monsters",
+   "note": "Both are trapped and burned in the cave at Yaguarón.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "They attend the cave gathering and perish together in the fire.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "mboi_tui",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mbói Tu’ĩ is one of Ao Ao’s six monstrous siblings.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "The supposed wedding in the cave",
+   "note": "Moñái summons Ao Ao and their siblings to his supposed wedding.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Moñái summons Ao-Ao to the false wedding where both are trapped.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "monai",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moñái is one of Ao Ao’s six monstrous siblings.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "monai"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé opposes Ao Ao as one of Taû and Kerana’s seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ao Ao is Taú’s sixth son with Keraná.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Burning of the seven monsters",
+   "note": "Both are trapped and burned in the cave at Yaguarón.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "They attend the drunken gathering and die together in the burning cavern.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Teju Jagua is one of Ao Ao’s six monstrous siblings.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "ao_ao",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "ao_ao",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "jasy_jatere",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Jasy Jatere is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "jasy_jatere",
+   "kind": "punished",
+   "myth": "Arasy’s curse on Taú and Keraná",
+   "note": "Arasy’s curse on his parents’ union causes their monstrous offspring.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "kurupi",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Kurupi is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "luison",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Huisõ is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "mboi_tui",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Mbói Tu’ĩ is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "mboi_tui",
+   "kind": "punished",
+   "myth": "Birth of the seven monsters",
+   "note": "Arasy's prenatal curse condemns Taû's offspring to monstrous forms.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "attested",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "monai",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Moñái is born monstrous as a consequence of Arasy's curse.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "monai",
+   "kind": "punished",
+   "myth": "Curse upon the seven offspring",
+   "note": "Arasy's curse causes Keraná's pregnancies to produce seven monsters, including Moñái.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tau_and_kerana",
+   "kind": "other",
+   "myth": "The seven monstrous births",
+   "note": "Arasy's curse on Kerana's abductor indirectly causes her seven children to be monstrous.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tau_and_kerana",
+   "kind": "punished",
+   "myth": "Taû abducts Kerana",
+   "note": "After supplicants appeal to her, Arasy curses Taû so his offspring will be monstrous.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tau_and_kerana",
+   "kind": "punished",
+   "myth": "Curse of the monstrous births",
+   "note": "Arasy curses Tau after Kerana's abduction; the curse produces monstrous children.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1922/1929",
+   "tier": "canonical",
+   "stated_by": [
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "teju_jagua",
+   "kind": "punished",
+   "myth": "The seven monstrous births",
+   "note": "Taû and Kerana's first child is explicitly described as cursed by Arasy.",
+   "source": "Ñande Ypy Kuéra, ch. VII, note 43",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "teju_jagua",
+   "kind": "punished",
+   "myth": "Curse upon Taû and Keraná’s union",
+   "note": "Arasy’s curse determines the monstrous form of Teju Jagua and its siblings.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "allied",
+   "myth": "Creation of the first humans",
+   "note": "Tupã and Arasy jointly form and animate the first human couple.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "consort_of",
+   "myth": "The celestial marriage",
+   "note": "Tupã marries Arasy, names her Mother of the Sky, and assigns her the Moon.",
+   "source": "Ñande Ypy Kuéra, ch. I",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Arasy is Tupã’s celestial wife.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "contest",
+   "myth": "Debate over effortless abundance",
+   "note": "Arasy disputes Tupã's promise of ease, arguing that meaningful happiness requires labor and difficulty.",
+   "source": "Ñande Ypy Kuéra, ch. II",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Descent to Areguá and creation",
+   "note": "Arasy descends with Tupã and jointly creates the world, living beings, and humanity.",
+   "source": "Ñande Ypy Kuéra, ch. II",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Instruction of the first humans",
+   "note": "Arasy and Tupã jointly instruct and mark the first couple before disappearing.",
+   "source": "Ñande Ypy Kuéra, ch. II",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "arasy",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "The punitive flood",
+   "note": "Arasy grieves while Tupã orders humanity's destruction by flood.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "arasy"
+   ]
+  },
+  {
+   "a": "guarani_twins",
+   "b": "nande_sy",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The brothers are children of the murdered mother in Apapocúva and Paĩ-Tavyterã variants.",
+   "source": "Nimuendajú and later Paĩ records",
+   "date": "1914 and later",
+   "tier": "regional_variant",
+   "stated_by": [
+    "guarani_twins"
+   ]
+  },
+  {
+   "a": "guarani_twins",
+   "b": "nande_sy",
+   "kind": "other",
+   "myth": "The mother follows the departed father",
+   "note": "The unborn elder directs his mother, then withdraws reliable guidance after her rebuke.",
+   "source": "Nimuendajú, Die Sagen",
+   "date": "1914",
+   "tier": "attested",
+   "stated_by": [
+    "guarani_twins"
+   ]
+  },
+  {
+   "a": "guarani_twins",
+   "b": "nande_sy",
+   "kind": "rescued",
+   "myth": "Recovery of the mother’s bones",
+   "note": "The brothers attempt restoration, but Jasy intervenes prematurely and their mother collapses again.",
+   "source": "Paĩ-Tavyterã and Kaiowá ethnography",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "guarani_twins"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "karai",
+   "kind": "shared_myth",
+   "myth": "Unfolding of divinity",
+   "note": "Both are generated as principal divine fathers and sources of word-souls.",
+   "source": "Ayvu Rapyta, chapter I",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "karai",
+   "kind": "shared_myth",
+   "myth": "Distribution of flame and mist",
+   "note": "Karai receives sacred flame while Jakaira receives life-bearing mist and inspired words.",
+   "source": "Ayvu Rapyta, chapter II",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "namandu",
+   "kind": "created_by",
+   "myth": "Unfolding of divinity",
+   "note": "Ñamandu makes Jakaira conscious of divinity as a father of future children.",
+   "source": "Ayvu Rapyta, chapter I",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "namandu",
+   "kind": "served",
+   "myth": "Distribution of cosmic responsibilities",
+   "note": "Jakaira accepts Ñamandu's commission to guard life-giving mist and inspired words.",
+   "source": "Ayvu Rapyta, chapter II",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "namandu",
+   "kind": "served",
+   "myth": "Life-giving mist over the renewed earth",
+   "note": "Jakaira spreads revivifying mist over the renewed earthly dwelling at Ñamandu's direction.",
+   "source": "Ayvu Rapyta, first-earth cycle",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "nande_sy",
+   "kind": "identified_with",
+   "myth": "Mother of white maize",
+   "note": "One Kaiowá testimony calls Jakaira maize’s Ñande Sy; identity with the twin-mother remains unresolved.",
+   "source": "Kaiowá maize fieldwork",
+   "date": "early 21st century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Unfolding of divinity",
+   "note": "Both are generated as principal divine fathers and sources of word-souls.",
+   "source": "Ayvu Rapyta, chapter I",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jakaira",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Distribution of mist and water",
+   "note": "Jakaira receives mist and inspiration while Tupã receives waters and refreshing power.",
+   "source": "Ayvu Rapyta, chapter II",
+   "date": "1959",
+   "tier": "attested",
+   "stated_by": [
+    "jakaira"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "jasy_jatere",
+   "kind": "other",
+   "myth": "Kaiowá uncle-and-nephew episode",
+   "note": "Jasy is Jasy Jatere’s uncle, and they jointly frustrate Paĩ Kuara.",
+   "source": "Modern Kaiowá study",
+   "date": "21st century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "allied",
+   "myth": "Revenge on the primordial jaguars",
+   "note": "The brothers jointly trap and destroy their mother’s killers.",
+   "source": "Nimuendajú; Cadogan; Kaiowá versions",
+   "date": "1914–present",
+   "tier": "attested",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "created_by",
+   "myth": "Creation of Jasyrã from a kurupika’y branch",
+   "note": "Kuaray creates Jasy from a branch to be his companion.",
+   "source": "Cadogan, Paĩ Rete Kuaray",
+   "date": "1946/1959",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "punished_by",
+   "myth": "The Moon’s marked face",
+   "note": "Kuaray rebukes Jasy and assigns him the nocturnal celestial station.",
+   "source": "Cadogan, Jasy ra’y ojovahéi",
+   "date": "1945",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "rescued_by",
+   "myth": "Jasy’s fatal visit to Añay",
+   "note": "Kuaray restores Jasy after hostile beings kill or trap him.",
+   "source": "Kaiowá ethnographies",
+   "date": "20th–21st centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "shared_myth",
+   "myth": "Celestial ascent of Sun and Moon",
+   "note": "The brothers ascend and assume unequal but complementary celestial stations.",
+   "source": "Cadogan; Kaiowá versions",
+   "date": "1959–present",
+   "tier": "attested",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "kuaray",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Jasy is Kuaray’s created younger brother in Mbyá tradition.",
+   "source": "Cadogan, Ayvu Rapyta",
+   "date": "1959",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "nande_sy",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ñande Sy is Jasy’s mother in Kaiowá and wider Twins traditions.",
+   "source": "Nimuendajú; Kaiowá ethnographies",
+   "date": "1914–present",
+   "tier": "attested",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "nande_sy",
+   "kind": "created_by",
+   "myth": "Jaxy formed from his dead mother’s bones",
+   "note": "Some Mbyá variants form Jasy from the scattered bones of Ñande Sy.",
+   "source": "Mbyá variants",
+   "date": "20th century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy",
+   "b": "nande_sy",
+   "kind": "other",
+   "myth": "Failed resurrection and origin of death",
+   "note": "Jasy interrupts Kuaray’s restoration of their mother, making death permanent.",
+   "source": "Nimuendajú; Ñandeva and Kaiowá versions",
+   "date": "1914–present",
+   "tier": "attested",
+   "stated_by": [
+    "jasy"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "kurupi",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ambrosetti conjectured that Kurupí and Yasy Yateré might be transformations of one another.",
+   "source": "Ambrosetti, Materiales",
+   "date": "1893",
+   "tier": "modern",
+   "stated_by": [
+    "kurupi"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "kurupi",
+   "kind": "shared_myth",
+   "myth": "Cave gathering and fiery destruction",
+   "note": "They attend Porãsy’s cave gathering and perish together in the fire.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "kurupi",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí is one of Jasy Jateré’s six siblings.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "kurupi"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "luison",
+   "kind": "shared_myth",
+   "myth": "Cave death and astral transformation",
+   "note": "They perish together in the cave and become part of the Pleiades.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "luison",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Luisón is one of Jasy Jateré’s six siblings.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "luison"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Cave gathering and fiery destruction",
+   "note": "They gather around Porãsy, are burned together, and become Pleiades.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "They attend the cave gathering and perish together in the fire.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "mboi_tui",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mbói Tu’ĩ is one of Jasy Jateré’s six siblings.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Moñái summons the brothers",
+   "note": "Moñái summons Jasy Jateré to Porãsy’s fatal cave gathering.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Moñái summons Jasy Jatere to the false wedding where both are trapped.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "monai",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moñái is one of Jasy Jateré’s six siblings.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "monai"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé opposes Jasy Jateré as one of Taû and Kerana’s seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "pombero",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ambrosetti describes Corrientes Pombero as a modification of Yasy-Yateré.",
+   "source": "Materiales para el folk-lore misionero",
+   "date": "early 1890s",
+   "tier": "syncretism",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jasy Jateré is Taú’s fourth child with Keraná.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "teju_jagua",
+   "kind": "gift",
+   "myth": "Provisioning Teju Jagua",
+   "note": "Jasy Jateré supplies his disabled elder brother with bee honey.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "teju_jagua",
+   "kind": "gift",
+   "myth": "The inactive guardian",
+   "note": "Later folklore says Jasy Jatere brings honey to Teju Jagua.",
+   "source": "González Torres and Pérez-Maricevich",
+   "date": "1998",
+   "tier": "late_accretion",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "They attend the drunken gathering and die together in the burning cavern.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Teju Jagua is Jasy Jateré’s elder brother.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Transformation into the Pleiades",
+   "note": "Jasy Jateré’s purified spirit becomes Pleiades within Tupã’s cosmic order.",
+   "source": "Ñande Ypy Kuéra",
+   "date": "1929; Spanish version 1937",
+   "tier": "late_accretion",
+   "stated_by": [
+    "jasy_jatere"
+   ]
+  },
+  {
+   "a": "jasy_jatere",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "kaa_jaryi",
+   "b": "tupa",
+   "kind": "other",
+   "myth": "Tupã, Yarí and her aged father",
+   "note": "Tupã creates yerba mate and appoints Yarí its eternal divine protectress.",
+   "source": "Argentine Ministry of Tourism version",
+   "date": "later regional variant",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kaa_jaryi"
+   ]
+  },
+  {
+   "a": "karai",
+   "b": "namandu",
+   "kind": "created_by",
+   "myth": "Emergence and commissioning of the divine fathers",
+   "note": "Ñamandu brings Karai into divine consciousness and commissions him over sacred fire.",
+   "source": "Ayvu Rapyta",
+   "date": "1959",
+   "tier": "canonical",
+   "stated_by": [
+    "karai"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "child_of",
+   "myth": "",
+   "note": "She is Kuaray’s mortal or earth-associated mother.",
+   "source": "Cadogan, Ayvu Rapyta VIII",
+   "date": "1959",
+   "tier": "canonical",
+   "stated_by": [
+    "kuaray",
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "deceived",
+   "myth": "Journey and fatal flower",
+   "note": "After their quarrel, her unborn son withholds guidance or sends her down the fatal path.",
+   "source": "Nimuendajú; Cadogan; Paĩ account",
+   "date": "1914–1976",
+   "tier": "canonical",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "other",
+   "myth": "The unborn guide",
+   "note": "Kuaray guides his pregnant mother until her rebuke causes him to cease directing her.",
+   "source": "Cadogan, Ayvu Rapyta VIII",
+   "date": "1959",
+   "tier": "canonical",
+   "stated_by": [
+    "kuaray"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "other",
+   "myth": "Revelation of the mother’s death",
+   "note": "Kuaray learns of his mother’s killing, mourns her, and awakens to his origin.",
+   "source": "Cadogan, Ayvu Rapyta VIII",
+   "date": "1959",
+   "tier": "canonical",
+   "stated_by": [
+    "kuaray"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "other",
+   "myth": "Her bones and failed return",
+   "note": "Her elder son gathers her bones and attempts to reconstruct her body.",
+   "source": "Nimuendajú; Cadogan; Paĩ account",
+   "date": "1914–1976",
+   "tier": "canonical",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "kuaray",
+   "b": "nande_sy",
+   "kind": "transformed",
+   "myth": "Restoration of the First Mother",
+   "note": "Some Mbyá-associated versions make Kuaray reconstitute his mother in animal form, including a paca.",
+   "source": "Mbyá-associated summaries",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kuaray"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "luison",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí and Luisón are siblings among the seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "kurupi",
+    "luison"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "They attend the cave gathering and perish together in the fire.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "mboi_tui",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí and Mbói Tu’ĩ are siblings among the seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "kurupi",
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Affliction of Atyrá",
+   "note": "Moñái's robberies and Kurupí's sexual violence jointly afflict Atyrá.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Kurupí joins Moñái and their brothers at Porãsy's fatal false wedding.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "monai",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí and Moñái are siblings among the seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "kurupi",
+    "monai"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé opposes Kurupí as one of Taû and Kerana’s seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "pombero",
+   "kind": "other",
+   "myth": "",
+   "note": "Later regional traditions give both beings overlapping sexual and impregnation functions.",
+   "source": "Regional oral folklore",
+   "date": "20th–21st centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pombero"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kurupí is Taú’s fifth child in the seven-monster genealogy.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "kurupi",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "They attend the drunken gathering and die together in the burning cavern.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kurupí and Teju Jaguá are siblings among the seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "kurupi",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "kurupi",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "mboi_tui",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "They attend the cave gathering and perish together in the fire.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "mboi_tui",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mbói Tu’ĩ is Luisón's elder sibling and fellow monster.",
+   "source": "Colmán, Ñande Ĭpĭ Cuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "luison",
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Moñái summons Huisõ to the false wedding where both are trapped.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "monai",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moñái is Luisón's elder sibling in the destructive monster group.",
+   "source": "Colmán, Ñande Ĭpĭ Cuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "luison",
+    "monai"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé opposes Luisõ as one of Taû and Kerana’s seven monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Taû fathers Luisón through his union with Keraná.",
+   "source": "Colmán, Ñande Ĭpĭ Cuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "luison",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "They attend the drunken gathering and die together in the burning cavern.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Teju Jagua is Luisón's elder sibling in the seven-monster family.",
+   "source": "Colmán, Ñande Ĭpĭ Cuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "luison",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "tupa",
+   "kind": "fought",
+   "myth": "Destruction of Taû and Keraná’s monstrous children",
+   "note": "Tupã supports the plan opposing the monsters, without confronting Luisón directly.",
+   "source": "Colmán, Ñande Ĭpĭ Cuéra",
+   "date": "1929",
+   "tier": "late_accretion",
+   "stated_by": [
+    "luison"
+   ]
+  },
+  {
+   "a": "luison",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "Moñái convenes the brothers for his supposed wedding; all perish.",
+   "source": "Colmán and later adaptations",
+   "date": "1929 and later",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "monai",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Moñái summons Mbói Tu’ĩ to the false wedding where both are trapped.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "monai",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moñái is Mbói Tu'i's third-born brother.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "attested",
+   "stated_by": [
+    "mboi_tui",
+    "monai"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé participates in the campaign against Mbói Tu'ĩ and the other monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Taû fathers Mbói Tu'i with Kerana.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "attested",
+   "stated_by": [
+    "mboi_tui",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the cave of the monsters",
+   "note": "They gather, cry out, and perish together in the burning cave.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "mboi_tui"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "They attend the drunken gathering and die together in the burning cavern.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Teju Jagua is Mbói Tu'i's first-born brother.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "attested",
+   "stated_by": [
+    "mboi_tui",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "mboi_tui",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "pai_sume",
+   "kind": "fought",
+   "myth": "Burning the monsters in Moñái’s cave",
+   "note": "Tumé and his people oppose the monsters gathered at Moñái’s cave and organize their destruction.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "tau_and_kerana",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Taú fathers Moñái through his forced union with Keraná.",
+   "source": "Colmán, Ñande ĭpĭ cuéra, VII–VIII",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai",
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Wedding gathering in the burning cave",
+   "note": "Moñái summons Teju Jagua to the false wedding where both are trapped.",
+   "source": "Colmán cycle",
+   "date": "1929; later retellings",
+   "tier": "late_accretion",
+   "stated_by": [
+    "monai"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "teju_jagua",
+   "kind": "shared_myth",
+   "myth": "Porãsy and the burning cave",
+   "note": "Moñái arranges the gathering at Teju Jagua’s cave because Teju Jagua cannot travel.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "teju_jagua",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Teju Jagua is one of Moñái's six monstrous brothers.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929",
+   "tier": "canonical",
+   "stated_by": [
+    "monai",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "monai",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "namandu",
+   "b": "nande_sy",
+   "kind": "consort_of",
+   "myth": "Two-father conception",
+   "note": "He has intercourse with her and fathers one of her children.",
+   "source": "Nimuendajú",
+   "date": "1914",
+   "tier": "attested",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "namandu",
+   "b": "nande_sy",
+   "kind": "created",
+   "myth": "Making of the First Mother",
+   "note": "He and Ñande Ru Mba’ekuaa form or reveal her from a covered vessel.",
+   "source": "Nimuendajú",
+   "date": "1914",
+   "tier": "attested",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "namandu",
+   "b": "nande_sy",
+   "kind": "rescued",
+   "myth": "Celestial restoration",
+   "note": "A harmonized later version says he restores her before her sons reach heaven.",
+   "source": "Later ethnographic retellings",
+   "date": "modern",
+   "tier": "late_accretion",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "namandu",
+   "b": "tupa",
+   "kind": "created",
+   "myth": "The Mbyá creation order",
+   "note": "The First Father brings forth Tupã and assigns his dwelling and generative task.",
+   "source": "Cadogan, Ayvu Rapyta",
+   "date": "1959",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "namandu",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "The fourfold Mbyá divine order",
+   "note": "They send names or word-souls and participate in maintaining the cosmos.",
+   "source": "Cadogan, Ayvu Rapyta",
+   "date": "1959",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "nande_sy",
+   "b": "tupa",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Modern popular accounts sometimes make Tupã her spouse.",
+   "source": "Popular literary mythology",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "nande_sy",
+   "b": "tupa",
+   "kind": "created_by",
+   "myth": "",
+   "note": "Modern popular accounts sometimes make Tupã her creator.",
+   "source": "Popular literary mythology",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "nande_sy",
+   "b": "tupa",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Modern popular accounts sometimes make Tupã her son.",
+   "source": "Popular literary mythology",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "nande_sy",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Other modern accounts describe Tupã only as her celestial associate.",
+   "source": "Popular literary mythology",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "nande_sy"
+   ]
+  },
+  {
+   "a": "pai_sume",
+   "b": "tau_and_kerana",
+   "kind": "fought",
+   "myth": "Tumé’s opposition to Taû and his monstrous offspring",
+   "note": "Wise Tumé ideologically and practically opposes Taû, Colmán’s embodiment of evil.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "pai_sume",
+   "b": "tau_and_kerana",
+   "kind": "fought",
+   "myth": "Campaign against Taû and Kerana’s offspring",
+   "note": "Tumé has an indirect adversarial relation with Kerana through the seven-monster cycle.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "pai_sume",
+   "b": "teju_jagua",
+   "kind": "fought",
+   "myth": "Destruction of the seven monsters",
+   "note": "Tumé participates in the campaign against Teju Jagua and the other monstrous children.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "pai_sume",
+   "b": "tupa",
+   "kind": "served",
+   "myth": "Campaign against evil and the seven monsters",
+   "note": "Tumé acts under Tupã’s superior authority and seeks divine aid against evil.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "pai_sume"
+   ]
+  },
+  {
+   "a": "tau_and_kerana",
+   "b": "teju_jagua",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tau and Kerana are parents of Teju Jagua, their first son.",
+   "source": "Ñande Ypy Kuéra, ch. VII",
+   "date": "1922/1929",
+   "tier": "canonical",
+   "stated_by": [
+    "tau_and_kerana",
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "tau_and_kerana",
+   "b": "tupa",
+   "kind": "created_by",
+   "myth": "Establishment of good and evil",
+   "note": "Tupã creates or permits Tau, the principle of evil, as Angatupyry’s opposite.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "tau_and_kerana",
+   "b": "tupa",
+   "kind": "served",
+   "myth": "Tau placed among humanity",
+   "note": "Tupã places Tau among humans as the influence toward evil.",
+   "source": "Ñande Ypy Kuéra, ch. II",
+   "date": "1922/1929",
+   "tier": "canonical",
+   "stated_by": [
+    "tau_and_kerana"
+   ]
+  },
+  {
+   "a": "tau_and_kerana",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Tau’s seizure of Kerana",
+   "note": "Tupã is indirectly involved through the moral order and punishment surrounding her seizure.",
+   "source": "Colmán, Ñande Ypy Kuéra",
+   "date": "1929",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  },
+  {
+   "a": "teju_jagua",
+   "b": "tupa",
+   "kind": "punished_by",
+   "myth": "Teju Jagua’s enforced harmlessness",
+   "note": "Tupã withholds Teju Jagua’s ability to exercise its potential ferocity.",
+   "source": "Colmán, Ñande ĭpĭ cuéra",
+   "date": "1929; Spanish 1937",
+   "tier": "canonical",
+   "stated_by": [
+    "teju_jagua"
+   ]
+  },
+  {
+   "a": "teju_jagua",
+   "b": "tupa",
+   "kind": "shared_myth",
+   "myth": "Birth of the seven monsters",
+   "note": "Tupã stands above the world where Tau and Kerana’s monstrous child is born.",
+   "source": "Colmán, Ñande Ypy Kuéra; derivative folklore",
+   "date": "1929 onward",
+   "tier": "modern",
+   "stated_by": [
+    "tupa"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Anhã/Aña": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "killed_by",
+    "myth": "Disobedient fishing or food-taking",
+    "note": "Anhã kills, cooks, beheads, or dismembers Jaxy after his disobedience.",
+    "source": "Mbyá and Chiripá ethnographic variants",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Araí": [
+   {
+    "stated_by": "kaa_jaryi",
+    "kind": "shared_myth",
+    "myth": "Jasy and Araí: the Moon’s gift",
+    "note": "Araí accompanies Jasy and participates in the reward that sometimes appoints Caá-Yarí.",
+    "source": "Neli Garrido de Rodríguez, Leyendas Argentinas",
+    "date": "1981",
+    "tier": "late_accretion"
+   }
+  ],
+  "Añay": [
+   {
+    "stated_by": "jasy",
+    "kind": "killed_by",
+    "myth": "Jasy attends the hostile beings’ feast",
+    "note": "Añay kills or traps Jasy after he disregards warnings.",
+    "source": "Kaiowá ethnographies",
+    "date": "20th–21st centuries",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "jasy",
+    "kind": "fought",
+    "myth": "Lunar destruction and restoration",
+    "note": "Regional stories link Jasy’s phases to destructive encounters with an añá.",
+    "source": "Regional Guaraní accounts",
+    "date": "20th–21st centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Captain Chikú": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "shared_myth",
+    "myth": "Mbyá path of aguyje",
+    "note": "He and his wife attain perfection and cross to Yvy Marã Ey without dying.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Caá-Porá": [
+   {
+    "stated_by": "pora",
+    "kind": "transformed_by",
+    "myth": "Caá-Porá becomes a simple Porá",
+    "note": "Some Misiones narrators reduce Caá-Porá to Porá, appearing as a fire-breathing pig or dog.",
+    "source": "Ambrosetti’s Misiones field material",
+    "date": "late nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Charia": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "fought",
+    "myth": "Eclipse attacks",
+    "note": "A celestial jaguar attacks or consumes Sun and Moon during eclipses.",
+    "source": "Later Mbyá materials",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Charía": [
+   {
+    "stated_by": "kuaray",
+    "kind": "contest",
+    "myth": "Comic fishing contests",
+    "note": "Kuaray or Ñanderyke’y and his brother oppose Charía in comic contests, including fishing episodes.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "deceived",
+    "myth": "Interference with Charía’s catch",
+    "note": "The brothers use trickery to interfere with Charía’s fishing catch.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Curupira": [
+   {
+    "stated_by": "kurupi",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Comparative writers often equated Kurupí with Curupira despite substantial regional differences.",
+    "source": "Basílio de Magalhães",
+    "date": "1928",
+    "tier": "modern"
+   }
+  ],
+  "Death": [
+   {
+    "stated_by": "luison",
+    "kind": "other",
+    "myth": "",
+    "note": "Luisón is called the inseparable companion of personified death.",
+    "source": "Colmán, Ñande Ĭpĭ Cuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   }
+  ],
+  "Guarasyáva": [
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Guarasyáva is Tumé Arandú’s sister in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Gua’a": [
+   {
+    "stated_by": "tau_and_kerana",
+    "kind": "other",
+    "myth": "Warning of Tau's approach",
+    "note": "The prophetic macaw warns Tumê that Tau is approaching to seek vengeance.",
+    "source": "Ñande Ypy Kuéra, ch. XIII",
+    "date": "1922/1929",
+    "tier": "canonical"
+   }
+  ],
+  "Guyraypotý": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "shared_myth",
+    "myth": "Guyraypotý’s successful passage",
+    "note": "He leads survivors east through flood and cosmic collapse toward the celestial refuge.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Jachyrã": [
+   {
+    "stated_by": "kuaray",
+    "kind": "created",
+    "myth": "Creation of Jachyrã",
+    "note": "Kuaray brings Jachyrã forth from a kurupika’y branch as his companion.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Kuaray establishes and treats Jachyrã as his younger brother.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "taught",
+    "myth": "The fruit journey",
+    "note": "Kuaray teaches his younger brother fruit names, proper consumption, and correct conduct.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "allied",
+    "myth": "Vengeance on the jaguars",
+    "note": "Kuaray and his younger brother jointly trap and destroy their mother’s killers.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "other",
+    "myth": "Celestial differentiation",
+    "note": "Kuaray enables his younger brother’s lunar destiny while assuming the solar station.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "Jachyrã/Jaxy": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "created",
+    "myth": "Creation of the future Moon",
+    "note": "Pa’i Rete Kuaray creates his younger companion from a kurupika’y leaf.",
+    "source": "Cadogan, Ayvu Rapyta, chapter VIII",
+    "date": "1959",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "shared_myth",
+    "myth": "Culture-making journeys",
+    "note": "Kuaray and Jaxy travel, hunt, and regulate cultural goods together.",
+    "source": "Cadogan, Ayvu Rapyta, chapter VIII",
+    "date": "1959",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "taught",
+    "myth": "Jaxy’s errors",
+    "note": "Kuaray repeatedly instructs Jaxy, whose haste or disobedience causes failure, sexuality, periodicity, or death.",
+    "source": "Cadogan and later Mbyá ethnography",
+    "date": "1959 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "rescued",
+    "myth": "Jaxy’s death and restoration",
+    "note": "Kuaray reconstructs and revives the dismembered younger brother.",
+    "source": "Mbyá and Chiripá ethnographic cycles",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jaguarete": [
+   {
+    "stated_by": "jasy",
+    "kind": "fought",
+    "myth": "Revenge on the jaguars",
+    "note": "Jasy and his elder brother trap the primordial jaguars at a crossing.",
+    "source": "Nimuendajú; Cadogan; Kaiowá versions",
+    "date": "1914–present",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jasy",
+    "kind": "killed",
+    "myth": "Revenge on the jaguars",
+    "note": "The brothers drown or destroy most jaguars, though one pregnant female escapes.",
+    "source": "Nimuendajú; Cadogan; Kaiowá versions",
+    "date": "1914–present",
+    "tier": "attested"
+   }
+  ],
+  "Jaguarete ypy": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "killed_by",
+    "myth": "Mother eaten by primordial jaguars",
+    "note": "The primordial jaguars discover, kill, cook, and eat her.",
+    "source": "Nimuendajú; Cadogan; Paĩ account",
+    "date": "1914–1976",
+    "tier": "canonical"
+   }
+  ],
+  "Jaguarový": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Apapokúva destruction and eastward escape",
+    "note": "It descends to devour humanity, while successful seekers escape to Yvy Marã Ey.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Jaguaru": [
+   {
+    "stated_by": "teju_jagua",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Colmán equates or closely associates Teju Jagua with Jaguaru.",
+    "source": "Colmán, Spanish explanatory apparatus",
+    "date": "1937",
+    "tier": "canonical"
+   }
+  ],
+  "Jakaira Chy Ete": [
+   {
+    "stated_by": "jakaira",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is Jakaira's female divine counterpart and co-source of Jakaira-region word-souls.",
+    "source": "Ayvu Rapyta, chapter I",
+    "date": "1946–59",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jakaira",
+    "kind": "created",
+    "myth": "Establishment of the divine couples",
+    "note": "Jakaira makes the future True Mother Jakaira conscious of divinity.",
+    "source": "Ayvu Rapyta, chapter I",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests or names her as Jakaira’s counterpart and mother of word-souls.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Jakaira Ru Ete": [
+   {
+    "stated_by": "karai",
+    "kind": "shared_myth",
+    "myth": "Commissioning in the First Earth discourse",
+    "note": "Karai receives the sacred fires while Jakaira receives the vivifying mist.",
+    "source": "Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests Jakaira and gives him consciousness of divinity.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "gift",
+    "myth": "Ordering the first earth",
+    "note": "Ñamandu entrusts Jakaira with life-giving mist, inspired words, and human wisdom.",
+    "source": "Ayvu Rapyta II–III",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "shared_myth",
+    "myth": "The fourfold Mbyá divine order",
+    "note": "Jakaira governs life-giving mist or smoke while Tupã governs waters and storms.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Mbyá path of aguyje",
+    "note": "His vivifying power supports ritual maturation that may lead to Yvy Marã Ey.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jakaira kuéry": [
+   {
+    "stated_by": "jakaira",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "They are Jakaira's collective divine children and agents.",
+    "source": "Ayvu Rapyta, chapters I–II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jakaira",
+    "kind": "served_by",
+    "myth": "Guardianship of life-bearing mist",
+    "note": "Jakaira's children guard the source of life-bearing mist and inspired words.",
+    "source": "Ayvu Rapyta, chapter II",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Japeusá": [
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Japeusá is Tumé Arandú’s brother in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Jasy": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "He is her younger son and later becomes associated with the Moon.",
+    "source": "Nimuendajú; Cadogan; Paĩ account",
+    "date": "1914–1976",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "nande_sy",
+    "kind": "other",
+    "myth": "Her bones and failed return",
+    "note": "He calls to her too soon, interrupting her reconstruction and causing its failure.",
+    "source": "Paĩ and Avá recensions",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "tupa",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Christian Guaraní calls Jesus Tupã Ra’y, meaning Son of Tupã or God.",
+    "source": "Mission catechisms",
+    "date": "seventeenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Karai Chy Ete": [
+   {
+    "stated_by": "karai",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Karai Chy Ete is Karai's divine counterpart and co-parent of human name-souls.",
+    "source": "Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "karai",
+    "kind": "created",
+    "myth": "Emergence of the divine mothers",
+    "note": "Karai makes or recognizes Karai Chy Ete as divine before his heart.",
+    "source": "Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests or names her as Karai’s counterpart and mother of word-souls.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Karai Jeupie": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "shared_myth",
+    "myth": "Karai Jeupie’s aguyje",
+    "note": "After the deluge he attains perfection, reaches indestructibility, and becomes Father Taparí.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Karai Py'a Guachu/Guasu": [
+   {
+    "stated_by": "karai",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "This collective comprises Karai's heavenly offspring, guardians and masters of sacred flame.",
+    "source": "Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "Karai Ru Ete": [
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests Karai and gives him consciousness of divinity.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "gift",
+    "myth": "Ordering the first earth",
+    "note": "Ñamandu assigns Karai sacred flames and asks that they lodge in human hearts.",
+    "source": "Ayvu Rapyta II–III",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "shared_myth",
+    "myth": "The fourfold Mbyá divine order",
+    "note": "Karai governs fire while Tupã governs waters and storms; no rivalry occurs.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Mbyá path of aguyje",
+    "note": "He participates in the divine order guiding word-souls toward ritual perfection.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Karai Ru Ete Mirĩ": [
+   {
+    "stated_by": "karai",
+    "kind": "other",
+    "myth": "Traditions concerning the master of peccaries",
+    "note": "A younger or lesser Karai belongs to Karai's domain, but their precise relation is uncertain.",
+    "source": "Cadogan's wider narrative corpus",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ka’i jagua": [
+   {
+    "stated_by": "monai",
+    "kind": "shared_myth",
+    "myth": "Mbyá solitary animal-monster complex",
+    "note": "Cadogan says the monkey-monster Ka’i jagua lives associated with Moñái.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Kuarahy Jára": [
+   {
+    "stated_by": "pombero",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Corrientes testimony identifies Kuarahy Jára, the Owner of the Sun, as Pombero.",
+    "source": "Ambrosetti, “Materiales”",
+    "date": "1893",
+    "tier": "attested"
+   }
+  ],
+  "Maino’i": [
+   {
+    "stated_by": "namandu",
+    "kind": "served_by",
+    "myth": "Self-manifestation in primordial darkness",
+    "note": "Maino’i refreshes Ñamandu’s mouth and sustains him with paradisal nourishment.",
+    "source": "Ayvu Rapyta I",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Marangatu": [
+   {
+    "stated_by": "ao_ao",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Ao Ao is Marangatu’s maternal grandson through Keraná.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Marangatu is Tumé Arandú’s brother in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "teju_jagua",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Marangatu is Teju Jagua’s maternal grandfather through Keraná.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929; Spanish 1937",
+    "tier": "canonical"
+   }
+  ],
+  "Marangatú": [
+   {
+    "stated_by": "kurupi",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Kurupí descends from Marangatú through Marangatú’s daughter Keraná.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "luison",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Marangatú is Luisón's maternal grandfather through Keraná.",
+    "source": "Colmán, Ñande Ĭpĭ Cuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   }
+  ],
+  "Mary": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Christian Guaraní discourse applies Ñande Sy to Mary or presents her as an Indigenous mother’s successor.",
+    "source": "Christian Guaraní texts",
+    "date": "colonial and later",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Christian Guaraní names Mary Tupãsy, meaning Mother of Tupã or God.",
+    "source": "Mission Guaraní",
+    "date": "seventeenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Mba’e Ypy": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "rescued_by",
+    "myth": "Mother among the primordial jaguars",
+    "note": "The elderly female tries to conceal her beneath a basket, pot, or vessel.",
+    "source": "Cadogan and Paĩ variants",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Morning star": [
+   {
+    "stated_by": "arasy",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "A later song poetically calls the celestial figure Arasy's child; its identity remains uncertain.",
+    "source": "Later song in Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "canonical"
+   }
+  ],
+  "Paraka": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "other",
+    "myth": "Discovery and the speaking parrot",
+    "note": "The parrot tells her sons that the jaguars devoured their mother.",
+    "source": "Cadogan’s Mbyá/Chiripá materials",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Parakáo Ñe’ẽngatu": [
+   {
+    "stated_by": "jasy",
+    "kind": "taught_by",
+    "myth": "Revelation of the mother’s killers",
+    "note": "The parrot tells Jasy and his brother that jaguars killed their mother.",
+    "source": "Cadogan; Kaiowá versions",
+    "date": "1945–present",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "other",
+    "myth": "Revelation by the parrot",
+    "note": "The parrot reveals that the jaguars killed Kuaray’s mother, precipitating his grief and revenge.",
+    "source": "Cadogan, Pa’i Rete Kuaray corpus",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Crossing the Great Sea",
+    "note": "He guards the crossing rope and guides worthy travelers toward the blessed country.",
+    "source": "Cadogan, Ayvu Rapyta, chapter VIII",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pa’i": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "shared_myth",
+    "myth": "Crossing the Great Sea",
+    "note": "He crosses the Great Sea and leaves Parakáo to guide later travelers.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Porãsy": [
+   {
+    "stated_by": "ao_ao",
+    "kind": "deceived_by",
+    "myth": "The supposed wedding in the cave",
+    "note": "Porãsy’s false wedding demand draws Ao Ao and his siblings into the cave.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "ao_ao",
+    "kind": "shared_myth",
+    "myth": "Burning of the seven monsters",
+    "note": "Porãsy remains inside and dies when the cave containing Ao Ao burns.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "jasy_jatere",
+    "kind": "deceived_by",
+    "myth": "Porãsy’s fatal cave stratagem",
+    "note": "Porãsy lures Jasy Jateré and his brothers into the sealed cave.",
+    "source": "Ñande Ypy Kuéra",
+    "date": "1929; Spanish version 1937",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "jasy_jatere",
+    "kind": "shared_myth",
+    "myth": "Cave gathering and shared death",
+    "note": "Jasy Jateré adores Porãsy and dies with her in the burning cave.",
+    "source": "Ñande Ypy Kuéra",
+    "date": "1929; Spanish version 1937",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "luison",
+    "kind": "fought",
+    "myth": "Porãsy gathers the monsters for destruction",
+    "note": "Porãsy sacrifices herself in a plan to gather and burn the monstrous brothers.",
+    "source": "Colmán-derived retellings",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "mboi_tui",
+    "kind": "deceived_by",
+    "myth": "Porãsy and the cave of the monsters",
+    "note": "Porãsy lures Mbói Tu'i and his brothers into a wedding trap.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mboi_tui",
+    "kind": "shared_myth",
+    "myth": "Porãsy and the cave of the monsters",
+    "note": "Porãsy sacrifices herself and dies in the cave with Mbói Tu'i.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "monai",
+    "kind": "seduced_by",
+    "myth": "Porãsy's false courtship",
+    "note": "Porãsy professes love and offers marriage to lure the aged Moñái.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "monai",
+    "kind": "deceived_by",
+    "myth": "Porãsy's false wedding",
+    "note": "Porãsy deceives Moñái into assembling all his brothers inside a cave.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "monai",
+    "kind": "killed_by",
+    "myth": "Porãsy's sacrifice and the burning cave",
+    "note": "Porãsy orders the sealed cave burned, killing Moñái, his brothers, and herself.",
+    "source": "Colmán, Ñande ĭpĭ cuéra, verse 1054",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Porãsy is Tumé Arandú’s sister in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "pai_sume",
+    "kind": "allied",
+    "myth": "Destruction of the seven monsters",
+    "note": "Porãsy sacrifices herself as bait in the plan Tumé helps organize against the monsters.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "teju_jagua",
+    "kind": "shared_myth",
+    "myth": "Porãsy and the burning cave",
+    "note": "Teju Jagua meets Porãsy, feels ashamed, and joins the gathering around her.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929; Spanish 1937",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "teju_jagua",
+    "kind": "killed_by",
+    "myth": "Porãsy and the burning cave",
+    "note": "Trapped inside, Porãsy orders the cave burned, killing Teju Jagua and herself.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929; Spanish 1937",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "transformed",
+    "myth": "Porãsy’s self-sacrifice",
+    "note": "After Porãsy sacrifices herself, Tupã raises or transforms her soul into a star or dawn-light.",
+    "source": "Colmán, Ñande Ypy Kuéra; popular versions",
+    "date": "1929 onward",
+    "tier": "modern"
+   }
+  ],
+  "Pytajovái": [
+   {
+    "stated_by": "angatupyry",
+    "kind": "fought",
+    "myth": "Pytajovái intervenes in the Kerana battle",
+    "note": "Pytajovái joins Taû’s side and knocks Angatupyry to the ground.",
+    "source": "Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tau_and_kerana",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Pytajovái is identified as Tau's grandfather or tamõi.",
+    "source": "Ñande Ypy Kuéra, ch. VII",
+    "date": "1922/1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tau_and_kerana",
+    "kind": "rescued_by",
+    "myth": "Pytajovái intervenes in Tau's battle",
+    "note": "Tau summons Pytajovái, who defeats Angatupyry and enables Kerana's abduction.",
+    "source": "Ñande Ypy Kuéra, ch. VII",
+    "date": "1922/1929",
+    "tier": "canonical"
+   }
+  ],
+  "Rupavê": [
+   {
+    "stated_by": "arasy",
+    "kind": "created",
+    "myth": "Creation of the first man",
+    "note": "Arasy participates with Tupã in creating Rupavê, though Tupã names him.",
+    "source": "Ñande Ypy Kuéra, ch. II",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "arasy",
+    "kind": "taught",
+    "myth": "Instruction of the first humans",
+    "note": "Arasy joins Tupã in instructing and marking Rupavê and Sypavê.",
+    "source": "Ñande Ypy Kuéra, ch. II",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "mboi_tui",
+    "kind": "punished_by",
+    "myth": "Mbói-Tuí and the secret path",
+    "note": "Rupavê curses Mbói Tu'i for revealing the guarded secret path.",
+    "source": "Argentine governmental educational publication",
+    "date": "2010s–2021",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "mboi_tui",
+    "kind": "transformed_by",
+    "myth": "Mbói-Tuí and the secret path",
+    "note": "Rupavê transforms the parrot into a wingless serpent-parrot.",
+    "source": "Argentine governmental educational publication",
+    "date": "2010s–2021",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "pai_sume",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Colmán makes Tumé Arandú the eldest son of Rupavê.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Rupavẽ": [
+   {
+    "stated_by": "tupa",
+    "kind": "created",
+    "myth": "Creation of the first humans",
+    "note": "Tupã forms and animates Rupavẽ as the first man.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "taught",
+    "myth": "Creation of the first humans",
+    "note": "Tupã blesses and instructs the newly created first man.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Saci-Pererê": [
+   {
+    "stated_by": "jasy_jatere",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later writers comparatively connect Saci with Jasy Jateré-like beings.",
+    "source": "Brazilian folklorists and later writers",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Saint John": [
+   {
+    "stated_by": "kaa_jaryi",
+    "kind": "shared_myth",
+    "myth": "The hospitable old man",
+    "note": "Saint John endorses generously rewarding her father, after which God makes her immortal.",
+    "source": "Ambrosetti, “La Leyenda de la Caá-Yarí”",
+    "date": "1898",
+    "tier": "attested"
+   }
+  ],
+  "Saint Peter": [
+   {
+    "stated_by": "kaa_jaryi",
+    "kind": "shared_myth",
+    "myth": "The hospitable old man",
+    "note": "Saint Peter endorses generously rewarding her father, after which God makes her immortal.",
+    "source": "Ambrosetti, “La Leyenda de la Caá-Yarí”",
+    "date": "1898",
+    "tier": "attested"
+   }
+  ],
+  "Saint Thomas the Apostle": [
+   {
+    "stated_by": "pai_sume",
+    "kind": "identified_with",
+    "myth": "Colonial identification of Sumé with the traveling apostle",
+    "note": "Missionaries fused Sumé with Saint Thomas through names, footprints, teaching, and travel traditions.",
+    "source": "Nóbrega’s letters; Montoya’s Conquista espiritual",
+    "date": "1549; 1639",
+    "tier": "syncretism"
+   }
+  ],
+  "Sypavê": [
+   {
+    "stated_by": "arasy",
+    "kind": "created",
+    "myth": "Creation of the first woman",
+    "note": "Arasy participates in creating Sypavê and declares her born in Arasy's likeness.",
+    "source": "Ñande Ypy Kuéra, ch. II",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "arasy",
+    "kind": "gift",
+    "myth": "Gift of the guava",
+    "note": "Arasy names Sypavê and gives her the guava, arasa.",
+    "source": "Ñande Ypy Kuéra, ch. II",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "arasy",
+    "kind": "taught",
+    "myth": "The first teaching",
+    "note": "Arasy teaches Sypavê cultivation, marriage, reciprocity, childcare, morality, and respect for life.",
+    "source": "Ñande Ypy Kuéra, ch. II",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "pai_sume",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Colmán makes Tumé Arandú the eldest son of Sypavê.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Sypavẽ": [
+   {
+    "stated_by": "tupa",
+    "kind": "created",
+    "myth": "Creation of the first humans",
+    "note": "Tupã and Arasy form and animate Sypavẽ as the first woman.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Ta’ytetu Jagua": [
+   {
+    "stated_by": "monai",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Cadogan's ambiguous wording may present Ta’ytetu Jagua as another designation for Moñái.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "monai",
+    "kind": "shared_myth",
+    "myth": "Mbyá solitary animal-monster complex",
+    "note": "Alternatively, Cadogan's wording may make Ta’ytetu Jagua another monster associated with Ka’i jagua and Moñái.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Tume-Arandu": [
+   {
+    "stated_by": "monai",
+    "kind": "fought",
+    "myth": "Plan to destroy the seven monsters",
+    "note": "Tume-Arandu strategically opposes Moñái by directing the plan undertaken by Porãsy.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   }
+  ],
+  "Tumê Arandu": [
+   {
+    "stated_by": "ao_ao",
+    "kind": "killed_by",
+    "myth": "Burning of the seven monsters",
+    "note": "Tumê applies the fire that kills Ao Ao and his siblings.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "mboi_tui",
+    "kind": "killed_by",
+    "myth": "Porãsy and the cave of the monsters",
+    "note": "Tumê seals and burns the cave, killing Mbói Tu'i and the others.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tau_and_kerana",
+    "kind": "fought",
+    "myth": "Tau's vengeance after the cave burning",
+    "note": "Tau seeks vengeance, but Tumê defeats him with his gaze and triangular sign.",
+    "source": "Ñande Ypy Kuéra, ch. XIII",
+    "date": "1922/1929",
+    "tier": "canonical"
+   }
+  ],
+  "Tumê Arandú": [
+   {
+    "stated_by": "jasy_jatere",
+    "kind": "killed_by",
+    "myth": "Burning of the seven brothers",
+    "note": "Tumê plans the deception, seals the cave, and orders the fatal fire.",
+    "source": "Ñande Ypy Kuéra",
+    "date": "1929; Spanish version 1937",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "teju_jagua",
+    "kind": "killed_by",
+    "myth": "Porãsy and the burning cave",
+    "note": "Tumê organizes the plan, seals the cavern, and burns Teju Jagua.",
+    "source": "Colmán, Ñande ĭpĭ cuéra",
+    "date": "1929; Spanish 1937",
+    "tier": "canonical"
+   }
+  ],
+  "Tupinambá": [
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Tupinambá is Tumé Arandú’s sister in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "Tupã Chy Ete": [
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests or names her as Tupã’s counterpart and mother of word-souls.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "tupa",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is Tupã Ru Ete’s female divine counterpart and generative partner.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tupã Ru Ete": [
+   {
+    "stated_by": "karai",
+    "kind": "shared_myth",
+    "myth": "Heating and cooling humanity",
+    "note": "Karai brings sacred heat to human hearts while Tupã provides cooling balance.",
+    "source": "Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests Tupã and gives him consciousness of divinity.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "gift",
+    "myth": "Ordering the first earth",
+    "note": "Ñamandu assigns Tupã waters, cooling forces, rain, and moderation of human hearts.",
+    "source": "Ayvu Rapyta II–III",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Destruction and renewal of the imperfect earth",
+    "note": "He participates in destroying and renewing the imperfect earth within Mbyá cosmology.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tyvyry": [
+   {
+    "stated_by": "kuaray",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ñanderyke’y and Tyvyry are same-mother brothers of differentiated paternity.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "taught",
+    "myth": "Culture-creating adventures",
+    "note": "Ñanderyke’y instructs his younger brother during their travels and transformations.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "allied",
+    "myth": "Vengeance on the jaguars",
+    "note": "Ñanderyke’y and Tyvyry cooperate in destroying the jaguars who killed their mother.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "shared_myth",
+    "myth": "Celestial differentiation",
+    "note": "Their final differentiation establishes the opposition between Sun and Moon.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Tyvýry": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Ñanderyke’y and Tyvýry are elder and younger brothers in the Apapocúva cycle.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "rescued_by",
+    "myth": "Testing medicines against snakes",
+    "note": "Tyvýry restores Ñanderyke’y by blowing life into him after a treatment fails.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Urukure’a": [
+   {
+    "stated_by": "namandu",
+    "kind": "served_by",
+    "myth": "Self-manifestation in primordial darkness",
+    "note": "Urukure’a produces or maintains darkness and rest around Ñamandu.",
+    "source": "Ayvu Rapyta I",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Yasy Yateré": [
+   {
+    "stated_by": "pombero",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Ambrosetti interpreted Pombero as a modification of Yasy Yateré, without narrating an encounter.",
+    "source": "Ambrosetti, “Materiales”",
+    "date": "1893",
+    "tier": "syncretism"
+   }
+  ],
+  "Yrasêma": [
+   {
+    "stated_by": "arasy",
+    "kind": "killed",
+    "myth": "Death of Yrasêma",
+    "note": "Tumê attributes Yrasêma's death to Arasy removing her breath.",
+    "source": "Ñande Ypy Kuéra, ch. V",
+    "date": "1929",
+    "tier": "canonical"
+   }
+  ],
+  "Yrasẽ": [
+   {
+    "stated_by": "pai_sume",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Yrasẽ is Tumé Arandú’s sister in Colmán’s literary genealogy.",
+    "source": "Colmán, Ñande Ypy Kuéra",
+    "date": "1929",
+    "tier": "modern"
+   }
+  ],
+  "the Pleiades": [
+   {
+    "stated_by": "ao_ao",
+    "kind": "identified_with",
+    "myth": "Souls of the seven become the Pleiades",
+    "note": "Ao Ao’s purified soul joins those of his siblings as the Pleiades.",
+    "source": "Colmán, Ñande Ypy Kuéra glossary",
+    "date": "1929",
+    "tier": "late_accretion"
+   }
+  ],
+  "the collective True Fathers and Mothers of the word-souls": [
+   {
+    "stated_by": "karai",
+    "kind": "shared_myth",
+    "myth": "Liturgical invocation of the divine rows",
+    "note": "Karai and his counterpart are invoked alongside the other divine parents.",
+    "source": "Ayvu Rapyta hymns",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "the divine father of Pa’i Rete Kuaray": [
+   {
+    "stated_by": "kuaray",
+    "kind": "child_of",
+    "myth": "",
+    "note": "The divine father generates Kuaray in the First Mother without ordinary intercourse.",
+    "source": "Cadogan, Ayvu Rapyta VIII",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "the jaguars": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "killed",
+    "myth": "Revenge at the sabotaged crossing",
+    "note": "The brothers drown or kill most jaguars after learning they murdered their mother.",
+    "source": "Guaraní ethnographic brother cycles",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "fought",
+    "myth": "Childhood among the jaguars",
+    "note": "The jaguars repeatedly try to boil, roast, crush, or eat the surviving brothers.",
+    "source": "Guaraní ethnographic brother cycles",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "fought",
+    "myth": "Vengeance on the jaguars",
+    "note": "Kuaray and his brother avenge the First Mother by trapping and overcoming the jaguar society.",
+    "source": "Cadogan and Nimuendajú corpora",
+    "date": "1914; 1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "killed",
+    "myth": "Vengeance on the jaguars",
+    "note": "The brothers destroy most jaguars through deadfalls, deceptive invitations, and treacherous water crossings.",
+    "source": "Cadogan and Nimuendajú corpora",
+    "date": "1914; 1959",
+    "tier": "attested"
+   }
+  ],
+  "the unnamed Tupã-associated dogs": [
+   {
+    "stated_by": "teju_jagua",
+    "kind": "fought",
+    "myth": "The Mbyá dragon combat",
+    "note": "The dogs repeatedly attack and exhaust the tejujagua, enabling their master to kill it.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñamandu Chy Ete": [
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu brings forth or appoints the true mother corresponding to the Ñamandu father.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "She is Ñamandu’s corresponding feminine source within the paired divine structure.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "Ñamandu Py’a Guachu": [
+   {
+    "stated_by": "jakaira",
+    "kind": "shared_myth",
+    "myth": "Unfolding of divinity",
+    "note": "They belong together among the principal fathers and sources of word-souls.",
+    "source": "Ayvu Rapyta, chapter I",
+    "date": "1959",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "created",
+    "myth": "Manifestation of the divine companions",
+    "note": "Ñamandu manifests him or them as future fathers of divine children and word-souls.",
+    "source": "Ayvu Rapyta II",
+    "date": "1959",
+    "tier": "attested"
+   }
+  ],
+  "Ñamandu Ru Ete": [
+   {
+    "stated_by": "kuaray",
+    "kind": "shared_myth",
+    "myth": "Celestial ordering of Sun and Moon",
+    "note": "Kuaray belongs to the divine order established by the primordial father.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "canonical"
+   }
+  ],
+  "Ñamandu Ru Ete Tenonde": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Mbyá path of aguyje",
+    "note": "His cosmological order establishes the perfected divine realm associated with Yvy Marã Ey.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñande Jari": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "other",
+    "myth": "",
+    "note": "She is Ñande Ru’s mother and thus Ñande Sy’s mother-in-law.",
+    "source": "Paĩ-Tavyterã materials",
+    "date": "1976",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "nande_sy",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some narrators blur the older female ancestor with Ñande Sy.",
+    "source": "Paĩ-Tavyterã materials",
+    "date": "1976",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñande Ru": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "shared_myth",
+    "myth": "Primordial pair born together",
+    "note": "Some Kaiowá narrators call them coeval primordial beings, not spouses.",
+    "source": "Kaiowá field study",
+    "date": "recent",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñande Ru Mba’ekuaa": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "created_by",
+    "myth": "Making of the First Mother",
+    "note": "He helps Ñanderuvusu form or obtain Ñande Sy.",
+    "source": "Nimuendajú",
+    "date": "1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "nande_sy",
+    "kind": "consort_of",
+    "myth": "Two-father conception",
+    "note": "He has relations with her and fathers the second child.",
+    "source": "Nimuendajú",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Ñande Ru Pa-pa": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Kuaray’s conception and divine status belong to the Mbyá first-father complex.",
+    "source": "Cadogan, Ayvu Rapyta",
+    "date": "1959",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñande Ru Pavẽ": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Paĩ accounts make him her husband or divine counterpart.",
+    "source": "Melià and the Grünbergs",
+    "date": "1976",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "nande_sy",
+    "kind": "other",
+    "myth": "Pregnant mother’s journey",
+    "note": "He leaves her pregnant after death, anger, or departure to heaven.",
+    "source": "Melià and the Grünbergs",
+    "date": "1976",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñande Ru Vusu": [
+   {
+    "stated_by": "jasy",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Jasy is a son or descendant of the primordial father.",
+    "source": "Nimuendajú; Kaiowá ethnographies",
+    "date": "1914–present",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñandecy": [
+   {
+    "stated_by": "kuaray",
+    "kind": "child_of",
+    "myth": "",
+    "note": "In the Apapokúva recension, Ñanderyke’y is carried in Ñandecy’s womb.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "rescued",
+    "myth": "Attempted restoration of the mother",
+    "note": "Ñanderyke’y unsuccessfully attempts to reconstruct his mother from her remains.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñanderu Mbaecuaá": [
+   {
+    "stated_by": "kuaray",
+    "kind": "other",
+    "myth": "",
+    "note": "As Tyvyry’s attributed father, he establishes the brothers’ differentiated paternity without a prominent direct encounter.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñanderu Mbaekuaa": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Tyvýry belongs to the dual-paternity genealogy involving Ñanderu Mbaekuaa.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Ñanderu Mba’ekuaa": [
+   {
+    "stated_by": "jasy",
+    "kind": "child_of",
+    "myth": "",
+    "note": "He fathers the astral brothers and, in some readings, the junior hero.",
+    "source": "Nimuendajú",
+    "date": "1914",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñanderuvuçú": [
+   {
+    "stated_by": "guarani_twins",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Ñanderyke’y belongs to the Apapocúva dual-paternity genealogy involving the great creator.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "guarani_twins",
+    "kind": "other",
+    "myth": "Journey toward the celestial father",
+    "note": "Ñanderyke’y seeks or communicates with his creator-father and approaches his celestial sphere.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "child_of",
+    "myth": "",
+    "note": "In the Apapokúva recension, Ñanderyke’y is Ñanderuvuçú’s elder son.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kuaray",
+    "kind": "other",
+    "myth": "Ritual communication with the absent father",
+    "note": "Ñanderyke’y communicates with his departed father through shamanic song and dance, receiving power or direction.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "namandu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later scholarship compares or equates this Apapocúva creator with Ñamandu, without a narrative meeting.",
+    "source": "Nimuendajú and later scholarship",
+    "date": "1914 and later",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Apapokúva destruction and eastward escape",
+    "note": "His created world is destroyed; Yvy Marã Ey remains the sought refuge.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Ñanderýke’y": [
+   {
+    "stated_by": "yvy_mara_ey",
+    "kind": "other",
+    "myth": "Apapokúva destruction and eastward escape",
+    "note": "He removes the earth’s eastern support, causing the catastrophe escaped through Yvy Marã Ey.",
+    "source": "Nimuendajú, Die Sagen",
+    "date": "1914",
+    "tier": "attested"
+   }
+  ],
+  "Ñane Ramõi Jusu Papa": [
+   {
+    "stated_by": "nande_sy",
+    "kind": "other",
+    "myth": "",
+    "note": "He is her father-in-law in the differentiated Paĩ divine genealogy.",
+    "source": "Paĩ-Tavyterã materials",
+    "date": "1976",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "nande_sy",
+    "kind": "consort_of",
+    "myth": "Transferred marital quarrel",
+    "note": "Conflated accounts transfer the younger pair’s marital quarrel to the older pair.",
+    "source": "Paĩ-Tavyterã materials",
+    "date": "1976",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

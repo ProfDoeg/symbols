@@ -1,0 +1,347 @@
+{
+ "subject": "valkyries",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Choosing Hákon for Valhǫll",
+   "note": "Óðinn sends Gǫndul and Skǫgul to choose Hákon and announce his arrival.",
+   "source": "Hákonarmál",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Choosing the battle-slain",
+   "note": "Óðinn dispatches Valkyries to battles, where they determine death and victory.",
+   "source": "Gylfaginning 36",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Battle-riders choose the slain",
+   "note": "Gunnr, Róta, and Skuld ride at Óðinn’s command to govern fighting.",
+   "source": "Gylfaginning 36",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Sigrdrífa grants forbidden victory",
+   "note": "Óðinn gives Sigrdrífa a sleep-thorn after she grants victory against his will.",
+   "source": "Sigrdrífumál; Vǫlsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Óðinn determines Helgi’s destiny",
+   "note": "Sigrún attributes Helgi’s spirit or victory-related destiny indirectly to Óðinn.",
+   "source": "Helgakviða Hundingsbana II",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Norns",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Skuld appears among both Norns and battle-riding Valkyries, demonstrating categorical overlap.",
+   "source": "Vǫluspá; Gylfaginning",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "dísir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Some Valkyries belong to the broader category of dísir, though the terms are not synonyms.",
+   "source": "Old Norse poetic corpus",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hákon received in Valhǫll",
+   "note": "Bragi welcomes Hákon after Gǫndul and Skǫgul select the fallen king.",
+   "source": "Hákonarmál",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hákon received in Valhǫll",
+   "note": "Hermóðr joins Bragi in welcoming Hákon after the Valkyries select him.",
+   "source": "Hákonarmál",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Tisiphone",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An Old English gloss uses wælcyrge as a learned equivalent for Tisiphone.",
+   "source": "Corpus Glossary tradition",
+   "date": "c. 800",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Alecto",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Old English glossary tradition uses wælcyrge to translate the Fury Alecto.",
+   "source": "Old English glossaries",
+   "date": "eighth–eleventh centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Furies"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Old English glossators equate wælcyrge with classical female agents of vengeance and terror.",
+   "source": "Old English glossaries",
+   "date": "eighth–eleventh centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bellona",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Old English glossators use wælcyrge for the Roman war-goddess Bellona.",
+   "source": "Old English glossaries",
+   "date": "eighth–eleventh centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "One Old English glossary tradition uses wælcyrge to translate Venus.",
+   "source": "Old English glossaries",
+   "date": "eighth–eleventh centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gorgons",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Old English glosses associate wælcyrge with Gorgon-related classical terms.",
+   "source": "Old English glossaries",
+   "date": "eighth–eleventh centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helgi Hjörvarðsson",
+   "other_aliases": [
+    "Helgi"
+   ],
+   "kind": "gift",
+   "myth": "Sváva names the silent prince",
+   "note": "Sváva gives the nameless prince his name and directs him toward a sword.",
+   "source": "Helgakviða Hjǫrvarðssonar",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Helgi Hjörvarðsson",
+   "other_aliases": [
+    "Helgi"
+   ],
+   "kind": "allied",
+   "myth": "Sváva protects Helgi",
+   "note": "Sváva protects Helgi in battle and continues riding to battles after their betrothal.",
+   "source": "Helgakviða Hjǫrvarðssonar",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Helgi Hjörvarðsson",
+   "other_aliases": [
+    "Helgi"
+   ],
+   "kind": "consort_of",
+   "myth": "Sváva and Helgi’s love",
+   "note": "Sváva becomes Helgi’s beloved after he requests her hand from her father.",
+   "source": "Helgakviða Hjǫrvarðssonar",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Helgi Hundingsbani",
+   "other_aliases": [
+    "Helgi"
+   ],
+   "kind": "allied",
+   "myth": "Sigrún chooses Helgi",
+   "note": "Sigrún warns and supports Helgi against the marriage arranged with Hǫðbroddr.",
+   "source": "Helgakviða Hundingsbana I–II",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Helgi Hundingsbani",
+   "other_aliases": [
+    "Helgi"
+   ],
+   "kind": "consort_of",
+   "myth": "Sigrún marries Helgi",
+   "note": "Sigrún chooses and marries Helgi after the war against Hǫðbroddr.",
+   "source": "Helgakviða Hundingsbana I–II",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigurðr",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Awakening on Hindarfjall",
+   "note": "Sigurðr cuts away the sleeper’s armor and awakens Sigrdrífa or Brynhildr.",
+   "source": "Sigrdrífumál; Vǫlsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigurðr",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Sigrdrífa teaches the runes",
+   "note": "The awakened Valkyrie teaches Sigurðr magical runes, ritual knowledge, and ethical counsel.",
+   "source": "Sigrdrífumál",
+   "date": "early poetic",
+   "tier": "attested"
+  },
+  {
+   "other": "Sigurðr",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Sigurðr crosses the fire disguised",
+   "note": "Sigurðr assumes Gunnarr’s shape, wins Brynhildr, and conceals his identity.",
+   "source": "Vǫlsunga saga",
+   "date": "late thirteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vǫlundr",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "The swan-valkyries marry three brothers",
+   "note": "A swan-clad Valkyrie lives with Vǫlundr for years before departing.",
+   "source": "Vǫlundarkviða",
+   "date": "early poetic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heðinn",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Hildr and the everlasting battle",
+   "note": "Hildr is represented as Heðinn’s abducted lover in the Hjaðningavíg tradition.",
+   "source": "Ragnarsdrápa; Skáldskaparmál",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helgi Haddingjaskati",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Kára’s fatal protection",
+   "note": "Kára flies above Helgi in swan form and protects him magically during battle.",
+   "source": "Hrómundar saga Gripssonar",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helgi Haddingjaskati",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Kára’s fatal protection",
+   "note": "Helgi accidentally cuts off Kára’s leg, destroying her protective power.",
+   "source": "Hrómundar saga Gripssonar",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner’s nine Walküren are Wotan’s daughters and supernatural battle-agents.",
+   "source": "Die Walküre",
+   "date": "1850s",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Gathering fallen heroes",
+   "note": "Wotan commands the Walküren to gather fallen heroes for his forces.",
+   "source": "Die Walküre",
+   "date": "1850s",
+   "tier": "modern"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Brünnhilde defies Wotan",
+   "note": "Wotan strips Brünnhilde’s divinity, puts her to sleep, and surrounds her with fire.",
+   "source": "Die Walküre",
+   "date": "1850s",
+   "tier": "modern"
+  },
+  {
+   "other": "Erda",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Brünnhilde the daughter of Wotan and Erda.",
+   "source": "Ring libretti",
+   "date": "1850s",
+   "tier": "modern"
+  },
+  {
+   "other": "Fricka",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Fricka demands Siegmund’s punishment",
+   "note": "Fricka’s demand forces Wotan’s command against Siegmund, which Brünnhilde disobeys.",
+   "source": "Die Walküre",
+   "date": "1850s",
+   "tier": "modern"
+  },
+  {
+   "other": "Siegmund",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Brünnhilde protects Siegmund",
+   "note": "Brünnhilde chooses to protect Siegmund after understanding Wotan’s suppressed desire.",
+   "source": "Die Walküre",
+   "date": "1850s",
+   "tier": "modern"
+  }
+ ]
+}

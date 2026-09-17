@@ -1,0 +1,1966 @@
+{
+ "folder": "amazonian",
+ "gods": [
+  "amachegua",
+  "ayaymama",
+  "ayots_avireri",
+  "bufeo_colorado",
+  "chullachaqui",
+  "itomi_pava",
+  "kamari",
+  "kashiri",
+  "maninkari",
+  "pareni",
+  "pava",
+  "pishtaco",
+  "poporrona_kiri",
+  "runamula",
+  "sachamama",
+  "shapshico",
+  "tasorentsi",
+  "tunche",
+  "yacumama",
+  "yacuruna",
+  "yos",
+  "yosoper_korioshpiri"
+ ],
+ "relations": [
+  {
+   "a": "amachegua",
+   "b": "itomi_pava",
+   "kind": "identified_with",
+   "myth": "The celestial helper descends to aid Asháninka fighters",
+   "note": "Amachénga and Itomi Pavá overlap as returning celestial-helper categories, though exact equivalence remains disputed.",
+   "source": "Sala; Weiss; Brown and Fernández",
+   "date": "1897–1991",
+   "tier": "attested",
+   "stated_by": [
+    "itomi_pava"
+   ]
+  },
+  {
+   "a": "amachegua",
+   "b": "kamari",
+   "kind": "fought",
+   "myth": "Shamanic struggle against malign forces",
+   "note": "Amachegua assist shamans in combating malevolent Kamári forces.",
+   "source": "Asháninka healing ethnography",
+   "date": "twentieth century",
+   "tier": "attested",
+   "stated_by": [
+    "amachegua"
+   ]
+  },
+  {
+   "a": "amachegua",
+   "b": "pava",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Good celestial spirits are classified as itome Pawa, children of Pava.",
+   "source": "Amônia River ethnography",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "amachegua",
+    "pava"
+   ]
+  },
+  {
+   "a": "amachegua",
+   "b": "pava",
+   "kind": "served",
+   "myth": "The envoy from Father Sun",
+   "note": "An Amachegua claimed Father Sun sent him to deliver political instructions.",
+   "source": "Reina account",
+   "date": "1942",
+   "tier": "late_accretion",
+   "stated_by": [
+    "amachegua"
+   ]
+  },
+  {
+   "a": "amachegua",
+   "b": "tasorentsi",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some accounts equate Tasórentsi with Amachegua; others make them the highest rank.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1975",
+   "tier": "attested",
+   "stated_by": [
+    "amachegua"
+   ]
+  },
+  {
+   "a": "ayaymama",
+   "b": "kashiri",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "In the Awajún cycle, Ayaymama is Nántu's wife.",
+   "source": "Auju nantujai / La ayaymama y el luna",
+   "date": "2025",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayaymama"
+   ]
+  },
+  {
+   "a": "ayaymama",
+   "b": "kashiri",
+   "kind": "deceived",
+   "myth": "Ayaymama conceals ripe squash from Moon",
+   "note": "She eats ripe squash secretly and serves Nántu unripe squash.",
+   "source": "Auju nantujai / La ayaymama y el luna",
+   "date": "2025",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayaymama"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "In the usual Asháninka genealogy, Avíreri is Kíri’s grandfather.",
+   "source": "Weiss fieldwork",
+   "date": "1960–64",
+   "tier": "attested",
+   "stated_by": [
+    "ayots_avireri",
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "identified_with",
+   "myth": "Avíreri and Kíri merge in the palm variant",
+   "note": "One Asháninka variant does not distinguish them and makes Avíreri the peach-palm.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1970",
+   "tier": "regional_variant",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "other",
+   "myth": "",
+   "note": "Quërí is Mábireri’s young relative; the precise kin relationship varies.",
+   "source": "Nomatsigenga narrative; Shaver and Dodds",
+   "date": "1990",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayots_avireri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poporrona’ is explicitly Ayots’s son, whom he carries because he cannot walk.",
+   "source": "Yanesha versions; Santos-Granero",
+   "date": "recorded 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayots_avireri",
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Poporrona’s questions trigger Ayots’s transformations",
+   "note": "Ayots names encountered beings in response to Poporrona’s questions, transforming them.",
+   "source": "Yanesha versions; Santos-Granero",
+   "date": "recorded 1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayots_avireri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Transformer journeys and Kíri’s pursuit",
+   "note": "Avíreri carries Kíri, who prompts transformations, mourns him, and later becomes peach-palm.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1969/1975",
+   "tier": "canonical",
+   "stated_by": [
+    "ayots_avireri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Quërí’s questions precipitate Mábireri’s transformations",
+   "note": "Mábireri carries Quërí and transforms encountered people after the child questions him.",
+   "source": "Nomatsigenga narrative; Shaver and Dodds",
+   "date": "1990",
+   "tier": "regional_variant",
+   "stated_by": [
+    "ayots_avireri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Ayots carries Poporrona' during his transforming journey",
+   "note": "Poporrona's repeated questions provoke Ayots into transforming encountered primordial people.",
+   "source": "Santos-Granero, The Power of Love",
+   "date": "1991",
+   "tier": "regional_variant",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Poporrona' plans to repeat Ayots's cannibal flood",
+   "note": "Poporrona' inherits Ayots's transformative powers and plans to imitate his river-damming flood.",
+   "source": "Santos-Granero, Saint Christopher in the Amazon",
+   "date": "2002",
+   "tier": "regional_variant",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Kíri provokes Avíreri's primordial transformations",
+   "note": "Avíreri carries Kíri, whose questions prompt him to transform encountered people.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1970",
+   "tier": "attested",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Kíri follows Avíreri toward Otsitiríko",
+   "note": "Grieving for his grandfather, Kíri follows Avíreri but is overtaken and killed.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1970",
+   "tier": "attested",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "poporrona_kiri",
+   "kind": "shared_myth",
+   "myth": "Mábireri and Quërí form the Nomatsigenga pair",
+   "note": "Quërí accompanies the elder transformer Mábireri, though accessible details remain incomplete.",
+   "source": "Shaver and Dodd, Los Nomatsiguenga",
+   "date": "1990",
+   "tier": "regional_variant",
+   "stated_by": [
+    "poporrona_kiri"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "tasorentsi",
+   "kind": "identified_with",
+   "myth": "Avíreri’s transformations",
+   "note": "Rojas identifies Wise’s character called Tasorentsi as Avíreri bearing the class-title.",
+   "source": "Wise; Rojas Zolezzi",
+   "date": "1972/1994",
+   "tier": "attested",
+   "stated_by": [
+    "tasorentsi"
+   ]
+  },
+  {
+   "a": "ayots_avireri",
+   "b": "yos",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ayots, the gigantic malicious being, is expressly called Yato’ Yos’s son.",
+   "source": "Santos-Granero",
+   "date": "2002/2005",
+   "tier": "canonical",
+   "stated_by": [
+    "yos"
+   ]
+  },
+  {
+   "a": "bufeo_colorado",
+   "b": "chullachaqui",
+   "kind": "other",
+   "myth": "Analogy of telltale animal features",
+   "note": "The bufeo’s blowhole is compared to Chullachaqui’s mismatched or animal foot.",
+   "source": "Las tres mitades de Ino Moxo",
+   "date": "1981",
+   "tier": "late_accretion",
+   "stated_by": [
+    "bufeo_colorado"
+   ]
+  },
+  {
+   "a": "bufeo_colorado",
+   "b": "yacuruna",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Napo and Loreto accounts classify the bufeo as a water person.",
+   "source": "Regan’s Loreto corpus",
+   "date": "1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "bufeo_colorado"
+   ]
+  },
+  {
+   "a": "bufeo_colorado",
+   "b": "yacuruna",
+   "kind": "identified_with",
+   "myth": "The dolphin assumes human form to seek a lover",
+   "note": "Yacuruna may manifest as a dolphin disguised as a human lover or acquaintance.",
+   "source": "Regan, Hacia la tierra sin mal",
+   "date": "1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "yacuruna"
+   ]
+  },
+  {
+   "a": "chullachaqui",
+   "b": "kamari",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern Spanish-regional discourse compares Chullachaqui with deceptive kamari forest beings.",
+   "source": "Modern regional folklore",
+   "date": "present",
+   "tier": "modern",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "chullachaqui",
+   "b": "runamula",
+   "kind": "other",
+   "myth": "Runachaqui creative genealogy",
+   "note": "A children’s project makes Runamula and Chullachaqui the parents of Runachaqui.",
+   "source": "Runachaqui educational-cultural project",
+   "date": "2014",
+   "tier": "modern",
+   "stated_by": [
+    "runamula"
+   ]
+  },
+  {
+   "a": "chullachaqui",
+   "b": "shapshico",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Regionally treated as another name or locally equivalent forest being.",
+   "source": "Regan, Hacia la tierra sin mal",
+   "date": "1983",
+   "tier": "regional_variant",
+   "stated_by": [
+    "chullachaqui",
+    "shapshico"
+   ]
+  },
+  {
+   "a": "itomi_pava",
+   "b": "kamari",
+   "kind": "identified_with",
+   "myth": "Ashivánti questions Lobatón’s divine identity",
+   "note": "A skeptic warned that the supposed Itomi Pavá might instead be a deceptive kamári.",
+   "source": "Brown and Fernández, War of Shadows",
+   "date": "1965; published 1991",
+   "tier": "attested",
+   "stated_by": [
+    "itomi_pava"
+   ]
+  },
+  {
+   "a": "itomi_pava",
+   "b": "kashiri",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Kashíri fathers the Sun, making Pavá’s children his indirect descendants.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1975",
+   "tier": "regional_variant",
+   "stated_by": [
+    "itomi_pava"
+   ]
+  },
+  {
+   "a": "itomi_pava",
+   "b": "pava",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Itomi Pavá literally denotes Pavá’s son or children and celestial emissaries.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1960s–1975",
+   "tier": "attested",
+   "stated_by": [
+    "itomi_pava"
+   ]
+  },
+  {
+   "a": "itomi_pava",
+   "b": "pava",
+   "kind": "child_of",
+   "myth": "Return of a son of the Sun",
+   "note": "Divine children and returning civilizing emissaries bear this relational title.",
+   "source": "Brown and Fernández, War of Shadows",
+   "date": "1991",
+   "tier": "late_accretion",
+   "stated_by": [
+    "pava"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "maninkari",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "One consultant classified kamári as maninkari because both are invisible; others opposed the categories.",
+   "source": "Bajo Perené interviews",
+   "date": "c. 2009–2010",
+   "tier": "regional_variant",
+   "stated_by": [
+    "maninkari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "maninkari",
+   "kind": "other",
+   "myth": "",
+   "note": "Benevolent invisible beings are structurally contrasted with harmful kamari.",
+   "source": "Weiss and later summaries",
+   "date": "1975 and later",
+   "tier": "attested",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "pishtaco",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern speakers may broadly classify Pishtaco as kamari despite important differences.",
+   "source": "Espinosa and regional discourse",
+   "date": "2022–2023",
+   "tier": "modern",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "tasorentsi",
+   "kind": "created_by",
+   "myth": "Creation of all beings",
+   "note": "Some recent Christianized accounts say Tasorintsi created all beings, including kamari.",
+   "source": "Twenty-first-century elicited accounts",
+   "date": "twenty-first century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "tunche",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern regional discourse sometimes assimilates Tunche to kamori, Sashintsi, or whistling dead spirits.",
+   "source": "Modern regional folklore",
+   "date": "present",
+   "tier": "modern",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "yosoper_korioshpiri",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Koriošpiri is called the father of the kamari or demons.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "fieldwork 1960–1964; published 1975",
+   "tier": "attested",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "yosoper_korioshpiri",
+   "kind": "other",
+   "myth": "Rule of Sharinkaueni",
+   "note": "Korioshpiri governs Sharinkaueni as lord, ruler, or protector of its demons.",
+   "source": "Weiss fieldwork",
+   "date": "1960–1964",
+   "tier": "attested",
+   "stated_by": [
+    "yosoper_korioshpiri"
+   ]
+  },
+  {
+   "a": "kamari",
+   "b": "yosoper_korioshpiri",
+   "kind": "served",
+   "myth": "",
+   "note": "Koriošpiri rules the kamari or demons.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1975",
+   "tier": "attested",
+   "stated_by": [
+    "kamari"
+   ]
+  },
+  {
+   "a": "kashiri",
+   "b": "pava",
+   "kind": "fought",
+   "myth": "Eclipse battle",
+   "note": "Kashiri periodically fights the Sun, causing eclipses.",
+   "source": "Amônia ethnographic synthesis",
+   "date": "modern",
+   "tier": "regional_variant",
+   "stated_by": [
+    "kashiri"
+   ]
+  },
+  {
+   "a": "kashiri",
+   "b": "pava",
+   "kind": "parent_of",
+   "myth": "Birth of the Sun",
+   "note": "Kashiri impregnates a woman who bears the solar being and dies.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "fieldwork 1960–1964; published 1975",
+   "tier": "canonical",
+   "stated_by": [
+    "kashiri",
+    "pava"
+   ]
+  },
+  {
+   "a": "kashiri",
+   "b": "pava",
+   "kind": "shared_myth",
+   "myth": "Departure after human ingratitude",
+   "note": "They lived among humans and taught proper life before Pavá withdrew.",
+   "source": "Regional oral tradition",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "pava"
+   ]
+  },
+  {
+   "a": "kashiri",
+   "b": "tasorentsi",
+   "kind": "created_by",
+   "myth": "Creation of the paired moons",
+   "note": "Tasorentsi co-creates Kashiri Ash and arranges his lunar marriage.",
+   "source": "Modern anthroponymic corpus",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "kashiri"
+   ]
+  },
+  {
+   "a": "kashiri",
+   "b": "tasorentsi",
+   "kind": "other",
+   "myth": "",
+   "note": "Kashíri, the Moon, is listed among the principal transforming beings called tasorentsi.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1972/1975",
+   "tier": "attested",
+   "stated_by": [
+    "tasorentsi"
+   ]
+  },
+  {
+   "a": "maninkari",
+   "b": "pava",
+   "kind": "served",
+   "myth": "Heavenly court",
+   "note": "Maninkari identified as angels serve within Pavá’s heavenly court.",
+   "source": "Ashéninka Perené Revelation 21–22",
+   "date": "modern missionary era",
+   "tier": "syncretism",
+   "stated_by": [
+    "maninkari"
+   ]
+  },
+  {
+   "a": "maninkari",
+   "b": "tasorentsi",
+   "kind": "other",
+   "myth": "",
+   "note": "Some recent classifications place maninkari alongside or beneath tasorentsi.",
+   "source": "Bajo Perené comparative study",
+   "date": "1994/2006",
+   "tier": "modern",
+   "stated_by": [
+    "maninkari"
+   ]
+  },
+  {
+   "a": "pava",
+   "b": "tasorentsi",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some traditions identify singular Tasorentsi with Pavá, the solar Father.",
+   "source": "Weiss, Campa Cosmology",
+   "date": "1972/1975",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tasorentsi"
+   ]
+  },
+  {
+   "a": "pava",
+   "b": "tasorentsi",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some regional accounts call Tasorentsi a son, child, or emissary of Pavá.",
+   "source": "Payne and contemporary traditions",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "regional_variant",
+   "stated_by": [
+    "tasorentsi"
+   ]
+  },
+  {
+   "a": "poporrona_kiri",
+   "b": "yos",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Poporrona' is Yato' Yos's grandson through Ayots.",
+   "source": "Santos-Granero, The Power of Love",
+   "date": "1991",
+   "tier": "regional_variant",
+   "stated_by": [
+    "poporrona_kiri",
+    "yos"
+   ]
+  },
+  {
+   "a": "sachamama",
+   "b": "yacumama",
+   "kind": "other",
+   "myth": "",
+   "note": "Aquatic Yacumama is Sachamama’s complementary water-serpent counterpart.",
+   "source": "Regan; Luna",
+   "date": "1983; 1986",
+   "tier": "regional_variant",
+   "stated_by": [
+    "sachamama"
+   ]
+  },
+  {
+   "a": "sachamama",
+   "b": "yacumama",
+   "kind": "shared_myth",
+   "myth": "The two cosmic serpents",
+   "note": "They emerge from Ukhu Pacha and connect the lower, middle, and upper worlds.",
+   "source": "Valcárcel, Símbolos mágico-religiosos",
+   "date": "1959/1964",
+   "tier": "modern",
+   "stated_by": [
+    "sachamama"
+   ]
+  },
+  {
+   "a": "sachamama",
+   "b": "yacumama",
+   "kind": "shared_myth",
+   "myth": "Joint passage through the three worlds",
+   "note": "They emerge underground, assume river and tree forms, then ascend as lightning and rainbow.",
+   "source": "Valcárcel synthesis",
+   "date": "1959",
+   "tier": "late_accretion",
+   "stated_by": [
+    "yacumama"
+   ]
+  },
+  {
+   "a": "yacumama",
+   "b": "yacuruna",
+   "kind": "identified_with",
+   "myth": "The water person appears as a great boa",
+   "note": "Yacuruna overlap or transform into great boas understood as water owners or deceased shamans.",
+   "source": "Regan; Luna; Kukama ethnography",
+   "date": "1983–2026",
+   "tier": "regional_variant",
+   "stated_by": [
+    "yacuruna"
+   ]
+  },
+  {
+   "a": "yos",
+   "b": "yosoper_korioshpiri",
+   "kind": "contest",
+   "myth": "Rival creation of beneficial and harmful beings",
+   "note": "Yosoper imitates Yato’ Yos, producing rival harmful creatures and demons.",
+   "source": "Wise/Duff-Tripp; Smith; Santos-Granero",
+   "date": "1950s–2012",
+   "tier": "canonical",
+   "stated_by": [
+    "yos"
+   ]
+  },
+  {
+   "a": "yos",
+   "b": "yosoper_korioshpiri",
+   "kind": "gift",
+   "myth": "Creation of the intermediate human world",
+   "note": "Yosoper gives or lends earth that Yato’ Yos uses for another world.",
+   "source": "Wise/Duff-Tripp; Smith; Santos-Granero",
+   "date": "1950s–2012",
+   "tier": "canonical",
+   "stated_by": [
+    "yos"
+   ]
+  },
+  {
+   "a": "yos",
+   "b": "yosoper_korioshpiri",
+   "kind": "gift",
+   "myth": "Offer of saliva for creation",
+   "note": "The bad brother offers saliva; Yato’ Yos refuses to avoid his control.",
+   "source": "Bautista narration",
+   "date": "recorded 2008",
+   "tier": "regional_variant",
+   "stated_by": [
+    "yos"
+   ]
+  },
+  {
+   "a": "yos",
+   "b": "yosoper_korioshpiri",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Yosoper is Yato’ Yos’s elder or classificatory brother and creative antagonist.",
+   "source": "Smith; Santos-Granero",
+   "date": "1977–2012",
+   "tier": "canonical",
+   "stated_by": [
+    "yos"
+   ]
+  },
+  {
+   "a": "yos",
+   "b": "yosoper_korioshpiri",
+   "kind": "theft",
+   "myth": "Appropriation of the first new earth",
+   "note": "Yosoper appropriates the first lower earth created by Yato’ Yos.",
+   "source": "Wise/Duff-Tripp; Smith; Santos-Granero",
+   "date": "1950s–2012",
+   "tier": "canonical",
+   "stated_by": [
+    "yos"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Anitetepue": [
+   {
+    "stated_by": "ayaymama",
+    "kind": "shared_myth",
+    "myth": "Anitetepue kills the abandoned children's mother",
+    "note": "After Anitetepue kills their mother, Ayaymama imitates the children's lament.",
+    "source": "Dávila Herrera citing Revista Selva 36",
+    "date": "1985 or later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Antichrist": [
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "One modern Asháninka interview explicitly identifies Korioshpiri as the Antichrist.",
+    "source": "Asháninka interview",
+    "date": "twenty-first century",
+    "tier": "modern"
+   }
+  ],
+  "Armadillo": [
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "other",
+    "myth": "",
+    "note": "Armadillo is Ayots or Avíreri’s brother-in-law through his unnamed sister.",
+    "source": "Weiss; Santos-Granero",
+    "date": "1969–2002",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "punished_by",
+    "myth": "Armadillo seals Ayots in an underground house",
+    "note": "After Ayots transforms his children, Armadillo traps and permanently confines him underground.",
+    "source": "Yanesha versions; Santos-Granero",
+    "date": "recorded 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "transformed",
+    "myth": "Avíreri’s fall through the dancing-ground trap",
+    "note": "After falling into the trap, Avíreri transforms his frightened brother-in-law into armadillo.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1969/1975",
+    "tier": "canonical"
+   }
+  ],
+  "Aroshi": [
+   {
+    "stated_by": "kashiri",
+    "kind": "fought",
+    "myth": "Aroshi seeks Kashiri's brilliant flesh",
+    "note": "Kashiri tries to swallow Aroshi, who escapes after tearing his garment.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1975",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kashiri",
+    "kind": "killed",
+    "myth": "Aroshi devoured in the Moon",
+    "note": "In a competing version Kashiri devours Aroshi, whose remains mark the full moon.",
+    "source": "Rojas Zolezzi",
+    "date": "late twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Asha": [
+   {
+    "stated_by": "tasorentsi",
+    "kind": "ancestor_of",
+    "myth": "Naming the four lunar phases",
+    "note": "Asha is a lunar-phase child of the couple created by Tasorentsi.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ashe": [
+   {
+    "stated_by": "kashiri",
+    "kind": "parent_of",
+    "myth": "Birth of the lunar phases",
+    "note": "Kashiri Ash and Kashiri Aah produce Ashe, representing waxing quarter.",
+    "source": "Modern anthroponymic corpus",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "ancestor_of",
+    "myth": "Naming the four lunar phases",
+    "note": "Ashe is a lunar-phase child of the couple created by Tasorentsi.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ashinsateri": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Whistling mist encounter",
+    "note": "Ashinsateri is documented as a kamari-like white mist causing madness and death.",
+    "source": "Modern Ashéninka cultural documentation",
+    "date": "twenty-first century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Asho": [
+   {
+    "stated_by": "kashiri",
+    "kind": "parent_of",
+    "myth": "Birth of the lunar phases",
+    "note": "Kashiri Ash and Kashiri Aah produce Asho, representing waning quarter.",
+    "source": "Modern anthroponymic corpus",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "ancestor_of",
+    "myth": "Naming the four lunar phases",
+    "note": "Asho is a lunar-phase child of the couple created by Tasorentsi.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Carlos Fermín Fitzcarrald": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "White stranger claims Father Sun sent him",
+    "note": "Reyna retrospectively identified the 1888 Amachengua claimant with Fitzcarrald; the equation remains unproven.",
+    "source": "Reyna, Fitzcarraldo, el rey del caucho",
+    "date": "1942",
+    "tier": "late_accretion"
+   }
+  ],
+  "Christian Devil": [
+   {
+    "stated_by": "yacuruna",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Missionaries classified indigenous aquatic beings as devils within Christian demonology.",
+    "source": "Uriarte, Diario de un misionero",
+    "date": "1764; written c. 1771–1773",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian God": [
+   {
+    "stated_by": "amachegua",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Converted discourse renders benevolent spirits as children of the Christian God.",
+    "source": "mission-influenced testimony",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "pava",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Evangelization applied Pavá terminology to the true Christian Father above older divinities.",
+    "source": "Casanto testimony in La Serna",
+    "date": "2005",
+    "tier": "syncretism"
+   }
+  ],
+  "Christian demons": [
+   {
+    "stated_by": "kamari",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Missionary and bilingual discourse translates kamari as Christian demons.",
+    "source": "Missionary and bilingual translation",
+    "date": "mission era through present",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ciraráto": [
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "fought",
+    "myth": "Ciraráto thwarts Avíreri’s flood dam",
+    "note": "The bird-being Ciraráto prevents Avíreri completing a dam intended to destroy the Asháninka.",
+    "source": "Tambo Asháninka ethnographic retelling",
+    "date": "later documented",
+    "tier": "regional_variant"
+   }
+  ],
+  "Conkíri": [
+   {
+    "stated_by": "kashiri",
+    "kind": "shared_myth",
+    "myth": "The stolen resurrection necklace",
+    "note": "Conkíri's theft prompts Aroshi's expedition to Kashiri, though they may never meet.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1975",
+    "tier": "attested"
+   }
+  ],
+  "Etsa": [
+   {
+    "stated_by": "ayaymama",
+    "kind": "transformed_by",
+    "myth": "Etsa transforms fallen Ayaymama into a bird",
+    "note": "Etsa makes Ayaymama a lamenting bird and her spilled squash clay.",
+    "source": "Auju nantujai / La ayaymama y el luna",
+    "date": "2025",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ferdinand A. Stahl": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "Adventist preaching prompts expectations of immediate celestial renewal",
+    "note": "Some followers identified Stahl or his mission station with the expected divine agent.",
+    "source": "Bodley materials summarized by Brown and Fernández",
+    "date": "1920s; published 1991",
+    "tier": "syncretism"
+   }
+  ],
+  "God the Father": [
+   {
+    "stated_by": "kashiri",
+    "kind": "identified_with",
+    "myth": "Christian solar genealogy",
+    "note": "Christianized versions identify Kashiri with the father in a Father–Mary–Jesus triad.",
+    "source": "Weiss corpus",
+    "date": "1960–1975",
+    "tier": "syncretism"
+   }
+  ],
+  "Guillermo Lobatón": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "Ernesto recognizes the MIR commander as Son of the Sun",
+    "note": "Shaman Ernesto Andrés identified Lobatón as Itomi Pavá, mobilizing supporters before catastrophic disconfirmation.",
+    "source": "Brown and Fernández, War of Shadows",
+    "date": "1965; published 1991",
+    "tier": "modern"
+   }
+  ],
+  "Iguiane": [
+   {
+    "stated_by": "pareni",
+    "kind": "fought",
+    "myth": "Conflict over Pareni’s transformed children",
+    "note": "Pareni and Kinteroni retaliate after Iguiane transforms her sons and daughters into animals.",
+    "source": "Renard-Casevitz 1992; Santos-Granero 2004",
+    "date": "1992–2004",
+    "tier": "late_accretion"
+   }
+  ],
+  "Inca": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "The killed Inca survives and will return",
+    "note": "Some Asháninka narratives explicitly identify the killed and returning Inca as Itomi Pavá.",
+    "source": "Brown and Fernández oral narratives",
+    "date": "1980s; published 1991",
+    "tier": "regional_variant"
+   }
+  ],
+  "Inka": [
+   {
+    "stated_by": "pava",
+    "kind": "parent_of",
+    "myth": "The living severed head of Inka",
+    "note": "Post-contact myths call Inka a son of Pavá who provides manufactured wealth.",
+    "source": "Brown and Fernández, War of Shadows",
+    "date": "1991",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "other",
+    "myth": "",
+    "note": "Inka is included among the principal tasorentsi in Asháninka cosmology.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1972/1975",
+    "tier": "syncretism"
+   }
+  ],
+  "Inkanítari": [
+   {
+    "stated_by": "tasorentsi",
+    "kind": "other",
+    "myth": "",
+    "note": "The rain deity Inkanítari is listed among the principal tasorentsi.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1972/1975",
+    "tier": "attested"
+   }
+  ],
+  "Irampavanto": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Sexual predator encounter",
+    "note": "Irampavanto is a kamari form that seduces victims before beating them to death.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Jesus": [
+   {
+    "stated_by": "kashiri",
+    "kind": "parent_of",
+    "myth": "Christian solar genealogy",
+    "note": "Christianized versions identify Kashiri's solar son with Jesus.",
+    "source": "Weiss corpus",
+    "date": "1960–1975",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "maninkari",
+    "kind": "served",
+    "myth": "New Jerusalem",
+    "note": "Maninkari identified as angels serve around the Lamb in the heavenly court.",
+    "source": "Ashéninka Perené Revelation 21–22",
+    "date": "modern missionary era",
+    "tier": "syncretism"
+   }
+  ],
+  "Jesus Christ": [
+   {
+    "stated_by": "amachegua",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Sala polemically declared Jesus the only true Amachegua.",
+    "source": "Sala expedition diary",
+    "date": "10 March 1897",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "Missionary identification of the returning celestial savior",
+    "note": "Missionaries equated the true Amachegua or returning Son of Pavá with Christ.",
+    "source": "Sala diary; Stahl and Bodley materials",
+    "date": "1897; 1920s",
+    "tier": "syncretism"
+   }
+  ],
+  "Juan Santos Atahualpa": [
+   {
+    "stated_by": "amachegua",
+    "kind": "identified_with",
+    "myth": "The envoy from Father Sun",
+    "note": "Later accounts identified the reported 1888 Amachegua as Juan Santos reincarnated.",
+    "source": "later accounts of 1888",
+    "date": "twentieth century",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "The rebel survives or reincarnates as returning savior",
+    "note": "Later traditions identify Juan Santos as a manifestation or predecessor of Itomi Pavá.",
+    "source": "Brown and Fernández, War of Shadows",
+    "date": "1991",
+    "tier": "late_accretion"
+   }
+  ],
+  "Kaganiri": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Freezing wind encounter",
+    "note": "Kaganiri is a nearly invisible, silent wind that freezes its victim.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kashiri Aah": [
+   {
+    "stated_by": "kashiri",
+    "kind": "consort_of",
+    "myth": "Marriage of the paired moons",
+    "note": "Male Kashiri Ash marries female Kashiri Aah in Jananeria.",
+    "source": "Modern anthroponymic corpus",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "created",
+    "myth": "Oitasatsi–Tasorentsi lunar wedding",
+    "note": "Tasorentsi and Oitasatsi create the female lunar being and arrange her marriage.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "other",
+    "myth": "Oitasatsi–Tasorentsi lunar wedding",
+    "note": "Tasorentsi and Oitasatsi marry her to the male lunar being.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kashiri Ash": [
+   {
+    "stated_by": "tasorentsi",
+    "kind": "created",
+    "myth": "Oitasatsi–Tasorentsi lunar wedding",
+    "note": "Tasorentsi and Oitasatsi create the male lunar being and arrange his marriage.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "other",
+    "myth": "Oitasatsi–Tasorentsi lunar wedding",
+    "note": "Tasorentsi and Oitasatsi marry him to the female lunar being.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Katsivoreri": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Nocturnal predator encounter",
+    "note": "Katsivoreri is a flying luminous kamari form associated with lethal sexual assault.",
+    "source": "Weiss and later testimony",
+    "date": "1975 and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Katzereri": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Double demon apparition",
+    "note": "Katzereri are bright-eyed spirits carried by peyari, together forming a double demon.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kentíparo": [
+   {
+    "stated_by": "pava",
+    "kind": "rescued_by",
+    "myth": "Flying beings raise the dangerous Sun",
+    "note": "Kentíparo wraps Pavá in cushmas and carries him upward.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1975",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kientibakori": [
+   {
+    "stated_by": "kamari",
+    "kind": "created_by",
+    "myth": "Creation by the dark creator",
+    "note": "A modern registry claims Kientibakori created kamari by conflating Matsigenka and Asháninka traditions.",
+    "source": "Online pantheon registry",
+    "date": "recent",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "contest",
+    "myth": "Descent into Kientibakori’s realm",
+    "note": "Secondary accounts report Tasorentsi descending into Kientibakori’s realm for a duel.",
+    "source": "Later secondary discussions",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Kinteroni": [
+   {
+    "stated_by": "pareni",
+    "kind": "consort_of",
+    "myth": "Kinteroni, Pachakamui and Iguiane",
+    "note": "The primordial giant armadillo becomes Pareni’s final husband and father of many children.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pareni",
+    "kind": "allied",
+    "myth": "Retaliation for their transformed children",
+    "note": "Pareni and Kinteroni act together against those responsible for transforming their children.",
+    "source": "Renard-Casevitz 1992; Baer 1994; Santos-Granero 2004",
+    "date": "1992–2004",
+    "tier": "attested"
+   }
+  ],
+  "Kitamari": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "White donkey apparition",
+    "note": "Kitamari is a post-contact spirit appearing as a white donkey.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "late_accretion"
+   }
+  ],
+  "K’uychi": [
+   {
+    "stated_by": "sachamama",
+    "kind": "identified_with",
+    "myth": "Sachamama becomes the rainbow",
+    "note": "Upon reaching Hanan Pacha, Sachamama is identified with the rainbow.",
+    "source": "Valcárcel, Símbolos mágico-religiosos",
+    "date": "1959/1964",
+    "tier": "syncretism"
+   }
+  ],
+  "Madre del Agua": [
+   {
+    "stated_by": "yacuruna",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Regan places the Mother of the Water within the broader Yacuruna transformational class.",
+    "source": "Regan, Hacia la tierra sin mal",
+    "date": "1983",
+    "tier": "regional_variant"
+   }
+  ],
+  "Mankoite": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "",
+    "note": "Mankoite is classified as a powerful kamari, sometimes nearly tasorentsi in power.",
+    "source": "Weiss and later testimony",
+    "date": "1975 and later",
+    "tier": "regional_variant"
+   }
+  ],
+  "Moon-man": [
+   {
+    "stated_by": "ayaymama",
+    "kind": "sibling_of",
+    "myth": "Moon-man sleeps incestuously with his sister",
+    "note": "The woman who becomes Ayaymama is Moon-man's sister and sexual partner.",
+    "source": "Galeano comparative Amazonian folktale collection",
+    "date": "2014",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "ayaymama",
+    "kind": "shared_myth",
+    "myth": "Moon-man ascends and the woman becomes Ayaymama",
+    "note": "She marks his face with huito; after his ascent, she becomes Ayaymama.",
+    "source": "Galeano comparative Amazonian folktale collection",
+    "date": "2014",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nantatziri": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "",
+    "note": "Some communities may classify these dwarf-like animal owners as kamari.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Neorónke": [
+   {
+    "stated_by": "pava",
+    "kind": "rescued_by",
+    "myth": "Vine ascent to the sky",
+    "note": "Neorónke fixes a vine to heaven, enabling Pavá’s ascent.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1975",
+    "tier": "regional_variant"
+   }
+  ],
+  "Oitasatsi": [
+   {
+    "stated_by": "kashiri",
+    "kind": "created_by",
+    "myth": "Creation of the paired moons",
+    "note": "Oitasatsi creates the male lunar being Kashiri Ash.",
+    "source": "Modern anthroponymic corpus",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "allied",
+    "myth": "Oitasatsi–Tasorentsi lunar wedding",
+    "note": "They jointly create the lunar couple, convene celestial beings, and officiate their marriage.",
+    "source": "Tesoro de nombres asháninkas",
+    "date": "2019–20",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pachakamui": [
+   {
+    "stated_by": "pareni",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Pachakamui is Pareni’s brother.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pareni",
+    "kind": "punished",
+    "myth": "Kinteroni, Pachakamui and Iguiane",
+    "note": "Pareni traps or casts Pachakamui into a chasm after Iguiane transforms her children.",
+    "source": "Pereira; Renard-Casevitz and Dollfus 1988; Renard-Casevitz 1992",
+    "date": "1988–1992",
+    "tier": "attested"
+   }
+  ],
+  "Pachakamáite": [
+   {
+    "stated_by": "pava",
+    "kind": "parent_of",
+    "myth": "Downstream provider of manufactured goods",
+    "note": "Some traditions call the culture hero Pachakamáite a son of the Sun.",
+    "source": "Varese and later compilers",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Pachákama": [
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "punished_by",
+    "myth": "Avíreri reaches Otsitiríko at River’s End",
+    "note": "Pachákama prevents Avíreri’s return, keeping him bound by a strangler vine.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1969/1975",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "served",
+    "myth": "Avíreri supports the earth at River’s End",
+    "note": "At Pachákama’s request, Avíreri remains at Otsitiríko helping support the earth.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1969/1975",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some Matsigenka usage reportedly treats Pachákama and the Avíreri-equivalent interchangeably.",
+    "source": "García Matsigenka reference",
+    "date": "1935–37",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tasorentsi",
+    "kind": "other",
+    "myth": "",
+    "note": "Pachákama belongs to the powerful transforming beings collectively called tasorentsi.",
+    "source": "Weiss, Campa Cosmology",
+    "date": "1972/1975",
+    "tier": "attested"
+   }
+  ],
+  "Pavá’s daughters": [
+   {
+    "stated_by": "pava",
+    "kind": "parent_of",
+    "myth": "Daughters ascend and leave their clothing",
+    "note": "Pavá fathers daughters whose discarded clothing becomes seasonal trees and flowers.",
+    "source": "Weiss-based comparative account",
+    "date": "twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pawa": [
+   {
+    "stated_by": "kamari",
+    "kind": "created_by",
+    "myth": "Creation of all beings",
+    "note": "Some recent Christianized accounts say Pawa created all beings, including kamari.",
+    "source": "Twenty-first-century elicited accounts",
+    "date": "twenty-first century",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "kashiri",
+    "kind": "created_by",
+    "myth": "Pawa creates Moon",
+    "note": "Amônia tradition makes the eternally existing Pawa creator of Kashiri.",
+    "source": "Amônia Asháninka ethnography",
+    "date": "late twentieth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Pichokiti": [
+   {
+    "stated_by": "kashiri",
+    "kind": "identified_with",
+    "myth": "Bird lover revealed as Moon",
+    "note": "The bird who impregnates the woman assumes or reveals Kashiri's identity.",
+    "source": "Anato/Ayacucho narrative",
+    "date": "recent collection",
+    "tier": "regional_variant"
+   }
+  ],
+  "Plant ánimas or madres": [
+   {
+    "stated_by": "shapshico",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Shapshico can situationally name a medicinal plant’s animate owner, guardian, or teacher.",
+    "source": "Kichwa-Lamista medicinal-plant testimony",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Purahua": [
+   {
+    "stated_by": "yacuruna",
+    "kind": "fought",
+    "myth": "Karuara resist Purahua's destructive riverbank erosion",
+    "note": "Karuara oppose Purahua and protect land threatened by the great water-serpent.",
+    "source": "Campanera Reig, summarizing Rivas-Ruiz",
+    "date": "2026",
+    "tier": "regional_variant"
+   }
+  ],
+  "Runachaqui": [
+   {
+    "stated_by": "runamula",
+    "kind": "parent_of",
+    "myth": "Runachaqui creative genealogy",
+    "note": "A children’s cultural project names Runamula as Runachaqui’s mother.",
+    "source": "Runachaqui educational-cultural project",
+    "date": "2014",
+    "tier": "modern"
+   }
+  ],
+  "Sacaramentaro": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "Divine warrior preserving the Juan Santos tradition",
+    "note": "Scholarly reconstruction tentatively connects Sacaramentaro through Juan Santos with Itomi Pavá.",
+    "source": "Rojas Zolezzi Río Perené narrative",
+    "date": "1994",
+    "tier": "modern"
+   }
+  ],
+  "Sacharuna": [
+   {
+    "stated_by": "shapshico",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Regan presents Sacharuna as an equivalent forest-person or forest-owner category.",
+    "source": "Regan, Hacia la tierra sin mal",
+    "date": "early 1980s",
+    "tier": "attested"
+   }
+  ],
+  "Sacramentaro": [
+   {
+    "stated_by": "pava",
+    "kind": "other",
+    "myth": "Sacramentaro transforms colonial enemies",
+    "note": "This anti-colonial transformer is called a Pavá or god, not securely the Sun.",
+    "source": "Rojas Zolezzi",
+    "date": "1994",
+    "tier": "regional_variant"
+   }
+  ],
+  "Saint Christopher": [
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Santos-Granero proposes Ayots and Avíreri as an inverted Indigenous transformation of Saint Christopher.",
+    "source": "Santos-Granero, Saint Christopher in the Amazon",
+    "date": "2002",
+    "tier": "syncretism"
+   }
+  ],
+  "Santa María": [
+   {
+    "stated_by": "kashiri",
+    "kind": "consort_of",
+    "myth": "Christian solar genealogy",
+    "note": "The woman impregnated by Kashiri is identified as Santa María.",
+    "source": "Weiss corpus",
+    "date": "1960–1975",
+    "tier": "syncretism"
+   }
+  ],
+  "Santosaprecoya": [
+   {
+    "stated_by": "yos",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Santosaprecoya is called Yato’ Yos’s daughter.",
+    "source": "Valadeau field narratives",
+    "date": "published 2010s",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yos",
+    "kind": "shared_myth",
+    "myth": "Return after leaving medicinal plants",
+    "note": "After producing medicinal plants from milk, she returns to Yato’ Yos in heaven.",
+    "source": "Valadeau field narratives",
+    "date": "published 2010s",
+    "tier": "regional_variant"
+   }
+  ],
+  "Sashintsi": [
+   {
+    "stated_by": "kamari",
+    "kind": "other",
+    "myth": "Broken victim returns home",
+    "note": "Sashintsi is a skeletal kamari form that breaks, restores, and sends victims home to die.",
+    "source": "Modern elicited testimony",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Shiiro": [
+   {
+    "stated_by": "pareni",
+    "kind": "consort_of",
+    "myth": "Pareni’s marriages",
+    "note": "Shiiro becomes Pareni’s husband and feeds by sucking her sweat.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pareni",
+    "kind": "transformed",
+    "myth": "Creation of the sweat bee",
+    "note": "Pareni transforms the sweat-drinking Shiiro into a sweat bee.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   }
+  ],
+  "Shitati": [
+   {
+    "stated_by": "pareni",
+    "kind": "consort_of",
+    "myth": "Pareni’s marriages",
+    "note": "Shitati becomes Pareni’s dependent husband, refusing ordinary food while demanding sustenance.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pareni",
+    "kind": "transformed",
+    "myth": "Creation of the dung beetle",
+    "note": "Pareni makes Shitati a dung beetle after he consumes her excrement.",
+    "source": "Renard-Casevitz 1992",
+    "date": "1992",
+    "tier": "attested"
+   }
+  ],
+  "Sirena": [
+   {
+    "stated_by": "yacuruna",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Sirens are classified as Yacuruna or as transformations within the same aquatic complex.",
+    "source": "Regan, Hacia la tierra sin mal",
+    "date": "1983",
+    "tier": "syncretism"
+   }
+  ],
+  "The Maligno": [
+   {
+    "stated_by": "tunche",
+    "kind": "other",
+    "myth": "The Maligno hunts the good Tunche",
+    "note": "A condemned Maligno pursues the less dangerous Tunche to transfer guilt.",
+    "source": "2017 Loreto oral-tradition study",
+    "date": "2017",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "tunche",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some tellings merge the Tunche and Maligno into one being.",
+    "source": "2017 Loreto oral-tradition study",
+    "date": "2017",
+    "tier": "syncretism"
+   }
+  ],
+  "Tsonkiri": [
+   {
+    "stated_by": "pareni",
+    "kind": "consort_of",
+    "myth": "Pareni’s marriages",
+    "note": "Tsonkiri becomes Pareni’s husband and receives fish secretly drawn from her body.",
+    "source": "Renard-Casevitz 1992, pp. 138–144",
+    "date": "1992",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "pareni",
+    "kind": "transformed",
+    "myth": "Creation of the hummingbird",
+    "note": "After Tsonkiri spies on her fish source, Pareni makes him a flower-feeding hummingbird.",
+    "source": "Renard-Casevitz 1992, pp. 138–144",
+    "date": "1992",
+    "tier": "attested"
+   }
+  ],
+  "Uiara": [
+   {
+    "stated_by": "bufeo_colorado",
+    "kind": "identified_with",
+    "myth": "Aquatic lover tradition",
+    "note": "The aquatic lover and master is associated or fused with the boto.",
+    "source": "O Selvagem",
+    "date": "1876",
+    "tier": "syncretism"
+   }
+  ],
+  "Werner Bulner": [
+   {
+    "stated_by": "itomi_pava",
+    "kind": "identified_with",
+    "myth": "Followers journey to Bulner’s Río Ene mission",
+    "note": "Some Asháninka and Nomatsiguenga hailed Bulner as Itomi Pavá, then repudiated the identification.",
+    "source": "Brown and Fernández oral testimony",
+    "date": "c.1960; published 1991",
+    "tier": "syncretism"
+   }
+  ],
+  "Yashingo": [
+   {
+    "stated_by": "shapshico",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Loreto and Ucayali sources use these names for comparable or identical forest devils.",
+    "source": "Napo oral-tradition testimony",
+    "date": "modern",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yato’ Yos": [
+   {
+    "stated_by": "ayots_avireri",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Ayots is one of the supreme creator Yato’ Yos’s sons.",
+    "source": "Yanesha versions; Santos-Granero",
+    "date": "recorded 1983",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "Yosoper is Yato’ Yos’s classificatory brother or brother by alliance.",
+    "source": "Smith dissertation; Santos-Granero",
+    "date": "1977 onward",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "theft",
+    "myth": "Appropriation of the first flat earth",
+    "note": "Jealous Yosoper takes possession of the flat earth created by Yato’ Yos.",
+    "source": "Smith dissertation",
+    "date": "1977",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "contest",
+    "myth": "Competing creation of humans",
+    "note": "Yosoper imitates Yato’ Yos’s clay human by making ten similar beings.",
+    "source": "Smith; Santos-Granero",
+    "date": "1977; 1991",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "contest",
+    "myth": "Competing creation of species",
+    "note": "Yosoper copies each species Yato’ Yos creates, producing numerous harmful counterparts.",
+    "source": "Smith; Santos-Granero",
+    "date": "1977–2012",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yompor Ror": [
+   {
+    "stated_by": "yos",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some summaries treat Ror as Yato’ Yos’s son or descendant.",
+    "source": "Santos-Granero and later summaries",
+    "date": "1991–2010s",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yos",
+    "kind": "created",
+    "myth": "Miraculous conception through a flower",
+    "note": "Yato’ Yos sends the flower that miraculously impregnates Ror’s mother.",
+    "source": "Santos-Granero",
+    "date": "1991/1994",
+    "tier": "regional_variant"
+   }
+  ],
+  "Yompor Rret": [
+   {
+    "stated_by": "yos",
+    "kind": "other",
+    "myth": "Institution of the first sun",
+    "note": "Yato’ Yos appoints Rret to illuminate creation, but Rret becomes destructive.",
+    "source": "Smith; Santos-Granero; Valadeau",
+    "date": "1977–2010s",
+    "tier": "canonical"
+   }
+  ],
+  "Yompor Santo": [
+   {
+    "stated_by": "yos",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Later tradition presents Yompor Santo as Yato’ Yos’s son or divine emissary.",
+    "source": "Santos-Granero oral account",
+    "date": "1991/1994",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "yos",
+    "kind": "served_by",
+    "myth": "Mission to restore Yanesha immortality",
+    "note": "Yato’ Yos sends his emissary to rescue the Yanesha and restore immortality.",
+    "source": "Santos-Granero oral account",
+    "date": "1991/1994",
+    "tier": "syncretism"
+   }
+  ],
+  "angels": [
+   {
+    "stated_by": "maninkari",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Christianized speakers and Bible translators identify maninkari with biblical angels.",
+    "source": "Bajo Perené interviews; Ashéninka Revelation",
+    "date": "c. 2009–2010; modern",
+    "tier": "syncretism"
+   }
+  ],
+  "demons": [
+   {
+    "stated_by": "yosoper_korioshpiri",
+    "kind": "created",
+    "myth": "Competing creation of humans",
+    "note": "Yosoper creates ten humanlike beings that Yato’ Yos curses into demons.",
+    "source": "Smith; Santos-Granero",
+    "date": "1977; 1991",
+    "tier": "attested"
+   }
+  ],
+  "firmament Sun": [
+   {
+    "stated_by": "kashiri",
+    "kind": "parent_of",
+    "myth": "Birth of four luminous sons",
+    "note": "Kashiri fathers a firmament Sun that illuminates the stars.",
+    "source": "Matsigenka ethnographic corpus",
+    "date": "early 1990s",
+    "tier": "regional_variant"
+   }
+  ],
+  "jo’": [
+   {
+    "stated_by": "yos",
+    "kind": "transformed",
+    "myth": "Transformation of Yosoper’s imitations",
+    "note": "Yato’ Yos transforms some of Yosoper’s imitative persons into demonic beings.",
+    "source": "Smith; Santos-Granero",
+    "date": "1977–2012",
+    "tier": "canonical"
+   }
+  ],
+  "oneñet": [
+   {
+    "stated_by": "yos",
+    "kind": "transformed",
+    "myth": "Transformation of Yosoper’s imitations",
+    "note": "Yato’ Yos transforms some of Yosoper’s imitative persons into demonic beings.",
+    "source": "Smith; Santos-Granero",
+    "date": "1977–2012",
+    "tier": "canonical"
+   }
+  ],
+  "peyari": [
+   {
+    "stated_by": "kamari",
+    "kind": "identified_with",
+    "myth": "The dead as dangerous kin",
+    "note": "Contemporary discourse increasingly merges transformed or wandering dead called peyari with kamari.",
+    "source": "Espinosa, Kamari",
+    "date": "2022–2023",
+    "tier": "modern"
+   }
+  ],
+  "underworld Sun": [
+   {
+    "stated_by": "kashiri",
+    "kind": "parent_of",
+    "myth": "Birth of four luminous sons",
+    "note": "Matsigenka accounts make an underworld Sun one of Kashiri's sons.",
+    "source": "Matsigenka ethnographic corpus",
+    "date": "early 1990s",
+    "tier": "regional_variant"
+   }
+  ],
+  "yellow-headed vulture": [
+   {
+    "stated_by": "poporrona_kiri",
+    "kind": "shared_myth",
+    "myth": "Vulture causes the transformed palm's thorns",
+    "note": "After Poporrona' becomes a palm, the vulture's prick and response produce trunk thorns.",
+    "source": "Santos-Granero, The Power of Love",
+    "date": "1991",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ñeñephnor Partsophnor Yarrona’": [
+   {
+    "stated_by": "yos",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "She is the sister who supplies milk for Yato’ Yos’s creation.",
+    "source": "Bautista; Wise; later syntheses",
+    "date": "1958–2008",
+    "tier": "regional_variant"
+   },
+   {
+    "stated_by": "yos",
+    "kind": "gift",
+    "myth": "Creation of earth from a milk-drop",
+    "note": "She expresses the milk-drop from which Yato’ Yos forms the earth.",
+    "source": "Bautista narration",
+    "date": "recorded 2008",
+    "tier": "regional_variant"
+   }
+  ]
+ }
+}

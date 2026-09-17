@@ -1,0 +1,691 @@
+{
+ "subject": "enlil",
+ "relations": [
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lugalzagesi calls An Enlil’s beloved father.",
+   "source": "Lugalzagesi vase inscription",
+   "date": "c. 2350 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "allied",
+   "myth": "Lugalzagesi’s favorable destiny",
+   "note": "An and Enlil jointly determine Lugalzagesi’s favorable destiny.",
+   "source": "Lugalzagesi vase inscription",
+   "date": "c. 2350 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "allied",
+   "myth": "Decree destroying Ur",
+   "note": "An and Enlil jointly authorize Ur’s destruction and political succession.",
+   "source": "Lament for Sumer and Urim",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later cosmological genealogy treats Enlil as offspring of joined An and Ki.",
+   "source": "Later Sumerian theological traditions",
+   "date": "Old Babylonian and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "other",
+   "myth": "Separation of heaven and earth",
+   "note": "Enlil separates heaven from Earth and establishes the cosmic axis.",
+   "source": "Song of the Hoe",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki–Ninki deities",
+   "other_aliases": [
+    "mothers and fathers of Enlil"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Learned god lists give Enlil long sequences of paired primeval ancestors.",
+   "source": "God lists and theological texts",
+   "date": "Late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lugaldukuga",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Learned primeval genealogy places Lugaldukuga among Enlil’s ultimate ancestors.",
+   "source": "God lists and theological texts",
+   "date": "Late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enmešarra",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Learned genealogy presents Enmešarra as Enlil’s uncle or primeval predecessor.",
+   "source": "Enlil and Namzitarra",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enmešarra",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Failed claim to Enlilship",
+   "note": "Enmešarra attempts to seize Enlil’s rank and becomes a captive.",
+   "source": "Enlil and Namzitarra",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Mullissu"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ninlil is Enlil’s overwhelmingly dominant consort.",
+   "source": "Mesopotamian cult and literary tradition",
+   "date": "Third–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Mullissu"
+   ],
+   "kind": "other",
+   "myth": "Ninlil’s refusal and seizure",
+   "note": "After Ninlil explicitly refuses him, Enlil seizes and has intercourse with her.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Mullissu"
+   ],
+   "kind": "other",
+   "myth": "Disguised underworld unions",
+   "note": "Enlil approaches Ninlil in three disguises and fathers substitute children.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Mullissu"
+   ],
+   "kind": "allied",
+   "myth": "Joint determination of destinies",
+   "note": "Enlil and Ninlil share the throne and decide destinies together.",
+   "source": "Enlil in the Ekur",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sud",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Enlil propositions Sud",
+   "note": "Enlil propositions and insults Sud, who sharply rebukes him.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sud",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Formal marriage to Sud",
+   "note": "Enlil formally seeks Sud’s hand and marries her after sending gifts.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sud",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Sud becomes Ninlil",
+   "note": "After marrying Enlil and entering Ekur, Sud receives the name Ninlil.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian; Susa variant",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Šuzianna",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A learned god list preserves Šuzianna as an additional consort-like figure.",
+   "source": "An = Anum",
+   "date": "Late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enzi-kalama",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A learned god list preserves Enzi-kalama as an additional consort-like figure.",
+   "source": "An = Anum",
+   "date": "Late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninkusi",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A learned god list preserves Ninkusi as an additional consort-like figure.",
+   "source": "An = Anum",
+   "date": "Late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisaba",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Negotiation of Sud’s marriage",
+   "note": "Enlil sends marriage gifts while Nisaba negotiates or approves Sud’s marriage.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nisaba",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular texts call Nisaba a child of Enlil, marking variable divine hierarchy.",
+   "source": "Particular literary texts",
+   "date": "Old Babylonian and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aruru",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Sud’s installation in Ekur",
+   "note": "Aruru conducts Enlil’s bride Sud into Ekur and the marriage chamber.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nuska",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Crossing to Ninlil",
+   "note": "Enlil orders his minister Nuska to ferry him to Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nuska",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Marriage embassy to Ereš",
+   "note": "Enlil sends Nuska as marriage envoy to Nisaba and Sud.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nuska",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular texts call Nuska Enlil’s child, reflecting variable hierarchical kinship.",
+   "source": "Particular literary texts",
+   "date": "Old Babylonian and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nanna/Suen",
+   "other_aliases": [
+    "Nanna",
+    "Suen"
+   ],
+   "kind": "parent_of",
+   "myth": "Conception of the moon god",
+   "note": "Enlil fathers Nanna/Suen with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna/Suen",
+   "other_aliases": [
+    "Nanna",
+    "Suen"
+   ],
+   "kind": "gift",
+   "myth": "Suen’s journey to Nippur",
+   "note": "Enlil welcomes and feeds his visiting son, then grants him abundance.",
+   "source": "Nanna-Suen’s Journey to Nippur",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna/Suen",
+   "other_aliases": [
+    "Nanna",
+    "Suen"
+   ],
+   "kind": "judged",
+   "myth": "Decree destroying Ur",
+   "note": "Enlil rejects Nanna’s plea and upholds the decree ending Ur’s reign.",
+   "source": "Lament for Sumer and Urim",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nergal/Meslamtaea",
+   "other_aliases": [
+    "Nergal",
+    "Meslamtaea"
+   ],
+   "kind": "parent_of",
+   "myth": "First disguised underworld encounter",
+   "note": "Enlil fathers an underworld substitute child during a disguised encounter with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninazu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Disguised underworld journey",
+   "note": "Enlil fathers Ninazu during the disguised journey beyond Nippur.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enbilulu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Final disguised encounter",
+   "note": "Enlil fathers Enbilulu during his final disguised encounter with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ninurta is Enlil’s paradigmatic warrior son.",
+   "source": "Early and later literary tradition",
+   "date": "Third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ninurta’s victorious return",
+   "note": "Ninurta fights as Enlil’s warrior son and returns victorious to Nippur.",
+   "source": "Ninurta’s Return; Lugal-e",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Recovery of the stolen Tablet",
+   "note": "Ninurta defeats Anzû and restores the divine authority centered on Enlil.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Inanna"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Inana is called Enlil’s daughter in particular literary traditions.",
+   "source": "Inana’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Inanna"
+   ],
+   "kind": "other",
+   "myth": "Refusal to rescue Inana",
+   "note": "Enlil refuses Ninšubur’s plea to rescue Inana from the underworld.",
+   "source": "Inana’s Descent",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inana",
+   "other_aliases": [
+    "Inanna"
+   ],
+   "kind": "gift",
+   "myth": "Granting transformative powers",
+   "note": "Enlil and Ninlil confer powers of social and gender transformation on Inana.",
+   "source": "Išme-Dagan hymn",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iškur/Adad",
+   "other_aliases": [
+    "Iškur",
+    "Adad"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular texts call Iškur or Adad Enlil’s child.",
+   "source": "Particular literary texts",
+   "date": "Old Babylonian and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enki/Ea",
+   "other_aliases": [
+    "Enki",
+    "Ea"
+   ],
+   "kind": "shared_myth",
+   "myth": "Feast after humanity’s creation",
+   "note": "Enlil appears with Enki at the divine feast following humanity’s creation.",
+   "source": "Enki and Ninmah",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki/Ea",
+   "other_aliases": [
+    "Enki",
+    "Ea"
+   ],
+   "kind": "deceived_by",
+   "myth": "Circumvention of extermination measures",
+   "note": "Enki repeatedly circumvents Enlil’s plague, drought, famine, and flood measures.",
+   "source": "Atra-ḫasīs",
+   "date": "Eighteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki/Ea",
+   "other_aliases": [
+    "Enki",
+    "Ea"
+   ],
+   "kind": "judged_by",
+   "myth": "Dispute after the flood",
+   "note": "Ea rebukes Enlil for indiscriminate flood punishment and urges targeted controls.",
+   "source": "Gilgamesh Tablet XI",
+   "date": "First-millennium copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki/Ea",
+   "other_aliases": [
+    "Enki",
+    "Ea"
+   ],
+   "kind": "contest",
+   "myth": "Variant Tablet ownership",
+   "note": "A variant places the Tablet in Enki’s Abzu rather than Enlil’s Ekur.",
+   "source": "Ninurta and the Turtle",
+   "date": "Old Babylonian witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enki/Ea",
+   "other_aliases": [
+    "Enki",
+    "Ea"
+   ],
+   "kind": "allied",
+   "myth": "Selection of Anzû’s opponent",
+   "note": "Ea advises Enlil’s assembly on choosing and assisting a champion against Anzû.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmah/Bēlet-ilī/Mami",
+   "other_aliases": [
+    "Ninmah",
+    "Bēlet-ilī",
+    "Mami"
+   ],
+   "kind": "allied",
+   "myth": "Creation after the labor revolt",
+   "note": "Enlil approves humanity’s creation while the birth goddess performs embodied creation.",
+   "source": "Atra-ḫasīs",
+   "date": "Eighteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmah/Ninḫursaga",
+   "other_aliases": [
+    "Ninmah",
+    "Ninḫursaga"
+   ],
+   "kind": "allied",
+   "myth": "Decree destroying Ur",
+   "note": "She joins An, Enlil, and Enki in decreeing Ur’s destruction.",
+   "source": "Lament for Sumer and Urim",
+   "date": "Old Babylonian copies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anzû",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Appointment as chamber guardian",
+   "note": "Enlil appoints Anzû to guard his chamber and sanctuary.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anzû",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of the Tablet of Destinies",
+   "note": "Anzû betrays Enlil and steals his Tablet while he bathes.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "served_by",
+   "myth": "Commission against Anzû",
+   "note": "Enlil’s assembly asks Adad to fight Anzû, but he declines or fails.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Girra",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Commission against Anzû",
+   "note": "Girra is asked to fight Anzû but declines or proves unequal.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Šara",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Commission against Anzû",
+   "note": "Šara is asked to fight Anzû but declines or proves unequal.",
+   "source": "Anzû Epic",
+   "date": "Old and Standard Babylonian",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "divine assembly",
+   "other_aliases": [
+    "fifty great gods",
+    "seven who determine destinies"
+   ],
+   "kind": "punished_by",
+   "myth": "Expulsion from divine Nippur",
+   "note": "The divine assembly expels Enlil from the city as ritually impure.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "other": "junior gods",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Revolt against divine labor",
+   "note": "Enlil directs their labor and confronts their revolt against its burden.",
+   "source": "Atra-ḫasīs",
+   "date": "Eighteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atra-ḫasīs",
+   "other_aliases": [
+    "Atrahasis"
+   ],
+   "kind": "punished",
+   "myth": "Plague, famine, and flood",
+   "note": "Enlil’s population-reduction measures threaten Atra-ḫasīs, whom Ea preserves.",
+   "source": "Atra-ḫasīs",
+   "date": "Eighteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [
+    "Utnapishtim"
+   ],
+   "kind": "punished",
+   "myth": "The great flood",
+   "note": "Enlil orders the flood and initially rages when Uta-napišti survives.",
+   "source": "Gilgamesh Tablet XI",
+   "date": "First-millennium copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [
+    "Utnapishtim"
+   ],
+   "kind": "gift",
+   "myth": "Immortality after the flood",
+   "note": "After Ea’s rebuke, Enlil grants Uta-napišti and his wife immortality.",
+   "source": "Gilgamesh Tablet XI",
+   "date": "First-millennium copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ziusudra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Life after the flood",
+   "note": "An and Enlil grant the flood survivor Ziusudra life like a god.",
+   "source": "Eridu Genesis",
+   "date": "Old Babylonian witnesses",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marduk’s elevation",
+   "note": "Marduk receives Enlil-like supremacy, number fifty, and destiny-decreeing authority.",
+   "source": "Enūma eliš",
+   "date": "Late second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [
+    "Assyrian Enlil"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Assyrian theology assigns Aššur Enlil’s cosmic and royal status.",
+   "source": "Assyrian theological tradition",
+   "date": "Second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "God lists and literary usage place Dagan in Enlil’s sovereign functional position.",
+   "source": "Old Babylonian and Syrian sources",
+   "date": "Old Babylonian period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kumarbi",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ugaritic trilingual scholarship equates Hurrian Kumarbi with Enlil.",
+   "source": "Ugaritic trilingual god list",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  },
+  {
+   "other": "El",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ugaritic comparative scholarship aligns West Semitic El with Enlil and Kumarbi.",
+   "source": "Ugaritic comparative god list",
+   "date": "Late Bronze Age",
+   "tier": "syncretism"
+  }
+ ]
+}

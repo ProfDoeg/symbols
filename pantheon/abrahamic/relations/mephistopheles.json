@@ -1,0 +1,250 @@
+{
+ "subject": "mephistopheles",
+ "relations": [
+  {
+   "other": "Lucifer",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Faust's twenty-four-year pact",
+   "note": "Mephistopheles serves Lucifer, conveys Faust's offer, and obtains authorization for the pact.",
+   "source": "1587 Historia von D. Johann Fausten",
+   "date": "1587",
+   "tier": "attested"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Faust's attempted repentance",
+   "note": "Mephistopheles joins Lucifer in deterring Faust's repentance and enforcing the infernal bond.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604 and 1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [
+    "Satan"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later adaptations sometimes collapse Mephistopheles into Lucifer or Satan as the sovereign Devil.",
+   "source": "Later Faust adaptations",
+   "date": "nineteenth century onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Lord",
+   "other_aliases": [
+    "God",
+    "der Herr"
+   ],
+   "kind": "contest",
+   "myth": "Prologue in Heaven",
+   "note": "Mephistopheles predicts Faust's fall and receives the Lord's permission to lead him astray.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Raphael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prologue in Heaven",
+   "note": "Raphael praises cosmic motion before Mephistopheles answers the archangels with sardonic commentary.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prologue in Heaven",
+   "note": "Gabriel praises Earth and nature before Mephistopheles counters the celestial hymn with satire.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prologue in Heaven",
+   "note": "Michael describes storms and divine order before Mephistopheles introduces a mocking human perspective.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Biblical serpent",
+   "other_aliases": [
+    "serpent of Genesis"
+   ],
+   "kind": "other",
+   "myth": "Prologue in Heaven",
+   "note": "Mephistopheles jokingly calls the serpent his aunt; the remark is not literal genealogy.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seven Deadly Sins",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Infernal pageant before Faustus",
+   "note": "Mephistopheles participates when Lucifer presents the personified sins to entertain and re-entrap Faustus.",
+   "source": "Marlowe, Doctor Faustus",
+   "date": "1604 and 1616",
+   "tier": "canonical"
+  },
+  {
+   "other": "Will-o’-the-Wisp",
+   "other_aliases": [
+    "Irrlicht"
+   ],
+   "kind": "served_by",
+   "myth": "Journey to Walpurgis Night",
+   "note": "Mephistopheles commands the spirit to guide him and Faust toward the Brocken.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lilith",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Walpurgis Night",
+   "note": "Mephistopheles identifies Lilith as Adam's first wife and warns Faust about her hair.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Oberon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Walpurgis Night's Dream",
+   "note": "Mephistopheles appears within or beside the pageant celebrating Oberon's golden wedding.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Titania",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Walpurgis Night's Dream",
+   "note": "Mephistopheles appears within or beside the pageant celebrating Titania's golden wedding.",
+   "source": "Goethe, Faust I",
+   "date": "1808",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Homunculus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Journey to Classical Walpurgis Night",
+   "note": "Homunculus recognizes Mephistopheles and travels with him and Faust toward the classical realm.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sphinxes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Classical Walpurgis Night",
+   "note": "Mephistopheles questions and banters with the Sphinxes while disoriented in the classical landscape.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lamiae",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Classical Walpurgis Night",
+   "note": "Mephistopheles pursues the Lamiae, who mock and deceive him with alluring phantom forms.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Empusa",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Classical Walpurgis Night",
+   "note": "Mephistopheles pursues and is mocked or deceived by the classical female monster.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phorkyads",
+   "other_aliases": [
+    "Phorcydes"
+   ],
+   "kind": "other",
+   "myth": "Classical Walpurgis Night",
+   "note": "Mephistopheles encounters the Phorkyads and appropriates their grotesque form for the Helen episode.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phorkyas",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Helen episode",
+   "note": "Mephistopheles assumes Phorkyas as a temporary mask, not as a permanent divine identity.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helen of Troy",
+   "other_aliases": [
+    "Helena"
+   ],
+   "kind": "created",
+   "myth": "Conjuration of Helen",
+   "note": "Mephistopheles supplies an apparition or infernal simulacrum of Helen to further entrap Faustus.",
+   "source": "1587 Historia; Marlowe, Doctor Faustus",
+   "date": "1587–1616",
+   "tier": "attested"
+  },
+  {
+   "other": "Helen of Troy",
+   "other_aliases": [
+    "Helena"
+   ],
+   "kind": "other",
+   "myth": "Faust and Helena",
+   "note": "Disguised as Phorkyas, Mephistopheles manages the circumstances bringing Faust and Helena together.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lemures",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Digging Faust's grave",
+   "note": "Mephistopheles summons and directs the Lemures to excavate Faust's grave.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  },
+  {
+   "other": "Angels",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Faust's death and salvation",
+   "note": "Angels scatter burning roses, distract Mephistopheles, and seize Faust's immortal part from him.",
+   "source": "Goethe, Faust II",
+   "date": "1832",
+   "tier": "canonical"
+  }
+ ]
+}

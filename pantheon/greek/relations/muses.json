@@ -1,0 +1,523 @@
+{
+ "subject": "muses",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of the nine Muses",
+   "note": "Zeus fathers the nine Muses with Mnemosyne over nine nights.",
+   "source": "Hesiod, Theogony 53–79, 915–917",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian songs delight Zeus",
+   "note": "The Muses sing of gods and mortals, delighting Zeus on Olympus.",
+   "source": "Hesiod, Theogony 36–79",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth of the nine Muses",
+   "note": "Mnemosyne bears the nine Muses after nine nights with Zeus.",
+   "source": "Hesiod, Theogony 53–62, 915–917",
+   "date": "approximately 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned genealogy makes Arche, Melete, and Mneme daughters of Zeus.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned genealogy makes four Muses daughters of Zeus and Plusia.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Plusia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Plusia mothers Thelxinoe, Aoide, Arche, and Melete with Zeus.",
+   "source": "Cicero, De natura deorum 3.54",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some late genealogical traditions make the Muses children of Uranus and Gaia.",
+   "source": "Later genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some late genealogical traditions make the Muses children of Gaia and Uranus.",
+   "source": "Later genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Musagetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "Apollo plays while the Muses sing at Peleus and Thetis's wedding.",
+   "source": "Iliad 24.60–63",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Musagetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Divine origin of musicians",
+   "note": "Singers and lyre players are said to descend from Apollo and the Muses.",
+   "source": "Homeric Hymn 25",
+   "date": "Archaic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Musagetes"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Apollo leads and performs among the Muses as Musagetes.",
+   "source": "Classical art and later literature",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "The Muses sing at Thetis's wedding to Peleus.",
+   "source": "Iliad 24.60–63",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Peleus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Peleus and Thetis",
+   "note": "The Muses sing at Peleus's wedding to Thetis.",
+   "source": "Iliad 24.60–63",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Funeral lament for Achilles",
+   "note": "Nine Muses lament Achilles in alternating voices for seventeen days.",
+   "source": "Odyssey 24.58–62",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cadmus's wedding song",
+   "note": "The Muses and Graces sing together at Cadmus's wedding.",
+   "source": "Theognidean corpus 15–18",
+   "date": "sixth–fifth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Charites",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "The Graces repeatedly sing, dance, and share sacred landscapes with the Muses.",
+   "source": "Hesiodic, lyric, and Pausanian traditions",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sacred Attic landscape",
+   "note": "Aphrodite and the Muses inhabit the sacred landscape at Colonus.",
+   "source": "Sophocles, Oedipus at Colonus 668–719",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Music softens Ares",
+   "note": "The Muses' music and Apollo's lyre soften Ares's warlike heart.",
+   "source": "Pindar, Pythian 1.10–12",
+   "date": "470s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Governance of choral education",
+   "note": "Dionysus, Apollo, and the Muses jointly supervise civic choral education.",
+   "source": "Plato, Laws 2 and 7",
+   "date": "fourth century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Minerva visits Helicon",
+   "note": "Minerva visits the Muses at Helicon to see Hippocrene.",
+   "source": "Ovid, Metamorphoses 5.250–678",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of Hippocrene",
+   "note": "Pegasus creates the Muses' Heliconian spring Hippocrene with his hoof.",
+   "source": "Ovid, Metamorphoses 5.256–268",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sirens",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Musical contest with the Sirens",
+   "note": "The Muses defeat the Sirens in song and take their feathers.",
+   "source": "Hellenistic and Roman mythography",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sirens",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Musical contest with the Sirens",
+   "note": "The victorious Muses strip feathers from the Sirens for crowns.",
+   "source": "Hellenistic and Roman mythography",
+   "date": "Hellenistic–Roman periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sirens",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A variant genealogy makes Melpomene the mother of the Sirens.",
+   "source": "Later mythographic traditions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sirens",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A competing genealogy makes Terpsichore the mother of the Sirens.",
+   "source": "Later mythographic traditions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Melpomene or Terpsichore bears the Sirens with the river Achelous.",
+   "source": "Later mythographic traditions",
+   "date": "Hellenistic–Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pierides",
+   "other_aliases": [
+    "daughters of Pierus"
+   ],
+   "kind": "contest",
+   "myth": "Contest with the Pierides",
+   "note": "Nine daughters of Pierus challenge the Muses and lose the singing contest.",
+   "source": "Ovid, Metamorphoses 5.250–678",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pierides",
+   "other_aliases": [
+    "daughters of Pierus"
+   ],
+   "kind": "transformed",
+   "myth": "Transformation of the Pierides",
+   "note": "The Muses transform their abusive defeated rivals into chattering magpies.",
+   "source": "Ovid, Metamorphoses 5.662–678",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the nymphs",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Contest with the Pierides",
+   "note": "The nymphs judge the singing contest and award victory to the Muses.",
+   "source": "Ovid, Metamorphoses 5.250–678",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thamyris",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Challenge of Thamyris",
+   "note": "Thamyris boasts that he can defeat the Muses in song.",
+   "source": "Iliad 2.594–600",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thamyris",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Punishment of Thamyris",
+   "note": "The Muses disable Thamyris, remove his voice, and erase his lyre skill.",
+   "source": "Iliad 2.594–600",
+   "date": "late eighth–early seventh BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calliope is frequently named Orpheus's mother.",
+   "source": "Apollodorus, Bibliotheca 1.3.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A competing tradition names Polyhymnia as Orpheus's mother.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oeagrus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Oeagrus fathers Orpheus with Calliope in a common genealogy.",
+   "source": "Apollodorus, Bibliotheca 1.3.2",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Musagetes"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Apollo fathers Orpheus with Calliope in one genealogical variant.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Linus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calliope or another Muse is named as Linus's mother.",
+   "source": "Competing mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A variant genealogy makes Euterpe the mother of Rhesus.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A competing genealogy makes Calliope the mother of Rhesus.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhesus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A competing genealogy makes Clio the mother of Rhesus.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Strymon",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The river Strymon fathers Rhesus with Euterpe in one tradition.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A minority genealogy makes Clio the mother of Hyacinthus.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pierus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pierus fathers Hyacinthus with Clio in a minority genealogy.",
+   "source": "Later mythographic traditions",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Otus",
+   "other_aliases": [
+    "Aloadae"
+   ],
+   "kind": "served_by",
+   "myth": "Foundation of Heliconian sacrifice",
+   "note": "Otus institutes sacrifice to Melete, Mneme, and Aoide on Helicon.",
+   "source": "Pausanias 9.29.2",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ephialtes",
+   "other_aliases": [
+    "Aloadae"
+   ],
+   "kind": "served_by",
+   "myth": "Foundation of Heliconian sacrifice",
+   "note": "Ephialtes institutes sacrifice to Melete, Mneme, and Aoide on Helicon.",
+   "source": "Pausanias 9.29.2",
+   "date": "approximately 150–175 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "other",
+   "myth": "Calliope sings Proserpina's abduction",
+   "note": "Calliope narrates Persephone's abduction during the contest with the Pierides.",
+   "source": "Ovid, Metamorphoses 5.332–661",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Ceres"
+   ],
+   "kind": "other",
+   "myth": "Calliope sings Ceres's search",
+   "note": "Calliope narrates Demeter's search for her abducted daughter.",
+   "source": "Ovid, Metamorphoses 5.332–661",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "other",
+   "myth": "Calliope sings Proserpina's abduction",
+   "note": "Calliope narrates Hades's abduction of Persephone.",
+   "source": "Ovid, Metamorphoses 5.332–661",
+   "date": "8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Solar divine choruses",
+   "note": "Late cosmic and magical texts place the Muses among choristers praising a solar god.",
+   "source": "Late cosmic and magical texts",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Camenae",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literature and religion equate the indigenous Camenae with the Greek Muses.",
+   "source": "Roman literary and religious tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "subject": "baldr",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Wodan",
+    "Othinus",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baldr is repeatedly named as Óðinn’s son.",
+   "source": "Völuspá; Vafþrúðnismál; Baldrs draumar",
+   "date": "medieval, poems possibly earlier",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Wodan",
+    "Othinus",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "shared_myth",
+   "myth": "Óðinn investigates Baldr’s ominous dreams",
+   "note": "Óðinn rides to Hel and questions a dead seeress about Baldr’s doom.",
+   "source": "Baldrs draumar",
+   "date": "medieval; date disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Wodan",
+    "Othinus",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "gift",
+   "myth": "Baldr’s funeral and Draupnir’s return",
+   "note": "Óðinn gives Draupnir at the funeral; Baldr later returns it through Hermóðr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Wodan",
+    "Othinus",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "shared_myth",
+   "myth": "Óðinn whispers over Baldr’s corpse",
+   "note": "Óðinn whispers unknowable words in Baldr’s ear before the pyre.",
+   "source": "Vafþrúðnismál 54–55",
+   "date": "medieval; date disputed",
+   "tier": "attested"
+  },
+  {
+   "other": "Wodan",
+   "other_aliases": [
+    "Óðinn",
+    "Othinus",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "rescued_by",
+   "myth": "Healing of Balder’s injured foal",
+   "note": "Wodan successfully chants a healing formula over Balder’s injured foal.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Othinus",
+   "other_aliases": [
+    "Óðinn",
+    "Wodan",
+    "Woden",
+    "Vegtamr"
+   ],
+   "kind": "allied",
+   "myth": "Balderus–Høtherus war",
+   "note": "Othinus fights for Balderus and later fathers the avenger Bous.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frija",
+    "Freya"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Baldr is explicitly identified as Frigg’s son.",
+   "source": "Lokasenna; Snorri’s Edda",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frija",
+    "Freya"
+   ],
+   "kind": "shared_myth",
+   "myth": "Frigg mourns Baldr’s death",
+   "note": "Frigg grieves for Baldr after Höðr kills him.",
+   "source": "Völuspá 33",
+   "date": "c. 1000, broadly",
+   "tier": "attested"
+  },
+  {
+   "other": "Frigg",
+   "other_aliases": [
+    "Frija",
+    "Freya"
+   ],
+   "kind": "rescued_by",
+   "myth": "Oaths make Baldr invulnerable",
+   "note": "Frigg obtains oaths from nearly everything not to harm Baldr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Höðr is Baldr’s brother in the canonical Icelandic genealogy.",
+   "source": "Völuspá; Snorri’s Edda",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "killed_by",
+   "myth": "Höðr kills Baldr with the fatal shoot",
+   "note": "Höðr shoots the plant weapon that kills Baldr.",
+   "source": "Völuspá 31–33",
+   "date": "c. 1000, broadly",
+   "tier": "attested"
+  },
+  {
+   "other": "Höðr",
+   "other_aliases": [
+    "Høtherus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Baldr and Höðr return after Ragnarök",
+   "note": "The former brothers and adversaries dwell together after the world’s renewal.",
+   "source": "Völuspá 62",
+   "date": "c. 1000, broadly",
+   "tier": "attested"
+  },
+  {
+   "other": "Høtherus",
+   "other_aliases": [
+    "Höðr"
+   ],
+   "kind": "contest",
+   "myth": "War over Nanna",
+   "note": "Balderus and Høtherus wage war as rivals for Nanna.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Høtherus",
+   "other_aliases": [
+    "Höðr"
+   ],
+   "kind": "killed_by",
+   "myth": "Høtherus mortally wounds Balderus",
+   "note": "Høtherus deliberately wounds Balderus with Mimingus’s supernatural sword.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Þökk"
+   ],
+   "kind": "killed_by",
+   "myth": "Loki engineers Baldr’s death",
+   "note": "Loki finds mistletoe, arms Höðr, and directs the fatal shot.",
+   "source": "Lokasenna 28; Gylfaginning 49",
+   "date": "medieval; Snorri c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [
+    "Þökk"
+   ],
+   "kind": "deceived_by",
+   "myth": "Þökk prevents Baldr’s release",
+   "note": "Disguised as Þökk, Loki refuses to weep and thereby keeps Baldr in Hel.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Snorri classifies Hermóðr as Baldr’s brother.",
+   "source": "Gylfaginning 32",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hermóðr rides to Hel",
+   "note": "Hermóðr seeks Baldr’s release and carries his gifts and messages home.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Hel sets Baldr’s release condition",
+   "note": "Hel will release Baldr only if every living and dead thing weeps.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Baldr is Nanna’s husband in Snorri’s genealogy.",
+   "source": "Gylfaginning; Skáldskaparmál",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nanna joins Baldr in death",
+   "note": "Nanna dies from grief, is burned beside Baldr, and remains with him in Hel.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Balderus desires Nanna",
+   "note": "Balderus pursues Nanna, but she rejects marriage because of their bodily difference.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Þórr",
+   "other_aliases": [
+    "Thor"
+   ],
+   "kind": "shared_myth",
+   "myth": "Þórr consecrates Baldr’s funeral pyre",
+   "note": "Þórr attends the funeral and consecrates Baldr’s pyre with Mjǫllnir.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Þórr"
+   ],
+   "kind": "allied",
+   "myth": "Balderus–Høtherus war",
+   "note": "Thor fights for Balderus until Høtherus disables his club.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyrrokkin",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Launching Baldr’s funeral ship",
+   "note": "Hyrrokkin is summoned and launches Hringhorni for Baldr’s funeral.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Váli is Baldr’s half-brother, born to Óðinn and Rindr.",
+   "source": "Völuspá; Baldrs draumar",
+   "date": "medieval; poems possibly earlier",
+   "tier": "attested"
+  },
+  {
+   "other": "Váli",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Váli avenges Baldr",
+   "note": "Váli avenges Baldr by killing Höðr when only one night old.",
+   "source": "Völuspá 32–33",
+   "date": "c. 1000, broadly",
+   "tier": "attested"
+  },
+  {
+   "other": "Forseti",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Forseti is named as the son of Baldr and Nanna.",
+   "source": "Gylfaginning; Skáldskaparmál",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fulla",
+   "other_aliases": [
+    "Volla"
+   ],
+   "kind": "shared_myth",
+   "myth": "Gifts return from Hel",
+   "note": "Nanna sends Fulla a ring while Baldr returns Draupnir through Hermóðr.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Proserpina foretells Balderus’s death",
+   "note": "Proserpina appears in Balderus’s dream and promises his imminent underworld reception.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bous",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Bous avenges Balderus",
+   "note": "Bous posthumously avenges Balderus by killing Høtherus.",
+   "source": "Gesta Danorum III",
+   "date": "c. 1208–1216",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sinthgunt",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing of Balder’s injured foal",
+   "note": "Sinthgunt chants over Balder’s injured foal in the disputed continental episode.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sunna",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing of Balder’s injured foal",
+   "note": "Sunna joins her sister Sinthgunt in chanting over Balder’s foal.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Frija",
+   "other_aliases": [
+    "Frigg"
+   ],
+   "kind": "rescued_by",
+   "myth": "Healing of Balder’s injured foal",
+   "note": "Frija chants over Balder’s injured foal before Wodan’s successful formula.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Volla",
+   "other_aliases": [
+    "Fulla"
+   ],
+   "kind": "rescued_by",
+   "myth": "Healing of Balder’s injured foal",
+   "note": "Volla joins her sister Frija in attempting to heal Balder’s foal.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Journey preceding the foal’s injury",
+   "note": "Phol rides with Wodan before Balder’s foal is injured; Phol’s identity is disputed.",
+   "source": "Second Merseburg Charm",
+   "date": "ninth–tenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "shared_myth",
+   "myth": "Weapons test Baldr’s invulnerability",
+   "note": "The Æsir throw weapons and stones at Baldr after Frigg’s oaths protect him.",
+   "source": "Gylfaginning 49",
+   "date": "c. 1220s",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Æsir",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "shared_myth",
+   "myth": "Baldr’s divine funeral",
+   "note": "The gods mourn Baldr, accompany his corpse, and arrange his ship-funeral.",
+   "source": "Húsdrápa fragments",
+   "date": "c. 980–985",
+   "tier": "attested"
+  }
+ ]
+}

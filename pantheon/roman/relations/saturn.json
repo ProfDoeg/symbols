@@ -1,0 +1,433 @@
+{
+ "subject": "saturn",
+ "relations": [
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "Uranus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Caelus is Saturn’s father in the Romanized Cronian genealogy.",
+   "source": "Roman adaptations of Greek theogony",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Terra",
+   "other_aliases": [
+    "Gaia"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Terra is Saturn’s mother in the Romanized Cronian genealogy.",
+   "source": "Roman adaptations of Greek theogony",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ops is Saturn’s wife in the Roman-Cronian genealogical system.",
+   "source": "Macrobius, Saturnalia 1.10.18–22",
+   "date": "early fifth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "allied",
+   "myth": "Joint agricultural benefaction",
+   "note": "Saturn and Ops jointly discover or govern crops and fruits.",
+   "source": "Macrobius, Saturnalia 1.10.18–22",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove",
+    "Diespiter",
+    "Zeus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jupiter is a son of Saturn and Ops.",
+   "source": "Arnobius, Adversus nationes 4",
+   "date": "approximately 300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Juno is a daughter of Saturn and Ops.",
+   "source": "Roman-Cronian canonical genealogy",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Neptune is a son of Saturn and Ops.",
+   "source": "Roman-Cronian canonical genealogy",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Dis",
+    "Dis Pater",
+    "Hades"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pluto is a son of Saturn and Ops.",
+   "source": "Roman-Cronian canonical genealogy",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ceres is a daughter of Saturn and Ops.",
+   "source": "Roman-Cronian canonical genealogy",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Vesta is a daughter of Saturn and Ops.",
+   "source": "Roman-Cronian canonical genealogy",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caelus",
+   "other_aliases": [
+    "Uranus"
+   ],
+   "kind": "transformed",
+   "myth": "Castration of Caelus",
+   "note": "Saturn castrates his father with a sickle, ending his generative rule.",
+   "source": "Cicero, De natura deorum 2.63–64",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "created",
+   "myth": "Birth of Venus",
+   "note": "Venus arises after Saturn casts Caelus’s severed genitals into the sea.",
+   "source": "Macrobius, Saturnalia 1.8.6–8",
+   "date": "early fifth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove",
+    "Diespiter",
+    "Zeus"
+   ],
+   "kind": "fought",
+   "myth": "War of divine succession",
+   "note": "Jupiter revolts, deprives Saturn of heaven, and drives him into exile.",
+   "source": "Virgil, Aeneid 8.319–323",
+   "date": "19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove",
+    "Diespiter",
+    "Zeus"
+   ],
+   "kind": "punished_by",
+   "myth": "Binding of Saturn",
+   "note": "Jupiter binds Saturn so that the courses of time have limits.",
+   "source": "Cicero, De natura deorum 2.63–64",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jove",
+    "Diespiter",
+    "Zeus"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Jupiter to prevent succession, but Jupiter survives and revolts.",
+   "source": "Cicero, De natura deorum 2.64",
+   "date": "45 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Juno to prevent his children from succeeding him.",
+   "source": "Roman adaptations of Hesiod",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Neptune to prevent his children from succeeding him.",
+   "source": "Roman adaptations of Hesiod",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Dis",
+    "Dis Pater",
+    "Hades"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Pluto to prevent his children from succeeding him.",
+   "source": "Roman adaptations of Hesiod",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Ceres to prevent his children from succeeding him.",
+   "source": "Roman adaptations of Hesiod",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [
+    "Hestia"
+   ],
+   "kind": "other",
+   "myth": "Saturn devours his children",
+   "note": "Saturn swallows Vesta to prevent his children from succeeding him.",
+   "source": "Roman adaptations of Hesiod",
+   "date": "late Republic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Saturn and Janus share Latium",
+   "note": "Janus receives the exiled Saturn and voluntarily shares his kingdom with him.",
+   "source": "Macrobius, Saturnalia 1.7.19–26",
+   "date": "early fifth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Saturn teaches Janus agriculture",
+   "note": "Saturn teaches agriculture to Janus after arriving by ship in Latium.",
+   "source": "Macrobius, Saturnalia 1.7.19–26",
+   "date": "early fifth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Institution of Saturnalia",
+   "note": "After Saturn disappears, Janus establishes his altar, sacrifice, and festival.",
+   "source": "Macrobius, Saturnalia 1.7.19–26",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Substitution for human sacrifice",
+   "note": "Hercules reforms offerings to Saturn by substituting candles for alleged human victims.",
+   "source": "Macrobius, Saturnalia 1.7.28–33",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Phoebus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Oracle to the Pelasgians",
+   "note": "Apollo’s oracle directs settlers to Saturnian land and demands a tithe.",
+   "source": "Macrobius, Saturnalia 1.7.28–31",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis",
+    "Hades",
+    "Pluto"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pelasgian sacrificial oracle",
+   "note": "Dis receives heads while Saturn receives men or lights in the oracle’s interpretation.",
+   "source": "Macrobius, Saturnalia 1.7.28–33",
+   "date": "early fifth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lua Saturni",
+   "other_aliases": [
+    "Lua"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Lua’s name marks cultic possession or association with Saturn; no meeting survives.",
+   "source": "Livian and antiquarian ritual formulas",
+   "date": "Roman Republican tradition",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Krónos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretatio equates Saturn with the Greek Titan Cronus.",
+   "source": "Roman literary and ritual tradition",
+   "date": "middle Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Time"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned writers identify Saturn-Cronus with Time through a Greek wordplay.",
+   "source": "Cicero, De natura deorum 2.64",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Baal Hammon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "North-African cults translate and fuse Baal Hammon with Roman Saturn.",
+   "source": "African inscriptions, stelae, and sanctuaries",
+   "date": "first–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phaenon",
+   "other_aliases": [
+    "the Shining One"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek astronomical tradition identifies Phaenon, the slow outer planet, with Saturn.",
+   "source": "Cicero, De natura deorum 2.52",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Satre",
+   "other_aliases": [
+    "Satres"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan Satre may represent Saturn or a related deity; identification remains disputed.",
+   "source": "Liver of Piacenza, TLE 719",
+   "date": "late second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "African celestial triad imagery",
+   "note": "Sol flanks Saturn on North-African stelae as an expression of celestial sovereignty.",
+   "source": "North-African votive stelae",
+   "date": "first–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "African celestial triad imagery",
+   "note": "Luna flanks Saturn on North-African stelae as an expression of celestial sovereignty.",
+   "source": "North-African votive stelae",
+   "date": "first–fourth centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Latona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "African paired cult",
+   "note": "North-African evidence pairs Saturn with Latona in a locally reorganized divine configuration.",
+   "source": "North-African cult evidence",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Greco-Roman writers polemically associated the Jewish deity and Sabbath with Saturn.",
+   "source": "Greco-Roman comparative writings",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "subject": "dagda",
+ "relations": [
+  {
+   "other": "Elatha",
+   "other_aliases": [
+    "Elada",
+    "Elathan"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Major genealogies make the Dagda a son of Elatha.",
+   "source": "Lebor Gabála Érenn",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One genealogy groups the Dagda and Ogma as sons of Elathan.",
+   "source": "Mesca Ulad",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alloth",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One genealogy groups the Dagda and Alloth as sons of Elathan.",
+   "source": "Mesca Ulad",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One genealogy groups the Dagda and Bres as sons of Elathan.",
+   "source": "Mesca Ulad",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Delbaeth",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One genealogy groups the Dagda and Delbaeth as sons of Elathan.",
+   "source": "Mesca Ulad",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Boann",
+   "other_aliases": [
+    "Eithne"
+   ],
+   "kind": "consort_of",
+   "myth": "Conception of Óengus",
+   "note": "The Dagda sleeps with Elcmar’s wife and magically compresses her pregnancy.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "The Morrígan",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Meeting at the River Unshin",
+   "note": "They have a ritualized sexual encounter around Samhain before battle.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Morrígan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "She gives intelligence and promises military action against the Fomorians.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Englec",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some learned genealogies assign Elcmar’s daughter Englec to the Dagda.",
+   "source": "learned genealogical material",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Óengus",
+   "other_aliases": [
+    "Mac Óc"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Óengus is the Dagda’s son by Boann.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Óengus",
+   "other_aliases": [
+    "Mac Óc"
+   ],
+   "kind": "deceived_by",
+   "myth": "Taking of Brú na Bóinne",
+   "note": "Óengus obtains the Dagda’s Brú by interpreting “day and night” permanently.",
+   "source": "De Gabáil in t-Sída",
+   "date": "early medieval tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Óengus",
+   "other_aliases": [
+    "Mac Óc"
+   ],
+   "kind": "allied",
+   "myth": "Taking Elcmar’s Brú",
+   "note": "The Dagda advises or assists Óengus in dispossessing Elcmar.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Óengus",
+   "other_aliases": [
+    "Mac Óc"
+   ],
+   "kind": "taught_by",
+   "myth": "Death of Cridenbél",
+   "note": "Óengus advises him to conceal gold in the satirist’s food.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brigit",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Brigit is explicitly identified as the Dagda’s daughter.",
+   "source": "Sanas Cormaic",
+   "date": "ninth–tenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Cermait",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cermait is named as a son of the Dagda.",
+   "source": "Lebor Gabála Érenn",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cermait",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Cermait’s death and restoration",
+   "note": "A later tale says the Dagda revives or preserves Cermait with a healing staff.",
+   "source": "Dindshenchas and later narrative",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Áed",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Place-lore identifies Áed, later killed by Corchenn, as the Dagda’s son.",
+   "source": "Dindshenchas",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ainge",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Fid nGaible place-lore identifies Ainge as the Dagda’s daughter.",
+   "source": "Dindshenchas, Fid nGaible",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ainge",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ainge’s tidal vessel",
+   "note": "The Dagda makes his daughter a vessel or basket responsive to the tide.",
+   "source": "Dindshenchas, Fid nGaible",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bodb Derg",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies represent Bodb Derg as the Dagda’s son.",
+   "source": "later medieval narrative",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bodb Derg",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Succession in the mounds",
+   "note": "Bodb Derg is represented as the Dagda’s successor after the divine retreat.",
+   "source": "later medieval narrative",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dian Cécht",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "An isolated place-lore genealogy calls Dian Cécht the Dagda’s son.",
+   "source": "Dindshenchas",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Midir",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Óengus’s upbringing and the Étaín complex",
+   "note": "Midir is associated with Óengus’s fostering, though his relationship to the Dagda varies.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Elcmar",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Conception of Óengus",
+   "note": "The Dagda sends Elcmar away under magical hunger, thirst, and darkness.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "attested"
+  },
+  {
+   "other": "Elcmar",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Taking of Brú na Bóinne",
+   "note": "The Dagda helps Óengus convert Elcmar’s temporary grant into permanent possession.",
+   "source": "Tochmarc Étaíne",
+   "date": "eighth–ninth-century material",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "The Dagda attends Lug’s muster and delays the Fomorians at his command.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of the harp",
+   "note": "The Dagda, Lug, and Ogma recover the stolen harp from the Fomorian hall.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lug",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death of Cermait",
+   "note": "Lug kills the Dagda’s son Cermait, whom the Dagda then mourns.",
+   "source": "Dindshenchas and Lebor Gabála material",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of the harp",
+   "note": "Ogma accompanies the Dagda and Lug into the Fomorian hall.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ogma",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War council at Mag Tuired",
+   "note": "Ogma and the Dagda participate together in the divine war council.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nuada",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Learned traditions represent Nuada as the Dagda’s fellow divine leader or close colleague.",
+   "source": "Lebor Gabála and learned lists",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nuada",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some later notices describe Nuada as the Dagda’s brother.",
+   "source": "later learned notices",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Goibniu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Preparations for Mag Tuired",
+   "note": "Both participate in the Túatha Dé war-preparation and hospitality complex.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bres",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Labor under Bres",
+   "note": "The Dagda performs building labor under Bres’s oppressive kingship.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indech",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "The Fomorian porridge ordeal",
+   "note": "Indech compels or threatens the Dagda to consume an enormous porridge.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Fomorians",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Second Battle of Mag Tuired",
+   "note": "The Dagda supports the Túatha Dé in their war against the Fomorians.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Fomorians",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "The delaying mission",
+   "note": "At Lug’s command, the Dagda delays the Fomorians before battle.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "the three gods of Danu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "War preparations at Mag Tuired",
+   "note": "The Dagda, Lug, and Ogma consult or receive equipment from this obscure triad.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "attested"
+  },
+  {
+   "other": "Uaithne",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Recovery of the harp",
+   "note": "If Uaithne is a supernatural harper, the Dagda is his master or associate.",
+   "source": "Cath Maige Tuired",
+   "date": "eleventh–twelfth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cethlenn",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Dagda’s delayed death",
+   "note": "Some traditions say he eventually dies from Cethlenn’s battle wound.",
+   "source": "Lebor Gabála-related tradition",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sucellus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparison equates their mallet, vessel, abundance, and ancestral associations.",
+   "source": "H. J. Rose comparison",
+   "date": "1948",
+   "tier": "modern"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Gaulish Dis Pater"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern reconstruction links the Dagda through Sucellus to Caesar’s unnamed Gaulish ancestral god.",
+   "source": "modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Taranis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparativists propose a thunder-god equation from weather, weapon, and harp-recovery motifs.",
+   "source": "modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Older comparativism and modern syncretism sometimes equate the Dagda with Jupiter.",
+   "source": "older comparative scholarship",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Teutates",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Older comparativism or modern syncretism sometimes equates Teutates with the Dagda.",
+   "source": "older comparative scholarship",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Older comparativism or modern syncretism sometimes equates Silvanus with the Dagda.",
+   "source": "older comparative scholarship",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The mistranslation “All-Father” encouraged a modern equation with Odin.",
+   "source": "modern comparative literature",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern comparison links their weapon-recovery narratives without proving divine identity.",
+   "source": "John Shaw comparison",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Viśvakarman",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparative scholarship links the Dagda and Viśvakarman through Sucellus.",
+   "source": "Sergent comparative study",
+   "date": "2012",
+   "tier": "modern"
+  }
+ ]
+}

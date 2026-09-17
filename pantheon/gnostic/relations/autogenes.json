@@ -1,0 +1,378 @@
+{
+ "subject": "autogenes",
+ "relations": [
+  {
+   "other": "Invisible Spirit",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Emanation of the divine Child",
+   "note": "The Spirit generates and anoints Autogenes, who acts according to its will.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Barbelo",
+   "other_aliases": [
+    "First Thought",
+    "Mother-Father"
+   ],
+   "kind": "child_of",
+   "myth": "Emanation of the divine Child",
+   "note": "Barbelo bears or manifests Autogenes as the luminous divine Child.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Barbelo",
+   "other_aliases": [
+    "First Thought",
+    "Mother-Father"
+   ],
+   "kind": "other",
+   "myth": "Barbelo's transcendental triad",
+   "note": "Autogenes is the lowest articulated mode within Barbelo's aeon.",
+   "source": "Zostrianos; Allogenes",
+   "date": "second–third centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ennoia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ennoia and Logos jointly emit Autogenes.",
+   "source": "Irenaeus, Against Heresies 1.29.2",
+   "date": "c. 175–185 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Logos and Ennoia jointly emit Autogenes.",
+   "source": "Irenaeus, Against Heresies 1.29.2",
+   "date": "c. 175–185 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later texts describe Autogenes himself as the great or noetic Logos.",
+   "source": "Gospel of the Egyptians; Zostrianos",
+   "date": "second–third centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aletheia",
+   "other_aliases": [
+    "Truth"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aletheia is emitted with Autogenes as his syzygy.",
+   "source": "Irenaeus, Against Heresies 1.29.2",
+   "date": "c. 175–185 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Great Light"
+   ],
+   "kind": "shared_myth",
+   "myth": "Irenaeus's Barbeloite genealogy",
+   "note": "Christ is a distinct superior Light who precedes Autogenes.",
+   "source": "Irenaeus, Against Heresies 1.29",
+   "date": "c. 175–185 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [
+    "Anointed"
+   ],
+   "kind": "identified_with",
+   "myth": "Emanation of the divine Child",
+   "note": "The anointed divine Autogenes is explicitly identified as Christ.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aphtharsia",
+   "other_aliases": [
+    "Incorruptibility"
+   ],
+   "kind": "shared_myth",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "Aphtharsia and Christ emit the four Luminaries surrounding Autogenes.",
+   "source": "Irenaeus, Against Heresies 1.29.2",
+   "date": "c. 175–185 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Mind"
+   ],
+   "kind": "allied",
+   "myth": "Completion of the divine Child",
+   "note": "Mind is granted to Autogenes as a helper completing the divine Child.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Mind",
+    "Perfect Mind"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Autogenes becomes or expresses the perfect Mind in later metaphysics.",
+   "source": "Zostrianos",
+   "date": "late second–third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Harmozel",
+   "other_aliases": [
+    "Armozel"
+   ],
+   "kind": "created",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "The first Luminary appears through Autogenes and governs Adamas's realm.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harmozel",
+   "other_aliases": [
+    "Armozel"
+   ],
+   "kind": "served_by",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "Harmozel is the first Luminary attending Autogenes.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oroiael",
+   "other_aliases": [
+    "Oriel"
+   ],
+   "kind": "created",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "The second Luminary appears through Autogenes and governs Seth's realm.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oroiael",
+   "other_aliases": [
+    "Oriel"
+   ],
+   "kind": "served_by",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "Oroiael is the second Luminary attending Autogenes.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daveithai",
+   "other_aliases": [
+    "Davithe"
+   ],
+   "kind": "created",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "The third Luminary appears through Autogenes and governs Seth's seed.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Daveithai",
+   "other_aliases": [
+    "Davithe"
+   ],
+   "kind": "served_by",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "Daveithai is the third Luminary attending Autogenes.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eleleth",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "The fourth Luminary appears through Autogenes and governs a class of souls.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eleleth",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Establishment of the Four Luminaries",
+   "note": "Eleleth is the fourth Luminary attending Autogenes.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adamas",
+   "other_aliases": [
+    "Anthropos",
+    "Geradamas",
+    "Pigeradamas"
+   ],
+   "kind": "created",
+   "myth": "Generation of the perfect Human",
+   "note": "Autogenes directly emits the true and perfect Human, Adamas.",
+   "source": "Irenaeus, Against Heresies 1.29.3",
+   "date": "c. 175–185 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Adamas",
+   "other_aliases": [
+    "Anthropos",
+    "Geradamas",
+    "Pigeradamas"
+   ],
+   "kind": "created",
+   "myth": "The perfect Human and Sethian race",
+   "note": "Adamas appears through the Spirit's foreknowledge and Autogenes's will.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adamas",
+   "other_aliases": [
+    "Anthropos",
+    "Geradamas",
+    "Pigeradamas"
+   ],
+   "kind": "other",
+   "myth": "Autogenes aeonic ascent",
+   "note": "Adamas is called Autogenes's eye in the later metaphysical hierarchy.",
+   "source": "Zostrianos",
+   "date": "late second–third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The perfect Human and Sethian race",
+   "note": "Seth receives a place in Oroiael's realm beneath Autogenes's higher order.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Blessing within the Autogenes realm",
+   "note": "Seth and Autogenes are blessed together during the visionary ascent.",
+   "source": "Zostrianos",
+   "date": "late second–third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sophia",
+   "other_aliases": [
+    "Wisdom"
+   ],
+   "kind": "served_by",
+   "myth": "The twelve aeons before Autogenes",
+   "note": "Sophia is one of twelve aeons standing before Autogenes.",
+   "source": "Apocryphon of John",
+   "date": "second century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kalyptos",
+   "other_aliases": [
+    "Hidden"
+   ],
+   "kind": "shared_myth",
+   "myth": "Barbelo's transcendental triad",
+   "note": "Kalyptos is the hidden mode perceived above Autogenes.",
+   "source": "Zostrianos; Allogenes",
+   "date": "second–third centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Protophanes-Harmedon",
+   "other_aliases": [
+    "Protophanes",
+    "First-appearing"
+   ],
+   "kind": "shared_myth",
+   "myth": "Barbelo's transcendental triad",
+   "note": "Protophanes-Harmedon is the noetic first-appearing mode above Autogenes.",
+   "source": "Zostrianos; Allogenes",
+   "date": "second–third centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Triple-Male Child",
+   "other_aliases": [
+    "Savior",
+    "Youthful Savior"
+   ],
+   "kind": "identified_with",
+   "myth": "Later Sethian divine hierarchy",
+   "note": "The Triple-Male Child is closely coordinated or partially identified with Autogenes.",
+   "source": "Zostrianos; Allogenes",
+   "date": "second–third centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mirothea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Manifestation within the Autogenes realm",
+   "note": "Mirothea is associated with Adamas and Autogenes's manifestation.",
+   "source": "Zostrianos",
+   "date": "third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Prophania",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lights beneath Autogenes",
+   "note": "Prophania is a maternal manifestation associated with the Lights beneath Autogenes.",
+   "source": "Zostrianos",
+   "date": "third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Norea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Norea's invocation",
+   "note": "Norea cries out to the divine Autogenes and his four holy helpers.",
+   "source": "Thought of Norea",
+   "date": "second or third century",
+   "tier": "late_accretion"
+  }
+ ]
+}

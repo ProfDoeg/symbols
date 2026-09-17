@@ -1,0 +1,403 @@
+{
+ "subject": "calypso",
+ "relations": [
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer identifies Calypso as Atlas's daughter; her mother is unnamed.",
+   "source": "Odyssey 1.52",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Her classification among the Hesperides implicitly makes her an Atlantean daughter.",
+   "source": "Asteas-circle South Italian vase",
+   "date": "fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ocean",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Oceanid named Calypso is catalogued as Ocean and Tethys's daughter.",
+   "source": "Theogony 337–70",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An Oceanid named Calypso is catalogued as Ocean and Tethys's daughter.",
+   "source": "Theogony 337–70",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A possibly homonymous Calypso is catalogued among Nereus and Doris's Nereids.",
+   "source": "Pseudo-Apollodorus Bibliotheca 1.2.7",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Doris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A possibly homonymous Calypso is catalogued among Nereus and Doris's Nereids.",
+   "source": "Pseudo-Apollodorus Bibliotheca 1.2.7",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Calypso named among the Hesperides",
+   "note": "A South Italian vase assimilates a Calypso to the western Hesperides.",
+   "source": "Asteas-circle South Italian vase",
+   "date": "fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "consort_of",
+   "myth": "Odysseus detained on Ogygia",
+   "note": "Calypso makes the unwilling Odysseus her sexual partner and desires him as husband.",
+   "source": "Odyssey Books 1 and 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "rescued",
+   "myth": "Odysseus shipwrecked on Ogygia",
+   "note": "Calypso receives, feeds, and saves Odysseus after he reaches Ogygia alone.",
+   "source": "Odyssey 7.244–66",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "other",
+   "myth": "Seven-year detention on Ogygia",
+   "note": "Calypso prevents Odysseus from departing and tries to make him forget Ithaca.",
+   "source": "Odyssey 1.13–55; Book 5",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "gift",
+   "myth": "Calypso releases Odysseus",
+   "note": "She offers immortality, then supplies tools, clothing, provisions, wind, and sailing guidance.",
+   "source": "Odyssey 5.148–281",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "consort_of",
+   "myth": "Calypso bears two sons",
+   "note": "Calypso unites with Odysseus and bears Nausithous and Nausinous.",
+   "source": "Theogony 1017–18",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "consort_of",
+   "myth": "Five-year union on Ogygia",
+   "note": "Calypso sleeps with Odysseus and bears Latinus during a five-year stay.",
+   "source": "Pseudo-Apollodorus Epitome 7.23–24",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "shared_myth",
+   "myth": "Odysseus regrets leaving Calypso",
+   "note": "The dead Odysseus writes that he regrets rejecting Calypso and hopes to return.",
+   "source": "Lucian True History 2.35–36",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Ulysses"
+   ],
+   "kind": "other",
+   "myth": "Calypso dies for Ulysses",
+   "note": "A late mythographic account says Calypso killed herself from love for Ulysses.",
+   "source": "Pseudo-Hyginus Fabulae 243",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nausithous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calypso bears Nausithous to Odysseus.",
+   "source": "Theogony 1017–18",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nausinous",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calypso bears Nausinous to Odysseus.",
+   "source": "Theogony 1017–18",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Latinus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calypso bears Latinus to Odysseus in an imperial mythographic genealogy.",
+   "source": "Pseudo-Apollodorus Epitome 7.24",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Telegonus",
+   "other_aliases": [
+    "Teledamus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A disputed cyclic notice makes Telegonus or Teledamus her son by Odysseus.",
+   "source": "Lost Telegony, cited by Eustathius",
+   "date": "archaic, exact date disputed",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Auson",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Western genealogy variously makes Auson Calypso's child by Odysseus or Atlas.",
+   "source": "Pseudo-Scymnus 229–30",
+   "date": "probably second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Cephallenians",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "A damaged fragment may make Calypso and Hermes progenitors of the Cephallenians.",
+   "source": "Hesiodic fragment 150.31 M–W",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hermes's embassy to Ogygia",
+   "note": "Hermes brings Zeus's command to release Odysseus; Calypso protests but obeys.",
+   "source": "Odyssey 5.43–147",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A damaged fragment may make Hermes and Calypso progenitors of the Cephallenians.",
+   "source": "Hesiodic fragment 150.31 M–W",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Zeus orders Odysseus's release",
+   "note": "Calypso submits to Zeus's sovereign command after Hermes delivers it.",
+   "source": "Odyssey 5.28–42, 137–47",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "contest",
+   "myth": "Athena advocates Odysseus's release",
+   "note": "Athena opposes Calypso's detention by petitioning Zeus, though they never meet.",
+   "source": "Odyssey 1.45–62; 5.7–20",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "allied",
+   "myth": "Odysseus detained for Poseidon",
+   "note": "A damaged fragment says Calypso detained Odysseus for Poseidon; its meaning is disputed.",
+   "source": "Catalogue of Women fragment 40A",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Persephone's Oceanid companions",
+   "note": "A Calypso is listed among Persephone's Oceanid companions without individual action.",
+   "source": "Homeric Hymn to Demeter 418–23",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Complaint over Helios's cattle",
+   "note": "Calypso indirectly learns through Hermes of Helios's complaint to Zeus.",
+   "source": "Odyssey 12.374–90",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leucothea",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Leucothea saves Odysseus",
+   "note": "Calypso learns by letter that Leucothea saved Odysseus after his departure.",
+   "source": "Lucian True History 2.35",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conflicting maternity of Telegonus",
+   "note": "Circe and Calypso receive conflicting genealogical claims as Telegonus's mother.",
+   "source": "Telegony notice; True History 2.35",
+   "date": "archaic to second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "contest",
+   "myth": "Mentor opposes Calypso",
+   "note": "Minerva disguised as Mentor resists Calypso and guides Telemachus away from Ogygia.",
+   "source": "Fénelon Télémaque Books 1–7",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cupid inflames Telemachus",
+   "note": "Calypso accepts Cupid on Ogygia to inflame Telemachus with passion.",
+   "source": "Fénelon Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Cupid disrupts Ogygia",
+   "note": "Cupid's disruptive power escapes Calypso's control after their initial alliance.",
+   "source": "Fénelon Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "allied",
+   "myth": "Venus sends Cupid to Ogygia",
+   "note": "Venus indirectly aids Calypso by sending Cupid against Minerva's designs.",
+   "source": "Fénelon Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "other",
+   "myth": "Neptune drives Telemachus toward Ogygia",
+   "note": "Neptune's storms and anger help drive Telemachus and Mentor into Calypso's episode.",
+   "source": "Fénelon Télémaque",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Telemachus",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Calypso tempts Telemachus",
+   "note": "Calypso falls in love with Telemachus and offers him immortality.",
+   "source": "Fénelon Télémaque Books 1–7",
+   "date": "1699",
+   "tier": "modern"
+  },
+  {
+   "other": "Eucharis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rivalry for Telemachus",
+   "note": "Calypso becomes jealous when Telemachus forms an attachment to the nymph Eucharis.",
+   "source": "Fénelon Télémaque Books 1–7",
+   "date": "1699",
+   "tier": "modern"
+  }
+ ]
+}

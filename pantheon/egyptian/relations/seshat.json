@@ -1,0 +1,163 @@
+{
+ "subject": "seshat",
+ "relations": [
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Reconstruction of the dead king",
+   "note": "Nephthys gathers and heals the king’s limbs in her identity as Seshat.",
+   "source": "Pyramid Text §616, Utterance 364",
+   "date": "Dynasty 6, third millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some later theological traditions describe Seshat as Thoth’s sister.",
+   "source": "Later temple theology",
+   "date": "Pharaonic period, date varies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later theological traditions describe Seshat as Thoth’s daughter.",
+   "source": "Later temple theology",
+   "date": "Pharaonic period, date varies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some later theological traditions describe Seshat as Thoth’s wife.",
+   "source": "Later temple theology",
+   "date": "Pharaonic period, date varies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Inventory of Punt wealth",
+   "note": "Seshat and Thoth record the imported wealth of Hatshepsut’s Punt expedition.",
+   "source": "Hatshepsut’s Deir el-Bahri inscriptions",
+   "date": "Approximately 1479–1458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Writing royal names and years",
+   "note": "Seshat and Thoth inscribe royal names, reigns, and jubilees on the sacred tree.",
+   "source": "Ramesseum and Luxor temple scenes",
+   "date": "Approximately 1279–1213 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Writing royal destiny",
+   "note": "Seshat writes the royal name or years on the sacred tree while Atum presides.",
+   "source": "Ramesseum and Karnak royal-life scenes",
+   "date": "Dynasty 19",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Re-Horakhty"
+   ],
+   "kind": "served",
+   "myth": "Recording the king’s lifespan",
+   "note": "Seshat records the royal eternity authorized or supplied by the solar deity.",
+   "source": "New Kingdom and later temple inscriptions",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Foundation of Amun’s temple",
+   "note": "Seshat measures Amun’s temple and records divinely sanctioned building acts and reign.",
+   "source": "Hatshepsut and Thutmose III at Karnak",
+   "date": "Dynasty 18",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Foundation of the temple",
+   "note": "Horus participates in some foundation reliefs while Seshat stretches the measuring cord.",
+   "source": "Later temple foundation reliefs",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [
+    "Great Seshat"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Dendera theology calls Isis Great Seshat and assigns her Seshat’s writing and archival offices.",
+   "source": "Dendera temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sefkhet-Abwy",
+   "other_aliases": [
+    "Sefkhet-Abui",
+    "Safekh-Abwy",
+    "Sfḫt-ꜥbwy"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their names and images alternate, pair, or combine as closely related manifestations.",
+   "source": "Middle Kingdom through Ptolemaic temple texts",
+   "date": "Middle Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the deceased",
+   "note": "Seshat sits before the deceased while Sia protects the body.",
+   "source": "Book of the Dead Spell 169",
+   "date": "Approximately 1550 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harpocrates",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seshat and Harpocrates flank an obelisk",
+   "note": "A terracotta lamp depicts Seshat and Harpocrates together in an Egyptianizing composition.",
+   "source": "British Museum 1836,0224.455",
+   "date": "Roman Imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Reconstruction of the dead king",
+   "note": "Acting as Seshat, Nephthys delivers the restored body of the king to Nut.",
+   "source": "Pyramid Text Utterance 364",
+   "date": "Dynasty 6, third millennium BCE",
+   "tier": "attested"
+  }
+ ]
+}

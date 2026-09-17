@@ -1,0 +1,374 @@
+{
+ "subject": "narada",
+ "relations": [
+  {
+   "other": "Sanatkumāra",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Nārada’s ascent from learning to plenitude",
+   "note": "Sanatkumāra teaches the sorrowing Nārada knowledge of the Self and bhūman.",
+   "source": "Chāndogya Upaniṣad 7",
+   "date": "mid-first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nārada Kāṇva’s hymn praises Indra",
+   "note": "Received tradition assigns Nārada Kāṇva a hymn praising Indra for protection and bounty.",
+   "source": "Ṛgveda 8.13",
+   "date": "late second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nārada and Parvata’s Soma hymns",
+   "note": "Received tradition jointly attributes two Soma hymns to Nārada Kāṇva and Parvata.",
+   "source": "Ṛgveda 9.104–105",
+   "date": "late second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later cosmologies classify Nārada as Brahmā’s son or mind-born son.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Brahmā creates Nārada",
+   "note": "Brahmā creates Nārada mentally or from his body in varying accounts.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Nārada refuses Brahmā’s command to procreate",
+   "note": "Brahmā curses Nārada after he refuses to participate in procreation.",
+   "source": "Purāṇic variants",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari",
+    "Vāsudeva"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Nārada acts throughout Vaiṣṇava tradition as Viṣṇu’s praising devotee and servant.",
+   "source": "Vaiṣṇava Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari",
+    "Vāsudeva"
+   ],
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Nārada visits Viṣṇu and receives divine instruction in Vaiṣṇava narratives.",
+   "source": "Vaiṣṇava Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari",
+    "Vāsudeva"
+   ],
+   "kind": "deceived_by",
+   "myth": "Viśvamohinī and the monkey face",
+   "note": "Viṣṇu gives Nārada a monkey-like face and frustrates his marriage ambition.",
+   "source": "Śiva Purāṇa",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari",
+    "Vāsudeva"
+   ],
+   "kind": "punished",
+   "myth": "Nārada curses Viṣṇu after humiliation",
+   "note": "Nārada curses Viṣṇu to need monkeys and suffer separation from his wife.",
+   "source": "Śiva Purāṇa",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari",
+    "Vāsudeva"
+   ],
+   "kind": "deceived_by",
+   "myth": "Nārada experiences Māyā",
+   "note": "Viṣṇu makes Nārada experience an illusory marriage, family, flood, and compressed time.",
+   "source": "Later Purāṇic and folkloric tradition",
+   "date": "medieval and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Nārada advances Kṛṣṇa’s divine purposes",
+   "note": "Nārada visits and praises Kṛṣṇa, reveals dangers, and provokes consequential events.",
+   "source": "Mahābhārata, Harivaṃśa, Bhāgavata 10",
+   "date": "epic to tenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Kṛṣṇa identifies himself with Nārada",
+   "note": "Kṛṣṇa names Nārada as his foremost manifestation among divine seers.",
+   "source": "Bhagavadgītā 10.26",
+   "date": "epic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Śiva warns Nārada against boasting",
+   "note": "Śiva warns the proud Nārada not to boast to Viṣṇu about defeating desire.",
+   "source": "Śiva Purāṇa",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pārvatī’s marriage to Śiva",
+   "note": "Nārada participates in marriage preparations and carries information between the parties.",
+   "source": "Śaiva Purāṇic narratives",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Kāma attacks Nārada’s austerity",
+   "note": "Kāma fails to disturb Nārada’s austerity, causing Nārada to become proud.",
+   "source": "Śiva Purāṇa",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lakṣmī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visits to Viṣṇu’s celestial realm",
+   "note": "Nārada appears with Lakṣmī in later narratives centered on Viṣṇu’s realm.",
+   "source": "Vaiṣṇava Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nārada narrates Rāma’s life",
+   "note": "Nārada identifies Rāma as the ideal hero and gives Vālmīki the epic synopsis.",
+   "source": "Rāmāyaṇa 1.1",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nārada warns Yama about Rāvaṇa",
+   "note": "Nārada warns Yama that Rāvaṇa is approaching to challenge him.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "later epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rāvaṇa’s challenge to Yama",
+   "note": "Nārada’s warnings and interventions frame Rāvaṇa’s expanding cosmic aggression.",
+   "source": "Rāmāyaṇa, Uttarakāṇḍa",
+   "date": "later epic stratum",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dhruva",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Dhruva’s austerity and celestial elevation",
+   "note": "Nārada tests Dhruva, then teaches him a mantra and worship of Vāsudeva.",
+   "source": "Viṣṇu Purāṇa",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dhruva",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Dhruva’s austerity and celestial elevation",
+   "note": "Nārada initiates the resolute child into disciplined devotion to Vāsudeva.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prahlāda",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Prahlāda receives prenatal instruction",
+   "note": "Nārada teaches devotion that the unborn Prahlāda hears and remembers.",
+   "source": "Bhāgavata Purāṇa 7",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Renunciation of Dakṣa’s sons",
+   "note": "Dakṣa curses Nārada to wander after Nārada turns his sons from procreation.",
+   "source": "Bhāgavata Purāṇa 6",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tumburu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial musicians beside Varāha",
+   "note": "Nārada and Tumburu appear together as exemplary celestial musicians.",
+   "source": "Udayagiri Cave 5",
+   "date": "early fifth century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tumburu",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rival celestial musicians",
+   "note": "Later narratives sometimes make Nārada and Tumburu rivals in musical excellence.",
+   "source": "Later literary traditions",
+   "date": "Gupta period and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Devī",
+   "other_aliases": [
+    "Mahāmāyā",
+    "Goddess"
+   ],
+   "kind": "taught_by",
+   "myth": "Nārada questions the Goddess about Māyā",
+   "note": "Nārada asks about Māyā and receives goddess-centered cosmological revelation.",
+   "source": "Devī-Bhāgavata Purāṇa",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sāmba",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Sāmba’s disguised pregnancy prank",
+   "note": "Sāmba’s disguise deceives Nārada and the other sages during the fatal prank.",
+   "source": "Bhāgavata Purāṇa 11",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sāmba",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Curse of the iron pestle",
+   "note": "Nārada joins the sages whose curse produces the pestle destroying the Yādavas.",
+   "source": "Bhāgavata Purāṇa 11",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Parvata",
+   "other_aliases": [
+    "Parvata Kāṇva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Paired Vedic seers",
+   "note": "Nārada and Parvata are paired as possessors of sacrificial knowledge.",
+   "source": "Atharvaveda 5.19.9",
+   "date": "early first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Parvata",
+   "other_aliases": [
+    "Parvata Kāṇva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint attribution of Soma hymns",
+   "note": "Received tradition jointly assigns Soma hymns to Nārada Kāṇva and Parvata Kāṇva.",
+   "source": "Ṛgveda 9.104–105",
+   "date": "late second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Parvata",
+   "other_aliases": [
+    "Parvata Kāṇva"
+   ],
+   "kind": "contest",
+   "myth": "Rivalry over marriage",
+   "note": "Later tales make the companion sages rivals over marriage.",
+   "source": "Later narrative traditions",
+   "date": "medieval and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viśvamohinī",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Viśvamohinī’s marriage contest",
+   "note": "Nārada seeks Viśvamohinī but is humiliated and loses at her marriage contest.",
+   "source": "Śiva Purāṇa",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kayādhu",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Nārada shelters pregnant Kayādhu",
+   "note": "Nārada intervenes when Indra abducts Kayādhu and shelters her during pregnancy.",
+   "source": "Bhāgavata Purāṇa 7",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  }
+ ]
+}

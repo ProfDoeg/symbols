@@ -1,0 +1,583 @@
+{
+ "subject": "daksha",
+ "relations": [
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Daksha is named among Aditi’s Āditya circle.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Reciprocal cosmogonic generation",
+   "note": "Daksha is born from Aditi in a reciprocal creation paradox.",
+   "source": "Ṛgveda 10.72.4–5",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Reciprocal cosmogonic generation",
+   "note": "Aditi is born from Daksha in the same reciprocal creation.",
+   "source": "Ṛgveda 10.72.4–5",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies make Aditi Daksha’s daughter and Kaśyapa’s wife.",
+   "source": "Epic–Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mitra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation of the Ādityas",
+   "note": "Mitra and Daksha are jointly invoked among the Ādityas.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aryaman",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation of the Ādityas",
+   "note": "Aryaman and Daksha are jointly invoked among the Ādityas.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bhaga",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation of the Ādityas",
+   "note": "Bhaga and Daksha are jointly invoked among the Ādityas.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Varuṇa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation of the Ādityas",
+   "note": "Varuṇa and Daksha are jointly invoked among the Ādityas.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aṃśa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Invocation of the Ādityas",
+   "note": "Aṃśa and Daksha are jointly invoked among the Ādityas.",
+   "source": "Ṛgveda 2.27.1",
+   "date": "c. 1400–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Brahmā mentally creates or fathers Daksha as a Prajāpati.",
+   "source": "Epic–Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Appeal after the ruined sacrifice",
+   "note": "Brahmā joins the gods’ appeal to Śiva for restoration.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prasūti",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Prasūti is wife of the Brahmā-born Daksha and bears his daughters.",
+   "source": "Viṣṇu Purāṇa 1.7",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asiknī",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Asiknī becomes the Prācetasa Daksha’s wife and bears sons and daughters.",
+   "source": "Bhāgavata Purāṇa 6",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vīriṇī",
+   "other_aliases": [
+    "Vīraṇī"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Epic tradition names Vīriṇī as Daksha’s wife.",
+   "source": "Mahābhārata genealogies",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Māriṣā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Daksha’s Prācetasa rebirth",
+   "note": "Māriṣā bears the reborn Daksha to the ten Pracetas.",
+   "source": "Viṣṇu Purāṇa 1.15",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the ten Pracetas",
+   "other_aliases": [
+    "Pracetas"
+   ],
+   "kind": "child_of",
+   "myth": "Daksha’s Prācetasa rebirth",
+   "note": "The ten Pracetas collectively father Daksha through Māriṣā.",
+   "source": "Viṣṇu Purāṇa 1.15",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Chandra"
+   ],
+   "kind": "gift",
+   "myth": "Marriage to the lunar mansions",
+   "note": "Daksha gives twenty-seven daughters representing lunar mansions to Soma.",
+   "source": "Epic–Purāṇic traditions",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [
+    "Chandra"
+   ],
+   "kind": "punished",
+   "myth": "Daksha curses the Moon",
+   "note": "Daksha curses Soma with wasting after he neglects all wives except Rohiṇī.",
+   "source": "Epic–Purāṇic traditions",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rohiṇī",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rohiṇī is one of Daksha’s twenty-seven lunar-mansion daughters.",
+   "source": "Purāṇic astronomical genealogy",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rohiṇī",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage to Soma",
+   "note": "Daksha gives Rohiṇī to Soma, whose preference for her provokes conflict.",
+   "source": "Purāṇic astronomical genealogy",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dharma",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of Daksha’s daughters",
+   "note": "Daksha gives Dharma ten or thirteen daughters, depending on the genealogy.",
+   "source": "Mahābhārata; Purāṇas",
+   "date": "c. 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of Daksha’s daughters",
+   "note": "Daksha gives Kaśyapa thirteen or more daughters who mother many species.",
+   "source": "Mahābhārata; Purāṇas",
+   "date": "c. 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [
+    "Vahni"
+   ],
+   "kind": "gift",
+   "myth": "Marriage of Svāhā",
+   "note": "Daksha gives his daughter Svāhā to Agni.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pitṛs",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Marriage of Svadhā",
+   "note": "Daksha gives Svadhā to the ancestral Pitṛs as wife or mediator.",
+   "source": "Purāṇic genealogy",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Satī is Daksha’s daughter and becomes Śiva’s wife.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Daksha’s sacrifice and Satī’s death",
+   "note": "Daksha rejects Satī’s protest, dishonors her, and excludes her husband.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "fought",
+   "myth": "Destruction of Daksha’s sacrifice",
+   "note": "Daksha insults and excludes Śiva, whose response destroys the sacrifice.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "c. 400 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "punished_by",
+   "myth": "Destruction of Daksha’s sacrifice",
+   "note": "Śiva’s wrath costs Daksha his sacrifice and head.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra"
+   ],
+   "kind": "rescued_by",
+   "myth": "Goat-headed restoration",
+   "note": "Śiva restores Daksha with a goat’s head and permits reconciliation.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nandin",
+   "other_aliases": [
+    "Nandīśvara"
+   ],
+   "kind": "fought",
+   "myth": "Exchange of curses",
+   "note": "Nandin answers Daksha’s denunciation by cursing Daksha’s ritualist supporters.",
+   "source": "Bhāgavata Purāṇa 4.2",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vīrabhadra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Assault on Daksha’s sacrifice",
+   "note": "Vīrabhadra attacks Daksha and destroys his sacrificial assembly.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vīrabhadra",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Decapitation of Daksha",
+   "note": "Vīrabhadra beheads Daksha and casts his head into the fire.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhadrakālī",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Assault on Daksha’s sacrifice",
+   "note": "Bhadrakālī assists Śiva’s forces in destroying Daksha’s sacrifice.",
+   "source": "Śaiva and Śākta Purāṇas",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Completion of the reconciled sacrifice",
+   "note": "Viṣṇu manifests as supreme recipient when Daksha’s restored sacrifice resumes.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Pacification at Kottiyoor",
+   "note": "Living Kottiyoor tradition treats Viṣṇu as pacifying the grieving Śiva.",
+   "source": "Kottiyoor ritual tradition",
+   "date": "living tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bhaga",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mutilation at Daksha’s sacrifice",
+   "note": "Bhaga attends Daksha’s sacrifice and loses his eyes in later retellings.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pūṣan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mutilation at Daksha’s sacrifice",
+   "note": "Pūṣan attends Daksha’s sacrifice and loses his teeth during the assault.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Savitṛ",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Injuries at the excluded sacrifice",
+   "note": "Savitṛ loses his hands in the early Prajāpati-sacrifice antecedent.",
+   "source": "Gopatha Brāhmaṇa 2.1.2–3",
+   "date": "later first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of Daksha’s sacrifice",
+   "note": "Indra defends the sacrifice but is defeated or humiliated by Vīrabhadra.",
+   "source": "Śaiva Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Assault on Daksha’s sacrifice",
+   "note": "Yama’s staff is broken during the assault in some accounts.",
+   "source": "Purāṇic accounts",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sarasvatī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mutilation at Daksha’s sacrifice",
+   "note": "Sarasvatī suffers mutilation, often of her nose, in certain accounts.",
+   "source": "Vāyu-derived accounts",
+   "date": "4th–7th centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bṛhaspati",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Daksha’s Bṛhaspatisava",
+   "note": "Bṛhaspati appears as priestly authority for Daksha’s named sacrificial rite.",
+   "source": "Bhāgavata Purāṇa 4",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dadhīci",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Protest against Śiva’s exclusion",
+   "note": "Dadhīci condemns Daksha’s exclusion of Śiva and abandons the rite.",
+   "source": "Kūrma Purāṇa",
+   "date": "8th–11th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nārada",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Nārada diverts Daksha’s sons",
+   "note": "Daksha curses Nārada to wander after he redirects two groups of sons.",
+   "source": "Bhāgavata Purāṇa 6",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Haryaśvas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Daksha fathers five thousand Haryaśvas to populate the cosmos.",
+   "source": "Bhāgavata Purāṇa 6",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śabalāśvas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Daksha fathers one thousand Śabalāśvas after the Haryaśvas depart.",
+   "source": "Bhāgavata Purāṇa 6",
+   "date": "9th–10th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariṣṭanemi",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of sixty daughters",
+   "note": "Daksha gives daughters to Ariṣṭanemi in the sixty-daughter genealogy.",
+   "source": "Viṣṇu Purāṇa 1.15",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aṅgiras",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of sixty daughters",
+   "note": "Daksha gives daughters to Aṅgiras in the sixty-daughter genealogy.",
+   "source": "Viṣṇu Purāṇa 1.15",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛśāśva",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of sixty daughters",
+   "note": "Daksha gives daughters to Kṛśāśva in the sixty-daughter genealogy.",
+   "source": "Viṣṇu Purāṇa 1.15",
+   "date": "4th–6th centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diti",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Diti is named among Daksha’s daughters and mothers the Daityas.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Danu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Danu is named among Daksha’s daughters and mothers the Dānavas.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vinatā",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Vinatā is named among Daksha’s daughters and becomes an ancestral mother.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kadrū",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kadrū is named among Daksha’s daughters and becomes mother of nāgas.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Surabhi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Surabhi is named among Daksha’s daughters and becomes an ancestral mother.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Svāhā",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Svāhā is Daksha’s daughter and is given to Agni.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Svadhā",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Svadhā is Daksha’s daughter and is given to the Pitṛs.",
+   "source": "Purāṇic genealogies",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  }
+ ]
+}

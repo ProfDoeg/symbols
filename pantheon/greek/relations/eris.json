@@ -1,0 +1,498 @@
+{
+ "subject": "eris",
+ "relations": [
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Homer calls Eris the sister of man-slaying Ares.",
+   "source": "Homer, Iliad 4.440–445",
+   "date": "late 8th–early 7th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battlefield companions amplify the fighting",
+   "note": "Eris accompanies Ares in battle and intensifies combat.",
+   "source": "Homer, Iliad 4.440–445",
+   "date": "late 8th–early 7th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ares answers Eris' terrible war cry",
+   "note": "Eris shouts in delight during battle, and Ares answers her.",
+   "source": "Quintus Smyrnaeus, Posthomerica 8.324–330",
+   "date": "4th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx bears hard-hearted Eris without a mate.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Nox",
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman genealogy makes Discordia an offspring of Nox and Erebus.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman genealogy makes Discordia an offspring of Erebus and Nox.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ponos",
+   "other_aliases": [
+    "Toil",
+    "Hardship"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Ponos without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lethe",
+   "other_aliases": [
+    "Forgetfulness"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Lethe without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Limos",
+   "other_aliases": [
+    "Famine"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Limos without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Algea",
+   "other_aliases": [
+    "Pains",
+    "Sorrows"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Algea without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hysminai",
+   "other_aliases": [
+    "Fightings"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Hysminai without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Machai",
+   "other_aliases": [
+    "Battles"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Machai without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phonoi",
+   "other_aliases": [
+    "Murders"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Phonoi without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Androktasiai",
+   "other_aliases": [
+    "Manslaughters"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Androktasiai without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neikea",
+   "other_aliases": [
+    "Quarrels"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Neikea without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pseudea",
+   "other_aliases": [
+    "Falsehoods"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Pseudea without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Logoi",
+   "other_aliases": [
+    "Words",
+    "Stories",
+    "Arguments"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Logoi without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amphillogiai",
+   "other_aliases": [
+    "Disputes"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears the collective Amphillogiai without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dysnomia",
+   "other_aliases": [
+    "Lawlessness"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Dysnomia without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ate",
+   "other_aliases": [
+    "Ruin",
+    "Delusion",
+    "Reckless Error"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Ate without a named father.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horkos",
+   "other_aliases": [
+    "Oath"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Eris bears Horkos, the oath that punishes perjury.",
+   "source": "Hesiod, Theogony 226–232",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Eris carries Zeus' war sign",
+   "note": "Zeus sends Eris toward the Achaean camp bearing a sign of war.",
+   "source": "Homer, Iliad 5.518–520; 11.3–14",
+   "date": "late 8th–early 7th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Zeus establishes beneficial Strife",
+   "note": "Zeus places the praiseworthy Eris at earth's roots for human benefit.",
+   "source": "Hesiod, Works and Days 17–19",
+   "date": "c. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine plan initiates the Trojan War",
+   "note": "Zeus plans the war before Eris initiates the beauty dispute.",
+   "source": "Proclus, summary of the Cypria",
+   "date": "7th–6th century BCE plot",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine plan initiates the Trojan War",
+   "note": "Themis plans the war with Zeus before Eris starts the beauty dispute.",
+   "source": "Proclus, summary of the Cypria",
+   "date": "7th–6th century BCE plot",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kydoimos",
+   "other_aliases": [
+    "Tumult"
+   ],
+   "kind": "shared_myth",
+   "myth": "Battle scene on Achilles' shield",
+   "note": "Eris and Kydoimos occupy the same battle scene on Achilles' shield.",
+   "source": "Homer, Iliad 18.535–540",
+   "date": "late 8th–early 7th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ker",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Battle scene on Achilles' shield",
+   "note": "Eris and destructive Ker occupy the same battle scene.",
+   "source": "Homer, Iliad 18.535–540",
+   "date": "late 8th–early 7th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Beauty dispute at Peleus' wedding",
+   "note": "Eris initiates the dispute in which Athena claims supreme beauty.",
+   "source": "Proclus, summary of the Cypria",
+   "date": "7th–6th century BCE plot",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Beauty dispute at Peleus' wedding",
+   "note": "Eris initiates the dispute in which Hera claims supreme beauty.",
+   "source": "Proclus, summary of the Cypria",
+   "date": "7th–6th century BCE plot",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Beauty dispute at Peleus' wedding",
+   "note": "Eris initiates the dispute that Aphrodite ultimately wins.",
+   "source": "Proclus, summary of the Cypria",
+   "date": "7th–6th century BCE plot",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of Paris",
+   "note": "After Eris starts the quarrel, Hermes conducts the goddesses to Paris.",
+   "source": "Cypria summary; Apollodorus, Epitome 3.2",
+   "date": "7th–6th century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Contest of Aedon and Polytechnos",
+   "note": "Hera sends Eris to provoke rivalry between the boasting married couple.",
+   "source": "Antoninus Liberalis, Metamorphoses 11",
+   "date": "2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Heracles strikes swelling Strife",
+   "note": "Heracles repeatedly strikes Eris in object form, causing her to grow.",
+   "source": "Aesopic fable 534/Chambry 129",
+   "date": "later transmission; date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Athena explains swelling Strife",
+   "note": "Athena identifies the swelling object as Eris and explains its nature.",
+   "source": "Aesopic fable 534/Chambry 129",
+   "date": "later transmission; date uncertain",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A fragmentary lyric reportedly calls Eris Enyo's sister; context is lost.",
+   "source": "Alcman, fragment 146 PMGF",
+   "date": "7th–6th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship partially assimilates their overlapping battlefield functions without proving complete fusion.",
+   "source": "Modern comparative scholarship",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Keres",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death-powers delight in Trojan slaughter",
+   "note": "Eris appears with the Keres amid slaughter in the Trojan War.",
+   "source": "Quintus Smyrnaeus, Posthomerica",
+   "date": "4th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Moros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death-powers delight in Trojan slaughter",
+   "note": "Eris appears with Moros amid Trojan-war slaughter.",
+   "source": "Quintus Smyrnaeus, Posthomerica",
+   "date": "4th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "served",
+   "myth": "Juno summons infernal Discord",
+   "note": "Juno proposes dragging Discordia from the underworld with other destructive powers.",
+   "source": "Seneca, Hercules Furens 93–99",
+   "date": "1st century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Scelus",
+   "other_aliases": [
+    "Crime"
+   ],
+   "kind": "shared_myth",
+   "myth": "Juno summons infernal powers",
+   "note": "Juno proposes summoning Discordia together with Scelus from the underworld.",
+   "source": "Seneca, Hercules Furens 93–99",
+   "date": "1st century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Impietas",
+   "other_aliases": [
+    "Impiety"
+   ],
+   "kind": "shared_myth",
+   "myth": "Juno summons infernal powers",
+   "note": "Juno proposes summoning Discordia together with Impietas from the underworld.",
+   "source": "Seneca, Hercules Furens 93–99",
+   "date": "1st century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Error",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Juno summons infernal powers",
+   "note": "Juno proposes summoning Discordia together with Error from the underworld.",
+   "source": "Seneca, Hercules Furens 93–99",
+   "date": "1st century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Furor",
+   "other_aliases": [
+    "Rage"
+   ],
+   "kind": "shared_myth",
+   "myth": "Juno summons infernal powers",
+   "note": "Juno proposes summoning Discordia together with Furor from the underworld.",
+   "source": "Seneca, Hercules Furens 93–99",
+   "date": "1st century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aneris",
+   "other_aliases": [
+    "Harmonia"
+   ],
+   "kind": "other",
+   "myth": "Discordian opposition of disorder and order",
+   "note": "Discordian texts construct Aneris as Eris' opposite principle of order and non-being.",
+   "source": "Principia Discordia",
+   "date": "c. 1963–1965",
+   "tier": "modern"
+  }
+ ]
+}

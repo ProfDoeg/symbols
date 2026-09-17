@@ -1,0 +1,386 @@
+{
+ "subject": "utnapishtim",
+ "relations": [
+  {
+   "other": "Shuruppak",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The later recension names Ziusudra as Shuruppak's son.",
+   "source": "Instructions of Shuruppak",
+   "date": "ca. 1900–1800 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ubara-Tutu",
+   "other_aliases": [
+    "Ubar-Tutu",
+    "Otiartes",
+    "Opartes"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Utnapishtim is Ubar-Tutu's son; Berossus preserves the ancestry through Otiartes.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ubara-Tutu",
+   "other_aliases": [
+    "Ubar-Tutu",
+    "Otiartes",
+    "Opartes"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "W-B 62 places an apparent Shuruppak generation between Ubara-Tutu and Ziusudra.",
+   "source": "W-B 62",
+   "date": "late third/early second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Gilgamesh calls Utnapishtim his remote ancestor, without an intervening genealogy.",
+   "source": "Gilgamesh IX",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "rescued_by",
+   "myth": "Warning Ziusudra through the wall",
+   "note": "Enki communicates the gods' flood decision to Ziusudra beside a wall.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "taught_by",
+   "myth": "Countering Namtar's plague",
+   "note": "Enki teaches Atrahasis to redirect worship toward Namtar and end the plague.",
+   "source": "Atrahasis I–II",
+   "date": "ca. 1635 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "taught_by",
+   "myth": "Countering drought and famine",
+   "note": "Enki supplies Atrahasis with countermeasures against Enlil's drought and famine.",
+   "source": "Atrahasis II",
+   "date": "ca. 1635 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "rescued_by",
+   "myth": "Flood warning through the reed wall",
+   "note": "Enki warns Atrahasis indirectly and orders him to dismantle his house and build a boat.",
+   "source": "Atrahasis III",
+   "date": "ca. 1635–1634 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "rescued_by",
+   "myth": "Ea warns Utnapishtim",
+   "note": "Ea orders Utnapishtim to build a boat and later defends saving him.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [
+    "Ea",
+    "Nudimmud"
+   ],
+   "kind": "allied",
+   "myth": "Post-flood divine resolution",
+   "note": "Enki participates in the damaged divine resolution culminating in Ziusudra's survival and exaltation.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "fought",
+   "myth": "The gods swear the flood oath",
+   "note": "An joins the divine oath authorizing the flood that threatens Ziusudra.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "gift",
+   "myth": "Ziusudra receives eternal life",
+   "note": "An and Enlil grant Ziusudra life like a god and settle him in Dilmun.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "other",
+   "myth": "Assembly measures against humanity",
+   "note": "Anu participates in the assembly whose population measures affect Atrahasis indirectly.",
+   "source": "Atrahasis I–III",
+   "date": "ca. 1635–1634 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Plague, drought, famine, and flood",
+   "note": "Enlil repeatedly attempts to reduce or destroy humanity, while Atrahasis survives through Enki.",
+   "source": "Atrahasis I–III",
+   "date": "ca. 1635–1634 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Enlil confronts the flood survivor",
+   "note": "Enlil rages that Atrahasis survived and disputes his preservation with Enki.",
+   "source": "Atrahasis III",
+   "date": "ca. 1635–1634 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Utnapishtim's apotheosis",
+   "note": "Enlil blesses Utnapishtim and his wife, makes them godlike, and assigns them a distant home.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninhursag",
+   "other_aliases": [
+    "Nintur"
+   ],
+   "kind": "other",
+   "myth": "Divine oath and flood lament",
+   "note": "Ninhursag participates in the flood assembly; as Nintur she laments humanity's destruction.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Belet-ili",
+   "other_aliases": [
+    "Nintu",
+    "Mami"
+   ],
+   "kind": "created_by",
+   "myth": "Creation of humanity",
+   "note": "The birth goddess helps create the humanity to which Atrahasis belongs.",
+   "source": "Atrahasis I",
+   "date": "ca. 1635 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Belet-ili",
+   "other_aliases": [
+    "Nintu",
+    "Mami"
+   ],
+   "kind": "other",
+   "myth": "Post-flood population settlement",
+   "note": "The birth goddess preserves humanity under new reproductive limits after Atrahasis's survival.",
+   "source": "Atrahasis III",
+   "date": "ca. 1635–1634 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Belet-ili",
+   "other_aliases": [
+    "Nintu",
+    "Mami"
+   ],
+   "kind": "shared_myth",
+   "myth": "Lament and necklace oath",
+   "note": "Belet-ili laments the flood, swears remembrance, and excludes Enlil from Utnapishtim's sacrifice.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [
+    "Shamash"
+   ],
+   "kind": "gift",
+   "myth": "Sunlight and post-flood sacrifice",
+   "note": "Utu illuminates the boat; Ziusudra prostrates himself and sacrifices cattle and sheep.",
+   "source": "Sumerian flood tablet",
+   "date": "ca. 1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "fought",
+   "myth": "Adad leads the deluge",
+   "note": "Adad roars within the cloud and leads the storm that Utnapishtim survives.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adad",
+   "other_aliases": [
+    "Iškur"
+   ],
+   "kind": "rescued_by",
+   "myth": "Drought reversed through worship",
+   "note": "Adad relents after Atrahasis and humanity redirect worship toward him during the famine.",
+   "source": "Atrahasis II",
+   "date": "ca. 1635 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shullat",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Storm heralds advance",
+   "note": "Shullat advances over hill and plain as a herald of the flood Utnapishtim survives.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanish",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Storm heralds advance",
+   "note": "Hanish advances over hill and plain as a herald of the flood Utnapishtim survives.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erragal",
+   "other_aliases": [
+    "Erra"
+   ],
+   "kind": "fought",
+   "myth": "Erragal unleashes the flood",
+   "note": "Erragal tears out mooring or dam posts during the flood Utnapishtim survives.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ninurta overflows the waters",
+   "note": "Ninurta causes dikes or waters to overflow during Utnapishtim's flood.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunnaki",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Anunnaki illuminate the destruction",
+   "note": "The Anunnaki raise torches and set the land ablaze during Utnapishtim's flood.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Namtar",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Plague reversed through worship",
+   "note": "Namtar relents after Atrahasis follows Enki's strategy and directs offerings toward him.",
+   "source": "Atrahasis I–II",
+   "date": "ca. 1635 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Cronus warns Xisuthros",
+   "note": "Cronus warns Xisuthros in a dream and orders him to preserve writings and build a ship.",
+   "source": "Berossus, Babyloniaca",
+   "date": "early third century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Utnapishtim recounts the flood",
+   "note": "Utnapishtim teaches Gilgamesh about universal mortality and narrates his exceptional survival.",
+   "source": "Gilgamesh X–XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "The test of sleeplessness",
+   "note": "Utnapishtim tests Gilgamesh's ability to resist sleep for six days and seven nights.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gilgamesh",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The rejuvenating plant",
+   "note": "Utnapishtim reveals the deep-water plant that can rejuvenate an old person.",
+   "source": "Gilgamesh XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  }
+ ]
+}

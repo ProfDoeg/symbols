@@ -1,0 +1,187 @@
+{
+ "subject": "inti",
+ "relations": [
+  {
+   "other": "Viracocha",
+   "other_aliases": [
+    "Ticci Viracocha"
+   ],
+   "kind": "created_by",
+   "myth": "Creation of the Sun at Titicaca",
+   "note": "Viracocha creates or stations Inti and commands his cosmic course.",
+   "source": "Betanzos; Cieza; Molina; Sarmiento",
+   "date": "c. 1551–1575",
+   "tier": "attested"
+  },
+  {
+   "other": "Mama Quilla",
+   "other_aliases": [
+    "the Moon"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Moon is described as Inti's wife in imperial cult structure.",
+   "source": "Garcilaso; Cobo",
+   "date": "1609; 1653",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mama Quilla",
+   "other_aliases": [
+    "the Moon"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Moon is commonly described as Inti's sister.",
+   "source": "Garcilaso; Cobo",
+   "date": "1609; 1653",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "The Sun sends Manco Cápac and Mama Ocllo",
+   "note": "Inti fathers Manco Cápac and sends him to establish Inca order.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical"
+  },
+  {
+   "other": "Manco Cápac",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The golden staff determines Cusco's foundation",
+   "note": "Inti gives Manco a golden staff to locate his destined center.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mama Ocllo",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "The Sun sends Manco Cápac and Mama Ocllo",
+   "note": "Inti fathers Mama Ocllo and sends her to teach women.",
+   "source": "Garcilaso, Comentarios reales",
+   "date": "1609",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pachacamac",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vichama–Pachacamac solar cycle",
+   "note": "Pachacamac resents solar worship, murders Inti's child, then flees Vichama.",
+   "source": "Teruel through Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vichama",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Vichama–Pachacamac solar cycle",
+   "note": "Inti engenders or creates Vichama after Pachacamac murders the first child.",
+   "source": "Teruel through Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vichama",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Vichama pursues Pachacamac",
+   "note": "Inti hears or assists Vichama following Pachacamac's violence.",
+   "source": "Teruel through Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vichama",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The Sun sends three social eggs",
+   "note": "Inti sends three eggs from which ranked human groups emerge.",
+   "source": "Teruel through Calancha, Corónica moralizada",
+   "date": "1638",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some unstable regional traditions present Kon as Inti's offspring.",
+   "source": "Lope de Gómara and later compilations",
+   "date": "colonial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Illapa",
+   "other_aliases": [
+    "Thunder"
+   ],
+   "kind": "shared_myth",
+   "myth": "Coordinated state cult",
+   "note": "Inti and Illapa receive coordinated offerings within state ritual.",
+   "source": "Molina; Guaman Poma; Cobo",
+   "date": "c. 1575–1653",
+   "tier": "attested"
+  },
+  {
+   "other": "Pachamama",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Agricultural and imperial ritual",
+   "note": "Inti and Pachamama receive offerings within the same ritual field.",
+   "source": "Molina and later ritual descriptions",
+   "date": "c. 1575 and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Chasca",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Celestial cult complex",
+   "note": "Inti and Chasca share celestial temple and calendrical classifications.",
+   "source": "Garcilaso; Cobo; calendrical materials",
+   "date": "1609–1653",
+   "tier": "canonical"
+  },
+  {
+   "other": "the rainbow",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Qorikancha cosmographic arrangement",
+   "note": "The rainbow appears with Inti in temple and cosmographic arrangements.",
+   "source": "Santa Cruz Pachacuti; Cobo",
+   "date": "early 1600s; 1653",
+   "tier": "canonical"
+  },
+  {
+   "other": "the stars",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Qorikancha cosmographic arrangement",
+   "note": "The stars appear with Inti in temple and cosmographic arrangements.",
+   "source": "Santa Cruz Pachacuti; Cobo",
+   "date": "early 1600s; 1653",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pleiades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Qorikancha cosmographic arrangement",
+   "note": "The Pleiades appear with Inti in temple and cosmographic arrangements.",
+   "source": "Santa Cruz Pachacuti; Cobo",
+   "date": "early 1600s; 1653",
+   "tier": "canonical"
+  }
+ ]
+}

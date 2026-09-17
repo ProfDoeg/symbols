@@ -1,0 +1,750 @@
+{
+ "subject": "cronos",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Ge"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia is Cronos’s mother in the Hesiodic and Phoenician-Greek genealogies.",
+   "source": "Hesiod, Theogony 126–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "allied",
+   "myth": "Conspiracy against Ouranos",
+   "note": "Gaia recruits Cronos against Ouranos and arms him with an adamantine sickle.",
+   "source": "Hesiod, Theogony 154–175",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Sky"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ouranos is Cronos’s father in the principal Hesiodic genealogy.",
+   "source": "Hesiod, Theogony 126–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Sky"
+   ],
+   "kind": "fought",
+   "myth": "Castration of Ouranos",
+   "note": "Cronos ambushes, castrates, and overthrows his father with Gaia’s sickle.",
+   "source": "Hesiod, Theogony 176–210",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [
+    "Sky"
+   ],
+   "kind": "other",
+   "myth": "Prophecy of Cronos’s overthrow",
+   "note": "Ouranos and Gaia warn that Cronos will be overcome by his own son.",
+   "source": "Hesiod, Theogony 463–467",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Birth from the sea foam",
+   "note": "Cronos’s casting of Ouranos’s severed genitals indirectly causes Aphrodite’s emergence.",
+   "source": "Hesiod, Theogony 188–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Birth from Ouranos’s blood",
+   "note": "They arise indirectly when blood from Cronos’s assault falls upon Gaia.",
+   "source": "Hesiod, Theogony 185–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Birth from Ouranos’s blood",
+   "note": "They arise indirectly when blood from Cronos’s assault falls upon Gaia.",
+   "source": "Hesiod, Theogony 185–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Melian nymphs",
+   "other_aliases": [
+    "Meliae"
+   ],
+   "kind": "created",
+   "myth": "Birth from Ouranos’s blood",
+   "note": "They arise indirectly when blood from Cronos’s assault falls upon Gaia.",
+   "source": "Hesiod, Theogony 185–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Cronos are both children of Gaia and Ouranos.",
+   "source": "Hesiod, Theogony 126–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rhea is Cronos’s wife and mother of his six Olympian children.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Saving the infant Zeus",
+   "note": "Rhea hides Zeus and tricks Cronos into swallowing a swaddled stone.",
+   "source": "Hesiod, Theogony 459–491",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hestia is a daughter of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swallowing and disgorgement",
+   "note": "Cronos swallows Hestia, who is later disgorged alive.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Demeter is a daughter of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swallowing and disgorgement",
+   "note": "Cronos swallows Demeter, who is later disgorged alive.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hera is a daughter of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swallowing and disgorgement",
+   "note": "Cronos swallows Hera, who is later disgorged alive.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hades is a son of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swallowing and disgorgement",
+   "note": "Cronos swallows Hades, who is later disgorged alive.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Poseidon is a son of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Swallowing and disgorgement",
+   "note": "Cronos swallows Poseidon, who is later disgorged alive.",
+   "source": "Hesiod, Theogony 453–500",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Arcadian foal substitution",
+   "note": "Rhea substitutes a foal for Poseidon and hides the infant among lambs.",
+   "source": "Pausanias, Description of Greece 8",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Zeus is the youngest son of Cronos and Rhea.",
+   "source": "Hesiod, Theogony 453–458",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Attempted swallowing of Zeus",
+   "note": "Cronos intends to swallow Zeus but consumes Rhea’s substituted stone.",
+   "source": "Hesiod, Theogony 485–491",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Zeus leads the coalition that defeats Cronos and the Titans.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Deposition and confinement",
+   "note": "After victory, Zeus’s regime confines Cronos beneath the earth in Tartarus.",
+   "source": "Homer and Hesiodic Titanomachy",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Release to the Blessed Isles",
+   "note": "A disputed passage says Zeus releases Cronos and appoints him ruler there.",
+   "source": "Works and Days 169–173",
+   "date": "c. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Drug-induced disgorgement",
+   "note": "Metis gives Cronos an emetic that forces him to disgorge the stone and gods.",
+   "source": "Apollodorus, Library 1.2.1",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Imprisonment of the Cyclopes",
+   "note": "Later systematization assigns Cronos a role in binding the Cyclopes.",
+   "source": "Apollodorus, Library 1.1–1.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Freed by Zeus, the Cyclopes arm Cronos’s enemies during the divine war.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Cottus joins Zeus and helps overwhelm Cronos’s Titan faction with stones.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Briareus joins Zeus and helps overwhelm Cronos’s Titan faction with stones.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gyges",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Gyges joins Zeus and helps overwhelm Cronos’s Titan faction with stones.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hundred-Handers",
+   "other_aliases": [
+    "Cottus, Briareus, Gyges"
+   ],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "The Hundred-Handers are decisive allies of Zeus against Cronos’s faction.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iapetos",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iapetos and Cronos belong to the same generation of Titans.",
+   "source": "Hesiod, Theogony 126–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iapetos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Confinement at the lower boundary",
+   "note": "Homer places Iapetos and Cronos together beyond sunlight and wind.",
+   "source": "Iliad 8.478–481",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Other Titans",
+   "other_aliases": [
+    "Titans"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cronos belongs to the sibling generation collectively called the Titans.",
+   "source": "Hesiod, Theogony 126–138",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Other Titans",
+   "other_aliases": [
+    "Titans"
+   ],
+   "kind": "allied",
+   "myth": "Titanomachy",
+   "note": "Cronos’s Titan faction collectively fights the Olympian coalition.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ophion",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Overthrow of Ophion",
+   "note": "Cronos and Rhea displace Ophion from rule and cast him into Ocean.",
+   "source": "Apollonius Rhodius 1.503–511",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eurynome",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Overthrow of Eurynome",
+   "note": "Cronos and Rhea displace Eurynome from rule and cast her into Ocean.",
+   "source": "Apollonius Rhodius 1.503–511",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philyra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Conception of Chiron",
+   "note": "Cronos unites with the Oceanid Philyra and fathers Chiron.",
+   "source": "Apollonius Rhodius, Argonautica 2",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philyra",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Equine concealment from Rhea",
+   "note": "One form makes Cronos assume a horse’s shape during his union with Philyra.",
+   "source": "Apollonius and later mythography",
+   "date": "Hellenistic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chiron is the son of Cronos and the Oceanid Philyra.",
+   "source": "Apollonius Rhodius, Argonautica 2",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Helios discovers the secret union",
+   "note": "Helios discovers Cronos’s union with Rhea and curses her calendar births.",
+   "source": "Plutarch, Isis and Osiris 12",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Circumvention of Helios’s curse",
+   "note": "Hermes obtains extra day-portions from Selene, enabling Rhea’s children to be born.",
+   "source": "Plutarch, Isis and Osiris 12",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Creation of extra calendar days",
+   "note": "Her transaction with Hermes indirectly enables births from Cronos’s union with Rhea.",
+   "source": "Plutarch, Isis and Osiris 12",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Guardianship of infant Osiris",
+   "note": "In an Egyptianizing account, Cronos entrusts the infant Osiris to Pamyles.",
+   "source": "Plutarch, Isis and Osiris 12",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Sleeping island confinement",
+   "note": "Briareus guards the sleeping, bound Cronos on a western island.",
+   "source": "Plutarch, Face in the Moon",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Philo’s Phoenician-Greek system presents Astarte as Cronos’s sister.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cronos takes Astarte as his wife in Philo’s Phoenician history.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ouranos sends Astarte against Cronos",
+   "note": "Ouranos sends Astarte against Cronos, who wins her and makes her his wife.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Philo’s Phoenician-Greek system presents Dione as Cronos’s sister.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cronos takes Dione as his wife in Philo’s Phoenician history.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "El",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philo explicitly identifies Kronos as the god whom Phoenicians call El.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sadidos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sadidos is named as a son of Kronos in Philo’s Phoenician history.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sadidos",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing of Sadidos",
+   "note": "The euhemerized Phoenician Kronos kills his son Sadidos.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ieoud",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ieoud is Cronos’s only son in Philo’s catastrophe-sacrifice narrative.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ieoud",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Sacrifice of Ieoud",
+   "note": "During a catastrophe, Cronos sacrifices his only son Ieoud.",
+   "source": "Philo via Eusebius",
+   "date": "first–fourth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baal Hammon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman writers identify the chief Carthaginian sacrificial god as Kronos or Saturn.",
+   "source": "Diodorus and Roman writers",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Chrónos",
+    "Khronos",
+    "Time"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Learned traditions correlate or identify Cronos with Time, though other systems distinguish them.",
+   "source": "Pherecydes, Orphics, Plutarch",
+   "date": "sixth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturnus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literary tradition equates Greek Cronos with the Italic god Saturnus.",
+   "source": "Roman literary synthesis",
+   "date": "first century BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is the husband of Ops in Roman synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Jupiter’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Jupiter’s victory over Saturn",
+   "note": "Jupiter defeats Saturn, who subsequently flees to Latium.",
+   "source": "Roman literary tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Neptune’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Pluto’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Juno’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Ceres’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "As Saturn, Cronos is Vesta’s father in Roman literary synthesis.",
+   "source": "Roman literary synthesis",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhadamanthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rule near the Blessed Isles",
+   "note": "Rhadamanthys appears beside Cronos in Pindar’s blessed western realm.",
+   "source": "Pindar, Olympian 2.68–77",
+   "date": "early fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "daimones",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Divine government under Cronos",
+   "note": "In Plato, Cronos appoints daimones to govern cities with peace and justice.",
+   "source": "Plato, Laws 713b–714a",
+   "date": "fourth century BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

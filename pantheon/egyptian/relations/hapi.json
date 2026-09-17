@@ -1,0 +1,238 @@
+{
+ "subject": "hapi",
+ "relations": [
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Khnum creates Hapi",
+   "note": "The hymn explicitly names Khnum as the god who creates Hapi.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hapi's cavern at the First Cataract",
+   "note": "Khnum controls Hapi's hidden southern source and promises the inundation's return.",
+   "source": "Famine Stela",
+   "date": "c. 205–180 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Lord of All"
+   ],
+   "kind": "served",
+   "myth": "Hapi operates under solar authority",
+   "note": "Solar theology presents Hapi's inundation and greening as operating under Re's cosmic authority.",
+   "source": "Hymn to Hapi and solar hymns",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amun-Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Hapi supplies produce and royal offerings presented to Amun-Re in Theban cult.",
+   "source": "Gebel el-Silsila and Theban temples",
+   "date": "New Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "Hapi's flood enables crafts and products associated with Ptah and increases divine sacrifices.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nepri",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The king prevents famine",
+   "note": "Nepri's grain and Hapi's flood jointly express royal provisioning and agricultural abundance.",
+   "source": "Teaching of Amenemhat",
+   "date": "early Twelfth Dynasty setting",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hedjhotep",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Hedjhotep performs his clothing function through flax produced in Hapi's fields.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shesemu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Shesemu produces oils from the agricultural abundance supplied by Hapi.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Sobek appears amid the inundation",
+   "note": "Sobek bares his teeth within Hapi's flourishing marsh world without conflict or kinship.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Ennead",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "Hapi's inundation provides the sustenance and offerings through which the Ennead receives praise.",
+   "source": "Hymn to Hapi",
+   "date": "New Kingdom manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Osiris manifests as inundation water",
+   "note": "Temple theology calls Osiris Hapi or interprets Nile water as Osiris's regenerative bodily efflux.",
+   "source": "Egyptian temple texts",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Osiris-Nile fertilizes Isis-earth",
+   "note": "Plutarch identifies the Nile inundation with the effusion of Osiris.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Osiris-Nile fertilizes Isis-earth",
+   "note": "Through Hapi's equation with the Nile, the inundation fertilizes Isis as receptive earth.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "Nile and earth produce Horus",
+   "note": "In Plutarch's allegory, the Nile-Osiris and Isis-earth union produces Horus.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Nile reaches the outer land",
+   "note": "Plutarch equates the Nile reaching outer land with Osiris's union with Nephthys.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "Nile and outer land produce Anubis",
+   "note": "Plutarch makes Anubis the product of Nile-Osiris and Nephthys in his allegory.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "contest",
+   "myth": "Dryness opposes the Nile",
+   "note": "Plutarch's Typhon embodies destructive dryness and the sea that oppose or dissipate inundation.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Satet",
+   "other_aliases": [
+    "Satis"
+   ],
+   "kind": "other",
+   "myth": "Satet conducts the southern inundation",
+   "note": "Satet brings, releases, or regulates Hapi's arrival in southern cataract theology.",
+   "source": "Elephantine and Philae temple theology",
+   "date": "Late and Ptolemaic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anuket",
+   "other_aliases": [
+    "Anukis"
+   ],
+   "kind": "other",
+   "myth": "Anuket distributes the cataract flood",
+   "note": "Anuket nourishes and distributes Hapi's inundation as part of Elephantine theology.",
+   "source": "Elephantine temple theology",
+   "date": "Late and Ptolemaic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sopdet",
+   "other_aliases": [
+    "Sothis",
+    "Sirius"
+   ],
+   "kind": "other",
+   "myth": "Sopdet announces Hapi's arrival",
+   "note": "Sopdet's heliacal rising calendrically announces the approaching inundation embodied by Hapi.",
+   "source": "Egyptian calendrical texts",
+   "date": "Pharaonic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Hapi's waters fertilize Geb's earth, though a formal 'friend of Geb' title is uncertain.",
+   "source": "Egyptian earth-water theology",
+   "date": "Pharaonic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Neilos",
+   "other_aliases": [
+    "Nilus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman traditions translated Hapi's sacred inundation into the classical river god Neilos or Nilus.",
+   "source": "Graeco-Roman art and naming traditions",
+   "date": "Ptolemaic–Roman periods",
+   "tier": "syncretism"
+  }
+ ]
+}

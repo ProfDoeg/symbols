@@ -1,0 +1,396 @@
+{
+ "subject": "einherjar",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Valfǫðr"
+   ],
+   "kind": "served",
+   "myth": "Reception of Eiríkr Bloodaxe",
+   "note": "Óðinn awakens and commands the einherjar while preparing Valhǫll for Eiríkr.",
+   "source": "Eiríksmál",
+   "date": "c. 954",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Valfǫðr"
+   ],
+   "kind": "served",
+   "myth": "Reception of Hákon the Good",
+   "note": "Óðinn grants Hákon the einherjar’s peace and directs his reception.",
+   "source": "Hákonarmál",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Valfǫðr"
+   ],
+   "kind": "served",
+   "myth": "Daily battle in Óðinn’s courts",
+   "note": "The einherjar fight daily within Óðinn’s enclosures and reconcile afterward.",
+   "source": "Vafþrúðnismál 41",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Valfǫðr"
+   ],
+   "kind": "allied",
+   "myth": "Ragnarǫk",
+   "note": "Óðinn leads the armed einherjar onto Vígríðr against Fenrir’s forces.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Freyja",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Division of the battle-slain",
+   "note": "Freyja chooses half the slain while Óðinn receives half; their einherjar status is unknown.",
+   "source": "Grímnismál 14",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Göndul",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Reception of Hákon the Good",
+   "note": "Göndul helps select Hákon’s battle-death and escorts him toward the divine host.",
+   "source": "Hákonarmál",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Skǫgul",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Reception of Hákon the Good",
+   "note": "Skǫgul announces Hákon’s coming to Óðinn, enabling his reception among the einherjar.",
+   "source": "Hákonarmál 12–13",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Bragi",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Reception of Hákon the Good",
+   "note": "Bragi welcomes Hákon and promises him the peace of the einherjar.",
+   "source": "Hákonarmál 14–16",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermóðr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Reception of Hákon the Good",
+   "note": "Hermóðr accompanies Bragi to greet Hákon at Óðinn’s command.",
+   "source": "Hákonarmál 14",
+   "date": "c. 961",
+   "tier": "attested"
+  },
+  {
+   "other": "Hrist",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Hrist bears drink in Valhǫll and is included among the hall’s serving valkyries.",
+   "source": "Grímnismál 36; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mist",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Mist bears drink in Valhǫll and is included among the hall’s serving valkyries.",
+   "source": "Grímnismál 36; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skeggjǫld",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Skeggjǫld bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skǫgul",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Skǫgul bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hildr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Hildr bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Þrúðr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Þrúðr bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hlökk",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Hlökk bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Herfjǫtur",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Herfjǫtur bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gǫll",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Gǫll bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geirahǫð",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Geirahǫð bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Randgríðr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Randgríðr bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ráðgríðr",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Ráðgríðr bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Reginleif",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Feasting in Valhǫll",
+   "note": "Reginleif bears ale to the einherjar.",
+   "source": "Grímnismál 36",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sæhrímnir",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The inexhaustible feast",
+   "note": "Sæhrímnir is cooked as food for the einherjar and restored each evening in Snorri.",
+   "source": "Grímnismál 18; Gylfaginning",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andhrímnir",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The inexhaustible feast",
+   "note": "Andhrímnir cooks Sæhrímnir for the einherjar.",
+   "source": "Grímnismál 18",
+   "date": "13th-century manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heiðrún",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The inexhaustible feast",
+   "note": "Heiðrún supplies enough mead or ale for the einherjar’s hall.",
+   "source": "Gylfaginning 38",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Æsir",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ragnarǫk",
+   "note": "The einherjar arm and advance alongside the Æsir at Ragnarǫk.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heimdallr",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ragnarǫk muster",
+   "note": "Heimdallr sounds Gjallarhorn before the gods and einherjar arm for battle.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fenrir",
+   "other_aliases": [
+    "Fenrisúlfr",
+    "the wolf"
+   ],
+   "kind": "fought",
+   "myth": "The 540-door muster",
+   "note": "The einherjar mass through Valhǫll’s doors to fight Fenrir at Ragnarǫk.",
+   "source": "Grímnismál 23; Gylfaginning 51",
+   "date": "13th century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Loki",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "Loki commands an opposing host while the einherjar advance with the Æsir.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Surtr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "Surtr stands among the forces opposing the einherjar and Æsir.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jǫrmungandr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "Jǫrmungandr belongs to the forces opposing the einherjar and Æsir.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Garmr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "Garmr belongs to the forces opposing the einherjar and Æsir.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "the sons of Muspell",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "The sons of Muspell form part of the host opposing the einherjar.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hel",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ragnarǫk",
+   "note": "Hel’s people accompany Loki as an opposing company against the Æsir and einherjar.",
+   "source": "Gylfaginning 51",
+   "date": "c. 1220",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sigmundr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception of Eiríkr Bloodaxe",
+   "note": "Sigmundr is an einheri ordered to rise and greet the approaching Eiríkr.",
+   "source": "Eiríksmál",
+   "date": "c. 954",
+   "tier": "attested"
+  },
+  {
+   "other": "Sinfjǫtli",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception of Eiríkr Bloodaxe",
+   "note": "Sinfjǫtli is an einheri ordered to rise and greet the approaching Eiríkr.",
+   "source": "Eiríksmál",
+   "date": "c. 954",
+   "tier": "attested"
+  },
+  {
+   "other": "Guðmundr",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Sinfjǫtli’s flyting with Guðmundr",
+   "note": "Sinfjǫtli alleges that the einherjar fought over or because of Guðmundr.",
+   "source": "Helgakviða Hundingsbana I",
+   "date": "13th-century manuscript",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helgi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Helgi’s return from Valhǫll",
+   "note": "Helgi leads a company from Valhǫll that a maid identifies as einherjar.",
+   "source": "Helgakviða Hundingsbana II",
+   "date": "13th-century manuscript",
+   "tier": "regional_variant"
+  }
+ ]
+}

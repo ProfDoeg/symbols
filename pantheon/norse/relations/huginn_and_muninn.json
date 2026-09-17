@@ -1,0 +1,90 @@
+{
+ "subject": "huginn_and_muninn",
+ "relations": [
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hnikarr",
+    "Wotan"
+   ],
+   "kind": "served",
+   "myth": "Daily world-flight",
+   "note": "They fly daily across the earth while Óðinn anxiously awaits their return.",
+   "source": "Grímnismál 20",
+   "date": "before early thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hnikarr",
+    "Wotan"
+   ],
+   "kind": "served",
+   "myth": "Shoulder companions and informants",
+   "note": "They perch on Óðinn’s shoulders, survey the world, and report what they observe.",
+   "source": "Gylfaginning 38",
+   "date": "c. 1220–30",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hnikarr",
+    "Wotan"
+   ],
+   "kind": "taught_by",
+   "myth": "Euhemerized raven intelligence network",
+   "note": "Óðinn teaches two ravens speech, enabling them to gather and report intelligence.",
+   "source": "Ynglinga saga 7",
+   "date": "c. 1225–35",
+   "tier": "canonical"
+  },
+  {
+   "other": "Óðinn",
+   "other_aliases": [
+    "Hnikarr",
+    "Wotan"
+   ],
+   "kind": "served",
+   "myth": "Flights toward the hanged and slain",
+   "note": "They depart Hnikarr’s shoulders, Huginn toward hanged people and Muninn toward corpses.",
+   "source": "Third Grammatical Treatise",
+   "date": "mid-thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Wotan",
+   "other_aliases": [
+    "Óðinn",
+    "Hnikarr"
+   ],
+   "kind": "served",
+   "myth": "Watchers and messengers in the Ring",
+   "note": "Two ravens act as Wotan’s watchers and messengers in Wagner’s dramatic cycle.",
+   "source": "Der Ring des Nibelungen",
+   "date": "1876",
+   "tier": "modern"
+  },
+  {
+   "other": "Brünnhilde",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Brünnhilde’s final message",
+   "note": "They receive Brünnhilde’s news and carry it home to Wotan.",
+   "source": "Götterdämmerung",
+   "date": "1876",
+   "tier": "modern"
+  },
+  {
+   "other": "Loge",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Burning of Valhalla",
+   "note": "At Brünnhilde’s direction, they prompt Loge’s fire to consume Valhalla.",
+   "source": "Götterdämmerung",
+   "date": "1876",
+   "tier": "modern"
+  }
+ ]
+}

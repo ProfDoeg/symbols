@@ -1,0 +1,509 @@
+{
+ "subject": "lachesis",
+ "relations": [
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nyx alone gives birth to Lachesis and the other Moirai.",
+   "source": "Hesiod, Theogony 217–222",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Lachesis and the other Moirai with Themis.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Themis bears Lachesis and the other Moirai to Zeus.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Plato calls Lachesis a maiden daughter of Ananke.",
+   "source": "Plato, Republic 617c",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman mythography makes Night Lachesis's mother jointly with Erebus.",
+   "source": "Cicero, De natura deorum 3.44; Hyginus, preface",
+   "date": "first century BCE–Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Erebus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Roman mythography makes Erebus Lachesis's father jointly with Night.",
+   "source": "Cicero, De natura deorum 3.44; Hyginus, preface",
+   "date": "first century BCE–Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late Greek epic genealogy connects Lachesis and the Fates with Chaos.",
+   "source": "Quintus Smyrnaeus, Posthomerica 3.755",
+   "date": "third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [
+    "Ocean"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned scholastic variant makes Oceanus a parent of the fate-powers.",
+   "source": "Lycophronian and scholastic tradition",
+   "date": "later learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A learned scholastic variant makes Gaia a parent of the fate-powers.",
+   "source": "Lycophronian and scholastic tradition",
+   "date": "later learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tzetzes records Cronus and Night as parents of the Fates.",
+   "source": "Tzetzes on Lycophron",
+   "date": "Byzantine period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tzetzes records Night and Cronus as parents of the Fates.",
+   "source": "Tzetzes on Lycophron",
+   "date": "Byzantine period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [
+    "Spinner"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Clotho and Lachesis are sisters in Hesiod's named triad.",
+   "source": "Hesiod, Theogony 217–222, 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atropos",
+   "other_aliases": [
+    "Unturning",
+    "Inflexible"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Atropos and Lachesis are sisters and joint distributors of mortal portions.",
+   "source": "Hesiod, Theogony 217–222, 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [
+    "Spinner"
+   ],
+   "kind": "shared_myth",
+   "myth": "Battlefield death on Heracles' shield",
+   "note": "Clotho and Lachesis appear together among personified battlefield death-powers.",
+   "source": "pseudo-Hesiod, Shield of Heracles 248–263",
+   "date": "later seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clotho",
+   "other_aliases": [
+    "Spinner"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ratification of the souls' chosen lives",
+   "note": "Lachesis assigns each guardian; Clotho then ratifies the soul's choice.",
+   "source": "Plato, Republic 617c–620e",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atropos",
+   "other_aliases": [
+    "Unturning",
+    "Inflexible"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ratification of the souls' chosen lives",
+   "note": "After Lachesis assigns each guardian, Atropos makes the chosen life irreversible.",
+   "source": "Plato, Republic 620d–e",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Thanatos is Lachesis's sibling under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hypnos",
+   "other_aliases": [
+    "Sleep"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hypnos is Lachesis's sibling under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Moros",
+   "other_aliases": [
+    "Doom"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Moros is Lachesis's sibling under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ker",
+   "other_aliases": [
+    "Keres"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ker belongs among Lachesis's siblings under the genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemesis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nemesis is Lachesis's sibling under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eris is Lachesis's sibling under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Hesperides are Lachesis's siblings under Hesiod's genealogy from Nyx.",
+   "source": "Hesiod, Theogony 211–225",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eunomia",
+   "other_aliases": [
+    "Order"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eunomia and Lachesis share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dike",
+   "other_aliases": [
+    "Justice"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dike and Lachesis share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eirene",
+   "other_aliases": [
+    "Peace"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eirene and Lachesis share Zeus and Themis as parents.",
+   "source": "Hesiod, Theogony 901–906",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ananke",
+   "other_aliases": [
+    "Necessity"
+   ],
+   "kind": "served",
+   "myth": "Operation of Ananke's cosmic spindle",
+   "note": "Lachesis sits beside and helps operate the spindle resting on Ananke's knees.",
+   "source": "Plato, Republic 617b–d",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Allotment of Rhodes to Helios",
+   "note": "Lachesis and Zeus jointly confirm Helios's territorial allotment by divine oath.",
+   "source": "Pindar, Olympian 7.54–76",
+   "date": "probably 464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Allotment of Rhodes to Helios",
+   "note": "Lachesis guarantees Rhodes as Helios's divinely allotted territory.",
+   "source": "Pindar, Olympian 7.54–76",
+   "date": "probably 464 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeus Moiragetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Moiragetes cult settings",
+   "note": "Zeus Moiragetes appears beside the Moirai or within their cultic sphere.",
+   "source": "Pausanias 5.15.5; 10.24.4",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Neighboring sanctuaries at Thebes",
+   "note": "The sanctuary of Themis adjoined the collective sanctuary of the Moirai.",
+   "source": "Pausanias 9.25.4",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Apollo's reprieve for Admetus",
+   "note": "Apollo intoxicates and deceives the collective Moirai to alter Admetus's immediate death.",
+   "source": "Aeschylus, Eumenides 723–728",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [
+    "Apollo Moiragetes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Delphic temple image arrangement",
+   "note": "Apollo Moiragetes stands beside two collective Moirai in his Delphic temple.",
+   "source": "Pausanias 10.24.4",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Epidaurian sacred birth genealogy",
+   "note": "Lachesis appears in Asclepius's genealogical-birth complex, though the inscription's syntax is disputed.",
+   "source": "Isyllus, IG IV² 1.128",
+   "date": "late fourth–early third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Sirens",
+   "other_aliases": [
+    "eight Sirens"
+   ],
+   "kind": "allied",
+   "myth": "Harmony around Ananke's spindle",
+   "note": "Lachesis and her sisters sing in harmony with the eight cosmic Sirens.",
+   "source": "Plato, Republic 617b–c",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "guardian daimones",
+   "other_aliases": [
+    "guardian spirits"
+   ],
+   "kind": "other",
+   "myth": "Assignment of souls' chosen guardians",
+   "note": "Lachesis assigns each reincarnating soul the guardian selected through its chosen life.",
+   "source": "Plato, Republic 620d",
+   "date": "c. 380 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides",
+    "Semnai"
+   ],
+   "kind": "shared_myth",
+   "myth": "Joint invocation as Night-born powers",
+   "note": "The Moirai and Erinyes are jointly invoked as powers born from Night.",
+   "source": "Aeschylus, Eumenides 961–987",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [
+    "Eumenides",
+    "Semnai"
+   ],
+   "kind": "shared_myth",
+   "myth": "Adjacent rites near Sicyon",
+   "note": "Collective Moirai rites resemble those of the neighboring Eumenides.",
+   "source": "Pausanias 2.11.3–4",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agrius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "The collective Moirai kill the Giant Agrius with bronze clubs.",
+   "source": "pseudo-Apollodorus, Bibliotheca 1.6.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "The collective Moirai kill the Giant Thoas with bronze clubs.",
+   "source": "pseudo-Apollodorus, Bibliotheca 1.6.2",
+   "date": "first or second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Nymphs",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Annual offerings at Corcyra",
+   "note": "Medea's annual offerings are directed jointly to the Moirai and Nymphs.",
+   "source": "Apollonius Rhodius, Argonautica 4.1211–1222",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aphrodite Urania",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "An Athenian inscription calls Aphrodite Urania the eldest of the Moirai.",
+   "source": "Pausanias 1.19.2",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tyche",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "A Pindaric classification makes Tyche one of the Moirai and strongest among her sisters.",
+   "source": "Pindar fragment in Pausanias 7.26.8",
+   "date": "classical fragment, imperial report",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Eileithyia is described as attendant to the deep-thinking Moirai.",
+   "source": "Pindar, Nemean 7.1–3",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Olen's reported hymn calls Eileithyia a good spinner and identifies her with Moira.",
+   "source": "Pausanias 8.21.3",
+   "date": "second century CE report",
+   "tier": "syncretism"
+  }
+ ]
+}

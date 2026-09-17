@@ -1,0 +1,383 @@
+{
+ "subject": "hyperion",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth",
+    "Ge"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears Hyperion to Uranus.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "starry Heaven",
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyperion is a son of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus’s transmitted catalogue makes Hyperion a child of Aether and Earth.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Titaea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus’s Atlantic genealogy makes Titaea the mother of Uranus’s children, including Hyperion.",
+   "source": "Diodorus, Library 3.57",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Curete",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Diodorus preserves a Cretan alternative making Hyperion the son of a Curete.",
+   "source": "Diodorus, Library 5.66–67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [
+    "Euryphaessa"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Theia and Hyperion are sibling Titans born to Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [
+    "Euryphaessa"
+   ],
+   "kind": "consort_of",
+   "myth": "Birth of the luminous triad",
+   "note": "Theia unites with Hyperion and bears Helios, Selene, and Eos.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Euryphaessa",
+   "other_aliases": [
+    "Theia"
+   ],
+   "kind": "consort_of",
+   "myth": "Birth of the luminous triad",
+   "note": "The hymn names Euryphaessa as Hyperion’s sister-wife and mother of their luminous children.",
+   "source": "Homeric Hymn 31",
+   "date": "later archaic or early classical",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aethra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Latin genealogy of the celestial children",
+   "note": "Hyginus makes Aethra Hyperion’s partner and mother of Sol, Luna, and Aurora.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Basileia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Diodorus’s Atlantic account presents Basileia and Hyperion as siblings.",
+   "source": "Diodorus, Library 3.57",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Basileia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Murder of Hyperion",
+   "note": "Basileia marries Hyperion and bears Helios and Selene before her brothers murder him.",
+   "source": "Diodorus, Library 3.57",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyperion fathers Helios with Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyperion fathers Selene with Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eos",
+   "other_aliases": [
+    "Aurora"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyperion fathers Eos with Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sol"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Homer uses Hyperion as a solar designation for Helios rather than a separate Titan.",
+   "source": "Iliad and Odyssey",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [
+    "Helios"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin poets transfer Hyperion’s Greek solar name and derivatives to Sol.",
+   "source": "Roman poetic usage",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Oceanus and Hyperion are brothers among the sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Coeus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Coeus and Hyperion are brother Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Crius and Hyperion are brother Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iapetus and Hyperion are brother Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cronus and Hyperion are brother Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Hyperion are sibling Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Themis and Hyperion are sibling Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mnemosyne and Hyperion are sibling Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phoebe and Hyperion are sibling Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Hyperion are sibling Titans.",
+   "source": "Hesiod, Theogony 133–135",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Pseudo-Apollodorus includes Dione with Hyperion in his Titan sibling catalogue.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.1.3",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Heaven"
+   ],
+   "kind": "fought",
+   "myth": "Overthrow of Uranus",
+   "note": "Hyperion joins the Titans’ attack on Uranus while Cronus performs the castration.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.1.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Hyperion joins Cronus and the other participating Titans in overthrowing Uranus and installing Cronus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.1.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Hyperion belongs to the Titan generation fighting Zeus, though no individual combat is described.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Cottus fights the Titans on Zeus’s side; Hyperion’s individual participation is inferred.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Briareus fights the Titans on Zeus’s side; Hyperion’s individual participation is inferred.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyges",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Gyges fights the Titans on Zeus’s side; Hyperion’s individual participation is inferred.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Succession of Apollo",
+   "note": "Keats portrays Apollo’s emergence as signaling the displacement of the still-resistant Hyperion.",
+   "source": "Keats, Hyperion: A Fragment",
+   "date": "1818–1820",
+   "tier": "modern"
+  },
+  {
+   "other": "Percy Jackson",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle of Manhattan",
+   "note": "Riordan depicts Hyperion as an armed Titan antagonist fighting Percy Jackson.",
+   "source": "Riordan, The Last Olympian",
+   "date": "2009",
+   "tier": "modern"
+  }
+ ]
+}

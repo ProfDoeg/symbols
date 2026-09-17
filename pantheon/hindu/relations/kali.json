@@ -1,0 +1,369 @@
+{
+ "subject": "kali",
+ "relations": [
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Agni’s seven flame-tongues",
+   "note": "Kālī is named as one of Agni’s seven consuming tongues.",
+   "source": "Muṇḍaka Upaniṣad 1.2.4",
+   "date": "late first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [
+    "Ambikā"
+   ],
+   "kind": "created_by",
+   "myth": "Kālī emerges from Caṇḍikā’s angry brow",
+   "note": "Kālī erupts from the sovereign Goddess’s brow as embodied anger.",
+   "source": "Devīmāhātmya 7.5–7",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [
+    "Ambikā"
+   ],
+   "kind": "served",
+   "myth": "Raktabīja’s multiplying blood",
+   "note": "Caṇḍikā commands Kālī to consume Raktabīja’s blood and duplicates.",
+   "source": "Devīmāhātmya 8",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [
+    "Ambikā"
+   ],
+   "kind": "gift",
+   "myth": "Naming of Cāmuṇḍā",
+   "note": "Caṇḍikā awards Kālī the name Cāmuṇḍā after receiving the demons’ heads.",
+   "source": "Devīmāhātmya 7.25–27",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle with Caṇḍa and Muṇḍa",
+   "note": "Kālī battles Caṇḍa before decapitating him.",
+   "source": "Devīmāhātmya 7",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Caṇḍa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle with Caṇḍa and Muṇḍa",
+   "note": "Kālī decapitates Caṇḍa and carries his head to Caṇḍikā.",
+   "source": "Devīmāhātmya 7",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muṇḍa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle with Caṇḍa and Muṇḍa",
+   "note": "Kālī battles Muṇḍa before killing him.",
+   "source": "Devīmāhātmya 7",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muṇḍa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle with Caṇḍa and Muṇḍa",
+   "note": "Kālī kills Muṇḍa and carries his head to Caṇḍikā.",
+   "source": "Devīmāhātmya 7",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Raktabīja",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Raktabīja’s multiplying blood",
+   "note": "Kālī drinks his blood and devours duplicates while Caṇḍikā wounds him.",
+   "source": "Devīmāhātmya 8",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śumbha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War against Śumbha",
+   "note": "Kālī fights Śumbha’s forces before Caṇḍikā kills him.",
+   "source": "Devīmāhātmya 10",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Niśumbha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War against Niśumbha",
+   "note": "Kālī participates in the battle culminating in Niśumbha’s death.",
+   "source": "Devīmāhātmya 9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmāṇī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Brahmāṇī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Māheśvarī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Māheśvarī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaumārī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Kaumārī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vaiṣṇavī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Vaiṣṇavī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vārāhī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Vārāhī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nārasiṃhī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Nārasiṃhī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indrāṇī",
+   "other_aliases": [
+    "Aindrī"
+   ],
+   "kind": "allied",
+   "myth": "Goddess host battles the demons",
+   "note": "Kālī and Indrāṇī fight together within the Goddess’s power-host.",
+   "source": "Devīmāhātmya 8–9",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śivadūtī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Climactic war against the demons",
+   "note": "Kālī and Śivadūtī fight in the same climactic battle cycle.",
+   "source": "Devīmāhātmya 8–10",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Śiva sent as the Goddess’s messenger",
+   "note": "Under a disputed identification with Śivadūtī, Kālī has Śiva deliver the Goddess’s demand.",
+   "source": "Devīmāhātmya 8",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tantric and Bengali traditions pair Kālī and Śiva as wife and husband or Power and consciousness.",
+   "source": "Śaiva-Śākta Tantric traditions",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kālī’s destructive dance",
+   "note": "Kālī steps upon Śiva, whose contact halts or transforms her cosmic frenzy.",
+   "source": "Tantric and Bengali iconographic tradition",
+   "date": "medieval–early-modern",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Tantric ritual dialogue",
+   "note": "Some Tantras frame Śiva as teacher and Kālī or Devī as questioner.",
+   "source": "Kālī-centered Tantras",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Tantric ritual dialogue",
+   "note": "Some Tantric systems reverse the hierarchy and present supreme Kālī as teacher.",
+   "source": "Kālī-centered Tantras",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Manifestation of the ten Mahāvidyās",
+   "note": "Kālī manifests as the foremost of Satī’s ten terrifying Wisdom Goddess forms.",
+   "source": "Mahābhāgavata Purāṇa",
+   "date": "medieval–early-modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of the Kalighat śaktipīṭha",
+   "note": "Kālī inhabits the sacred site where Satī’s toes are said to fall.",
+   "source": "Kalighat pilgrimage tradition",
+   "date": "late Purāṇic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Kālī born from Durgā’s brow",
+   "note": "Later harmonization identifies Ambikā or Caṇḍikā with Durgā and Kālī as her emanation.",
+   "source": "Later Devīmāhātmya harmonization",
+   "date": "post-sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [
+    "Umā"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Śākta theology treats Kālī and Pārvatī as manifestations of the single supreme Goddess.",
+   "source": "Śākta theological tradition",
+   "date": "medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [
+    "Umā"
+   ],
+   "kind": "created_by",
+   "myth": "Dark form departs from Pārvatī",
+   "note": "Some Purāṇic recensions derive Kālikā from Pārvatī’s departing dark sheath or form.",
+   "source": "Later Purāṇic traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mahākāla",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tantric systems pair Kālī with Mahākāla as his feminine power and equivalent of time.",
+   "source": "Kālī-centered Tantras",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Bhairava appears as Kālī’s consort, guardian, or ritual counterpart in temple and Tantric traditions.",
+   "source": "Tantric and temple traditions",
+   "date": "medieval to present",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Creation of the Kalighat śaktipīṭha",
+   "note": "Viṣṇu dismembers Satī’s corpse, and Kālī becomes resident goddess where her toes fall.",
+   "source": "Kalighat pilgrimage tradition",
+   "date": "late Purāṇic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bengali songs and images sometimes identify Kālī and Kṛṣṇa as the same dark absolute.",
+   "source": "Bengali Śākta-Vaiṣṇava songs and images",
+   "date": "early-modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tārā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some eastern Tantric systems strongly assimilate Kālī and Tārā while others preserve their distinction.",
+   "source": "Eastern Indian Tantric systems",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the other Mahāvidyās",
+   "other_aliases": [
+    "Wisdom Goddesses"
+   ],
+   "kind": "shared_myth",
+   "myth": "Satī projects the ten Mahāvidyās",
+   "note": "Kālī appears foremost among Satī’s ten manifestations surrounding Śiva and preventing his escape.",
+   "source": "Mahābhāgavata Purāṇa",
+   "date": "medieval–early-modern",
+   "tier": "late_accretion"
+  }
+ ]
+}

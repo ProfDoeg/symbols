@@ -1,0 +1,354 @@
+{
+ "subject": "varuna",
+ "relations": [
+  {
+   "other": "Mitra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint sovereignty over order and ritual",
+   "note": "Varuṇa and Mitra jointly uphold order, receive offerings, and exercise complementary sovereignty.",
+   "source": "Ṛgveda 5.62–72; 7.60–66",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mitra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vasiṣṭha and Agastya vessel birth",
+   "note": "They behold Urvaśī and emit the seed producing Vasiṣṭha and, later, Agastya.",
+   "source": "Ṛgveda 7.33; later Vedic texts",
+   "date": "second millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later genealogies literalize Varuṇa’s Āditya affiliation by making Aditi his mother.",
+   "source": "Later Vedic and Purāṇic lists",
+   "date": "c. 1200 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Purāṇic genealogies conventionally name Kaśyapa as Varuṇa’s father.",
+   "source": "Purāṇic genealogical lists",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Varuṇānī",
+   "other_aliases": [
+    "Varuṇī"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later sources commonly make Varuṇānī his consort, though Varuṇī may remain an independent liquor goddess.",
+   "source": "Epic and Purāṇic traditions",
+   "date": "c. 400 BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Puṣkara",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Epic or Purāṇic genealogical lists name Puṣkara among Varuṇa’s sons.",
+   "source": "Epic and Purāṇic lists",
+   "date": "c. 400 BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Suṣeṇa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Rāmāyaṇa genealogical material associates the vāṇara Suṣeṇa with Varuṇa’s paternity or creative agency.",
+   "source": "Rāmāyaṇa genealogical material",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bhṛgu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Bhṛguvallī presents Bhṛgu as Varuṇa’s son.",
+   "source": "Taittirīya Upaniṣad 3",
+   "date": "c. 700–500 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhṛgu",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Bhṛgu’s inquiry into brahman",
+   "note": "Varuṇa guides Bhṛgu through contemplative inquiry into food, breath, mind, knowledge, and bliss.",
+   "source": "Taittirīya Upaniṣad 3",
+   "date": "c. 700–500 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vasiṣṭha",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Vasiṣṭha’s vessel birth",
+   "note": "Vasiṣṭha arises from seed emitted by Mitra and Varuṇa after they behold Urvaśī.",
+   "source": "Ṛgveda 7.33",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agastya",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Agastya’s vessel birth",
+   "note": "Later elaborations make Agastya arise with Vasiṣṭha from Mitra and Varuṇa’s contained seed.",
+   "source": "Later Vedic elaborations",
+   "date": "later Vedic period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Urvaśī",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vasiṣṭha and Agastya vessel birth",
+   "note": "Seeing Urvaśī causes Varuṇa and Mitra to emit the seed used in the vessel birth.",
+   "source": "Ṛgveda 7.33; later explanations",
+   "date": "second millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Transfer of divine allegiance",
+   "note": "Their sovereign spheres overlap and contrast as divine allegiance shifts toward Indra.",
+   "source": "Ṛgveda 10.124",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transfer of divine allegiance",
+   "note": "Agni moves between Varuṇa, Indra, and other gods in a difficult divine dialogue.",
+   "source": "Ṛgveda 10.124",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Khāṇḍava forest conflagration",
+   "note": "Varuṇa answers Agni’s summons and supplies celestial weapons for burning Khāṇḍava.",
+   "source": "Mahābhārata Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Khāṇḍava weapons",
+   "note": "Varuṇa gives Arjuna Gāṇḍīva, inexhaustible quivers, and a divine chariot.",
+   "source": "Mahābhārata Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Acquisition of celestial weapons",
+   "note": "Varuṇa later grants Arjuna his divine weapon during Arjuna’s acquisition of celestial arms.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Khāṇḍava weapons",
+   "note": "Varuṇa supplies equipment used by Kṛṣṇa at Khāṇḍava, with weapon assignments varying by version.",
+   "source": "Mahābhārata Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nanda in Varuṇa’s realm",
+   "note": "Varuṇa worships Kṛṣṇa, acknowledges his supremacy, and returns the seized Nanda.",
+   "source": "Bhāgavata Purāṇa 10.28",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Soma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Succession of Gāṇḍīva’s possessors",
+   "note": "Soma precedes Varuṇa in the divine chain of Gāṇḍīva’s owners.",
+   "source": "Mahābhārata Virāṭaparvan 43",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Succession of Gāṇḍīva’s possessors",
+   "note": "Some accounts include Śiva before Varuṇa in the bow’s succession of divine owners.",
+   "source": "Mahābhārata and Purāṇic sources",
+   "date": "first millennium CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sūrya",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Establishment of the sun’s path",
+   "note": "Varuṇa establishes or knows the path followed by the sun.",
+   "source": "Ṛgveda",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Savitṛ",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Āditya theology",
+   "note": "Savitṛ and Varuṇa participate in developing Āditya theology concerning cosmic order.",
+   "source": "Ṛgveda",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aryaman",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint Āditya guardianship",
+   "note": "Aryaman shares Āditya, oath, and social-order functions with Varuṇa and Mitra.",
+   "source": "Ṛgveda 7.60 and elsewhere",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uṣas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ordered Vedic cosmos",
+   "note": "Uṣas appears within the ordered cosmos guarded by Varuṇa, without substantial direct interaction.",
+   "source": "Ṛgvedic hymnic contexts",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rudra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vedic divine assemblages",
+   "note": "Rudra and Varuṇa are co-invoked in broader divine assemblies without a major two-god narrative.",
+   "source": "Vedic liturgy",
+   "date": "second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [
+    "Prajāpati"
+   ],
+   "kind": "judged_by",
+   "myth": "Varuṇa’s complaints before the creator",
+   "note": "Later legends subordinate Varuṇa to the creator, who adjudicates or receives his complaints.",
+   "source": "Brāhmaṇa and Purāṇic strata",
+   "date": "c. 1000 BCE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Guardians of the directions",
+   "note": "Yama and Varuṇa are fellow directional guardians whose halls and weapons are juxtaposed.",
+   "source": "Mahābhārata; Purāṇic cosmography",
+   "date": "c. 400 BCE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kubera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Guardians of the directions",
+   "note": "Kubera and Varuṇa jointly appear in directional and divine-assembly systems.",
+   "source": "Epics and Purāṇas",
+   "date": "c. 400 BCE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vāyu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Directional divine assemblies",
+   "note": "Vāyu and Varuṇa appear together as directional gods and members of divine assemblies.",
+   "source": "Epics and Purāṇas",
+   "date": "c. 400 BCE onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ocean",
+   "other_aliases": [
+    "Samudra",
+    "Sāgara"
+   ],
+   "kind": "identified_with",
+   "myth": "Rāma petitions the sea",
+   "note": "Later reception increasingly identifies the personified Ocean confronted by Rāma with Varuṇa.",
+   "source": "Rāmāyaṇa Yuddhakāṇḍa",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rāma",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rāma threatens the sea",
+   "note": "In Varuṇa-associated reception, Rāma compels the unresponsive sea deity to appear and advise him.",
+   "source": "Rāmāyaṇa Yuddhakāṇḍa",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sarasvatī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint ritual contexts",
+   "note": "Sarasvatī and Varuṇa occur in joint ritual contexts, though no secure universal marriage is established.",
+   "source": "Vedic and Purāṇic lists",
+   "date": "second millennium BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jhūlelāl",
+   "other_aliases": [
+    "Uḍerolāl"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sindhi Hindu tradition identifies the Indus-associated patron Jhūlelāl with Varuṇa.",
+   "source": "Sindhi Hindu tradition",
+   "date": "medieval tradition onward",
+   "tier": "syncretism"
+  }
+ ]
+}

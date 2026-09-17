@@ -1,0 +1,50 @@
+{
+ "subject": "bandua",
+ "relations": [
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "A disputed altar reading describes Bandua as Mars’s companion or associate.",
+   "source": "Reported Rairiz de Veiga altar",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter Optimus Maximus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "A fragmentary altar may name both deities, but describes no interaction.",
+   "source": "AE 1987, 603",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fortuna/Tutela",
+   "other_aliases": [
+    "Fortuna",
+    "Tutela"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The patera may portray Bandua through Roman Fortuna or Tutela iconography.",
+   "source": "Inscribed Bandua patera",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cosus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship proposes both as regional names for similar protective or martial power.",
+   "source": "Olivares Pedreño distributional studies",
+   "date": "1990s–2000s",
+   "tier": "modern"
+  }
+ ]
+}

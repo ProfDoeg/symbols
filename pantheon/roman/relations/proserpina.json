@@ -1,0 +1,393 @@
+{
+ "subject": "proserpina",
+ "relations": [
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Persephonē",
+    "Kore",
+    "Korē"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Proserpina is explicitly equated with the Greek goddess Persephone.",
+   "source": "Cicero, De natura deorum 2.66",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Libera",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Romans identified the older Aventine goddess Libera with Proserpina.",
+   "source": "Cicero, In Verrem 2.4.106",
+   "date": "70 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ceres is Proserpina's mother in the dominant Roman genealogy.",
+   "source": "Naevius fragment",
+   "date": "later third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [
+    "Demeter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Abduction, maternal search, famine, negotiation, and reunion",
+   "note": "Ceres searches for her abducted daughter and secures her partial return.",
+   "source": "Ovid, Metamorphoses 5; Fasti 4",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jupiter is Proserpina's father in the dominant Roman genealogy.",
+   "source": "Ovid, Fasti 4",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "judged_by",
+   "myth": "Division of Proserpina's year",
+   "note": "Jupiter arbitrates her residence between Ceres and the underworld.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "other",
+   "myth": "Authorization of the abduction",
+   "note": "Jupiter secretly authorizes or permits Pluto to abduct Proserpina.",
+   "source": "Hyginus, Fabulae 146",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis",
+    "Pluto",
+    "Hades",
+    "Plouton"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Proserpina is paired with Dis and becomes his underworld queen.",
+   "source": "Ludi Tarentini tradition",
+   "date": "249 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dis Pater",
+   "other_aliases": [
+    "Dis",
+    "Pluto",
+    "Hades",
+    "Plouton"
+   ],
+   "kind": "other",
+   "myth": "Abduction of Proserpina",
+   "note": "Pluto forcibly abducts Proserpina from the flower-filled meadow.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Saturn is Proserpina's maternal grandfather in standard theogony.",
+   "source": "Standard Roman theogony",
+   "date": "",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ops is Proserpina's maternal grandmother in standard theogony.",
+   "source": "Standard Roman theogony",
+   "date": "",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "deceived_by",
+   "myth": "Venus lures Proserpina into the Sicilian meadow",
+   "note": "Venus executes Jupiter's plan by enticing Proserpina into the meadow.",
+   "source": "Claudian, De raptu Proserpinae 1–2",
+   "date": "ca. 395–397 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "contest",
+   "myth": "Dispute over Adonis",
+   "note": "Proserpina and Venus rival one another for possession of Adonis.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Cupid inspires Pluto's desire",
+   "note": "Cupid shoots Pluto, indirectly initiating Proserpina's abduction.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "allied",
+   "myth": "Minerva resists Pluto's abduction",
+   "note": "Minerva accompanies Proserpina and attempts armed resistance against Pluto.",
+   "source": "Claudian, De raptu Proserpinae 2",
+   "date": "ca. 395–397 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Trivia"
+   ],
+   "kind": "allied",
+   "myth": "Diana resists Pluto's abduction",
+   "note": "Diana accompanies Proserpina and tries to defend her from Pluto.",
+   "source": "Claudian, De raptu Proserpinae 2",
+   "date": "ca. 395–397 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Trivia"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Servian theology makes Diana the terrestrial manifestation of the same goddess.",
+   "source": "Servius on Virgil",
+   "date": "fourth–fifth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cyane",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Cyane confronts Pluto's chariot",
+   "note": "Cyane attempts unsuccessfully to stop Pluto and save Proserpina.",
+   "source": "Ovid, Metamorphoses 5",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arethusa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Arethusa reports Proserpina reigning below",
+   "note": "Arethusa tells Ceres that she saw Proserpina ruling in the underworld.",
+   "source": "Ovid, Metamorphoses 5.487–532",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ascalaphus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Ascalaphus reveals the pomegranate",
+   "note": "After he reports her eating seeds, Proserpina transforms him into an owl.",
+   "source": "Ovid, Metamorphoses 5.533–550",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Negotiation of Proserpina's release",
+   "note": "Mercury is ordered to arrange Proserpina's release or temporary return.",
+   "source": "Hyginus; Servian variants",
+   "date": "imperial–late antique",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Fates",
+   "other_aliases": [
+    "Parcae"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Fates restrain Pluto",
+   "note": "They restrain Pluto and determine or announce his marriage to Proserpina.",
+   "source": "Claudian, De raptu Proserpinae 1–2",
+   "date": "ca. 395–397 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Underworld and mystery association",
+   "note": "Hecate appears with Proserpina in mystery and underworld settings.",
+   "source": "Claudian, De raptu Proserpinae 1",
+   "date": "ca. 395–397 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Search and return of Persephone",
+   "note": "Hecate witnesses Persephone's cry and later becomes her companion.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Proserpina retains Adonis below",
+   "note": "Proserpina possesses or loves Adonis and refuses to return him.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Division of Adonis's year",
+   "note": "Proserpina receives part of Adonis's year under the divine settlement.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calliope",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Division of Adonis's year",
+   "note": "Calliope is named as adjudicating Proserpina's dispute with Venus.",
+   "source": "Adonis-cycle tradition",
+   "date": "",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Orpheus petitions for Eurydice",
+   "note": "Proserpina and Pluto grant Orpheus a conditional release for Eurydice.",
+   "source": "Virgil, Georgics 4",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurydice",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conditional release of Eurydice",
+   "note": "Proserpina releases Eurydice under a condition that Orpheus later breaks.",
+   "source": "Virgil, Georgics 4",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Aeneas offers the golden bough",
+   "note": "Aeneas deposits Proserpina's appointed golden bough at her underworld doorway.",
+   "source": "Virgil, Aeneid 6",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "A curse invokes Cerberus as Proserpina's agent against its victim.",
+   "source": "CIL I² 2184",
+   "date": "late Republic",
+   "tier": "attested"
+  },
+  {
+   "other": "Luna",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ennius identifies Luna with Proserpina because she passes beneath the earth.",
+   "source": "Ennius, Epicharmus, quoted by Varro",
+   "date": "early second century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Isis claims Stygian Proserpina as one of her regional divine names.",
+   "source": "Apuleius, Metamorphoses 11.2–5",
+   "date": "second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ataecina",
+   "other_aliases": [
+    "Dea Ataecina Turibrigensis"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Lusitanian dedications fuse the indigenous goddess Ataecina with Proserpina.",
+   "source": "Lusitanian imperial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aerecura",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Aerecura and Proserpina share inscriptions or iconographic contexts involving Dis.",
+   "source": "Provincial inscriptions and iconography",
+   "date": "Roman imperial period",
+   "tier": "regional_variant"
+  }
+ ]
+}

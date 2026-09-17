@@ -1,0 +1,319 @@
+{
+ "subject": "maat",
+ "relations": [
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "New Kingdom and later texts repeatedly call Maat the daughter of Re.",
+   "source": "New Kingdom temple and funerary inscriptions",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Maat accompanies Re in the solar bark",
+   "note": "Maat stands before or travels with Re during the ordered solar journey.",
+   "source": "Pyramid, Coffin, and solar texts",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "other",
+   "myth": "Re lives on Maat",
+   "note": "Solar liturgy describes Maat as the order and divine nourishment sustaining Re.",
+   "source": "Solar hymns and temple liturgy",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "gift",
+   "myth": "Presentation of Maat to Re",
+   "note": "The king ritually returns Maat to Re or one of his forms.",
+   "source": "Presentation-of-Maat temple scenes",
+   "date": "Dynasty 18 onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [
+    "Ra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solar judgment according to Maat",
+   "note": "Maat participates in funerary judgment understood as an expression of solar order.",
+   "source": "Book of the Dead",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Re-Atum"
+   ],
+   "kind": "child_of",
+   "myth": "Creation of Tefnut-Maat",
+   "note": "Spell 80 presents Tefnut-Maat as Atum's living daughter.",
+   "source": "Coffin Text Spell 80",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [
+    "Re-Atum"
+   ],
+   "kind": "shared_myth",
+   "myth": "Atum names Tefnut as Maat",
+   "note": "Atum recognizes his daughter Tefnut by the name Maat.",
+   "source": "Coffin Text Spell 80",
+   "date": "Middle Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Tefnut is named Maat",
+   "note": "Spell 80 explicitly identifies Atum's daughter Tefnut with Maat.",
+   "source": "Coffin Text Spell 80",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Return of the solar daughter",
+   "note": "Later temple theology sometimes connects Tefnut's return with the restoration of Maat.",
+   "source": "Later temple texts",
+   "date": "Late Period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [
+    "Life"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Through her identification with Tefnut, Maat is paired as Shu's sister-counterpart.",
+   "source": "Coffin Text Spell 80",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [
+    "Life"
+   ],
+   "kind": "shared_myth",
+   "myth": "Life and Maat sustain creation",
+   "note": "Shu-Life and Tefnut-Maat jointly enable Atum and ordered existence to endure.",
+   "source": "Coffin Text Spell 80",
+   "date": "Middle Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Thoth records the heart's weighing",
+   "note": "Thoth records the judgment produced by measuring the deceased's heart against Maat.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Complementary powers of truth and reckoning",
+   "note": "Temple and funerary images pair Maat and Thoth as complementary judgment powers.",
+   "source": "Temple and funerary images",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of Maat to Thoth",
+   "note": "Some later ritual scenes show Thoth receiving or accompanying presentations of Maat.",
+   "source": "Later temple iconography",
+   "date": "Late Period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later systematizations call Thoth her husband, though no universal marriage narrative is attested.",
+   "source": "Late summaries and paired imagery",
+   "date": "Late and modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Reception in Osiris's judgment hall",
+   "note": "Maat or Dual Maat receives the deceased into the judgment hall of Osiris.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Heart weighed before Osiris",
+   "note": "Maat supplies the standard while Osiris presides over the deceased's judgment.",
+   "source": "Spell 125 judgment vignettes",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weighing of the heart",
+   "note": "Anubis conducts and supervises the weighing whose counterweight or standard is Maat.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Anubis steadies Maat's balance",
+   "note": "In Ani and related vignettes, Anubis adjusts or steadies the judgment balance.",
+   "source": "Papyrus of Ani",
+   "date": "c. 1250 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Horus attends the heart's judgment",
+   "note": "Horus attends the balance and may lead the vindicated deceased onward to Osiris.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Earthly Horus presents Maat",
+   "note": "The king in his divine office as Horus presents Maat to other gods.",
+   "source": "Temple presentation scenes",
+   "date": "Dynasty 18 onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ammit",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ammit awaits failed judgment",
+   "note": "Ammit waits beside Maat's judgment balance to consume the heart of the condemned.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Forty-two assessors",
+   "other_aliases": [
+    "judges"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tribunal of the Two Maats",
+   "note": "The assessors hear declarations in Maat's hall and may wear her feathers.",
+   "source": "Book of the Dead Spell 125",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Amun-Re"
+   ],
+   "kind": "gift",
+   "myth": "Presentation of Maat to Amun",
+   "note": "Kings present the image of Maat to Amun or Amun-Re in state ritual.",
+   "source": "New Kingdom temple reliefs",
+   "date": "Dynasty 18 onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Amun-Re"
+   ],
+   "kind": "other",
+   "myth": "Amun-Re lives on Maat",
+   "note": "Theban hymns call Amun-Re lord of Maat and describe him as living on her.",
+   "source": "Theban hymns and temple inscriptions",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aten",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of Maat in Atenist worship",
+   "note": "Akhenaten presents Maat within Atenist cult and links her to his exclusive access to Aten.",
+   "source": "Karnak talatat and royal formulae",
+   "date": "c. 1353–1336 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Ptah stands upon the Maat sign",
+   "note": "Ptah stands on Maat's sign and bears the title Lord of Maat.",
+   "source": "Memphite iconography and epithets",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of Maat to Ptah",
+   "note": "Temple ritual scenes show the king presenting Maat to Ptah.",
+   "source": "Temple ritual scenes",
+   "date": "New Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Sokar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Maaty barks in Sokar rites",
+   "note": "Early Maaty barks occur in Sokar festival and solar-navigation contexts, though they may be boats rather than goddesses.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old–Middle Kingdom",
+   "tier": "regional_variant"
+  }
+ ]
+}

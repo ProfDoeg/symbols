@@ -1,0 +1,231 @@
+{
+ "subject": "apis",
+ "relations": [
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Living Apis manifests and communicates Ptah’s presence",
+   "note": "Apis is Ptah’s herald, ba, and living manifestation at Memphis.",
+   "source": "Memphite inscriptions and titles",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Apis resides beside Ptah’s temple",
+   "note": "Apis receives priestly and royal care as Ptah’s sacred manifestation.",
+   "source": "Memphite material and epigraphic evidence",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Dead Apis becomes Osiris-Apis",
+   "note": "Every deceased Apis is ritually united with Osiris as Osiris-Apis.",
+   "source": "Serapeum inscriptions",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Osiris’s soul enters successive Apis bulls",
+   "note": "Osiris’s soul reportedly passes into Apis and then each successor.",
+   "source": "Diodorus, Library 1.85",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Apis is Osiris’s animate image",
+   "note": "Plutarch describes living Apis as the animate image of Osiris.",
+   "source": "Plutarch, De Iside 43",
+   "date": "ca. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Isis is identified with the divine mother of the Apis bull.",
+   "source": "Mother-of-Apis monuments",
+   "date": "Late and Ptolemaic periods",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isis places Osiris’s remains in wooden ox",
+   "note": "Isis encloses Osiris’s remains in a linen-covered wooden ox explaining bovine reverence.",
+   "source": "Diodorus, Library 1.85",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some contexts associate Apis’s divine mother with Hathoric forms.",
+   "source": "Temple and object contexts",
+   "date": "Late and Ptolemaic periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mnevis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some authorities reportedly regarded the Heliopolitan sacred bull as Apis’s sire.",
+   "source": "Plutarch, De Iside 33",
+   "date": "ca. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Re/Ra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Apis’s solar disk and uraeus assimilate him to royal-solar potency.",
+   "source": "Late bronzes and temple imagery",
+   "date": "Late Period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Late Memphite and solar theological combinations",
+   "note": "Apis occurs with Atum in theological combinations without an independent narrative encounter.",
+   "source": "Late Memphite and solar evidence",
+   "date": "Late Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Embalming and burial of Apis",
+   "note": "Anubian funerary functions operate within Apis’s embalming and burial rites.",
+   "source": "Late ritual texts and Saqqara installations",
+   "date": "Late Period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint Serapeum cultic invocation",
+   "note": "Serapeum dedications invoke Thoth alongside the transfigured Osiris-Apis.",
+   "source": "Serapeum dedications",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apis burial and embalming theology",
+   "note": "Horus appears in Apis burial decoration and funerary theology.",
+   "source": "Apis burial decoration",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Sons of Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apis burial and embalming theology",
+   "note": "The Sons of Horus occur in Apis burial decoration and embalming theology.",
+   "source": "Apis burial decoration",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sarapis",
+   "other_aliases": [
+    "Serapis",
+    "Osorapis",
+    "Oserapis"
+   ],
+   "kind": "identified_with",
+   "myth": "Osiris-Apis develops into anthropomorphic Sarapis",
+   "note": "Osiris-Apis supplied Sarapis’s name and theological base before broader Hellenistic development.",
+   "source": "Curse of Artemisia and later tradition",
+   "date": "fourth century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Through Sarapis, Apis’s Hellenistic derivative was equated with the underworld ruler.",
+   "source": "Ptolemaic and Roman learned tradition",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sarapis, derived from Osiris-Apis, absorbed Zeus’s sovereign functions.",
+   "source": "Hellenistic and Roman theology",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sarapis, derived from Osiris-Apis, was functionally equated with Helios.",
+   "source": "Hellenistic and Roman theology",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sarapis, derived from Osiris-Apis, was functionally combined with Dionysus.",
+   "source": "Hellenistic and Roman theology",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Sarapis, derived from Osiris-Apis, absorbed healing functions associated with Asclepius.",
+   "source": "Hellenistic and Roman theology",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Epaphos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus identifies the Egyptian Apis with the Greek divine bull Epaphos.",
+   "source": "Herodotus, Histories 3.28",
+   "date": "ca. 440 BCE",
+   "tier": "syncretism"
+  }
+ ]
+}

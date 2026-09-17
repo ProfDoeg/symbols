@@ -1,0 +1,295 @@
+{
+ "subject": "rudras",
+ "relations": [
+  {
+   "other": "Maruts",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "The storm troop",
+   "note": "Early hymns call the Marut storm-band young Rudras or Rudra’s progeny.",
+   "source": "Ṛgveda 1.64",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rudra",
+   "other_aliases": [
+    "Rudra-Śiva"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The early Rudras or Maruts are called Rudra’s youths and offspring.",
+   "source": "Ṛgveda 1.64.2–3, 12",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pṛśni",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pṛśni is mother of the Maruts, who are also called Rudras.",
+   "source": "Ṛgvedic Marut hymns",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Storm and battle hymns",
+   "note": "The Marut-Rudras accompany and support Indra in storm and battle.",
+   "source": "Ṛgvedic Indra-Marut hymns",
+   "date": "c. 1500–1200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [
+    "Prajāpati"
+   ],
+   "kind": "created_by",
+   "myth": "The crying child and elevenfold division",
+   "note": "Rudra emerges from Brahmā’s anger or brow and multiplies into eleven.",
+   "source": "Viṣṇu Purāṇa 1.8",
+   "date": "c. 300–1000 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [
+    "Prajāpati"
+   ],
+   "kind": "created_by",
+   "myth": "The crying child and elevenfold division",
+   "note": "Brahmā names the crying Rudra and assigns eleven names, abodes, wives, and creation.",
+   "source": "Bhāgavata Purāṇa 3.12",
+   "date": "c. 300–1000 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [
+    "Prajāpati"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Matsya Purāṇa genealogy makes Brahmā and Surabhi parents of the Rudras.",
+   "source": "Matsya Purāṇa tradition",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bhūta",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Bhūta and Sarūpā are parents of a separately enumerated Rudra group.",
+   "source": "Bhāgavata Purāṇa 6.6.17–18",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sarūpā",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sarūpā and Bhūta are parents of a separately enumerated Rudra group.",
+   "source": "Bhāgavata Purāṇa 6.6.17–18",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Dakṣa becomes maternal grandfather of the Rudras through his daughter Sarūpā.",
+   "source": "Bhāgavata Purāṇa 6.6.17–18",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kaśyapa fathers the Rudras with Surabhi in several epic-Purāṇic genealogies.",
+   "source": "Harivaṃśa and related Purāṇas",
+   "date": "Epic-Purāṇic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaśyapa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Kaśyapa fathers the Rudras with Aditi in another genealogical tradition.",
+   "source": "Rāmāyaṇa and Purāṇic genealogies",
+   "date": "Epic-Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aditi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Aditi is mother of the Rudras with Kaśyapa in some genealogies.",
+   "source": "Rāmāyaṇa and Purāṇic genealogies",
+   "date": "Epic-Purāṇic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Surabhi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Surabhi is mother of the Rudras with Kaśyapa in several accounts.",
+   "source": "Harivaṃśa and related Purāṇas",
+   "date": "Epic-Purāṇic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Surabhi",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Surabhi is mother of the Rudras with Brahmā in a variant genealogy.",
+   "source": "Matsya Purāṇa tradition",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra-Śiva",
+    "Mahādeva",
+    "Śaṅkara",
+    "Paśupati"
+   ],
+   "kind": "identified_with",
+   "myth": "One Rudra and eleven forms",
+   "note": "The eleven are identified as Śiva’s manifestations, forms, followers, or emanations.",
+   "source": "Epic and Śaiva Purāṇas",
+   "date": "Epic-Purāṇic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra-Śiva",
+    "Mahādeva",
+    "Śaṅkara",
+    "Paśupati"
+   ],
+   "kind": "created_by",
+   "myth": "One Rudra and eleven forms",
+   "note": "The one Rudra-Śiva assumes or emanates eleven Rudra forms.",
+   "source": "Skanda Purāṇa Nāgarakhaṇḍa 276",
+   "date": "Medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Demonic combat",
+   "note": "The Rudras assist Viṣṇu in combat against demons.",
+   "source": "Matsya Purāṇa tradition",
+   "date": "c. 300–1000 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gajāsura",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Battle against Gajāsura",
+   "note": "Kapālin-led Rudras participate in killing the elephant demon Gajāsura.",
+   "source": "Matsya Purāṇa tradition",
+   "date": "c. 300–1000 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Kṛṣṇa names Śaṅkara among the Rudras",
+   "note": "Kṛṣṇa declares himself Śaṅkara among the Rudras.",
+   "source": "Bhagavadgītā 10.23",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vision of the universal form",
+   "note": "The Rudras behold or are contained within Kṛṣṇa’s universal form.",
+   "source": "Bhagavadgītā 11.6, 11.22",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vasus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The thirty-three gods",
+   "note": "The eleven Rudras and eight Vasus jointly belong to the thirty-three gods.",
+   "source": "Śatapatha Brāhmaṇa 11.6.3.5",
+   "date": "c. 900–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ādityas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The thirty-three gods",
+   "note": "The eleven Rudras and twelve Ādityas jointly belong to the thirty-three gods.",
+   "source": "Śatapatha Brāhmaṇa 11.6.3.5",
+   "date": "c. 900–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The thirty-three gods",
+   "note": "Indra and the eleven Rudras jointly belong to the thirty-three gods.",
+   "source": "Śatapatha Brāhmaṇa 11.6.3.5",
+   "date": "c. 900–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prajāpati",
+   "other_aliases": [
+    "Brahmā"
+   ],
+   "kind": "shared_myth",
+   "myth": "The thirty-three gods",
+   "note": "Prajāpati and the eleven Rudras jointly belong to the thirty-three gods.",
+   "source": "Śatapatha Brāhmaṇa 11.6.3.5",
+   "date": "c. 900–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ambikā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Śiva’s assembled divine hosts",
+   "note": "Ambikā appears with the Rudras and other divine hosts around Śiva.",
+   "source": "Mahābhārata Anuśāsana Parvan 13.150",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hanumān",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Hanumān as the eleventh Rudra",
+   "note": "Later devotional traditions identify Hanumān as the eleventh Rudra or Śiva’s incarnation.",
+   "source": "Later Purāṇic and vernacular traditions",
+   "date": "Early modern period onward",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "subject": "echidna",
+ "relations": [
+  {
+   "other": "Ceto",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Probably Echidna’s mother, though Hesiod’s grammar leaves the parentage uncertain.",
+   "source": "Hesiod, Theogony 295",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Probably Echidna’s father under the most natural reading of Hesiod.",
+   "source": "Hesiod, Theogony 295",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Callirhoe",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Possible mother if Callirhoe is the antecedent of Hesiod’s feminine pronoun.",
+   "source": "Modern analysis of Hesiod",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Chrysaor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Possible father if Hesiod’s feminine subject is interpreted as Callirhoe.",
+   "source": "Modern analysis of Hesiod",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Epimenides reportedly made Styx the mother of Echidna.",
+   "source": "Epimenides via Pausanias 8.18.2",
+   "date": "sixth century BCE attribution",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peiras",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Epimenides reportedly made the otherwise obscure Peiras Echidna’s father.",
+   "source": "Epimenides via Pausanias 8.18.2",
+   "date": "sixth century BCE attribution",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus systematizes Gaia as Echidna’s mother.",
+   "source": "Apollodorus, Bibliotheca 2.1.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Apollodorus systematizes Tartarus as Echidna’s father.",
+   "source": "Apollodorus, Bibliotheca 2.1.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [
+    "Typhaon"
+   ],
+   "kind": "consort_of",
+   "myth": "Union producing the first monster brood",
+   "note": "Sexual desire unites Echidna with Typhon, who fathers her monstrous offspring.",
+   "source": "Hesiod, Theogony 304–313",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Echidna and Typhon produce the two-headed hound Orthus.",
+   "source": "Hesiod, Theogony 306",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Echidna is the mother of the underworld watchdog Cerberus.",
+   "source": "Hesiod, Theogony 310–312",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Echidna is the mother of the many-headed Lernaean Hydra.",
+   "source": "Hesiod, Theogony 313–318",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chimera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One reading of Hesiod makes Echidna Chimera’s mother.",
+   "source": "Hesiod, Theogony 319–325",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chimera",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "An alternative reading makes Hydra Chimera’s mother, leaving Echidna her ancestor.",
+   "source": "Hesiod, Theogony 319–325",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chimera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography explicitly regularizes Chimera as Echidna’s daughter.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sphinx",
+   "other_aliases": [
+    "Phix"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One reading of Hesiod’s ambiguous syntax makes Echidna the Sphinx’s mother.",
+   "source": "Hesiod, Theogony 326–327",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sphinx",
+   "other_aliases": [
+    "Phix"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Another reading makes Chimera the Sphinx’s mother and Echidna her grandmother.",
+   "source": "Hesiod, Theogony 326–327",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Sphinx",
+   "other_aliases": [
+    "Phix"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythographers directly assign the Sphinx to Echidna’s brood.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One reading of Hesiod makes Echidna the Nemean Lion’s mother.",
+   "source": "Hesiod, Theogony 327–332",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Another reading makes Chimera the lion’s mother and Echidna its grandmother.",
+   "source": "Hesiod, Theogony 327–332",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythographic systematization makes the Nemean Lion Echidna’s direct child.",
+   "source": "Later mythographic accounts",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Scylla",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus includes Scylla in Echidna’s expanded brood.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ladon",
+   "other_aliases": [
+    "Hesperian dragon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later accounts reassign the Hesperian guardian dragon to Echidna’s brood.",
+   "source": "Later mythographic accounts",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Colchian dragon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus assigns the Colchian dragon to Typhon and Echidna.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caucasian eagle",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late variants assign the Caucasian eagle to Echidna’s brood.",
+   "source": "Apollodorus and Hyginus",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [
+    "Gorgon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some arrangements of Hyginus’s expanded genealogy make the Gorgon Echidna’s child.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phaea",
+   "other_aliases": [
+    "Crommyonian sow"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A particular later mythographic genealogy assigns the Crommyonian sow to Echidna.",
+   "source": "Later mythographic accounts",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus"
+   ],
+   "kind": "killed_by",
+   "myth": "Argus surprises Echidna asleep",
+   "note": "Argus watches for the predatory Echidna to sleep and kills her.",
+   "source": "Apollodorus, Bibliotheca 2.1.2",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Figures on Apollo’s Amyclaean throne",
+   "note": "Echidna appears with Typhon upon Apollo’s throne at Amyclae.",
+   "source": "Pausanias 3.18.9–10",
+   "date": "second century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tritons",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Opposing sides of the Amyclaean throne",
+   "note": "Tritons form the compositional counterpart to Echidna and Typhon on the throne.",
+   "source": "Pausanias 3.18.9–10",
+   "date": "second century CE",
+   "tier": "attested"
+  }
+ ]
+}

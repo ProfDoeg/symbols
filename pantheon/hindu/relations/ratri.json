@@ -1,0 +1,221 @@
+{
+ "subject": "ratri",
+ "relations": [
+  {
+   "other": "Uṣas",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Uṣas is explicitly named as Rātrī’s sister and temporal counterpart.",
+   "source": "Ṛgveda 10.127.3",
+   "date": "c. 1200–1000 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uṣas",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Alternation of Night and Dawn",
+   "note": "Rātrī establishes or displaces Dawn, who subsequently clears the darkness.",
+   "source": "Ṛgveda 10.127.3, 7",
+   "date": "c. 1200–1000 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uṣas",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "gift",
+   "myth": "Night–Dawn–Day custody cycle",
+   "note": "Mother Night entrusts protected worshippers to Dawn for the next temporal passage.",
+   "source": "Atharvaveda 19.48.2; 19.50.7",
+   "date": "Later Vedic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dyaus",
+   "other_aliases": [
+    "Div",
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Rātrī bears the explicit filial title Daughter of Heaven.",
+   "source": "Ṛgveda 10.127.8; Atharvaveda 19.47.5",
+   "date": "Late Ṛgvedic–Later Vedic",
+   "tier": "attested"
+  },
+  {
+   "other": "Savitar",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A damaged stanza associates Rātrī with Savitar, but its precise relation is uncertain.",
+   "source": "Atharvaveda 19.49.1",
+   "date": "Later Vedic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bhaga",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A damaged stanza connects Rātrī with Bhaga without establishing genealogy or narrative action.",
+   "source": "Atharvaveda 19.49.1",
+   "date": "Later Vedic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Day",
+   "other_aliases": [
+    "Ahan"
+   ],
+   "kind": "gift",
+   "myth": "Night–Dawn–Day custody cycle",
+   "note": "Personified Day returns the protected worshippers to shining Night.",
+   "source": "Atharvaveda 19.48.2; 19.50.7",
+   "date": "Later Vedic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rātrī–Durgā ritual sequence",
+   "note": "Supplementary Rātrī verses are followed directly by a Durgā hymn without a narrative meeting.",
+   "source": "Ṛgvedakhilāni 4.2",
+   "date": "First millennium BCE or later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Śākta liturgy interprets the adjacent Rātrī and Durgā sequences as theological continuity.",
+   "source": "Ṛgvedakhilāni 4.2; Caṇḍī liturgy",
+   "date": "Medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Brahmā’s discarded dark body",
+   "note": "Brahmā discards a tamas-dominated body, which becomes Night.",
+   "source": "Viṣṇu Purāṇa 1.5.32–40",
+   "date": "Early centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Brahmā praises Yoganidrā",
+   "note": "Brahmā petitions the supreme Goddess as cosmic Night to release the sleeping Viṣṇu.",
+   "source": "Devīmāhātmya 1.72–87",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Yoganidrā withdraws from Viṣṇu",
+   "note": "As Yoganidrā, the Goddess occupies Viṣṇu’s faculties, then withdraws so he awakens.",
+   "source": "Devīmāhātmya 1.65–91",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Madhu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Slaying of Madhu and Kaiṭabha",
+   "note": "Her withdrawal awakens Viṣṇu, indirectly enabling Madhu’s defeat and death.",
+   "source": "Devīmāhātmya 1",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kaiṭabha",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Slaying of Madhu and Kaiṭabha",
+   "note": "Her withdrawal awakens Viṣṇu, indirectly enabling Kaiṭabha’s defeat and death.",
+   "source": "Devīmāhātmya 1",
+   "date": "c. 400–600 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yakṣas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Yakṣas appropriate Brahmā’s dark body",
+   "note": "The Yakṣas take Brahmā’s discarded dark body as Night, linked with hunger and thirst.",
+   "source": "Bhāgavata Purāṇa 3.20.19",
+   "date": "Later Vaiṣṇava elaboration",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rākṣasas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Rākṣasas appropriate Brahmā’s dark body",
+   "note": "The Rākṣasas take Brahmā’s discarded dark body as Night, linked with hunger and thirst.",
+   "source": "Bhāgavata Purāṇa 3.20.19",
+   "date": "Later Vaiṣṇava elaboration",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Yoganidrā",
+   "other_aliases": [
+    "Divine Sleep"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Śākta theology interprets cosmic Night as Yoganidrā, the Goddess’s sleep-power within Viṣṇu.",
+   "source": "Devīmāhātmya 1",
+   "date": "c. 400–600 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mahāmāyā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Śākta systematization assimilates Rātrī into Mahāmāyā, the universal power of manifestation and concealment.",
+   "source": "Devīmāhātmya 1.73–87",
+   "date": "c. 400–600 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kālarātrī",
+   "other_aliases": [
+    "Night of Time",
+    "Night of Death"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later theology assimilates Rātrī to Kālarātrī, though the Vedas contain no meeting or identity claim.",
+   "source": "Devīmāhātmya 1.78",
+   "date": "c. 400–600 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later traditions compare or identify Rātrī with Kālī without an early textual encounter.",
+   "source": "Later Śākta tradition",
+   "date": "Medieval period and later",
+   "tier": "syncretism"
+  }
+ ]
+}

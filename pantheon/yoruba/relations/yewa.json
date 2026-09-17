@@ -1,0 +1,559 @@
+{
+ "subject": "yewa",
+ "relations": [
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "rescued",
+   "myth": "Yewa saves Ọ̀rúnmìlà from Death",
+   "note": "Yewa protects Ọ̀rúnmìlà when Ikú pursues him.",
+   "source": "Ìdí-Ìgbẹ̀, Kọ́lá Abímbọ́lá",
+   "date": "recording date unstated",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "consort_of",
+   "myth": "Yewa saves Ọ̀rúnmìlà from Death",
+   "note": "After rescuing Ọ̀rúnmìlà, Yewa marries him and bears a son.",
+   "source": "Ìdí-Ìgbẹ̀, Kọ́lá Abímbọ́lá",
+   "date": "recording date unstated",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "taught_by",
+   "myth": "Yewa vanishes in the raffia forest",
+   "note": "Ifá warns Yewa to sacrifice before traveling, but she refuses.",
+   "source": "Ọ̀túrá Ìrosùn 183–4",
+   "date": "collected 1937–38; published 1969",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "taught_by",
+   "myth": "The chaste daughters of Yewá and Olósa",
+   "note": "Ọ̀rúnmìlà advises Yewá and Olósa concerning Lashure's disruption.",
+   "source": "Cuban Ògúndá Ìrosùn notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "shared_myth",
+   "myth": "Yewá among the bones",
+   "note": "Ọ̀rúnmìlà arrives with Yemayá and witnesses Yewá's skeletal secret.",
+   "source": "Cuban Ọ̀túrá Mun notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ikú",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "deceived",
+   "myth": "Yewa saves Ọ̀rúnmìlà from Death",
+   "note": "Yewa thwarts Ikú's pursuit of Ọ̀rúnmìlà.",
+   "source": "Ìdí-Ìgbẹ̀, Kọ́lá Abímbọ́lá",
+   "date": "recording date unstated",
+   "tier": "canonical"
+  },
+  {
+   "other": "Olósa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The chaste daughters of Yewá and Olósa",
+   "note": "They share a lagoon, receive offerings, and respond jointly to Lashure.",
+   "source": "Cuban Ògúndá Ìrosùn notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Olofin",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "The chaste daughters of Yewá and Olósa",
+   "note": "Olofin authoritatively decrees rules concerning men approaching their daughters.",
+   "source": "Cuban Ògúndá Ìrosùn notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Olókun",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Olókun gives masks to Yewá and Oyá",
+   "note": "Olókun gives Yewá a ritual mask.",
+   "source": "Cuban Ojuani Shogbe narrative",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Olókun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Yewá beside Olókun's sea",
+   "note": "Regional narratives place Yewá with Olókun in or beside the sea.",
+   "source": "Cuban oral narratives",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Olókun",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One Cuban family genealogy makes Olókun Yewá's sibling.",
+   "source": "Cuban family tradition",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asesú",
+   "other_aliases": [
+    "a path of Yemayá"
+   ],
+   "kind": "shared_myth",
+   "myth": "Yewá and Asesú live at sea",
+   "note": "Yewá and Asesú live together in a boat at sea.",
+   "source": "Cuban Ọ̀túrá Pompeyo",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ìyámi Oshoronga",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One Cuban genealogy includes Ìyámi Oshoronga among Yewá's siblings.",
+   "source": "Cuban family tradition",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ìyámi Oshoronga",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Flight from Yewá's cemetery to Olókun's sea",
+   "note": "She flies between Yewá's cemetery and Olókun's sea.",
+   "source": "Cuban Ọ̀túrá Adakoy",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bromú",
+   "other_aliases": [
+    "Boromú"
+   ],
+   "kind": "consort_of",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Bromú becomes Yewá's secret lover and impregnates her.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bromú",
+   "other_aliases": [
+    "Boromú"
+   ],
+   "kind": "served_by",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Bromú initially serves as one of imprisoned Yewá's guardians.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bromú",
+   "other_aliases": [
+    "Boromú"
+   ],
+   "kind": "parent_of",
+   "myth": "Yewá and Ṣàngó",
+   "note": "Some Cuban versions make Bromú Yewá's son after Ṣàngó violates her.",
+   "source": "Cuban patakí tradition",
+   "date": "20th century and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brosiá",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Brosiá guards imprisoned Yewá, then betrays her secret to Oddudúa.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brosiá",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Yewá and Ṣàngó",
+   "note": "Some Cuban versions make Brosiá Yewá's child after Ṣàngó violates her.",
+   "source": "Cuban patakí tradition",
+   "date": "20th century and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osanyin",
+   "other_aliases": [
+    "Ozain",
+    "Ossaim"
+   ],
+   "kind": "served_by",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Osanyin prepares the herbal potion that ends Yewá's pregnancy.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osanyin",
+   "other_aliases": [
+    "Ozain",
+    "Ossaim"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Brazilian genealogy makes Ossaim a sibling of Euá.",
+   "source": "Brazilian pantheon tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oddudúa",
+   "other_aliases": [
+    "Odùduwà"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Several Cuban genealogies name Oddudúa as Yewá's father or parent.",
+   "source": "Cuban genealogical traditions",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oddudúa",
+   "other_aliases": [
+    "Odùduwà"
+   ],
+   "kind": "punished_by",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Oddudúa confines Yewá in a subterranean cavern guarded by Bromú and Brosiá.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agboni",
+   "other_aliases": [
+    "Elegba"
+   ],
+   "kind": "parent_of",
+   "myth": "Yewá, Bromú, and Agboni",
+   "note": "Yewá bears Agboni by Bromú; Oddudúa recovers and raises him.",
+   "source": "Cuban Ìrosùn Unkuemi notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó"
+   ],
+   "kind": "seduced_by",
+   "myth": "Yewá and Ṣàngó",
+   "note": "Some Cuban versions say Ṣàngó seduces the secluded, virginal Yewá.",
+   "source": "Cabrera and Cuban patakís",
+   "date": "1954 and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó"
+   ],
+   "kind": "deceived_by",
+   "myth": "Yewá and Ṣàngó",
+   "note": "Other versions say Ṣàngó tricks or disguises himself to reach Yewá.",
+   "source": "Cuban patakí tradition",
+   "date": "20th century and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó"
+   ],
+   "kind": "other",
+   "myth": "Yewá and Ṣàngó",
+   "note": "Coercion and rape variants say Ṣàngó sexually violates Yewá.",
+   "source": "Cuban patakí tradition",
+   "date": "20th century and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yemayá",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Yewá among the bones",
+   "note": "Yemayá feeds Yewá's sons and later discovers Yewá among bones.",
+   "source": "Cuban Ọ̀túrá Mun notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yemayá",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Yewá among the bones",
+   "note": "Yewá grants Yemayá and her children privileged access to her secret.",
+   "source": "Cuban Ọ̀túrá Mun notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Omi Logun",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Yewá among the bones",
+   "note": "Omi Logun is one of Yewá's two named sons.",
+   "source": "Cuban Ọ̀túrá Mun notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Omitogun",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Yewá among the bones",
+   "note": "Omitogun is one of Yewá's two named sons.",
+   "source": "Cuban Ọ̀túrá Mun notebook",
+   "date": "published 2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oyá",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "One Cuban genealogy makes Oyá Yewá's sister.",
+   "source": "Cuban genealogical tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oyá",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Cuban cemetery sequence",
+   "note": "In one system Yewá brings or passes the dead to Oyá.",
+   "source": "Cuban priestly synthesis",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oyá",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cuban cemetery sequence",
+   "note": "In another system Oyá receives the dead before Yewá acts deeper inside.",
+   "source": "Cuban priestly synthesis",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Obba",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cuban genealogies make Obba and Yewá daughters of Oddudúa.",
+   "source": "Cuban genealogical tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Obba",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cuban cemetery sequence",
+   "note": "Obba guards the grave while Yewá acts within corpse or sepulcher.",
+   "source": "Cuban priestly synthesis",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orisha Oko",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Return of the corpse to earth",
+   "note": "Yewá's reduction of the corpse prepares its incorporation into Orisha Oko.",
+   "source": "Garcés Marrero synthesis",
+   "date": "2023",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orisha Oko",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of the corpse to earth",
+   "note": "Bolívar instead assigns corpse consumption to Orisha Oko after transfer through Oyá.",
+   "source": "Natalia Bolívar account",
+   "date": "date unstated",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oshún",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Their vessels are separated because Oshún signifies erotic fertility and Yewá chaste death.",
+   "source": "Cuban priestly interpretation",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oxumarê",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Euá is hidden by Oxumarê",
+   "note": "Oxumarê hides or shelters Euá.",
+   "source": "Prandi, Mitologia dos Orixás",
+   "date": "2001",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oxumarê",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Brazilian traditions commonly call Oxumarê Euá's brother.",
+   "source": "Brazilian Candomblé tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oxumarê",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some Brazilian houses call Euá the wife of Oxumarê.",
+   "source": "Brazilian Candomblé tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oxumarê",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern systematization calls Euá female Oxumarê or his serpent counterpart.",
+   "source": "Modern popular theology",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Nanã",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Brazilian pantheon-building names Nanã as Euá's mother.",
+   "source": "Brazilian pantheon tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Obaluaiê",
+   "other_aliases": [
+    "Babalú Ayé",
+    "Omolu"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Brazilian systems commonly make Obaluaiê a sibling of Euá.",
+   "source": "Brazilian pantheon tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Babalú Ayé",
+   "other_aliases": [
+    "Obaluaiê",
+    "Omolu"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Cuban accounts call him Yewá's chaste companion without sexual relations.",
+   "source": "Cuban genealogical tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Obatalá",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One Cuban genealogy names Obatalá and Odùduwà as Yewá's parents.",
+   "source": "Cuban genealogical tradition",
+   "date": "20th century or later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nuestra Señora de los Desamparados",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Cuban houses identify Yewá with this Marian figure.",
+   "source": "Cuban syncretistic tradition",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nuestra Señora de Monserrate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Cuban houses identify Yewá with this Marian figure.",
+   "source": "Cuban syncretistic tradition",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Virgen de los Dolores",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Cuban houses identify Yewá with this Marian figure.",
+   "source": "Cuban syncretistic tradition",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Santa Clara de Asís",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Cuban and Brazilian tables identify Yewá with Santa Clara.",
+   "source": "Cuban and Umbanda traditions",
+   "date": "modern",
+   "tier": "syncretism"
+  }
+ ]
+}

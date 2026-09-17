@@ -1,0 +1,316 @@
+{
+ "subject": "min",
+ "relations": [
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Fusion as Min-Amun or Amun-Min",
+   "note": "Min’s generative power expresses Amun’s creative and royal potency.",
+   "source": "Karnak and Theban monuments",
+   "date": "New Kingdom onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amun-Re-Kamutef",
+   "other_aliases": [
+    "Amun-Min-Kamutef",
+    "Bull of His Mother"
+   ],
+   "kind": "identified_with",
+   "myth": "Bull of His Mother self-generation",
+   "note": "Min’s form participates in the creator’s self-begetting through his mother.",
+   "source": "Theban temple theology",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Min-Horus-nakht",
+    "Horus the Victorious",
+    "Horus the Strong"
+   ],
+   "kind": "identified_with",
+   "myth": "Min-Horus the victorious son",
+   "note": "Min becomes a victorious Horus who defeats enemies and honors Osiris.",
+   "source": "Abydos stelae and hymns",
+   "date": "Twelfth–Thirteenth Dynasties",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal postmortem empowerment",
+   "note": "The dead king is empowered through forms associated with Min and Horus.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Deir el-Balah divine triad",
+   "note": "Min holds the hands of Horus and Amun on a plaque.",
+   "source": "Deir el-Balah plaque",
+   "date": "New Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Harsiese",
+   "other_aliases": [
+    "Horus-son-of-Isis"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Harsiese is Wadjet’s son and Min’s associated child or stepson.",
+   "source": "Tanite iconography",
+   "date": "Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Abydene theology makes Osiris the father of Min-Horus-nakht.",
+   "source": "Abydos stelae and hymns",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Osirian mortuary regeneration",
+   "note": "Min appears beside or as a regenerative analogue of Osiris.",
+   "source": "Pyramid Texts and funerary images",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Recumbent buried Min",
+   "note": "A recumbent Min adopts explicitly Osirian funerary iconography.",
+   "source": "Kharga Oasis temple relief",
+   "date": "Greco-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Abydene Min-Horus-nakht theology makes Isis Min’s mother.",
+   "source": "Abydos stelae and hymns",
+   "date": "Middle Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Late Coptos temple organization pairs Isis with Min as his wife.",
+   "source": "Coptos temple inscriptions",
+   "date": "Ptolemaic-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iabet",
+   "other_aliases": [
+    "Iabtet"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The eastern goddess is paired with Min in traditions reflecting his orientation.",
+   "source": "Egyptian theological traditions",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Repyt",
+   "other_aliases": [
+    "Aperet-Isis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Repyt is the wife of Min-Re in the Athribis triad.",
+   "source": "Athribis temple inscriptions",
+   "date": "Ptolemaic-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kolanthes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Kolanthes is the child of Min-Re and Repyt at Athribis.",
+   "source": "Athribis temple inscriptions",
+   "date": "Ptolemaic-Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Qudshu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Qudshu triad",
+   "note": "Min flanks Qudshu alongside Resheph in healing or devotional imagery.",
+   "source": "New Kingdom stelae",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Resheph",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Qudshu triad",
+   "note": "Min shares Qudshu’s triad and adopts Resheph-like martial iconography.",
+   "source": "New Kingdom stelae",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Wadjet",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Wadjet is called Min’s wife in a local Tanite constellation.",
+   "source": "Tanite iconography",
+   "date": "Late Period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mourning beside recumbent Min",
+   "note": "Nephthys appears with Isis beside a recumbent Osirian Min.",
+   "source": "Kharga Oasis relief",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sokar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal akhification",
+   "note": "The king or deceased is akhified as Min and as Sokar.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sokar",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Agricultural regenerative rites",
+   "note": "Min’s procession is juxtaposed with Sokar’s agricultural-regenerative rites.",
+   "source": "Medinet Habu festival reliefs",
+   "date": "Ramesses III",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ha",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Royal akhification",
+   "note": "The king or deceased is akhified as Ha and as Min.",
+   "source": "Pyramid Texts",
+   "date": "late Old Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [
+    "Hathor of Dendera"
+   ],
+   "kind": "shared_myth",
+   "myth": "Coptos-Dendera creative-power dyad",
+   "note": "Min of Coptos is paired with Hathor as a creative-power patron.",
+   "source": "New Kingdom evidence",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Theban divine grouping",
+   "note": "Min appears with Hathor and Khonsu in a Theban grouping.",
+   "source": "Theban religious evidence",
+   "date": "New Kingdom–first millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khonsu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Theban divine grouping",
+   "note": "Min appears with Khonsu and Hathor, contributing to later lunar theology.",
+   "source": "Theban religious evidence",
+   "date": "New Kingdom–first millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Coptos cultic register",
+   "note": "Geb receives wine in a register associated with Min’s temple.",
+   "source": "British Museum stela EA1325",
+   "date": "Late/Ptolemaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Sobek",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Guest in Min’s temple",
+   "note": "Sobek is explicitly called a guest within Min’s temple.",
+   "source": "British Museum stela EA1325",
+   "date": "Late/Ptolemaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [
+    "Pan Euodos",
+    "Pan who gives good journey"
+   ],
+   "kind": "identified_with",
+   "myth": "Greek interpretation of desert-road Min",
+   "note": "Greeks equated Min with Pan, especially at Panopolis and desert routes.",
+   "source": "Greek dedications and Panopolis",
+   "date": "Hellenistic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Phallic comparison",
+   "note": "Min is loosely compared with Priapus because of their ithyphallic imagery.",
+   "source": "Classical and modern reception",
+   "date": "Greco-Roman to modern",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re",
+    "Min-Re"
+   ],
+   "kind": "identified_with",
+   "myth": "Fusion as Min-Re",
+   "note": "Min becomes Min-Re in later Upper Egyptian temple theology.",
+   "source": "Athribis and related temples",
+   "date": "Ptolemaic-Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

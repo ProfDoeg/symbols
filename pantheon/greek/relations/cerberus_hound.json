@@ -1,0 +1,189 @@
+{
+ "subject": "cerberus_hound",
+ "relations": [
+  {
+   "other": "Typhon",
+   "other_aliases": [
+    "Typhaon"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Typhon is Cerberus’ father in the Hesiodic monster genealogy.",
+   "source": "Hesiod, Theogony 306–312",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Echidna is Cerberus’ mother in early and later canonical genealogy.",
+   "source": "Hesiod, Theogony 306–312",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sophocles independently calls Cerberus the offspring of Echidna.",
+   "source": "Sophocles, Trachiniae 1097–1099",
+   "date": "later 5th c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orthrus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Orthrus and Cerberus are offspring grouped in the same monster genealogy.",
+   "source": "Hesiod, Theogony 306–312",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Lernaean Hydra and Cerberus are siblings in Hesiod’s genealogy.",
+   "source": "Hesiod, Theogony 306–312",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Chimaera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Chimaera and Cerberus are siblings in the Hesiodic monster family.",
+   "source": "Hesiod, Theogony 306–322",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "served",
+   "myth": "Guarding Hades’ house",
+   "note": "Cerberus guards Hades’ household and prevents the dead from escaping.",
+   "source": "Hesiod, Theogony 769–774",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "other",
+   "myth": "Heracles’ capture of Cerberus",
+   "note": "Hades permits Heracles to remove Cerberus if he uses no weapons.",
+   "source": "Apollodorus, Bibliotheca 2.5.12",
+   "date": "1st–2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "fought",
+   "myth": "The twelfth labour",
+   "note": "Heracles overpowers Cerberus, brings him to Eurystheus, then returns him.",
+   "source": "Homer, Odyssey 11.617–626",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "killed_by",
+   "myth": "Attempted abduction of Persephone",
+   "note": "In an isolated late variant, Heracles kills Cerberus while attempting Persephone’s abduction.",
+   "source": "Pseudo-Nonnus, mythological scholia",
+   "date": "probably 6th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Cerberus labour",
+   "note": "Hermes guides Heracles during the mission to capture Cerberus.",
+   "source": "Homer, Odyssey 11.626",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Cerberus labour",
+   "note": "Athena assists Heracles during his mission to bring Cerberus from Hades.",
+   "source": "Homer, Iliad 8.362–369",
+   "date": "late 8th–early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "allied",
+   "myth": "Attempted abduction of Persephone",
+   "note": "Cerberus defends the underworld during Heracles’ attempted abduction of Persephone.",
+   "source": "Pseudo-Nonnus, mythological scholia",
+   "date": "probably 6th c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Orpheus’ descent for Eurydice",
+   "note": "Orpheus’ music charms or silences Cerberus during his underworld descent.",
+   "source": "Virgil, Georgics 4.471–484",
+   "date": "c. 29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Psyche’s journey to Proserpina",
+   "note": "Psyche feeds Cerberus cakes to pass him entering and leaving the underworld.",
+   "source": "Apuleius, Metamorphoses 6.18–20",
+   "date": "late 2nd c. CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles and Cerberus in the underworld",
+   "note": "Hecate appears beside Cerberus and Heracles in South Italian underworld scenes.",
+   "source": "South Italian red-figure pottery",
+   "date": "4th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aeneas’ descent to the underworld",
+   "note": "Aeneas passes Cerberus after the Sibyl drugs the guardian with a honey-cake.",
+   "source": "Virgil, Aeneid 6.417–425",
+   "date": "20s BCE",
+   "tier": "canonical"
+  }
+ ]
+}

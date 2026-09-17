@@ -1,0 +1,659 @@
+{
+ "subject": "bel",
+ "relations": [
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An is Enlil’s father in common early and literary traditions.",
+   "source": "Lugalzagesi’s inscription",
+   "date": "third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "allied",
+   "myth": "Divine sovereignty and royal legitimation",
+   "note": "An and Enlil jointly decree fates and legitimate kings.",
+   "source": "Royal hymns and god lists",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later schematic traditions make Enlil the offspring of heaven and earth.",
+   "source": "Later theological presentations",
+   "date": "",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "other",
+   "myth": "Separation of heaven and earth",
+   "note": "Enlil separates An, heaven, from Ki, establishing habitable space.",
+   "source": "Sumerian cosmological passages",
+   "date": "third–second millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ki",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Separation of heaven and earth",
+   "note": "Enlil separates Ki, earth, from An and orders the world.",
+   "source": "Sumerian cosmological passages",
+   "date": "third–second millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enki",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "A primordial Enki name-pair heads Enlil’s ancestral succession.",
+   "source": "An = Anum",
+   "date": "Middle Babylonian period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninki",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "A primordial Ninki name-pair heads Enlil’s ancestral succession.",
+   "source": "An = Anum",
+   "date": "Middle Babylonian period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Sud"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ninlil is Enlil’s consort; Sud becomes identified with her.",
+   "source": "God lists and Sumerian literature",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ninlil",
+   "other_aliases": [
+    "Sud"
+   ],
+   "kind": "seduced",
+   "myth": "Enlil and Ninlil",
+   "note": "Enlil impregnates Ninlil, is banished, and pursues her in disguises.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sud",
+   "other_aliases": [
+    "Ninlil"
+   ],
+   "kind": "identified_with",
+   "myth": "Enlil and Sud",
+   "note": "Enlil courts Sud, who becomes or is identified with Ninlil.",
+   "source": "Enlil and Sud",
+   "date": "Old Babylonian copies",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn",
+    "Nanna-Suen"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nanna is one of Enlil’s most consistently attested sons.",
+   "source": "Sumerian literary tradition",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanna",
+   "other_aliases": [
+    "Sîn",
+    "Nanna-Suen"
+   ],
+   "kind": "gift",
+   "myth": "Nanna-Suen’s Journey to Nippur",
+   "note": "Enlil receives his son’s offerings and grants him a blessing.",
+   "source": "Nanna-Suen’s Journey to Nippur",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ninurta is a stable son of Enlil and his heroic agent.",
+   "source": "God lists and literary texts",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ninurta’s martial victories",
+   "note": "Enlil commissions or benefits from Ninurta’s victories.",
+   "source": "Anzû, Lugal-e, and An-gim",
+   "date": "second-millennium forms",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Enlil’s disguised encounters",
+   "note": "Enlil fathers Nergal during disguised encounters with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninazu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Enlil’s disguised encounters",
+   "note": "Enlil fathers Ninazu during disguised encounters with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enbilulu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Enlil’s disguised encounters",
+   "note": "Enlil fathers Enbilulu during disguised encounters with Ninlil.",
+   "source": "Enlil and Ninlil",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Namtar",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Namtar appears as Enlil’s child in a particular tradition.",
+   "source": "Particular Mesopotamian texts",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One tradition calls Inanna Enlil’s daughter.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "gift",
+   "myth": "Inanna receives divine powers",
+   "note": "Enlil grants powers to Inanna in hymnic traditions.",
+   "source": "Sumerian hymns",
+   "date": "Old Babylonian tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [
+    "Ištar"
+   ],
+   "kind": "other",
+   "myth": "Inanna’s Descent",
+   "note": "Enlil refuses Ninšubur’s appeal to rescue the dead Inanna.",
+   "source": "Inanna’s Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utu",
+   "other_aliases": [
+    "Šamaš"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Utu appears as Enlil’s child in a particular tradition.",
+   "source": "Particular Mesopotamian texts",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iškur",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Iškur appears as Enlil’s child in a particular tradition.",
+   "source": "Particular Mesopotamian texts",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ningirsu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ningirsu appears as Enlil’s child in a particular tradition.",
+   "source": "Particular Mesopotamian texts",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nusku",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Nusku serves Enlil as vizier and messenger.",
+   "source": "Enlil and Ninlil; god lists",
+   "date": "third–second millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anzû",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Theft of the Tablet of Destinies",
+   "note": "Anzû steals the Tablet of Destinies from Enlil while he bathes.",
+   "source": "Anzû",
+   "date": "Old and Standard Babylonian",
+   "tier": "attested"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "fought",
+   "myth": "Atrahasis flood conflict",
+   "note": "Enlil seeks humanity’s destruction while Ea covertly preserves Atrahasis.",
+   "source": "Atrahasis",
+   "date": "seventeenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "fought",
+   "myth": "Utnapishtim’s flood account",
+   "note": "Ea preserves Utnapishtim despite Enlil’s order that none survive.",
+   "source": "Gilgamesh XI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "allied",
+   "myth": "Post-flood settlement",
+   "note": "Enlil and Ea establish mortality and demographic controls after the flood.",
+   "source": "Atrahasis",
+   "date": "seventeenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Utnapishtim",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Utnapishtim’s immortality",
+   "note": "After raging at his survival, Enlil grants Utnapishtim immortal life.",
+   "source": "Gilgamesh XI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Utnapishtim’s wife",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Utnapishtim’s immortality",
+   "note": "Enlil grants Utnapishtim’s wife immortal life with her husband.",
+   "source": "Gilgamesh XI",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Humbaba",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Guardian of the Cedar Forest",
+   "note": "Enlil assigns Humbaba to guard the Cedar Forest.",
+   "source": "Gilgamesh traditions",
+   "date": "second–first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [
+    "Utu"
+   ],
+   "kind": "contest",
+   "myth": "Decision over Enkidu’s death",
+   "note": "Šamaš protests the death decision associated with Enlil and Anu.",
+   "source": "Standard Babylonian Gilgamesh",
+   "date": "first-millennium manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [
+    "Merodach"
+   ],
+   "kind": "gift",
+   "myth": "Transfer of Enlilship",
+   "note": "Enlil’s office, titles, and number fifty are transferred to Marduk.",
+   "source": "Hammurabi prologue; Enūma eliš",
+   "date": "second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aššur",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Assyrian theology calls Aššur the Enlil of the gods.",
+   "source": "Assyrian theological texts",
+   "date": "first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ea is Marduk’s father.",
+   "source": "God lists and Enūma eliš",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ea",
+   "other_aliases": [
+    "Enki"
+   ],
+   "kind": "taught_by",
+   "myth": "Marduk’s commission against Tiamat",
+   "note": "Ea recognizes Marduk’s power, trains him, and advances his cause.",
+   "source": "Enūma eliš I–III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Damkina",
+   "other_aliases": [
+    "Damgalnuna"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Damkina is Marduk’s mother.",
+   "source": "God lists and Enūma eliš",
+   "date": "second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsû",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Marduk’s birth in Apsû",
+   "note": "After Ea kills Apsû, Marduk is born or enthroned in his domain.",
+   "source": "Enūma eliš I",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Marduk versus Tiamat",
+   "note": "Marduk traps Tiamat with winds and shoots her.",
+   "source": "Enūma eliš IV",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Marduk versus Tiamat",
+   "note": "Marduk kills Tiamat and splits her body into heaven and earth.",
+   "source": "Enūma eliš IV–V",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qingu",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment of Qingu",
+   "note": "Marduk identifies Qingu as the rebel leader responsible for revolt.",
+   "source": "Enūma eliš VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qingu",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Execution of Qingu",
+   "note": "Marduk condemns Qingu to execution before humanity is made from his blood.",
+   "source": "Enūma eliš VI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Authorization to fight Tiamat",
+   "note": "Anšar accepts Marduk’s demand for supreme command before the battle.",
+   "source": "Enūma eliš II–III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anu",
+   "other_aliases": [
+    "An"
+   ],
+   "kind": "gift",
+   "myth": "Bestowal of supreme authority",
+   "note": "The gods make Marduk’s command equivalent to Anu’s.",
+   "source": "Enūma eliš IV",
+   "date": "late second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [
+    "Ellil",
+    "Mullil"
+   ],
+   "kind": "identified_with",
+   "myth": "Succession to Enlilship",
+   "note": "Marduk receives Enlil’s number fifty, titles, and sovereign office.",
+   "source": "Enūma eliš VI–VII",
+   "date": "late second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lahmu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Assembly recognizing Marduk",
+   "note": "Lahmu joins the banquet and recognition of Marduk’s supremacy.",
+   "source": "Enūma eliš III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lahamu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Assembly recognizing Marduk",
+   "note": "Lahamu joins the banquet and recognition of Marduk’s supremacy.",
+   "source": "Enūma eliš III",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asalluhi",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Marduk absorbs Asalluhi’s exorcistic and magical identity.",
+   "source": "Old Babylonian theological tradition",
+   "date": "c. 1900–1600 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tutu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Borsippa’s Tutu becomes a name or aspect of Marduk.",
+   "source": "God lists and theology",
+   "date": "second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ṣarpānītu",
+   "other_aliases": [
+    "Zarpanītu",
+    "Erua"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ṣarpānītu is Marduk’s consort in Babylonian cult and theology.",
+   "source": "God lists and temple ritual",
+   "date": "second–first millennia BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nabû",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nabû is Marduk’s son, especially in later tradition.",
+   "source": "Babylonian god lists",
+   "date": "later second millennium onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nabû",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Akītu procession and assembly",
+   "note": "Nabû travels from Borsippa and joins Marduk’s divine assembly.",
+   "source": "Akītu ritual texts",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erra",
+   "other_aliases": [
+    "Nergal"
+   ],
+   "kind": "deceived_by",
+   "myth": "Marduk’s disappearance",
+   "note": "Erra persuades Marduk to withdraw while his image and regalia are restored.",
+   "source": "Erra and Išum",
+   "date": "early first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tišpak",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Transfer of the mušḫuššu",
+   "note": "Marduk appropriates the mušḫuššu formerly associated with Tišpak.",
+   "source": "Iconographic and theological evidence",
+   "date": "second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ninazu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Transfer of the mušḫuššu",
+   "note": "Marduk appropriates the mušḫuššu formerly associated with Ninazu.",
+   "source": "Iconographic and theological evidence",
+   "date": "second–first millennia BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Yarhibol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Palmyrene temple triad",
+   "note": "Yarhibol shares residence and worship with Bel in Palmyra’s temple.",
+   "source": "Temple of Bel dedication",
+   "date": "6 April 32 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aglibol",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Palmyrene temple triad",
+   "note": "Aglibol shares residence and worship with Bel in Palmyra’s temple.",
+   "source": "Temple of Bel dedication",
+   "date": "6 April 32 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Baalshamin",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Bel and Baalshamin held parallel civic sovereignty without a surviving narrative encounter.",
+   "source": "Palmyrene cult evidence",
+   "date": "first–third centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Roman interpretation renders Bel as Zeus Belos or Jupiter Belus.",
+   "source": "Greek and Roman inscriptions",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

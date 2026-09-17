@@ -1,0 +1,461 @@
+{
+ "subject": "the_devil",
+ "relations": [
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "created_by",
+   "myth": "",
+   "note": "God creates the Devil’s angelic nature good before his self-corruption.",
+   "source": "Augustine, City of God XI.15",
+   "date": "early fifth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "served",
+   "myth": "The testing of Job",
+   "note": "The accuser reports to God and tests Job only with permission.",
+   "source": "Job 1–2",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "punished_by",
+   "myth": "The prosecution of Joshua",
+   "note": "God rebukes the accuser while he prosecutes the high priest Joshua.",
+   "source": "Zechariah 3",
+   "date": "c. 520–518 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "judged_by",
+   "myth": "David’s census",
+   "note": "Satan incites David’s census, after which God judges the act.",
+   "source": "1 Chronicles 21",
+   "date": "Persian or early Hellenistic period",
+   "tier": "attested"
+  },
+  {
+   "other": "God",
+   "other_aliases": [
+    "YHWH"
+   ],
+   "kind": "punished_by",
+   "myth": "Final judgment in the lake of fire",
+   "note": "Divine judgment ultimately casts Satan into the lake of fire.",
+   "source": "Revelation 20:10",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Lucifer",
+   "other_aliases": [
+    "morning star",
+    "son of dawn"
+   ],
+   "kind": "identified_with",
+   "myth": "The prideful morning star’s fall",
+   "note": "Patristic exegesis identifies Isaiah’s fallen morning star typologically with the Devil.",
+   "source": "Isaiah 14; patristic exegesis",
+   "date": "late antiquity onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Beelzebul",
+   "other_aliases": [
+    "Beelzebub",
+    "Baal-zebub"
+   ],
+   "kind": "identified_with",
+   "myth": "The dispute over exorcisms",
+   "note": "Gospel opponents’ Beelzebul accusation is answered as an accusation involving Satan.",
+   "source": "Mark 3; Matthew 12; Luke 11",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Azazel",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later demonologies sometimes identify Azazel with Satan despite their earlier distinction.",
+   "source": "Later demonological traditions",
+   "date": "late antique and medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mastema",
+   "other_aliases": [
+    "Prince of Mastema"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mastema performs Satan-like functions but remains a distinct figure in Jubilees.",
+   "source": "Jubilees 10 and later episodes",
+   "date": "mid-second century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Belial",
+   "other_aliases": [
+    "Beliar"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Belial is a Satan-like leader of darkness, though not universally identical.",
+   "source": "Community Rule; War Scroll",
+   "date": "second–first centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Samael",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Christian occultism sometimes imports the Jewish angel-demon Samael as a Satanic name.",
+   "source": "Christian occult traditions",
+   "date": "late antique to modern",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Leviathan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Christian art and exegesis sometimes assimilate Leviathan to the Devil.",
+   "source": "Christian art and exegesis",
+   "date": "medieval onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baphomet",
+   "other_aliases": [
+    "Sabbatic Goat"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern reception often identifies Lévi’s Baphomet image with Satan.",
+   "source": "Lévi, Dogme et rituel",
+   "date": "1854–1856",
+   "tier": "modern"
+  },
+  {
+   "other": "Iblis",
+   "other_aliases": [
+    "al-Shayṭān"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparative traditions frequently equate Iblis with the Devil, though the dossier rejects simple identity.",
+   "source": "Christian-Islamic comparative reception",
+   "date": "late antiquity onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "contest",
+   "myth": "Temptation of Jesus in the wilderness",
+   "note": "The Devil tests Jesus with bread, spectacle, and worldly dominion.",
+   "source": "Matthew 4; Luke 4; Mark 1",
+   "date": "c. 65–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "fought",
+   "myth": "The dispute over exorcisms",
+   "note": "Jesus rejects the claim that his exorcisms depend upon Satan’s power.",
+   "source": "Mark 3; Matthew 12; Luke 11",
+   "date": "first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "punished_by",
+   "myth": "Satan falls like lightning",
+   "note": "Jesus sees Satan fall and grants disciples authority over hostile powers.",
+   "source": "Luke 10:17–20",
+   "date": "c. 80–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "fought",
+   "myth": "Satan demands to sift Peter",
+   "note": "Satan demands Peter for testing, while Jesus intercedes for him.",
+   "source": "Luke 22:31–32",
+   "date": "c. 80–95 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "punished_by",
+   "myth": "Judgment of the ruler of this world",
+   "note": "Jesus’s death and glorification cast out and judge the world’s ruler.",
+   "source": "John 12:31; 14:30; 16:11",
+   "date": "c. 90–110 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "fought",
+   "myth": "Christ defeats death and the Devil",
+   "note": "Through death, Christ destroys the Devil’s works and defeats his death-power.",
+   "source": "Hebrews 2:14; 1 John 3:8",
+   "date": "late first century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "deceived_by",
+   "myth": "Christ’s death becomes Satan’s trap",
+   "note": "Patristic ransom traditions say Satan takes mortal flesh as bait and is defeated.",
+   "source": "Patristic ransom and mousetrap traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ananias lies to the Holy Spirit",
+   "note": "Peter contrasts Satan filling Ananias’s heart with lying to the Holy Spirit.",
+   "source": "Acts 5:3–4",
+   "date": "c. 80–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Saint Michael"
+   ],
+   "kind": "contest",
+   "myth": "Dispute over Moses’s body",
+   "note": "Michael disputes with the Devil and invokes the Lord’s rebuke.",
+   "source": "Jude 9",
+   "date": "late first century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Saint Michael"
+   ],
+   "kind": "fought",
+   "myth": "War in heaven",
+   "note": "Michael leads the heavenly angels against Satan’s dragon and angels.",
+   "source": "Revelation 12",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Saint Michael"
+   ],
+   "kind": "punished_by",
+   "myth": "The dragon cast from heaven",
+   "note": "Michael defeats the dragon and casts Satan and his angels to earth.",
+   "source": "Revelation 12",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [
+    "Saint Michael"
+   ],
+   "kind": "fought",
+   "myth": "Michael tramples the Devil",
+   "note": "Medieval liturgy, legend, and art show Michael spearing or chaining the Devil.",
+   "source": "Revelation-based iconography",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Lamb",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "fought",
+   "myth": "The accuser overcome",
+   "note": "The Lamb’s blood and the witnesses’ testimony overcome Satan’s accusations.",
+   "source": "Revelation 12:10–11",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "First Beast from the sea",
+   "other_aliases": [
+    "the beast"
+   ],
+   "kind": "gift",
+   "myth": "The dragon empowers the sea beast",
+   "note": "The dragon gives the beast his power, throne, and authority.",
+   "source": "Revelation 13:1–8",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Second Beast",
+   "other_aliases": [
+    "false prophet"
+   ],
+   "kind": "served_by",
+   "myth": "The false prophet serves the dragon",
+   "note": "The second beast performs dragon-serving signs and promotes worship of the first beast.",
+   "source": "Revelation 13; 16:13; 19:20",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Death",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final judgment in the lake of fire",
+   "note": "Satan and personified Death are separately consigned to the lake of fire.",
+   "source": "Revelation 20:10, 14",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Final judgment in the lake of fire",
+   "note": "Satan and Hades are separately consigned to the lake of fire.",
+   "source": "Revelation 20:10, 14",
+   "date": "c. 90–100 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Serpent of Eden",
+   "other_aliases": [
+    "ancient serpent"
+   ],
+   "kind": "identified_with",
+   "myth": "Eden and the ancient serpent",
+   "note": "Revelation’s ancient-serpent title enabled Christians to identify Eden’s serpent with Satan.",
+   "source": "Genesis 3; Revelation 12:9",
+   "date": "c. 90–100 CE synthesis",
+   "tier": "canonical"
+  },
+  {
+   "other": "Serpent of Eden",
+   "other_aliases": [
+    "ancient serpent"
+   ],
+   "kind": "served_by",
+   "myth": "Satan operates through Eden’s serpent",
+   "note": "Irenaeus distinguishes the serpent from Satan while making it his narrative instrument.",
+   "source": "Irenaeus, Demonstration 16–17",
+   "date": "c. 180–190 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pagan gods",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Christian apologists reclassify pagan gods as demons participating in diabolic deception.",
+   "source": "Justin, First Apology and Dialogue",
+   "date": "mid-second century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Faust’s infernal contract",
+   "note": "Mephistopheles acts as the Devil’s infernal agent in the Faust tradition.",
+   "source": "Faustbook; Marlowe; Goethe",
+   "date": "1587–1832",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mephistopheles",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Popular reception often conflates Mephistopheles with Satan despite his separate characterization.",
+   "source": "Faust reception",
+   "date": "early modern onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sin",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Sin springs from Satan’s head",
+   "note": "Milton personifies Sin as Satan’s daughter.",
+   "source": "Paradise Lost II",
+   "date": "1667",
+   "tier": "modern"
+  },
+  {
+   "other": "Sin",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Satan fathers Death with Sin",
+   "note": "Milton makes Satan mate incestuously with his daughter Sin.",
+   "source": "Paradise Lost II",
+   "date": "1667",
+   "tier": "modern"
+  },
+  {
+   "other": "Death",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "Birth of Death",
+   "note": "Milton makes Death the offspring of Satan and Sin.",
+   "source": "Paradise Lost II",
+   "date": "1667",
+   "tier": "modern"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Milton invokes the heavenly Muse",
+   "note": "Miltonic reception places Satan within an epic framed by invocation of a heavenly Muse.",
+   "source": "Paradise Lost",
+   "date": "1667",
+   "tier": "modern"
+  }
+ ]
+}

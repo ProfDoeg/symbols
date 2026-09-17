@@ -1,0 +1,322 @@
+{
+ "subject": "nut",
+ "relations": [
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Atum generates Shu and Tefnut, Nut's parents.",
+   "source": "Pyramid Text 600",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Shu is Nut's father in the Heliopolitan genealogy.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Separation of sky and earth",
+   "note": "Shu raises and supports Nut above Geb, creating habitable space.",
+   "source": "Coffin Texts",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nut is born from Tefnut in the Heliopolitan genealogy.",
+   "source": "Pyramid Texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Geb and Nut are brother and sister in the Heliopolitan genealogy.",
+   "source": "Pyramid Text genealogy",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Geb is Nut's consort and father of her principal divine children.",
+   "source": "Pyramid Text genealogy",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "other",
+   "myth": "Separation of sky and earth",
+   "note": "Nut arches above recumbent Geb after Shu separates them.",
+   "source": "Coffin Texts and cosmographic scenes",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra/Re",
+   "other_aliases": [
+    "solar god"
+   ],
+   "kind": "parent_of",
+   "myth": "Swallowing and rebirthing the sun",
+   "note": "The sun enters Nut at evening and is born from her at dawn.",
+   "source": "Book of Nut",
+   "date": "Thirteenth century BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Ra/Re"
+   ],
+   "kind": "consort_of",
+   "myth": "Five epagomenal births",
+   "note": "Plutarch reports an affair between Rhea/Nut and Helios.",
+   "source": "Plutarch, De Iside 12",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Ra/Re"
+   ],
+   "kind": "punished_by",
+   "myth": "Five epagomenal births",
+   "note": "Helios curses Nut against giving birth during any existing month or year.",
+   "source": "Plutarch, De Iside 12",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nut is Osiris's mother in Egyptian funerary and Enneadic traditions.",
+   "source": "Pyramid Texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Protection and revival of Osiris",
+   "note": "Nut stretches over Osiris, protecting and revivifying the dead god.",
+   "source": "Pyramid Text funerary utterances",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nut is Isis's mother in the Heliopolitan and Osirian genealogy.",
+   "source": "Egyptian divine lists",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Sycamore nourishment of the dead",
+   "note": "Nut and Isis can separately occupy the nourishing sycamore-goddess role.",
+   "source": "Book of the Dead 59",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Seth is repeatedly identified as Nut's son.",
+   "source": "Contendings of Horus and Seth",
+   "date": "Twelfth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nut is Nephthys's mother in the Enneadic genealogy.",
+   "source": "Egyptian divine lists",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus the Elder/Haroeris",
+   "other_aliases": [
+    "Horus the Elder",
+    "Haroeris"
+   ],
+   "kind": "parent_of",
+   "myth": "Five epagomenal births",
+   "note": "Plutarch makes Horus the Elder Nut's second epagomenal child.",
+   "source": "Plutarch, De Iside 12",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nut is the grandmother of Horus through her daughter Isis.",
+   "source": "Ptolemaic temple formulations",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [
+    "Horus"
+   ],
+   "kind": "gift",
+   "myth": "Succession of divine kingship",
+   "note": "Local temple theology has Nut grant or confirm Horus's rule.",
+   "source": "Ptolemaic temple formulations",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thoth/Hermes",
+   "other_aliases": [
+    "Thoth",
+    "Hermes"
+   ],
+   "kind": "consort_of",
+   "myth": "Five epagomenal births",
+   "note": "Plutarch's tradition describes Hermes as enamored of Nut and sexually linked with her.",
+   "source": "Plutarch, De Iside 12",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thoth/Hermes",
+   "other_aliases": [
+    "Thoth",
+    "Hermes"
+   ],
+   "kind": "gift",
+   "myth": "Five epagomenal births",
+   "note": "Hermes wins lunar light and creates five days enabling Nut's births.",
+   "source": "Plutarch, De Iside 12",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heh deities",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Support of the celestial sky",
+   "note": "Ram-headed Heh figures help Shu physically support Nut.",
+   "source": "Greenfield Papyrus",
+   "date": "c. 1050–950 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mehet-Weret",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Both goddesses can embody the heavenly cow and solar birth.",
+   "source": "Later theological texts",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their sky, cow, solar-maternal, western, and tree-goddess roles sometimes converge.",
+   "source": "Later images and titles",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late theology associates their primordial-maternal and celestial qualities without establishing universal identity.",
+   "source": "Late theological texts",
+   "date": "Late Period and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Five epagomenal births",
+   "note": "Plutarch renders the Egyptian celestial mother Nut under the Greek name Rhea.",
+   "source": "Plutarch, De Iside et Osiride",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Roman comparison links both as sky embodiments despite differing gender and functions.",
+   "source": "Greco-Roman interpretive comparison",
+   "date": "Greco-Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hadit",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Thelemic union of Nuit and Hadit",
+   "note": "Crowley's Nuit pairs with Hadit as infinite space with an individual center.",
+   "source": "Liber AL vel Legis",
+   "date": "1904",
+   "tier": "modern"
+  },
+  {
+   "other": "Ra-Hoor-Khuit",
+   "other_aliases": [
+    "Crowned and Conquering Child"
+   ],
+   "kind": "parent_of",
+   "myth": "Thelemic union of Nuit and Hadit",
+   "note": "The union of Nuit and Hadit generates Ra-Hoor-Khuit in Thelemic theology.",
+   "source": "Liber AL vel Legis",
+   "date": "1904",
+   "tier": "modern"
+  }
+ ]
+}

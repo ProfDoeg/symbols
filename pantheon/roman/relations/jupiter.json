@@ -1,0 +1,1035 @@
+{
+ "subject": "jupiter",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Zeû páter"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman literature, art, and cult historically identified Jupiter with Greek Zeus.",
+   "source": "Roman literary and cult reception",
+   "date": "c. 300 BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tinia",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan Tinia and Jupiter were correlated as sovereign sky gods.",
+   "source": "Capitoline archaeology and iconography",
+   "date": "late sixth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dyauṣ Pitā",
+   "other_aliases": [
+    "Dyaus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Comparative linguistics relates both names to the reconstructed Indo-European sky father.",
+   "source": "Comparative linguistic reconstruction",
+   "date": "modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Ammon"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jupiter Ammon equated Jupiter or Zeus with the Egyptian-Libyan Amun.",
+   "source": "Jupiter-Ammon cult and iconography",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Serapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jupiter Serapis records an equation or conjunction with the Greco-Egyptian god.",
+   "source": "Jupiter Serapis cult evidence",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sabazios",
+   "other_aliases": [
+    "Sabazius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jupiter Sabazius combined Jupiter with Sabazios in varying cultic contexts.",
+   "source": "Epigraphic cult evidence",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thor",
+   "other_aliases": [
+    "Donar"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Germanic translators used a thunder-god equivalent for Jupiter’s planetary weekday.",
+   "source": "Planetary weekday nomenclature",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy names Saturn as Jupiter’s father.",
+   "source": "Ovid, Fasti 3 and 5",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ops",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy names Ops or Rhea as Jupiter’s mother.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "fought",
+   "myth": "War of divine succession",
+   "note": "Jupiter overthrows Saturn and assumes kingship over the gods.",
+   "source": "Ovid, Fasti 3 and 5",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Neptune Jupiter’s brother.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmic realms",
+   "note": "Jupiter receives the sky while Neptune receives the sea.",
+   "source": "Roman mythographers and Ovidian allusion",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Miraculous conception of Orion",
+   "note": "Jupiter, Neptune, and Mercury visit Hyrieus and jointly produce Orion.",
+   "source": "Ovid, Fasti 5",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dis",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Dis or Pluto Jupiter’s brother.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dis",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "shared_myth",
+   "myth": "Division of the cosmic realms",
+   "note": "Jupiter receives the sky while Dis receives the underworld.",
+   "source": "Roman mythographers and Ovidian allusion",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Juno Jupiter’s sister.",
+   "source": "Roman literary genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hellenized Roman tradition presents Juno as Jupiter’s wife and queen.",
+   "source": "Ovid, Metamorphoses 1–4",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Capitoline triad",
+   "note": "Juno occupied a lateral cella beside Jupiter in their shared temple.",
+   "source": "Capitoline temple archaeology",
+   "date": "late sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Faliscan triad dedication",
+   "note": "Jupiter and Juno jointly received a collegial dedication with Minerva.",
+   "source": "CIL I² 364",
+   "date": "125 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Conflict over Rome’s destined foundation",
+   "note": "Juno repeatedly obstructs the destiny Jupiter guarantees for the Trojans.",
+   "source": "Virgil, Aeneid",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement over Latin identity",
+   "note": "Jupiter accepts Juno’s terms preserving Latin identity, ending her opposition.",
+   "source": "Virgil, Aeneid 12.791–842",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Juno’s seduction of Jupiter",
+   "note": "Juno distracts Jupiter using Venus’s girdle in Latin Homeric reception.",
+   "source": "Latin retellings of Homer",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Ceres Jupiter’s sister.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Seasonal division of Proserpina",
+   "note": "Jupiter brokers the division of Proserpina’s year after Pluto’s abduction.",
+   "source": "Ovid, Metamorphoses 5; Fasti 4",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vesta",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Vesta Jupiter’s sister.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Greek-derived genealogy makes Jupiter father of Mars by Juno.",
+   "source": "Roman Hellenized genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "shared_myth",
+   "myth": "Archaic divine hierarchy",
+   "note": "Jupiter, Mars, and Quirinus form a reconstructed hierarchy reflected by major flamines.",
+   "source": "Roman priestly institutions",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "gift",
+   "myth": "Descent of the ancile",
+   "note": "Jupiter sends Rome’s sacred shield, subsequently carried by Mars’s Salii.",
+   "source": "Ovid, Fasti 3",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "judged",
+   "myth": "Apotheosis of Romulus",
+   "note": "Jupiter grants Mars’s request that Romulus be made the god Quirinus.",
+   "source": "Ovid, Fasti 2.481–512",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [
+    "Romulus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Archaic divine hierarchy",
+   "note": "Jupiter, Mars, and Quirinus form a reconstructed hierarchy reflected by major flamines.",
+   "source": "Roman priestly institutions",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "other": "Quirinus",
+   "other_aliases": [
+    "Romulus"
+   ],
+   "kind": "created",
+   "myth": "Apotheosis of Romulus",
+   "note": "Jupiter assents to Romulus’s transformation into the god Quirinus.",
+   "source": "Ovid, Fasti 2.481–512",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized genealogy makes Minerva Jupiter’s daughter, born from his head.",
+   "source": "Roman mythographic and artistic tradition",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Capitoline triad",
+   "note": "Minerva occupied a lateral cella beside Jupiter in their shared temple.",
+   "source": "Capitoline temple archaeology",
+   "date": "late sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Faliscan triad dedication",
+   "note": "Jupiter and Minerva jointly received a collegial dedication with Juno.",
+   "source": "CIL I² 364",
+   "date": "125 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy includes Apollo among Jupiter’s divine children.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death of Aesculapius",
+   "note": "After Jupiter kills Aesculapius, Apollo retaliates against the Cyclopes.",
+   "source": "Ovidian and mythographic tradition",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy includes Diana among Jupiter’s divine children.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy includes Mercury among Jupiter’s divine children.",
+   "source": "Roman mythographic genealogy",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Aeneas recalled to his mission",
+   "note": "Jupiter sends Mercury to command Aeneas to continue toward Italy.",
+   "source": "Virgil, Aeneid 4.219–278",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Rescue of Io from Argus",
+   "note": "Jupiter orders Mercury to kill Argus and free Io.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Deception of Alcmene",
+   "note": "Mercury assists Jupiter’s impersonation of Amphitryon.",
+   "source": "Plautus, Amphitruo",
+   "date": "c. 205–184 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visit to Philemon and Baucis",
+   "note": "Jupiter and Mercury travel disguised, test hospitality, and punish the region.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Miraculous conception of Orion",
+   "note": "Jupiter, Mercury, and Neptune visit Hyrieus and jointly produce Orion.",
+   "source": "Ovid, Fasti 5",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some philosophical genealogies include Venus among Jupiter’s children.",
+   "source": "Cicero, De natura deorum 3",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Promise of Roman dominion",
+   "note": "Jupiter consoles Venus and promises imperial destiny for her descendants.",
+   "source": "Virgil, Aeneid 1.223–296",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apotheosis of Julius Caesar",
+   "note": "Jupiter reveals fate while Venus carries Caesar’s soul into the sky.",
+   "source": "Ovid, Metamorphoses 15.745–851",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment over Adonis",
+   "note": "Later mythography makes Jupiter adjudicate between Venus and Proserpina over Adonis.",
+   "source": "Later mythographic traditions",
+   "date": "late classical period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jupiter fathers Bacchus with Semele in Hellenized Roman tradition.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bacchus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Death of Semele",
+   "note": "Jupiter saves unborn Bacchus and completes his gestation in his thigh.",
+   "source": "Ovid, Metamorphoses 3.253–315",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jupiter fathers Hercules with Alcmene in Roman literary tradition.",
+   "source": "Plautus, Amphitruo",
+   "date": "c. 205–184 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apotheosis of Hercules",
+   "note": "Jupiter receives and protects his son within the divine order after apotheosis.",
+   "source": "Ovid, Metamorphoses 9",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy makes Perseus Jupiter’s son by Danaë.",
+   "source": "Ovidian and Latin mythography",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Castor and Pollux",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Variant Hellenized genealogies include the Dioscuri among Jupiter’s children.",
+   "source": "Roman mythographic genealogy",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helen",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Variant accounts make Jupiter Helen’s father through the Leda episode.",
+   "source": "Latin poetry and art",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeacus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jupiter fathers Aeacus with Aegina in Hellenized tradition.",
+   "source": "Ovid, Metamorphoses 7",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy includes Minos among Jupiter’s heroic children.",
+   "source": "Roman mythographic genealogy",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhadamanthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hellenized Roman genealogy includes Rhadamanthus among Jupiter’s heroic children.",
+   "source": "Roman mythographic genealogy",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arcas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jupiter fathers Arcas with Callisto in Hellenized tradition.",
+   "source": "Ovid, Metamorphoses 2",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Greek-derived mythography treats Metis as Jupiter’s partner and Minerva’s mother.",
+   "source": "Hyginus and Roman tradition",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Minerva",
+   "note": "Jupiter swallows Metis before Minerva emerges armed from his head.",
+   "source": "Hyginus and Roman tradition",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Conception of Bacchus",
+   "note": "Jupiter becomes Semele’s lover and fathers Bacchus.",
+   "source": "Ovid, Metamorphoses 3.253–315",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Jupiter reveals his divine majesty",
+   "note": "Bound by his promise, Jupiter appears in full power and burns Semele.",
+   "source": "Ovid, Metamorphoses 3.253–315",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Jupiter’s pursuit of Io",
+   "note": "Jupiter pursues Io and conceals their encounter with cloud or darkness.",
+   "source": "Ovid, Metamorphoses 1.568–750",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Io transformed into a cow",
+   "note": "Jupiter changes Io into a cow and surrenders her to Juno.",
+   "source": "Ovid, Metamorphoses 1.568–750",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Assault of Callisto",
+   "note": "Jupiter assumes Diana’s form and sexually assaults or seduces Callisto.",
+   "source": "Ovid, Metamorphoses 2.401–530",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Callisto",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Jupiter disguised as Diana",
+   "note": "Jupiter deceives Callisto by taking the appearance of Diana.",
+   "source": "Ovid, Metamorphoses 2.401–530",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Abduction of Europa",
+   "note": "Jupiter assumes a bull’s form and carries Europa away to Crete.",
+   "source": "Ovid, Metamorphoses 2.833–875",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Europa",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Abduction of Europa",
+   "note": "Jupiter transforms himself into a bull to approach and abduct Europa.",
+   "source": "Ovid, Metamorphoses 2.833–875",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Danaë",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Golden shower of Jupiter",
+   "note": "Jupiter approaches Danaë as a golden shower and fathers Perseus.",
+   "source": "Ovidian allusion and Hyginus",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leda",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Jupiter as a swan",
+   "note": "Jupiter takes a swan’s form in the inherited story of Leda.",
+   "source": "Latin poetry and art",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcmene",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Jupiter impersonates Amphitryon",
+   "note": "Jupiter assumes Amphitryon’s identity, prolongs the night, and fathers Hercules.",
+   "source": "Plautus, Amphitruo",
+   "date": "c. 205–184 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Alcmene",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Jupiter impersonates Amphitryon",
+   "note": "Jupiter deceives Alcmene by appropriating her husband’s appearance.",
+   "source": "Plautus, Amphitruo",
+   "date": "c. 205–184 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Ganymede",
+   "note": "Jupiter, or his eagle, abducts Ganymede.",
+   "source": "Virgil, Aeneid 5.252–257",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Jupiter disguised as a satyr",
+   "note": "Jupiter takes a satyr’s form for his union with Antiope.",
+   "source": "Latin mythography and art",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aegina",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Union producing Aeacus",
+   "note": "Jupiter unites with Aegina and fathers Aeacus.",
+   "source": "Ovid, Metamorphoses 7",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hellenized traditions sometimes present Themis as Jupiter’s consort.",
+   "source": "Ovidian tradition",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Restoration after the flood",
+   "note": "Themis provides the oracle through which humanity is restored after Jupiter’s flood.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deucalion and Pyrrha",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Restoration after Jupiter’s flood",
+   "note": "Jupiter ends the flood and permits the surviving pair to restore humanity.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philemon and Baucis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Reward for hospitality",
+   "note": "Jupiter rewards the hospitable couple with a temple and their final wish.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Philemon and Baucis",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Deaths of Philemon and Baucis",
+   "note": "Jupiter grants their joint death, after which they become intertwined trees.",
+   "source": "Ovid, Metamorphoses 8",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Seasonal division of Proserpina",
+   "note": "Jupiter determines the seasonal division governing Proserpina’s time above and below.",
+   "source": "Ovid, Metamorphoses 5; Fasti 4",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment over Adonis",
+   "note": "Later mythography makes Jupiter adjudicate between Proserpina and Venus over Adonis.",
+   "source": "Later mythographic traditions",
+   "date": "late classical period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aesculapius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Punishment for restoring the dead",
+   "note": "Jupiter kills Aesculapius with a thunderbolt for reviving the dead.",
+   "source": "Ovid, Metamorphoses 15",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Titans",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Jupiter and the younger gods defeat the Titans in the inherited succession war.",
+   "source": "Latin poetic tradition",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Jupiter strikes the mountain-piling Giants with lightning.",
+   "source": "Ovid, Metamorphoses 1.151–162",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Giants",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Jupiter’s thunderbolts defeat and bury the Giants beneath mountains.",
+   "source": "Ovid, Fasti 3.439–448",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Majestas",
+   "other_aliases": [
+    "Majesty"
+   ],
+   "kind": "allied",
+   "myth": "Aftermath of the Gigantomachy",
+   "note": "Personified Majesty remains beside Jupiter and protects his sceptre.",
+   "source": "Ovid, Fasti 5.11–52",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the gods",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Councils of the gods",
+   "note": "Jupiter convenes divine councils and announces decisions concerning cosmic and mortal affairs.",
+   "source": "Aeneid 10; Metamorphoses 1",
+   "date": "29 BCE–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Terminus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Foundation of the Capitoline temple",
+   "note": "Terminus refuses removal from Jupiter’s future Capitoline sanctuary.",
+   "source": "Livy 1.55; Dionysius 3.69",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juventas",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Foundation of the Capitoline temple",
+   "note": "Juventas likewise remains on the Capitol when other deities are exaugurated.",
+   "source": "Livy 5.54 and antiquarians",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fides",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "",
+   "note": "Fides shares Jupiter’s civic sphere of oaths, treaties, and trust.",
+   "source": "Roman civic cult tradition",
+   "date": "Republican Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Vediovis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ovid interprets Vediovis as a youthful, unarmed form of Jupiter.",
+   "source": "Ovid, Fasti 3.429–448",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Fate",
+   "other_aliases": [
+    "Parcae"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Jupiter administers fate in epic and Stoic theology but cannot consistently override it.",
+   "source": "Virgil and Stoic texts",
+   "date": "late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Apotheosis of Aeneas",
+   "note": "Jupiter authorizes Aeneas’s transition into divinity through Venus and Numicius.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Numicius",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apotheosis of Aeneas",
+   "note": "Jupiter’s approval accompanies Numicius’s role in purifying and deifying Aeneas.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Miraculous conception of Orion",
+   "note": "Jupiter, Neptune, and Mercury jointly bring about Orion’s miraculous conception.",
+   "source": "Ovid, Fasti 5",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dolichenus",
+   "other_aliases": [
+    "storm god of Doliche"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jupiter Dolichenus combines Jupiter with the storm god worshipped at Doliche.",
+   "source": "Lambaesis dedication",
+   "date": "125 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Jupiter Heliopolitanus developed from a local Syrian and Baal religious complex.",
+   "source": "Heliopolitan cult and iconography",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Taranis",
+   "other_aliases": [
+    "Taranucus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Provincial Taranucus or Taranis-related forms combined an indigenous thunder god with Jupiter.",
+   "source": "Provincial dedications",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  }
+ ]
+}

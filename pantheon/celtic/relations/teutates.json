@@ -1,0 +1,77 @@
+{
+ "subject": "teutates",
+ "relations": [
+  {
+   "other": "Esus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lucanian sacrificial catalogue",
+   "note": "Named consecutively with Teutates among Gaulish gods propitiated with human blood.",
+   "source": "Lucan, Bellum civile 1.444–446",
+   "date": "c. 60–65 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Taranis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Lucanian sacrificial catalogue",
+   "note": "Appears with Teutates in Lucan’s catalogue of blood-associated Gaulish gods.",
+   "source": "Lucan, Bellum civile 1.444–446",
+   "date": "c. 60–65 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Teutates-Mercury identification",
+   "note": "Medieval Lucan scholia identify Teutates as the Gaulish Mercury.",
+   "source": "Commenta Bernensia and Adnotationes super Lucanum",
+   "date": "ninth–eleventh centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Mars Toutatis dedications",
+   "note": "Epigraphic dedications join Toutatis with Mars; scholia also offer this identification.",
+   "source": "RIB 219; CIL III 5320/11721",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter Optimus Maximus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cumbrian joint dedication",
+   "note": "Named with Toutatis and other gods as joint recipients of a vow.",
+   "source": "RIB 1017",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Riocalatis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cumbrian joint dedication",
+   "note": "Named beside Toutatis on a damaged altar; its precise divine status remains uncertain.",
+   "source": "RIB 1017",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mars Cocidius",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cumbrian joint dedication",
+   "note": "Named separately from Toutatis among the divine recipients of a vow.",
+   "source": "RIB 1017",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  }
+ ]
+}

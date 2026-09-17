@@ -1,0 +1,461 @@
+{
+ "subject": "cyclopes",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears the Uranian Cyclopes Brontes, Steropes, and Arges.",
+   "source": "Hesiod, Theogony 139–158",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Uranus fathers the three Uranian Cyclopes with Gaia.",
+   "source": "Hesiod, Theogony 139–158",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Imprisonment of Gaia's children",
+   "note": "Uranus hates the Cyclopes and conceals or binds them within Gaia.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Uranian Cyclopes and Titans are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 139–158",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hundred-Handers",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Cyclopes and Hundred-Handers are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Cronus's revolt against Uranus",
+   "note": "Cronus releases the Cyclopes during his revolt against Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Cronus reimprisons the Cyclopes",
+   "note": "After gaining power, Cronus confines the Cyclopes again.",
+   "source": "Apollodorus, Bibliotheca 1.1.4–1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Campe",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Imprisonment in Tartarus",
+   "note": "Campe guards the imprisoned Cyclopes until Zeus kills her.",
+   "source": "Apollodorus, Bibliotheca 1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "rescued_by",
+   "myth": "Release before the Titan war",
+   "note": "Zeus releases the Cyclopes from imprisonment before defeating the Titans.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "gift",
+   "myth": "Arming Zeus for the Titan war",
+   "note": "The Cyclopes give Zeus thunder, lightning, and the thunderbolt.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "allied",
+   "myth": "War against the Titans",
+   "note": "Their thunderbolt enables Zeus's victory and establishment of cosmic sovereignty.",
+   "source": "Hesiod, Theogony 501–506",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "killed_by",
+   "myth": "Destruction of the thunderbolt-makers",
+   "note": "A fragment possibly says Zeus destroys them to deny thunderbolts to rivals.",
+   "source": "Pindar, fragment 70b",
+   "date": "early fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Arming the three divine brothers",
+   "note": "The Cyclopes give Poseidon his trident.",
+   "source": "Apollodorus, Bibliotheca 1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "The horse-trough commission",
+   "note": "The Cyclopes forge a horse-trough commissioned for Poseidon.",
+   "source": "Callimachus, Hymn to Artemis 46–61",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Polyphemus is the son of Poseidon and Thoosa.",
+   "source": "Odyssey 1.68–73",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Pluto"
+   ],
+   "kind": "gift",
+   "myth": "Arming the three divine brothers",
+   "note": "The Cyclopes give Hades the cap of invisibility.",
+   "source": "Apollodorus, Bibliotheca 1.2.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoosa",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Thoosa bears Polyphemus after union with Poseidon.",
+   "source": "Odyssey 1.70–73",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phorcys",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Polyphemus is Phorcys's maternal grandson through Thoosa.",
+   "source": "Odyssey 1.71–72",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "served",
+   "myth": "The volcanic divine forge",
+   "note": "The Cyclopes work under Hephaestus or Vulcan at the divine forge.",
+   "source": "Callimachus, Hymn to Artemis 46–86",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Artemis visits the Cyclopean forge",
+   "note": "The Cyclopes fashion and give Artemis her bow and arrows.",
+   "source": "Callimachus, Hymn to Artemis 46–86",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Child Artemis meets Brontes",
+   "note": "Artemis approaches the terrifying smiths and pulls hair from Brontes's chest.",
+   "source": "Callimachus, Hymn to Artemis 46–86",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Cyclopean weapons for Apollo",
+   "note": "Later smith lore attributes Apollo's weapons to Cyclopean manufacture.",
+   "source": "Callimachean and mythographic tradition",
+   "date": "Hellenistic and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo avenges Asclepius",
+   "note": "Apollo kills the Cyclopes because their thunderbolt was used against Asclepius.",
+   "source": "Hesiodic Catalogue fragments",
+   "date": "sixth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Apollo kills the junior Cyclopes",
+   "note": "In a competing version, Apollo kills their sons rather than the immortal fathers.",
+   "source": "Pherecydes, scholia on Alcestis",
+   "date": "classical fragment",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aortes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aortes is one of the junior Cyclopes born to the immortal seniors.",
+   "source": "Pherecydes, scholia on Alcestis",
+   "date": "classical fragment",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Death of Asclepius",
+   "note": "Zeus kills Asclepius with a Cyclopean-made thunderbolt, provoking Apollo's revenge.",
+   "source": "Later mythographic accounts",
+   "date": "classical and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hermes impersonates a nursery Cyclops",
+   "note": "Soot-blackened Hermes impersonates Arges or Steropes to frighten unruly divine children.",
+   "source": "Callimachus, Hymn to Artemis 70–79",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [
+    "Mars"
+   ],
+   "kind": "created",
+   "myth": "Work in Vulcan's forge",
+   "note": "The Cyclopes manufacture Mars's war-chariot.",
+   "source": "Virgil, Aeneid 8.433–434",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "created",
+   "myth": "Work in Vulcan's forge",
+   "note": "The Cyclopes manufacture or decorate Minerva's aegis.",
+   "source": "Virgil, Aeneid 8.435–438",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Forging armor for Aeneas",
+   "note": "At Venus's request through Vulcan, the Cyclopes manufacture Aeneas's armor.",
+   "source": "Virgil, Aeneid 8.370–453",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Forging armor for Aeneas",
+   "note": "The Cyclopes forge the divinely commissioned armor carried by Aeneas.",
+   "source": "Virgil, Aeneid 8.370–453",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divinely commissioned armor",
+   "note": "The broader Roman smithy tradition connects the Cyclopean workshop with Thetis's armor commission.",
+   "source": "Roman smithy tradition",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Outis",
+    "Nobody",
+    "No-man"
+   ],
+   "kind": "fought",
+   "myth": "Odysseus blinds Polyphemus",
+   "note": "Polyphemus traps Odysseus's party and eats companions before Odysseus blinds him.",
+   "source": "Odyssey 9.105–566",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [
+    "Outis",
+    "Nobody",
+    "No-man"
+   ],
+   "kind": "deceived_by",
+   "myth": "The Nobody name-ruse",
+   "note": "Odysseus calls himself Nobody, causing Polyphemus's neighbors to disregard his cries.",
+   "source": "Odyssey 9.366–460",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Escape beneath the sheep",
+   "note": "Odysseus and his survivors escape Polyphemus's cave concealed beneath sheep.",
+   "source": "Odyssey 9.424–460",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Polyphemus enslaves Dionysus's satyrs",
+   "note": "Polyphemus enslaves satyrs captured while they search for Dionysus.",
+   "source": "Euripides, Cyclops",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satyrs",
+   "other_aliases": [
+    "Dionysus's satyrs"
+   ],
+   "kind": "served_by",
+   "myth": "Satyrs enslaved in Polyphemus's cave",
+   "note": "Polyphemus enslaves the satyrs and forces them to tend his household.",
+   "source": "Euripides, Cyclops",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Silenus enslaved by Polyphemus",
+   "note": "Polyphemus enslaves Silenus, obtains Odysseus's wine through him, and disputes over the strangers.",
+   "source": "Euripides, Cyclops",
+   "date": "late fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Galatea",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Polyphemus sings to Galatea",
+   "note": "Polyphemus courts Galatea through pastoral song, but his desire remains frustrated.",
+   "source": "Theocritus, Idyll 11",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Galatea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Galatea teases Polyphemus",
+   "note": "Galatea provocatively teases Polyphemus while he pretends indifference.",
+   "source": "Theocritus, Idyll 6",
+   "date": "third century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Galatea",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Polyphemus's jealous courtship",
+   "note": "Polyphemus courts and violently pursues Galatea, who loves Acis instead.",
+   "source": "Ovid, Metamorphoses 13.738–897",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Acis",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Murder of Acis",
+   "note": "Jealous of Galatea's love, Polyphemus crushes Acis beneath a rock.",
+   "source": "Ovid, Metamorphoses 13.738–897",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysus's Indian war",
+   "note": "Seven armed Cyclopes fight on Dionysus's side in India.",
+   "source": "Nonnus, Dionysiaca 14",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "subject": "wadjet",
+ "relations": [
+  {
+   "other": "Nekhbet",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The Two Ladies and unified kingship",
+   "note": "They jointly protect and legitimate the king as patrons of Lower and Upper Egypt.",
+   "source": "Aha label and Semerkhet titulary",
+   "date": "c. 3100–2900 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Wadjet is regionally treated as the mother of the child Horus.",
+   "source": "Buto and regional temple theology",
+   "date": "Late Period–Ptolemaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Wadjet shelters the child Horus",
+   "note": "Wadjet protects and nurses the vulnerable child Horus in the Delta marshes.",
+   "source": "Old Kingdom imagery and Buto tradition",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Isis entrusts Horus to Wadjet",
+   "note": "As Leto, Wadjet shelters the infant Horus while Isis searches for Osiris.",
+   "source": "Plutarch, De Iside et Osiride 18",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Concealment of the child Horus",
+   "note": "Isis entrusts Horus to Wadjet, who assists in hiding and protecting him.",
+   "source": "Plutarch, De Iside et Osiride 18",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "other",
+   "myth": "Hiding Horus from Seth",
+   "note": "Wadjet shelters Horus from Seth; no independent combat between them is attested.",
+   "source": "Herodotus, Histories 2.155–156",
+   "date": "c. 440 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Developed solar theology calls Wadjet the daughter and emanated Eye of Ra.",
+   "source": "Funerary and temple theology",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The living uraeus",
+   "note": "As Ra's fiery uraeus and Eye, Wadjet protects him and annihilates enemies.",
+   "source": "Funerary and temple theology",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nefertem",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Wadjet is named as Nefertem's mother when occupying the lioness-mother role.",
+   "source": "Later theological genealogy",
+   "date": "Late Period–Ptolemaic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Wadjet is paired with Min as the senior goddess of the local Imet triad.",
+   "source": "Imet temple evidence",
+   "date": "New Kingdom–Ptolemaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Horus of Imet",
+   "other_aliases": [
+    "Horus-the-Child"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Wadjet is the mother or senior goddess of youthful Horus within the Imet triad.",
+   "source": "Imet temple evidence",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Bastet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later theology links or compounds them as northern, feline, and divine-Eye goddesses.",
+   "source": "Later temple theology",
+   "date": "Late Period–Ptolemaic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Shared fiery, solar-Eye, and lioness traits let Wadjet assume Sekhmet's maternal position.",
+   "source": "Later temple and statuary evidence",
+   "date": "Late Period–Ptolemaic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Wadjet is assimilated to Tefnut through the later lioness and divine-Eye complex.",
+   "source": "Later temple theology",
+   "date": "Ptolemaic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Renenutet",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Texts and iconography associate or substitute the two cobra-shaped royal protectors.",
+   "source": "Egyptian texts and iconography",
+   "date": "Pharaonic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Weret-Hekau",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Wadjet converges with Weret-Hekau as personified crown and magical uraeus.",
+   "source": "Royal and temple theology",
+   "date": "Pharaonic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late temples coordinate them as Eyes of Ra and leonine or serpent protectors.",
+   "source": "Late temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Wadjet locally occupies the lioness consort position in a Memphite-style genealogy.",
+   "source": "Later Memphite-style theology",
+   "date": "Late Period–Ptolemaic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [
+    "Buto"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek writers identify the goddess of Buto, Wadjet, with Leto.",
+   "source": "Herodotus and Plutarch",
+   "date": "c. 440 BCE–100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Leto shelters Apollo on Chemmis",
+   "note": "As Leto, Wadjet receives and protects Apollo, the Greek interpretation of Horus.",
+   "source": "Herodotus, Histories 2.155–156",
+   "date": "c. 440 BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "subject": "anthropos_aeon",
+ "relations": [
+  {
+   "other": "Logos",
+   "other_aliases": [
+    "Word"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Logos and Zoe emit Anthropos and Ecclesia in the Ptolemaean genealogy.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [
+    "Life"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Logos and Zoe emit Anthropos and Ecclesia in the Ptolemaean genealogy.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ecclesia",
+   "other_aliases": [
+    "Church"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ecclesia is Anthropos' female syzygos and co-generator of twelve aeons.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "the twelve-aeon Dodecad",
+   "other_aliases": [
+    "the twelve aeons"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Anthropos and Ecclesia jointly emit the twelve aeons completing the Thirty.",
+   "source": "Irenaeus, Against Heresies 1.1",
+   "date": "c. 180 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [
+    "Word"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Colorbasus reverses the standard sequence, making Anthropos and Ecclesia generate Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.12",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zoe",
+   "other_aliases": [
+    "Life"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Colorbasus reverses the standard sequence, making Anthropos and Ecclesia generate Logos and Zoe.",
+   "source": "Irenaeus, Against Heresies 1.12",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Savior"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some Valentinians derive Jesus from Anthropos and Ecclesia; rival schools give other origins.",
+   "source": "Irenaeus, Against Heresies 1.11",
+   "date": "c. 180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marcosian exegesis of Jesus' conception",
+   "note": "Gabriel corresponds to Logos while the Power of the Highest corresponds to Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.14",
+   "date": "c. 180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [
+    "Spirit"
+   ],
+   "kind": "shared_myth",
+   "myth": "Marcosian exegesis of Jesus' conception",
+   "note": "The Spirit corresponds to Zoe while the Power of the Highest corresponds to Anthropos.",
+   "source": "Irenaeus, Against Heresies 1.14",
+   "date": "c. 180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Demiurge",
+   "other_aliases": [
+    "lower creator"
+   ],
+   "kind": "other",
+   "myth": "Creation of earthly humanity",
+   "note": "The lower creator forms earthly humanity according to the pre-existent Human's archetypal image.",
+   "source": "Tertullian, Against the Valentinians 19",
+   "date": "early third century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the great Invisible Spirit",
+   "other_aliases": [
+    "Invisible Spirit"
+   ],
+   "kind": "other",
+   "myth": "Appearance of heavenly Adamas",
+   "note": "The perfect heavenly Human appears or is named with the Invisible Spirit's approval.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Barbelo",
+   "other_aliases": [
+    "Pronoia"
+   ],
+   "kind": "other",
+   "myth": "Revelation of the heavenly Human",
+   "note": "Barbelo's upper divine order enables revelation of the heavenly Human's form to the rulers.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Autogenes",
+   "other_aliases": [
+    "Christ"
+   ],
+   "kind": "shared_myth",
+   "myth": "Placement of Adamas in Harmozel",
+   "note": "The heavenly Adamas is established beside Autogenes in Harmozel's first aeon.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Harmozel",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Placement of Adamas in Harmozel",
+   "note": "The heavenly Adamas is assigned to the first aeon within Harmozel's luminary realm.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ordering of the luminary realms",
+   "note": "Seth succeeds Adamas in the next luminary realm and progenates the incorruptible race.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yaldabaoth",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Creation of the lower Adam",
+   "note": "Yaldabaoth sees the upper Human's image and helps manufacture lower Adam as its copy.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the archons",
+   "other_aliases": [
+    "the rulers",
+    "the authorities"
+   ],
+   "kind": "other",
+   "myth": "Creation of the lower Adam",
+   "note": "The rulers imitate the revealed Human's watery image and distribute powers into Adam.",
+   "source": "Apocryphon of John",
+   "date": "c. 150–200 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nature",
+   "other_aliases": [
+    "Physis"
+   ],
+   "kind": "consort_of",
+   "myth": "The Hermetic Man's union with Nature",
+   "note": "The Man and Nature love one another and unite, producing terrestrial humanity's double nature.",
+   "source": "Corpus Hermeticum I.12–15",
+   "date": "2nd–3rd century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nous",
+   "other_aliases": [
+    "Father",
+    "supreme Mind"
+   ],
+   "kind": "child_of",
+   "myth": "Generation of the Hermetic Man",
+   "note": "Nous generates the Hermetic Man in his own image and loves him as his child.",
+   "source": "Corpus Hermeticum I.12",
+   "date": "2nd–3rd century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the seven Governors",
+   "other_aliases": [
+    "seven planetary spheres"
+   ],
+   "kind": "other",
+   "myth": "The Hermetic Man traverses the spheres",
+   "note": "The Man traverses their spheres and shares in their nature, powers, and rule.",
+   "source": "Corpus Hermeticum I.13–14",
+   "date": "2nd–3rd century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demiurgic Mind",
+   "other_aliases": [
+    "Demiurgic Mind/Logos"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Hermetic Man encounters the cosmos",
+   "note": "Demiurgic rational activity orders the cosmos through which the Hermetic Man passes.",
+   "source": "Corpus Hermeticum I",
+   "date": "2nd–3rd century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Attis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Naassene interpretation of the Attis hymn",
+   "note": "Naassene exegesis interprets the Phrygian Attis through its doctrine of the primal Man.",
+   "source": "Pseudo-Hippolytus, Refutation 5",
+   "date": "early third century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Naassene testimonies to the primal Man",
+   "note": "Naassene exegesis invokes Hermes as a pagan witness to its doctrine of Man.",
+   "source": "Pseudo-Hippolytus, Refutation 5",
+   "date": "early third century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Naassene interpretation of Egyptian mysteries",
+   "note": "Naassene exegesis interprets Osirian mysteries as parallels or expressions of primal-Man doctrine.",
+   "source": "Pseudo-Hippolytus, Refutation 5",
+   "date": "early third century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Manda d-Hiia",
+   "other_aliases": [
+    "Gnosis of Life"
+   ],
+   "kind": "taught_by",
+   "myth": "Instruction of primordial Adam",
+   "note": "The Gnosis of Life participates in the light-world mission that instructs Adam.",
+   "source": "Ginza Rba",
+   "date": "complicated late manuscript transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hibil Ziwa",
+   "other_aliases": [
+    "radiant messenger"
+   ],
+   "kind": "rescued_by",
+   "myth": "Descent of the radiant messenger",
+   "note": "Hibil Ziwa overcomes dark powers and aids primordial humanity and embodied souls.",
+   "source": "Ginza Rba",
+   "date": "complicated late manuscript transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ruha",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Entrapment of Adam in the material cosmos",
+   "note": "Ruha and her planetary children attempt to tempt, seduce, and entrap Adam.",
+   "source": "Ginza Rba creation materials",
+   "date": "complicated late manuscript transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Šišlam Rabba",
+   "other_aliases": [
+    "Šišlam"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Adam Kasia is identified or closely coordinated with the primordial heavenly priest Šišlam.",
+   "source": "Mandaean priestly cosmology",
+   "date": "late manuscript transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Father of Greatness",
+   "other_aliases": [
+    "Father"
+   ],
+   "kind": "created_by",
+   "myth": "Emanation and commissioning of First Man",
+   "note": "The Father ultimately calls forth First Man as his champion against Darkness.",
+   "source": "Kephalaia and eastern fragments",
+   "date": "3rd century traditions",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mother of Life",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Emanation and commissioning of First Man",
+   "note": "The Mother of Life produces or calls forth First Man for battle.",
+   "source": "Manichaean cosmogonic sources",
+   "date": "3rd century traditions",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Five Sons",
+   "other_aliases": [
+    "five luminous elements",
+    "Light, Air, Fire, Water, and Ether"
+   ],
+   "kind": "allied",
+   "myth": "First Man's battle against Darkness",
+   "note": "First Man wears his Five Sons as armor and offers them in battle.",
+   "source": "Manichaean cosmogonic sources",
+   "date": "3rd century traditions",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prince of Darkness",
+   "other_aliases": [
+    "Kingdom of Darkness",
+    "Darkness"
+   ],
+   "kind": "fought",
+   "myth": "First Man's battle against Darkness",
+   "note": "First Man confronts Darkness and is overwhelmed after its powers consume his luminous armor.",
+   "source": "Manichaean cosmogonic sources",
+   "date": "3rd century traditions",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Living Spirit",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "The Call and Answer",
+   "note": "Living Spirit calls, First Man answers, and Living Spirit draws him from the abyss.",
+   "source": "Manichaean cosmogonic sources",
+   "date": "3rd century traditions",
+   "tier": "regional_variant"
+  }
+ ]
+}

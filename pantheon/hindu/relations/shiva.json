@@ -1,0 +1,655 @@
+{
+ "subject": "shiva",
+ "relations": [
+  {
+   "other": "Maruts",
+   "other_aliases": [
+    "Rudra’s Maruts"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Vedic Rudra is invoked as father of the Maruts.",
+   "source": "Ṛgveda",
+   "date": "second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prajāpati",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Some Brāhmaṇic accounts generate Rudra from Prajāpati’s wrath or transgression.",
+   "source": "Brāhmaṇas",
+   "date": "early first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prajāpati",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Prajāpati’s sexual transgression",
+   "note": "Rudra wounds or punishes Prajāpati for sexual transgression.",
+   "source": "Brāhmaṇas",
+   "date": "early first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Some cosmogonies make Rudra emerge from Brahmā’s forehead, anger, or crying child.",
+   "source": "Epic and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Decapitation of Brahmā",
+   "note": "Śiva or Bhairava cuts off Brahmā’s fifth head.",
+   "source": "Purāṇas and Tantras",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Liṅgodbhava",
+   "note": "Śiva exposes and punishes Brahmā’s lie about finding the fiery pillar’s summit.",
+   "source": "Śivadharmaśāstra and Purāṇas",
+   "date": "fifth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari"
+   ],
+   "kind": "contest",
+   "myth": "Liṅgodbhava",
+   "note": "Viṣṇu seeks the fiery pillar’s lower limit and admits failure.",
+   "source": "Śivadharmaśāstra and Purāṇas",
+   "date": "fifth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari"
+   ],
+   "kind": "allied",
+   "myth": "Joint battles against demons",
+   "note": "Śiva and Viṣṇu jointly battle demons in accommodative sectarian narratives.",
+   "source": "Mahābhārata, Harivaṃśa, Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Nārāyaṇa",
+    "Hari"
+   ],
+   "kind": "identified_with",
+   "myth": "Harihara",
+   "note": "Harihara imagery fuses Śiva and Viṣṇu into one composite deity.",
+   "source": "Kushan and Gupta art",
+   "date": "early centuries CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [
+    "Umā"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pārvatī becomes Śiva’s wife after courtship and severe austerities.",
+   "source": "Mahābhārata, Kumārasambhava, Purāṇas",
+   "date": "ancient to early medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [
+    "Umā"
+   ],
+   "kind": "identified_with",
+   "myth": "Ardhanārīśvara",
+   "note": "Śiva and Pārvatī share one fused male-female body.",
+   "source": "Mathura sculpture",
+   "date": "c. 150–200 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Satī is Śiva’s wife and is frequently reborn as Pārvatī.",
+   "source": "Mahābhārata strata; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dakṣa’s sacrifice",
+   "note": "Satī’s death precipitates Śiva’s grief and destructive response.",
+   "source": "Mahābhārata strata; Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Dakṣa’s sacrifice",
+   "note": "Śiva destroys Dakṣa’s excluded sacrifice and secures his ritual share.",
+   "source": "Mahābhārata 12.274",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Dakṣa’s sacrifice",
+   "note": "Later versions have Śiva restore Dakṣa with a goat’s head.",
+   "source": "Liṅga and Śiva Purāṇas",
+   "date": "later first millennium onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Vīrabhadra",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Dakṣa’s sacrifice",
+   "note": "Śiva creates or commissions Vīrabhadra to devastate Dakṣa’s rite.",
+   "source": "Purāṇas",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Kāma’s burning",
+   "note": "Śiva burns Kāma with his third eye after Kāma shoots him.",
+   "source": "Kumārasambhava; Purāṇas",
+   "date": "fourth century onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Kāma’s restoration",
+   "note": "Śiva later relents or permits Kāma to continue bodiless.",
+   "source": "Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rati",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kāma’s restoration",
+   "note": "Rati pleads with Śiva for Kāma’s restoration.",
+   "source": "Purāṇic and literary versions",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Kārttikeya",
+    "Murukaṉ"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Śiva’s fiery seed produces Skanda through varying divine intermediaries.",
+   "source": "Mahābhārata, Purāṇas, Kumārasambhava",
+   "date": "ancient to early medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some texts give Śiva a direct generative role in Gaṇeśa’s birth.",
+   "source": "Purāṇas",
+   "date": "later first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gaṇeśa’s beheading",
+   "note": "Śiva beheads Pārvatī’s guardian after combat at her doorway.",
+   "source": "Purāṇas",
+   "date": "later first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Gaṇeśa’s restoration",
+   "note": "Śiva restores Gaṇeśa with an elephant head and grants leadership of the gaṇas.",
+   "source": "Purāṇas",
+   "date": "later first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṅgā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some traditions classify the river goddess Gaṅgā as Śiva’s co-wife.",
+   "source": "Purāṇic traditions",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṅgā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Descent of Gaṅgā",
+   "note": "Śiva catches and restrains Gaṅgā in his hair before releasing her.",
+   "source": "Rāmāyaṇa 1.42–44",
+   "date": "c. 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhagīratha",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Descent of Gaṅgā",
+   "note": "Śiva assists Bhagīratha by catching Gaṅgā’s destructive fall.",
+   "source": "Rāmāyaṇa 1.42–44",
+   "date": "c. 400 BCE–300 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth of Skanda",
+   "note": "Agni carries, or proves unable to contain, Śiva’s fiery seed.",
+   "source": "Epics and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Destruction of Tripura",
+   "note": "Agni participates as a component of Śiva’s cosmic Tripura weapon.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine appeals and battles",
+   "note": "Indra joins appeals to Śiva and receives his aid.",
+   "source": "Epics and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Conflicts with Indra",
+   "note": "Śiva conflicts with Indra or opposes him while protecting devotees.",
+   "source": "Epics and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Kirātārjunīya",
+   "note": "Disguised as a Kirāta hunter, Śiva fights Arjuna over a slain boar.",
+   "source": "Mahābhārata, Vana-parvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arjuna",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Kirātārjunīya",
+   "note": "Śiva reveals himself and awards Arjuna the Pāśupata weapon.",
+   "source": "Mahābhārata, Vana-parvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Kṛṣṇa’s worship of Śiva",
+   "note": "Śiva grants boons to Kṛṣṇa after receiving his worship.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle for Bāṇa",
+   "note": "Śiva fights Kṛṣṇa while defending his devotee Bāṇa.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement after Bāṇa’s battle",
+   "note": "Śiva and Kṛṣṇa reconcile after their battle over Bāṇa.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bāṇāsura",
+   "other_aliases": [
+    "Bāṇa"
+   ],
+   "kind": "allied",
+   "myth": "Battle for Bāṇa",
+   "note": "Śiva protects his devotee Bāṇa against Kṛṣṇa and accepts the settlement.",
+   "source": "Harivaṃśa; Bhāgavata Purāṇa 10",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Rāvaṇa lifts Kailāsa",
+   "note": "Śiva pins Rāvaṇa beneath Kailāsa with his toe.",
+   "source": "Epic-Purāṇic cycle",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Rāvaṇa’s penance and music",
+   "note": "Śiva releases Rāvaṇa and rewards his praise, penance, and music.",
+   "source": "Epic-Purāṇic cycle",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andhaka",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One genealogy generates Andhaka from Śiva’s sweat.",
+   "source": "Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Andhaka",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying of Andhaka",
+   "note": "Śiva impales or kills Andhaka after the demon desires Pārvatī.",
+   "source": "Matsya, Vāmana, Skanda Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Andhaka",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Conversion of Andhaka",
+   "note": "Some versions convert the defeated Andhaka into Śiva’s devotee or gaṇa.",
+   "source": "Purāṇic variants",
+   "date": "first millennium CE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tripura’s asuras",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Tripurāntaka",
+   "note": "Śiva destroys the asuras’ three aligned cities with one cosmic shot.",
+   "source": "Mahābhārata and Purāṇas",
+   "date": "early centuries CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jalandhara",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Slaying of Jalandhara",
+   "note": "Śiva fights and kills Jalandhara.",
+   "source": "Padma, Skanda, Śiva Purāṇas",
+   "date": "medieval strata",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Narasimha",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Śarabha subdues Narasimha",
+   "note": "Some Śaiva texts make Śiva as Śarabha subdue Viṣṇu’s Narasimha.",
+   "source": "Later Purāṇas and Tantras",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mohinī",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Śiva encounters Mohinī",
+   "note": "Śiva becomes desirous upon seeing Viṣṇu’s female form Mohinī.",
+   "source": "Bhāgavata Purāṇa 8",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ayyappa",
+   "other_aliases": [
+    "Hariharaputra"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth from Śiva and Mohinī",
+   "note": "Southern traditions make Ayyappa the child of Śiva and Mohinī.",
+   "source": "Later southern traditions",
+   "date": "medieval onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dance competition",
+   "note": "Śiva and Kālī compete in dance in Tamil and other traditions.",
+   "source": "Purāṇas and Tamil traditions",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Battlefield cooperation",
+   "note": "Śiva and Kālī cooperate in battlefield narratives.",
+   "source": "Purāṇas and Śākta Tantras",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Śiva-Kālī theological identity",
+   "note": "Some Śākta traditions express theological identity between Śiva and Kālī.",
+   "source": "Śākta Tantras",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Purāṇic traditions treat Durgā as Śiva’s wife or power.",
+   "source": "Purāṇic and Śākta corpora",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Śiva as Durgā’s incorporated power",
+   "note": "Śākta theology may make independent supreme Durgā incorporate Śiva.",
+   "source": "Śākta corpora",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Emanation of Bhairava",
+   "note": "Bhairava emerges from Śiva as a terrible guardian and decapitator of Brahmā.",
+   "source": "Purāṇas and Tantras",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bhairava is treated both as Śiva himself and as his emanation.",
+   "source": "Purāṇas and Tantras",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nandī",
+   "other_aliases": [
+    "Nandin"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "Nandī serves Śiva as mount, gatekeeper, disciple, and transmitter.",
+   "source": "Purāṇas and Āgamas",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apasmāra",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Naṭarāja’s dance",
+   "note": "Śiva dances upon the dwarf embodying forgetfulness or ignorance.",
+   "source": "Āgamic and iconographic tradition",
+   "date": "early medieval onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mārkaṇḍeya",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue of Mārkaṇḍeya",
+   "note": "Śiva protects the boy devotee Mārkaṇḍeya from Death.",
+   "source": "Purāṇic and southern temple cycles",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yama",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "fought",
+   "myth": "Rescue of Mārkaṇḍeya",
+   "note": "Śiva strikes or restrains Yama while protecting Mārkaṇḍeya.",
+   "source": "Purāṇic and southern temple cycles",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Candra",
+   "other_aliases": [
+    "Soma"
+   ],
+   "kind": "rescued",
+   "myth": "Cure of the waning moon",
+   "note": "Śiva cures the moon’s waning and receives him upon his head.",
+   "source": "Purāṇic pilgrimage traditions",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "other": "Buddha",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hide-and-seek with Buddha",
+   "note": "A Thai narrative presents Śiva playing hide-and-seek with Buddha.",
+   "source": "Thai relief and narrative",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oēšo",
+   "other_aliases": [
+    "Wēś"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Kushan Oēšo combines an Iranian name with major Śaiva visual attributes.",
+   "source": "Kushan coinage",
+   "date": "first–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Batara Guru",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Indonesian traditions identify Batara Guru with Śiva while reshaping him locally.",
+   "source": "Old Javanese and Balinese traditions",
+   "date": "fifth century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aśokasundarī",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Particular later traditions name Aśokasundarī as Śiva’s child.",
+   "source": "Later regional traditions",
+   "date": "medieval onward",
+   "tier": "late_accretion"
+  }
+ ]
+}

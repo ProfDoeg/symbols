@@ -1,0 +1,311 @@
+{
+ "subject": "scylla_and_charybdis",
+ "relations": [
+  {
+   "other": "Crataeis",
+   "other_aliases": [
+    "Krataiïs"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is her daughter; Circe advises invoking her against another attack.",
+   "source": "Odyssey 12.124–26",
+   "date": "late 8th/early 7th c. BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of Hecate and Phorbas.",
+   "source": "Megalai Ehoiai fragment 262",
+   "date": "probably Archaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phorbas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of Phorbas and Hecate.",
+   "source": "Megalai Ehoiai fragment 262",
+   "date": "probably Archaic",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of Hecate and Phorkys.",
+   "source": "Acusilaus fragment",
+   "date": "late 6th/early 5th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phorkys",
+   "other_aliases": [
+    "Phorkos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of Phorkys and Hecate.",
+   "source": "Acusilaus fragment",
+   "date": "late 6th/early 5th c. BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lamia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is reportedly named as Lamia's daughter.",
+   "source": "Stesichorus reported by scholia",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [
+    "Crataeis"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of night-wandering Hecate, identified here as Crataeis.",
+   "source": "Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phorkys",
+   "other_aliases": [
+    "Phorkos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is the daughter of Phorkys and Hecate or Crataeis.",
+   "source": "Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Trienus",
+   "other_aliases": [
+    "Trienos"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla's uncertain father is given as Trienus, possibly a corrupted reading.",
+   "source": "Pseudo-Apollodorus Epitome 7",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phorkos",
+   "other_aliases": [
+    "Phorkys"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla's father is alternatively given as Phorkos.",
+   "source": "Pseudo-Apollodorus Epitome 7",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is assigned Triton as an alternative father.",
+   "source": "Homeric scholia",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tyrrhenus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is assigned Tyrrhenus as an alternative father.",
+   "source": "Homeric scholia",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is assigned Poseidon as an alternative father.",
+   "source": "Homeric scholia",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is listed as Typhon's daughter.",
+   "source": "Hyginus Fabulae",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Scylla is elsewhere listed as the daughter of Echidna and Typhon.",
+   "source": "Hyginus Fabulae",
+   "date": "1st–2nd c. CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Glaucus",
+   "other_aliases": [],
+   "kind": "seduced_by",
+   "myth": "Glaucus courts Scylla",
+   "note": "Glaucus desires the maiden Scylla, but she rejects him.",
+   "source": "Ovid Metamorphoses 13–14",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Circe transforms Scylla",
+   "note": "Jealous Circe poisons Scylla's inlet, transforming her lower body into barking dogs.",
+   "source": "Ovid Metamorphoses 14",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Circe transforms Scylla",
+   "note": "Circe's transformative herbs and incantations are learned from or associated with Hecate.",
+   "source": "Ovid Metamorphoses 14",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Scylla steals Geryon's cattle",
+   "note": "Scylla takes one of the cattle Heracles seized from Geryon.",
+   "source": "Dionysius of Samos fragment 12",
+   "date": "Hellenistic or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Heracles kills Scylla",
+   "note": "Heracles kills or dismembers Scylla after she takes one of Geryon's cattle.",
+   "source": "Dionysius fragment 12 and scholia",
+   "date": "Hellenistic or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phorkys",
+   "other_aliases": [
+    "Phorkos"
+   ],
+   "kind": "rescued_by",
+   "myth": "Phorkys restores Scylla",
+   "note": "Phorkys reportedly restores Scylla after Heracles kills her.",
+   "source": "Dionysius fragment 12 and scholia",
+   "date": "Hellenistic or earlier",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Charybdis is the daughter of Poseidon.",
+   "source": "Homeric scholia and Servius",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Charybdis is the daughter of Gaia and Poseidon.",
+   "source": "Homeric scholia and Servius",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Charybdis floods land",
+   "note": "Charybdis inundates land on Poseidon's behalf.",
+   "source": "Scholiastic tradition",
+   "date": "date not given",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Charybdis takes Heracles' cattle",
+   "note": "Charybdis steals or eats cattle Heracles is transporting from Geryon.",
+   "source": "Servius and scholastic tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Zeus casts Charybdis into sea",
+   "note": "Zeus strikes or hurls Charybdis into the sea for theft, voracity, or flooding.",
+   "source": "Servius and scholastic tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Argonauts pass the monsters",
+   "note": "Hera orders Thetis to prevent the Argonauts from falling victim to the monsters.",
+   "source": "Apollonius Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "The Argonauts pass the monsters",
+   "note": "Thetis guides the Argo safely through the monsters' zone, thwarting their danger.",
+   "source": "Apollonius Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Nereids",
+   "other_aliases": [
+    "Nereid sisters"
+   ],
+   "kind": "contest",
+   "myth": "The Argonauts pass the monsters",
+   "note": "The Nereids help Thetis carry or guide the Argo safely past the monsters.",
+   "source": "Apollonius Argonautica 4",
+   "date": "3rd c. BCE",
+   "tier": "canonical"
+  }
+ ]
+}

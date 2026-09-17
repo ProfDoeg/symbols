@@ -1,0 +1,633 @@
+{
+ "subject": "aeolus",
+ "relations": [
+  {
+   "other": "Hippotas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Homer identifies Aeolus as the son or descendant of Hippotas.",
+   "source": "Homer, Odyssey 10.2",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Cronion",
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Appointment as steward of the winds",
+   "note": "Zeus appoints Aeolus to still or raise the winds.",
+   "source": "Homer, Odyssey 10.21–22",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Cronion",
+    "Jupiter"
+   ],
+   "kind": "served",
+   "myth": "Cosmic imprisonment of the winds",
+   "note": "Jupiter establishes Aeolus as subordinate king over the imprisoned winds.",
+   "source": "Virgil, Aeneid 1.58–64",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [
+    "west wind"
+   ],
+   "kind": "other",
+   "myth": "Odysseus receives the winds",
+   "note": "Aeolus permits Zephyrus alone to carry Odysseus toward Ithaca.",
+   "source": "Homer, Odyssey 10.25–26",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Anemoi",
+   "other_aliases": [
+    "the winds",
+    "Venti"
+   ],
+   "kind": "other",
+   "myth": "Confinement and command of the winds",
+   "note": "Aeolus binds, releases, stills, or excites the collective winds.",
+   "source": "Homer, Odyssey 10",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "The bag of winds",
+   "note": "Aeolus gives Odysseus an oxhide container holding the adverse winds.",
+   "source": "Homer, Odyssey 10.17–27",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Odysseus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The first departure from Aeolia",
+   "note": "Aeolus aids Odysseus once but refuses renewed help after his return.",
+   "source": "Homer, Odyssey 10.17–76",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [
+    "Thaumantias"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Iris is called Aeolus Hippotades' cousin; the genealogy is unexplained.",
+   "source": "Stesichorus fr. 222B",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hellen",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Aeolian ancestor Aeolus is a son of Hellen.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orseis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The nymph Orseis is mother of the Aeolian ancestor Aeolus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dorus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dorus and Aeolus are sons of Hellen and Orseis.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Xuthus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Xuthus and Aeolus are sons of Hellen and Orseis.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enarete",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Enarete is the wife of Aeolus son of Hellen.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cretheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cretheus is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sisyphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sisyphus is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athamas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Athamas is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Salmoneus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Salmoneus is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Deion is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Magnes",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Magnes is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perieres",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Perieres is listed among the sons of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Canace",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Canace is listed as a daughter of Aeolus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Canace",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Canace and Macareus",
+   "note": "Aeolus sends Canace a sword, effectively commanding her suicide.",
+   "source": "Euripides, Aeolus fragments",
+   "date": "later fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcyone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcyone is listed as a daughter of Aeolus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcyone",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The halcyon days",
+   "note": "Aeolus restrains the winds for his transformed daughter and Ceyx.",
+   "source": "Ovid, Metamorphoses 11.745–748",
+   "date": "turn of the era",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceyx",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The halcyon days",
+   "note": "Aeolus calms the winds while Ceyx and Alcyone nest as birds.",
+   "source": "Ovid, Metamorphoses 11.745–748",
+   "date": "turn of the era",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peisidice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Peisidice is listed among the daughters of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calyce",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calyce is listed among the daughters of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Perimede",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Perimede is listed among the daughters of Aeolus and Enarete.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.7.3",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Macareus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tragic and Roman tradition makes Macareus a son of Aeolus.",
+   "source": "Euripides, Aeolus fragments",
+   "date": "later fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A regional Aeolus is the son of Poseidon and Arne.",
+   "source": "Diodorus, Library 4.67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arne",
+   "other_aliases": [
+    "Melanippe"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Arne, also called Melanippe, bears Aeolus to Poseidon.",
+   "source": "Diodorus, Library 4.67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Boeotus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Aeolus son of Poseidon is the twin brother of Boeotus.",
+   "source": "Diodorus, Library 4.67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyane",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The Liparian Aeolus marries Cyane, daughter of Liparus.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Liparus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Aeolus succeeds Liparus at Lipara",
+   "note": "Aeolus marries Liparus' daughter, succeeds him, and grants him territory.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astyochus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Astyochus is one of Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Xuthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Xuthus is one of the Liparian Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Androcles",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Androcles is one of Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pheraemon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pheraemon is one of Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Jocastus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Jocastus is one of Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agathyrnus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Agathyrnus is one of Aeolus' six colonizing sons.",
+   "source": "Diodorus, Library 5.7–8",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Juno's storm against Aeneas",
+   "note": "Aeolus accepts Juno's petition and releases a storm against the Trojans.",
+   "source": "Virgil, Aeneid 1.64–86",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Juno's patronage of Aeolus",
+   "note": "Juno grants Aeolus kingdom, sceptre, divine access, and banquet privileges.",
+   "source": "Virgil, Aeneid 1.76–80",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deiopea",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Juno's bargain with Aeolus",
+   "note": "Juno promises Deiopea to Aeolus as wife, but no marriage follows.",
+   "source": "Virgil, Aeneid 1.71–75",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurus",
+   "other_aliases": [
+    "east wind",
+    "southeast wind"
+   ],
+   "kind": "served_by",
+   "myth": "Storm against Aeneas",
+   "note": "Aeolus releases Eurus from confinement to attack Aeneas' fleet.",
+   "source": "Virgil, Aeneid 1.81–86",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Notus",
+   "other_aliases": [
+    "south wind"
+   ],
+   "kind": "served_by",
+   "myth": "Storm against Aeneas",
+   "note": "Aeolus releases Notus from confinement to attack Aeneas' fleet.",
+   "source": "Virgil, Aeneid 1.81–86",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Africus",
+   "other_aliases": [
+    "southwest wind"
+   ],
+   "kind": "served_by",
+   "myth": "Storm against Aeneas",
+   "note": "Aeolus releases Africus to help raise the storm against Aeneas.",
+   "source": "Virgil, Aeneid 1.85",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Storm against Aeneas",
+   "note": "At Juno's request, Aeolus unleashes winds against Aeneas' Trojan fleet.",
+   "source": "Virgil, Aeneid 1.81–123",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [
+    "Neptune"
+   ],
+   "kind": "contest",
+   "myth": "Neptune calms Aeolus' storm",
+   "note": "Neptune rebukes Aeolus' winds and restores order within his marine jurisdiction.",
+   "source": "Virgil, Aeneid 1.124–156",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "shared_myth",
+   "myth": "Liparian civic offerings",
+   "note": "Lipara's prytaneion held dedications belonging jointly to Aeolus and Hephaestus.",
+   "source": "Diodorus, Library 20.101",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Periphas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Periphas among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Agenor among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euchenor",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Euchenor among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clymenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Clymenus among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Xuthus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Xuthus among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Macareus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes includes Macareus among the named children of Homeric Aeolus.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Clymene among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Callithyia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Callithyia among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eurygone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Eurygone among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lysidice",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes names Lysidice among Aeolus' twelve intermarried children.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Canace",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Tzetzes includes Canace among the named children of Homeric Aeolus.",
+   "source": "Tzetzes and Homeric scholia",
+   "date": "twelfth century CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

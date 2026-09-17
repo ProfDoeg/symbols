@@ -1,0 +1,429 @@
+{
+ "subject": "atlas",
+ "relations": [
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Iapetus is Atlas's father in both principal Titan genealogies.",
+   "source": "Hesiod, Theogony 507–510",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Clymene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Clymene is Atlas's mother in Hesiod's genealogy.",
+   "source": "Hesiod, Theogony 507–510",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Asia replaces Clymene as Atlas's mother in this later genealogy.",
+   "source": "Pseudo-Apollodorus 1.2.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Prometheus is Atlas's brother and laments his western burden.",
+   "source": "Prometheus Bound 347–350",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Epimetheus is Atlas's brother in the Iapetid genealogy.",
+   "source": "Hesiod, Theogony 511",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Menoetius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Menoetius is Atlas's brother in the Iapetid genealogy.",
+   "source": "Hesiod, Theogony 514–520",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hesperus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Diodorus makes Hesperus Atlas's brother and father-in-law.",
+   "source": "Diodorus Siculus 4.27",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pleione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pleione is Atlas's consort and mother of the seven Pleiades.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aethra",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogical traditions substitute Aethra for Pleione as mother of Atlas's daughters.",
+   "source": "Later scholia and mythography",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hesperis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hesperis and Atlas are parents of seven Hesperides in Diodorus.",
+   "source": "Diodorus Siculus 4.27",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Calypso is Atlas's daughter; her mother is unnamed.",
+   "source": "Homer, Odyssey 1.52–54",
+   "date": "late eighth/early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Pleiades",
+   "other_aliases": [
+    "Atlantides"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The Pleiades are collectively identified as Atlas's daughters.",
+   "source": "Hesiod, Works and Days 383–387",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Maia, mother of Hermes, is a daughter of Atlas.",
+   "source": "Homeric Hymn to Hermes 1–12",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Electra",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Electra is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Taygete",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Taygete is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Alcyone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcyone is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Celaeno",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Celaeno is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sterope",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sterope is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Merope",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Merope is one of Atlas and Pleione's seven daughters.",
+   "source": "Pseudo-Apollodorus 3.10.1",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Hyades",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later astral genealogy makes the Hyades daughters of Atlas and an Oceanid.",
+   "source": "Hyginus, Fabulae 192",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hyas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyas is Atlas's son whose death prompts the Hyades' mourning.",
+   "source": "Hyginus, Astronomica 2.21",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Atlas bears heaven beside the Hesperides",
+   "note": "Atlas stands before the Hesperides at the world's western limit.",
+   "source": "Hesiod, Theogony 517–520",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Diodorus makes the seven Hesperides daughters of Atlas and Hesperis.",
+   "source": "Diodorus Siculus 4.27",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Hesperides",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Atlas obtains the golden apples",
+   "note": "The Hesperides give Atlas the apples that he carries to Heracles.",
+   "source": "Pseudo-Apollodorus 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sporadic genealogical traditions count Dione among Atlas's daughters.",
+   "source": "Sporadic genealogical sources",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Maera",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sporadic genealogical traditions count Maera among Atlas's daughters.",
+   "source": "Sporadic genealogical sources",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Atlas is Hermes's maternal grandfather through Maia.",
+   "source": "Homeric Hymn to Hermes 1–12",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dardanus",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Atlas is Dardanus's ancestor through his daughter Electra.",
+   "source": "Virgil, Aeneid 8.134–141",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Niobe claims the Atlantid Dione as her mother, making Atlas her ancestor.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "punished_by",
+   "myth": "Zeus assigns Atlas the burden of heaven",
+   "note": "Zeus allots Atlas the necessity of supporting the broad heaven.",
+   "source": "Hesiod, Theogony 517–520",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "fought",
+   "myth": "Atlas leads the renewed Titan revolt",
+   "note": "Atlas leads the Titans against Jupiter in an attempted restoration of Saturn.",
+   "source": "Hyginus, Fabulae 150",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "punished_by",
+   "myth": "Jupiter punishes the Titan revolt",
+   "note": "After defeating Atlas's revolt, Jupiter places heaven upon him.",
+   "source": "Hyginus, Fabulae 150",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "allied",
+   "myth": "Titans attempt to restore Saturn",
+   "note": "Atlas leads the Titans in an attempt to restore Saturn's rule.",
+   "source": "Hyginus, Fabulae 150",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [
+    "Titan collective"
+   ],
+   "kind": "allied",
+   "myth": "Atlas leads the Titan revolt",
+   "note": "Atlas commands the Titans in Hyginus's renewed revolt against Jupiter.",
+   "source": "Hyginus, Fabulae 150",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Atlas fetches the Hesperidean apples",
+   "note": "Heracles holds heaven temporarily while Atlas obtains three golden apples.",
+   "source": "Pseudo-Apollodorus 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Heracles tricks Atlas into resuming heaven",
+   "note": "Heracles requests a brief exchange, then leaves after Atlas retakes the burden.",
+   "source": "Pseudo-Apollodorus 2.5.11",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Atlas teaches Heracles astronomy",
+   "note": "Diodorus rationalizes their exchange as Atlas imparting astronomical knowledge to Heracles.",
+   "source": "Diodorus Siculus 3.60–61",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Athena assists beneath Atlas's returning sky",
+   "note": "Athena helps Heracles support heaven while Atlas approaches with the apples.",
+   "source": "Olympia east metope 4",
+   "date": "c. 470–456 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Perseus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Perseus petrifies Atlas into a mountain",
+   "note": "After Atlas refuses hospitality, Perseus exposes Medusa's head and turns him into stone.",
+   "source": "Ovid, Metamorphoses 4.604–662",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Medusa's severed head petrifies Atlas",
+   "note": "The petrifying power of Medusa's severed head transforms Atlas into a mountain.",
+   "source": "Ovid, Metamorphoses 4.655–662",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Themis foretells theft from Atlas's tree",
+   "note": "Themis warns Atlas that a son of Jupiter will despoil his golden tree.",
+   "source": "Ovid, Metamorphoses 4.642–647",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  }
+ ]
+}

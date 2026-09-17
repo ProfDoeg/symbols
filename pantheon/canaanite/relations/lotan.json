@@ -1,0 +1,117 @@
+{
+ "subject": "lotan",
+ "relations": [
+  {
+   "other": "Anat",
+   "other_aliases": [
+    "ʿAnatu"
+   ],
+   "kind": "killed_by",
+   "myth": "Anat’s retrospective dragon victory",
+   "note": "Anat claims she destroyed the serpent complex that may include Lotan.",
+   "source": "KTU 1.3 III 38–42",
+   "date": "Late Bronze Age",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Baʿlu",
+    "Haddu"
+   ],
+   "kind": "killed_by",
+   "myth": "Baal’s victory over Lotan",
+   "note": "Mot credits Baal with smiting Lotan and finishing the twisting seven-headed foe.",
+   "source": "KTU 1.5 I 1–3",
+   "date": "Late Bronze Age",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Baʿlu",
+    "Haddu"
+   ],
+   "kind": "punished_by",
+   "myth": "Protective incantation against hostile serpents",
+   "note": "A disputed reconstruction presents Baal expelling Lotan or its associated hostile force.",
+   "source": "KTU 1.82",
+   "date": "Late Bronze Age",
+   "tier": "modern"
+  },
+  {
+   "other": "Yam",
+   "other_aliases": [
+    "Yammu",
+    "Sea"
+   ],
+   "kind": "allied",
+   "myth": "Anat’s victory catalogue",
+   "note": "Lotan is affiliated with Yam’s side, though identity or subordination remains uncertain.",
+   "source": "KTU 1.3 III",
+   "date": "Late Bronze Age",
+   "tier": "modern"
+  },
+  {
+   "other": "Nahar",
+   "other_aliases": [
+    "Naharu",
+    "River"
+   ],
+   "kind": "shared_myth",
+   "myth": "Anat’s victory catalogue",
+   "note": "Nahar appears beside Lotan and related sea-dragon adversaries; no separate encounter survives.",
+   "source": "KTU 1.3 III",
+   "date": "Late Bronze Age",
+   "tier": "attested"
+  },
+  {
+   "other": "Tunnan",
+   "other_aliases": [
+    "Tunnanu"
+   ],
+   "kind": "identified_with",
+   "myth": "Serpent and dragon victory catalogue",
+   "note": "Tunnan may be another name for Lotan, though it may instead be distinct.",
+   "source": "KTU 1.3 III",
+   "date": "Late Bronze Age",
+   "tier": "modern"
+  },
+  {
+   "other": "Mot",
+   "other_aliases": [
+    "Môtu",
+    "Death"
+   ],
+   "kind": "other",
+   "myth": "Mot recalls Baal’s dragon victory",
+   "note": "Mot invokes Lotan’s defeat while threatening Baal but never encounters Lotan directly.",
+   "source": "KTU 1.5 I",
+   "date": "Late Bronze Age",
+   "tier": "attested"
+  },
+  {
+   "other": "Leviathan",
+   "other_aliases": [
+    "liwyātān",
+    "Λευιάθαν"
+   ],
+   "kind": "identified_with",
+   "myth": "Biblical transformation of the Ugaritic serpent",
+   "note": "Leviathan preserves Lotan’s name and serpent formula but has an independent later history.",
+   "source": "Isaiah 27:1",
+   "date": "First millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Yahweh",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Yahweh defeats the biblical Leviathan",
+   "note": "Yahweh assumes the dragon-slayer role against Leviathan, Lotan’s later Hebrew heir.",
+   "source": "Psalm 74:13–14; Isaiah 27:1",
+   "date": "First millennium BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

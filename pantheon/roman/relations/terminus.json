@@ -1,0 +1,60 @@
+{
+ "subject": "terminus",
+ "relations": [
+  {
+   "other": "Jupiter Optimus Maximus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "contest",
+   "myth": "Terminus refuses removal for Jupiter’s Capitoline temple",
+   "note": "Terminus refuses exauguration and remains within Jupiter’s temple, signifying Rome’s immovable boundaries.",
+   "source": "Cato via Festus; Livy 1.55; Dionysius 3.69; Ovid Fasti 2",
+   "date": "2nd century BCE–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Terminalis",
+    "Zeus Horios"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Dionysius identifies or translates Terminus as Jupiter in his boundary-protecting function.",
+   "source": "Dionysius, Roman Antiquities 2.74",
+   "date": "late first century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juventas",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Both refuse removal from the Capitoline",
+   "note": "Their joint persistence foretells Rome’s enduring youth and fixed territory.",
+   "source": "Livy 5.54; Florus 1.1; Augustine City of God 4.23",
+   "date": "late first century BCE–fifth century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mars, Terminus, and Juventas refuse Jupiter",
+   "note": "Augustine’s variant adds Mars among the deities refusing to yield their Capitoline shrines.",
+   "source": "Augustine, City of God 4.23",
+   "date": "early fifth century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Janus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Varro assigns beginnings to Janus and endings to Terminus in a theological division.",
+   "source": "Varro via Augustine, City of God 7.7",
+   "date": "late Republican tradition",
+   "tier": "late_accretion"
+  }
+ ]
+}

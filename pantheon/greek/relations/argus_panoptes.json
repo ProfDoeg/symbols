@@ -1,0 +1,260 @@
+{
+ "subject": "argus_panoptes",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Argus is earthborn, with Gaia understood as his mother or source.",
+   "source": "Aeschylus, Suppliants 305",
+   "date": "probably 460s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Arestor",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "One genealogical tradition names Argus as Arestor’s son.",
+   "source": "Pherecydes, FGrHist 3 F 66–67",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mycene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A genealogical branch makes Mycene the mother of Argus.",
+   "source": "Pherecydes and scholastic testimonia",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Inachus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Genealogical scholarship alternatively makes Argus a son of Inachus.",
+   "source": "Asclepiades genealogical tradition",
+   "date": "date not given",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Argus",
+   "other_aliases": [
+    "eponymous king Argus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cercops reportedly makes the eponymous Argus a parent of Panoptes.",
+   "source": "Cercops fragment",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cercops reportedly names Ismene as a parent of Argus.",
+   "source": "Cercops fragment",
+   "date": "archaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ecbasus",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Pseudo-Apollodorus places Argus after Ecbasus in the Argive royal succession.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agenor",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Pseudo-Apollodorus places Argus within Agenor’s Argive royal line.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ismene",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Argus takes Ismene, daughter of Asopus, as his consort.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iasus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Argus and Ismene are the parents of Iasus.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Through his son Iasus, Argus is made Io’s grandfather.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.3",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "Custody of Io",
+   "note": "Hera appoints Argus to guard the cow-shaped Io.",
+   "source": "Aegimius fr. 5",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "transformed_by",
+   "myth": "Peacock’s eyes",
+   "note": "After his death, Hera places Argus’s extinguished eyes on her peacock.",
+   "source": "Ovid, Metamorphoses 1.722–724",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "other",
+   "myth": "Custody of Io",
+   "note": "Argus obstructs Zeus’s access to Io, prompting Zeus to send Hermes.",
+   "source": "Ovid, Metamorphoses 1.624–670",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "deceived_by",
+   "myth": "Disguised shepherd lulls Argus",
+   "note": "Hermes approaches in disguise and overcomes Argus’s vigilance with music and storytelling.",
+   "source": "Ovid, Metamorphoses 1.668–721",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "killed_by",
+   "myth": "Direct slaying of Argus",
+   "note": "Hermes kills Argus after Hera appoints him as Io’s guardian.",
+   "source": "Aeschylus, Suppliants 305",
+   "date": "probably 460s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "killed_by",
+   "myth": "Stoning of Argus",
+   "note": "In one early variant, Hermes kills Argus by striking him with stones.",
+   "source": "Pherecydes scholastic testimonia",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "killed_by",
+   "myth": "Sleep and decapitation",
+   "note": "Hermes closes every eye, then kills and decapitates the sleeping Argus.",
+   "source": "Ovid, Metamorphoses 1.713–721",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Mercury",
+    "Argeiphontes"
+   ],
+   "kind": "fought",
+   "myth": "Armed attack beside Io",
+   "note": "Archaic and classical vase paintings show Argus awake and armed against Hermes.",
+   "source": "British Museum black-figure amphora",
+   "date": "ca. 540–530 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Custody of Io",
+   "note": "Argus guards, confines, drives, and watches Io after her bovine transformation.",
+   "source": "Aeschylus, Suppliants 291–305",
+   "date": "probably 460s BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Killing of sleeping Echidna",
+   "note": "Argus catches the chthonic monster Echidna asleep and kills her.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Vengeance for Apis",
+   "note": "Argus avenges the murder of Apis.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.1.2",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Agares",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern occult websites equate Agares with Argus without historical evidence.",
+   "source": "modern occult websites",
+   "date": "twenty-first century",
+   "tier": "modern"
+  }
+ ]
+}

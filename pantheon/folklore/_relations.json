@@ -1,0 +1,571 @@
+{
+ "folder": "folklore",
+ "gods": [
+  "cthulhu",
+  "grendel",
+  "rumpelstiltskin",
+  "san_guinefort",
+  "tinker_bell"
+ ],
+ "relations": [],
+ "unresolved": {
+  "Beowulf": [
+   {
+    "stated_by": "grendel",
+    "kind": "fought",
+    "myth": "Beowulf wrestles Grendel in Heorot",
+    "note": "Grendel seizes Beowulf, but the hero overpowers him in unarmed combat.",
+    "source": "Beowulf, lines 702–836",
+    "date": "manuscript circa 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "grendel",
+    "kind": "killed_by",
+    "myth": "Grendel's fatal wounding at Heorot",
+    "note": "Beowulf tears away Grendel's arm, causing his mortal wound.",
+    "source": "Beowulf, lines 702–852",
+    "date": "manuscript circa 1000",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "grendel",
+    "kind": "other",
+    "myth": "Grendel's corpse is decapitated",
+    "note": "Beowulf finds Grendel's corpse underwater and cuts off its head.",
+    "source": "Beowulf, lines 1492–1650",
+    "date": "manuscript circa 1000",
+    "tier": "attested"
+   }
+  ],
+  "Cain": [
+   {
+    "stated_by": "grendel",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "Grendel belongs to the condemned monstrous lineage descended from Cain.",
+    "source": "Beowulf, lines 102–114",
+    "date": "manuscript circa 1000",
+    "tier": "attested"
+   }
+  ],
+  "Choronzon": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern occultists construct an identification based on transhuman and chaotic associations.",
+    "source": "Modern occult reception",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Cthylla": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "parent_of",
+    "myth": "Cthylla and dynastic survival",
+    "note": "Lumley made Cthylla Cthulhu's daughter and possible means of reincarnation.",
+    "source": "Brian Lumley's fiction",
+    "date": "post-Lovecraftian",
+    "tier": "late_accretion"
+   }
+  ],
+  "Elder Gods": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "punished_by",
+    "myth": "Derleth's cosmic rebellion",
+    "note": "Derleth's Elder Gods defeat and imprison Cthulhu with other rebellious Old Ones.",
+    "source": "Derleth's Mythos",
+    "date": "1940s–1960s",
+    "tier": "late_accretion"
+   }
+  ],
+  "Elder Things": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "fought",
+    "myth": "Prehistoric war for terrestrial territory",
+    "note": "Cthulhu's star-spawn wage war against the Elder Things for territory.",
+    "source": "At the Mountains of Madness",
+    "date": "1931/1936",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cthulhu",
+    "kind": "allied",
+    "myth": "Territorial settlement after the prehistoric war",
+    "note": "Their peoples reach a settlement dividing land and sea between them.",
+    "source": "At the Mountains of Madness",
+    "date": "1931/1936",
+    "tier": "canonical"
+   }
+  ],
+  "Fairy Mary": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "served",
+    "myth": "Pixie Hollow origin cycle",
+    "note": "Tinker Bell works under the supervising head of the tinker fairies.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "judged_by",
+    "myth": "Pixie Hollow origin cycle",
+    "note": "Fairy Mary initially doubts her, then recognizes her technical skill.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   }
+  ],
+  "Fawn": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "taught_by",
+    "myth": "Attempted talent reassignment",
+    "note": "The animal fairy helps test whether Tinker Bell has an animal talent.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "NeverBeast cycle",
+    "note": "Tinker Bell supports Fawn during the conflict concerning Gruff.",
+    "source": "Legend of the NeverBeast",
+    "date": "2015",
+    "tier": "modern"
+   }
+  ],
+  "Fireflyer": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "created_by",
+    "myth": "Return after apparent death",
+    "note": "Fireflyer wishes Tinker Bell back into existence after her apparent absence.",
+    "source": "Peter Pan in Scarlet",
+    "date": "2006",
+    "tier": "late_accretion"
+   }
+  ],
+  "Ghatanothoa": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "parent_of",
+    "myth": "The Xothic dynasty",
+    "note": "Carter's system makes Ghatanothoa a son of Cthulhu and Idh-Yaa.",
+    "source": "Carter's Xothic stories",
+    "date": "1970s",
+    "tier": "late_accretion"
+   }
+  ],
+  "Great Old Ones": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "served",
+    "myth": "",
+    "note": "Cthulhu is described as their great priest or leader.",
+    "source": "The Call of Cthulhu",
+    "date": "1926/1928",
+    "tier": "canonical"
+   }
+  ],
+  "Grendel's mother": [
+   {
+    "stated_by": "grendel",
+    "kind": "child_of",
+    "myth": "",
+    "note": "She is Grendel's unnamed mother and avenges his death.",
+    "source": "Beowulf, lines 1251–1650",
+    "date": "manuscript circa 1000",
+    "tier": "attested"
+   }
+  ],
+  "Gruff": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "NeverBeast cycle",
+    "note": "She supports the group that ultimately recognizes Gruff as Pixie Hollow’s protector.",
+    "source": "Legend of the NeverBeast",
+    "date": "2015",
+    "tier": "modern"
+   }
+  ],
+  "Hastur": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "contest",
+    "myth": "Elemental and cosmic rivalry",
+    "note": "Derlethian and game traditions sometimes position Hastur and Cthulhu as rivals.",
+    "source": "Derlethian and game traditions",
+    "date": "post-1937",
+    "tier": "late_accretion"
+   }
+  ],
+  "Him Who is not to be Named": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "shared_myth",
+    "myth": "Recorded nonhuman ritual",
+    "note": "The unnamed entity receives praise in the same ritual sequence as Cthulhu.",
+    "source": "The Whisperer in Darkness",
+    "date": "1930/1931",
+    "tier": "canonical"
+   }
+  ],
+  "Idh-Yaa": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "consort_of",
+    "myth": "The Xothic dynasty",
+    "note": "Carter made Idh-Yaa Cthulhu's consort and mother of their children.",
+    "source": "Carter's Xothic cycle",
+    "date": "1970s",
+    "tier": "late_accretion"
+   }
+  ],
+  "Iridessa": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "taught_by",
+    "myth": "Attempted talent reassignment",
+    "note": "The light fairy participates in her attempted talent reassignment.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Later Pixie Hollow adventures",
+    "note": "Iridessa joins Tinker Bell in later group missions.",
+    "source": "Disney Fairies films",
+    "date": "2008–2015",
+    "tier": "modern"
+   }
+  ],
+  "Kraken": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern interpreters compare or equate Cthulhu with Kraken traditions.",
+    "source": "Modern occult and fictional reception",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Mother Dove": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "shared_myth",
+    "myth": "Quest for Mother Dove’s egg",
+    "note": "Tinker Bell participates in the fairy community protected by Mother Dove’s egg.",
+    "source": "Fairy Dust and the Quest for the Egg",
+    "date": "2005",
+    "tier": "modern"
+   }
+  ],
+  "Nug": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Lovecraft's playful family tree makes Nug Cthulhu's immediate progenitor.",
+    "source": "Letter to James F. Morton",
+    "date": "27 April 1933",
+    "tier": "regional_variant"
+   }
+  ],
+  "Periwinkle": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "sibling_of",
+    "myth": "",
+    "note": "They are twins formed when the same baby’s laugh divided in two.",
+    "source": "Secret of the Wings",
+    "date": "2012",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Twin cycle",
+    "note": "The twins cooperate across the seasonal border to save Pixie Hollow.",
+    "source": "Secret of the Wings",
+    "date": "2012",
+    "tier": "modern"
+   }
+  ],
+  "Peter Pan": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "served",
+    "myth": "",
+    "note": "She acts as Peter’s fairy companion, scout, guide, and messenger.",
+    "source": "Peter and Wendy",
+    "date": "1911",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "rescued",
+    "myth": "Poison, sacrifice, and restoration by belief",
+    "note": "She drinks Peter’s poisoned medicine, preventing him from consuming it.",
+    "source": "Peter and Wendy, Chapter XIII",
+    "date": "1911",
+    "tier": "canonical"
+   }
+  ],
+  "Prilla": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "shared_myth",
+    "myth": "Prilla’s arrival and egg quest",
+    "note": "Tinker Bell participates in Fairy Haven during Prilla’s arrival and quest.",
+    "source": "Fairy Dust and the Quest for the Egg",
+    "date": "2005",
+    "tier": "modern"
+   }
+  ],
+  "Queen Clarion": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "judged_by",
+    "myth": "Pixie Hollow origin cycle",
+    "note": "Clarion welcomes her and presides as objects reveal her tinker talent.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   }
+  ],
+  "Rosetta": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "taught_by",
+    "myth": "Attempted talent reassignment",
+    "note": "The garden fairy attempts to teach her a nature talent.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Later Pixie Hollow adventures",
+    "note": "Rosetta becomes her friend and collaborator in group missions.",
+    "source": "Disney Fairies films",
+    "date": "2008–2015",
+    "tier": "modern"
+   }
+  ],
+  "Shub-Niggurath": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "shared_myth",
+    "myth": "Recorded nonhuman ritual",
+    "note": "Cthulhu and Shub-Niggurath receive praise within overlapping liturgical networks.",
+    "source": "The Whisperer in Darkness",
+    "date": "1930/1931",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cthulhu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The jocular family tree makes Shub-Niggurath Cthulhu's ancestor through Nug.",
+    "source": "Letter to James F. Morton",
+    "date": "27 April 1933",
+    "tier": "regional_variant"
+   }
+  ],
+  "Silvermist": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "taught_by",
+    "myth": "Attempted talent reassignment",
+    "note": "The water fairy participates in retraining her for a nature talent.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Later Pixie Hollow adventures",
+    "note": "Silvermist accompanies her as a friend on later missions.",
+    "source": "Disney Fairies films",
+    "date": "2008–2015",
+    "tier": "modern"
+   }
+  ],
+  "Tangaroa": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern interpreters equate Cthulhu with Tangaroa through marine resemblance.",
+    "source": "Modern occult and fictional reception",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Terence": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Pixie Hollow friendship",
+    "note": "The pixie-dust keeper befriends and assists Tinker Bell.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "contest",
+    "myth": "Moonstone cycle",
+    "note": "She quarrels with Terence over the moonstone before reconciling.",
+    "source": "The Lost Treasure",
+    "date": "2009",
+    "tier": "modern"
+   }
+  ],
+  "Tsathoggua": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "shared_myth",
+    "myth": "Recorded nonhuman ritual",
+    "note": "Tsathoggua is praised alongside Cthulhu without narrated alliance or combat.",
+    "source": "The Whisperer in Darkness",
+    "date": "1930/1931",
+    "tier": "canonical"
+   }
+  ],
+  "Vidia": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "deceived_by",
+    "myth": "Pixie Hollow origin cycle",
+    "note": "Vidia manipulates her into capturing thistles, causing a springtime catastrophe.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "contest",
+    "myth": "Pixie Hollow origin cycle",
+    "note": "The fast-flying fairy initially rivals, provokes, and undermines her.",
+    "source": "Tinker Bell",
+    "date": "2008",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Later Pixie Hollow adventures",
+    "note": "Her former rival becomes a recurring ally and member of her group.",
+    "source": "Disney Fairies sequels",
+    "date": "2009–2015",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "rescued",
+    "myth": "Human child cycle",
+    "note": "Tinker Bell and the other fairies rescue Vidia after her capture.",
+    "source": "The Great Fairy Rescue",
+    "date": "2010",
+    "tier": "modern"
+   }
+  ],
+  "Yog-Sothoth": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "other",
+    "myth": "The Necronomicon cousin passage",
+    "note": "Cthulhu is called cousin to an ambiguous plurality associated with Yog-Sothoth.",
+    "source": "The Dunwich Horror",
+    "date": "1928/1929",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "cthulhu",
+    "kind": "descendant_of",
+    "myth": "",
+    "note": "The jocular family tree makes Yog-Sothoth Cthulhu's ancestor through Nug.",
+    "source": "Letter to James F. Morton",
+    "date": "27 April 1933",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ythogtha": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "parent_of",
+    "myth": "The Xothic dynasty",
+    "note": "Carter created Ythogtha as a son of Cthulhu and Idh-Yaa.",
+    "source": "Carter's Xothic cycle",
+    "date": "1970s",
+    "tier": "late_accretion"
+   }
+  ],
+  "Zarina": [
+   {
+    "stated_by": "tinker_bell",
+    "kind": "fought",
+    "myth": "Pirate and talent-exchange cycle",
+    "note": "Tinker Bell opposes Zarina after her defection and theft of pixie dust.",
+    "source": "The Pirate Fairy",
+    "date": "2014",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "tinker_bell",
+    "kind": "allied",
+    "myth": "Pirate and talent-exchange cycle",
+    "note": "She helps reconcile Zarina with the fairy community after recovering the dust.",
+    "source": "The Pirate Fairy",
+    "date": "2014",
+    "tier": "modern"
+   }
+  ],
+  "Zoth-Ommog": [
+   {
+    "stated_by": "cthulhu",
+    "kind": "parent_of",
+    "myth": "The Xothic dynasty",
+    "note": "Carter created Zoth-Ommog as another son of Cthulhu and Idh-Yaa.",
+    "source": "Zoth-Ommog",
+    "date": "1976",
+    "tier": "late_accretion"
+   }
+  ],
+  "dragon": [
+   {
+    "stated_by": "grendel",
+    "kind": "taught_by",
+    "myth": "Grendel visits the philosophizing dragon",
+    "note": "The dragon debates metaphysics with Grendel and becomes his philosophical teacher.",
+    "source": "John Gardner, Grendel",
+    "date": "1971",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "grendel",
+    "kind": "sibling_of",
+    "myth": "Zemeckis's invented dynastic cycle",
+    "note": "Grendel and the dragon are maternal half-brothers fathered by Hrothgar and Beowulf.",
+    "source": "Zemeckis's Beowulf",
+    "date": "2007",
+    "tier": "modern"
+   }
+  ]
+ }
+}

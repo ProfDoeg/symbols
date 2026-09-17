@@ -1,0 +1,20 @@
+{
+ "_comment": "Manual name -> slug fixes for tools/build_matrix.py, per folder, for names the exact and close-spelling matching cannot resolve. Add as the unresolved lists show them.",
+ "abrahamic": {
+  "Shemihazah": "shemhazai",
+  "Semjaza": "shemhazai"
+ },
+ "aztec": {
+  "Tzitzimitl": "tzitzimime",
+  "Nanahuatl": "nanahuatzin",
+  "Macuilxochitl": "xochipilli",
+  "Ome Tochtli": "centzon_totochtin",
+  "Ometochtli": "centzon_totochtin",
+  "Tonacatecuhtli": "ometeotl",
+  "Tonacacihuatl": "ometeotl",
+  "Tonacateuctli": "ometeotl",
+  "Camaxtli": "mixcoatl",
+  "Ce Acatl Topiltzin Quetzalcoatl": "quetzalcoatl",
+  "Cinteotl": "centeotl"
+ }
+}

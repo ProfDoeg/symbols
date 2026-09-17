@@ -1,0 +1,304 @@
+{
+ "subject": "geb",
+ "relations": [
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Atum grants Geb his heritage and the Ennead",
+   "note": "Atum invests Geb with divine inheritance and authority over the Ennead.",
+   "source": "Pyramid Text 592 §§1617–1619",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Geb is explicitly called Shu’s eldest son.",
+   "source": "Pyramid Text 592",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Shu separates earth from sky",
+   "note": "Shu separates Geb from Nut by raising her above the earth.",
+   "source": "Coffin Texts and later cosmographies",
+   "date": "c. 2055 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Geb usurps Shu and commits a dynastic offense",
+   "note": "Late texts accuse Geb of displacing or offending Shu through Tefnut.",
+   "source": "El-Arish naos and mythological manuals",
+   "date": "Fourth century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Tefnut is Geb’s mother in the Heliopolitan genealogy.",
+   "source": "Enneadic pharaonic texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Geb lies with his mother after displacing Shu",
+   "note": "Late disputed traditions describe a sexual offense, possibly coercive, involving Geb and Tefnut.",
+   "source": "El-Arish naos and mythological manuals",
+   "date": "Fourth century BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Nut is Geb’s sister in the Heliopolitan divine genealogy.",
+   "source": "Pyramid Texts and Coffin Texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [
+    "Rhea"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Geb and Nut are sexual partners and parents of the Osirian generation.",
+   "source": "Pyramid Texts and later cosmographies",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Osiris is a son of Geb and Nut.",
+   "source": "Pyramid Texts",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Geb heals and protects the dead Osiris",
+   "note": "Mortuary texts ask Geb to heal, protect, and sustain his son Osiris.",
+   "source": "Pyramid Text 592",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Geb’s throne passes to Osiris",
+   "note": "Divine kingship and legitimate sovereignty pass from Geb to Osiris.",
+   "source": "Pyramid Texts and Turin Royal Canon",
+   "date": "Old Kingdom–Ramesside",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Isis is a daughter of Geb and Nut.",
+   "source": "Enneadic pharaonic texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Seth is a son of Geb and Nut.",
+   "source": "Enneadic pharaonic texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "judged",
+   "myth": "Geb adjudicates Seth’s claim against Horus",
+   "note": "Geb initially assigns Seth part of Egypt, then awards unified rule to Horus.",
+   "source": "Shabaka Stone",
+   "date": "c. 710–690 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [
+    "Typhon"
+   ],
+   "kind": "gift",
+   "myth": "Geb assigns Upper Egypt to Seth",
+   "note": "In an initial territorial settlement, Geb gives Seth one portion of Egypt.",
+   "source": "Shabaka Stone",
+   "date": "c. 710–690 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nephthys is a daughter of Geb and Nut.",
+   "source": "Enneadic pharaonic texts",
+   "date": "Old Kingdom onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Geb is Horus’s grandfather through Osiris.",
+   "source": "Osirian royal genealogy",
+   "date": "Old Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Geb adjudicates Horus’s claim against Seth",
+   "note": "Geb recognizes Horus as Osiris’s rightful heir over Seth.",
+   "source": "Shabaka Stone",
+   "date": "c. 710–690 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus son of Isis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Geb grants Horus the united land",
+   "note": "Geb awards Horus the whole of Egypt and confirms his inherited throne.",
+   "source": "Shabaka Stone",
+   "date": "c. 710–690 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus the Elder",
+   "other_aliases": [
+    "Haroeris",
+    "Arueris"
+   ],
+   "kind": "parent_of",
+   "myth": "Arueris is born on an intercalary day",
+   "note": "Plutarch includes Arueris among the five children of Geb and Nut.",
+   "source": "Plutarch, De Iside et Osiride §§12–13",
+   "date": "c. 100 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [
+    "Re"
+   ],
+   "kind": "served",
+   "myth": "Ra charges Geb with terrestrial snakes",
+   "note": "Ra consults or commissions Geb concerning snakes arising from the earth.",
+   "source": "Book of the Divine Cow",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Ptah creates the gods through heart and tongue",
+   "note": "Memphite theology places Geb and the Ennead within Ptah’s creative activity.",
+   "source": "Shabaka Stone",
+   "date": "c. 710–690 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nehebkau",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some mortuary traditions make the serpent Nehebkau a son of Geb.",
+   "source": "Coffin Texts and later traditions",
+   "date": "Middle Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Renenutet",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Geb and Renenutet parent Nehebkau",
+   "note": "Some later genealogical syntheses pair Geb and Renenutet as Nehebkau’s parents.",
+   "source": "Later genealogical traditions",
+   "date": "Late period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [
+    "Cronus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greco-Roman interpretation equates Geb with the old divine king Kronos.",
+   "source": "Plutarch, De Iside et Osiride §12",
+   "date": "c. 100 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Divine judgment of Horus and Seth",
+   "note": "Thoth articulates verdicts while Geb supplies ancestral territorial authority.",
+   "source": "Horus-Seth and funerary traditions",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Ennead",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Geb presides over the Ennead",
+   "note": "Geb stands at the Ennead’s head as judge with authoritative speech.",
+   "source": "Pyramid Text 592 §1619",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  },
+  {
+   "other": "the Ennead",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Geb nourishes and vivifies the Ennead",
+   "note": "As ka of the gods, Geb brings, nourishes, and causes them to live.",
+   "source": "Pyramid Text 592 §§1623–1624",
+   "date": "Sixth Dynasty",
+   "tier": "attested"
+  }
+ ]
+}

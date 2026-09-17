@@ -1,0 +1,385 @@
+{
+ "folder": "alpine",
+ "gods": [
+  "barbegazi",
+  "fanggen",
+  "habergeiss",
+  "krampus",
+  "nachtvolk",
+  "saligen",
+  "sennentuntschi",
+  "tatzelwurm",
+  "tschaggatta",
+  "wilde_mann"
+ ],
+ "relations": [
+  {
+   "a": "fanggen",
+   "b": "saligen",
+   "kind": "identified_with",
+   "myth": "Chamois guardian variants",
+   "note": "Different retellings substitute Salige Frauen for Fänggen in the chamois-guardian role.",
+   "source": "Comparative hunter-tale variants",
+   "date": "1859–1921",
+   "tier": "syncretism",
+   "stated_by": [
+    "fanggen"
+   ]
+  },
+  {
+   "a": "fanggen",
+   "b": "wilde_mann",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Learned summaries describe female Fanggen as wives of wild men or forest giants.",
+   "source": "Zaunert and Bäschlin",
+   "date": "1921–1930",
+   "tier": "late_accretion",
+   "stated_by": [
+    "fanggen"
+   ]
+  },
+  {
+   "a": "habergeiss",
+   "b": "krampus",
+   "kind": "identified_with",
+   "myth": "Regional disguise traditions",
+   "note": "In some communities Habergeiss was another form of a disguised Krampus.",
+   "source": "Salzburg folklore documentation",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "habergeiss"
+   ]
+  },
+  {
+   "a": "habergeiss",
+   "b": "krampus",
+   "kind": "shared_myth",
+   "myth": "Regional winter processions",
+   "note": "Local descriptions place the Habergeiss alongside Krampus-like figures in seasonal performances.",
+   "source": "local custom descriptions",
+   "date": "twentieth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "habergeiss"
+   ]
+  },
+  {
+   "a": "krampus",
+   "b": "wilde_mann",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Contemporary costume mixing encourages conflation despite distinct traditions and no traditional meeting.",
+   "source": "Modern performance culture",
+   "date": "20th–21st centuries",
+   "tier": "modern",
+   "stated_by": [
+    "wilde_mann"
+   ]
+  },
+  {
+   "a": "saligen",
+   "b": "wilde_mann",
+   "kind": "fought",
+   "myth": "The Wild Hunter pursues the Salgfräulein",
+   "note": "The Wild Hunter pursues and hunts the Salgfräulein in Tyrolean tradition.",
+   "source": "Jacob Grimm, Deutsche Mythologie",
+   "date": "1835 and later editions",
+   "tier": "attested",
+   "stated_by": [
+    "saligen"
+   ]
+  },
+  {
+   "a": "saligen",
+   "b": "wilde_mann",
+   "kind": "fought",
+   "myth": "Persecution of the Salige",
+   "note": "Wild Men pursue and persecute the benevolent female mountain beings.",
+   "source": "Zingerle and Tyrolean collections",
+   "date": "nineteenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wilde_mann"
+   ]
+  },
+  {
+   "a": "saligen",
+   "b": "wilde_mann",
+   "kind": "killed_by",
+   "myth": "Persecution of the Salige",
+   "note": "Wild Men dismember Salige and sometimes leave pieces for humans.",
+   "source": "Zingerle and Tyrolean collections",
+   "date": "nineteenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wilde_mann"
+   ]
+  },
+  {
+   "a": "saligen",
+   "b": "wilde_mann",
+   "kind": "other",
+   "myth": "Persecution of the Salige",
+   "note": "Wild Men capture, imprison, or attempt to eat Salige.",
+   "source": "Zingerle and Tyrolean collections",
+   "date": "nineteenth century",
+   "tier": "regional_variant",
+   "stated_by": [
+    "wilde_mann"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Adam": [
+   {
+    "stated_by": "saligen",
+    "kind": "child_of",
+    "myth": "Adam's hidden children",
+    "note": "One Christian etiological variant makes supernatural women Adam's children, whom he concealed from God.",
+    "source": "Late Christian folklore",
+    "date": "modern-era collections",
+    "tier": "late_accretion"
+   }
+  ],
+  "Angels": [
+   {
+    "stated_by": "krampus",
+    "kind": "shared_myth",
+    "myth": "Nikolaus house visit",
+    "note": "Angels assist Nikolaus with gifts while Krampusse embody punishment.",
+    "source": "Nikolaus plays and visiting traditions",
+    "date": "19th–20th centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Christkind": [
+   {
+    "stated_by": "krampus",
+    "kind": "other",
+    "myth": "Austrian Christmas season",
+    "note": "Krampus and Christkind are seasonally juxtaposed in Austrian commerce and custom.",
+    "source": "Austrian Christmas commerce and custom",
+    "date": "",
+    "tier": "canonical"
+   }
+  ],
+  "Elves": [
+   {
+    "stated_by": "krampus",
+    "kind": "allied",
+    "myth": "Krampus besieges a family",
+    "note": "In the film, sinister elves accompany Krampus during his assault on a family.",
+    "source": "Dougherty, Krampus",
+    "date": "2015",
+    "tier": "modern"
+   }
+  ],
+  "Green Man": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparison conflates their intersecting vegetation imagery despite distinct iconographic histories.",
+    "source": "Modern comparative discourse",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Hercules": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Club-bearing Hercules visually resembles and sometimes merges with the Wild Man.",
+    "source": "Heraldry and art",
+    "date": "medieval to early modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Hitte Hatte": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "other",
+    "myth": "Hitte Hatte and Jordan",
+    "note": "The Wild Man Jordan captures Hitte Hatte and intends to eat her.",
+    "source": "Tyrolean legend tradition",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "King Laurin": [
+   {
+    "stated_by": "saligen",
+    "kind": "transformed_by",
+    "myth": "Laurin curses the Saligen",
+    "note": "Laurin curses the laughing Saligen and transforms them into flowers called Schlernhexen.",
+    "source": "Modern South Tyrolean legend",
+    "date": "modern circulation",
+    "tier": "late_accretion"
+   }
+  ],
+  "Langtüttin": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "shared_myth",
+    "myth": "The Pillerberg giant tradition",
+    "note": "The Wild Man meets or associates with this female giant or ogress.",
+    "source": "Zingerle-related Tyrolean tradition",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Perchten": [
+   {
+    "stated_by": "habergeiss",
+    "kind": "shared_myth",
+    "myth": "Austrian winter processions",
+    "note": "The Habergeiss appears among Perchten in later Austrian processional performances.",
+    "source": "Salzburg custom descriptions",
+    "date": "twentieth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern masked performances mix Perchten and Wild Men despite their distinguishable histories.",
+    "source": "Modern performance culture",
+    "date": "20th–21st centuries",
+    "tier": "modern"
+   }
+  ],
+  "Riese Jordan": [
+   {
+    "stated_by": "saligen",
+    "kind": "fought",
+    "myth": "Hitte Hatte and the giant Jordan",
+    "note": "Jordan hunts, captures, imprisons, and kills Saligen, intending to eat one captive.",
+    "source": "Modern Hitte Hatte text",
+    "date": "modern anthology",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "saligen",
+    "kind": "served",
+    "myth": "Hitte Hatte's captivity",
+    "note": "The captive Salige Hitte Hatte is forced to serve Jordan before escaping.",
+    "source": "Modern Hitte Hatte text",
+    "date": "modern anthology",
+    "tier": "late_accretion"
+   }
+  ],
+  "Saint Nicholas of Myra": [
+   {
+    "stated_by": "krampus",
+    "kind": "served",
+    "myth": "Nikolaus house visit",
+    "note": "Krampus accompanies Nikolaus, who rewards children, restrains him, and directs the moral performance.",
+    "source": "“Die Lebkuchen oder der vernünftige Knab”",
+    "date": "1791",
+    "tier": "attested"
+   }
+  ],
+  "Silenus": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "The Wild Man and drunken Silenus are linked through learned iconographic and motif comparisons.",
+    "source": "Medieval through modern learned discourse",
+    "date": "medieval to modern",
+    "tier": "syncretism"
+   }
+  ],
+  "Stitzl": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "shared_myth",
+    "myth": "The death-message legend",
+    "note": "The Wild Man directs a woodcutter to tell Stitzl that Thorizl died.",
+    "source": "Zingerle, Sagen aus Tirol",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "The Three Kings": [
+   {
+    "stated_by": "krampus",
+    "kind": "shared_myth",
+    "myth": "Gastein Perchtenlauf",
+    "note": "The Three Kings and Kramperl appear among the procession’s many distinct figures.",
+    "source": "Gastein Perchtenlauf tradition",
+    "date": "",
+    "tier": "regional_variant"
+   }
+  ],
+  "Thorizl": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "shared_myth",
+    "myth": "The death-message legend",
+    "note": "The Wild Man announces Thorizl's death through a human messenger.",
+    "source": "Zingerle, Sagen aus Tirol",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Wild Women": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Wild men and wild women mate, form households, and have children.",
+    "source": "Medieval art and story",
+    "date": "Middle Ages",
+    "tier": "attested"
+   }
+  ],
+  "Wildfrau": [
+   {
+    "stated_by": "saligen",
+    "kind": "shared_myth",
+    "myth": "Hitte Hatte and the giant Jordan",
+    "note": "Jordan's Wildfrau persuades him to retain a captured Salige as a servant.",
+    "source": "Modern Hitte Hatte text",
+    "date": "modern anthology",
+    "tier": "late_accretion"
+   }
+  ],
+  "Wizl": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "shared_myth",
+    "myth": "The death-message legend",
+    "note": "The Wild Man directs a woodcutter to tell Wizl that Thorizl died.",
+    "source": "Zingerle, Sagen aus Tirol",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "fauns": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Classical faun imagery was used to interpret hairy forest beings.",
+    "source": "Medieval learned and artistic discourse",
+    "date": "Middle Ages",
+    "tier": "syncretism"
+   }
+  ],
+  "satyrs": [
+   {
+    "stated_by": "wilde_mann",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Classical satyr imagery helped artists interpret hairy forest beings.",
+    "source": "Medieval learned and artistic discourse",
+    "date": "Middle Ages",
+    "tier": "syncretism"
+   }
+  ]
+ }
+}

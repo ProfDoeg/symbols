@@ -1,0 +1,332 @@
+{
+ "subject": "wakan_tanka",
+ "relations": [
+  {
+   "other": "Íŋyaŋ",
+   "other_aliases": [
+    "Stone",
+    "Rock"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation through Íŋyaŋ",
+   "note": "Foundational power whose self-expenditure begins creation within the sacred totality.",
+   "source": "Walker, Lakota Myth",
+   "date": "collected 1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Makȟá",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation through Íŋyaŋ",
+   "note": "Earth emerges from Íŋyaŋ and belongs within the encompassing sacred totality.",
+   "source": "Walker, Lakota Myth",
+   "date": "collected 1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Škaŋ",
+   "other_aliases": [
+    "Táku Škaŋškaŋ"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Walker inferred older specialists used Škaŋ where younger Lakotas said Wakȟáŋ Tȟáŋka.",
+   "source": "Walker letter",
+   "date": "20 March 1912",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Škaŋ",
+   "other_aliases": [
+    "Táku Škaŋškaŋ"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ordering the emerging world",
+   "note": "Animating power that orders, surrounds, and judges within the sacred cosmos.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wí",
+   "other_aliases": [
+    "Wí-káŋ",
+    "Sun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Creation and Sun Dance",
+   "note": "Sun is a constituent power and chief of the gods in Sword’s account.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Haŋwí",
+   "other_aliases": [
+    "Haŋwí-káŋ",
+    "Moon"
+   ],
+   "kind": "shared_myth",
+   "myth": "Anóǧ Ite seeks Moon’s place",
+   "note": "Moon is an associated sacred power paired with Wí.",
+   "source": "Walker myth corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tȟaté",
+   "other_aliases": [
+    "Wind"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ordering of winds",
+   "note": "Wind is associated with Škaŋ and commands or fathers the Four Winds.",
+   "source": "Walker myth corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tȟaté Tȟópa",
+   "other_aliases": [
+    "Tob Kin",
+    "Four Winds"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "The Four Winds serve the collective sacred powers as messengers and enforcers.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Yumní",
+   "other_aliases": [
+    "Yumnikáŋ",
+    "Whirlwind"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Whirlwind is grouped within the sixteenfold sacred totality as a mobile power.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Wóȟpe",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Pipe Woman",
+   "note": "Beneficent constituent power who comes among the Lakotas and gives the Pipe.",
+   "source": "Finger in Walker",
+   "date": "collected before 1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pte Sáŋ Wiŋ",
+   "other_aliases": [
+    "White Buffalo Calf Woman"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Pipe Woman",
+   "note": "She mediates the sacred order through the Pipe and promised ceremonies.",
+   "source": "Densmore, Teton Sioux Music",
+   "date": "1918",
+   "tier": "attested"
+  },
+  {
+   "other": "Pte Sáŋ Wiŋ",
+   "other_aliases": [
+    "White Buffalo Calf Woman"
+   ],
+   "kind": "shared_myth",
+   "myth": "Seven rites of the Sacred Pipe",
+   "note": "Later canonical teaching presents her Pipe as joining all beings in prayer.",
+   "source": "Black Elk and Brown, Sacred Pipe",
+   "date": "1953",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wakíŋyaŋ",
+   "other_aliases": [
+    "Thunder Beings"
+   ],
+   "kind": "shared_myth",
+   "myth": "Dreams and sacred-object obligations",
+   "note": "Thunder Beings manifest the sacred totality, confer dream power, and punish violations.",
+   "source": "Walker corpus; Densmore",
+   "date": "1896–1918",
+   "tier": "attested"
+  },
+  {
+   "other": "Tȟatȟáŋka",
+   "other_aliases": [
+    "Buffalo"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pipe tradition",
+   "note": "Buffalo manifests sacred power, sustains human life, and mediates Pipe traditions.",
+   "source": "Sword in Walker; Densmore",
+   "date": "1917–1918",
+   "tier": "attested"
+  },
+  {
+   "other": "Húŋuŋpa",
+   "other_aliases": [
+    "Hunonpa"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "A variably translated two-legged or bear-related category within the sixteen powers.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Nagí",
+   "other_aliases": [
+    "spirit"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Spirit is a nonphysical member or aspect within the sixteenfold totality.",
+   "source": "Sword and Finger in Walker",
+   "date": "1896–1914",
+   "tier": "attested"
+  },
+  {
+   "other": "Niyá",
+   "other_aliases": [
+    "breath",
+    "life"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Breath or life is included within both the sacred totality and human constitution.",
+   "source": "Sword and Finger in Walker",
+   "date": "1896–1914",
+   "tier": "attested"
+  },
+  {
+   "other": "Nagíla",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "A spirit-like component included within the sixteenfold sacred totality.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Wašíčuŋpi",
+   "other_aliases": [
+    "sicuŋ-related power"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "A difficult-to-translate indwelling potency included among the sixteen powers.",
+   "source": "Sword in Walker",
+   "date": "1917",
+   "tier": "attested"
+  },
+  {
+   "other": "Iktómi",
+   "other_aliases": [
+    "Ksa"
+   ],
+   "kind": "shared_myth",
+   "myth": "Ksa’s fall and transformation",
+   "note": "Ksa’s deceptive wisdom brings judgment and transformation into the trickster Iktómi.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anóǧ Ite",
+   "other_aliases": [
+    "Double Face"
+   ],
+   "kind": "shared_myth",
+   "myth": "Attempt to supplant Haŋwí",
+   "note": "She conspires to take Haŋwí’s place and receives two faces as punishment.",
+   "source": "Walker, Lakota Myth",
+   "date": "published 1983",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iya",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A devouring power classified outside or against the benevolent ordering powers.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wazíya",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A troublesome power associated with cold, old age, sorcery, or the north.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Wakáŋka",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "A troublesome power associated with cold, old age, sorcery, or the north.",
+   "source": "Walker corpus",
+   "date": "1896–1914",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Christian God the Father",
+   "other_aliases": [
+    "God",
+    "Jehovah"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Missionaries and some Lakota Christians used Wakantanka for the biblical God.",
+   "source": "Dakota mission translations",
+   "date": "nineteenth century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jesus Christ",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lakota Christian teaching construed Wakȟáŋ Tȟáŋka as God or Father of Jesus.",
+   "source": "Mission texts; Black Elk material",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Trinitarian teaching encouraged singular and many-in-one interpretations of Wakȟáŋ Tȟáŋka.",
+   "source": "Missionary usage; DeMallie analysis",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Wovoka’s God",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Ghost Dance revelation",
+   "note": "Ghost Dance interpreters variably equated Wovoka’s revealed God with Wakȟáŋ Tȟáŋka.",
+   "source": "Ghost Dance testimony",
+   "date": "1889–1890",
+   "tier": "syncretism"
+  }
+ ]
+}

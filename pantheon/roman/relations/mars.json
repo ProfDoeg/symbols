@@ -1,0 +1,463 @@
+{
+ "subject": "mars",
+ "relations": [
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ordinary Greco-Roman genealogy names Juno as Mars’s mother.",
+   "source": "Imperial literary and artistic witnesses",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Juno conceives Mars through Flora’s magical flower",
+   "note": "Juno conceives Mars without Jupiter after Flora touches her with a flower.",
+   "source": "Ovid, Fasti 5.229–258",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Flora",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Flora enables Juno’s unaided conception of Mars",
+   "note": "Flora applies a fecundating flower to Juno, enabling Mars’s conception.",
+   "source": "Ovid, Fasti 5.229–258",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Greek-derived Roman genealogy makes Jupiter the father of Mars.",
+   "source": "Imperial literary and artistic witnesses",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mars requests Romulus’s promised apotheosis",
+   "note": "Mars reminds Jupiter of his promise; Jupiter permits Romulus’s translation.",
+   "source": "Ovid, Metamorphoses 14.805–828",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Mars occupies the institutional hierarchy between Jupiter and Quirinus.",
+   "source": "Three major Roman flamines",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Quirinus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mars is the divine father of Romulus by Rhea Silvia.",
+   "source": "Livy, Ab urbe condita 1.3–4",
+   "date": "late 20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Quirinus"
+   ],
+   "kind": "transformed",
+   "myth": "Mars carries Romulus to heaven as Quirinus",
+   "note": "Mars seizes Romulus during a storm and transforms him into Quirinus.",
+   "source": "Ovid, Metamorphoses 14.805–851",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Romulus",
+   "other_aliases": [
+    "Quirinus"
+   ],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Their cults had separate Salian colleges and later linked military and civic states.",
+   "source": "Roman priestly institutions",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Remus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Mars is the claimed divine father of Remus by Rhea Silvia.",
+   "source": "Livy, Ab urbe condita 1.3–4",
+   "date": "late 20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea Silvia",
+   "other_aliases": [
+    "Ilia"
+   ],
+   "kind": "consort_of",
+   "myth": "Conception of Romulus and Remus",
+   "note": "Rhea Silvia claims Mars fathered her twins; versions imply dream, seduction, or rape.",
+   "source": "Livy, Ab urbe condita 1.3–4",
+   "date": "late 20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nerio",
+   "other_aliases": [
+    "Neriene"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Plautus and later antiquarians describe Nerio as Mars’s wife or partner.",
+   "source": "Plautus, Truculentus 515–519",
+   "date": "c. 190 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "consort_of",
+   "myth": "Mars and Venus conduct an adulterous affair",
+   "note": "Mars and Venus become lovers in the Romanized Ares-Aphrodite narrative.",
+   "source": "Ovid, Metamorphoses 4.167–189",
+   "date": "c. 8 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mars and Venus represent Rome’s divine ancestries",
+   "note": "Augustan art coordinates Mars and Venus as complementary ancestors of Rome.",
+   "source": "Forum of Augustus program",
+   "date": "2 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "punished_by",
+   "myth": "Vulcan traps Mars and Venus in bed",
+   "note": "Vulcan catches Mars in an invisible net and exposes the affair.",
+   "source": "Ovid, Metamorphoses 4.167–189",
+   "date": "c. 8 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [
+    "Helios"
+   ],
+   "kind": "other",
+   "myth": "Sol reveals Mars and Venus’s affair",
+   "note": "Sol witnesses the adultery and informs Vulcan.",
+   "source": "Ovid, Metamorphoses 4.167–189",
+   "date": "c. 8 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "rescued_by",
+   "myth": "Neptune intercedes for Mars’s release",
+   "note": "Neptune persuades Vulcan to release the ensnared Mars.",
+   "source": "Homer, Odyssey 8",
+   "date": "eighth–seventh century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mars unsuccessfully courts Minerva",
+   "note": "Mars asks Anna Perenna to obtain Minerva as his bride.",
+   "source": "Ovid, Fasti 3.675–696",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "State and military dedications sometimes coordinate Mars with Minerva and Jupiter.",
+   "source": "Capitoline and military dedications",
+   "date": "Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Anna Perenna",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Anna impersonates Mars’s promised bride",
+   "note": "Anna veils herself as Minerva and tricks Mars into unveiling her.",
+   "source": "Ovid, Fasti 3.675–696",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anteros",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One learned genealogical scheme makes Mars and Venus parents of Anteros.",
+   "source": "Cicero, De natura deorum 3.59–60",
+   "date": "45 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cupid",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Transferred Greek genealogies sometimes make Mars and Venus parents of Cupid.",
+   "source": "Greek genealogies through interpretatio",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Transferred Greek genealogies sometimes make Mars and Venus parents of Harmonia.",
+   "source": "Greek genealogies through interpretatio",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "the Roman people",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Mars is politically represented as Rome’s ancestor through his son Romulus.",
+   "source": "Roman foundation tradition",
+   "date": "Late Republic–Empire",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bellona",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Mars and Bellona share martial classifications, though no early narrative interaction survives.",
+   "source": "Roman literary and cultic classifications",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lua",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Commanders could dedicate captured enemy weapons to Mars, Bellona, or Lua.",
+   "source": "Livian and antiquarian testimony",
+   "date": "Roman period",
+   "tier": "attested"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Fortuna appears beside Mars in reconstructions of Mars Ultor’s temple pediment.",
+   "source": "Temple of Mars Ultor pediment",
+   "date": "2 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Roma",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "The armed divine personification Roma accompanies Mars in the Augustan program.",
+   "source": "Temple of Mars Ultor pediment",
+   "date": "2 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cato’s compound invocation Mars Silvanus may identify, coordinate, or combine them.",
+   "source": "Cato, De agricultura 83",
+   "date": "c. 160 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mars absorbed the literary mythology and visual language of Greek Ares.",
+   "source": "Republican and imperial literature",
+   "date": "Third century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Name similarity encouraged a disputed equation with Etruscan Maris.",
+   "source": "Etruscan mirrors and later comparison",
+   "date": "Antiquity and modern scholarship",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Laran",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The armed Etruscan war god Laran is treated as Mars’s functional counterpart.",
+   "source": "Etruscan iconography and modern comparison",
+   "date": "Antiquity and modern scholarship",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Camulus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation identified the indigenous god Camulus with Mars.",
+   "source": "Roman provincial inscriptions",
+   "date": "First centuries BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lenus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Treveran healing and tribal god Lenus was worshipped as Mars Lenus.",
+   "source": "Roman provincial inscriptions",
+   "date": "First centuries BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Loucetius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial worship identified the lightning-associated Loucetius with Mars.",
+   "source": "Roman provincial inscriptions",
+   "date": "First centuries BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mullo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The western Gaulish god Mullo was worshipped under the compound Mars Mullo.",
+   "source": "Roman provincial inscriptions",
+   "date": "First centuries BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Cocidius",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Northern British dedications identify the indigenous god Cocidius with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Belatucadrus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Northern British worshippers equated Belatucadrus with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Alator",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A British provincial dedication identifies Alator with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Condatis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The confluence-associated god Condatis was worshipped as Mars Condatis.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Braciaca",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A Bakewell inscription identifies the obscure god Braciaca with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ocelus",
+   "other_aliases": [
+    "Vellaunus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Western British evidence associates Ocelus or Vellaunus with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Medocius Campesium",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "An obscure British dedication identifies Medocius Campesium with Mars.",
+   "source": "Roman Inscriptions of Britain",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  }
+ ]
+}

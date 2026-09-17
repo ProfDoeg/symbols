@@ -1,0 +1,1010 @@
+{
+ "subject": "apollo",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Apollo with Leto.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Vengeance for Asclepius",
+   "note": "Zeus punishes Apollo with servitude after Apollo kills the Cyclopes.",
+   "source": "Pseudo-Apollodorus 3.10.4",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Proclamation of Zeus's will",
+   "note": "Apollo communicates Zeus's purposes through prophecy.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Leto bears Apollo on Delos.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Defense against Tityus",
+   "note": "Apollo and Artemis defend Leto by killing her assailant Tityus.",
+   "source": "Pseudo-Apollodorus 1.4.1",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apollo and Artemis are children of Zeus and Leto.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700–600 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "allied",
+   "myth": "Killing of Tityus",
+   "note": "The divine twins jointly kill Tityus for assaulting Leto.",
+   "source": "Pseudo-Apollodorus 1.4.1",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "allied",
+   "myth": "Slaughter of Niobe's children",
+   "note": "Apollo kills Niobe's sons while Artemis kills her daughters.",
+   "source": "Iliad 24.602–617",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [
+    "Diana"
+   ],
+   "kind": "deceived",
+   "myth": "Death of Orion",
+   "note": "In some versions Apollo causes Artemis unwittingly to kill Orion.",
+   "source": "later mythography",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Birth on Delos",
+   "note": "Hera obstructs Leto's labor by detaining Eileithyia.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Birth on Delos",
+   "note": "Eileithyia's arrival enables Leto finally to give birth to Apollo.",
+   "source": "Homeric Hymn to Apollo 91–119",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Birth on Delos",
+   "note": "Iris fetches Eileithyia, enabling Apollo's delayed birth.",
+   "source": "Homeric Hymn to Apollo 91–119",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Peaceful Delphic succession",
+   "note": "Themis passes Delphi through Phoebe in the peaceful succession preceding Apollo.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Python at Delphi",
+   "note": "Themis operates Delphi's oracle when Apollo kills the resisting Python.",
+   "source": "Pseudo-Apollodorus, Library",
+   "date": "first–second centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Peaceful Delphic succession",
+   "note": "Gaia begins the peaceful succession ultimately conveying Delphi to Apollo.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Antagonistic Delphic takeover",
+   "note": "Euripidean and later constructions imply Apollo antagonistically displaced Gaia's Delphic order.",
+   "source": "Euripidean and later traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Peaceful Delphic succession",
+   "note": "Phoebe gives Apollo Delphi and supplies his epithet Phoibos.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange of Delphi",
+   "note": "Poseidon trades his share of Delphi to Apollo.",
+   "source": "Aeschylus, Eumenides 27–29",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Servitude under Laomedon",
+   "note": "Apollo and Poseidon jointly serve Laomedon at Troy.",
+   "source": "Iliad 7 and 21",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Trojan War confrontation",
+   "note": "Apollo confronts Poseidon while supporting opposing sides at Troy.",
+   "source": "Iliad 21",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Trial of Orestes",
+   "note": "Apollo defends Orestes while Athena establishes the court and decides acquittal.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Trial of Orestes",
+   "note": "Apollo contests the Erinyes' prosecution and their account of kinship justice.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Apollo and Hermes are sons of Zeus by different mothers.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The stolen cattle",
+   "note": "Infant Hermes steals Apollo's cattle and disguises their tracks.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange after the cattle theft",
+   "note": "Apollo receives the lyre and gives Hermes cattle, staff, and limited divination.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation after the theft",
+   "note": "Musical exchange reconciles Apollo and Hermes into complementary divine jurisdictions.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Music among the Olympians",
+   "note": "Apollo performs with and leads the Muses as Mousēgetēs.",
+   "source": "Iliad 1.603–604",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Learning prophecy",
+   "note": "One mythographic account says Apollo learned prophecy from Pan.",
+   "source": "Pseudo-Apollodorus, Library",
+   "date": "first–second centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seasonal sharing of Delphi",
+   "note": "Apollo and Dionysus receive Delphic cult in complementary seasonal traditions.",
+   "source": "later Delphic evidence",
+   "date": "Classical period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Cupid"
+   ],
+   "kind": "punished_by",
+   "myth": "Apollo and Daphne",
+   "note": "After Apollo mocks his bow, Eros inflicts desire for Daphne.",
+   "source": "Ovid, Metamorphoses 1",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Suitors of Hestia",
+   "note": "Apollo and Poseidon seek Hestia, who rejects marriage and vows virginity.",
+   "source": "Homeric Hymn to Aphrodite 21–32",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Classical sources begin equating Apollo with Helios; the identification later proliferates.",
+   "source": "Euripides, Phaethon fragment",
+   "date": "fifth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Paean",
+   "other_aliases": [
+    "Paian",
+    "Paiēōn"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The initially independent healing divinity becomes absorbed as Apollo's healing title.",
+   "source": "Linear B and later cult",
+   "date": "second millennium BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Resheph",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cypriot bilingual inscriptions and sanctuaries progressively translate or combine Apollo and Resheph.",
+   "source": "Cypriot bilingual inscriptions",
+   "date": "Iron Age–Hellenistic",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Grannus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial dedications pair Apollo with the Celtic healing god Grannus.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Belenus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial dedications join Apollo with the indigenous god Belenus.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maponus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial inscriptions interpretively pair Apollo with Maponus.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Moritasgus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Healing inscriptions compound Apollo's name with the local god Moritasgus.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vindonnus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman provincial worship joins Apollo with the indigenous god Vindonnus.",
+   "source": "Roman provincial inscriptions",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sarapis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Egyptian magical invocations assimilate Apollo with Sarapis and other ritual powers.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Egyptian magical invocations assimilate Apollo with Horus and solar powers.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Michael",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern esoteric systems sometimes equate Apollo with the archangel Michael.",
+   "source": "modern occult writings",
+   "date": "nineteenth century onward",
+   "tier": "modern"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Asclepius with Coronis.",
+   "source": "Pindar, Pythian 3",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asclepius",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Rescue from Coronis's pyre",
+   "note": "Apollo removes unborn Asclepius from Coronis's funeral pyre.",
+   "source": "Pindar, Pythian 3",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coronis",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Coronis becomes pregnant with Apollo's son Asclepius.",
+   "source": "Pindar, Pythian 3",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Coronis",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Coronis and Ischys",
+   "note": "Some versions make Apollo, rather than Artemis, kill the pregnant Coronis.",
+   "source": "variant mythographic accounts",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Vengeance for Asclepius",
+   "note": "Apollo kills the Cyclopes who forged Zeus's fatal thunderbolt.",
+   "source": "Pseudo-Apollodorus 3.10.4",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aristaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Aristaeus with Cyrene.",
+   "source": "Pindar, Pythian 9",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Idmon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogies make Idmon a son of Apollo and Cyrene.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyrene",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Apollo carries Cyrene to Libya",
+   "note": "Apollo takes Cyrene to Libya, where she bears Aristaeus.",
+   "source": "Pindar, Pythian 9",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cyrene's Libyan destiny",
+   "note": "Chiron prophesies Apollo's union with Cyrene and the birth of Aristaeus.",
+   "source": "Pindar, Pythian 9",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Education of Asclepius",
+   "note": "Apollo entrusts rescued Asclepius to Chiron, who trains him in healing.",
+   "source": "Pindar, Pythian 3",
+   "date": "early fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Ion with Creusa.",
+   "source": "Euripides, Ion",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Creusa",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Conception and abandonment of Ion",
+   "note": "Apollo sexually encounters Creusa; she condemns his conduct after abandoning their child.",
+   "source": "Euripides, Ion",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Transport of infant Ion",
+   "note": "Hermes transports Apollo's abandoned son Ion to Delphi.",
+   "source": "Euripides, Ion",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mopsus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Mopsus with Manto.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Manto",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Manto is named as Apollo's partner and mother of Mopsus.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Philammon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Philammon in genealogies naming Chione or Leuconoe.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Chione is one variant mother of Apollo's son Philammon.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Leuconoe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Leuconoe is one variant mother of Apollo's son Philammon.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Linus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogies make Linus a son of Apollo and a Muse.",
+   "source": "ancient genealogical traditions",
+   "date": "Archaic period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Orpheus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogies make Orpheus a son of Apollo and a Muse.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Delphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Delphus in localized genealogies with several variant mothers.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thyia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Thyia is one variant mother of Apollo's son Delphus.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Celaeno",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Celaeno is one variant mother of Apollo's son Delphus.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Melaina",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Melaina is one variant mother of Apollo's son Delphus.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Apollo fathers Anius with Rhoeo.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Rhoeo",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rhoeo is named as Apollo's partner and mother of Anius.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Python",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Foundation of Delphi",
+   "note": "Apollo kills the female dragon guarding the Delphic region.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telphusa",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Search for a Delphic sanctuary",
+   "note": "Telphusa deceives Apollo into rejecting her site for his sanctuary.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Telphusa",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Return to Telphusa",
+   "note": "Apollo returns after discovering Telphusa's deception and asserts control over her site.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Python's fosterage",
+   "note": "Apollo kills the dragon associated with fostering Hera's monstrous Typhon.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tityus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Assault on Leto",
+   "note": "Later versions explicitly make Apollo and Artemis shoot Leto's assailant.",
+   "source": "Pseudo-Apollodorus 1.4.1",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Niobe",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Slaughter of Niobe's children",
+   "note": "Apollo kills Niobe's sons after she boasts against Leto.",
+   "source": "Iliad 24.602–617",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Daphne",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Apollo pursues Daphne",
+   "note": "Driven by Cupid's arrow, Apollo pursues Daphne until she becomes laurel.",
+   "source": "Ovid, Metamorphoses 1.452–567",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Peneus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Transformation of Daphne",
+   "note": "Daphne appeals to her river-god father Peneus while fleeing Apollo.",
+   "source": "Ovid, Metamorphoses 1.452–567",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Leucippus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Leucippus among Daphne's companions",
+   "note": "Jealous Apollo exposes Leucippus's disguise, leading Daphne's companions to kill him.",
+   "source": "Parthenius",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hyacinthus is Apollo's beloved youth in Amyclaean tradition.",
+   "source": "Ovid, Metamorphoses 10",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Fatal discus throw",
+   "note": "Apollo accidentally kills Hyacinthus with a discus and mourns him.",
+   "source": "Ovid, Metamorphoses 10.162–219",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyacinthus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Flower from Hyacinthus's blood",
+   "note": "Apollo causes a lament-marked flower to grow from Hyacinthus's blood.",
+   "source": "Ovid, Metamorphoses 10.162–219",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Jealousy over Hyacinthus",
+   "note": "Later versions make Zephyrus Apollo's jealous rival who diverts the discus.",
+   "source": "later Hyacinthus traditions",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Musical contest with Marsyas",
+   "note": "Apollo defeats Marsyas in a contest between lyre and aulos.",
+   "source": "Pseudo-Apollodorus, Library",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Flaying of Marsyas",
+   "note": "After winning, Apollo hangs, flays, and kills Marsyas.",
+   "source": "Pseudo-Apollodorus, Library",
+   "date": "first–second centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Muses",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Musical contest with Marsyas",
+   "note": "Some accounts appoint the Muses judges of Apollo's contest with Marsyas.",
+   "source": "later Marsyas accounts",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Cassandra's prophetic bargain",
+   "note": "Apollo grants Cassandra prophecy while expecting a sexual relationship.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Cassandra rejects Apollo",
+   "note": "Cassandra accepts prophecy but refuses or deceives Apollo concerning sex.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cassandra",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Cassandra's unbelieved prophecies",
+   "note": "Apollo ensures Cassandra's true prophecies will never be believed.",
+   "source": "Aeschylus, Agamemnon",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeneas",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Trojan War",
+   "note": "Apollo protects and rescues Aeneas during battle.",
+   "source": "Iliad 5",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Patroclus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Death of Patroclus",
+   "note": "Apollo deceives or strikes Patroclus, strips his armor, and enables his death.",
+   "source": "Iliad 16",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hector",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Trojan War",
+   "note": "Apollo aids Hector and preserves his corpse from damage.",
+   "source": "Iliad 15–16 and 24",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Death of Achilles",
+   "note": "Post-Homeric tradition makes Apollo help Paris kill Achilles.",
+   "source": "post-Homeric tradition",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Paris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Death of Achilles",
+   "note": "Apollo assists Paris in killing Achilles in post-Homeric tradition.",
+   "source": "post-Homeric tradition",
+   "date": "Archaic period onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cyparissus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Cyparissus is named among Apollo's male beloveds.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 1–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Branchus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Branchus is named among Apollo's male beloveds.",
+   "source": "ancient Branchus traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hymenaeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Hymenaeus is named among Apollo's male beloveds.",
+   "source": "ancient genealogical traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fates",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Substitute death for Admetus",
+   "note": "Apollo tricks the Fates into permitting a substitute death for Admetus.",
+   "source": "Euripides, Alcestis",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Death",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Death comes for Alcestis",
+   "note": "Apollo confronts Death verbally over the impending death of Alcestis.",
+   "source": "Euripides, Alcestis",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Rescue of Alcestis",
+   "note": "Heracles completes the rescue enabled by Apollo's bargain with the Fates.",
+   "source": "Euripides, Alcestis",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Return of Alcestis",
+   "note": "Some versions credit Persephone, rather than Heracles, with Alcestis's return.",
+   "source": "variant Alcestis traditions",
+   "date": "Classical period onward",
+   "tier": "regional_variant"
+  }
+ ]
+}

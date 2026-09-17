@@ -1,0 +1,1490 @@
+{
+ "folder": "slavic",
+ "gods": [
+  "baba_yaga",
+  "dazhbog",
+  "jarilo",
+  "koschei",
+  "leshy",
+  "mokosh",
+  "morana",
+  "perun",
+  "rusalki",
+  "svarog",
+  "svetovid",
+  "veles"
+ ],
+ "relations": [
+  {
+   "a": "baba_yaga",
+   "b": "koschei",
+   "kind": "gift",
+   "myth": "Marya Morevna",
+   "note": "Koschei receives his supernatural horse after serving as Baba Yaga’s herdsman.",
+   "source": "Afanasyev no. 159, “Marya Morevna”",
+   "date": "1855–1863",
+   "tier": "canonical",
+   "stated_by": [
+    "koschei"
+   ]
+  },
+  {
+   "a": "baba_yaga",
+   "b": "koschei",
+   "kind": "served_by",
+   "myth": "Marya Morevna",
+   "note": "Koschei formerly serves Baba Yaga by herding her magical mares.",
+   "source": "Afanasyev no. 159, “Marya Morevna”",
+   "date": "1855–1863",
+   "tier": "canonical",
+   "stated_by": [
+    "koschei"
+   ]
+  },
+  {
+   "a": "baba_yaga",
+   "b": "koschei",
+   "kind": "shared_myth",
+   "myth": "Marya Morevna",
+   "note": "Her supernatural horse enables Ivan to pursue Koschei; they never meet directly.",
+   "source": "Afanasyev, Marya Morevna",
+   "date": "1855–1863",
+   "tier": "attested",
+   "stated_by": [
+    "baba_yaga"
+   ]
+  },
+  {
+   "a": "baba_yaga",
+   "b": "morana",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern charts sometimes equate Morana with Baba Yaga without early evidence.",
+   "source": "modern comparative charts",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "jarilo",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern authors sometimes equate Jarilo with Dazhbog as a youthful sun.",
+   "source": "Modern comparative and revival literature",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "mokosh",
+   "kind": "shared_myth",
+   "myth": "Vladimir’s Kyiv pantheon",
+   "note": "Mokosh and Dazhbog are co-listed among Vladimir’s Kyiv idols.",
+   "source": "Primary Chronicle",
+   "date": "980; compiled c. 1110s",
+   "tier": "attested",
+   "stated_by": [
+    "dazhbog"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "mokosh",
+   "kind": "shared_myth",
+   "myth": "Vladimir installs the Kievan pantheon",
+   "note": "Their idols appear together in Vladimir’s hilltop cult ensemble.",
+   "source": "Primary Chronicle, entry for 980",
+   "date": "early twelfth century",
+   "tier": "attested",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "perun",
+   "kind": "shared_myth",
+   "myth": "Vladimir’s Kyiv pantheon",
+   "note": "Their idols stand together in Vladimir’s public Kyiv pantheon.",
+   "source": "Primary Chronicle",
+   "date": "980; compiled c. 1110s",
+   "tier": "attested",
+   "stated_by": [
+    "dazhbog",
+    "perun"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "svarog",
+   "kind": "child_of",
+   "myth": "Dazhbog as Sun, son of Svarog",
+   "note": "Dazhbog is explicitly called Svarog’s son.",
+   "source": "Slavic Malalas tradition, Hypatian Chronicle",
+   "date": "preserved under 1114",
+   "tier": "late_accretion",
+   "stated_by": [
+    "dazhbog"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "svarog",
+   "kind": "child_of",
+   "myth": "Dazhbog succeeds Svarog as ruler",
+   "note": "Svarog is named as father of the solar Dazhbog.",
+   "source": "Hypatian Chronicle, Slavic Malalas interpolation",
+   "date": "1114 entry; manuscript c. 1420s",
+   "tier": "attested",
+   "stated_by": [
+    "svarog"
+   ]
+  },
+  {
+   "a": "dazhbog",
+   "b": "svarog",
+   "kind": "other",
+   "myth": "Succession of Svarog",
+   "note": "Dazhbog succeeds Svarog as ruler in the euhemerized chronographic narrative.",
+   "source": "Slavic Malalas tradition, Hypatian Chronicle",
+   "date": "preserved under 1114",
+   "tier": "late_accretion",
+   "stated_by": [
+    "dazhbog"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "consort_of",
+   "myth": "Seasonal sacred wedding",
+   "note": "Jarilo returns in spring and marries Morana, releasing fertility.",
+   "source": "Katičić–Belaj reconstruction",
+   "date": "1980s onward",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "consort_of",
+   "myth": "Jarilo–Morana seasonal wedding",
+   "note": "Reconstructed seasonal mythology has Morana marry Jarilo after his spring return.",
+   "source": "Ivanov and Toporov reconstruction",
+   "date": "1960s–1980s",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "killed_by",
+   "myth": "Morana’s revenge",
+   "note": "Modern retellings say Morana kills Jarilo after his infidelity.",
+   "source": "Modern comparative retellings",
+   "date": "twentieth century–present",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "shared_myth",
+   "myth": "Annual fertility, betrayal, death, and regeneration",
+   "note": "Their reconstructed cycle links spring return, marriage, betrayal, death, and winter.",
+   "source": "structuralist seasonal reconstruction",
+   "date": "20th century",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "sibling_of",
+   "myth": "Sacred wedding of the divine twins",
+   "note": "Jarilo and Morana are reconstructed as twin children of Perun.",
+   "source": "Katičić–Belaj reconstruction",
+   "date": "1980s onward",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "morana",
+   "kind": "sibling_of",
+   "myth": "Jarilo–Morana seasonal cycle",
+   "note": "Reconstruction makes Morana Jarilo’s sister; no complete early narrative survives.",
+   "source": "Ivanov and Toporov reconstruction",
+   "date": "1960s–1980s",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "perun",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Jarilo is reconstructed as a son of the thunder god Perun.",
+   "source": "Ivanov–Toporov/Katičić–Belaj model",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "svetovid",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern authors sometimes identify Jarilo with Svetovid without primary evidence.",
+   "source": "Modern comparative and revival literature",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "jarilo",
+   "b": "veles",
+   "kind": "other",
+   "myth": "Child taken into Veles’s otherworld",
+   "note": "Veles is reconstructed as Jarilo’s fosterer, captor, or otherworld ruler.",
+   "source": "Structuralist and philological reconstruction",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern",
+   "stated_by": [
+    "jarilo"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "morana",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern constructions identify Morana as Mokosh or her seasonal aspect.",
+   "source": "comparative and devotional constructions",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "morana",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Comparative and devotional constructions sometimes make Mokosh Morana’s mother.",
+   "source": "comparative and devotional constructions",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "perun",
+   "kind": "consort_of",
+   "myth": "Reconstructed Perun–Veles conflict",
+   "note": "Modern reconstructions cast Mokosh as Perun’s wife or lover.",
+   "source": "Ivanov–Toporov basic myth reconstruction",
+   "date": "1960s–1980s",
+   "tier": "modern",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "perun",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Structuralist reconstruction makes Mokosh Perun’s wife or disputed woman.",
+   "source": "Ivanov–Toporov reconstruction",
+   "date": "twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "perun",
+   "kind": "punished_by",
+   "myth": "Reconstructed punishment of the adulteress",
+   "note": "Some reconstructions cast Mokosh as an adulteress punished by Perun.",
+   "source": "Ivanov–Toporov basic myth reconstruction",
+   "date": "twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "perun",
+   "kind": "shared_myth",
+   "myth": "Vladimir installs the Kievan pantheon",
+   "note": "Their idols appear together in Vladimir’s hilltop cult ensemble.",
+   "source": "Primary Chronicle, entry for 980",
+   "date": "early twelfth century",
+   "tier": "attested",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "perun",
+   "kind": "shared_myth",
+   "myth": "Vladimir’s Kyiv pantheon",
+   "note": "Their idols are jointly installed on Vladimir’s Kyiv hill.",
+   "source": "Primary Chronicle, 980 entry",
+   "date": "980",
+   "tier": "canonical",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "veles",
+   "kind": "consort_of",
+   "myth": "Reconstructed Perun–Veles conflict",
+   "note": "Modern reconstruction and Rodnovery make Mokosh Veles’s lover or partner.",
+   "source": "Basic myth reconstruction and Rodnovery",
+   "date": "twentieth century–present",
+   "tier": "modern",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "veles",
+   "kind": "consort_of",
+   "myth": "Mokosh as Veles’s wife or lover",
+   "note": "Modern reconstructions sometimes identify Mokosh as Veles’s wife or lover.",
+   "source": "modern combat-myth reconstruction",
+   "date": "twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "veles",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some modern interpretations treat Mokosh as Veles’s functional double.",
+   "source": "Basic myth reconstruction and Rodnovery",
+   "date": "twentieth century–present",
+   "tier": "modern",
+   "stated_by": [
+    "mokosh"
+   ]
+  },
+  {
+   "a": "mokosh",
+   "b": "veles",
+   "kind": "theft",
+   "myth": "Veles abducts the thunderer’s woman",
+   "note": "A further reconstruction names Mokosh as the woman Veles abducts.",
+   "source": "modern combat-myth reconstruction",
+   "date": "twentieth century",
+   "tier": "modern",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "morana",
+   "b": "perun",
+   "kind": "punished_by",
+   "myth": "",
+   "note": "Modern synthetic accounts claim Perun punishes Morana without early support.",
+   "source": "modern synthetic mythology",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "morana",
+   "b": "veles",
+   "kind": "consort_of",
+   "myth": "Underworld partnership",
+   "note": "Modern reconstruction and devotional theology make Morana Veles’s wife or partner.",
+   "source": "modern devotional theology",
+   "date": "modern",
+   "tier": "modern",
+   "stated_by": [
+    "morana"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "fought",
+   "myth": "Reconstructed cosmic combat",
+   "note": "Perun attacks the hiding Veles with thunderbolts and defeats him.",
+   "source": "Ivanov–Toporov basic-myth reconstruction",
+   "date": "1960s–1970s",
+   "tier": "modern",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "fought",
+   "myth": "Perun pursues Veles with thunderbolts",
+   "note": "Reconstructed Veles flees Perun, whose victory releases rain and restores order.",
+   "source": "Ivanov and Toporov’s basic myth",
+   "date": "1960s–1970s",
+   "tier": "modern",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "shared_myth",
+   "myth": "Oleg’s purported oath",
+   "note": "Perun and Volos jointly guarantee the Rusʹ oath.",
+   "source": "Primary Chronicle, 907 entry",
+   "date": "early twelfth century",
+   "tier": "canonical",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "shared_myth",
+   "myth": "Sviatoslav’s treaty oath",
+   "note": "Perun and Volos jointly guarantee the Rusʹ treaty curse.",
+   "source": "Primary Chronicle, 971 entry",
+   "date": "971",
+   "tier": "attested",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "shared_myth",
+   "myth": "Oleg’s men swear by Perun and Volos",
+   "note": "Volos and Perun jointly witness the Rusʹ oath reported under 907.",
+   "source": "Primary Chronicle",
+   "date": "early twelfth century",
+   "tier": "attested",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "shared_myth",
+   "myth": "Sviatoslav’s oath invokes Perun and Volos",
+   "note": "They jointly guarantee peace and threaten oath-breakers with divine punishment.",
+   "source": "Primary Chronicle",
+   "date": "971; compiled early twelfth century",
+   "tier": "attested",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "shared_myth",
+   "myth": "Condemned pagan gods listed together",
+   "note": "Veles and Perun appear together in a Christian catalogue of false gods.",
+   "source": "Walk of the Mother of God",
+   "date": "medieval Slavonic tradition",
+   "tier": "canonical",
+   "stated_by": [
+    "veles"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "theft",
+   "myth": "Reconstructed theft provoking cosmic combat",
+   "note": "Veles allegedly steals Perun’s cattle, wealth, water, or wife.",
+   "source": "Ivanov–Toporov basic-myth reconstruction",
+   "date": "1960s–1970s",
+   "tier": "modern",
+   "stated_by": [
+    "perun"
+   ]
+  },
+  {
+   "a": "perun",
+   "b": "veles",
+   "kind": "theft",
+   "myth": "Veles steals from the thunderer",
+   "note": "Reconstructed Veles steals Perun’s cattle, wealth, people, family member, or wife.",
+   "source": "Ivanov and Toporov’s basic myth",
+   "date": "1960s–1970s",
+   "tier": "modern",
+   "stated_by": [
+    "veles"
+   ]
+  }
+ ],
+ "unresolved": {
+  "Baba Yaga sisters": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "sibling_of",
+    "myth": "Multiple Yagas",
+    "note": "Three near-identical sisters inhabit successive huts and provide knowledge or magical aid.",
+    "source": "East Slavic tale collections",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "attested"
+   }
+  ],
+  "Bannik": [
+   {
+    "stated_by": "leshy",
+    "kind": "other",
+    "myth": "Territorial avoidance",
+    "note": "The Leshy avoids villages so as not to quarrel with bathhouse spirits.",
+    "source": "Maksimov, Nechistaia sila",
+    "date": "1903",
+    "tier": "attested"
+   }
+  ],
+  "Bright Day": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "served_by",
+    "myth": "Vasilisa the Beautiful",
+    "note": "Baba Yaga calls the white rider her bright day.",
+    "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+    "date": "1855–1863",
+    "tier": "attested"
+   }
+  ],
+  "Bulat": [
+   {
+    "stated_by": "koschei",
+    "kind": "fought",
+    "myth": "Koschei the Deathless",
+    "note": "Bulat joins Ivan in pursuing Koschei after Vasilisa’s abduction.",
+    "source": "Afanasyev no. 158",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Chernobog": [
+   {
+    "stated_by": "morana",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Some unsupported modern genealogies make Morana a daughter of Chernobog.",
+    "source": "modern synthetic genealogy",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "morana",
+    "kind": "consort_of",
+    "myth": "Underworld partnership",
+    "note": "Modern occult and fantasy elaboration makes Morana Chernobog’s consort.",
+    "source": "modern occult and fantasy accounts",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Christ": [
+   {
+    "stated_by": "leshy",
+    "kind": "contest",
+    "myth": "Blessed release and forest release",
+    "note": "Christian pastoral protection provides the ritual alternative to contracting with the Leshy.",
+    "source": "Northern Russian pastoral ethnography",
+    "date": "nineteenth century onward",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "perun",
+    "kind": "other",
+    "myth": "Christian rejection of Perun",
+    "note": "The sermon says baptized Slavs cast off Perun and turned to Christ.",
+    "source": "Sermon of St Gregory",
+    "date": "eleventh–thirteenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Dark Night": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "served_by",
+    "myth": "Vasilisa the Beautiful",
+    "note": "Baba Yaga calls the black rider her dark night.",
+    "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+    "date": "1855–1863",
+    "tier": "attested"
+   }
+  ],
+  "Domovoi": [
+   {
+    "stated_by": "leshy",
+    "kind": "other",
+    "myth": "Territorial avoidance",
+    "note": "The Leshy avoids villages so as not to quarrel with domestic spirits.",
+    "source": "Maksimov, Nechistaia sila",
+    "date": "1903",
+    "tier": "attested"
+   }
+  ],
+  "Dziewanna": [
+   {
+    "stated_by": "morana",
+    "kind": "contest",
+    "myth": "Winter and spring succession",
+    "note": "Later synthetic mythology pairs Morana and Dziewanna as seasonal opposites.",
+    "source": "later synthetic mythology",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Eagle husband": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Marya Morevna",
+    "note": "Ivan’s eagle brother-in-law retrieves the barrel containing Koschei’s dismembered victim.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Elijah": [
+   {
+    "stated_by": "perun",
+    "kind": "identified_with",
+    "myth": "Elijah’s heavenly ride",
+    "note": "Elijah assumes Perun-like thunder, lightning, rain, and punishment functions.",
+    "source": "Later Slavic weather folklore",
+    "date": "Christian folklore",
+    "tier": "syncretism"
+   }
+  ],
+  "Falcon husband": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Marya Morevna",
+    "note": "Ivan’s falcon brother-in-law helps restore Ivan after Koschei dismembers him.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Firebird": [
+   {
+    "stated_by": "koschei",
+    "kind": "fought",
+    "myth": "The Firebird",
+    "note": "The Firebird enchants Koschei’s host and reveals how his external life can be destroyed.",
+    "source": "Fokine and Stravinsky, “The Firebird”",
+    "date": "1910",
+    "tier": "modern"
+   }
+  ],
+  "Forest Tsar": [
+   {
+    "stated_by": "leshy",
+    "kind": "served",
+    "myth": "Complaint to the forest ruler",
+    "note": "Local Leshies are subordinate to a superior ruler who hears complaints against them.",
+    "source": "Olonets and Onega material in Maksimov",
+    "date": "1903",
+    "tier": "regional_variant"
+   }
+  ],
+  "Ivan Godinovich": [
+   {
+    "stated_by": "koschei",
+    "kind": "contest",
+    "myth": "The bylina bride-rival",
+    "note": "They rival each other over Nastasya; Ivan binds or defeats Koschei.",
+    "source": "“Ivan Godinovich,” Kirsha Danilov manuscript",
+    "date": "after 1742",
+    "tier": "attested"
+   }
+  ],
+  "Ivan Tsarevich": [
+   {
+    "stated_by": "koschei",
+    "kind": "fought",
+    "myth": "The external death and abducted woman",
+    "note": "Ivan confronts Koschei while rescuing an abducted bride, wife, or mother.",
+    "source": "Pushkin record; Afanasyev nos. 156–158",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "killed_by",
+    "myth": "The external death and abducted woman",
+    "note": "Ivan destroys Koschei’s external egg or needle, thereby killing him.",
+    "source": "Pushkin record; Afanasyev nos. 156–158",
+    "date": "nineteenth century",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "killed",
+    "myth": "Marya Morevna",
+    "note": "Koschei dismembers Ivan and casts his sealed barrel into the sea.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "killed_by",
+    "myth": "Marya Morevna",
+    "note": "Ivan’s superior horse disables Koschei; Ivan clubs and burns him.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Jarovit": [
+   {
+    "stated_by": "jarilo",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholars disputedly identify them through shared names and spring associations.",
+    "source": "Modern comparative scholarship",
+    "date": "twentieth–twenty-first centuries",
+    "tier": "syncretism"
+   }
+  ],
+  "Ježibaba": [
+   {
+    "stated_by": "rusalki",
+    "kind": "transformed_by",
+    "myth": "Rusalka becomes human",
+    "note": "Ježibaba makes Rusalka human and mute, imposing fatal conditions on her love.",
+    "source": "Kvapil and Dvořák, Rusalka",
+    "date": "1900–1901",
+    "tier": "modern"
+   }
+  ],
+  "Kashcheyevna": [
+   {
+    "stated_by": "koschei",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Kashcheyevna is Koschei’s daughter, deliberately raised without pity.",
+    "source": "Rimsky-Korsakov, “Kashchey the Deathless”",
+    "date": "1902",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "killed_by",
+    "myth": "Kashchey the Deathless",
+    "note": "Her tear of love and compassion releases Koschei’s concealed death.",
+    "source": "Rimsky-Korsakov, “Kashchey the Deathless”",
+    "date": "1902",
+    "tier": "modern"
+   }
+  ],
+  "Khors": [
+   {
+    "stated_by": "dazhbog",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Khors and Dazhbog are co-listed as distinct idols in Kyiv.",
+    "source": "Primary Chronicle",
+    "date": "980; compiled c. 1110s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "jarilo",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern authors sometimes equate Jarilo with Khors as a youthful sun.",
+    "source": "Modern comparative and revival literature",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Vladimir installs the Kievan pantheon",
+    "note": "Their idols appear together in Vladimir’s hilltop cult ensemble.",
+    "source": "Primary Chronicle, entry for 980",
+    "date": "early twelfth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "perun",
+    "kind": "shared_myth",
+    "myth": "Illicit prayer after baptism",
+    "note": "Medieval sermons jointly list Perun and Khors as objects of prayer.",
+    "source": "Sermon of St Gregory",
+    "date": "eleventh–thirteenth centuries",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "perun",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Their idols are jointly installed on Vladimir’s Kyiv hill.",
+    "source": "Primary Chronicle, 980 entry",
+    "date": "980",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "veles",
+    "kind": "shared_myth",
+    "myth": "Condemned pagan gods listed together",
+    "note": "Khors and Veles are jointly listed as beings whom people made gods.",
+    "source": "Walk of the Mother of God",
+    "date": "medieval Slavonic tradition",
+    "tier": "canonical"
+   }
+  ],
+  "Kostroma": [
+   {
+    "stated_by": "jarilo",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Parallel mock funerals prompted classification as cognate or interchangeable vegetation figures.",
+    "source": "Regional ethnography and mythography",
+    "date": "nineteenth–early twentieth centuries",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "morana",
+    "kind": "identified_with",
+    "myth": "Seasonal death and return",
+    "note": "Comparative charts treat Kostroma as Morana’s corresponding or succeeding seasonal figure.",
+    "source": "modern comparative charts",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Kostrub": [
+   {
+    "stated_by": "jarilo",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Parallel mock funerals prompted classification as cognate or interchangeable vegetation figures.",
+    "source": "Regional ethnography and mythography",
+    "date": "nineteenth–early twentieth centuries",
+    "tier": "modern"
+   }
+  ],
+  "Kupala": [
+   {
+    "stated_by": "jarilo",
+    "kind": "shared_myth",
+    "myth": "Consecutive phases of a seasonal drama",
+    "note": "Later systematizers arranged adjacent Jarilo and Kupala rites into one cycle.",
+    "source": "Ethnography and later systematization",
+    "date": "nineteenth century onward",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "morana",
+    "kind": "identified_with",
+    "myth": "Seasonal succession",
+    "note": "Comparative charts treat Kupala as Morana’s corresponding or succeeding seasonal figure.",
+    "source": "modern comparative charts",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Lada": [
+   {
+    "stated_by": "morana",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Modern synthetic pantheon genealogies make Morana a daughter of Lada.",
+    "source": "modern synthetic pantheon genealogy",
+    "date": "modern",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "svarog",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Some modern pantheons present Lada as Svarog’s wife without medieval support.",
+    "source": "Modern Rodnover and popular mythology",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Marya Morevna": [
+   {
+    "stated_by": "koschei",
+    "kind": "fought",
+    "myth": "Marya Morevna",
+    "note": "The warrior queen defeats Koschei and imprisons him on twelve chains.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Marya Morevna",
+    "note": "After escaping his chains, Koschei abducts Marya and repeatedly recaptures her.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Marya-Tsarevna": [
+   {
+    "stated_by": "koschei",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Zhukovsky’s literary Koschei is Marya-Tsarevna’s father.",
+    "source": "Zhukovsky, “The Tale of Tsar Berendei”",
+    "date": "1831/1833",
+    "tier": "late_accretion"
+   },
+   {
+    "stated_by": "koschei",
+    "kind": "contest",
+    "myth": "The Tale of Tsar Berendei",
+    "note": "She opposes her father, aids Ivan, and escapes Koschei during a magic flight.",
+    "source": "Zhukovsky, “The Tale of Tsar Berendei”",
+    "date": "1831/1833",
+    "tier": "late_accretion"
+   }
+  ],
+  "Matʹ Syra Zemlia": [
+   {
+    "stated_by": "mokosh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Scholarship and modern religion identify Mokosh with personified sacred earth.",
+    "source": "Scholarly and modern religious equation",
+    "date": "twentieth century–present",
+    "tier": "syncretism"
+   }
+  ],
+  "Mikhailo Potyk": [
+   {
+    "stated_by": "koschei",
+    "kind": "fought",
+    "myth": "Mikhailo Potyk variants",
+    "note": "Koschei Koshcheevich appears as Potyk’s hostile rival or otherworldly opponent.",
+    "source": "Mikhailo Potyk bylina corpus",
+    "date": "eighteenth–nineteenth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nastasya": [
+   {
+    "stated_by": "koschei",
+    "kind": "consort_of",
+    "myth": "The bylina bride-rival",
+    "note": "She is Koschei’s bride or willing partner, with variants differing.",
+    "source": "“Ivan Godinovich” bylina records",
+    "date": "eighteenth–nineteenth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Nenaslyadnaya Krasota": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Koschei the Deathless",
+    "note": "Koschei takes Ivan’s intended bride and holds her until Ivan rescues her.",
+    "source": "Afanasyev no. 157",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Paraskeva Pyatnitsa": [
+   {
+    "stated_by": "mokosh",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "A debated survival theory treats Paraskeva as Mokosh’s functional successor.",
+    "source": "Ivanov, Toporov, and Uspenskii",
+    "date": "twentieth century",
+    "tier": "syncretism"
+   }
+  ],
+  "Polevik": [
+   {
+    "stated_by": "leshy",
+    "kind": "other",
+    "myth": "Territorial boundary",
+    "note": "The Leshy rarely enters meadows because he respects the field spirit’s rights.",
+    "source": "Maksimov, Nechistaia sila",
+    "date": "1903",
+    "tier": "attested"
+   }
+  ],
+  "Prince Ivan": [
+   {
+    "stated_by": "koschei",
+    "kind": "killed_by",
+    "myth": "The Firebird",
+    "note": "Guided by the Firebird, Prince Ivan destroys Koschei’s external life-object.",
+    "source": "Fokine and Stravinsky, “The Firebird”",
+    "date": "1910",
+    "tier": "modern"
+   }
+  ],
+  "Princess of Unearthly Beauty": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Kashchey the Deathless",
+    "note": "Koschei holds the princess captive; her compassion contributes to his destruction.",
+    "source": "Rimsky-Korsakov, “Kashchey the Deathless”",
+    "date": "1902",
+    "tier": "modern"
+   }
+  ],
+  "Radegast": [
+   {
+    "stated_by": "svarog",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Later writers sometimes identify Rethra’s god with Radegast rather than Svarozhich.",
+    "source": "Later Rethra historiography",
+    "date": "medieval and later",
+    "tier": "late_accretion"
+   }
+  ],
+  "Raven husband": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Marya Morevna",
+    "note": "Ivan’s raven brother-in-law fetches dead water used to restore Koschei’s victim.",
+    "source": "Afanasyev no. 159, “Marya Morevna”",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Red Sun": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "served_by",
+    "myth": "Vasilisa the Beautiful",
+    "note": "Baba Yaga calls the red rider her red sun.",
+    "source": "Afanasyev, Vasilisa the Beautiful, no. 104",
+    "date": "1855–1863",
+    "tier": "attested"
+   }
+  ],
+  "Rod": [
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Catalogue of illicit offerings",
+    "note": "They are co-listed as recipients of illicit prayer or offerings.",
+    "source": "Sermon of One Who Loves Christ",
+    "date": "twelfth–thirteenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "Saint Vitus": [
+   {
+    "stated_by": "svetovid",
+    "kind": "identified_with",
+    "myth": "Christian saint allegedly became the Rugians’ pagan god",
+    "note": "Medieval churchmen identified Svetovid with Saint Vitus through a disputed Christian origin legend.",
+    "source": "Helmold, Chronica Slavorum I.6",
+    "date": "c. 1167–1172",
+    "tier": "syncretism"
+   }
+  ],
+  "Sea Tsar": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "shared_myth",
+    "myth": "The Sea Tsar and Vasilisa the Wise",
+    "note": "She advises the hero how to enter his realm and identify Vasilisa.",
+    "source": "East Slavic tale variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Serpent/Dragon": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some regional tales make Baba Yaga the serpent antagonist’s mother.",
+    "source": "East Slavic tale variants",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "Simargl": [
+   {
+    "stated_by": "dazhbog",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Simargl and Dazhbog are co-listed among Vladimir’s Kyiv idols.",
+    "source": "Primary Chronicle",
+    "date": "980; compiled c. 1110s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Vladimir installs the Kievan pantheon",
+    "note": "Their idols appear together in Vladimir’s hilltop cult ensemble.",
+    "source": "Primary Chronicle, entry for 980",
+    "date": "early twelfth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "perun",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Their idols are jointly installed on Vladimir’s Kyiv hill.",
+    "source": "Primary Chronicle, 980 entry",
+    "date": "980",
+    "tier": "canonical"
+   }
+  ],
+  "St George": [
+   {
+    "stated_by": "jarilo",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Juraj is interpreted as Jarilo’s Christian calendar successor or functional carrier.",
+    "source": "Christian-era St George songs",
+    "date": "recorded nineteenth–twentieth centuries",
+    "tier": "syncretism"
+   },
+   {
+    "stated_by": "leshy",
+    "kind": "contest",
+    "myth": "Blessed release and forest release",
+    "note": "Yegorii’s blessed livestock protection contrasts with the feared Leshy contract.",
+    "source": "Northern ethnography; A. B. Moroz",
+    "date": "nineteenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "St Nicholas": [
+   {
+    "stated_by": "leshy",
+    "kind": "contest",
+    "myth": "Spring livestock release",
+    "note": "Saintly protection near his feast contrasts with forest releases naming the Leshy.",
+    "source": "Northern Russian pastoral ethnography",
+    "date": "nineteenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "Stribog": [
+   {
+    "stated_by": "dazhbog",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Stribog and Dazhbog are co-listed among Vladimir’s Kyiv idols.",
+    "source": "Primary Chronicle",
+    "date": "980; compiled c. 1110s",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Vladimir installs the Kievan pantheon",
+    "note": "Their idols appear together in Vladimir’s hilltop cult ensemble.",
+    "source": "Primary Chronicle, entry for 980",
+    "date": "early twelfth century",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "perun",
+    "kind": "shared_myth",
+    "myth": "Vladimir’s Kyiv pantheon",
+    "note": "Their idols are jointly installed on Vladimir’s Kyiv hill.",
+    "source": "Primary Chronicle, 980 entry",
+    "date": "980",
+    "tier": "canonical"
+   }
+  ],
+  "Svarozhich": [
+   {
+    "stated_by": "svarog",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Svarozhich is conjectured to mean Svarog’s son, but no narrative confirms it.",
+    "source": "Medieval names and modern morphology",
+    "date": "1008 onward",
+    "tier": "modern"
+   },
+   {
+    "stated_by": "svarog",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Some scholars treat Svarozhich as a diminutive or form of Svarog.",
+    "source": "Modern scholarly reconstruction",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Three wood nymphs": [
+   {
+    "stated_by": "rusalki",
+    "kind": "allied",
+    "myth": "Opening lake scene",
+    "note": "Three wood nymphs appear as Rusalka’s companions in the opening lake scene.",
+    "source": "Kvapil and Dvořák, Rusalka",
+    "date": "1900–1901",
+    "tier": "modern"
+   }
+  ],
+  "Troyan": [
+   {
+    "stated_by": "veles",
+    "kind": "shared_myth",
+    "myth": "Condemned pagan gods listed together",
+    "note": "Troyan and Veles are jointly listed as beings whom people made gods.",
+    "source": "Walk of the Mother of God",
+    "date": "medieval Slavonic tradition",
+    "tier": "canonical"
+   }
+  ],
+  "Tvashtr": [
+   {
+    "stated_by": "svarog",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Modern comparative writing links Tvashtr and Svarog through divine smithing.",
+    "source": "Modern comparative writing",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Vala": [
+   {
+    "stated_by": "veles",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Comparativists equate Veles with Vala as an adversary of the thunderer.",
+    "source": "Indo-European comparative scholarship",
+    "date": "modern scholarship",
+    "tier": "modern"
+   }
+  ],
+  "Vasilisa Kirbitevna": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Koschei the Deathless",
+    "note": "Koschei abducts Vasilisa, prompting Ivan and Bulat to pursue him.",
+    "source": "Afanasyev no. 158",
+    "date": "1855–1863",
+    "tier": "canonical"
+   }
+  ],
+  "Vasilisa the Wise": [
+   {
+    "stated_by": "koschei",
+    "kind": "other",
+    "myth": "Frog Princess variants",
+    "note": "Koschei possesses or abducts her until Ivan breaks the fatal needle.",
+    "source": "Afanasyev’s “Frog Princess” variants",
+    "date": "nineteenth century",
+    "tier": "regional_variant"
+   }
+  ],
+  "Vesna": [
+   {
+    "stated_by": "morana",
+    "kind": "contest",
+    "myth": "Winter versus spring",
+    "note": "Modern retellings oppose Morana’s winter to Vesna’s spring.",
+    "source": "modern Czech and Slovak retellings",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "Vodník": [
+   {
+    "stated_by": "rusalki",
+    "kind": "child_of",
+    "myth": "",
+    "note": "Vodník is the heroine Rusalka’s father, who warns her and laments her fate.",
+    "source": "Kvapil and Dvořák, Rusalka",
+    "date": "1900–1901",
+    "tier": "modern"
+   }
+  ],
+  "Vṛtra": [
+   {
+    "stated_by": "veles",
+    "kind": "identified_with",
+    "myth": "",
+    "note": "Comparativists equate Veles with Vṛtra as an adversary of the thunderer.",
+    "source": "Indo-European comparative scholarship",
+    "date": "modern scholarship",
+    "tier": "modern"
+   }
+  ],
+  "beregyni": [
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Catalogue of condemned pagan beings",
+    "note": "They are co-listed in the Gregorian and Chrysostomic homiletic tradition.",
+    "source": "Gregorian and Chrysostomic homilies",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "crocodile": [
+   {
+    "stated_by": "baba_yaga",
+    "kind": "fought",
+    "myth": "Yaga-Baba rides to fight the crocodile",
+    "note": "A satirical lubok shows Yaga-Baba riding a pig to fight it.",
+    "source": "Moscow crocodile lubok",
+    "date": "c. 1760 or later",
+    "tier": "late_accretion"
+   }
+  ],
+  "leshachikha": [
+   {
+    "stated_by": "leshy",
+    "kind": "consort_of",
+    "myth": "",
+    "note": "Regional stories describe a female forest spirit as the Leshy’s wife.",
+    "source": "East Slavic regional folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "leshata": [
+   {
+    "stated_by": "leshy",
+    "kind": "parent_of",
+    "myth": "",
+    "note": "Some communities describe native forest-spirit children belonging to Leshy families.",
+    "source": "East Slavic regional folklore",
+    "date": "nineteenth–twentieth centuries",
+    "tier": "regional_variant"
+   }
+  ],
+  "neighboring Leshies": [
+   {
+    "stated_by": "leshy",
+    "kind": "contest",
+    "myth": "Gambling for forest animals",
+    "note": "Leshies gamble for hares and squirrels and drive them into the winner’s territory.",
+    "source": "Maksimov and related collections",
+    "date": "nineteenth–early twentieth centuries",
+    "tier": "attested"
+   },
+   {
+    "stated_by": "leshy",
+    "kind": "fought",
+    "myth": "Forest spirits mirror human warfare",
+    "note": "Leshies fight one another when human nations go to war.",
+    "source": "Maksimov and related collections",
+    "date": "nineteenth–early twentieth centuries",
+    "tier": "attested"
+   }
+  ],
+  "the Moirai": [
+   {
+    "stated_by": "mokosh",
+    "kind": "other",
+    "myth": "",
+    "note": "The Moirai are cited as comparative fate analogues without historical interaction.",
+    "source": "Modern comparative scholarship",
+    "date": "modern",
+    "tier": "modern"
+   }
+  ],
+  "the Rozhanitsy": [
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Catalogue of illicit offerings",
+    "note": "They are co-listed as recipients of illicit prayer or offerings.",
+    "source": "Sermon of One Who Loves Christ",
+    "date": "twelfth–thirteenth centuries",
+    "tier": "canonical"
+   }
+  ],
+  "the Virgin": [
+   {
+    "stated_by": "leshy",
+    "kind": "contest",
+    "myth": "Blessed release and forest release",
+    "note": "Herdsmen invoke the Virgin in blessed releases instead of seeking Leshy protection.",
+    "source": "Northern Russian pastoral ethnography",
+    "date": "nineteenth century onward",
+    "tier": "syncretism"
+   }
+  ],
+  "vampires": [
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Catalogue of condemned pagan beings",
+    "note": "They are co-listed in the Gregorian and Chrysostomic homiletic tradition.",
+    "source": "Gregorian and Chrysostomic homilies",
+    "date": "medieval",
+    "tier": "canonical"
+   }
+  ],
+  "vily": [
+   {
+    "stated_by": "mokosh",
+    "kind": "shared_myth",
+    "myth": "Catalogue of condemned pagan beings",
+    "note": "They are co-listed as recipients of illicit prayer or offerings.",
+    "source": "Sermon of Saint Gregory",
+    "date": "medieval, textually layered",
+    "tier": "canonical"
+   }
+  ]
+ }
+}

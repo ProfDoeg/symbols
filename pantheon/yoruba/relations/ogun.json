@@ -1,0 +1,486 @@
+{
+ "subject": "ogun",
+ "relations": [
+  {
+   "other": "Olódùmarè",
+   "other_aliases": [
+    "Ọlọ́run"
+   ],
+   "kind": "served",
+   "myth": "Descent of the primordial powers",
+   "note": "Olódùmarè sends or authorizes Ogun and later assigns him mastery of iron.",
+   "source": "Ifá and oral versions",
+   "date": "twentieth-century records",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọbàtálá",
+   "other_aliases": [
+    "Òrìṣànlá",
+    "Obatala"
+   ],
+   "kind": "allied",
+   "myth": "Completion of creation",
+   "note": "Ogun supplies cutting or metal power following Ọbàtálá's creation work.",
+   "source": "Ifá narratives",
+   "date": "twentieth-century records",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọbàtálá",
+   "other_aliases": [
+    "Òrìṣànlá",
+    "Obatala"
+   ],
+   "kind": "contest",
+   "myth": "Early Ife kingship",
+   "note": "Ogun and Ọbàtálá contend in traditions concerning early Ife kingship.",
+   "source": "Ife oral histories",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọbàtálá",
+   "other_aliases": [
+    "Òrìṣànlá",
+    "Obatala"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ellis makes Ọbàtálá Ogun's ancestor through Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọbàtálá",
+   "other_aliases": [
+    "Òrìṣànlá",
+    "Obatala"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some diaspora genealogies make Ogun a son of Obatalá.",
+   "source": "Lucumí and Brazilian narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odùduwà",
+   "other_aliases": [
+    "Odudua"
+   ],
+   "kind": "allied",
+   "myth": "Terrestrial settlement",
+   "note": "Ogun accompanies or assists Odùduwà during settlement of the terrestrial world.",
+   "source": "Johnson-era oral histories",
+   "date": "1897 and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odùduwà",
+   "other_aliases": [
+    "Odudua"
+   ],
+   "kind": "contest",
+   "myth": "Dynastic settlement traditions",
+   "note": "Some dynastic traditions portray Ogun as Odùduwà's rival or successor.",
+   "source": "Johnson-era oral histories",
+   "date": "1897 and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Odùduwà",
+   "other_aliases": [
+    "Odudua"
+   ],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ellis makes Odùduwà Ogun's ancestor through Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "taught_by",
+   "myth": "Sacrifice before success",
+   "note": "Ogun consults Ọ̀rúnmìlà and succeeds or fails according to prescribed sacrifice.",
+   "source": "Odù recorded by Bascom and Abimbola",
+   "date": "twentieth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọ̀rúnmìlà",
+   "other_aliases": [
+    "Ifá"
+   ],
+   "kind": "gift",
+   "myth": "Implements for divination",
+   "note": "Ogun manufactures implements required by divination or human civilization.",
+   "source": "Recorded Odù Ifá",
+   "date": "twentieth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Èṣù",
+   "other_aliases": [
+    "Elegbara",
+    "Elegguá"
+   ],
+   "kind": "other",
+   "myth": "Èṣù tests Ogun",
+   "note": "Èṣù carries Ogun's sacrifice, tests him, or precipitates conflict.",
+   "source": "Ifá and cowrie narratives",
+   "date": "twentieth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Èṣù",
+   "other_aliases": [
+    "Elegbara",
+    "Elegguá"
+   ],
+   "kind": "allied",
+   "myth": "Cuban warriors",
+   "note": "Elegguá and Ogun belong to the Lucumí group of consecrated warriors.",
+   "source": "Lucumí ethnography",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣọ́ọ̀sì",
+   "other_aliases": [
+    "Ochosi"
+   ],
+   "kind": "allied",
+   "myth": "Hunter and iron-worker",
+   "note": "Ochosi finds or shoots quarry while Ogun clears, traps, or kills.",
+   "source": "Lucumí oral record",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣọ́ọ̀sì",
+   "other_aliases": [
+    "Ochosi"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cuban iron cauldron",
+   "note": "Lucumí practice places Ogun and Ochosi together within a consecrated iron cauldron.",
+   "source": "Lucumí ritual record",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣun",
+   "other_aliases": [
+    "Ochún"
+   ],
+   "kind": "consort_of",
+   "myth": "Marriage of Ogun and Ọ̀ṣun",
+   "note": "Some Yoruba and diaspora stories make Ọ̀ṣun Ogun's wife or former wife.",
+   "source": "Cowrie, Cuban, and Brazilian narratives",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣun",
+   "other_aliases": [
+    "Ochún"
+   ],
+   "kind": "seduced_by",
+   "myth": "Ogun's forest withdrawal",
+   "note": "Ọ̀ṣun uses beauty or erotic attraction to draw Ogun from isolation.",
+   "source": "Ifá and diaspora narratives",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣun",
+   "other_aliases": [
+    "Ochún"
+   ],
+   "kind": "rescued_by",
+   "myth": "Ogun's forest withdrawal",
+   "note": "Ọ̀ṣun alone persuades Ogun to return, restoring tools, roads, and social life.",
+   "source": "Ifá and cowrie narratives",
+   "date": "twentieth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ọ̀ṣun",
+   "other_aliases": [
+    "Ochún"
+   ],
+   "kind": "deceived_by",
+   "myth": "Ogun's forest withdrawal",
+   "note": "In some versions Ọ̀ṣun tricks Ogun for the benefit of the other òrìṣà.",
+   "source": "Diaspora compilations",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọya",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some traditions make Ọya Ogun's wife or companion before her association with Ṣàngó.",
+   "source": "Oral and diaspora narratives",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó",
+    "Xangô"
+   ],
+   "kind": "contest",
+   "myth": "Rivalry for women or precedence",
+   "note": "Ogun and Ṣàngó compete over women or status in several noncanonical variants.",
+   "source": "Ifá and diaspora narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó",
+    "Xangô"
+   ],
+   "kind": "allied",
+   "myth": "Two violent powers",
+   "note": "Some narratives present Ogun and Ṣàngó as cooperating martial and destructive powers.",
+   "source": "Praise and diaspora narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó",
+    "Xangô"
+   ],
+   "kind": "gift",
+   "myth": "Weapon forged for Ṣàngó",
+   "note": "In some stories Ogun forges a weapon for Ṣàngó.",
+   "source": "Ifá and diaspora narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yemọja",
+   "other_aliases": [
+    "Yemayá"
+   ],
+   "kind": "child_of",
+   "myth": "Yemọja's ruptured body",
+   "note": "Ellis's synthetic genealogy makes Ogun emerge from Yemọja's ruptured body.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Yemọja",
+   "other_aliases": [
+    "Yemayá"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some diaspora genealogies independently make Yemayá Ogun's mother.",
+   "source": "Lucumí and Brazilian narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Yemọja",
+   "other_aliases": [
+    "Yemayá"
+   ],
+   "kind": "consort_of",
+   "myth": "Failed marriage with Yemọja",
+   "note": "An Oyo-related tradition says Ogun could not sustain his marriage with Yemọja.",
+   "source": "Oyo traditions discussed by Matory",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ṣàngó",
+   "other_aliases": [
+    "Changó",
+    "Xangô"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Ṣàngó among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọya",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Ọya among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọ̀ṣun",
+   "other_aliases": [
+    "Ochún"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Ọ̀ṣun among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọbà",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Ọbà among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Olókun",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Olókun among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Ọ̀ṣọ́ọ̀sì",
+   "other_aliases": [
+    "Ochosi"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Ellis lists Ọ̀ṣọ́ọ̀sì among Ogun's siblings born from Yemọja.",
+   "source": "Ellis, Yoruba-Speaking Peoples",
+   "date": "1894",
+   "tier": "attested"
+  },
+  {
+   "other": "Èṣù",
+   "other_aliases": [
+    "Elegbara",
+    "Elegguá"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some diaspora genealogies make Ogun a sibling or companion of Elegguá.",
+   "source": "Lucumí narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ọ̀ṣọ́ọ̀sì",
+   "other_aliases": [
+    "Ochosi"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some diaspora genealogies make Ogun a sibling or companion of Ochosi.",
+   "source": "Lucumí narratives",
+   "date": "twentieth-century records",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Obalufon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Early Ife rulership conflicts",
+   "note": "Modern-recorded Ife dynastic traditions attach Ogun to conflicts involving Obalufon.",
+   "source": "Ife oral traditions",
+   "date": "modern recording",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aje",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Ondo butcher's consultation",
+   "note": "A female butcher consulted Aje through Ogun and her iron tools.",
+   "source": "E. M. Lijadu journal",
+   "date": "1892",
+   "tier": "attested"
+  },
+  {
+   "other": "Agemo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Road and transitional masquerade",
+   "note": "Soyinka joins Ogun's road-and-metal complex with the Ijebu transitional masquerade Agemo.",
+   "source": "Soyinka, The Road",
+   "date": "1965",
+   "tier": "modern"
+  },
+  {
+   "other": "Gu",
+   "other_aliases": [
+    "Gou"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Gu is treated as historically cognate with or transferred from the Ogun complex.",
+   "source": "Dahomean testimony and comparative scholarship",
+   "date": "late eighteenth century onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saint Peter",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Cuban practice corresponds Ogun with Saint Peter through keys, iron, imprisonment, and iconography.",
+   "source": "Afro-Cuban practice",
+   "date": "twentieth century",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saint George",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Brazilian practice corresponds Ogum with Saint George through weapons, metal, courage, and protection.",
+   "source": "Brazilian religious practice",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saint Anthony of Padua",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Bahian practice corresponds Ogum with Saint Anthony, partly through the saint's military career.",
+   "source": "Bahian Candomblé record",
+   "date": "nineteenth–twentieth centuries",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osun",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Cuban warriors",
+   "note": "Osun watches and warns within the Lucumí warrior grouping that includes Ogun.",
+   "source": "Lucumí ritual record",
+   "date": "twentieth century",
+   "tier": "regional_variant"
+  }
+ ]
+}

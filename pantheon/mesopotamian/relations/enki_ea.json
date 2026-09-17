@@ -1,0 +1,789 @@
+{
+ "subject": "enki_ea",
+ "relations": [
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some later literary and theological traditions make Enki the son of An.",
+   "source": "Later literary and theological texts",
+   "date": "second to first millennia BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nammu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some traditions make the primeval water goddess Nammu Enki's mother.",
+   "source": "Sumerian literary traditions",
+   "date": "Old Babylonian copies",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Anšar",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Enūma eliš places Ea in the lineage descending from Anšar through Anu.",
+   "source": "Enūma eliš",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kišar",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Enūma eliš places Ea in the lineage descending from Kišar through Anu.",
+   "source": "Enūma eliš",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Damgalnuna",
+   "other_aliases": [
+    "Damkina"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Damgalnuna or Damkina is Enki's principal spouse and Marduk's mother.",
+   "source": "Enūma eliš I and god lists",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninhursag",
+   "other_aliases": [
+    "Ninhursaĝa",
+    "Ninsikila"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ninhursag or Ninsikila is Enki's partner in the Dilmun narrative.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Babylonian theology makes Ea the father of Marduk by Damkina.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Asalluḫi",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Sumerian incantation tradition identifies Asalluḫi as Enki's son.",
+   "source": "Sumerian incantation tradition",
+   "date": "Old Babylonian onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nanše",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Nanše is frequently identified as Enki's daughter in southern tradition.",
+   "source": "Southern Mesopotamian tradition",
+   "date": "third to second millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ningirsu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some local theology occasionally makes Ningirsu a child of Enki.",
+   "source": "Local theological tradition",
+   "date": "",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enbilulu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some god lists treat the irrigation deity Enbilulu as Enki's son.",
+   "source": "Mesopotamian god lists",
+   "date": "second to first millennia BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Adapa",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Adapa and the South Wind",
+   "note": "Ea creates or patronizes Adapa, who can consequently be called his son.",
+   "source": "Adapa and the South Wind",
+   "date": "fourteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Enki fathers Ninmu with Ninhursag.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninkurra",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Ninkurra is Enki's daughter or granddaughter in the poem's successive genealogy.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uttu",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Uttu descends from Enki through the poem's succession of divine births.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hayya",
+   "other_aliases": [
+    "Ḥayya"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Ebla evidence probably equates Hayya with Ea, though the identification remains debated.",
+   "source": "Eblaite evidence",
+   "date": "third millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Berossus equates Ea with the Greek god Kronos.",
+   "source": "Berossus",
+   "date": "early third century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "allied",
+   "myth": "An authorizes Enki",
+   "note": "Sumerian hymns describe An as cherishing or authorizing Enki.",
+   "source": "Enki and the World Order",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "An",
+   "other_aliases": [
+    "Anu"
+   ],
+   "kind": "shared_myth",
+   "myth": "Adapa's hearing before Anu",
+   "note": "Ea prepares Adapa for his appearance in Anu's heavenly court.",
+   "source": "Adapa and the South Wind",
+   "date": "fourteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Enki's journey to Nippur",
+   "note": "Enlil approves Enki's newly built E-engura after his journey to Nippur.",
+   "source": "Enki's Journey to Nippur",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Plagues, famine, and flood",
+   "note": "Ea repeatedly circumvents Enlil's measures against humanity, including the secret flood decision.",
+   "source": "Atrahasis",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enlil",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "After the great flood",
+   "note": "Ea rebukes Enlil for destroying humanity indiscriminately rather than punishing individual offenders.",
+   "source": "Gilgamesh Tablet XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nammu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Creation of humankind",
+   "note": "Nammu brings the gods' labor complaint to Enki and helps initiate human creation.",
+   "source": "Enki and Ninmah",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmah",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Creation of humankind",
+   "note": "Ninmah fashions humans with Nammu under Enki's direction.",
+   "source": "Enki and Ninmah",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmah",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Drinking contest over created bodies",
+   "note": "Enki and Ninmah challenge each other to sustain or place the beings they create.",
+   "source": "Enki and Ninmah",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninhursag",
+   "other_aliases": [
+    "Ninhursaĝa",
+    "Ninsikila"
+   ],
+   "kind": "seduced",
+   "myth": "Divine unions in Dilmun",
+   "note": "Enki impregnates Ninhursag during the succession of divine pregnancies.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninhursag",
+   "other_aliases": [
+    "Ninhursaĝa",
+    "Ninsikila"
+   ],
+   "kind": "punished_by",
+   "myth": "Curse after eating the plants",
+   "note": "Ninhursag curses Enki after he eats the divinely generated plants.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninhursag",
+   "other_aliases": [
+    "Ninhursaĝa",
+    "Ninsikila"
+   ],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Ninhursag produces eight deities to heal Enki's diseased body.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninmu",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Divine unions in Dilmun",
+   "note": "Enki impregnates his daughter Ninmu.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninkurra",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Divine unions in Dilmun",
+   "note": "Enki impregnates Ninkurra, described as his daughter or granddaughter.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uttu",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Divine unions in Dilmun",
+   "note": "Enki pursues and impregnates Uttu before Ninhursag removes his semen.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Abu",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Abu is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nintulla",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Nintulla is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninsutu",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Ninsutu is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninkasi",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Ninkasi is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nazi",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Nazi is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Azimua",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Azimua is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninti",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Ninti is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Enšag",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing Enki's afflicted organs",
+   "note": "Enšag is one of eight deities produced to heal Enki.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Inanna's complaint over her powers",
+   "note": "Enki answers Inanna's complaint by enumerating the powers and jurisdictions already assigned to her.",
+   "source": "Enki and the World Order",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Transfer of the me",
+   "note": "While drinking at Eridu, Enki grants Inanna the civilizing powers called me.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Attempted recovery of the me",
+   "note": "Enki sends agents and monsters to recover the me, but Inanna reaches Uruk.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Inanna",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Inanna's return from the Netherworld",
+   "note": "Enki creates and instructs beings who recover the dead Inanna.",
+   "source": "Inanna's Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninšubur",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Appeal for Inanna's rescue",
+   "note": "Ninšubur appeals to Enki, who successfully arranges Inanna's recovery.",
+   "source": "Inanna's Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ereškigal",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Recovery of Inanna's corpse",
+   "note": "Enki's agents obtain Inanna's corpse by sympathizing with Ereškigal's labor pains.",
+   "source": "Inanna's Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "kurgarra",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Inanna's return from the Netherworld",
+   "note": "Enki fashions the kurgarra and equips it to help restore Inanna.",
+   "source": "Inanna's Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "galatur",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Inanna's return from the Netherworld",
+   "note": "Enki fashions the galatur and equips it to help restore Inanna.",
+   "source": "Inanna's Descent",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isimud",
+   "other_aliases": [
+    "Usmû"
+   ],
+   "kind": "served_by",
+   "myth": "",
+   "note": "The two-faced Isimud serves as Enki's minister, adviser, and messenger.",
+   "source": "Inanna and Enki; Enki's Journey",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isimud",
+   "other_aliases": [
+    "Usmû"
+   ],
+   "kind": "other",
+   "myth": "Attempted recovery of the me",
+   "note": "Enki orders Isimud to lead repeated efforts to recover the me from Inanna.",
+   "source": "Inanna and Enki",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ninurta",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ninurta trapped by the turtle",
+   "note": "Enki thwarts Ninurta by creating a turtle that drags him into a pit.",
+   "source": "Ninurta and the Turtle",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "turtle",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Ninurta trapped by the turtle",
+   "note": "Enki fashions a turtle from Abzu clay to seize Ninurta.",
+   "source": "Ninurta and the Turtle",
+   "date": "Old Babylonian witnesses",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Ea defeats Apsu",
+   "note": "Ea magically immobilizes and kills Apsu, then establishes his dwelling above him.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apsu",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Ea defeats Apsu",
+   "note": "After killing Apsu, Ea takes his crown or divine radiance.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mummu",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Ea defeats Apsu",
+   "note": "Ea immobilizes, binds, and imprisons Apsu's counselor Mummu.",
+   "source": "Enūma eliš I",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "War against Tiamat",
+   "note": "Ea praises and supports Marduk's elevation as champion against Tiamat.",
+   "source": "Enūma eliš",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Creation from Qingu's blood",
+   "note": "Ea executes Marduk's design for creating humanity from Qingu's blood.",
+   "source": "Enūma eliš VI",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marduk",
+   "other_aliases": [
+    "Asalluḫi"
+   ],
+   "kind": "taught",
+   "myth": "Father-son incantation dialogue",
+   "note": "Ea supplies or confirms ritual cures for his son Marduk or Asalluḫi.",
+   "source": "Marduk–Ea incantation dialogues",
+   "date": "Old Babylonian to first millennium",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tiamat",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War against Tiamat",
+   "note": "Ea supports Marduk against Tiamat but does not personally defeat her.",
+   "source": "Enūma eliš",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Qingu",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Creation from Qingu's blood",
+   "note": "Ea kills or processes condemned Qingu and uses his blood to create humanity.",
+   "source": "Enūma eliš VI",
+   "date": "later second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anunnaki",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Ordering divine functions",
+   "note": "Enki assigns functions to the Anunnaki and receives their praise or submission.",
+   "source": "Enki and the World Order",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Igigi",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Settlement of the labor revolt",
+   "note": "Ea resolves the Igigi's labor revolt by proposing the creation of humans.",
+   "source": "Atrahasis I",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Bēlet-ilī",
+   "other_aliases": [
+    "Mami"
+   ],
+   "kind": "allied",
+   "myth": "Creation of humanity",
+   "note": "Ea collaborates with Bēlet-ilī in creating humans from clay and a slain god.",
+   "source": "Atrahasis I",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Wê-ilu",
+   "other_aliases": [
+    "Ilawela"
+   ],
+   "kind": "other",
+   "myth": "Creation from a slain god",
+   "note": "Ea proposes creating humanity using clay and the slain god's flesh and blood.",
+   "source": "Atrahasis I",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Namtar",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Expulsion from Ninmah's creation",
+   "note": "Enki's enchanted water expels a namtar demon from one of Ninmah's created persons.",
+   "source": "Enki and Ninmah",
+   "date": "Old Babylonian copies",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dumuzi",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Adapa meets the gatekeepers",
+   "note": "Ea teaches Adapa how to gain Dumuzi's sympathy by mourning his disappearance.",
+   "source": "Adapa and the South Wind",
+   "date": "fourteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gizzida",
+   "other_aliases": [
+    "Ningishzida"
+   ],
+   "kind": "shared_myth",
+   "myth": "Adapa meets the gatekeepers",
+   "note": "Ea teaches Adapa how to gain Gizzida's sympathy by mourning his disappearance.",
+   "source": "Adapa and the South Wind",
+   "date": "fourteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "South Wind",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Adapa breaks the South Wind",
+   "note": "Adapa breaks the South Wind's wing using power granted by Ea.",
+   "source": "Adapa and the South Wind",
+   "date": "fourteenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Šamaš",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Purification and anti-witchcraft rites",
+   "note": "Šamaš exposes ritual evil while Ea provides purification in their joint invocations.",
+   "source": "First-millennium ritual series",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kusu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Purification and statue consecration",
+   "note": "Kusu appears with Ea in purification and statue-consecration rites.",
+   "source": "Ritual texts and royal inscriptions",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ningirim",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Purification and statue consecration",
+   "note": "Ningirim appears with Ea in purification and statue-consecration rites.",
+   "source": "Ritual texts and royal inscriptions",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eridu's fifty Anunna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "A locally defined assembly of fifty Anunna is associated with Enki at Eridu.",
+   "source": "Sumerian literary tradition",
+   "date": "second millennium BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Atrahasis",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Atrahasis survives the flood",
+   "note": "Ea repeatedly protects Atrahasis and warns him of the flood through a reed wall.",
+   "source": "Atrahasis",
+   "date": "seventeenth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ziusudra",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Sumerian flood",
+   "note": "Enki warns Ziusudra of the coming flood through a wall or adjacent medium.",
+   "source": "Eridu Genesis",
+   "date": "Old Babylonian tablet",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uta-napišti",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Uta-napišti survives the flood",
+   "note": "Ea warns Uta-napišti through a reed wall, enabling his survival.",
+   "source": "Gilgamesh Tablet XI",
+   "date": "late second millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "fox",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Reconciliation with Ninhursag",
+   "note": "A fox helps restore communication between the afflicted Enki and Ninhursag.",
+   "source": "Enki and Ninhursag",
+   "date": "Old Babylonian manuscripts",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "subject": "leviathan",
+ "relations": [
+  {
+   "other": "Yamm/Sea",
+   "other_aliases": [
+    "Yamm",
+    "Sea"
+   ],
+   "kind": "other",
+   "myth": "Yamm’s hostile sea-monster complex",
+   "note": "Lotan belongs to Yamm’s complex, perhaps as servant, ally, or manifestation.",
+   "source": "Baal Cycle, KTU 1.3 and 1.5",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal/Hadad",
+   "other_aliases": [
+    "Baal",
+    "Hadad"
+   ],
+   "kind": "killed_by",
+   "myth": "Baal destroys Lotan",
+   "note": "Baal smites the fleeing serpent Lotan and destroys the twisting serpent.",
+   "source": "Baal Cycle, KTU 1.5 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Anat destroys the twisting serpent",
+   "note": "Anat boasts of destroying the twisting, seven-headed monster, tentatively identified as Lotan.",
+   "source": "Baal Cycle, KTU 1.3 III",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "killed_by",
+   "myth": "Primordial defeat of Leviathan",
+   "note": "YHWH crushes Leviathan’s multiple heads and gives its body as food.",
+   "source": "Psalm 74:13–14",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "created_by",
+   "myth": "Leviathan plays in the sea",
+   "note": "YHWH creates Leviathan to play in the ordered sea.",
+   "source": "Psalm 104:25–26",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "punished_by",
+   "myth": "Future punishment of Leviathan",
+   "note": "YHWH will punish Leviathan with his great, strong sword.",
+   "source": "Isaiah 27:1",
+   "date": "late monarchic to Hellenistic, disputed",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "killed_by",
+   "myth": "Future slaying of the sea dragon",
+   "note": "YHWH will kill Leviathan, the dragon dwelling in the sea.",
+   "source": "Isaiah 27:1",
+   "date": "late monarchic to Hellenistic, disputed",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "other",
+   "myth": "Divine challenge concerning Leviathan",
+   "note": "YHWH invokes Leviathan to demonstrate divine sovereignty and Job’s inability to master it.",
+   "source": "Job 40:25–41:26",
+   "date": "Persian or early Hellenistic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Behemoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The two primordial monsters",
+   "note": "Female Leviathan and male Behemoth occupy separate habitats and await the eschatological feast.",
+   "source": "1 Enoch 60; 4 Ezra 6; 2 Baruch 29",
+   "date": "late first BCE–early second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "female Leviathan",
+   "other_aliases": [
+    "twisting serpent"
+   ],
+   "kind": "consort_of",
+   "myth": "Prevention of the Leviathans’ reproduction",
+   "note": "The male and female form a primordial pair whose reproduction would destroy the world.",
+   "source": "Bava Batra 74b",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "transformed_by",
+   "myth": "Castration of the male Leviathan",
+   "note": "God castrates the male Leviathan to prevent the primordial pair from reproducing.",
+   "source": "Bava Batra 74b",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [
+    "God"
+   ],
+   "kind": "killed_by",
+   "myth": "Killing of the female Leviathan",
+   "note": "God kills and salts the female Leviathan for the future righteous.",
+   "source": "Bava Batra 74b",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gabriel",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gabriel’s future hunt",
+   "note": "Gabriel will hunt the surviving Leviathan but can prevail only with divine aid.",
+   "source": "Bava Batra 74b",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jonah",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Jonah confronts Leviathan",
+   "note": "Jonah displays Abraham’s covenantal seal and causes Leviathan to flee.",
+   "source": "Pirkei de-Rabbi Eliezer 10–11",
+   "date": "c. eighth–ninth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satan",
+   "other_aliases": [
+    "Devil",
+    "ancient enemy"
+   ],
+   "kind": "identified_with",
+   "myth": "Leviathan as the ancient enemy",
+   "note": "Gregory allegorically identifies Job’s Leviathan with Satan and the Devil.",
+   "source": "Gregory, Moralia in Job",
+   "date": "c. 578–595",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Christ’s divine fishhook",
+   "note": "Christ’s visible humanity serves as bait while his concealed divinity catches Leviathan.",
+   "source": "Gregory, Moralia in Job",
+   "date": "c. 578–595",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Behemoth",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Leviathan and Behemoth’s mutual slaughter",
+   "note": "Behemoth gores Leviathan, whose fins kill Behemoth before both feed the righteous.",
+   "source": "Akdamut",
+   "date": "eleventh century",
+   "tier": "late_accretion"
+  }
+ ]
+}

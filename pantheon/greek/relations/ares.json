@@ -1,0 +1,1088 @@
+{
+ "subject": "ares",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus and Hera are Ares’s parents in canonical Archaic genealogy.",
+   "source": "Hesiod, Theogony 921–937",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "judged_by",
+   "myth": "Ares returns wounded from Troy",
+   "note": "Zeus rebukes Ares as hateful, then orders Paeon to heal him.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hera and Zeus are Ares’s parents in canonical Archaic genealogy.",
+   "source": "Hesiod, Theogony 921–937",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "allied",
+   "myth": "Ares promises to support the Achaeans",
+   "note": "Ares promises Hera and Athena that he will aid the Achaeans.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "punished_by",
+   "myth": "Ares attempts to avenge Ascalaphus",
+   "note": "Hera and Athena restrain Ares from defying Zeus to avenge Ascalaphus.",
+   "source": "Homer, Iliad 15",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "child_of",
+   "myth": "Juno conceives Mars using Flora’s flower",
+   "note": "The Roman variant makes Juno conceive Mars without Jupiter.",
+   "source": "Ovid, Fasti 5",
+   "date": "early first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Flora",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Flora supplies Juno a magical flower",
+   "note": "Flora’s magical flower enables Juno to conceive Mars without Jupiter.",
+   "source": "Ovid, Fasti 5",
+   "date": "early first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hebe and Ares are full siblings, children of Zeus and Hera.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Ares is restored after his wounding",
+   "note": "Hebe bathes and clothes Ares after Paeon heals him.",
+   "source": "Homer, Iliad 5.905",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eileithyia and Ares are full siblings, children of Zeus and Hera.",
+   "source": "Hesiod, Theogony",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "consort_of",
+   "myth": "Ares and Aphrodite’s affair",
+   "note": "Ares is Aphrodite’s lover; Hephaestus exposes and traps the couple.",
+   "source": "Homer, Odyssey 8",
+   "date": "c. 725–675 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Aphrodite draws Ares toward Troy",
+   "note": "Aphrodite draws Ares away from his promise to support the Achaeans.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "deceived",
+   "myth": "Ares and Aphrodite’s affair",
+   "note": "Ares conducts an affair with Aphrodite, Hephaestus’s wife or partner.",
+   "source": "Homer, Odyssey 8",
+   "date": "c. 725–675 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "punished_by",
+   "myth": "Hephaestus traps the adulterous couple",
+   "note": "Hephaestus captures Ares and Aphrodite in invisible, unbreakable bonds.",
+   "source": "Homer, Odyssey 8",
+   "date": "c. 725–675 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [
+    "Vulcan"
+   ],
+   "kind": "fought",
+   "myth": "Ares tries forcing Hephaestus back",
+   "note": "Late stories say Ares unsuccessfully tries forcing Hephaestus back to Olympus.",
+   "source": "Post-Homeric and Byzantine testimony",
+   "date": "late antiquity–Byzantine",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Trial for killing Halirrhothius",
+   "note": "Poseidon prosecutes Ares for killing Poseidon’s son Halirrhothius.",
+   "source": "Pausanias 1.28.5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Release from Hephaestus’s net",
+   "note": "Poseidon persuades Hephaestus to release Ares and guarantees compensation.",
+   "source": "Homer, Odyssey 8",
+   "date": "c. 725–675 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "allied",
+   "myth": "Ares promises to support the Achaeans",
+   "note": "Ares promises Hera and Athena that he will aid the Achaeans.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "fought",
+   "myth": "Diomedes wounds Ares at Troy",
+   "note": "Athena guides Diomedes’s spear and enables him to wound Ares.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "punished_by",
+   "myth": "Ares attempts to avenge Ascalaphus",
+   "note": "Athena disarms and restrains Ares when he would violate Zeus’s prohibition.",
+   "source": "Homer, Iliad 15",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "fought",
+   "myth": "Battle of the gods",
+   "note": "Athena strikes Ares down with a boundary stone during divine combat.",
+   "source": "Homer, Iliad 21",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Apollo urges Ares against Diomedes",
+   "note": "Apollo urges Ares to oppose Diomedes during the Trojan War.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Primordial Olympic boxing match",
+   "note": "Apollo defeats Ares in boxing at the primordial Olympic Games.",
+   "source": "Pausanias 5.7.10",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares joins Apollo and other gods in divine celebration and sport.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares and Artemis join the gods celebrating at Apollo’s feast.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Hermes Argeiphontes"
+   ],
+   "kind": "rescued_by",
+   "myth": "Ares imprisoned by the Aloadae",
+   "note": "Hermes frees Ares after thirteen months confined in a bronze jar.",
+   "source": "Homer, Iliad 5.385–391",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Hermes Argeiphontes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares and Hermes join the gods celebrating at Apollo’s feast.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [
+    "Hermes Argeiphontes"
+   ],
+   "kind": "shared_myth",
+   "myth": "Protective images against brigandage",
+   "note": "Clarian oracles prescribe joint images of Ares, Hermes, and Dike or Thesmos.",
+   "source": "Clarian oracles",
+   "date": "Roman imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Paeon",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Healing after Diomedes wounds Ares",
+   "note": "At Zeus’s command, Paeon heals Ares’s divine wound.",
+   "source": "Homer, Iliad 5.899–904",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Divine companions amid battle",
+   "note": "Eris, personified Strife, appears beside Ares in Homeric battle.",
+   "source": "Homer, Iliad 4.440–445",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Oath of the Seven",
+   "note": "The Seven jointly invoke Ares, Enyo, and Phobos in their martial oath.",
+   "source": "Aeschylus, Seven Against Thebes",
+   "date": "467 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Enyo",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "A variant genealogy pairs Ares and Enyo as parents of Enyalios.",
+   "source": "Later genealogy",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enyalios",
+   "other_aliases": [
+    "Enyálios"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Enyalios is sometimes Ares’s epithet or equivalent, but elsewhere an independent god.",
+   "source": "Homer, inscriptions, cult evidence",
+   "date": "Archaic onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Enyalios",
+   "other_aliases": [
+    "Enyálios"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogy sometimes makes Enyalios the child of Ares and Enyo.",
+   "source": "Later genealogy",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Phobos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ares and Aphrodite are the parents of Phobos.",
+   "source": "Hesiod, Theogony 933–937",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phobos",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Oath of the Seven",
+   "note": "Phobos accompanies Ares’s martial sphere and is invoked beside him and Enyo.",
+   "source": "Aeschylus, Seven Against Thebes",
+   "date": "467 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Deimos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ares and Aphrodite are the parents of Deimos, personified battle terror.",
+   "source": "Hesiod, Theogony 934",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Deimos",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ares’s chariot in battle",
+   "note": "Deimos accompanies his father Ares as a personification of battlefield terror.",
+   "source": "Archaic literary and visual tradition",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ares and Aphrodite are the parents of Harmonia.",
+   "source": "Hesiod, Theogony 937",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Harmonia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares and his daughter Harmonia join Apollo’s divine celebration.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ares urged to yield to revelry",
+   "note": "The hymn asks Ares to abandon raging strife for Dionysus’s revels.",
+   "source": "Orphic Hymn 65",
+   "date": "c. second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hephaestus returns to Olympus",
+   "note": "Late stories contrast Ares’s failure with Dionysus persuading Hephaestus to return.",
+   "source": "Late mythographic testimony",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weapons exchanged for agriculture",
+   "note": "The hymn asks Ares to exchange weapons for Demeter’s peaceful agricultural works.",
+   "source": "Orphic Hymn 65",
+   "date": "c. second–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares sports among the Muses and other gods at Apollo’s feast.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "The Graces",
+   "other_aliases": [
+    "Graces"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares sports among the Graces and other gods at Apollo’s feast.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "The Hours",
+   "other_aliases": [
+    "Hours"
+   ],
+   "kind": "shared_myth",
+   "myth": "Apollo’s Olympian feast",
+   "note": "Ares sports among the Hours and other gods at Apollo’s feast.",
+   "source": "Homeric Hymn to Apollo 186–206",
+   "date": "Archaic/early-Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "rescued",
+   "myth": "Sisyphus binds Death",
+   "note": "Some late summaries make Ares release Thanatos after Sisyphus binds him.",
+   "source": "Late Sisyphus summaries",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dike",
+   "other_aliases": [
+    "Thesmos"
+   ],
+   "kind": "shared_myth",
+   "myth": "Protective images against brigandage",
+   "note": "Clarian oracles prescribe joint images of Ares, Dike or Thesmos, and Hermes.",
+   "source": "Clarian oracles",
+   "date": "Roman imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Onuris",
+   "other_aliases": [
+    "Anhur"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek interpreters equate the Egyptian martial god Onuris or Anhur with Ares.",
+   "source": "Graeco-Egyptian interpretive tradition",
+   "date": "Hellenistic–Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Scythian “Ares”",
+   "other_aliases": [
+    "Scythian sword-god"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus interprets the unnamed Scythian sword-god as Ares.",
+   "source": "Herodotus, Histories 4.59–62",
+   "date": "c. 440–420 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thracian “Ares”",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Herodotus translates a principal Thracian god through the Greek name Ares.",
+   "source": "Herodotus, Histories 5.7",
+   "date": "c. 440–420 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Mavors",
+    "Mamers"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Graeco-Roman translation and artistic assimilation identify Ares with the institutionally distinct Mars.",
+   "source": "Greek and Roman literary tradition",
+   "date": "first century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Maḥrem",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek royal inscriptions translate the Aksumite dynastic god Maḥrem as Ares.",
+   "source": "Aksumite Greek royal inscriptions",
+   "date": "early centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Gods flee Typhon into Egypt",
+   "note": "Ares flees Typhon and assumes fish form in Egypt.",
+   "source": "Antoninus Liberalis, Metamorphoses",
+   "date": "second/third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mimas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "Ares kills the Giant Mimas during the gods’ war against the Giants.",
+   "source": "Hellenistic epic and vase iconography",
+   "date": "Hellenistic period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diomedes",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Diomedes wounds Ares at Troy",
+   "note": "Diomedes wounds Ares with a spear, enabled and guided by Athena.",
+   "source": "Homer, Iliad 5",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ascalaphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ascalaphus is a son of Ares whose death provokes his father’s rage.",
+   "source": "Homer, Iliad 15",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ialmenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ialmenus is named among Ares’s sons in Greek genealogy.",
+   "source": "Greek genealogical tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Otus",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Ares imprisoned by the Aloadae",
+   "note": "Otus and Ephialtes bind Ares inside a bronze jar for thirteen months.",
+   "source": "Homer, Iliad 5.385–391",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ephialtes",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Ares imprisoned by the Aloadae",
+   "note": "Ephialtes and Otus bind Ares inside a bronze jar for thirteen months.",
+   "source": "Homer, Iliad 5.385–391",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eriboea",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Ares imprisoned by the Aloadae",
+   "note": "Eriboea alerts Hermes, enabling the imprisoned Ares’s rescue.",
+   "source": "Homer, Iliad 5.385–391",
+   "date": "c. 750–700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Exposure of Aphrodite’s affair",
+   "note": "Helios discovers and reveals Ares and Aphrodite’s affair to Hephaestus.",
+   "source": "Homer, Odyssey 8",
+   "date": "c. 725–675 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cadmus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Cadmus expiates the dragon’s death",
+   "note": "Cadmus serves Ares for eight years after killing the god’s sacred dragon.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cadmus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Cadmus and Harmonia",
+   "note": "Cadmus marries Ares’s daughter Harmonia after completing service to Ares.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ismenian dragon",
+   "other_aliases": [
+    "dragon of Ares"
+   ],
+   "kind": "served_by",
+   "myth": "Dragon guards Ares’s spring",
+   "note": "A sacred dragon belonging to Ares guards his spring at Thebes.",
+   "source": "Theban mythic tradition",
+   "date": "Archaic core",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Spartoi",
+   "other_aliases": [
+    "Spartoi"
+   ],
+   "kind": "ancestor_of",
+   "myth": "Cadmus sows the dragon’s teeth",
+   "note": "Warriors spring from the teeth of Ares’s dragon, linking them to his martial lineage.",
+   "source": "Theban mythic tradition",
+   "date": "Archaic core",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cycnus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Cycnus is Ares’s violent son in the Heracles cycle.",
+   "source": "Hesiodic Shield of Heracles",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cycnus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Heracles fights Cycnus",
+   "note": "Ares intervenes in battle after Heracles kills his son Cycnus.",
+   "source": "Hesiodic Shield of Heracles",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ares avenges Cycnus",
+   "note": "Ares attacks Heracles after Cycnus’s death, but Heracles wounds his thigh.",
+   "source": "Hesiodic Shield of Heracles",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Halirrhothius",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Assault upon Alcippe",
+   "note": "Ares kills Halirrhothius for violating or attempting to violate Alcippe.",
+   "source": "Pausanias 1.28.5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Alcippe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Alcippe is the daughter of Ares and Aglauros.",
+   "source": "Pausanias 1.28.5",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aglauros",
+   "other_aliases": [
+    "Aglaurus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Aglauros is named as Alcippe’s mother by Ares.",
+   "source": "Athenian genealogical tradition",
+   "date": "Roman-imperial attestation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Amazons",
+   "other_aliases": [
+    "Amazons"
+   ],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Greek authors repeatedly call the Amazons daughters or descendants of Ares.",
+   "source": "Greek literary tradition",
+   "date": "Archaic/Classical onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Otrera",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later mythography commonly pairs Otrera with Ares as mother of Amazon queens.",
+   "source": "Later mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hippolyta",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hippolyta is assigned to Ares, often with Otrera as mother.",
+   "source": "Amazon genealogical tradition",
+   "date": "Archaic/Classical onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Antiope",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Antiope is assigned to Ares among the Amazon queens.",
+   "source": "Amazon genealogical tradition",
+   "date": "Archaic/Classical onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Melanippe",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Melanippe is assigned to Ares among the Amazon queens.",
+   "source": "Amazon genealogical tradition",
+   "date": "Archaic/Classical onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Penthesilea",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Penthesilea is assigned to Ares, often with Otrera as mother.",
+   "source": "Aethiopis and later tradition",
+   "date": "Archaic onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Adonis",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Jealous Ares sends the boar",
+   "note": "A late variant makes jealous Ares become or send the boar killing Adonis.",
+   "source": "Late Adonis tradition",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Colchian dragon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Dragon guards Ares’s Colchian field",
+   "note": "A dragon belonging to Ares guards his sacred Colchian field.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aeetes",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Ares gives Aeetes armor",
+   "note": "Aeetes possesses armor given by Ares after the god killed Mimas.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Diomedes of Thrace",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "One genealogy makes Diomedes of Thrace the son of Ares and Cyrene.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyrene",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One genealogy makes Cyrene the mother by Ares of Diomedes of Thrace.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aerope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Arcadian local myth makes Aerope the mother by Ares of Aeropus.",
+   "source": "Pausanias",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aeropus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aeropus is Ares’s son by Aerope in Arcadian local myth.",
+   "source": "Pausanias",
+   "date": "c. 150–180 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Astynome",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Astynome is one of the competing mothers assigned to Cycnus by Ares.",
+   "source": "Later genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pelopia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pelopia is one of the competing mothers assigned to Cycnus by Ares.",
+   "source": "Later genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pyrene",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pyrene is sometimes named as the mother of Cycnus by Ares.",
+   "source": "Later genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demonice",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Demonice bears Evenus, Molus, Pylus, and Thestius to Ares.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Evenus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Evenus is a son of Ares and Demonice in Apollodoran genealogy.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Molus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Molus is a son of Ares and Demonice in Apollodoran genealogy.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pylus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pylus is a son of Ares and Demonice in Apollodoran genealogy.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Thestius",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Thestius is a son of Ares and Demonice in Apollodoran genealogy.",
+   "source": "Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Harpinna",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One tradition makes Harpinna the mother by Ares of Oenomaus.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sterope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Another tradition assigns Sterope as Oenomaus’s mother by Ares.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oenomaus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions make Oenomaus Ares’s son, with Harpinna or Sterope as mother.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Protogeneia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some traditions make Protogeneia the mother by Ares of Oxylus.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oxylus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some traditions make Oxylus the son of Ares and Protogeneia.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Meleager",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "A minority genealogical tradition makes Meleager a son of Ares.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dryas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Dryas is named among Ares’s children in varying genealogical traditions.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lycaon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Lycaon is named among Ares’s children in varying genealogical traditions.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tereus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some genealogies make Tereus a son of Ares.",
+   "source": "Greek genealogical tradition",
+   "date": "later antiquity",
+   "tier": "regional_variant"
+  }
+ ]
+}

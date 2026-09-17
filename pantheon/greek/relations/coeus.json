@@ -1,0 +1,463 @@
+{
+ "subject": "coeus",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears Coeus after mating with Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Sky",
+    "Heaven"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Coeus is one of the Titan children of Uranus and Gaia.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Titaea",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Cretan alternative makes Titaea the mother of the Titans, including Coeus.",
+   "source": "Diodorus, Library 5.66–67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Curetes",
+   "other_aliases": [
+    "a Curete"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Cretan alternative makes one Curete the father of the Titans.",
+   "source": "Diodorus, Library 5.66–67",
+   "date": "first century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hyginus lists a Giant Coeus among children of Earth and Tartarus.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Phoebe and Coeus belong to the same Uranus-and-Gaia Titan generation.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of Leto and Asteria",
+   "note": "Phoebe comes to Coeus’s embrace and bears their two daughters.",
+   "source": "Hesiod, Theogony 404–410",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Leto",
+   "other_aliases": [
+    "Latona"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Leto is repeatedly identified as the daughter of Coeus and Phoebe.",
+   "source": "Hesiod, Theogony 404–408",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Asteria",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Asteria is the daughter of Coeus and Phoebe.",
+   "source": "Hesiod, Theogony 409–410",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Coeus is Apollo’s maternal grandfather through Leto.",
+   "source": "Hesiod, Theogony 404–452",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Coeus is Artemis’s maternal grandfather through Leto.",
+   "source": "Hesiod, Theogony 404–452",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Under Hesiod’s genealogy, Coeus is Hecate’s grandfather through Asteria.",
+   "source": "Hesiod, Theogony 409–452",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Oceanus and Coeus are sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Crius and Coeus are sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hyperion and Coeus are sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Iapetus and Coeus are sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Theia and Coeus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Rhea and Coeus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Themis and Coeus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Mnemosyne and Coeus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Tethys and Coeus are children of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cronus and Coeus are sons of Gaia and Uranus.",
+   "source": "Hesiod, Theogony 133–136",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [
+    "Sky",
+    "Heaven"
+   ],
+   "kind": "fought",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus is included among the Titans who attack Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus joins the Titan attack after Gaia persuades her children.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus joins Cronus and the participating Titans against Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Crius",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Crius participate collectively in the attack on Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Hyperion participate collectively in the attack on Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iapetus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Iapetus participate collectively in the attack on Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Theia belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Rhea belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Themis belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mnemosyne",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Mnemosyne belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phoebe",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Phoebe belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tethys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus and Tethys belong to the Titans collectively attacking Uranus.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Overthrow of Uranus",
+   "note": "Coeus joins the attack on Uranus, whereas Oceanus alone refuses.",
+   "source": "Apollodorus, Bibliotheca 1.1.4",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "Coeus is normally included among the Titans defeated by Zeus’s coalition.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "punished_by",
+   "myth": "Defeat and imprisonment of the Titans",
+   "note": "Coeus shares the Titans’ confinement; Valerius explicitly calls his bonds Jupiter’s.",
+   "source": "Valerius Flaccus, Argonautica 3.224–228",
+   "date": "later first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Hundred-Handers",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Titanomachy",
+   "note": "The Hundred-Handers help Zeus defeat and confine the Titans, including Coeus by inference.",
+   "source": "Hesiod, Theogony 617–735",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "shared_myth",
+   "myth": "Coeus’s escape from Tartarus",
+   "note": "Coeus calls upon Saturn while breaking his bonds and attempting ascent.",
+   "source": "Valerius Flaccus, Argonautica 3.224–228",
+   "date": "later first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tityus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Coeus’s escape from Tartarus",
+   "note": "Coeus calls upon Tityus during his attempted escape.",
+   "source": "Valerius Flaccus, Argonautica 3.224–228",
+   "date": "later first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [
+    "the hound of the Furies"
+   ],
+   "kind": "fought",
+   "myth": "Coeus’s escape from Tartarus",
+   "note": "Cerberus repels Coeus and prevents his ascent from Tartarus.",
+   "source": "Valerius Flaccus, Argonautica 3.224–228",
+   "date": "later first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Hydra",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Coeus’s escape from Tartarus",
+   "note": "A possibly Tartarean Hydra joins in barring Coeus’s ascent.",
+   "source": "Valerius Flaccus, Argonautica 3.224–228",
+   "date": "later first century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Polus",
+   "other_aliases": [
+    "Pólos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later harmonization tentatively equates Hyginus’s Titan Polus with Coeus, though Hyginus never explicitly does.",
+   "source": "Hyginus, Fabulae preface",
+   "date": "early Roman imperial period",
+   "tier": "late_accretion"
+  }
+ ]
+}

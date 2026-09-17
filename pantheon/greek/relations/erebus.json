@@ -1,0 +1,650 @@
+{
+ "subject": "erebus",
+ "relations": [
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Erebus and Nyx come forth from Chaos.",
+   "source": "Hesiod, Theogony 123",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night",
+    "Nox"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Erebus and Nyx are both children of Chaos.",
+   "source": "Hesiod, Theogony 123",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night",
+    "Nox"
+   ],
+   "kind": "consort_of",
+   "myth": "Birth of Aether and Hemera",
+   "note": "Nyx conceives children after mingling in love with Erebus.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Aether is born from Nyx after her union with Erebus.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [
+    "Day"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hemera is born from Nyx after her union with Erebus.",
+   "source": "Hesiod, Theogony 124–125",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menoetius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Punishment of Menoetius",
+   "note": "Zeus sends Menoetius into Erebus as a place of punishment.",
+   "source": "Hesiod, Theogony 514–516",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Menoetius and the Hundred-Handers",
+   "note": "Zeus sends Menoetius into Erebus and summons the Hundred-Handers from it.",
+   "source": "Hesiod, Theogony 514–516, 669",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cottus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Hundred-Handers aid Zeus",
+   "note": "Cottus emerges from Erebus to assist Zeus in the Titanomachy.",
+   "source": "Hesiod, Theogony 617–675",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Briareos",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Hundred-Handers aid Zeus",
+   "note": "Briareos emerges from Erebus to assist Zeus in the Titanomachy.",
+   "source": "Hesiod, Theogony 617–675",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gyges",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The Hundred-Handers aid Zeus",
+   "note": "Gyges emerges from Erebus to assist Zeus in the Titanomachy.",
+   "source": "Hesiod, Theogony 617–675",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Cerberus",
+   "note": "Heracles brings Cerberus out of Erebus, which functions as a place.",
+   "source": "Iliad 8.366–369",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Capture of Cerberus",
+   "note": "Cerberus resides in Erebus until Heracles brings him out.",
+   "source": "Iliad 8.366–369",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Erinys",
+   "other_aliases": [
+    "Fury"
+   ],
+   "kind": "other",
+   "myth": "Althaea’s curse",
+   "note": "An Erinys hears Althaea’s curse from within Erebus.",
+   "source": "Iliad 9.568–572",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Althaea’s curse",
+   "note": "Erebus is spatially associated with Hades and later denotes his kingdom.",
+   "source": "Iliad 9.568–572",
+   "date": "late eighth/seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "other",
+   "myth": "Return of Persephone",
+   "note": "Persephone dwells in Erebus and is summoned from it.",
+   "source": "Homeric Hymn to Demeter 335–411",
+   "date": "late seventh/early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Return of Persephone",
+   "note": "Hermes journeys to Erebus to bring Persephone back.",
+   "source": "Homeric Hymn to Demeter 335–356",
+   "date": "late seventh/early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Return of Persephone",
+   "note": "Demeter recovers Persephone after her daughter returns from Erebus.",
+   "source": "Homeric Hymn to Demeter 409–411",
+   "date": "late seventh/early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night",
+    "Nox"
+   ],
+   "kind": "other",
+   "myth": "Invocation of Night",
+   "note": "Night is poetically invoked as emerging from or dwelling in Erebus.",
+   "source": "Euripides, Orestes 174–179",
+   "date": "408 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The birds’ primordial cosmogony",
+   "note": "Tartarus and Erebus coexist among the primordial realities before Earth and Heaven.",
+   "source": "Aristophanes, Birds 691–693",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Love"
+   ],
+   "kind": "created",
+   "myth": "Night’s cosmic egg",
+   "note": "Eros emerges from the cosmic egg deposited in Erebus’s bosom.",
+   "source": "Aristophanes, Birds 693–703",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Love"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Acusilaus reportedly makes Eros a child of Erebus and Nyx.",
+   "source": "Acusilaus fr. 6 via Damascius",
+   "date": "sixth/fifth century BCE attribution",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Acusilaus reportedly makes Metis a child of Erebus and Nyx.",
+   "source": "Damascius, On First Principles 124",
+   "date": "sixth/fifth century BCE attribution",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Acusilaus retains Aether as a child of Erebus and Nyx.",
+   "source": "Acusilaus fr. 6 via Damascius",
+   "date": "sixth/fifth century BCE attribution",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chronos",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "created_by",
+   "myth": "Hieronyman cosmogony",
+   "note": "Chronos’s cosmogonic activity produces or differentiates misty Erebus.",
+   "source": "Damascius, On First Principles 123–124",
+   "date": "sixth century CE transmission",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hieronyman cosmogony",
+   "note": "Aether and Erebus arise alongside one another as products of Chronos.",
+   "source": "Damascius, On First Principles 123–124",
+   "date": "sixth century CE transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chaos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hieronyman cosmogony",
+   "note": "Chaos and Erebus are co-products or constituents rather than parent and child.",
+   "source": "Damascius, On First Principles 123–124",
+   "date": "sixth century CE transmission",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The birds challenge Iris",
+   "note": "Iris is confronted with a rival genealogy involving Erebus and Air.",
+   "source": "Aristophanes, Birds 1188–1195",
+   "date": "414 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Oneiroi",
+   "other_aliases": [
+    "Dreams",
+    "Somnia"
+   ],
+   "kind": "other",
+   "myth": "Journey of dreams",
+   "note": "Dreams pass toward Erebus, which functions as their destination.",
+   "source": "Apollonius Rhodius, Argonautica 4.385",
+   "date": "third century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oneiroi",
+   "other_aliases": [
+    "Dreams",
+    "Somnia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Dreams children of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "A late Greek epigram says Erebus reared Isis in her underworld aspect.",
+   "source": "Kaibel, Epigrammata Graeca 1029.7",
+   "date": "late Greek epigram",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Proserpina is queen of Erebus, meaning queen of the underworld.",
+   "source": "Ovid, Metamorphoses 5.543",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Furies",
+   "other_aliases": [
+    "Erinyes"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Latin poets describe the Furies as goddesses or inhabitants of Erebus.",
+   "source": "Senecan and imperial Latin poetry",
+   "date": "first–third centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [
+    "Love"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Eros a child of Erebus and Night.",
+   "source": "Cicero, De natura deorum 3.44",
+   "date": "45 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dolus",
+   "other_aliases": [
+    "Guile"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Dolus a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Metus",
+   "other_aliases": [
+    "Deimos",
+    "Fear"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Fear a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Labor",
+   "other_aliases": [
+    "Ponos",
+    "Toil"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Toil a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Invidentia",
+   "other_aliases": [
+    "Nemesis",
+    "Envy"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Envy a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fatum",
+   "other_aliases": [
+    "Moros",
+    "Fate"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Fate a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Senectus",
+   "other_aliases": [
+    "Geras",
+    "Old Age"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Old Age a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mors",
+   "other_aliases": [
+    "Thanatos",
+    "Death"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Death a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tenebrae",
+   "other_aliases": [
+    "Keres",
+    "Darkness"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Darkness or the Keres children of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Miseria",
+   "other_aliases": [
+    "Oizys",
+    "Misery"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Misery a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Querella",
+   "other_aliases": [
+    "Momos",
+    "Complaint"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Complaint a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gratia",
+   "other_aliases": [
+    "Philotes",
+    "Favor"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Favor a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Fraus",
+   "other_aliases": [
+    "Apate",
+    "Fraud"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Fraud a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pertinacia",
+   "other_aliases": [
+    "Obstinacy"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make Obstinacy a child of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Parcae",
+   "other_aliases": [
+    "Moirai",
+    "Fates"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make the Fates children of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hesperides",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Roman catalogues make the Hesperides children of Erebus and Night.",
+   "source": "Cicero 3.44; Hyginus, Preface",
+   "date": "45 BCE–Roman imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sophrosyne",
+   "other_aliases": [
+    "Continentia"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Sophrosyne a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Epiphron",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Epiphron a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Porphyrion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Porphyrion a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Epaphus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Epaphus a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Eris a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hybris",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Hybris a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eleos",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Eleos a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Styx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Styx a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Euphrosyne",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hyginus’s expanded genealogy makes Euphrosyne a child of Erebus and Night.",
+   "source": "Hyginus, Fabulae, Preface",
+   "date": "Roman imperial period",
+   "tier": "late_accretion"
+  }
+ ]
+}

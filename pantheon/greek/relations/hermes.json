@@ -1,0 +1,790 @@
+{
+ "subject": "hermes",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus is Hermes's father in the dominant early genealogy.",
+   "source": "Hesiod, Theogony 938–939",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Hermes executes Zeus's divine missions",
+   "note": "Hermes serves as Zeus's herald, guide, and executor of commands.",
+   "source": "Iliad; Odyssey; Homeric Hymns",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Judgment over Apollo's stolen cattle",
+   "note": "Zeus hears Apollo's accusation, laughs, and orders Hermes to restore the cattle.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Recovery of Zeus's severed sinews",
+   "note": "Hermes and Aegipan recover and restore Zeus's sinews after Typhon hides them.",
+   "source": "Pseudo-Apollodorus 1.6.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Maia, daughter of Atlas, gives birth to Hermes in Cyllene.",
+   "source": "Hesiod; Homeric Hymn to Hermes",
+   "date": "c. 700–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Maia",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Maia rebukes the newborn cattle thief",
+   "note": "Maia rebukes Hermes after he returns from stealing Apollo's cattle.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Hermes is Atlas's grandson through Maia.",
+   "source": "Hesiod, Theogony 938",
+   "date": "c. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "The theft of Apollo's cattle",
+   "note": "The newborn Hermes steals fifty of Apollo's cattle and conceals their tracks.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Hermes denies stealing Apollo's cattle",
+   "note": "Hermes uses ingenious falsehoods to deny Apollo's accusation.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Dispute over the stolen cattle",
+   "note": "Apollo confronts Hermes and takes their dispute before Zeus.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Lyre exchanged for cattle and privileges",
+   "note": "Hermes gives Apollo the lyre and receives cattle, a staff, and limited divination.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Reconciliation after the cattle theft",
+   "note": "Their negotiated exchange ends the dispute and establishes friendship.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Investigation of Apollo's stolen cattle",
+   "note": "The all-seeing solar god figures in traditions concerning discovery of Hermes's theft.",
+   "source": "Hymnic tradition and scholia",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Secret conception of Hermes",
+   "note": "Hermes's conception and birth are concealed from Hera.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hera nurses Hermes through disguise",
+   "note": "Later mythography says Hermes was reconciled with or nursed by Hera through disguise.",
+   "source": "Later mythography",
+   "date": "Roman-imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Judgment of Paris",
+   "note": "Hermes guides Hera and the other claimants to Paris for judgment.",
+   "source": "Cypria tradition; vase painting",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Hestia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Joint household invocation",
+   "note": "Hermes and Hestia are jointly invited to favor a household and its occupants.",
+   "source": "Homeric Hymn 29 to Hestia",
+   "date": "Archaic/Classical, uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement of the Persephone crisis",
+   "note": "Hermes implements Persephone's return and reunites her with Demeter.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Mission for Persephone's release",
+   "note": "Hermes enters Hades and conveys Zeus's demand that Persephone return.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Conduction of souls into Hades",
+   "note": "Hermes conducts the dead into Hades's realm.",
+   "source": "Odyssey 24",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Return of Persephone",
+   "note": "Hermes escorts Persephone from the underworld back to Demeter.",
+   "source": "Homeric Hymn to Demeter",
+   "date": "seventh–sixth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Circe",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Countering Circe's enchantments",
+   "note": "Hermes supplies moly and instructions that defeat Circe's drugs.",
+   "source": "Odyssey 10",
+   "date": "late eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Calypso",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Order to release Odysseus",
+   "note": "Hermes delivers Zeus's command that Calypso release Odysseus.",
+   "source": "Odyssey 5",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogy makes Hermes Aphrodite's lover and Hermaphroditus's father.",
+   "source": "Diodorus; Ovid",
+   "date": "first century BCE–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Exposure in Hephaestus's net",
+   "note": "Hermes jokes that he would accept Ares's bonds to sleep with Aphrodite.",
+   "source": "Odyssey 8",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Venus"
+   ],
+   "kind": "served",
+   "myth": "Judgment of Paris",
+   "note": "Hermes guides Aphrodite and the other claimants to Paris for judgment.",
+   "source": "Cypria tradition; vase painting",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Exposure in Hephaestus's net",
+   "note": "Hermes jokes about Ares while the trapped lovers are exposed.",
+   "source": "Odyssey 8",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Exposure of Ares and Aphrodite",
+   "note": "Hermes witnesses and comments upon Hephaestus's trap for the lovers.",
+   "source": "Odyssey 8",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Negotiation over Ares's release",
+   "note": "Hermes participates in the divine dialogue concerning release of the trapped Ares.",
+   "source": "Odyssey 8",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Joint assistance to heroes",
+   "note": "Hermes frequently serves beside Athena as a divine helper of heroes.",
+   "source": "Epic and vase corpus",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Athena",
+   "note": "Archaic vase paintings place Hermes in the divine assembly at Athena's birth.",
+   "source": "Archaic vase corpus",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Judgment of Paris",
+   "note": "Hermes guides Athena and the other claimants to Paris for judgment.",
+   "source": "Cypria tradition; vase painting",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine missions and processional scenes",
+   "note": "Hermes carries orders or appears beside Artemis in divine scenes.",
+   "source": "Vase painting and later poetry",
+   "date": "Archaic–Roman-imperial",
+   "tier": "attested"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes fathers Pan with a nymph associated with Dryops.",
+   "source": "Homeric Hymn to Pan",
+   "date": "Archaic/Classical",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Presentation of the infant Pan",
+   "note": "Hermes carries newborn Pan to Olympus, where the gods delight in him.",
+   "source": "Homeric Hymn to Pan",
+   "date": "Archaic/Classical",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Transport of the infant Dionysus",
+   "note": "Hermes transports or entrusts infant Dionysus to protective caregivers.",
+   "source": "Apollodorus; Ovid; Classical art",
+   "date": "Classical–Roman-imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Hermes supports Dionysus",
+   "note": "Hermes accompanies and supports Dionysus during his later adventures.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [
+    "Typhoeus"
+   ],
+   "kind": "theft",
+   "myth": "Recovery of Zeus's severed sinews",
+   "note": "Hermes and Aegipan steal back the sinews Typhon had hidden.",
+   "source": "Pseudo-Apollodorus 1.6.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aegipan",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Recovery of Zeus's severed sinews",
+   "note": "Aegipan cooperates with Hermes to recover and restore Zeus's sinews.",
+   "source": "Pseudo-Apollodorus 1.6.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Delphyne",
+   "other_aliases": [],
+   "kind": "theft",
+   "myth": "Recovery of Zeus's severed sinews",
+   "note": "Hermes steals Zeus's sinews from the Corycian cave guarded by Delphyne.",
+   "source": "Pseudo-Apollodorus 1.6.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus"
+   ],
+   "kind": "killed",
+   "myth": "Liberation of Io",
+   "note": "Hermes lulls the many-eyed guardian and kills him to free Io.",
+   "source": "Apollodorus; Ovid",
+   "date": "first century BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Argus Panoptes",
+   "other_aliases": [
+    "Argus"
+   ],
+   "kind": "deceived",
+   "myth": "Liberation of Io",
+   "note": "Disguised as a traveler or musician, Hermes closes Argus's eyes with stories or music.",
+   "source": "Apollodorus; Ovid",
+   "date": "first century BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Io",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Liberation of Io",
+   "note": "Hermes frees Io from Argus's guardianship on Zeus's command.",
+   "source": "Apollodorus; Ovid",
+   "date": "first century BCE–second CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "The Charites",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Song, persuasion, beauty, and cult",
+   "note": "Hermes is associated with the Charites in song and cultic groupings.",
+   "source": "Homeric Hymn to Hermes",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Thriae",
+   "other_aliases": [
+    "Moirae",
+    "bee-maidens"
+   ],
+   "kind": "taught_by",
+   "myth": "Hermes receives subordinate divination",
+   "note": "Apollo directs Hermes toward prophetic bee-maidens whose precise identity is disputed.",
+   "source": "Homeric Hymn to Hermes 550–566",
+   "date": "late seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Judgment of Paris",
+   "note": "Hermes guides the divine claimants in the contest precipitated by Eris's apple.",
+   "source": "Cypria tradition; vase painting",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Athena",
+   "note": "Hermes and Eileithyia appear together in painted assemblies at Athena's birth.",
+   "source": "Archaic vase painting",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Chthonic invocations and mystery rites",
+   "note": "Hermes is invoked beside Hecate and other underworld powers.",
+   "source": "Inscriptions; magical texts; Orphic hymns",
+   "date": "Classical–Roman-imperial",
+   "tier": "attested"
+  },
+  {
+   "other": "Hermaphroditus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes and Aphrodite are the parents of Hermaphroditus.",
+   "source": "Diodorus; Ovid",
+   "date": "first century BCE–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Autolycus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later mythography makes Autolycus a son of Hermes and Chione or Philonis.",
+   "source": "Later mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Myrtilus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes fathers Myrtilus; the mother's identity varies among traditions.",
+   "source": "Local mythographic traditions",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Eudorus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes fathers Eudorus with Polymele.",
+   "source": "Iliad 16",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aethalides",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hermes fathers Aethalides with Eupolemeia.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Abderus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late genealogies make Abderus Hermes's son, while others assign different fathers.",
+   "source": "Late mythographic tradition",
+   "date": "Roman-imperial",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Herse",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Mercury's pursuit of Herse",
+   "note": "Ovid portrays Mercury desiring and seeking access to Herse.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 1–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chione",
+   "other_aliases": [
+    "Philonis"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogy names Chione or Philonis as Hermes's lover and Autolycus's mother.",
+   "source": "Later mythography",
+   "date": "Hellenistic–Roman",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Polymele",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Polymele bears Hermes's son Eudorus.",
+   "source": "Iliad 16",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penelope",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Some later variants connect Hermes and Penelope as Pan's parents.",
+   "source": "Later genealogical traditions",
+   "date": "Classical and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Peitho",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later genealogies list Peitho as Hermes's lover or a mother by him.",
+   "source": "Later mythography",
+   "date": "Roman-imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eupolemeia",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eupolemeia bears Hermes's son Aethalides.",
+   "source": "Apollonius Rhodius, Argonautica",
+   "date": "third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aglauros",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Aglauros blocks Mercury's access to Herse",
+   "note": "Mercury punishes Aglauros for enviously obstructing his approach to Herse.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 1–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aglauros",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Aglauros turned to stone",
+   "note": "Mercury transforms Aglauros into stone after she blocks his way.",
+   "source": "Ovid, Metamorphoses",
+   "date": "c. 1–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Battus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Betrayal of the cattle-theft secret",
+   "note": "Hermes turns Battus to stone after he breaks his promise of silence.",
+   "source": "Antoninus Liberalis; later mythography",
+   "date": "Roman-imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pandora",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Creation and delivery of Pandora",
+   "note": "Hermes contributes deceitful speech, lies, and a thievish disposition to Pandora.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Epimetheus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Delivery of Pandora",
+   "note": "Acting as herald, Hermes delivers Pandora to Epimetheus under Zeus's plan.",
+   "source": "Hesiod, Works and Days",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Demand for Zeus's hidden secret",
+   "note": "Hermes commands Prometheus to reveal Zeus's secret and threatens further punishment.",
+   "source": "Prometheus Bound",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Satyrs",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Tracking Apollo's stolen cattle",
+   "note": "The satyrs track the cattle and investigate the strange sound of Hermes's lyre.",
+   "source": "Sophocles, Ichneutae",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cyllene",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "The satyrs investigate infant Hermes",
+   "note": "Cyllene defends the prodigious infant and explains his newly invented lyre.",
+   "source": "Sophocles, Ichneutae",
+   "date": "fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Mercurius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Mercury increasingly absorbed Hermes's Greek myths and iconography.",
+   "source": "Roman cult, poetry, and art",
+   "date": "Republic–Roman Empire",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Egyptian traditions equated Hermes with Thoth through language, writing, reckoning, and mediation.",
+   "source": "Ptolemaic and Roman Egyptian evidence",
+   "date": "third century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermes Trismegistus",
+   "other_aliases": [
+    "Hermēs Trismegistos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hermes-Thoth syncretism produced the Graeco-Egyptian revelatory teacher Hermes Trismegistus.",
+   "source": "Hermetica and Egyptian evidence",
+   "date": "Hellenistic–Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Their shared psychopompic functions produced the composite deity Hermanubis.",
+   "source": "Iconographic and epigraphic evidence",
+   "date": "Hellenistic–Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hermanubis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hermanubis combines Hermes's and Anubis's psychopompic identities.",
+   "source": "Iconographic and epigraphic evidence",
+   "date": "Hellenistic–Roman",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Turms",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan Turms absorbed Hermes-like iconography, heraldry, psychopompy, and mythic episodes.",
+   "source": "Etruscan art and cultural translation",
+   "date": "Archaic period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Odin",
+   "other_aliases": [
+    "Wodan"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later interpretation identifies Tacitus's Germanic 'Mercury' with Wodan or Odin.",
+   "source": "Tacitus and later interpretation",
+   "date": "Roman and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Idrīs",
+   "other_aliases": [
+    "Enoch"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Medieval Arabic chronography identifies a primordial Hermes with Idrīs or Enoch.",
+   "source": "Medieval Arabic chronography",
+   "date": "eighth century CE onward",
+   "tier": "late_accretion"
+  }
+ ]
+}

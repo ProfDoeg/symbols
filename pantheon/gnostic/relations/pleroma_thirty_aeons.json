@@ -1,0 +1,85 @@
+{
+ "subject": "pleroma_thirty_aeons",
+ "relations": [
+  {
+   "other": "Horos",
+   "other_aliases": [
+    "Stauros",
+    "Lytrotes",
+    "Horothetes"
+   ],
+   "kind": "other",
+   "myth": "Horos establishes the boundary of the Pleroma",
+   "note": "Horos protects the aeons by separating the Fullness from deficiency.",
+   "source": "Irenaeus, Against Heresies 1.2; Hippolytus 6.28",
+   "date": "about 180; early third century",
+   "tier": "attested"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Christ instructs the aeons after Sophia's crisis",
+   "note": "Christ teaches the aeons about the Father and their own origin.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "about 180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Holy Spirit",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Holy Spirit restores aeonic concord",
+   "note": "Holy Spirit teaches the aeons repose, equality, unity, and thanksgiving.",
+   "source": "Irenaeus, Against Heresies 1.2",
+   "date": "about 180 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jesus",
+   "other_aliases": [
+    "Soter",
+    "Savior",
+    "Great High Priest",
+    "Fruit of the Pleroma",
+    "common Fruit"
+   ],
+   "kind": "created",
+   "myth": "Production of the common Fruit",
+   "note": "All aeons contribute their finest qualities to produce Jesus as their common Fruit.",
+   "source": "Irenaeus 1.2; Hippolytus 6.28",
+   "date": "about 180; early third century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Demiurge",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Demiurge learns of the upper Fullness",
+   "note": "The Demiurge initially remains ignorant of the Pleroma but is later instructed about a higher God.",
+   "source": "Irenaeus 1.5; Hippolytus 6.32",
+   "date": "about 180; early third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Christ",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Christ enters and unites with the Pleroma",
+   "note": "Christ leaves Sophia, enters the Pleroma, and unites with the All and Paraclete.",
+   "source": "Clement, Excerpts from Theodotus 32–35",
+   "date": "late second/early third century",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Logos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Logos divides and helps restore the aeons",
+   "note": "Logos overreaches toward the Father, produces deficient orders, then participates in restoration.",
+   "source": "Tripartite Tractate",
+   "date": "third century",
+   "tier": "regional_variant"
+  }
+ ]
+}

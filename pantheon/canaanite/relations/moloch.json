@@ -1,0 +1,149 @@
+{
+ "subject": "moloch",
+ "relations": [
+  {
+   "other": "YHWH",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Prohibition and judgment of Molech worship",
+   "note": "YHWH prohibits offerings to Molech and threatens offenders with expulsion.",
+   "source": "Leviticus 18:21; 20:2–5",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "YHWH",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Repudiation of the Jerusalem Molech rite",
+   "note": "YHWH condemns passing children to Molech and denies commanding it.",
+   "source": "Jeremiah 32:35",
+   "date": "exilic or later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Children passed to Molech at Baal's high places",
+   "note": "Molech rites occur at Baal's high places without narrated divine interaction.",
+   "source": "Jeremiah 32:35",
+   "date": "exilic or later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chemosh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solomon's foreign high places",
+   "note": "Solomon builds adjacent high places for Chemosh and textually uncertain Molech.",
+   "source": "1 Kings 11:7",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ashtoreth",
+   "other_aliases": [
+    "Astarte"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solomon's apostasy",
+   "note": "Ashtoreth and Molech appear in the same catalogue of foreign cults.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical"
+  },
+  {
+   "other": "Milcom",
+   "other_aliases": [
+    "Milkom"
+   ],
+   "kind": "shared_myth",
+   "myth": "Solomon's apostasy",
+   "note": "Milcom and Molech occur in the same foreign-cult narrative.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "Deuteronomistic royal narrative",
+   "tier": "canonical"
+  },
+  {
+   "other": "Milcom",
+   "other_aliases": [
+    "Milkom"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Molech is traditionally equated with Milcom, possibly through textual corruption.",
+   "source": "1 Kings 11:5–7, 33",
+   "date": "first millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Rephan",
+   "other_aliases": [
+    "Kiyyun"
+   ],
+   "kind": "shared_myth",
+   "myth": "Tent of Moloch and star of Rephan",
+   "note": "Moloch and Rephan appear together in the Greek Amos tradition.",
+   "source": "Greek Amos 5:26; Acts 7:43",
+   "date": "Hellenistic–first century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Baʿal Hammon",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later harmonization equates Moloch with the Punic recipient Baʿal Hammon.",
+   "source": "Modern comparative reconstruction",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [
+    "Saturn",
+    "El"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later harmonization identifies Moloch with El, Kronos, and Saturn.",
+   "source": "Philo of Byblos and later harmonization",
+   "date": "first–second centuries CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Malik",
+   "other_aliases": [
+    "Milku",
+    "Mlk"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship disputes whether Malik-like deities are cognates of biblical Molech.",
+   "source": "Mesopotamian and West Semitic texts",
+   "date": "third–second millennia BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A disputed reconstruction links Molech indirectly through ancient Malik–Nergal equations.",
+   "source": "Mesopotamian lexical and theological texts",
+   "date": "second millennium BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "God",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War in Heaven and infernal council",
+   "note": "Milton's fallen Moloch rebels against God and advocates renewed open war.",
+   "source": "Paradise Lost, Books I–II",
+   "date": "1667; revised 1674",
+   "tier": "late_accretion"
+  }
+ ]
+}

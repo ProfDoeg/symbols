@@ -1,0 +1,283 @@
+{
+ "subject": "chimera",
+ "relations": [
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Typhon fathers the Chimera with Echidna under the standard genealogy.",
+   "source": "Hesiod, Theogony 306–325",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Echidna",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Echidna is the Chimera's mother under the standard but syntactically debated reading.",
+   "source": "Hesiod, Theogony 295–325",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Hydra is a possible mother under a minority grammatical reading.",
+   "source": "Hesiod, Theogony 319",
+   "date": "ca. 700 BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Under the standard Typhon-Echidna genealogy, the Hydra is her sibling.",
+   "source": "Hesiod, Theogony 295–325",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orthrus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Orthrus shares Typhon and Echidna as parents under the standard genealogy.",
+   "source": "Hesiod, Theogony 306–325",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orthrus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Birth of the Sphinx and Nemean Lion",
+   "note": "A disputed pronoun makes Chimera Orthrus's mate and mother of two monsters.",
+   "source": "Hesiod, Theogony 326–327",
+   "date": "ca. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cerberus shares Typhon and Echidna as parents under the standard genealogy.",
+   "source": "Hesiod, Theogony 306–325",
+   "date": "ca. 700 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sphinx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chimera may bear the Sphinx to Orthrus, depending on Hesiod's ambiguous pronoun.",
+   "source": "Hesiod, Theogony 326–327",
+   "date": "ca. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sphinx",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later systematized genealogies alternatively make the Sphinx her sibling.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Chimera may bear the Nemean Lion to Orthrus under one Hesiodic reading.",
+   "source": "Hesiod, Theogony 326–327",
+   "date": "ca. 700 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nemean Lion",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later systematized genealogies alternatively make the Nemean Lion her sibling.",
+   "source": "Pseudo-Apollodorus, Bibliotheca",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Caucasian Eagle",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later enlarged Typhon-Echidna family trees make the eagle her sibling.",
+   "source": "Later mythographic family trees",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Crommyonian Sow",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later enlarged Typhon-Echidna family trees make the sow her sibling.",
+   "source": "Later mythographic family trees",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ladon",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Later enlarged Typhon-Echidna family trees make Ladon her sibling.",
+   "source": "Later mythographic family trees",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bellerophon's Lycian ordeal",
+   "note": "Pegasus carries Bellerophon into battle and sometimes strikes the Chimera directly.",
+   "source": "Hesiod, Theogony 319–325",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Bellerophon's Lycian ordeal",
+   "note": "Hesiod credits Pegasus and Bellerophon jointly with killing the Chimera.",
+   "source": "Hesiod, Theogony 319–325",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bellerophon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Bellerophon's Lycian ordeal",
+   "note": "Bellerophon confronts the Chimera as the first supposedly fatal Lycian ordeal.",
+   "source": "Homer, Iliad 6.179–183",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Bellerophon",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Bellerophon's Lycian ordeal",
+   "note": "Bellerophon kills the Chimera by obeying divine portents.",
+   "source": "Homer, Iliad 6.179–183",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tinia",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "",
+   "note": "The Arezzo bronze representing Chimera was dedicated as a votive offering to Tinia.",
+   "source": "TINSCVIL inscription",
+   "date": "ca. 410–390 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Chimarrhus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The pirate Chimarrhus",
+   "note": "Plutarch rationalizes the Chimera as a pirate with animal emblems on his ship.",
+   "source": "Plutarch, Bravery of Women 9",
+   "date": "late first–early second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Centaurs",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and the Centaurs together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Scyllas",
+   "other_aliases": [
+    "Scylla"
+   ],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and the Scyllas together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Briareus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and Briareus together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and the Hydra together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gorgons",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and the Gorgons together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Harpies",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and the Harpies together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Geryon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Monsters at Hades' entrance",
+   "note": "Virgil places Chimera and Geryon together among infernal apparitions.",
+   "source": "Virgil, Aeneid 6.285–289",
+   "date": "29–19 BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

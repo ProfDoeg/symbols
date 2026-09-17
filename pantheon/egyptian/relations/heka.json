@@ -1,0 +1,275 @@
+{
+ "subject": "heka",
+ "relations": [
+  {
+   "other": "Sole Lord",
+   "other_aliases": [
+    "Lord of All",
+    "Unique Lord"
+   ],
+   "kind": "created_by",
+   "myth": "Primordial creation before cosmic duality",
+   "note": "The solitary creator makes Heka before differentiated existence.",
+   "source": "Coffin Text 261",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sole Lord",
+   "other_aliases": [
+    "Lord of All",
+    "Unique Lord"
+   ],
+   "kind": "served",
+   "myth": "Guarding the creator's command",
+   "note": "Heka guards and effectuates the command ordained by the creator.",
+   "source": "Coffin Text 261",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Primordial creator passage",
+   "note": "Heka appears in a difficult passage invoking the being who bore Atum.",
+   "source": "Coffin Text 261",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Khepri",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Primordial creator's authority over Khepri",
+   "note": "Heka recalls the primordial creator speaking or exercising authority concerning Khepri.",
+   "source": "Coffin Text 261",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Ennead",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Heka gives life to the Ennead",
+   "note": "Heka declares that he caused the Ennead to live.",
+   "source": "Coffin Text 261",
+   "date": "Middle Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Heka is identified as Re's ba, his manifested magical potency.",
+   "source": "Coffin Texts and solar theology",
+   "date": "Middle and New Kingdoms",
+   "tier": "canonical"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later theology identifies Heka as Re's ka or vital essence.",
+   "source": "Papyrus BM 10188 and temple texts",
+   "date": "Late Period–Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Re",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Nightly solar journey",
+   "note": "Heka accompanies and protects Re during his nocturnal solar progress.",
+   "source": "Underworld books and funerary iconography",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apophis",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Subduing Apophis in the seventh hour",
+   "note": "Heka, if the Elder Magician identification is accepted, restrains the solar enemy.",
+   "source": "Amduat and anti-Apophis liturgies",
+   "date": "New Kingdom and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Subduing Apophis in the seventh hour",
+   "note": "Isis and the disputed Heka-like Elder Magician jointly protect the solar bark.",
+   "source": "Amduat",
+   "date": "New Kingdom",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sia",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Accompanying Re in the solar bark",
+   "note": "Heka embodies magical efficacy beside Sia, who embodies divine perception.",
+   "source": "New Kingdom funerary iconography",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Effective faculties accompany the solar process",
+   "note": "Heka supplies efficacy while Hu supplies authoritative utterance in the creator's action.",
+   "source": "New Kingdom and later theology",
+   "date": "New Kingdom and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Memphite theology identifies Heka as Ptah's ba or manifested potency.",
+   "source": "Berlin hymn cited by Ritner",
+   "date": "Date not specified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Khnum-Re"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "At Esna, Heka the Child is Khnum-Re's firstborn son and heir.",
+   "source": "Esna temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [
+    "Khnum-Re"
+   ],
+   "kind": "served",
+   "myth": "Heka joins Khnum's creative work",
+   "note": "Heka participates in Khnum's local triad, creative work, and divine succession.",
+   "source": "Esna temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Menhyt",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Menhyt is Heka the Child's mother in a principal Esna genealogy.",
+   "source": "Esna temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nebtu",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Nebtu is an alternative or coexisting mother of Heka at Esna.",
+   "source": "Esna temple inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some late creative genealogies identify Neith as Heka's mother.",
+   "source": "Esna temple theology",
+   "date": "Ptolemaic–Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sekhmet",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Assimilative temple epithets name Sekhmet as Heka's mother.",
+   "source": "Greco-Roman temple litanies",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Assimilative temple litanies identify Tefnut as Heka's mother.",
+   "source": "Greco-Roman temple texts",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Renenutet",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late epithets identify Renenutet as Heka's mother, reflecting nourishment and crop theology.",
+   "source": "Temple litanies",
+   "date": "Greco-Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mehet-Weret",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some late compilations attribute Heka's motherhood to Mehet-Weret, though documentation is weak.",
+   "source": "Late temple compilations",
+   "date": "Late period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Presentation of Heka to Hathor",
+   "note": "The king presents Heka to Hathor, bringing spells and embodied magical power.",
+   "source": "Dendera inscriptions",
+   "date": "Ptolemaic–Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Solar-Osirian regeneration",
+   "note": "Heka accompanies the sun's union with its Osirian corpse and ensuing regeneration.",
+   "source": "Funerary papyri",
+   "date": "New Kingdom–Third Intermediate Period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Horus-on-the-crocodiles healing program",
+   "note": "Heka contributes solar-magical protection within healing scenes centered on Horus.",
+   "source": "Djedhor healing statue",
+   "date": "323–317 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mehen",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protecting Re during the nocturnal journey",
+   "note": "Heka and Mehen belong among the protective beings enabling Re's nightly passage.",
+   "source": "Underworld books",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "subject": "minerva",
+ "relations": [
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Athena Pallas"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Latin literature and Roman art explicitly identify Minerva with Greek Athena.",
+   "source": "Latin literary and artistic tradition",
+   "date": "second century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sulis",
+   "other_aliases": [
+    "Sulis Minerva"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman-period Bath worship identified Minerva with the local spring and healing goddess Sulis.",
+   "source": "RIB 150 and Bath inscriptions",
+   "date": "second–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Belisama",
+   "other_aliases": [
+    "Minerva Belisama"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A sparsely attested Gallic composite name identifies Minerva with Belisama.",
+   "source": "Gallic imperial inscriptions",
+   "date": "imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth from Jupiter's head",
+   "note": "Minerva emerges armed from Jupiter's head after he contains or swallows the pregnancy.",
+   "source": "Hyginus, Fabulae 27 and 166",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth from Jupiter's head",
+   "note": "Greek-derived forms make pregnant Metis the mother whom Jupiter swallows before Minerva's birth.",
+   "source": "Hesiodic tradition in Latin mythography",
+   "date": "imperial Latin tradition",
+   "tier": "canonical"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "other",
+   "myth": "Birth from Jupiter's head",
+   "note": "Vulcan opens Jupiter's skull, allowing the armed Minerva to emerge.",
+   "source": "Hyginus and later mythography",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Contest with Neptune for Athens",
+   "note": "Jupiter presides over the twelve gods who judge Minerva's olive superior.",
+   "source": "Ovid, Metamorphoses 6.70–82",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Domitian's final Minerva dream",
+   "note": "Minerva reportedly says Jupiter removed her weapons, preventing her from protecting Domitian.",
+   "source": "Suetonius, Domitian 15",
+   "date": "c. 120 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Jupiter Optimus Maximus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Capitoline joint cult",
+   "note": "Minerva shares Jupiter's Capitoline temple with Jupiter and Juno.",
+   "source": "Livy 1.55–56; archaeological evidence",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Capitoline joint cult",
+   "note": "Juno and Minerva occupy lateral chambers beside Jupiter in the Capitoline temple.",
+   "source": "Livy 1.55–56",
+   "date": "late first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "shared_myth",
+   "myth": "Etruscan triadic appearances",
+   "note": "Menrva appears with Uni and Tinia in Etruscan cult and iconographic groupings.",
+   "source": "Etruscan art and cult evidence",
+   "date": "Etruscan period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tinia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Etruscan triadic appearances",
+   "note": "Menrva appears with Tinia and Uni in Etruscan cult and court-like scenes.",
+   "source": "Etruscan art and cult evidence",
+   "date": "Etruscan period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Vulcan",
+   "other_aliases": [
+    "Hephaestus"
+   ],
+   "kind": "fought",
+   "myth": "Attempted rape and Erichthonius",
+   "note": "Minerva resists Vulcan's attempted sexual assault with weapons, preserving her virginity.",
+   "source": "Hyginus, Fabula 166",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "contest",
+   "myth": "Contest for Athens",
+   "note": "Neptune produces a horse, Minerva an olive, and the gods favor her gift.",
+   "source": "Ovid, Metamorphoses 6.70–82",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "other",
+   "myth": "Erichthonius conception",
+   "note": "Hostile Neptune urges Vulcan to seek Minerva sexually, precipitating the attempted assault.",
+   "source": "Hyginus, Fabula 166",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Neptune",
+   "other_aliases": [
+    "Poseidon"
+   ],
+   "kind": "shared_myth",
+   "myth": "Violation of Medusa's sanctuary",
+   "note": "Neptune violates Medusa inside Minerva's temple, after which Minerva transforms Medusa's hair.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Mars courts Minerva",
+   "note": "Mars desires Minerva and asks Anna Perenna to arrange their marriage, unsuccessfully.",
+   "source": "Ovid, Fasti 3.675–696",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anna Perenna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Marriage deception",
+   "note": "Anna claims to mediate Mars's suit for Minerva, then substitutes herself as the veiled bride.",
+   "source": "Ovid, Fasti 3.675–696",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mars's humiliation",
+   "note": "Venus delights in Anna Perenna's humiliation of Mars during his pursuit of Minerva.",
+   "source": "Ovid, Fasti 3.693–696",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Minerva, Juno, and Venus compete for the beauty prize, which Venus receives.",
+   "source": "Hyginus, Fabula 92",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "contest",
+   "myth": "Judgment of Paris",
+   "note": "Minerva and Juno compete alongside Venus for the prize of beauty.",
+   "source": "Hyginus, Fabula 92",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Patrons of learned arts",
+   "note": "Mercury and Minerva jointly represent intellectual and technical arts in learned allegory.",
+   "source": "Martianus Capella, De nuptiis",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Patrons of artistic expertise",
+   "note": "Latin poetry pairs Apollo and learned Minerva as patrons of artistic expertise.",
+   "source": "Latin poetic tradition",
+   "date": "Roman literary period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cabardiacum healing imagery",
+   "note": "Apollo appears with his lyre in the healing-cult environment associated with Minerva Memor.",
+   "source": "Cabardiacum visual and epigraphic evidence",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Liber",
+   "other_aliases": [
+    "Bacchus"
+   ],
+   "kind": "shared_myth",
+   "myth": "Vulcan's return to the gods",
+   "note": "Liber's return of Vulcan to the divine council enables Vulcan's request for Minerva.",
+   "source": "Hyginus, Fabula 166",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Terra",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Birth of Erichthonius",
+   "note": "Terra receives Vulcan's semen and bears Erichthonius, whom Minerva subsequently raises.",
+   "source": "Hyginus, Fabula 166",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erichthonius",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Fosterage of Erichthonius",
+   "note": "Minerva hides, nurses, and raises the serpent-legged Erichthonius as foster-mother.",
+   "source": "Hyginus, Fabula 166",
+   "date": "imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Visit to Helicon",
+   "note": "Minerva visits the Muses at Helicon and hears their account of the Pierides.",
+   "source": "Ovid, Metamorphoses 5.250–678",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pegasus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Helicon spring",
+   "note": "Minerva visits the Heliconian spring said to have arisen beneath Pegasus's hoof.",
+   "source": "Ovid, Metamorphoses 5.250–268",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Marsyas",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "The discarded flute",
+   "note": "Marsyas retrieves the flute Minerva invented, discarded, and cursed.",
+   "source": "Ovid, Fasti 6.697–710",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Victoria",
+   "other_aliases": [
+    "Nike",
+    "Victory"
+   ],
+   "kind": "shared_myth",
+   "myth": "Imperial victory imagery",
+   "note": "Minerva carries or appears beside Victoria in Roman images of imperial victory.",
+   "source": "Roman coins and reliefs",
+   "date": "imperial period",
+   "tier": "attested"
+  },
+  {
+   "other": "Thalna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Menrva between Thalna and Sime",
+   "note": "Thalna flanks Menrva in a securely inscribed Etruscan mirror scene of uncertain narrative.",
+   "source": "Metropolitan Museum mirror 97.22.17",
+   "date": "late fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sime",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Menrva between Thalna and Sime",
+   "note": "Sime flanks Menrva in a securely inscribed Etruscan mirror scene of uncertain narrative.",
+   "source": "Metropolitan Museum mirror 97.22.17",
+   "date": "late fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hercle",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "shared_myth",
+   "myth": "Adapted Heracles cycles",
+   "note": "Menrva appears with Hercle in Etruscan mirror scenes adapting Greek Heracles narratives.",
+   "source": "Inscribed Etruscan mirrors",
+   "date": "fifth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Turan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Etruscan mirror scenes",
+   "note": "Menrva and Turan occur in joint Etruscan mythological scenes without a fixed cult relationship.",
+   "source": "Etruscan mirrors",
+   "date": "fifth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fufluns",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Etruscan mirror scenes",
+   "note": "Menrva and Fufluns occur in joint Etruscan mythological scenes without a fixed cult relationship.",
+   "source": "Etruscan mirrors",
+   "date": "fifth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Weaving contest",
+   "note": "Arachne challenges Minerva to weave; Minerva cannot fault her rival's craftsmanship.",
+   "source": "Ovid, Metamorphoses 6.1–145",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Destruction of Arachne's tapestry",
+   "note": "Minerva destroys Arachne's faultless tapestry and strikes her after the contest.",
+   "source": "Ovid, Metamorphoses 6.1–145",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arachne",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Transformation into a spider",
+   "note": "Minerva prevents Arachne's final death and transforms her into a perpetually spinning spider.",
+   "source": "Ovid, Metamorphoses 6.1–145",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Medusa's transformation",
+   "note": "After Neptune violates Medusa in her temple, Minerva changes Medusa's hair into snakes.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Medusa",
+   "other_aliases": [
+    "the Gorgon"
+   ],
+   "kind": "other",
+   "myth": "The Gorgoneion",
+   "note": "Minerva later wears Medusa's severed head upon her aegis.",
+   "source": "Ovid, Metamorphoses 4.790–803",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Giants",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Minerva fights the Giants as a defender of divine cosmic order.",
+   "source": "Greek and Roman art; Hyginus",
+   "date": "Roman period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Gigantomachy",
+   "note": "One Gigantomachy variant credits Minerva with killing the Giant Pallas.",
+   "source": "Hyginus mythographic tradition",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Enceladus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Some variants associate Minerva with the attack or victory against Enceladus.",
+   "source": "Hyginus and Roman iconography",
+   "date": "imperial period",
+   "tier": "regional_variant"
+  }
+ ]
+}

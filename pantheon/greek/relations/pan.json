@@ -1,0 +1,503 @@
+{
+ "subject": "pan",
+ "relations": [
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth and reception on Olympus",
+   "note": "Hermes fathers Pan with Dryops’s unnamed daughter and presents him on Olympus.",
+   "source": "Homeric Hymn 19",
+   "date": "late sixth–fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Penelope",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pan is reported as the child of Penelope and Hermes.",
+   "source": "Herodotus, Histories 2.145–146",
+   "date": "ca. 440–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A competing genealogy makes Hermes and Penelope Pan’s parents.",
+   "source": "Herodotus, Histories 2.145–146",
+   "date": "ca. 440–420 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Comic dispute over Pan’s paternity",
+   "note": "Pan confronts an embarrassed Hermes and claims Penelope bore him.",
+   "source": "Lucian, Dialogues of the Gods",
+   "date": "second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A fragmentary variant makes Apollo and Penelope Pan’s parents.",
+   "source": "Pindaric tradition and scholia",
+   "date": "late scholia",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thymbris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late genealogy names the nymph Thymbris as Pan’s mother by Hermes.",
+   "source": "Scholia",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sose",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A specialized Pan is made the son of Hermes and Sose.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A distinct learned Pan is described as the son of Zeus and Hybris.",
+   "source": "Pseudo-Apollodoran tradition",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hybris",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A distinct learned Pan is described as the son of Hybris and Zeus.",
+   "source": "Pseudo-Apollodoran tradition",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aether",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late genealogical variant names Aether as Pan’s father.",
+   "source": "Late scholia and mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Oeneis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A late genealogical variant names Oeneis as Pan’s mother.",
+   "source": "Late scholia and mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Crotus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some later genealogies make Crotus the son of Pan and Eupheme.",
+   "source": "Later genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eupheme",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eupheme is sometimes paired with Pan as Crotus’s mother.",
+   "source": "Later genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Acis",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Some late variants assign Acis to Pan as his offspring.",
+   "source": "Late genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iynx",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Varying later genealogies sometimes make Iynx Pan’s child.",
+   "source": "Later genealogical traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Panes",
+   "other_aliases": [
+    "Paniskoi"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The plural Panes are sometimes treated as Pan’s children.",
+   "source": "Later genealogical traditions",
+   "date": "Hellenistic period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "All Olympian gods",
+   "other_aliases": [
+    "all the immortals"
+   ],
+   "kind": "shared_myth",
+   "myth": "Infant Pan received on Olympus",
+   "note": "The Olympian gods receive the infant Pan and delight in him.",
+   "source": "Homeric Hymn 19",
+   "date": "late sixth–fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Infant Pan received on Olympus",
+   "note": "Dionysus delights most in the infant Pan because of his dancing.",
+   "source": "Homeric Hymn 19",
+   "date": "late sixth–fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Dionysus’s Indian campaign",
+   "note": "Pan and the Panes join Dionysus’s entourage and Indian army.",
+   "source": "Nonnus, Dionysiaca 14",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nymphs",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Mountain dances and rustic music",
+   "note": "Pan leads or accompanies the nymphs’ mountain dances and music.",
+   "source": "Homeric Hymn 19",
+   "date": "late sixth–fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Syrinx",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pursuit and transformation of Syrinx",
+   "note": "Pan pursues Syrinx; after she becomes reeds, he fashions his pipe.",
+   "source": "Ovid, Metamorphoses 1.689–712",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Echo",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Echo’s rejection and dismemberment",
+   "note": "Pan maddens shepherds who tear apart Echo after she rejects him.",
+   "source": "Longus, Daphnis and Chloe 3.23",
+   "date": "late second–early third century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Echo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Pan teaches Echo songs",
+   "note": "Echo appears amicably with Pan as his musical and erotic companion.",
+   "source": "Apuleius, Metamorphoses 5.25",
+   "date": "later second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Preservation of Echo’s voice",
+   "note": "After Pan causes Echo’s death, Gaia receives her limbs and preserves her voice.",
+   "source": "Longus, Daphnis and Chloe 3.23",
+   "date": "late second–early third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pitys",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pursuit and transformation of Pitys",
+   "note": "Pan pursues Pitys, who becomes a pine in varying late accounts.",
+   "source": "Nonnus and late mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Rivalry for Pitys",
+   "note": "Pan and Boreas compete for Pitys, who favors Pan.",
+   "source": "Late poetic and mythographic sources",
+   "date": "late antiquity",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [
+    "Luna"
+   ],
+   "kind": "seduced",
+   "myth": "Seduction with snowy fleece",
+   "note": "Pan entices Selene into the woods with snowy wool or disguise.",
+   "source": "Virgil, Georgics 3.391–393",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Music contest judged by Tmolus",
+   "note": "Pan challenges Apollo’s lyre with his reeds and loses.",
+   "source": "Ovid, Metamorphoses 11.146–179",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Pan teaches Apollo prophecy",
+   "note": "A distinct Pan, son of Zeus and Hybris, teaches Apollo prophecy.",
+   "source": "Pseudo-Apollodoran tradition",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tmolus",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Music contest with Apollo",
+   "note": "The mountain-god Tmolus judges Apollo’s music superior to Pan’s.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "ca. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Pan’s resisted sexual approach",
+   "note": "Aphrodite raises her sandal to resist an importunate Pan.",
+   "source": "Delian sculptural group",
+   "date": "ca. 100 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Intervention between Pan and Aphrodite",
+   "note": "Eros intervenes during Pan’s resisted approach to Aphrodite.",
+   "source": "Delian sculptural group",
+   "date": "ca. 100 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Psyche",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Pan counsels the despairing Psyche",
+   "note": "Pan counsels Psyche against suicide and urges reconciliation with Cupid.",
+   "source": "Apuleius, Metamorphoses 5.25",
+   "date": "later second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Recovery of Zeus’s sinews",
+   "note": "Pan as Aigipan helps recover Zeus’s sinews after Typhon disables him.",
+   "source": "Hyginus, Fabulae 196",
+   "date": "first–second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Typhon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Aigipan and the stolen sinews",
+   "note": "Pan or Aigipan opposes Typhon and assists in his defeat.",
+   "source": "Apollodorus and Hyginus",
+   "date": "first–second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Exchange of hunting dogs",
+   "note": "Late inconsistent traditions make Pan giver or receiver of Artemis’s hunting dogs.",
+   "source": "Late mythographic traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Acheloos",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Pan and Acheloos jointly appear with Hermes and nymphs in cave reliefs.",
+   "source": "Attic cave votive reliefs",
+   "date": "fourth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Pan and Isis are jointly named in later Athenian cave-cult evidence.",
+   "source": "Athenian cave-cult evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Min",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek settlers fused Pan with the Egyptian fertility and desert god Min.",
+   "source": "Ptolemaic Egyptian cult evidence",
+   "date": "third century BCE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Faunus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation equated Faunus with Pan amid iconographic convergence.",
+   "source": "Roman interpretive tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Inuus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation sometimes equated the Italian god Inuus with Pan.",
+   "source": "Roman interpretive tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Silvanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman interpretation sometimes equated Silvanus with Pan.",
+   "source": "Roman interpretive tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Phanes",
+   "other_aliases": [
+    "Protogonos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial Orphic and Neoplatonic systems fold Phanes into cosmic Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial cosmic systematization includes Zeus among identities folded into Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial cosmic systematization includes Eros among identities folded into Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Metis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial cosmic systematization includes Metis among identities folded into Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Erikepaios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial cosmic systematization includes Erikepaios among identities folded into Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bromios",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Imperial cosmic systematization includes Bromios among identities folded into Pan.",
+   "source": "Imperial Orphic and Neoplatonic tradition",
+   "date": "Imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pūṣan",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Modern scholars propose a disputed linguistic and functional relationship between Pan and Pūṣan.",
+   "source": "Collitz comparative hypothesis",
+   "date": "1924",
+   "tier": "modern"
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "subject": "four_sons_of_horus",
+ "relations": [
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The four are repeatedly called the children or sons of Horus.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Celestial ascent and divine body",
+   "note": "Their limbs and collective agency restore, support, and serve Horus.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Restoration of Horus’s Eye",
+   "note": "They treat, carry, receive, or restore portions of his injured Eye.",
+   "source": "Dramatic Ramesseum Papyrus",
+   "date": "Middle Kingdom manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus the Elder",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "He is named as their father in the later canonical genealogy.",
+   "source": "Book of the Dead 112",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Isis is explicitly named as their mother.",
+   "source": "Book of the Dead 112",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the four viscera",
+   "note": "She protects Imsety and the liver or organ-package identified with him.",
+   "source": "Canopic inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the four viscera",
+   "note": "She protects Hapy and the lungs or organ-package identified with him.",
+   "source": "Canopic inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Protection of the four viscera",
+   "note": "She protects Duamutef and the stomach or organ-package identified with him.",
+   "source": "Canopic inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Serket",
+   "other_aliases": [
+    "Selket"
+   ],
+   "kind": "allied",
+   "myth": "Protection of the four viscera",
+   "note": "She protects Qebehsenuef and the intestinal organ-package.",
+   "source": "Canopic inscriptions",
+   "date": "Middle Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Protection and reconstitution of Osiris",
+   "note": "They gather, bear, protect, support, and revivify his vulnerable body.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "Old–Middle Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [
+    "Osiris-Khentiamentiu"
+   ],
+   "kind": "rescued",
+   "myth": "Protection of Osiris-Khentiamentiu",
+   "note": "They spread protection over him and remove hostile impediments.",
+   "source": "Book of the Dead 137",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of Osiris from Seth",
+   "note": "They repel Seth, drive him away, and keep him from Osiris.",
+   "source": "Book of the Dead 137",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Followers of Seth",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Conflict with Seth’s followers",
+   "note": "They oppose, restrain, or ritually defeat Seth’s adherents.",
+   "source": "Dramatic Ramesseum Papyrus",
+   "date": "Middle Kingdom manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "An early variant presents Geb as their parent or divine source.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Address to Geb",
+   "note": "They address Geb during the ritual drama.",
+   "source": "Dramatic Ramesseum Papyrus",
+   "date": "Middle Kingdom manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Binding the underworld enemies",
+   "note": "They join Geb in controlling hostile underworld beings.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Anubis",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Embalming and burial protection",
+   "note": "They appear among spirits he summons and share funerary protection.",
+   "source": "Book of the Dead 17, 151",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Restoration of Horus’s Eye",
+   "note": "Thoth restores or transfers the Eye while the sons handle its recovery.",
+   "source": "Dramatic Ramesseum Papyrus",
+   "date": "Middle Kingdom manuscript",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Some early passages place them among Nut’s children or celestial dependants.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Support of Nut’s sky",
+   "note": "They inhabit and support her celestial realm.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "",
+   "note": "Isolated early formulations name Atum as their source or parent.",
+   "source": "Pyramid Texts",
+   "date": "c. 2350–2200 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Expulsion of bodily thirst",
+   "note": "Shu prevents thirst while the sons expel thirst from the dead.",
+   "source": "Pyramid Text Utterance 552",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Expulsion of bodily hunger",
+   "note": "Tefnut prevents hunger while the sons expel hunger from the dead.",
+   "source": "Pyramid Text Utterance 552",
+   "date": "Old Kingdom",
+   "tier": "attested"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Ra’s ordered underworld passage",
+   "note": "They restrain enemies threatening the underworld traversed by Ra.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apophis",
+   "other_aliases": [
+    "Apep"
+   ],
+   "kind": "fought",
+   "myth": "Binding the underworld enemies",
+   "note": "They help bind or control serpentine enemies associated with Apophis.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Four hostile wmmtj beings",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Binding the condemned serpents",
+   "note": "They hold chains restraining four condemned snake-like enemies.",
+   "source": "Book of Gates, tenth division",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "subject": "khepri",
+ "relations": [
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Self-emergence on the primeval elevation",
+   "note": "Atum-Khepri is jointly addressed as the self-emerging creator.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isis appeals to solar authorities",
+   "note": "Isis names Atum and Khepri as authorities for her complaint.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Emergence from the primeval condition",
+   "note": "Atum-Khepri emerges from Nun, the pre-existing primordial waters.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nun",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Emergence of the renewed scarab-sun",
+   "note": "Nun raises the solar bark containing Khepri as the renewed sun.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Atum-Khepri brings Shu forth through sneezing or spitting.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Atum-Khepri produces Tefnut through spitting or expectoration.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Daily emergence of the solar god",
+   "note": "Khepri is compounded with Ra and represents Ra's emerging, renewed form.",
+   "source": "New Kingdom solar literature",
+   "date": "New Kingdom",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Khepri participates in cumulative solar compounds such as Amun-Ra-Khepri.",
+   "source": "Egyptian temple theology",
+   "date": "New Kingdom and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Osiris descends from Khepri through Shu and Tefnut when Khepri is Atum-Khepri.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nocturnal regeneration of the sun",
+   "note": "The nocturnal sun joins Osirian regenerative power and re-emerges as Khepri.",
+   "source": "New Kingdom Netherworld Books",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Geb",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Geb belongs to the Ennead descending from Atum-Khepri's offspring.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nut",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nut belongs to the Ennead descending from Atum-Khepri's offspring.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Isis descends from Khepri through Shu and Tefnut when Khepri is Atum-Khepri.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isis appeals during the divine dispute",
+   "note": "Isis invokes Khepri in his bark as an authority for her complaint.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Seth",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Seth descends from Khepri through Shu and Tefnut when Khepri is Atum-Khepri.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephthys",
+   "other_aliases": [],
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Nephthys descends from Khepri through Shu and Tefnut when Khepri is Atum-Khepri.",
+   "source": "Pyramid Texts PT 600",
+   "date": "c. 23rd century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neith",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isis swears before divine authorities",
+   "note": "Neith and Khepri are co-invoked in Isis's appeal without direct dialogue.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah-Tatenen",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Isis swears before divine authorities",
+   "note": "Ptah-Tatenen and Khepri are co-invoked in Isis's appeal.",
+   "source": "Papyrus Chester Beatty I",
+   "date": "c. 1160 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Horus",
+   "other_aliases": [
+    "Horakhty"
+   ],
+   "kind": "identified_with",
+   "myth": "Horizon emergence of the solar Horus",
+   "note": "Late temple theology identifies the horizon-emerging Horus with Khepri.",
+   "source": "Edfu temple inscriptions",
+   "date": "Ptolemaic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Heka",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nocturnal passage of the solar bark",
+   "note": "Heka accompanies the solar passage whose renewed form is Khepri.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Sia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Nocturnal passage of the solar bark",
+   "note": "Sia accompanies the solar god whose renewed emerging form is Khepri.",
+   "source": "Book of Gates",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [
+    "Tahuti"
+   ],
+   "kind": "served_by",
+   "myth": "Midnight passage in the solar bark",
+   "note": "Crowley's ritual places Tahuti at the prow while Khephra travels hidden.",
+   "source": "Liber Resh vel Helios",
+   "date": "early twentieth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Ra-Hoor",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Midnight passage in the solar bark",
+   "note": "Crowley's ritual places Ra-Hoor at the helm of Khephra's bark.",
+   "source": "Liber Resh vel Helios",
+   "date": "early twentieth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Apophis",
+   "other_aliases": [
+    "Apep"
+   ],
+   "kind": "other",
+   "myth": "Attack upon the nocturnal solar passage",
+   "note": "Apophis obstructs the solar cycle whose successful renewed state is Khepri.",
+   "source": "New Kingdom Netherworld Books",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Creation through heart and tongue",
+   "note": "Ptah's creative intelligence incorporates the Heliopolitan Atum-Khepri complex.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "late_accretion"
+  }
+ ]
+}

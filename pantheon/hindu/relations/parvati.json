@@ -1,0 +1,659 @@
+{
+ "subject": "parvati",
+ "relations": [
+  {
+   "other": "Brahman",
+   "other_aliases": [
+    "yakṣa"
+   ],
+   "kind": "other",
+   "myth": "Umā reveals the vanished yakṣa as Brahman",
+   "note": "She identifies Brahman as the true source of the gods’ victory.",
+   "source": "Kena Upaniṣad 3.12–4.1",
+   "date": "fifth–third centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Indra",
+   "other_aliases": [],
+   "kind": "taught",
+   "myth": "Umā teaches Indra who won the gods’ victory",
+   "note": "She reveals that Brahman, not the gods, achieved their victory.",
+   "source": "Kena Upaniṣad 3.12–4.1",
+   "date": "fifth–third centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara",
+    "Bhava",
+    "Śarva"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "She is Śiva’s dominant consort throughout epic, Purāṇic and Śaiva traditions.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35–36",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara"
+   ],
+   "kind": "served",
+   "myth": "Pārvatī serves Śiva during his meditation",
+   "note": "She attends the meditating Śiva before undertaking her own austerities.",
+   "source": "Kumārasambhava 1–3",
+   "date": "fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara"
+   ],
+   "kind": "contest",
+   "myth": "Śiva tests Pārvatī while disguised as an ascetic",
+   "note": "She defends Śiva against his disguised criticism and proves her constancy.",
+   "source": "Kumārasambhava 5",
+   "date": "fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara"
+   ],
+   "kind": "contest",
+   "myth": "Śiva and Pārvatī play dice",
+   "note": "Their game becomes a dispute over possessions, pride or illusion.",
+   "source": "Purāṇic and Elephanta traditions",
+   "date": "sixth century CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara"
+   ],
+   "kind": "shared_myth",
+   "myth": "Pārvatī merges bodily with Śiva as Ardhanārīśvara",
+   "note": "Their divided composite body expresses inseparable Śiva and Śakti.",
+   "source": "Mathurā Ardhanārīśvara sculpture",
+   "date": "approximately 150–200 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Rudra",
+    "Maheśvara"
+   ],
+   "kind": "gift",
+   "myth": "Annapūrṇā feeds the food-denying Śiva",
+   "note": "As Annapūrṇā, she feeds Śiva and demonstrates matter’s indispensability.",
+   "source": "Annapūrṇā literature",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Himavat",
+   "other_aliases": [
+    "Himālaya"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Epic and Purāṇic traditions make her the mountain-god’s daughter.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Himavat",
+   "other_aliases": [
+    "Himālaya"
+   ],
+   "kind": "taught",
+   "myth": "The supreme Goddess teaches Himavat",
+   "note": "Śākta theology presents the Goddess teaching her nominal mountain father.",
+   "source": "Devī-Bhāgavata Purāṇa, Devīgītā",
+   "date": "ninth–fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menā",
+   "other_aliases": [
+    "Manoramā"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "She is the younger daughter of Menā and Himavat.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaṅgā",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Rāmāyaṇa names Gaṅgā the elder and Umā the younger sister.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaṅgā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Gaṅgā carries Śiva’s energy toward Skanda’s birth",
+   "note": "They share Skanda’s distributed maternity, with Gaṅgā carrying Śiva’s generative energy.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35–37",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaṅgā",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Pārvatī resents Gaṅgā dwelling in Śiva’s hair",
+   "note": "Later Gaṅgādhara folklore portrays the sisters as rivals for Śiva.",
+   "source": "Gaṅgādhara folklore",
+   "date": "late medieval and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Maināka",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Developed genealogies call her the sister of the mountain Maināka.",
+   "source": "Developed Purāṇic genealogies",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Satī",
+   "other_aliases": [
+    "Dākṣāyaṇī"
+   ],
+   "kind": "identified_with",
+   "myth": "Satī is reborn as Himavat’s daughter Pārvatī",
+   "note": "Purāṇic synthesis identifies Pārvatī as Śiva’s first wife reborn.",
+   "source": "Śiva and Bhāgavata Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Through her identity as Satī reborn, Pārvatī is Dakṣa’s daughter.",
+   "source": "Śiva and Bhāgavata Purāṇas",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Satī confronts Dakṣa at his sacrifice",
+   "note": "As Satī, she condemns her father’s abuse of Śiva and destroys her body.",
+   "source": "Bhāgavata Purāṇa",
+   "date": "ninth–tenth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Skanda",
+   "other_aliases": [
+    "Kārttikeya",
+    "Kumāra",
+    "Murukaṉ"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "She is his mother, foster-mother or claimant, depending on the birth tradition.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35–37",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Agni carries Śiva’s energy toward Skanda’s birth",
+   "note": "Agni transports Śiva’s generative energy after the gods interrupt the couple.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 35–37",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kṛttikās",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Kṛttikās nurse Skanda",
+   "note": "Pārvatī accepts or recovers the child fostered by the Kṛttikās.",
+   "source": "Epic and Purāṇic Skanda cycles",
+   "date": "epic period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Svāhā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Svāhā shares Skanda’s dispersed maternity",
+   "note": "Mahābhārata variants include Svāhā among the figures involved in Skanda’s birth.",
+   "source": "Mahābhārata Skanda accounts",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Koṟṟavai",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Competing traditions name each goddess Murukaṉ’s mother",
+   "note": "Tamil tradition gives Koṟṟavai an alternative maternity later assimilated to Pārvatī’s family.",
+   "source": "Tirumurukāṟṟuppaṭai and Tamil traditions",
+   "date": "early centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Pārvatī creates Gaṇeśa from her bodily substance",
+   "note": "She fashions him while bathing and appoints him guardian of her door.",
+   "source": "Śiva Purāṇa, Rudrasaṃhitā",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Other traditions make him the naturally or miraculously born son of the couple.",
+   "source": "Purāṇic Gaṇeśa variants",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gaṇeśa",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Pārvatī demands restoration of beheaded Gaṇeśa",
+   "note": "Her threat of cosmic destruction compels Śiva to restore her son.",
+   "source": "Śiva Purāṇa, Rudrasaṃhitā",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aśokasundarī",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Pārvatī produces Aśokasundarī from a wish-fulfilling tree",
+   "note": "A less widely attested tradition makes Aśokasundarī her created daughter.",
+   "source": "Padma Purāṇa tradition",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Andhaka",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Andhaka is entrusted to the divine couple",
+   "note": "Some accounts make Pārvatī an adoptive guardian; others leave Andhaka unrelated.",
+   "source": "Purāṇic Andhaka variants",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [
+    "Madana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Kāma tries awakening Śiva’s desire for Pārvatī",
+   "note": "Kāma intervenes on her behalf, but Śiva burns him with his third eye.",
+   "source": "Kumārasambhava 3",
+   "date": "fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Rati",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Pārvatī helps occasion Kāma’s restoration",
+   "note": "Some later narratives associate her with restoring Rati’s burned husband as Ananga.",
+   "source": "Later Kāma restoration narratives",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Brahmā officiates at Pārvatī’s wedding",
+   "note": "He performs or attends her marriage and supports the plan for Śiva’s son.",
+   "source": "Purāṇas and Kalyāṇasundara iconography",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Viṣṇu participates in Pārvatī’s divine wedding",
+   "note": "He attends the marriage and joins the gods’ plan for Śiva’s son.",
+   "source": "Purāṇic wedding traditions",
+   "date": "first millennium CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "Viṣṇu gives Pārvatī away as her ritual brother",
+   "note": "Some regional wedding rites appoint Viṣṇu her brother without asserting universal genealogy.",
+   "source": "Regional wedding rituals",
+   "date": "medieval period onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Nārada",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "Nārada advises Pārvatī to undertake tapas",
+   "note": "Purāṇic versions make him announce her destiny or counsel her austerities.",
+   "source": "Purāṇic marriage narratives",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nārada",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Nārada provokes divine family contests",
+   "note": "He instigates disputes and competitions within Pārvatī’s household in later narratives.",
+   "source": "Later Purāṇic family narratives",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nandin",
+   "other_aliases": [
+    "Nandī"
+   ],
+   "kind": "shared_myth",
+   "myth": "Nandin joins the divine wedding and household",
+   "note": "Śiva’s attendant participates in Pārvatī’s wedding and family episodes.",
+   "source": "Purāṇic wedding traditions",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nandin",
+   "other_aliases": [
+    "Nandī"
+   ],
+   "kind": "contest",
+   "myth": "Pārvatī seeks a guard independent of Śiva’s attendants",
+   "note": "His loyalty to Śiva helps motivate her creation of Gaṇeśa.",
+   "source": "Śiva Purāṇa, Rudrasaṃhitā",
+   "date": "medieval period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tāraka",
+   "other_aliases": [
+    "Tārakāsura"
+   ],
+   "kind": "other",
+   "myth": "Pārvatī’s marriage enables Tāraka’s future defeat",
+   "note": "She does not usually fight him; her son Skanda is born to kill him.",
+   "source": "Kumārasambhava and Purāṇas",
+   "date": "fourth century CE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kauśikī",
+   "other_aliases": [
+    "Ambikā"
+   ],
+   "kind": "created",
+   "myth": "Kauśikī emerges from Pārvatī’s bodily sheath",
+   "note": "A radiant warrior goddess issues from Pārvatī while retaining a distinct identity.",
+   "source": "Devīmāhātmya 5.83–88",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kālikā",
+   "other_aliases": [
+    "Kālī"
+   ],
+   "kind": "transformed",
+   "myth": "Pārvatī becomes dark Kālikā after Kauśikī emerges",
+   "note": "The departing sheath leaves Pārvatī dark and called Kālikā.",
+   "source": "Devīmāhātmya 5.88",
+   "date": "fifth–sixth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [
+    "Kālikā"
+   ],
+   "kind": "created",
+   "myth": "Kālī emanates from the Goddess’s anger",
+   "note": "Other texts reverse the ontology and make Kālī an emanation of Pārvatī.",
+   "source": "Later Śākta variants",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [
+    "Kālikā"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Śākta systems increasingly treat Kālī and Pārvatī as manifestations of one Devī.",
+   "source": "Śākta theological systematization",
+   "date": "medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Śaiva and Śākta taxonomies incorporate the warrior goddess as a form of Pārvatī.",
+   "source": "Purāṇic and Śākta traditions",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Caṇḍikā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Goddess theology links Caṇḍikā with Pārvatī while early narratives retain distinctions.",
+   "source": "Devīmāhātmya and later theology",
+   "date": "fifth century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Ambikā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A formerly distinct Rudra-associated goddess becomes a standard name for Śiva’s wife.",
+   "source": "Vājasaneyi Saṃhitā and later tradition",
+   "date": "later Vedic period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Gaurī",
+   "other_aliases": [
+    "Gaurā",
+    "Gaura",
+    "Gaurjā",
+    "Gaurja",
+    "Gangaur"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Distinct fair, agricultural and regional goddess traditions become identified with Pārvatī.",
+   "source": "Epic, Purāṇic and regional traditions",
+   "date": "first millennium CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Annapūrṇā",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Vārāṇasī food-bestowing goddess is identified as a form of Pārvatī.",
+   "source": "Medieval Annapūrṇā traditions",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lalitā",
+   "other_aliases": [
+    "Tripurasundarī"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Śrīvidyā systems equate the autonomous tantric supreme Goddess with Pārvatī.",
+   "source": "Śrīvidyā theological systems",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kāmākṣī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The major Kāñcīpuram goddess is theologically classified as Pārvatī.",
+   "source": "Kāñcīpuram Śrīvidyā tradition",
+   "date": "medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mīnākṣī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Madurai’s autonomous sovereign goddess is later identified with Pārvatī.",
+   "source": "Madurai temple tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sundareśvara",
+   "other_aliases": [
+    "Śiva"
+   ],
+   "kind": "consort_of",
+   "myth": "Mīnākṣī marries Sundareśvara at Madurai",
+   "note": "Through identification with Mīnākṣī, Pārvatī marries Śiva’s local Madurai form.",
+   "source": "Madurai temple tradition",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Pampa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hampi’s local goddess is incorporated into Śaivism as Pārvatī.",
+   "source": "Hampi regional tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Virūpākṣa",
+   "other_aliases": [
+    "Śiva"
+   ],
+   "kind": "consort_of",
+   "myth": "Pampa marries Virūpākṣa at Hampi",
+   "note": "Through identification with Pampa, Pārvatī becomes consort of Śiva’s local form.",
+   "source": "Hampi regional tradition",
+   "date": "medieval period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Viśālākṣī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Vārāṇasī goddess is incorporated into regional Pārvatī and Śakti theology.",
+   "source": "Vārāṇasī regional tradition",
+   "date": "medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Akhilāṇḍeśvarī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The regional goddess is identified with Pārvatī as consort of a local Śiva.",
+   "source": "Regional Śaiva tradition",
+   "date": "medieval period onward",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Bhṛṅgi",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Bhṛṅgi refuses to worship Pārvatī",
+   "note": "She merges with Śiva, but Bhṛṅgi persists by becoming skeletal or three-legged.",
+   "source": "Medieval Ardhanārīśvara legend",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rāvaṇa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Rāvaṇa shakes Kailāsa and frightens Pārvatī",
+   "note": "She recoils or embraces Śiva while he pins Rāvaṇa beneath the mountain.",
+   "source": "Epic-Purāṇic Rāvaṇānugraha tradition",
+   "date": "first millennium CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Kṛṣṇa",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Umā supports boons granted to Kṛṣṇa",
+   "note": "Kṛṣṇa beholds the divine couple, and Umā independently grants or supports blessings.",
+   "source": "Mahābhārata Anuśāsanaparvan",
+   "date": "early centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Pṛthivī",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "punished",
+   "myth": "Umā curses Earth after the gods interrupt her union",
+   "note": "She curses Earth to have many husbands after interruption of her union.",
+   "source": "Rāmāyaṇa Bālakāṇḍa 36",
+   "date": "approximately 400 BCE–400 CE",
+   "tier": "attested"
+  }
+ ]
+}

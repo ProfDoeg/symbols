@@ -1,0 +1,633 @@
+{
+ "subject": "bacchus_liber",
+ "relations": [
+  {
+   "other": "Dionysus",
+   "other_aliases": [
+    "Bakkhos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Liber was progressively identified with Greek Dionysus and inherited his mythology.",
+   "source": "Roman literary and cult tradition",
+   "date": "Republican and imperial periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Iacchus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman poets and commentators assimilated the Eleusinian Iacchus to Bacchus or Liber.",
+   "source": "Roman poetry and commentary",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Fufluns",
+   "other_aliases": [
+    "Fufluns Paχie"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Etruscan wine god received localized Dionysiac myths and was equated with Liber-Dionysus.",
+   "source": "Etruscan ceramics and mirrors",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Cicero describes ancestral Liber and Libera as children of Ceres.",
+   "source": "Cicero, De natura deorum 2.62",
+   "date": "45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Civilization through grain and wine",
+   "note": "Ceres and Liber jointly civilize agriculture through grain and wine.",
+   "source": "Virgil, Georgics 1.5–9",
+   "date": "29 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ceres",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Aventine temple triad",
+   "note": "Liber shares the Aventine temple and civic cult with Ceres and Libera.",
+   "source": "Dionysius 6.17, 6.94",
+   "date": "early first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Libera",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Cicero presents Liber and Libera together as children of Ceres.",
+   "source": "Cicero, De natura deorum 2.62",
+   "date": "45 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Libera",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Libera is Liber's complementary female cult partner in Roman generative religion.",
+   "source": "Roman calendars and inscriptions",
+   "date": "Republican and imperial periods",
+   "tier": "attested"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "child_of",
+   "myth": "Birth from Jupiter's thigh",
+   "note": "Jupiter fathers Bacchus on Semele and completes his gestation after her death.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "rescued_by",
+   "myth": "Rescue of unborn Bacchus",
+   "note": "Jupiter rescues the fetus from Semele and sews him into his thigh.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Jupiter Liber",
+   "other_aliases": [
+    "Iuppiter Liber",
+    "Jovis Liber"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Inscriptions partially fuse Jupiter and Liber, though the precise theology remains disputed.",
+   "source": "Furfo and Capua inscriptions",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [
+    "Thyone",
+    "Semla"
+   ],
+   "kind": "child_of",
+   "myth": "The twice-born god",
+   "note": "Semele bears Bacchus by Jupiter before dying in his divine fire.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Semele",
+   "other_aliases": [
+    "Thyone",
+    "Semla"
+   ],
+   "kind": "rescued",
+   "myth": "Retrieval and deification of Semele",
+   "note": "Bacchus retrieves his mother and establishes her among the gods as Thyone.",
+   "source": "Apollodorus; Nonnus",
+   "date": "ancient to fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone",
+    "Kore"
+   ],
+   "kind": "child_of",
+   "myth": "Birth of Dionysus Zagreus",
+   "note": "In Orphic genealogy, Zeus fathers the child Dionysus upon Persephone.",
+   "source": "Orphic testimonia",
+   "date": "mostly late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone",
+    "Kore"
+   ],
+   "kind": "shared_myth",
+   "myth": "Liber-Libera cult mapping",
+   "note": "Later interpretation maps Liber and Libera onto Dionysus and Persephone.",
+   "source": "Roman cult interpretation",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "deceived_by",
+   "myth": "Semele's fatal request",
+   "note": "Disguised as a confidante, Juno manipulates Semele into demanding Jupiter's divine appearance.",
+   "source": "Ovid, Metamorphoses 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "punished_by",
+   "myth": "Persecution of infant Bacchus",
+   "note": "Juno persecutes the unborn or infant Bacchus and, in variants, maddens him or his nurses.",
+   "source": "Ovid; Hyginus; Nonnus",
+   "date": "Roman to fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "rescued_by",
+   "myth": "Concealment of infant Bacchus",
+   "note": "Mercury carries the infant Bacchus to Ino, Athamas, or the Nysian nymphs.",
+   "source": "Ovid; Hyginus; Nonnus",
+   "date": "Roman to fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ino",
+   "other_aliases": [
+    "Leucothea"
+   ],
+   "kind": "served_by",
+   "myth": "Nursing the infant Bacchus",
+   "note": "Ino nurses and shelters the infant Bacchus before Juno's persecution.",
+   "source": "Ovid and Hyginus",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Marriage on Naxos",
+   "note": "Bacchus discovers the abandoned Ariadne, loves her, and makes her his bride.",
+   "source": "Catullus 64; Ovid",
+   "date": "first century BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Ariadne abandoned on Naxos",
+   "note": "Bacchus rescues Ariadne after Theseus abandons her on Naxos.",
+   "source": "Catullus 64; Ovid",
+   "date": "first century BCE–c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ariadne",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Ariadne's apotheosis",
+   "note": "Bacchus makes Ariadne immortal and places her crown among the stars.",
+   "source": "Ovid, Metamorphoses 8; Fasti 3",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Venus",
+   "other_aliases": [
+    "Aphrodite"
+   ],
+   "kind": "consort_of",
+   "myth": "Conception of Priapus",
+   "note": "Some genealogies make Venus Bacchus's lover and the mother of Priapus.",
+   "source": "Diodorus and Hyginus traditions",
+   "date": "ancient mythographic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Priapus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Priapus is variously named Bacchus's son by Aphrodite, Chione, or another mother.",
+   "source": "Diodorus and Hyginus traditions",
+   "date": "ancient mythographic tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "the Charites",
+   "other_aliases": [
+    "the Graces"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late genealogical traditions occasionally assign the Charites Dionysiac parentage.",
+   "source": "Late mythographic traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hymenaeus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Late genealogical traditions occasionally make Hymenaeus a child of Dionysus.",
+   "source": "Late mythographic traditions",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ampelus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Love of Ampelus",
+   "note": "Nonnus presents the youth Ampelus as Bacchus's beloved.",
+   "source": "Nonnus, Dionysiaca 10–12",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ampelus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Ampelus becomes the vine",
+   "note": "After Ampelus dies, he is transformed into the vine associated with Bacchus.",
+   "source": "Nonnus, Dionysiaca 12",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aura",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Dionysus and Aura",
+   "note": "Aura belongs to a late Dionysiac erotic cycle centered on Dionysus.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Nicaea",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Dionysus and Nicaea",
+   "note": "Nicaea appears among Dionysus's loves in late Greek epic.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Titans",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Dismemberment of Dionysus Zagreus",
+   "note": "The Titans lure, kill, dismember, cook, and consume the child Dionysus.",
+   "source": "Orphic fragments and testimonia",
+   "date": "mostly late testimonia",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena",
+    "Menerva"
+   ],
+   "kind": "rescued_by",
+   "myth": "Preservation of Zagreus's heart",
+   "note": "Athena preserves the heart of the child Dionysus after the Titans dismember him.",
+   "source": "Orphic testimonia",
+   "date": "mostly late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena",
+    "Menerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Praenestine mirror scene",
+   "note": "A Praenestine mirror shows Hiaco with Menerva, but its narrative is unknown.",
+   "source": "Praenestine mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [
+    "Tyche"
+   ],
+   "kind": "shared_myth",
+   "myth": "Praenestine mirror scene",
+   "note": "Fortuna appears beside Hiaco and Menerva without a securely reconstructable interaction.",
+   "source": "Praenestine mirror",
+   "date": "fourth–third centuries BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Fortuna",
+   "other_aliases": [
+    "Tyche"
+   ],
+   "kind": "shared_myth",
+   "myth": "Imperial cosmic procession",
+   "note": "Tyche or Fortuna accompanies or frames Bacchus in imperial cosmic iconography.",
+   "source": "Imperial monuments",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Seasonal rule at Delphi",
+   "note": "Apollo and Dionysus share Delphi seasonally in later Greek religious tradition.",
+   "source": "Plutarchian Delphic tradition",
+   "date": "Roman imperial period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius declares Apollo and Liber manifestations of one solar divine power.",
+   "source": "Macrobius, Saturnalia 1.18",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares",
+    "Bacchus Enyalius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Macrobius equates Liber with Mars through the shared heat and fury of wine and war.",
+   "source": "Macrobius, Saturnalia 1.19",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sol",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late theology identifies Liber as the nocturnal sun below the horizon.",
+   "source": "Macrobius, Saturnalia 1.18",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Late writers equate Liber with Osiris through agriculture, dismemberment, and mystery symbolism.",
+   "source": "Servius on Georgics 1.166",
+   "date": "late fourth–fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Sabazius",
+   "other_aliases": [
+    "Sebadius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Thracian-Phrygian Sabazius was assimilated to Dionysus and Roman Liber.",
+   "source": "Macrobius, Saturnalia 1.18",
+   "date": "early fifth century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shadrapha",
+   "other_aliases": [
+    "Šdrpʾ"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "A Punic-Latin bilingual dedication at Lepcis Magna directly equates Shadrapha with Liber.",
+   "source": "Lepcis Magna bilingual dedication",
+   "date": "Roman imperial period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Melqart"
+   ],
+   "kind": "allied",
+   "myth": "Patron gods of Lepcis Magna",
+   "note": "Hercules-Melqart and Liber-Shadrapha functioned together as Lepcis's ancestral and imperial patrons.",
+   "source": "Imperial inscriptions and architecture",
+   "date": "193–211 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Agdistis",
+   "other_aliases": [
+    "Cybele"
+   ],
+   "kind": "punished",
+   "myth": "Castration of Agdistis",
+   "note": "Liber intoxicates and castrates Agdistis within a late version of the Attis cycle.",
+   "source": "Arnobius, Adversus nationes 5",
+   "date": "c. 300 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pan",
+   "other_aliases": [
+    "the Pans"
+   ],
+   "kind": "allied",
+   "myth": "Indian war",
+   "note": "Pan and the Pans serve as members and allies of Dionysus's invading host.",
+   "source": "Nonnus, Dionysiaca 13 onward",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [],
+   "kind": "taught_by",
+   "myth": "",
+   "note": "Silenus is Bacchus's tutor as well as his enduring companion.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Silenus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Midas returns Silenus",
+   "note": "Silenus accompanies Bacchus; his recovery from Midas prompts Bacchus to offer a gift.",
+   "source": "Ovid, Metamorphoses 11",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "the Muses",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Bacchic song and theatre",
+   "note": "Poetic and late learned texts associate Liber and the Muses through inspired song and theatre.",
+   "source": "Macrobius and poetic texts",
+   "date": "Roman to late antique",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Diana",
+   "other_aliases": [
+    "Artemis"
+   ],
+   "kind": "shared_myth",
+   "myth": "The Aura cycle",
+   "note": "Artemis participates in the late Dionysiac erotic narrative involving Aura.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [
+    "Athena"
+   ],
+   "kind": "allied",
+   "myth": "Indian war",
+   "note": "Athena fights in the extended divine campaign surrounding Dionysus's Indian conquest.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Indian war",
+   "note": "Apollo fights in the extended divine campaign surrounding Dionysus's Indian conquest.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mercury",
+   "other_aliases": [
+    "Hermes"
+   ],
+   "kind": "allied",
+   "myth": "Indian war",
+   "note": "Hermes fights in the extended divine campaign surrounding Dionysus's Indian conquest.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "shared_myth",
+   "myth": "Indian war",
+   "note": "Ares fights beside or against Dionysus during Nonnus's extended Indian campaign.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dionysiac genealogies and battles",
+   "note": "Poseidon appears in Nonnus's extended Dionysiac genealogical and combat narratives.",
+   "source": "Nonnus, Dionysiaca",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "the Seasons",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Triumph of Dionysos and Seasons",
+   "note": "The Seasons frame Dionysus's cosmic triumph in imperial funerary iconography.",
+   "source": "Metropolitan Museum sarcophagus",
+   "date": "c. 260–270 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturnus",
+   "other_aliases": [
+    "Saturn"
+   ],
+   "kind": "shared_myth",
+   "myth": "African cult and seed theology",
+   "note": "Saturnus is paired with Liber in African dedications and contrasted in late seed theology.",
+   "source": "African dedications; Augustine",
+   "date": "imperial to fifth century CE",
+   "tier": "regional_variant"
+  }
+ ]
+}

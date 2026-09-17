@@ -1,0 +1,379 @@
+{
+ "subject": "erinyes",
+ "relations": [
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "Birth from Uranus’ blood",
+   "note": "They arise from his blood after Cronus castrates him.",
+   "source": "Hesiod, Theogony 176–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "Birth from Uranus’ blood",
+   "note": "Gaia receives Uranus’ blood and bears the Erinyes.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Night",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Erinyes call Night their mother; no father is named.",
+   "source": "Aeschylus, Eumenides 321–323",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [
+    "Zeus Chthonios"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orphic theology makes the infernal king a parent of the Erinyes.",
+   "source": "Orphic Hymns",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Orphic theology makes Persephone a parent of the Erinyes.",
+   "source": "Orphic Hymns",
+   "date": "second–third century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Acheron",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Late mythographers give Acheron and Night as their parents.",
+   "source": "Roman and late-antique mythography",
+   "date": "late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pluto",
+   "other_aliases": [
+    "Hades"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Virgil calls Allecto a daughter of Pluto.",
+   "source": "Virgil, Aeneid VII",
+   "date": "20s BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Castration of Uranus",
+   "note": "His attack on Uranus indirectly causes their generation from spilled blood.",
+   "source": "Hesiod, Theogony 176–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Giants",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gaia bears both collectives from Uranus’ blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meliai",
+   "other_aliases": [
+    "ash-tree nymphs"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Gaia bears the Erinyes and Meliai from Uranus’ blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Horkos",
+   "other_aliases": [
+    "Oath"
+   ],
+   "kind": "shared_myth",
+   "myth": "Birth of Horkos",
+   "note": "The Erinyes attend Horkos’ birth on the fifth day.",
+   "source": "Hesiod, Works and Days 802–804",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Horkos",
+   "note": "Eris bears Horkos while the Erinyes attend his birth.",
+   "source": "Hesiod, Works and Days 802–804",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Althaea’s curse against Meleager",
+   "note": "Althaea invokes Hades while an Erinys hears her curse.",
+   "source": "Homer, Iliad IX",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [
+    "Proserpina"
+   ],
+   "kind": "allied",
+   "myth": "Parental curses against Phoenix and Meleager",
+   "note": "She helps fulfill Amyntor’s curse and is invoked when an Erinys hears Althaea.",
+   "source": "Homer, Iliad IX",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Xanthus prophesies Achilles’ death",
+   "note": "After Hera grants Xanthus speech, the Erinyes silence his prophecy.",
+   "source": "Homer, Iliad XIX.404–418",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Xanthus",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Xanthus prophesies Achilles’ death",
+   "note": "The Erinyes stop the divinely speaking horse when his prophecy exceeds permitted bounds.",
+   "source": "Homer, Iliad XIX.404–418",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Iris warns Poseidon",
+   "note": "Iris cites the Erinyes’ support of elders while warning Poseidon.",
+   "source": "Homer, Iliad XV.204–217",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Agamemnon’s oath",
+   "note": "Zeus and the Erinyes are jointly invoked as guarantors punishing perjury.",
+   "source": "Homer, Iliad XIX.258–260",
+   "date": "late eighth–seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Trial of Orestes",
+   "note": "Apollo invokes Zeus’ authority against the Erinyes’ prosecution of Orestes.",
+   "source": "Aeschylus, Eumenides 614–621",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Orestes’ pursuit and trial",
+   "note": "Apollo shelters Orestes, expels and debates the Erinyes, then defends him.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Orestes escapes Delphi",
+   "note": "Hermes escorts Orestes on Apollo’s orders, indirectly opposing his Erinys pursuers.",
+   "source": "Aeschylus, Eumenides 90–93",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Trial of Orestes",
+   "note": "Athena establishes the court, hears their prosecution, and casts the acquitting vote.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Settlement after Orestes’ trial",
+   "note": "Athena persuades them to accept Athenian honors and protect the city.",
+   "source": "Aeschylus, Eumenides",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "The Moirai",
+   "other_aliases": [
+    "the Fates"
+   ],
+   "kind": "allied",
+   "myth": "Erinyes claim their allotted office",
+   "note": "The Erinyes invoke the Fates and claim linked ancient chthonic authority.",
+   "source": "Aeschylus, Eumenides 334–349, 961–967",
+   "date": "458 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Orestes at Delphi",
+   "note": "Artemis appears with Apollo, Orestes, and an Erinys in vase-paintings.",
+   "source": "Fifth- and fourth-century BCE iconography",
+   "date": "fifth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Retrieval of Artemis’ Taurian image",
+   "note": "Her image becomes central to ending continued Erinys persecution of Orestes.",
+   "source": "Euripides, Iphigenia among the Taurians",
+   "date": "c. 414–412 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "The Dioscuri",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prediction of Orestes’ pursuit",
+   "note": "They prophesy the Erinyes’ pursuit of Orestes and his Athenian trial.",
+   "source": "Euripides, Electra",
+   "date": "late fifth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Demeter",
+   "other_aliases": [
+    "Demeter Erinys"
+   ],
+   "kind": "identified_with",
+   "myth": "Demeter’s anger after Poseidon’s pursuit",
+   "note": "Erinys is Demeter’s local Arcadian title during her anger.",
+   "source": "Pausanias, Description of Greece 8.25",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Poseidon pursues Demeter Erinys",
+   "note": "Poseidon pursues Demeter under the local title Erinys in horse form.",
+   "source": "Pausanias, Description of Greece 8.25",
+   "date": "second century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "served",
+   "myth": "Allecto instigates war in Latium",
+   "note": "Juno summons Allecto to destroy peace, then orders her away.",
+   "source": "Virgil, Aeneid VII",
+   "date": "20s BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "served",
+   "myth": "Final terror of Turnus",
+   "note": "A Dira executes Jupiter’s will by terrifying Turnus and completing fate.",
+   "source": "Virgil, Aeneid XII",
+   "date": "20s BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Proserpina",
+   "other_aliases": [
+    "Persephone"
+   ],
+   "kind": "served",
+   "myth": "",
+   "note": "Roman and medieval authors portray the Furies as ministers of the infernal queen.",
+   "source": "Roman imperial poetry; Dante, Inferno IX",
+   "date": "imperial era–c. 1321",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Syncretistic magical invocations",
+   "note": "Magical texts fuse or exchange Hecate’s epithets with Erinys terminology.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Syncretistic magical invocations",
+   "note": "Magical texts fuse lunar Selene with Erinys terminology and underworld powers.",
+   "source": "Greek Magical Papyri",
+   "date": "second–fifth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dike",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Learned traditions conceptually join Dike and the Erinyes as agents of justice.",
+   "source": "Philosophical, Orphic, and magical material",
+   "date": "classical–late antique",
+   "tier": "late_accretion"
+  }
+ ]
+}

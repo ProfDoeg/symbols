@@ -1,0 +1,482 @@
+{
+ "subject": "mahavidyas",
+ "relations": [
+  {
+   "other": "Satī",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Satī manifests ten forms around Śiva",
+   "note": "Satī projects the Mahāvidyās as her forms or companions.",
+   "source": "Mahābhāgavata Purāṇa 8; Bṛhaddharma Purāṇa",
+   "date": "fourteenth–eighteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Satī surrounds Śiva with ten forms",
+   "note": "The Mahāvidyās block Śiva’s escape until he yields to Satī.",
+   "source": "Mahābhāgavata Purāṇa 8; Bṛhaddharma Purāṇa",
+   "date": "fourteenth–eighteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dakṣa",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Dakṣa excludes Satī and Śiva from sacrifice",
+   "note": "Dakṣa’s exclusion precipitates Satī’s manifestation of the Mahāvidyās.",
+   "source": "Mahābhāgavata Purāṇa; Bṛhaddharma Purāṇa",
+   "date": "fourteenth–eighteenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Pārvatī blocks ten exits with her forms",
+   "note": "A modern oral account makes the Mahāvidyās forms projected by Pārvatī.",
+   "source": "Oral account reported by Kinsley",
+   "date": "twentieth century",
+   "tier": "modern"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Kālī fills every direction as Śiva leaves",
+   "note": "A modern retelling derives the other Mahāvidyās as directional forms of Kālī.",
+   "source": "Contemporary Hindi Tārā book",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Kālī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Tārā merges into Kālī",
+   "note": "After Śiva submits, Tārā merges into Kālī while the other forms disappear.",
+   "source": "Mahābhāgavata Purāṇa 8",
+   "date": "after fourteenth century",
+   "tier": "canonical"
+  },
+  {
+   "other": "Durgā",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Durgā produces forms against demons",
+   "note": "Modern harmonization presents the Mahāvidyās as battle forms produced by Durgā.",
+   "source": "Modern recasting of Devīmāhātmya",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Śatākṣī",
+   "other_aliases": [
+    "Śākambharī"
+   ],
+   "kind": "created_by",
+   "myth": "Śākambharī emits battle powers against Durgama",
+   "note": "The Mahāvidyās issue from Śatākṣī-Śākambharī among numerous goddess powers.",
+   "source": "Devībhāgavata Purāṇa 7",
+   "date": "eleventh–fifteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Durgama",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Goddess powers battle Durgama",
+   "note": "The emitted Mahāvidyās join Śākambharī’s forces against Durgama.",
+   "source": "Devībhāgavata Purāṇa 7",
+   "date": "eleventh–fifteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Brahmā creates through Mahāvidyā power",
+   "note": "Brahmā uses the Mahāvidyās’ powers like an arm to create.",
+   "source": "Bṛhaddharma Purāṇa",
+   "date": "sixteenth–eighteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Viṣṇu preserves through Mahāvidyā power",
+   "note": "Viṣṇu uses the Mahāvidyās’ powers like an arm to preserve.",
+   "source": "Bṛhaddharma Purāṇa",
+   "date": "sixteenth–eighteenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "other": "Brahmā",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kālī-Kāmākhyā enthroned above Brahmā’s lotus",
+   "note": "At Kāmarūpa, Kālī-Kāmākhyā’s lotus throne is identified as Brahmā.",
+   "source": "Mahābhāgavata Purāṇa 77",
+   "date": "after fourteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kālī-Kāmākhyā enthroned above Viṣṇu’s lion",
+   "note": "At Kāmarūpa, Kālī-Kāmākhyā’s lion throne is identified as Viṣṇu.",
+   "source": "Mahābhāgavata Purāṇa 77",
+   "date": "after fourteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Kālī-Kāmākhyā enthroned upon corpse-Śiva",
+   "note": "At Kāmarūpa, Kālī-Kāmākhyā sits upon a corpse identified as Śiva.",
+   "source": "Mahābhāgavata Purāṇa 77",
+   "date": "after fourteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Mahākāla"
+   ],
+   "kind": "consort_of",
+   "myth": "Kālī stands upon or unites with Śiva",
+   "note": "Kālī stands on, sexually unites with, or is paired with Śiva-Mahākāla.",
+   "source": "Tantric dhyānas",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Tārā nurses poison-afflicted Śiva",
+   "note": "At Tārāpīṭh, Tārā nurses Śiva after poison afflicts him.",
+   "source": "Tārāpīṭh temple tradition",
+   "date": "modern documentation",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Akṣobhya",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Akṣobhya drinks kālakūṭa poison undisturbed",
+   "note": "The text assigns Akṣobhya as Tārā’s male partner.",
+   "source": "Toḍalatantra 1.4–6",
+   "date": "date uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [
+    "Buddha",
+    "Janārdana"
+   ],
+   "kind": "shared_myth",
+   "myth": "Buddha-Viṣṇu teaches Tārā worship at Mahācīna",
+   "note": "A Buddha-form of Viṣṇu teaches the transgressive rites of Tārā.",
+   "source": "Rudrayāmala-associated Tārā cycle",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vasiṣṭha",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Vasiṣṭha seeks Tārā rites at Mahācīna",
+   "note": "Vasiṣṭha curses Tārā, then travels to learn her left-hand worship.",
+   "source": "Rudrayāmala-associated Tārā cycle",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Kāmeśvara"
+   ],
+   "kind": "consort_of",
+   "myth": "Tripurasundarī paired with five-faced Śiva",
+   "note": "Tripurasundarī is paired with Śiva in his Kāmeśvara form.",
+   "source": "Toḍalatantra 1.7–8; Śrīvidyā liturgies",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "the five Brahmans",
+   "other_aliases": [
+    "Brahmā",
+    "Viṣṇu",
+    "Rudra",
+    "Īśvara",
+    "Sadāśiva"
+   ],
+   "kind": "served_by",
+   "myth": "Tripurasundarī sits above five Brahmans",
+   "note": "The five Brahmans form the supports and surface of Tripurasundarī’s couch.",
+   "source": "Śrīvidyā imagery and liturgies",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [
+    "Tryambaka"
+   ],
+   "kind": "consort_of",
+   "myth": "Bhuvaneśvarī paired with three-eyed Tryambaka",
+   "note": "The text assigns three-eyed Śiva-Tryambaka as Bhuvaneśvarī’s partner.",
+   "source": "Toḍalatantra 1.9–10",
+   "date": "date uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Dakṣiṇāmūrti",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Bhairavī paired with five-faced Dakṣiṇāmūrti",
+   "note": "The text assigns five-faced Dakṣiṇāmūrti as Bhairavī’s partner.",
+   "source": "Toḍalatantra 1.11",
+   "date": "date uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Bhairava",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tantric sources treat Bhairava as Bhairavī’s male counterpart.",
+   "source": "Tantric texts",
+   "date": "medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Kāma",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Chinnamastā stands upon copulating Kāma and Rati",
+   "note": "Chinnamastā stands or dances upon Kāma during reversed intercourse with Rati.",
+   "source": "Śāktapramoda; Mantramahodadhi dhyānas",
+   "date": "1589–nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Rati",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Chinnamastā stands upon copulating Kāma and Rati",
+   "note": "Chinnamastā stands or dances upon Rati during reversed intercourse with Kāma.",
+   "source": "Śāktapramoda; Mantramahodadhi dhyānas",
+   "date": "1589–nineteenth century",
+   "tier": "attested"
+  },
+  {
+   "other": "Ḍākinī",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Chinnamastā feeds attendants with her blood",
+   "note": "One lateral blood stream from Chinnamastā’s neck feeds Ḍākinī.",
+   "source": "Prāṇatoṣiṇītantra",
+   "date": "eighteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Varṇinī",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Chinnamastā feeds attendants with her blood",
+   "note": "One lateral blood stream from Chinnamastā’s neck feeds Varṇinī.",
+   "source": "Prāṇatoṣiṇītantra",
+   "date": "eighteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kabandha Śiva",
+   "other_aliases": [
+    "Śiva"
+   ],
+   "kind": "consort_of",
+   "myth": "Headless Kabandha Śiva worshipped beside Chinnamastā",
+   "note": "The text prescribes worship of headless Kabandha Śiva beside Chinnamastā.",
+   "source": "Toḍalatantra 1.12",
+   "date": "date uncertain",
+   "tier": "attested"
+  },
+  {
+   "other": "Chinnamuṇḍā",
+   "other_aliases": [
+    "Vajrayoginī"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Chinnamastā and Buddhist Chinnamuṇḍā share self-decapitation, three blood streams, and two attendants.",
+   "source": "Hindu and Buddhist Tantric traditions",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mekhalā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Buddhist self-decapitation cycle",
+   "note": "Buddhist traditions associate Chinnamuṇḍā’s self-decapitation imagery with the adept Mekhalā.",
+   "source": "Buddhist Chinnamuṇḍā traditions",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kanakhalā",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Buddhist self-decapitation cycle",
+   "note": "Buddhist traditions associate Chinnamuṇḍā’s self-decapitation imagery with the adept Kanakhalā.",
+   "source": "Buddhist Chinnamuṇḍā traditions",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Hungry Pārvatī swallows Śiva",
+   "note": "One version identifies Dhūmāvatī as Pārvatī’s smoky widowed form.",
+   "source": "Late Dhūmāvatī myth",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hungry Pārvatī swallows Śiva",
+   "note": "Dhūmāvatī arises when Pārvatī swallows Śiva and smoke issues from her.",
+   "source": "Late Dhūmāvatī myth",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Śiva declares Dhūmāvatī a widow",
+   "note": "After emerging, Śiva requires the husband-consuming goddess to bear widowhood’s marks.",
+   "source": "Late Dhūmāvatī myth",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Tripurasundarī",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Tripurasundarī emanates Bagalāmukhī from turmeric lake",
+   "note": "Tripurasundarī emits Bagalāmukhī in response to Viṣṇu’s austerities.",
+   "source": "Late Bagalāmukhī origin myth",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Bagalāmukhī stills the cosmic storm",
+   "note": "Viṣṇu performs austerities, prompting Bagalāmukhī’s emanation to halt the storm.",
+   "source": "Late Bagalāmukhī origin myth",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Madana",
+   "other_aliases": [
+    "Madanāsura"
+   ],
+   "kind": "fought",
+   "myth": "Bagalāmukhī seizes Madana’s tongue",
+   "note": "Bagalāmukhī neutralizes the demon’s speech-siddhi by grasping his tongue.",
+   "source": "Regional Bagalāmukhī myth",
+   "date": "late",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Madana",
+   "other_aliases": [
+    "Madanāsura"
+   ],
+   "kind": "killed",
+   "myth": "Madana bargains before his death",
+   "note": "Before Bagalāmukhī kills him, Madana gains depiction or worship beside her.",
+   "source": "Regional Bagalāmukhī myth",
+   "date": "late",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Śiva",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Outcaste disguises generate Mātaṅgī",
+   "note": "In some versions, substances associated with disguised Śiva help generate Mātaṅgī.",
+   "source": "Late Mātaṅgī story",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Pārvatī",
+   "other_aliases": [],
+   "kind": "created_by",
+   "myth": "Outcaste disguises generate Mātaṅgī",
+   "note": "In some versions, leftovers or substances associated with Pārvatī generate Mātaṅgī.",
+   "source": "Late Mātaṅgī story",
+   "date": "late",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Sarasvatī",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Mātaṅgī is identified or paralleled with Sarasvatī as transgressive divine speech.",
+   "source": "Tantric texts and iconography",
+   "date": "medieval",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Viṣṇu",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Kamalā, as Lakṣmī, is Viṣṇu’s consort, though Mahāvidyā images usually omit him.",
+   "source": "Lakṣmī traditions",
+   "date": "ancient–medieval",
+   "tier": "attested"
+  },
+  {
+   "other": "Sadāśiva",
+   "other_aliases": [
+    "Viṣṇu-form of Sadāśiva"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "The text assigns a Viṣṇu-form of Sadāśiva as Kamalā’s partner.",
+   "source": "Toḍalatantra 1.16",
+   "date": "date uncertain",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Viṣṇu’s ten avatāras",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Variable lists align the ten Mahāvidyās pairwise with Viṣṇu’s ten avatāras.",
+   "source": "Toḍala; Muṇḍamālā; Guhyātiguhya traditions",
+   "date": "medieval–early modern",
+   "tier": "syncretism"
+  }
+ ]
+}

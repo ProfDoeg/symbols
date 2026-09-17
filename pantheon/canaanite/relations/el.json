@@ -1,0 +1,559 @@
+{
+ "subject": "el",
+ "relations": [
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Athirat is El’s regular consort and co-head of the divine household.",
+   "source": "KTU 1.4 III–V",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "gift",
+   "myth": "Authorization of Baal’s palace",
+   "note": "El grants Athirat’s petition for permission to build Baal’s palace.",
+   "source": "KTU 1.4 III–V",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "shared_myth",
+   "myth": "Birth of Shahar and Shalim",
+   "note": "Athirat is one disputed identification of a woman who bears El’s sons.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athirat",
+   "other_aliases": [
+    "Asherah"
+   ],
+   "kind": "rescued_by",
+   "myth": "Drunken El",
+   "note": "Athirat helps seek or administer a remedy after El’s drunken collapse.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "the sons of El",
+   "other_aliases": [
+    "the assembly of the gods",
+    "the circle of El",
+    "the family of El"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "El is the corporate father and patriarch of the divine assembly.",
+   "source": "Ugaritic mythological texts",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Baal addresses El as father within divine hierarchy, though Dagan is also his father.",
+   "source": "Baal Cycle",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "gift",
+   "myth": "Baal’s palace",
+   "note": "El initially withholds but later grants authorization for Baal’s palace.",
+   "source": "KTU 1.3–1.4",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "shared_myth",
+   "myth": "Baal’s death and return",
+   "note": "El mourns Baal’s reported death and later dreams that he lives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "allied",
+   "myth": "Baal’s final conflict with Mot",
+   "note": "El ultimately supports Baal’s supremacy and permits a warning concerning Mot.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Baal",
+   "other_aliases": [
+    "Hadad"
+   ],
+   "kind": "other",
+   "myth": "Promise of Aqhat",
+   "note": "Baal intercedes or draws El’s attention to Danel’s lack of a son.",
+   "source": "KTU 1.17",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yamm",
+   "other_aliases": [
+    "Nahar",
+    "Sea",
+    "River"
+   ],
+   "kind": "allied",
+   "myth": "Contest for divine kingship",
+   "note": "El favors Yamm’s kingship and calls him Beloved of El.",
+   "source": "KTU 1.1–1.2",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yamm",
+   "other_aliases": [
+    "Nahar",
+    "Sea",
+    "River"
+   ],
+   "kind": "gift",
+   "myth": "Yamm’s proposed palace",
+   "note": "El authorizes construction of a dwelling for Yamm.",
+   "source": "KTU 1.1",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Kothar-wa-Hasis",
+   "other_aliases": [
+    "Kothar"
+   ],
+   "kind": "served_by",
+   "myth": "Yamm’s proposed palace",
+   "note": "El commissions Kothar-wa-Hasis to construct Yamm’s dwelling.",
+   "source": "KTU 1.1",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Petition for Baal’s palace",
+   "note": "Anat petitions and threatens El while seeking support for Baal.",
+   "source": "KTU 1.3 V",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Murder of Aqhat",
+   "note": "El recognizes Anat’s purpose and answers ambiguously, enabling her attack on Aqhat.",
+   "source": "KTU 1.17 VI",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Anat",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Drunken El",
+   "note": "Anat helps seek or administer a remedy after El’s drunken collapse.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mot",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "contest",
+   "myth": "Baal and Mot’s conflict",
+   "note": "El supports Baal’s supremacy over Mot, though no direct combat survives.",
+   "source": "KTU 1.5–1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athtar",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Selection of Baal’s replacement",
+   "note": "El’s court considers Athtar for Baal’s throne, but he proves inadequate.",
+   "source": "KTU 1.6 I",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shapash",
+   "other_aliases": [
+    "the sun goddess"
+   ],
+   "kind": "shared_myth",
+   "myth": "Resolution of Baal and Mot’s conflict",
+   "note": "Shapash conveys El’s support for Baal while resolving the conflict.",
+   "source": "KTU 1.6",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dagan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "El and Dagan stand near the head of Ugaritic pantheon lists.",
+   "source": "KTU 1.47; 1.118; RS 20.24",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shahar",
+   "other_aliases": [
+    "Dawn"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Shahar and Shalim",
+   "note": "El sexually generates and fathers Shahar, the god Dawn.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Shalim",
+   "other_aliases": [
+    "Dusk"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Shahar and Shalim",
+   "note": "El sexually generates and fathers Shalim, the god Dusk.",
+   "source": "KTU 1.23",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Šaʿtiqatu",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "Healing of Kirta",
+   "note": "El creates the female healing being when the assembled gods cannot cure Kirta.",
+   "source": "KTU 1.16 V–VI",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Yarih",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Drunken El",
+   "note": "Yarih attends El’s feast and behaves like a dog beneath the tables.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thukamuna-and-Shunama",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Drunken El",
+   "note": "Thukamuna-and-Shunama support the intoxicated El and help him home.",
+   "source": "KTU 1.114",
+   "date": "thirteenth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ašertu",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Ašertu is the wife of Elkunirša in the transmitted West Semitic narrative.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ašertu",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Ašertu’s attempted seduction",
+   "note": "Elkunirša orders the Storm-god to humiliate Ašertu after her attempted seduction.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ašertu",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Plot against the Storm-god",
+   "note": "Elkunirša and Ašertu conspire together against the Storm-god.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Storm-god",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ašertu’s attempted seduction",
+   "note": "The Storm-god reports Ašertu’s conduct, and Elkunirša orders him to humiliate her.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Storm-god",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Plot against the Storm-god",
+   "note": "Elkunirša joins Ašertu in plotting against the Storm-god.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "IŠTAR-logogram goddess",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Plot against the Storm-god",
+   "note": "The goddess overhears Elkunirša’s plot and secretly warns its intended target.",
+   "source": "CTH 342",
+   "date": "thirteenth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Elus or Kronos is the son of Ouranos in Philo’s genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ouranos",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Phoenician succession myth",
+   "note": "Elus or Kronos rebels against, ambushes, and castrates Ouranos.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ge",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Ge is the mother of Elus or Kronos in Philo’s genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Astarte is a consort of Elus or Kronos and bears royal children.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Astarte",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Phoenician succession myth",
+   "note": "Astarte participates in Elus or Kronos’s dynasty and receives sovereignty.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Rhea is named as a wife or partner of Elus or Kronos.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Dione",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Dione is named among the partners of Elus or Kronos.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Anobret",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Anobret bears the only-begotten son whom Elus or Kronos later sacrifices.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dagon",
+   "other_aliases": [
+    "Siton"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Dagon or Siton is Elus or Kronos’s brother in Philo’s genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Atlas is Elus or Kronos’s brother in Philo’s genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "punished",
+   "myth": "Phoenician succession myth",
+   "note": "Elus or Kronos casts his brother Atlas into the earth.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Baetylus",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Baetylus belongs to the same sibling generation as Elus or Kronos.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Athena is a daughter of Elus or Kronos in Philo’s account.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Distribution of territories",
+   "note": "Elus or Kronos assigns Athena rule over Attica.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Persephone is a daughter of Elus or Kronos in Philo’s Greek-form genealogy.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Elyon",
+   "other_aliases": [],
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Elyon belongs to a generation preceding Ouranos and thus Elus or Kronos.",
+   "source": "Philo/Eusebius",
+   "date": "first–fourth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kronos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Philo explicitly equates the Phoenician Elus with Greek Kronos.",
+   "source": "Phoenician History 1.9–10",
+   "date": "late first–early second century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Saturn",
+   "other_aliases": [
+    "Saturnus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman reception extends the El–Kronos equation to Saturn.",
+   "source": "Greek and Latin reception",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Yahweh",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Hebrew texts identify Yahweh with El’s titles, attributes, and patriarchal identity.",
+   "source": "Exodus 6:2–3",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Yahweh",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Apportionment of the nations",
+   "note": "One disputed reading makes El or Elyon allot Israel to Yahweh.",
+   "source": "Deuteronomy 32:8–9",
+   "date": "first millennium BCE",
+   "tier": "regional_variant"
+  }
+ ]
+}

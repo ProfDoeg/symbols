@@ -1,0 +1,821 @@
+{
+ "subject": "heracles_god",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Heracles on the mortal Alcmene.",
+   "source": "Iliad 14 and 19",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles’ mortal suffering",
+   "note": "Zeus grieves but cannot save Heracles from suffering and fate.",
+   "source": "Iliad 18.115–121",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Hera’s storm after Troy",
+   "note": "Zeus saves Heracles after Hera drives him toward Cos.",
+   "source": "Iliad 14.249–261; 15.18–30",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Apotheosis from Oeta",
+   "note": "Lightning or divine will removes Heracles from his pyre to Olympus.",
+   "source": "Diodorus 4.38; Apollodorus 2.7.7",
+   "date": "first century BCE–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "Zeus’s birth oath",
+   "note": "Hera exploits Zeus’s oath so Eurystheus gains precedence over Heracles.",
+   "source": "Iliad 19.95–133",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Prenatal persecution",
+   "note": "Hera delays Heracles’ birth and advances Eurystheus’s delivery.",
+   "source": "Iliad 19",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Storm after Troy",
+   "note": "Hera drives Heracles off course toward Cos after Troy.",
+   "source": "Iliad 14–15",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Madness and family killing",
+   "note": "Hera sends Lyssa, causing Heracles to kill his household.",
+   "source": "Euripides, Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Infant snakes",
+   "note": "Heracles strangles the serpents Hera sends against him.",
+   "source": "Pindar, Nemean 1",
+   "date": "470s BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Post-apotheosis reconciliation",
+   "note": "Heracles reconciles with Hera through marriage to her daughter Hebe.",
+   "source": "Theogony 950–955",
+   "date": "c. 700–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "transformed_by",
+   "myth": "Rebirth through Hera’s clothing",
+   "note": "Hera ritually adopts Heracles through a simulated rebirth.",
+   "source": "Diodorus 4.39",
+   "date": "first century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The labors",
+   "note": "Athena repeatedly assists Heracles, especially during the Cerberus labor.",
+   "source": "Iliad 8.362–369; Archaic vase painting",
+   "date": "eighth–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Stymphalian birds",
+   "note": "Athena gives Heracles noise-making clappers to scatter the birds.",
+   "source": "Apollodorus 2.5.6",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hesperidean apples",
+   "note": "Athena returns the apples after Heracles presents them.",
+   "source": "Apollodorus 2.5.11",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Apotheosis escort",
+   "note": "Athena drives or accompanies Heracles to Olympus.",
+   "source": "Sixth-century Attic art",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Heracles marries the goddess of youth after becoming immortal.",
+   "source": "Theogony 950–955; Homeric Hymn 15",
+   "date": "seventh–sixth centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Alexiares",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies name Alexiares as Heracles’ son by Hebe.",
+   "source": "Later genealogical tradition",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anicetus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later genealogies name Anicetus as Heracles’ son by Hebe.",
+   "source": "Later genealogical tradition",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Delphic tripod conflict",
+   "note": "Heracles attempts to seize Apollo’s tripod, and they fight until Zeus intervenes.",
+   "source": "Archaic art; Apollodorus 2.6.2",
+   "date": "sixth century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Purification and servitude",
+   "note": "Apollo’s oracle directs Heracles’ purification and servitude in later accounts.",
+   "source": "Later mythographic accounts",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat over Cycnus",
+   "note": "Heracles confronts and wounds Ares after killing Cycnus.",
+   "source": "Shield of Heracles",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War at Pylos",
+   "note": "Regional traditions place Ares among Heracles’ divine opponents at Pylos.",
+   "source": "Pindar and scholia",
+   "date": "fifth century BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cycnus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Combat with Cycnus",
+   "note": "Heracles kills Ares’ son Cycnus in battle.",
+   "source": "Shield of Heracles",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War at Pylos",
+   "note": "Heracles wounds Hades with an arrow during the Pylian conflict.",
+   "source": "Iliad 5.395–404",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hades",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Capture of Cerberus",
+   "note": "Hades permits Heracles to remove Cerberus if he uses no weapons.",
+   "source": "Apollodorus 2.5.12",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Cerberus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Capture of Cerberus",
+   "note": "Heracles overpowers Cerberus without ordinary weapons and displays him to Eurystheus.",
+   "source": "Apollodorus 2.5.12",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Persephone",
+   "other_aliases": [],
+   "kind": "judged_by",
+   "myth": "Underworld descent",
+   "note": "Persephone receives Heracles and may authorize releases during his descent.",
+   "source": "Apollodorus and later underworld narratives",
+   "date": "first century CE and later",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "rescued_by",
+   "myth": "Underworld descent",
+   "note": "Hermes guides or assists Heracles during his descent to Hades.",
+   "source": "Visual and literary traditions",
+   "date": "Archaic and Classical periods",
+   "tier": "attested"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "War at Pylos",
+   "note": "Some regional accounts place Poseidon among Heracles’ opponents at Pylos.",
+   "source": "Pindar, Olympian 9 and scholia",
+   "date": "fifth century BCE and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Poseidon’s sea monster",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Rescue of Hesione",
+   "note": "Heracles kills the sea monster sent against Troy and rescues Hesione.",
+   "source": "Homeric allusions and later mythography",
+   "date": "Archaic period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Ceryneian hind",
+   "note": "Heracles explains that Eurystheus compelled him to seize Artemis’s sacred hind.",
+   "source": "Apollodorus 2.5.3",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Divine banquet",
+   "note": "Art juxtaposes Heracles and Dionysus as powerful drinkers and banquet companions.",
+   "source": "Greek vase painting",
+   "date": "Classical period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Divine equipment",
+   "note": "Later accounts attribute armor or other divine equipment to Hephaestus.",
+   "source": "Later accounts",
+   "date": "date unspecified",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Obstruction of Alcmene’s delivery",
+   "note": "Acting for Hera, Eileithyia delays Heracles’ birth.",
+   "source": "Ovid and mythographic sources",
+   "date": "Roman period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Lyssa",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Madness and family killing",
+   "note": "Lyssa reluctantly inflicts the madness that destroys Heracles’ household.",
+   "source": "Euripides, Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iris",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Madness and family killing",
+   "note": "Iris orders Lyssa, on Hera’s behalf, to attack Heracles.",
+   "source": "Euripides, Heracles",
+   "date": "c. 416 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Thanatos",
+   "other_aliases": [
+    "Death"
+   ],
+   "kind": "fought",
+   "myth": "Rescue of Alcestis",
+   "note": "Heracles wrestles and defeats Death to restore Alcestis.",
+   "source": "Euripides, Alcestis",
+   "date": "438 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Achelous",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Contest for Deianira",
+   "note": "Heracles wrestles the shape-changing river god and breaks his horn.",
+   "source": "Sophocles, Women of Trachis 9–21",
+   "date": "c. 425–410 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nereus",
+   "other_aliases": [
+    "Old Man of the Sea"
+   ],
+   "kind": "fought",
+   "myth": "Search for the Hesperides",
+   "note": "Heracles restrains shape-changing Nereus to learn the route to the Hesperides.",
+   "source": "Early vase painting; Apollodorus 2.5.11",
+   "date": "Archaic period and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Triton",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Combat with Triton",
+   "note": "Attic vase paintings repeatedly depict Heracles wrestling Triton.",
+   "source": "Sixth-century Attic vase painting",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Journey to Geryon",
+   "note": "Angered by the sun, Heracles aims or shoots his bow at Helios.",
+   "source": "Stesichorus and later Apollodorus",
+   "date": "sixth century BCE and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Journey to Geryon",
+   "note": "Impressed by Heracles, Helios lends him the golden cup.",
+   "source": "Stesichorus and later Apollodorus",
+   "date": "sixth century BCE and later",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Western voyage",
+   "note": "Heracles threatens Oceanus with his bow until the god relents.",
+   "source": "Pherecydes fragments and later accounts",
+   "date": "fifth century BCE and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Apples of the Hesperides",
+   "note": "Heracles temporarily bears the heavens while Atlas retrieves the apples.",
+   "source": "Later mythography",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atlas",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Apples of the Hesperides",
+   "note": "Heracles tricks Atlas into resuming the burden of the heavens.",
+   "source": "Later mythography",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Prometheus",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Liberation of Prometheus",
+   "note": "Heracles kills Zeus’s eagle and frees Prometheus with Zeus’s consent.",
+   "source": "Theogony 526–534",
+   "date": "c. 700–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus’s eagle",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Liberation of Prometheus",
+   "note": "Heracles kills the eagle tormenting Prometheus.",
+   "source": "Theogony 526–534",
+   "date": "c. 700–650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nike",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Heracles victorious",
+   "note": "Nike crowns or attends Heracles in victory imagery.",
+   "source": "Hellenistic and Roman iconography",
+   "date": "Hellenistic–Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Geras",
+   "other_aliases": [
+    "Old Age"
+   ],
+   "kind": "fought",
+   "myth": "Combat with Old Age",
+   "note": "Heracles clubs or wrestles the personification of Old Age.",
+   "source": "Fifth-century vase painting",
+   "date": "fifth century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Arete",
+   "other_aliases": [
+    "Virtue"
+   ],
+   "kind": "taught_by",
+   "myth": "Choice of Heracles",
+   "note": "Arete teaches that labor and self-command lead to genuine honor.",
+   "source": "Xenophon, Memorabilia 2.1.21–34",
+   "date": "late fifth–early fourth century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Kakia",
+   "other_aliases": [
+    "Vice"
+   ],
+   "kind": "taught_by",
+   "myth": "Choice of Heracles",
+   "note": "Kakia offers Heracles an easy life devoted to pleasure.",
+   "source": "Xenophon, Memorabilia 2.1.21–34",
+   "date": "late fifth–early fourth century BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Melqart",
+   "other_aliases": [
+    "Tyrian Heracles",
+    "Heracles Tyrios"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greek and Phoenician communities historically equated or blended Heracles with Melqart.",
+   "source": "Herodotus 2.44",
+   "date": "c. 450 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Heryshaf",
+   "other_aliases": [
+    "Arsaphes"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Greeks at Heracleopolis Magna equated Heracles with the Egyptian ram deity.",
+   "source": "Greco-Egyptian local evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Greco-Egyptian translations identified Heracles with Shu.",
+   "source": "Greco-Egyptian local evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Khonsu",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Greco-Egyptian translations identified Heracles with Khonsu.",
+   "source": "Greco-Egyptian local evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Arensnuphis",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Local Nubian-Egyptian interpretation associated Heracles with Arensnuphis.",
+   "source": "Greco-Egyptian local evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Kakasbos",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Club-bearing Heracles partially converged with the mounted Anatolian god Kakasbos.",
+   "source": "Lycian and Pisidian dedications",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Verethragna",
+   "other_aliases": [
+    "Bahrām"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Iranian and royal contexts equated the victorious club-bearer with Verethragna.",
+   "source": "Hellenistic Iranian and Commagene evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Nergal",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Seleucid Mesopotamian interpretation aligned Heracles with martial underworld god Nergal.",
+   "source": "Seleucid Mesopotamian evidence",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Vajrapāṇi",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Gandharan art adapted Heraclean appearance for the Buddha’s protector Vajrapāṇi.",
+   "source": "Gandharan Buddhist art",
+   "date": "first centuries BCE–CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Idaean Heracles",
+   "other_aliases": [
+    "Heracles Idaios",
+    "Heracles Daktylos"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later Greeks assimilated Heracles to an Idaean Dactyl credited with athletic foundations.",
+   "source": "Olympian foundation traditions",
+   "date": "Classical period and later",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lernaean Hydra",
+   "other_aliases": [
+    "Hydra"
+   ],
+   "kind": "killed",
+   "myth": "Lernaean Hydra labor",
+   "note": "Heracles severs the Hydra’s heads while Iolaus cauterizes their necks.",
+   "source": "Hesiodic poetry and later mythography",
+   "date": "Archaic period and later",
+   "tier": "attested"
+  },
+  {
+   "other": "giant crab",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Lernaean Hydra labor",
+   "note": "Heracles kills the giant crab that assists the Hydra.",
+   "source": "Labor tradition",
+   "date": "Archaic period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nemean lion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Nemean lion labor",
+   "note": "Heracles strangles the invulnerable lion and adopts its hide.",
+   "source": "Archaic art and later literature",
+   "date": "seventh century BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Cithaeronian lion",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Earlier lion hunt",
+   "note": "A rival tradition derives Heracles’ lion skin from a Cithaeronian beast.",
+   "source": "Rival lion-skin traditions",
+   "date": "date unspecified",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ceryneian hind",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Ceryneian hind labor",
+   "note": "Heracles pursues and captures Artemis’s sacred golden-horned deer alive.",
+   "source": "Later labor tradition",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Erymanthian boar",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Erymanthian boar labor",
+   "note": "Heracles subdues and captures the boar alive.",
+   "source": "Labor tradition",
+   "date": "Archaic period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Battle at Pholus’s cave",
+   "note": "Heracles accidentally wounds Chiron with a Hydra-poisoned arrow.",
+   "source": "Centauromachy tradition",
+   "date": "Archaic period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Prometheus’ liberation",
+   "note": "Chiron relinquishes immortality, helping enable Prometheus’ release by Heracles.",
+   "source": "Centauromachy and Prometheus tradition",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Stymphalian birds",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Stymphalian birds labor",
+   "note": "Heracles scatters or shoots the bronze-feathered birds.",
+   "source": "Labor tradition",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cretan bull",
+   "other_aliases": [
+    "Marathonian bull"
+   ],
+   "kind": "fought",
+   "myth": "Cretan bull labor",
+   "note": "Heracles captures the bull alive before it is released.",
+   "source": "Later labor tradition",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hippolyta",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Belt of Hippolyta",
+   "note": "In one influential version, Hera provokes battle and Heracles kills Hippolyta.",
+   "source": "Later labor traditions",
+   "date": "Classical period and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Geryon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Cattle of Geryon",
+   "note": "Heracles kills the three-bodied Geryon and takes his cattle.",
+   "source": "Stesichorus, Geryoneis",
+   "date": "sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Orthrus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Cattle of Geryon",
+   "note": "Heracles kills Geryon’s guardian dog Orthrus.",
+   "source": "Geryon tradition",
+   "date": "Archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "Ladon",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Apples of the Hesperides",
+   "note": "Some versions have Heracles kill the dragon guarding the apples.",
+   "source": "Hesperides tradition",
+   "date": "Archaic period and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Antaeus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Wrestling Antaeus",
+   "note": "Heracles lifts the earth-born wrestler away from Gaia and crushes him.",
+   "source": "Later Antaeus accounts",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "shared_myth",
+   "myth": "Wrestling Antaeus",
+   "note": "Heracles separates Antaeus from Gaia, the source of his renewed strength.",
+   "source": "Later Antaeus accounts",
+   "date": "Classical period and later",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [],
+   "kind": "killed",
+   "myth": "Assault on Deianira",
+   "note": "Heracles shoots Nessus with a Hydra-poisoned arrow after the centaur attacks Deianira.",
+   "source": "Sophocles, Women of Trachis",
+   "date": "c. 425–410 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nessus",
+   "other_aliases": [],
+   "kind": "deceived_by",
+   "myth": "The poisoned garment",
+   "note": "Nessus’s false love-charm instructions ultimately cause Heracles’ mortal agony.",
+   "source": "Sophocles, Women of Trachis",
+   "date": "c. 425–410 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

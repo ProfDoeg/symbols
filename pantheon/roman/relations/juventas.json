@@ -1,0 +1,171 @@
+{
+ "subject": "juventas",
+ "relations": [
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Through identification with Hebe, Juventas acquires Jupiter or Zeus as father.",
+   "source": "Cicero, De Natura Deorum",
+   "date": "45–44 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Zeus"
+   ],
+   "kind": "shared_myth",
+   "myth": "The unyielding Capitoline shrine",
+   "note": "Juventas refuses relocation when Jupiter’s Capitoline temple is constructed.",
+   "source": "Dionysius, Roman Antiquities 3.69",
+   "date": "c. 7 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Terminus",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "The unyielding Capitoline shrine",
+   "note": "Terminus and Juventas both refuse relocation and remain in the Capitoline complex.",
+   "source": "Dionysius, Roman Antiquities 3.69",
+   "date": "c. 7 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Minerva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "",
+   "note": "Juventas’s shrine was located in or associated with Minerva’s Capitoline cella.",
+   "source": "Pliny, Natural History 35.108",
+   "date": "c. 77 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Juno",
+   "other_aliases": [
+    "Hera"
+   ],
+   "kind": "child_of",
+   "myth": "Juventas claims June",
+   "note": "Juventas identifies the Capitoline Juno, corresponding to Hera, as her mother.",
+   "source": "Ovid, Fasti 6.73–76",
+   "date": "c. 8–17 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Hercules",
+   "other_aliases": [
+    "Heracles"
+   ],
+   "kind": "consort_of",
+   "myth": "Juventas claims June",
+   "note": "Juventas names Hercules as her husband and invokes his Roman deeds.",
+   "source": "Ovid, Fasti 6.77–82",
+   "date": "c. 8–17 CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Concordia",
+   "other_aliases": [
+    "Concord"
+   ],
+   "kind": "contest",
+   "myth": "Juventas claims June",
+   "note": "Concordia counters Juventas’s proposed derivation of June with a rival etymology.",
+   "source": "Ovid, Fasti 6.89–96",
+   "date": "c. 8–17 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Through Hebe’s Greek genealogy, Juventas acquires Ares or Mars as a brother.",
+   "source": "Cicero, De Natura Deorum",
+   "date": "45–44 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mars",
+   "other_aliases": [
+    "Ares"
+   ],
+   "kind": "shared_myth",
+   "myth": "The unyielding Capitoline shrine",
+   "note": "Mars, Terminus, and Juventas are grouped as deities who would not yield.",
+   "source": "Augustine, City of God 4.23",
+   "date": "early fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [
+    "Lucina"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Through identification with Hebe, Juventas acquires Eileithyia or Lucina as sister.",
+   "source": "Greek genealogical tradition",
+   "date": "",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Spes",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Augustus assumes the toga virilis",
+   "note": "Spes and Iuventus jointly receive a supplication commemorating Augustus’s coming of age.",
+   "source": "Feriale Cumanum, CIL X 8375",
+   "date": "early first century CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hebe",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Juventas is translated, equated, and narratively merged with the Greek goddess Hebe.",
+   "source": "Cicero; Ovid; Greek translations",
+   "date": "late Republic–early Empire",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Alexiares",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later Greek sources name Alexiares as a son of Heracles and Hebe.",
+   "source": "Later Greek sources",
+   "date": "",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anicetus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later Greek sources name Anicetus as a son of Heracles and Hebe.",
+   "source": "Later Greek sources",
+   "date": "",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Victory",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Imperial imagery associates Iuventa Imperii with an emperor holding Victory’s statuette.",
+   "source": "Caracallan coin types",
+   "date": "early third century CE",
+   "tier": "attested"
+  }
+ ]
+}

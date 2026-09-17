@@ -1,0 +1,325 @@
+{
+ "subject": "nun_and_naunet",
+ "relations": [
+  {
+   "other": "Naunet",
+   "other_aliases": [
+    "Nunet",
+    "Naune",
+    "Nenet"
+   ],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Naunet is Nun’s feminine counterpart in the primordial pair.",
+   "source": "Pyramid Text Utterance 301",
+   "date": "late third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Atum alone with Nun before creation",
+   "note": "Nun accompanies and counsels Atum concerning Shu, Tefnut, and ordered existence.",
+   "source": "Coffin Text Spell 80",
+   "date": "c. 2100–1650 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Atum emerges from the primeval water",
+   "note": "Atum rises or becomes manifest from Nun without an ordinary birth.",
+   "source": "Pyramid and Coffin Texts",
+   "date": "third–second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The return of creation to Nun",
+   "note": "Atum foretells creation’s dissolution into Nun and survives as a serpent.",
+   "source": "Book of the Dead Spell 175",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Atum",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Ptah-Nun fathers Atum and Ptah-Naunet bears him in Memphite theology.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Shu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Establishment of Shu in primordial Nun",
+   "note": "Shu is established in Nun’s primordial setting as creation differentiates.",
+   "source": "Coffin Texts 75–80",
+   "date": "c. 2100–1650 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tefnut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Emergence of Shu and Tefnut",
+   "note": "Tefnut appears as Atum moves from solitude with Nun toward differentiated creation.",
+   "source": "Coffin Texts 75–80",
+   "date": "c. 2100–1650 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Kematef",
+    "Irta"
+   ],
+   "kind": "shared_myth",
+   "myth": "Primordial pairs invoked together",
+   "note": "Amun’s pair is invoked beside Nun’s pair and later joins the Ogdoad.",
+   "source": "Pyramid Text Utterance 301",
+   "date": "late third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Amun",
+   "other_aliases": [
+    "Kematef",
+    "Irta"
+   ],
+   "kind": "created_by",
+   "myth": "Theban creation of the Ogdoad",
+   "note": "Theban theology makes Amun or his primordial forms create or precede the Ogdoad.",
+   "source": "Theban temple texts",
+   "date": "first millennium BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Amunet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Primordial pairs invoked together",
+   "note": "Amunet is invoked beside Naunet and later grouped with her in the Ogdoad.",
+   "source": "Pyramid Text Utterance 301",
+   "date": "late third millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Heh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Hermopolitan Ogdoad",
+   "note": "Heh and Nun are male members of the standardized Ogdoad.",
+   "source": "New Kingdom and later temples",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hauhet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Hermopolitan Ogdoad",
+   "note": "Hauhet and Naunet are female members of the standardized Ogdoad.",
+   "source": "New Kingdom and later temples",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kek",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Hermopolitan Ogdoad",
+   "note": "Kek joins Nun among the male members of the standardized Ogdoad.",
+   "source": "New Kingdom and later temples",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Kauket",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Hermopolitan Ogdoad",
+   "note": "Kauket joins Naunet among the female members of the standardized Ogdoad.",
+   "source": "New Kingdom and later temples",
+   "date": "New Kingdom onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tenem",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variable Middle Kingdom Eight",
+   "note": "Tenem replaces Amun in an eightfold primordial enumeration containing Nun.",
+   "source": "Coffin Text Spell 80",
+   "date": "c. 2100–1650 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Tenemet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variable Middle Kingdom Eight",
+   "note": "Tenemet replaces Amunet in an eightfold primordial enumeration containing Naunet.",
+   "source": "Coffin Text Spell 80",
+   "date": "c. 2100–1650 BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Gereh",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variant primordial roster",
+   "note": "Gereh occurs with Nun in late variant rosters of primordial beings.",
+   "source": "Late temple texts",
+   "date": "Late Period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gerehet",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variant primordial roster",
+   "note": "Gerehet occurs with Naunet in late variant rosters of primordial beings.",
+   "source": "Late temple texts",
+   "date": "Late Period onward",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Niau",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variant Theban Ogdoad",
+   "note": "Niau substitutes into some Theban Ogdoad lists alongside Nun.",
+   "source": "Ptolemaic Theban texts",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Niaut",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Variant Theban Ogdoad",
+   "note": "Niaut substitutes into some Theban Ogdoad lists alongside Naunet.",
+   "source": "Ptolemaic Theban texts",
+   "date": "Ptolemaic period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Ra first rises from Nun",
+   "note": "Ra creates his body and first rises amid Nun’s primordial waters.",
+   "source": "Book of the Dead Spell 17",
+   "date": "c. 1550 BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "created",
+   "myth": "The Ogdoad and the first sunrise",
+   "note": "The Ogdoad collectively engenders or releases the solar child in late traditions.",
+   "source": "Late temple texts",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ra",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The Ogdoad greets the solar child",
+   "note": "The Ogdoad greets and adores the newly appearing child sun.",
+   "source": "Late temple texts",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Khepri",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Nun raises the renewed solar bark",
+   "note": "Nun lifts the bark bearing the renewed solar deity at dawn.",
+   "source": "Book of Gates final division",
+   "date": "New Kingdom",
+   "tier": "canonical"
+  },
+  {
+   "other": "Osiris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The return of creation to Nun",
+   "note": "Osiris and Atum survive as serpents after ordered creation returns to Nun.",
+   "source": "Book of the Dead Spell 175",
+   "date": "New Kingdom onward",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ptah",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Memphite appropriation of primordial parenthood",
+   "note": "Ptah is identified as Ptah-Nun and Ptah-Naunet, absorbing both generative roles.",
+   "source": "Shabaka Stone",
+   "date": "c. 710 BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thoth",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Thoth activates the Hermopolitan Eight",
+   "note": "Late Hermopolitan accounts make Thoth organizer or activator of the Ogdoad.",
+   "source": "Late temple theology",
+   "date": "first millennium BCE onward",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hathor",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The Ogdoad adores Hathor",
+   "note": "Nun and Naunet join the Ogdoad in adoring Hathor at Dendera.",
+   "source": "Dendera Temple reliefs",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ihy",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "The Ogdoad adores the divine child",
+   "note": "The Ogdoad adores Ihy with Hathor in renewed-creation imagery.",
+   "source": "Dendera Temple reliefs",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Khnum",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Khnum reorganizes primordial creation",
+   "note": "Esna theology absorbs and reorganizes the Ogdoad’s primordial creation roles around Khnum.",
+   "source": "Esna temple inscriptions",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Isis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "The Ogdoad in Philae theology",
+   "note": "Philae incorporates Nun, Naunet, and the Ogdoad into Isis-centered cosmogonic ritual.",
+   "source": "Philae inscriptions",
+   "date": "Ptolemaic and Roman periods",
+   "tier": "regional_variant"
+  }
+ ]
+}

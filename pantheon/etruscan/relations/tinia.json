@@ -1,0 +1,402 @@
+{
+ "subject": "tinia",
+ "relations": [
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Later accounts and paired images treat Uni as Tinia’s divine consort.",
+   "source": "Later accounts and Etruscan images",
+   "date": "Later Etruscan period",
+   "tier": "canonical"
+  },
+  {
+   "other": "Menrva",
+   "other_aliases": [
+    "Menerva"
+   ],
+   "kind": "parent_of",
+   "myth": "Birth of Menrva from Tinia’s head",
+   "note": "Menrva emerges armed from Tinia’s head in Etruscan mirror scenes.",
+   "source": "British Museum mirror 1873,0820.103",
+   "date": "350–300 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thanr",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Thanr assists or attends while Menrva emerges from Tinia’s head.",
+   "source": "British Museum mirror 1873,0820.103",
+   "date": "350–300 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ethausva",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Ethausva attends Tinia during Menrva’s birth; her precise role is obscure.",
+   "source": "British Museum mirror 1873,0820.103",
+   "date": "350–300 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thalna",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Thalna assists Tinia during Menrva’s emergence in regional mirror versions.",
+   "source": "Arezzo and related mirrors",
+   "date": "Fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Sethlans",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Sethlans stands with an axe, corresponding to Hephaestus in the Greek version.",
+   "source": "Etruscan engraved mirrors",
+   "date": "Fourth century BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Uni appears beside Tinia during Menrva’s birth in the mirror tradition.",
+   "source": "Etruscan engraved mirrors",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laran",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "Laran attends Menrva’s birth in a fuller mirror composition.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Maris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Birth of Menrva",
+   "note": "One or more Maris figures attend Menrva’s birth in an expanded composition.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Castur",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Castur is identified epigraphically as one of the sons of Tinia.",
+   "source": "Tinas cliniiar inscription",
+   "date": "Late sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pultuce",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Pultuce is identified epigraphically as one of the sons of Tinia.",
+   "source": "Tinas cliniiar inscription",
+   "date": "Late sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uni",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption through Uni’s nursing",
+   "note": "Tinia presides while Uni nurses Hercle and makes him her son.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hercle",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Tinia witnesses or authorizes Hercle’s admission into Uni’s divine household.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Menrva",
+   "other_aliases": [
+    "Menerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Menrva attends with Tinia as Hercle becomes the son of Uni.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Turan",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Turan attends with Tinia during Hercle’s adoption through Uni’s nursing.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Mean",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Hercle’s adoption into the divine family",
+   "note": "Mean witnesses or ratifies the adoption over which Tinia presides.",
+   "source": "Volterra mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hercle",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Presentation of Epiur",
+   "note": "Hercle presents the child Epiur to Tinia in an unexplained divine scene.",
+   "source": "Etruscan engraved mirror",
+   "date": "Mid-to-late fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Epiur",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Presentation of Epiur",
+   "note": "The child Epiur is presented to Tinia by Hercle.",
+   "source": "Etruscan engraved mirror",
+   "date": "Mid-to-late fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thesan",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Appeal over Memnun’s destiny",
+   "note": "Thesan appeals to Tinia concerning her doomed son Memnun.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth–third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Thethis",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Appeal over Achle’s destiny",
+   "note": "Thethis appeals alongside Thesan while Tinia arbitrates their sons’ fixed destinies.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth–third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Memnun",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment over Memnun and Achle",
+   "note": "Tinia acts as arbiter of the fixed destiny leading to Memnun’s death.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth–third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Achle",
+   "other_aliases": [],
+   "kind": "judged",
+   "myth": "Judgment over Memnun and Achle",
+   "note": "Tinia acts as arbiter of the fixed destiny governing Achle’s conflict.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth–third century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Lur",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Probable prophetic encounter",
+   "note": "Tinia may elicit or receive a prophecy from Lur or an oracular head.",
+   "source": "Engraved mirror interpreted by de Grummond",
+   "date": "Fourth–third century BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Laran",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Probable prophetic encounter",
+   "note": "Laran may be the youthful armed listener during Tinia’s encounter with Lur.",
+   "source": "Engraved mirror interpreted by de Grummond",
+   "date": "Fourth–third century BCE",
+   "tier": "modern"
+  },
+  {
+   "other": "Turms",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Unidentified divine consultation",
+   "note": "Turms accompanies Tinia and sometimes touches his shoulder in an unexplained scene.",
+   "source": "Orvieto/Settecamini mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laran",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Unidentified divine consultation",
+   "note": "Laran appears with youthful Tinia and Turms in a scene of unknown narrative.",
+   "source": "Orvieto/Settecamini mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aplu",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Unidentified divine consultation",
+   "note": "Aplu appears with Tinia and Turms in a consultation scene whose myth is lost.",
+   "source": "Etruscan engraved mirror",
+   "date": "Fourth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cilens",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Cilens shares Tinia’s marginal sector in the Piacenza liver’s cosmological arrangement.",
+   "source": "Piacenza liver",
+   "date": "Late second–first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thufltha",
+   "other_aliases": [
+    "Thuflthas"
+   ],
+   "kind": "other",
+   "myth": "",
+   "note": "Thufltha is compounded or juxtaposed with Tinia, possibly as a punitive power.",
+   "source": "Piacenza liver",
+   "date": "Late second–first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Neθuns",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Neθuns shares an interior liver field with Tinia; their association is unexplained.",
+   "source": "Piacenza liver",
+   "date": "Late second–first century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Twelve dii consentes",
+   "other_aliases": [
+    "twelve gods"
+   ],
+   "kind": "other",
+   "myth": "Consultation before the second thunderbolt",
+   "note": "Tinia consults twelve gods before releasing the second, more serious thunderbolt.",
+   "source": "Seneca, Natural Questions 2.41",
+   "date": "First century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dii superiores et involuti",
+   "other_aliases": [
+    "hidden higher gods"
+   ],
+   "kind": "other",
+   "myth": "Consultation before the third thunderbolt",
+   "note": "Tinia consults hidden superior gods before releasing the destructive third thunderbolt.",
+   "source": "Seneca, Natural Questions 2.41",
+   "date": "First century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan adaptations place Tinia in Zeus’s role, including Menrva’s cranial birth.",
+   "source": "Labeled Etruscan mythological mirrors",
+   "date": "Fifth–fourth centuries BCE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Jupiter",
+   "other_aliases": [
+    "Iuppiter"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman antiquarians identify Tinia with Jupiter in accounts of Etruscan lightning doctrine.",
+   "source": "Pliny and Seneca",
+   "date": "First century BCE–first century CE",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Voltumna",
+   "other_aliases": [
+    "Veltune",
+    "Vertumnus"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some scholarship identifies Voltumna as Tinia’s title or local manifestation, but the equation remains contested.",
+   "source": "Modern interpretation of sanctuary evidence",
+   "date": "Modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Apa",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Van der Meer interprets Apa as a hypostasis of infernal Tinia at Campo della Fiera.",
+   "source": "Campo della Fiera interpretation",
+   "date": "Modern scholarship",
+   "tier": "modern"
+  },
+  {
+   "other": "Veiovis",
+   "other_aliases": [
+    "Vedius"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman and modern systematizations tentatively equate chthonic Tinia with Veiovis or Vedius.",
+   "source": "Roman and modern systematization",
+   "date": "Roman era–modern",
+   "tier": "modern"
+  },
+  {
+   "other": "Summanus",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Functional comparisons have tentatively equated Tinia’s chthonic form with Summanus.",
+   "source": "Roman and modern systematization",
+   "date": "Roman era–modern",
+   "tier": "modern"
+  }
+ ]
+}

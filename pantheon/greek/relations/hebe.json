@@ -1,0 +1,265 @@
+{
+ "subject": "hebe",
+ "relations": [
+  {
+   "other": "Zeus",
+   "other_aliases": [
+    "Jupiter"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Zeus fathers Hebe with Hera in the dominant genealogy.",
+   "source": "Hesiod, Theogony 921–923",
+   "date": "eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Hera bears Hebe after union with Zeus.",
+   "source": "Hesiod, Theogony 921–923",
+   "date": "eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "child_of",
+   "myth": "Hera conceives Hebe by eating lettuce",
+   "note": "Hera conceives Hebe parthenogenetically after eating lettuce.",
+   "source": "First Vatican Mythographer 1.204",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [
+    "Juno"
+   ],
+   "kind": "served",
+   "myth": "Preparing Hera's divine chariot",
+   "note": "Hebe helps Hera prepare and harness her chariot.",
+   "source": "Iliad 5.720–723",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hesiod names Ares and Hebe among Zeus and Hera's children.",
+   "source": "Hesiod, Theogony 921–923",
+   "date": "eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Care of wounded Ares",
+   "note": "Hebe washes and clothes Ares after Paeon heals his wound.",
+   "source": "Iliad 5.899–906",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eileithyia",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hesiod makes Eileithyia and Hebe daughters of Zeus and Hera.",
+   "source": "Hesiod, Theogony 921–923",
+   "date": "eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "consort_of",
+   "myth": "Heracles' apotheosis and Olympian marriage",
+   "note": "The deified Heracles marries Hebe and lives free from age.",
+   "source": "Hesiod, Theogony 950–955",
+   "date": "eighth–seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [
+    "Hercules"
+   ],
+   "kind": "gift",
+   "myth": "Rejuvenation of Iolaus",
+   "note": "Hebe restores Iolaus' youth for Heracles' sake.",
+   "source": "Ovid, Metamorphoses 9.394–417",
+   "date": "c. 10 BCE–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Alexiares",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hebe and Heracles are named as Alexiares' parents.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.7.7",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Anicetus",
+   "other_aliases": [
+    "Aniketos"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Hebe and Heracles are named as Anicetus' parents.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 2.7.7",
+   "date": "first–second century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Iolaus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Rejuvenation of Iolaus",
+   "note": "Hebe and Heracles appear as stars before aged Iolaus becomes young.",
+   "source": "Euripides, Heracleidae 849–858",
+   "date": "c. 430 BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Iolaus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Rejuvenation of Iolaus",
+   "note": "Hebe directly restores Iolaus' youthful years as an exceptional favor.",
+   "source": "Ovid, Metamorphoses 9.394–417",
+   "date": "c. 10 BCE–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Paeon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Care of wounded Ares",
+   "note": "Paeon heals Ares before Hebe washes and dresses him.",
+   "source": "Iliad 5.899–906",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Themis",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Debate after Iolaus' rejuvenation",
+   "note": "Themis limits Hebe's exceptional dispensation and explains other changes of age.",
+   "source": "Ovid, Metamorphoses 9.403–417",
+   "date": "c. 10 BCE–8 CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Parallel Olympian cupbearers",
+   "note": "Hebe serves the gods while Ganymede separately pours for Zeus.",
+   "source": "Iliad 4.2–3; 20.231–235",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ganymede",
+   "other_aliases": [],
+   "kind": "contest",
+   "myth": "Hebe–Ganymede cupbearer rivalry",
+   "note": "Medieval debate poetry casts Hebe and Ganymede as rival cupbearers.",
+   "source": "Altercatio Ganimedis et Hebe",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [
+    "Minerva"
+   ],
+   "kind": "shared_myth",
+   "myth": "Mantinean temple group",
+   "note": "Athena and Hebe stand beside the seated Hera.",
+   "source": "Pausanias 8.9.2",
+   "date": "c. 150–175 CE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Heracles and Hebe",
+   "note": "Aphrodite attends Hebe's marriage in some vase scenes.",
+   "source": "Attic red-figure vase painting",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eros",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Wedding of Heracles and Hebe",
+   "note": "Eros attends the marriage of Heracles and Hebe in some representations.",
+   "source": "Attic red-figure vase painting",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Hera's unrealized marriage proposal",
+   "note": "Hera imagines Dionysus as Hebe's bridegroom, but Zeus reserves her for Heracles.",
+   "source": "Nonnus, Dionysiaca 35.333–348",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Olympian music and dance",
+   "note": "Hebe joins the Olympian company responding to Apollo's music.",
+   "source": "Homeric Hymn to Apollo",
+   "date": "archaic period",
+   "tier": "attested"
+  },
+  {
+   "other": "the Olympian gods",
+   "other_aliases": [
+    "the gods"
+   ],
+   "kind": "served",
+   "myth": "Olympian banquet overlooking Troy",
+   "note": "Hebe pours nectar for the assembled Olympian gods.",
+   "source": "Iliad 4.2–3",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Iuventas",
+   "other_aliases": [
+    "Juventas"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman Iuventas was historically assimilated to Greek Hebe despite an independent civic origin.",
+   "source": "Roman literary and cult evidence",
+   "date": "Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}

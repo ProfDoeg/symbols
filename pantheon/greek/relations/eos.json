@@ -1,0 +1,487 @@
+{
+ "subject": "eos",
+ "relations": [
+  {
+   "other": "Hyperion",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eos is his daughter with Theia in the dominant Greek genealogy.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Theia",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Eos is her daughter with Hyperion in the dominant Greek genealogy.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Pallas",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Latin poets alternatively call Eos Pallantias or Pallantis, daughter of Pallas.",
+   "source": "Latin poetic tradition",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eos and Helios are children of Hyperion and Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Cosmic dawn procession",
+   "note": "Eos appears opposite or preceding Helios as he rises in his quadriga.",
+   "source": "Sappho Painter lekythos",
+   "date": "c. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Eos and Selene are children of Hyperion and Theia.",
+   "source": "Hesiod, Theogony 371–374",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Selene",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Celestial procession",
+   "note": "Eos, Selene, and Helios appear together in celestial art, though some figures remain uncertain.",
+   "source": "Classical vase painting",
+   "date": "Classical period",
+   "tier": "attested"
+  },
+  {
+   "other": "Astraeus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Their divine union produces the winds, Morning Star, and stars.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Boreas is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Boreas",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The Winds carry Memnon",
+   "note": "Boreas and the other Winds bear Memnon's body at Eos's direction.",
+   "source": "Quintus Smyrnaeus, Posthomerica 2",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Zephyrus is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zephyrus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The Winds carry Memnon",
+   "note": "Zephyrus and the other Winds bear Memnon's body at Eos's direction.",
+   "source": "Quintus Smyrnaeus, Posthomerica 2",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Notus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Notus is a son of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 378–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Notus",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "The Winds carry Memnon",
+   "note": "Notus and the other Winds bear Memnon's body at Eos's direction.",
+   "source": "Quintus Smyrnaeus, Posthomerica 2",
+   "date": "third century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Eurus",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later systematization includes Eurus among the sons of Eos and Astraeus.",
+   "source": "Later genealogical summaries",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Eosphorus",
+   "other_aliases": [
+    "Phosphorus"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The personified Morning Star is born to Eos and Astraeus.",
+   "source": "Hesiod, Theogony 381–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "The Stars",
+   "other_aliases": [
+    "Astra"
+   ],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "The collective divine stars are offspring of Eos and Astraeus.",
+   "source": "Hesiod, Theogony 381–382",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Tithonus is Eos's mortal bedmate and enduring consort.",
+   "source": "Homer, Iliad and Odyssey",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Tithonus",
+   "note": "Eos carries beautiful young Tithonus away to the world's end.",
+   "source": "Sappho fragment 58",
+   "date": "early sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Tithonus",
+   "other_aliases": [],
+   "kind": "transformed",
+   "myth": "Tithonus becomes a cicada",
+   "note": "A later variant sometimes makes Eos transform the perpetually aging Tithonus into a cicada.",
+   "source": "Hellanicus fragment and later traditions",
+   "date": "later tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Immortality without youth",
+   "note": "Eos petitions Zeus, who grants Tithonus immortality but not perpetual youth.",
+   "source": "Homeric Hymn to Aphrodite 218–238",
+   "date": "seventh–sixth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "gift",
+   "myth": "Immortalization of Memnon",
+   "note": "After Memnon's death, Eos petitions Zeus and obtains immortality for her son.",
+   "source": "Proclus, Aethiopis summary",
+   "date": "poem probably seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Memnon is the heroic son of Eos and Tithonus.",
+   "source": "Aethiopis tradition",
+   "date": "seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "rescued",
+   "myth": "Immortalization of Memnon",
+   "note": "Eos secures posthumous immortality for Memnon by petitioning Zeus.",
+   "source": "Proclus, Aethiopis summary",
+   "date": "poem probably seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Memnon",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Eos mourns Memnon",
+   "note": "Eos mourns and carries her dead son after Achilles kills him.",
+   "source": "Douris cup and later literature",
+   "date": "c. 490–480 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "other": "Emathion",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "Later epic and mythography name Emathion as Eos's son by Tithonus.",
+   "source": "Later epic and mythography",
+   "date": "later antiquity",
+   "tier": "canonical"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Eos unites with Cephalus and bears Phaethon.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Cephalus",
+   "note": "Eos pursues and abducts the young hunter despite his marriage to Procris.",
+   "source": "Classical art and Pherecydes",
+   "date": "fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cephalus",
+   "other_aliases": [],
+   "kind": "deceived",
+   "myth": "Cephalus tests Procris",
+   "note": "Aurora releases Cephalus after making him suspicious of Procris, prompting his disguised fidelity test.",
+   "source": "Ovid, Metamorphoses 7.690–862",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "parent_of",
+   "myth": "",
+   "note": "This Phaethon, distinct from Helios's charioteer son, is born to Eos and Cephalus.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "punished_by",
+   "myth": "Aphrodite curses Eos",
+   "note": "Aphrodite afflicts Eos with continual desire for mortals because Eos slept with Ares.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.4.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Abduction of Phaethon",
+   "note": "Aphrodite abducts Eos's young son Phaethon and appoints him an inner-sanctuary guardian.",
+   "source": "Hesiod, Theogony 984–991",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "consort_of",
+   "myth": "Affair of Eos and Ares",
+   "note": "Eos sleeps with Ares, provoking Aphrodite's punishment.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.4.4",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Orion",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Orion",
+   "note": "Eos chooses or carries off Orion as a mortal lover.",
+   "source": "Homer, Odyssey 5.121–124",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Death of Orion",
+   "note": "Artemis kills Orion on Ortygia after Eos takes him as her lover.",
+   "source": "Homer, Odyssey 5.121–124",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cleitus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Abduction of Cleitus",
+   "note": "Eos carries off beautiful Cleitus so that he may dwell among immortals.",
+   "source": "Homer, Odyssey 15.250–251",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Thetis",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Weighing of Achilles and Memnon",
+   "note": "Eos and Thetis plead for their opposing sons while Zeus weighs the heroes' fates.",
+   "source": "Aeschylus, Psychostasia and vase painting",
+   "date": "sixth–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Achilles",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Combat of Achilles and Memnon",
+   "note": "Eos attends the combat in which Achilles kills her son Memnon.",
+   "source": "Aethiopis and classical vase painting",
+   "date": "seventh–fifth century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Gigantomachy herb search",
+   "note": "Zeus prevents Eos, Helios, and Selene from shining while Gaia seeks a protective plant.",
+   "source": "Pseudo-Apollodorus, Bibliotheca 1.6.1",
+   "date": "first or second century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Nyx",
+   "other_aliases": [
+    "Night"
+   ],
+   "kind": "shared_myth",
+   "myth": "Cosmic dawn procession",
+   "note": "Eos rises as Nyx departs, the two appearing as opposed cosmic movers.",
+   "source": "Sappho Painter lekythos",
+   "date": "c. 500 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Oceanus",
+   "other_aliases": [
+    "Ocean"
+   ],
+   "kind": "shared_myth",
+   "myth": "Daily rising from Ocean",
+   "note": "Eos rises from Oceanus's stream and dwells near its eastern limits.",
+   "source": "Homeric epic",
+   "date": "late eighth–early seventh century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Hemera",
+   "other_aliases": [
+    "Day"
+   ],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Eos is sometimes contextually associated or identified with Day, though Hesiod gives Hemera distinct parentage.",
+   "source": "Greek poetry and visual tradition",
+   "date": "ancient Greek tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Aurora",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Roman poets transfer Eos's mythology to the Latin dawn goddess Aurora.",
+   "source": "Roman poetic tradition",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Thesan",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Etruscan art adapts Greek Eos imagery, producing an artistic and interpretive equation with Thesan.",
+   "source": "Etruscan visual tradition",
+   "date": "ancient Etruscan period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Mater Matuta",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later antiquarian and comparative treatments sometimes equate Mater Matuta with Aurora or Eos despite her distinct cult.",
+   "source": "Later antiquarian tradition",
+   "date": "later antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Lampē",
+   "other_aliases": [
+    "Lampus"
+   ],
+   "kind": "served_by",
+   "myth": "Chariot of Dawn",
+   "note": "Later sources name Lampē or Lampus as one of Eos's shining chariot horses.",
+   "source": "Later poetic sources",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Phaethon",
+   "other_aliases": [],
+   "kind": "served_by",
+   "myth": "Chariot of Dawn",
+   "note": "Later sources name a radiant horse called Phaethon among Eos's varying chariot teams.",
+   "source": "Later poetic sources",
+   "date": "later antiquity",
+   "tier": "late_accretion"
+  }
+ ]
+}

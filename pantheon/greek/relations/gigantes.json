@@ -1,0 +1,639 @@
+{
+ "subject": "gigantes",
+ "relations": [
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia receives Uranus’s blood and bears the Gigantes.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Gigantes arise from Uranus’s blood received by Gaia.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A later shorthand calls the Gigantes children of Gaia alone.",
+   "source": "Bacchylides fr. 15; Diodorus 4.21",
+   "date": "5th–1st centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Uranus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaia bears the Gigantes by Uranus after the Titans’ imprisonment.",
+   "source": "Pseudo-Apollodorus 1.6.1",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Tartarus",
+   "other_aliases": [],
+   "kind": "child_of",
+   "myth": "",
+   "note": "A Roman variant makes the Gigantes children of Earth and Tartarus.",
+   "source": "Hyginus, Fabulae Preface",
+   "date": "Roman period",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Erinyes",
+   "other_aliases": [],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Erinyes and Gigantes are co-born from Uranus’s fallen blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Meliae",
+   "other_aliases": [
+    "Melian nymphs"
+   ],
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "The Meliae and Gigantes are co-born from Uranus’s fallen blood.",
+   "source": "Hesiod, Theogony 183–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Birth from Uranus’s blood",
+   "note": "Cronus’s castration of Uranus causes the Gigantes’ generation.",
+   "source": "Hesiod, Theogony 176–187",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "gift",
+   "myth": "Gaia’s invulnerability herb",
+   "note": "Gaia seeks an herb that would protect the Gigantes from mortals.",
+   "source": "Pseudo-Apollodorus 1.6.1",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Zeus blocks celestial light, gathers Gaia’s herb, and strikes the Gigantes.",
+   "source": "Pseudo-Apollodorus 1.6.1–2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy",
+   "note": "Athena opposes the Gigantes and summons Heracles to secure victory.",
+   "source": "Pseudo-Apollodorus 1.6.1–2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Gigantomachy at Phlegra",
+   "note": "The indispensable mortal ally destroys the Gigantes and shoots each dying combatant.",
+   "source": "Catalogue fr. 43a; Pindar; Apollodorus",
+   "date": "Archaic–Roman periods",
+   "tier": "attested"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Alcyoneus",
+   "note": "Heracles shoots Alcyoneus and drags him beyond Pallene to prevent revival.",
+   "source": "Pseudo-Apollodorus 1.6.1",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Athena seizes Alcyoneus",
+   "note": "Athena pulls Alcyoneus away from Gaia and advises Heracles.",
+   "source": "Pergamon frieze; Pseudo-Apollodorus",
+   "date": "2nd century BCE–2nd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "theft",
+   "myth": "Theft of Helios’s cattle",
+   "note": "Alcyoneus steals Helios’s cattle from Erytheia.",
+   "source": "Pindaric scholia; Pseudo-Apollodorus",
+   "date": "Late-attested",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Defeat of Porphyrion",
+   "note": "Zeus induces Porphyrion’s desire for Hera and strikes him with lightning.",
+   "source": "Pindar, Pythian 8; Pseudo-Apollodorus",
+   "date": "5th century BCE–2nd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Porphyrion attacks Hera",
+   "note": "Porphyrion tears Hera’s garment and attempts to rape her.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Defeat of Porphyrion",
+   "note": "Heracles finishes the thunderstruck Porphyrion with an arrow.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Defeat of Porphyrion",
+   "note": "Pindar associates Porphyrion’s overthrow with Apollo’s arrows.",
+   "source": "Pindar, Pythian 8",
+   "date": "5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Apollo",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Blinding of Ephialtes",
+   "note": "Apollo shoots the Giant Ephialtes in his left eye.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Blinding of Ephialtes",
+   "note": "Heracles shoots Ephialtes in his right eye, completing his defeat.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Eurytus",
+   "note": "Dionysus kills the Giant Eurytus with his thyrsus.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Delphic Gigantomachy",
+   "note": "Dionysus kills an unnamed Giant with an ivy-clad staff.",
+   "source": "Euripides, Ion 205–218",
+   "date": "5th century BCE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hecate",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Clytius",
+   "note": "Hecate burns the Giant Clytius with her torches.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Hephaestus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Mimas",
+   "note": "Hephaestus kills Mimas with molten iron.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Mimas",
+   "note": "Zeus burns Mimas with a thunderbolt.",
+   "source": "Euripides, Ion 205–218",
+   "date": "5th century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Mimas",
+   "note": "Ares kills Mimas at Phlegra and gives his cuirass to Aeetes.",
+   "source": "Apollonius, Argonautica 3.1225–1227",
+   "date": "3rd century BCE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Enceladus buried beneath Sicily",
+   "note": "Athena pursues Enceladus and crushes him beneath Sicily.",
+   "source": "Euripides, Ion; Pseudo-Apollodorus",
+   "date": "5th century BCE–2nd CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Burning of Enceladus",
+   "note": "Zeus burns Enceladus with a thunderbolt.",
+   "source": "Quintus Smyrnaeus",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Athena",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death and flaying of Pallas",
+   "note": "Athena kills Pallas, flays him, and uses his hide as protection.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Poseidon",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Polybotes buried beneath Nisyros",
+   "note": "Poseidon pursues Polybotes and crushes him beneath the island Nisyros.",
+   "source": "Pseudo-Apollodorus; Strabo",
+   "date": "1st century BCE–2nd CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hermes",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Hippolytus",
+   "note": "Hermes kills Hippolytus while wearing Hades’ invisibility cap.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Artemis",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Aegaeon",
+   "note": "Artemis kills the Giant Aegaeon.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "the Fates"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of Agrius",
+   "note": "The Moirai kill Agrius with bronze clubs.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Moirai",
+   "other_aliases": [
+    "the Fates"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of Thoon",
+   "note": "The Moirai kill Thoon with bronze clubs.",
+   "source": "Pseudo-Apollodorus 1.6.2",
+   "date": "1st–2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "other": "Dionysus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Dionysus against Rhoikos",
+   "note": "Rhoikos appears as Dionysus’s opponent in varying artistic and literary traditions.",
+   "source": "Vase painting and later notices",
+   "date": "Archaic and later",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Ares",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Mimon",
+   "note": "Ares kills Mimon, who is sometimes identified with Mimas.",
+   "source": "Iconographic and mythographic traditions",
+   "date": "Ancient variant",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Phoitios",
+   "note": "Hera kills Phoitios in a thinly preserved variant.",
+   "source": "Visual and mythographic catalogues",
+   "date": "Ancient variant",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Pursuit of Sykeus",
+   "note": "Zeus pursues Sykeus until Gaia transforms the Giant into a fig tree.",
+   "source": "Athenaeus citing local tradition",
+   "date": "Late regional tradition",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Mylinos",
+   "note": "Zeus kills the Cretan Giant Mylinos.",
+   "source": "Late mythographic notice",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "Olympus fosters Zeus",
+   "note": "The Cretan Giant Olympus formerly serves as Zeus’s fosterer.",
+   "source": "Ptolemy Hephaestion via Photius",
+   "date": "Late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Zeus",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Rebellion of Olympus",
+   "note": "Zeus kills his former fosterer Olympus after the Giant incites rebellion.",
+   "source": "Ptolemy Hephaestion via Photius",
+   "date": "Late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Death of Leon",
+   "note": "Heracles kills and skins the Giant Leon.",
+   "source": "Ptolemy Hephaestion",
+   "date": "Late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Helios",
+   "other_aliases": [
+    "Sun"
+   ],
+   "kind": "killed_by",
+   "myth": "Death of the Moly Giant",
+   "note": "Helios kills an unnamed Giant whose blood produces moly.",
+   "source": "Ptolemy Hephaestion",
+   "date": "Late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Aphrodite",
+   "other_aliases": [
+    "Aphrodite Apatouros"
+   ],
+   "kind": "deceived_by",
+   "myth": "Aphrodite’s Phanagoreian deception",
+   "note": "Aphrodite hides Heracles and admits attacking Giants individually to their deaths.",
+   "source": "Strabo 11.2.10",
+   "date": "1st century BCE–1st CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Heracles",
+   "other_aliases": [],
+   "kind": "killed_by",
+   "myth": "Phanagoreian Giant attack",
+   "note": "Heracles kills unnamed Giants delivered individually through Aphrodite’s deception.",
+   "source": "Strabo 11.2.10",
+   "date": "1st century BCE–1st CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Hera",
+   "other_aliases": [],
+   "kind": "seduced",
+   "myth": "Eurymedon assaults young Hera",
+   "note": "A scholion says Eurymedon raped Hera and fathered Prometheus.",
+   "source": "Scholion to Iliad 14",
+   "date": "Late scholastic tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Gaia",
+   "other_aliases": [
+    "Earth"
+   ],
+   "kind": "rescued_by",
+   "myth": "Survival of Aristaios",
+   "note": "Gaia hides or transforms her son Aristaios so he survives.",
+   "source": "Late variant",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Chiron",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "Damysos’s ankle transplanted",
+   "note": "Chiron removes Damysos’s swift ankle bone and installs it in Achilles.",
+   "source": "Ptolemy Hephaestion",
+   "date": "Late learned tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Rhea",
+   "other_aliases": [],
+   "kind": "allied",
+   "myth": "Defense of pregnant Rhea",
+   "note": "Arcadian Giants led by Hopladamos defend pregnant Rhea against Cronus.",
+   "source": "Pausanias 8.36.2",
+   "date": "2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Cronus",
+   "other_aliases": [],
+   "kind": "fought",
+   "myth": "Defense of pregnant Rhea",
+   "note": "Hopladamos’s Arcadian Giants defend Rhea from Cronus.",
+   "source": "Pausanias 8.36.2",
+   "date": "2nd century CE",
+   "tier": "regional_variant"
+  },
+  {
+   "other": "Xanthos and Balios",
+   "other_aliases": [
+    "Achilles’ horses"
+   ],
+   "kind": "allied",
+   "myth": "Former Giant beings join Olympians",
+   "note": "Late tradition makes Giant-associated Xanthos and Balios side with the gods.",
+   "source": "Late learned tradition",
+   "date": "Late antiquity",
+   "tier": "late_accretion"
+  },
+  {
+   "other": "Hybris",
+   "other_aliases": [],
+   "kind": "shared_myth",
+   "myth": "Destruction for arrogant violence",
+   "note": "The Gigantes’ destruction is associated with Hybris, personified arrogant violence.",
+   "source": "Bacchylides fr. 15",
+   "date": "5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Eurymedon",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Eurymedon rules the reckless race of Gigantes as their king.",
+   "source": "Homer, Odyssey 7.56–60",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Porphyrion",
+   "other_aliases": [],
+   "kind": "served",
+   "myth": "",
+   "note": "Porphyrion is called king of the Gigantes in a distinct tradition.",
+   "source": "Pindar, Pythian 8",
+   "date": "5th century BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Cyclopes",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Homer presents the Cyclopes and Gigantes as comparable divine-adjacent races.",
+   "source": "Homer, Odyssey 7.199–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Phaeacians",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "Homer describes Phaeacians and Gigantes as peoples comparably close to the gods.",
+   "source": "Homer, Odyssey 7.199–206",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Laestrygonians",
+   "other_aliases": [],
+   "kind": "other",
+   "myth": "",
+   "note": "The monstrous Laestrygonians are compared with the Gigantes rather than ordinary men.",
+   "source": "Homer, Odyssey 10.118–120",
+   "date": "c. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "other": "Nephilim",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Biblical giants were linguistically assimilated to Gigantes through Septuagint translation.",
+   "source": "Septuagint",
+   "date": "Hellenistic period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Titans",
+   "other_aliases": [],
+   "kind": "identified_with",
+   "myth": "Conflation of cosmic rebels",
+   "note": "Roman and later traditions often conflate Gigantes with Titans despite their distinct origins.",
+   "source": "Ovid; Hyginus; Latin poets",
+   "date": "Roman period",
+   "tier": "syncretism"
+  },
+  {
+   "other": "Aloadae",
+   "other_aliases": [
+    "Otus and Ephialtes"
+   ],
+   "kind": "identified_with",
+   "myth": "Mountain-piling assault on heaven",
+   "note": "Ovid and Hyginus transfer the Aloadae’s mountain-piling assault to the Gigantes.",
+   "source": "Ovid, Metamorphoses; Hyginus",
+   "date": "Roman period",
+   "tier": "syncretism"
+  }
+ ]
+}
