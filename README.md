@@ -20,13 +20,13 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `alphabets/` | 17 | writing systems and their histories, from hieroglyphs to Hangul and the invented alphabets |
 | `gematria/` | 12 | letter-number systems and their histories, from Sargon's wall to the internet calculators |
 | `encodings/` | 17 | how machines have written letters: Morse to ASCII, EBCDIC, the code pages, Unicode, UTF-8, emoji, bidi and shaping |
-| `pantheon/` | 82 + 559 running | the gods, one folder per tradition (`greek/`, `roman/`, `hindu/`, `egyptian/`, `mesopotamian/`, `persian/`, `norse/`, `canaanite/`, `andean/`, `abrahamic/`, `folklore/`): the 82 beings named in the essay corpus (2026-09-06, `QUEUE.md`, `GOD_DOSSIER_PROMPT.md`), then the whole pantheons built out from `make_briefs.py` (2026-09-16) |
+| `pantheon/` | 1000 | the gods, one folder per tradition, 27 folders: greek 137, hindu 108, egyptian 77, roman 65, mesopotamian 60, norse 53, abrahamic 46, celtic 45, aztec 41, persian 38, gnostic 32, yoruba 32, canaanite 30, vodou 30, iberian 25, japanese 25, mapuche 25, andean 23, guarani 23, amazonian 22, etruscan 12, lakota 12, slavic 12, alpine 10, baltic 6, finnic 6, folklore 5. The first 82 were the beings named in the essay corpus (2026-09-06, `QUEUE.md`, `GOD_DOSSIER_PROMPT.md`); the rest are the whole pantheons built out on 2026-09-16 and 17 from `make_briefs.py`, which holds the roster and the source corpus of each tradition |
 
-Twelve dossier sets, 495 dossiers, as of 2026-09-16 (zodiac 12, bode 96, tribes 12, tarot 82,
-goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17, pantheon 82).
+Twelve dossier sets, 1,413 dossiers, as of 2026-09-17 (zodiac 12, bode 96, tribes 12, tarot 82,
+goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17, pantheon 1000).
 Goetia and tree ran at high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole
-catalogue entry, so its dossiers run longer. The pantheon set predates the generic tools and was
-built by the atlas dossier pipeline (`<slug>_pantheon_dossier.md`, one prose file each).
+catalogue entry, so its dossiers run longer. The pantheon build-out ran eight wide in two passes
+(559 and 358 items, about 7 h 20 min and 4 h; two OpenAI capacity failures re-run afterwards).
 
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
