@@ -22,9 +22,9 @@ do not belong to. Moved here from Colegio_Invisible/working on 2026-09-14.
 | `encodings/` | 17 | how machines have written letters: Morse to ASCII, EBCDIC, the code pages, Unicode, UTF-8, emoji, bidi and shaping |
 | `pantheon/` | 1000 | the gods, one folder per tradition, 27 folders: greek 137, hindu 108, egyptian 77, roman 65, mesopotamian 60, norse 53, abrahamic 46, celtic 45, aztec 41, persian 38, gnostic 32, yoruba 32, canaanite 30, vodou 30, iberian 25, japanese 25, mapuche 25, andean 23, guarani 23, amazonian 22, etruscan 12, lakota 12, slavic 12, alpine 10, baltic 6, finnic 6, folklore 5. The first 82 were the beings named in the essay corpus (2026-09-06, `QUEUE.md`, `GOD_DOSSIER_PROMPT.md`); the rest are the whole pantheons built out on 2026-09-16 and 17 from `make_briefs.py`, which holds the roster and the source corpus of each tradition |
 
-| `heroes/` | 128 running | the mythic mortals between the atlas and the gods, one folder per tradition: greek 36, roman 12, norse 10, persian 10, hindu 10, celtic 10, biblical 20, japanese 6, slavic 6, finnic 4, mesopotamian 2, yoruba 2; a catch-all for stragglers, nothing moved here from the atlas or the pantheon (2026-09-17) |
+| `heroes/` | 286 | the mythic mortals between the atlas and the gods, one folder per tradition, 23 folders: greek 76, hindu 22, roman 20, biblical 20, celtic 18, norse 18, persian 16, slavic 14, japanese 12, medieval 9, egyptian 8, iberian 8, andean 6, arabic 6, finnic 6, aztec 5, mesopotamian 5, yoruba 5, mapuche 3, vodou 3, baltic 2, guarani 2, lakota 2; a catch-all for stragglers, nothing moved here from the atlas or the pantheon (2026-09-17). Same `relations/` and `_matrix.*` products as the pantheon, with each figure's relations to the gods of the pantheon listed under it |
 
-Thirteen dossier sets, 1,413 + 128 dossiers, as of 2026-09-17 (zodiac 12, bode 96, tribes 12, tarot 82,
+Thirteen dossier sets, 1,699 dossiers, as of 2026-09-17 (zodiac 12, bode 96, tribes 12, tarot 82,
 goetia 72, tree 34, memoria 45, numerals 14, alphabets 17, gematria 12, encodings 17, pantheon 1000).
 Goetia and tree ran at high reasoning effort (`REASONING.txt`); memoria's briefs carry the whole
 catalogue entry, so its dossiers run longer. The pantheon build-out ran eight wide in two passes

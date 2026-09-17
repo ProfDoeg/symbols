@@ -75,13 +75,17 @@ def alias_forms(name):
     return {a for a in out if a and len(a) > 2}
 
 
-def build_index():
-    """norm name -> set of (folder, slug)."""
+GODS = os.path.join(os.path.dirname(HERE), "pantheon")   # for non-pantheon sets, gods resolve here
+
+
+def build_index(root=None):
+    """norm name -> set of (folder, slug), over the set at root (default SET)."""
+    root = root or SET
     idx = defaultdict(set)
-    spec = importlib.util.spec_from_file_location("mb", os.path.join(SET, "make_briefs.py"))
+    spec = importlib.util.spec_from_file_location("mb", os.path.join(root, "make_briefs.py"))
     mb = importlib.util.module_from_spec(spec); spec.loader.exec_module(mb)
-    for folder in folders():
-        d = os.path.join(SET, folder)
+    for folder in [t for t in sorted(os.listdir(root)) if os.path.isdir(os.path.join(root, t)) and t not in SKIP_DIRS]:
+        d = os.path.join(root, folder)
         for f in sorted(os.listdir(d)):
             if not f.endswith(".md") or f.startswith("_"):
                 continue
@@ -125,7 +129,19 @@ def resolve(idx, folder, name, aliases, folder_keys):
             same = [h for h in idx[close[0]] if h[0] == folder]
             if len(same) == 1:
                 return same[0]
+    # a god of the pantheon (only when this set is not the pantheon): same tradition folder first
+    if GOD_IDX:
+        for c in cands:
+            hits = GOD_IDX.get(c, set())
+            same = [h for h in hits if h[0] == folder]
+            if len(same) == 1:
+                return ("god", f"{same[0][0]}/{same[0][1]}")
+            if len(hits) == 1 and len(c) >= 6:      # a god of another tradition: only on a longer, unique name
+                h = next(iter(hits)); return ("god", f"{h[0]}/{h[1]}")
     return None
+
+
+GOD_IDX = None
 
 
 def canon(a, b, kind):
@@ -136,7 +152,10 @@ def canon(a, b, kind):
 
 
 def main(only):
+    global GOD_IDX
     idx = build_index()
+    if os.path.abspath(SET) != os.path.abspath(GODS) and os.path.isdir(GODS):
+        GOD_IDX = build_index(GODS)
     cross = []
     for folder in folders():
         if only and folder not in only:
@@ -146,6 +165,7 @@ def main(only):
             continue
         edges = {}       # (a, b, kind, myth-norm) -> record
         unresolved = defaultdict(list)
+        god_edges = []   # non-pantheon sets: relations of this folder's figures with the gods
         gods = set()
         folder_keys = [k for k, hits in idx.items() if any(h[0] == folder for h in hits)]
         for f in sorted(os.listdir(reldir)):
@@ -159,6 +179,9 @@ def main(only):
                     unresolved[r.get("other", "")].append({"stated_by": subj, **{k: r.get(k, "") for k in ("kind", "myth", "note", "source", "date", "tier")}})
                     continue
                 ofolder, oslug = hit
+                if ofolder == "god":
+                    god_edges.append({"a": subj, "god": oslug, **{k: r.get(k, "") for k in ("kind", "myth", "note", "source", "date", "tier")}})
+                    continue
                 if ofolder != folder:
                     cross.append({"folder_a": folder, "a": subj, "folder_b": ofolder, "b": oslug, **{k: r.get(k, "") for k in ("kind", "myth", "note", "source", "date", "tier")}})
                     continue
@@ -183,7 +206,7 @@ def main(only):
             w = csv.writer(fh); w.writerow([""] + slugs)
             for x in slugs:
                 w.writerow([x] + [pair.get((min(x, y), max(x, y)), 0) if x != y else "" for y in slugs])
-        json.dump({"folder": folder, "gods": slugs, "relations": recs,
+        json.dump({"folder": folder, "gods": slugs, "relations": recs, "god_relations": god_edges,
                    "unresolved": {k: v for k, v in sorted(unresolved.items())}},
                   open(os.path.join(SET, folder, "_relations.json"), "w"), ensure_ascii=False, indent=1)
         # markdown
@@ -201,15 +224,26 @@ def main(only):
                  "## Most connected", "", "| god | relations with | distinct gods |", "|---|---|---|"]
         for g in sorted(slugs, key=lambda g: -degree[g])[:15]:
             lines.append(f"| {g} | {sum(len(v) for v in by_god[g].values())} | {degree[g]} |")
-        lines += ["", "## Each god", ""]
+        by_hero_god = defaultdict(lambda: defaultdict(list))
+        for e in god_edges:
+            by_hero_god[e["a"]][e["god"]].append(e)
+        if god_edges:
+            lines += ["", f"Relations with the gods of the pantheon: {len(god_edges)} (listed under each figure as 'gods')."]
+        lines += ["", "## Each figure" if god_edges else "## Each god", ""]
         for g in slugs:
-            lines.append(f"### {g}  ({degree[g]} gods)")
+            lines.append(f"### {g}  ({degree[g]} {'figures' if god_edges else 'gods'}" + (f", {len(by_hero_god[g])} gods" if god_edges else "") + ")")
             for other in sorted(by_god[g], key=lambda o: (-len(by_god[g][o]), o)):
                 es = by_god[g][other]
                 kinds = sorted({e["kind"] for e in es})
                 myths = sorted({e["myth"] for e in es if e["myth"]})
                 tail = ("; " + "; ".join(myths[:4])) if myths else ""
                 lines.append(f"- **{other}**: {', '.join(kinds)}{tail}")
+            if by_hero_god[g]:
+                parts = []
+                for gd in sorted(by_hero_god[g], key=lambda o: (-len(by_hero_god[g][o]), o)):
+                    kinds = sorted({e["kind"] for e in by_hero_god[g][gd]})
+                    parts.append(f"{gd} ({', '.join(kinds)})")
+                lines.append("- gods: " + "; ".join(parts))
             lines.append("")
         if unresolved:
             lines += ["## Named but without a dossier here", ""]
