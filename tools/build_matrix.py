@@ -24,6 +24,11 @@ from collections import defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SET = os.path.join(os.path.dirname(HERE), "pantheon")
+# optional: --set heroes (any set laid out as <tradition>/<slug>.md with relations/ inside)
+if "--set" in sys.argv:
+    i = sys.argv.index("--set")
+    SET = os.path.join(os.path.dirname(HERE), sys.argv[i + 1])
+    del sys.argv[i:i + 2]
 SKIP_DIRS = {"briefs", "__pycache__", "dossiers", "relations", "notes"}
 KIN = {"parent_of", "child_of", "sibling_of", "consort_of", "ancestor_of", "descendant_of"}
 INVERSE = {"parent_of": "child_of", "child_of": "parent_of", "ancestor_of": "descendant_of",

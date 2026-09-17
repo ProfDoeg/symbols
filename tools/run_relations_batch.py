@@ -9,12 +9,17 @@ import os, subprocess, sys, time
 from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+args = sys.argv[1:]
+# optional first argument: the set directory (default pantheon); e.g. tools/run_relations_batch.py heroes 8
 SET = os.path.join(os.path.dirname(HERE), "pantheon")
+if args and os.path.isdir(os.path.join(os.path.dirname(HERE), args[0])):
+    SET = os.path.join(os.path.dirname(HERE), args.pop(0))
 RUNNER = os.path.join(HERE, "extract_relations.py")
 PROGRESS = os.path.join(SET, "relations_progress.log")
 SKIP_DIRS = {"briefs", "__pycache__", "dossiers", "relations", "notes"}
-N = int(sys.argv[1]) if len(sys.argv) > 1 else 4
-ONLY = set(sys.argv[2:])
+N = int(args[0]) if args else 4
+ONLY = set(args[1:])
+LABEL = os.path.basename(SET)
 
 
 def log(msg):
@@ -47,9 +52,9 @@ def one(it):
 
 if __name__ == "__main__":
     todo = [it for it in items() if not os.path.exists(it[3])]
-    log(f"relations batch: {len(todo)} to run, {N} at a time")
+    log(f"relations batch {LABEL}: {len(todo)} to run, {N} at a time")
     results = {}
     with ThreadPoolExecutor(max_workers=N) as ex:
         for status in ex.map(one, todo):
             results[status] = results.get(status, 0) + 1
-    log(f"relations batch finished: {results}")
+    log(f"relations batch {LABEL} finished: {results}")
