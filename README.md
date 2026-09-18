@@ -40,6 +40,12 @@ are strictly within one pantheon; the 1,765 cross-pantheon mentions sit in `pant
 as raw material only, since bridges between pantheons are chosen deliberately, not merged. Name
 resolution: exact, then `pantheon/ALIASES.json`, then a close-spelling match within the same folder.
 
+**Hero-to-god relations** (2026-09-18, `tools/build_hero_god.py`): for every tradition with both a
+heroes folder and a pantheon folder (biblical and arabic heroes map to the abrahamic gods), the
+relations of its heroes with its gods: `heroes/<tradition>/_gods.md` (each hero's gods, each god's
+heroes), `_gods.csv` (heroes × gods), `_gods.json`, and on the gods' side `pantheon/<tradition>/_heroes.md`.
+1,615 relations in 22 traditions; the 89 that cross traditions are parked in `heroes/_hero_god_cross.md`.
+
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
 pointers; writes `briefs/`), and `batch_progress.log` (the run record). Sets built before the
