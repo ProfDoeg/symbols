@@ -1,0 +1,36 @@
+{
+ "heroes_folder": "guarani",
+ "gods_folder": "guarani",
+ "relations": [
+  {
+   "hero": "anahi",
+   "god": "tupa",
+   "kind": "other",
+   "myth": "Anahí prays during her execution",
+   "note": "In some modern variants, Anahí sings or prays to Tupã, who hears her.",
+   "source": "Modern school and religious retellings",
+   "date": "Late 20th–21st century",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "anahi",
+   "god": "tupa",
+   "kind": "transformed_by",
+   "myth": "Transformation into the ceibo",
+   "note": "Some modern variants say Tupã transforms Anahí into the ceibo.",
+   "source": "Modern school and religious retellings",
+   "date": "Late 20th–21st century",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "irupe",
+   "god": "tupa",
+   "kind": "transformed_by",
+   "myth": "Tupá transforms the drowned moon-lover",
+   "note": "Tupá pities the drowned lover and changes her or him into irupé.",
+   "source": "Perlotti-associated legend; Casullo",
+   "date": "1939; 1957",
+   "tier": "syncretism"
+  }
+ ]
+}

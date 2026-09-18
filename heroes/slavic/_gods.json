@@ -1,0 +1,156 @@
+{
+ "heroes_folder": "slavic",
+ "gods_folder": "slavic",
+ "relations": [
+  {
+   "hero": "alyosha_popovich",
+   "god": "perun",
+   "kind": "other",
+   "myth": "Alyosha appeals to Perun",
+   "note": "Alyosha appeals to Perun in Radishchev’s modern literary reconstruction.",
+   "source": "Alyosha Popovich: A Bogatyr Poem",
+   "date": "1801",
+   "tier": "modern"
+  },
+  {
+   "hero": "dobrynya_nikitich",
+   "god": "perun",
+   "kind": "other",
+   "myth": "Establishment of Perun’s idol at Novgorod",
+   "note": "The historical Dobrynya establishes Perun’s idol above the Volkhov.",
+   "source": "Primary Chronicle",
+   "date": "compiled c. 1110s",
+   "tier": "attested"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "baba_yaga",
+   "kind": "taught_by",
+   "myth": "Ivan's search for his wife",
+   "note": "Baba Yaga tests, feeds, directs, or equips Ivan during several quests.",
+   "source": "Afanasyev tale variants",
+   "date": "1855–63",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "koschei",
+   "kind": "killed",
+   "myth": "Koschei's external death",
+   "note": "Ivan obtains and crushes the egg containing Koschei's external life.",
+   "source": "Afanasyev Koschei the Deathless",
+   "date": "1855–63",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "koschei",
+   "kind": "killed",
+   "myth": "Ivan's final rescue of Marya",
+   "note": "Ivan kills Koschei in combat, then burns and disperses his remains.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "koschei",
+   "kind": "killed",
+   "myth": "The Firebird ballet",
+   "note": "Ivan destroys Koschei's external life with the Firebird's assistance.",
+   "source": "Fokine-Stravinsky The Firebird",
+   "date": "1910",
+   "tier": "modern"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "koschei",
+   "kind": "killed_by",
+   "myth": "Koschei kills Ivan",
+   "note": "Koschei kills, dismembers, barrels, and casts away Ivan after repeated escapes.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "hero": "ivan_tsarevich",
+   "god": "koschei",
+   "kind": "rescued",
+   "myth": "Ivan releases chained Koschei",
+   "note": "Ivan gives the imprisoned Koschei water, restoring his supernatural strength.",
+   "source": "Afanasyev no. 159",
+   "date": "1855–63",
+   "tier": "attested"
+  },
+  {
+   "hero": "marya_morevna",
+   "god": "koschei",
+   "kind": "consort_of",
+   "myth": "Marya becomes Koschei’s bride",
+   "note": "Valente deliberately reimagines Marya as Koschei’s bride and principal consciousness.",
+   "source": "Valente, Deathless",
+   "date": "2011",
+   "tier": "modern"
+  },
+  {
+   "hero": "marya_morevna",
+   "god": "koschei",
+   "kind": "deceived",
+   "myth": "Secret of Koschei’s horse",
+   "note": "Marya questions Koschei, learns his horse’s origin, and secretly informs Ivan.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "hero": "marya_morevna",
+   "god": "koschei",
+   "kind": "fought",
+   "myth": "Koschei’s imprisonment",
+   "note": "Marya captures Koschei and keeps him suspended on twelve chains.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "hero": "marya_morevna",
+   "god": "koschei",
+   "kind": "other",
+   "myth": "Koschei abducts Marya",
+   "note": "After escaping his chains, Koschei abducts and forcibly confines Marya.",
+   "source": "Afanasyev, “Marya Morevna”",
+   "date": "commonly dated 1857",
+   "tier": "attested"
+  },
+  {
+   "hero": "vasilisa",
+   "god": "baba_yaga",
+   "kind": "gift",
+   "myth": "Gift of the skull-fire",
+   "note": "Baba Yaga gives Vasilisa a glowing skull after she passes the tests.",
+   "source": "Afanasyev no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "hero": "vasilisa",
+   "god": "baba_yaga",
+   "kind": "served",
+   "myth": "Baba Yaga’s impossible domestic tasks",
+   "note": "Vasilisa performs household labor and grain-sorting to obtain fire.",
+   "source": "Afanasyev no. 104",
+   "date": "1855–1863",
+   "tier": "attested"
+  },
+  {
+   "hero": "volkh_vseslavyevich",
+   "god": "veles",
+   "kind": "child_of",
+   "myth": "Serpent conception",
+   "note": "Mythological reconstruction identifies Volkh’s serpent father as Veles in serpent form.",
+   "source": "Modern mythological reconstruction",
+   "date": "modern",
+   "tier": "syncretism"
+  }
+ ]
+}

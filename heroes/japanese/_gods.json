@@ -1,0 +1,186 @@
+{
+ "heroes_folder": "japanese",
+ "gods_folder": "japanese",
+ "relations": [
+  {
+   "hero": "abe_no_seimei",
+   "god": "inari",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Shrine and folk traditions identify Seimei as Inari's incarnation or beneficiary.",
+   "source": "shrine and folk traditions",
+   "date": "late tradition",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "empress_jingu",
+   "god": "hachiman",
+   "kind": "parent_of",
+   "myth": "",
+   "note": "After Ōjin's identification with Hachiman, Jingū becomes Hachiman's sacred mother.",
+   "source": "Hachiman cult records",
+   "date": "eighth century onward",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "empress_jingu",
+   "god": "hachiman",
+   "kind": "shared_myth",
+   "myth": "Hachiman sacred triad",
+   "note": "Medieval cult doctrine places Jingū beside Hachiman in a divine triad.",
+   "source": "Medieval Hachiman texts",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "hero": "empress_jingu",
+   "god": "ryujin",
+   "kind": "gift",
+   "myth": "Tide-jewel conquest",
+   "note": "The dragon ruler lends or gives Jingū the ebb and flood jewels.",
+   "source": "Medieval Hachiman literature",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "empress_jingu",
+   "god": "toyotama_hime",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Some later local traditions make the sea-connected maternal figures sisters.",
+   "source": "Medieval and local traditions",
+   "date": "medieval and later",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "issun_boshi",
+   "god": "amaterasu",
+   "kind": "allied",
+   "myth": "Issun travels as Amaterasu’s companion",
+   "note": "The game reinvents Issun as a tiny wandering artist who accompanies Amaterasu.",
+   "source": "Capcom, Ōkami",
+   "date": "2006",
+   "tier": "modern"
+  },
+  {
+   "hero": "jimmu",
+   "god": "amaterasu",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Jimmu belongs to her heavenly imperial lineage.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "hero": "jimmu",
+   "god": "amaterasu",
+   "kind": "rescued_by",
+   "myth": "Heavenly guidance during the eastern expedition",
+   "note": "She communicates protective guidance and sends Yatagarasu in the Nihon shoki.",
+   "source": "Nihon shoki",
+   "date": "720",
+   "tier": "attested"
+  },
+  {
+   "hero": "jimmu",
+   "god": "ryujin",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Watatsumi is Jimmu's maternal great-grandfather.",
+   "source": "Kojiki; Nihon shoki",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "hero": "jimmu",
+   "god": "takemikazuchi",
+   "kind": "rescued_by",
+   "myth": "Divine sword revives Jimmu's army at Kumano",
+   "note": "He sends his land-subduing sword through Takakuraji instead of descending personally.",
+   "source": "Kojiki; Nihon shoki tradition",
+   "date": "712; 720",
+   "tier": "attested"
+  },
+  {
+   "hero": "kintaro",
+   "god": "hachiman",
+   "kind": "allied",
+   "myth": "Divine aid for the Shuten-dōji expedition",
+   "note": "Kintoki accompanies the party seeking Hachiman’s supernatural assistance.",
+   "source": "Ōeyama ekotoba",
+   "date": "late 14th–early 15th c.",
+   "tier": "canonical"
+  },
+  {
+   "hero": "kintaro",
+   "god": "raijin_and_fujin",
+   "kind": "child_of",
+   "myth": "Raijin fathers Kintarō",
+   "note": "Recent popular accounts call Raijin his father without a secure early source.",
+   "source": "recent popular circulation",
+   "date": "modern",
+   "tier": "modern"
+  },
+  {
+   "hero": "tawara_toda",
+   "god": "hachiman",
+   "kind": "allied",
+   "myth": "Prayer before the decisive centipede arrow",
+   "note": "Hidesato invoked Hachiman before firing the arrow that killed the giant centipede.",
+   "source": "Tawara Tōda monogatari",
+   "date": "Muromachi–Edo",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "urashima_taro",
+   "god": "benzaiten",
+   "kind": "consort_of",
+   "myth": "Regional longevity test",
+   "note": "Regional tales identify Urashima’s otherworldly wife with Benzaiten, who tests him using the box.",
+   "source": "Regional oral and shrine traditions",
+   "date": "modern records",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "urashima_taro",
+   "god": "ebisu",
+   "kind": "contest",
+   "myth": "Otohime chooses Ebisu",
+   "note": "Urashima loses Otohime to the wealthier Ebisu in a comic theatrical parody.",
+   "source": "Shūgen Urashima dai",
+   "date": "1831",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "urashima_taro",
+   "god": "toyotama_hime",
+   "kind": "consort_of",
+   "myth": "Modern shrine identification",
+   "note": "Certain shrines and tourist narratives equate Urashima’s Dragon Palace princess with Toyotama-hime.",
+   "source": "Modern shrine and tourist narratives",
+   "date": "modern",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "yamato_takeru",
+   "god": "okuninushi",
+   "kind": "other",
+   "myth": "Takebe Taisha co-enshrinement",
+   "note": "Later shrine tradition co-enshrines Ōnamuchi with Yamato Takeru after relocation.",
+   "source": "Takebe Taisha tradition",
+   "date": "later shrine tradition",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yamato_takeru",
+   "god": "tsukuyomi",
+   "kind": "fought",
+   "myth": "Climactic conflict with Tsukuyomi",
+   "note": "The 1994 Toho fantasy film invents a personal conflict between them.",
+   "source": "Yamato Takeru film",
+   "date": "1994",
+   "tier": "modern"
+  }
+ ]
+}

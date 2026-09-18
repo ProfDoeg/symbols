@@ -1,0 +1,726 @@
+{
+ "heroes_folder": "roman",
+ "gods_folder": "roman",
+ "relations": [
+  {
+   "hero": "aeneas_hero",
+   "god": "cupid",
+   "kind": "allied",
+   "myth": "Dido's divinely induced passion",
+   "note": "Disguised as Ascanius, Cupid inflames Dido while embracing Aeneas.",
+   "source": "Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "cybele_magna_mater",
+   "kind": "gift",
+   "myth": "Building the Trojan fleet",
+   "note": "Cybele supplies sacred Trojan timber used for Aeneas's ships.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "cybele_magna_mater",
+   "kind": "transformed",
+   "myth": "Transformation of the ships",
+   "note": "Cybele transforms Aeneas's threatened ships into sea nymphs.",
+   "source": "Aeneid 9–10",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "juno",
+   "kind": "other",
+   "myth": "Reconciliation of Trojans and Latins",
+   "note": "Juno accepts Aeneas's settlement if Trojan identity merges into Latin.",
+   "source": "Aeneid 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "juno",
+   "kind": "punished_by",
+   "myth": "Persecution of the Trojans",
+   "note": "Juno persecutes Aeneas because of Troy, Carthage, and Paris's judgment.",
+   "source": "Aeneid 1–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "jupiter",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Aeneas descends from Zeus through Dardanus and the Assaracid line.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Destiny of the Dardanids",
+   "note": "Zeus's providential order guarantees the survival and future rule of Aeneas's dynasty.",
+   "source": "Iliad 20",
+   "date": "ca. 700 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Italian mission",
+   "note": "Jupiter repeatedly confirms and directs Aeneas's destined settlement in Italy.",
+   "source": "Aeneid 1, 10, 12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "jupiter",
+   "kind": "transformed_by",
+   "myth": "Apotheosis as Indiges",
+   "note": "Jupiter approves Venus's request that Aeneas be admitted among the gods.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "completed 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "mars",
+   "kind": "gift",
+   "myth": "Dedication of Mezentius's spoils",
+   "note": "Aeneas dedicates the slain Mezentius's armor and spoils to Mars.",
+   "source": "Aeneid 11",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "penates",
+   "kind": "rescued",
+   "myth": "Flight from Troy",
+   "note": "Aeneas saves and transports Troy's ancestral gods during his escape.",
+   "source": "Aeneid 2–3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "aeneas_hero",
+   "god": "penates",
+   "kind": "taught_by",
+   "myth": "Dream in Crete",
+   "note": "The Penates appear in a dream and direct Aeneas toward his destined settlement.",
+   "source": "Aeneid 3",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "cupid",
+   "kind": "deceived_by",
+   "myth": "Cupid impersonates Ascanius at Dido’s banquet",
+   "note": "Cupid assumes Ascanius’s form, gifts, and social place while the boy sleeps.",
+   "source": "Virgil, Aeneid 1.657–722",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "juno",
+   "kind": "punished_by",
+   "myth": "The tame stag and outbreak of war",
+   "note": "Juno indirectly endangers Ascanius by having Allecto turn his hunt into war.",
+   "source": "Virgil, Aeneid 7",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "jupiter",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Julian genealogy traces Ascanius’s Trojan ancestry remotely to Jupiter.",
+   "source": "Virgil, Aeneid 1",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "jupiter",
+   "kind": "gift",
+   "myth": "Confirmation of the flame omen",
+   "note": "Jupiter confirms the omen over Ascanius with thunder and a blazing star.",
+   "source": "Virgil, Aeneid 2.687–704",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "jupiter",
+   "kind": "shared_myth",
+   "myth": "Ascanius kills Numanus Remulus",
+   "note": "Ascanius prays to Jupiter before firing the arrow that kills Numanus.",
+   "source": "Virgil, Aeneid 9.621–637",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "mercury",
+   "kind": "shared_myth",
+   "myth": "Mercury warns Aeneas at Carthage",
+   "note": "Mercury invokes Ascanius’s owed Italian kingdom while warning Aeneas to depart.",
+   "source": "Virgil, Aeneid 4.265–276",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ascanius",
+   "god": "vediovis",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholarship tentatively identifies the Julian god Vediovis with a deified Iulus.",
+   "source": "CIL XIV 2387 and Weinstock",
+   "date": "modern reconstruction",
+   "tier": "modern"
+  },
+  {
+   "hero": "camilla",
+   "god": "diana",
+   "kind": "served",
+   "myth": "Camilla's dedication to Diana",
+   "note": "Metabus dedicates Camilla to Diana, whose devoted virgin servant she remains.",
+   "source": "Virgil, Aeneid 11.532–596",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "cloelia",
+   "god": "vulcan",
+   "kind": "other",
+   "myth": "Shield of Aeneas",
+   "note": "Vulcan makes the shield bearing a representation of Cloelia’s escape.",
+   "source": "Virgil, Aeneid 8.370–453, 625–731",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "cumaean_sibyl",
+   "god": "proserpina",
+   "kind": "gift",
+   "myth": "Offering of the golden bough",
+   "note": "Under the Sibyl’s direction, Aeneas deposits Proserpina’s sacred bough at her threshold.",
+   "source": "Virgil, Aeneid 6.138–148, 636",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "cumaean_sibyl",
+   "god": "venus",
+   "kind": "allied",
+   "myth": "Discovery of the golden bough",
+   "note": "Venus indirectly assists the Sibyl’s mission by sending doves to guide Aeneas.",
+   "source": "Virgil, Aeneid 6.190–211",
+   "date": "c. 29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "evander",
+   "god": "carmenta",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Carmenta is Evander’s prophetic mother in the Romanized divine genealogy.",
+   "source": "Dionysius, Roman Antiquities 1.31",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "evander",
+   "god": "carmenta",
+   "kind": "child_of",
+   "myth": "Evander’s exile from Arcadia",
+   "note": "His prophetic mother accompanies, consoles, and guides him during exile.",
+   "source": "Ovid, Fasti 1.461–540",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "evander",
+   "god": "carmenta",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "One alternative tradition makes Carmenta Evander’s wife rather than mother.",
+   "source": "Plutarch, Roman Questions 56",
+   "date": "c. 100 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "evander",
+   "god": "ceres",
+   "kind": "created",
+   "myth": "Foundation of Greek rites",
+   "note": "Evander’s Arcadians establish her wine-free rites served by women.",
+   "source": "Dionysius, Roman Antiquities 1.33.1",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "evander",
+   "god": "consus",
+   "kind": "identified_with",
+   "myth": "Arcadian explanation of the Consualia",
+   "note": "Consus’s Roman festival is equated with the Arcadian equestrian rite.",
+   "source": "Dionysius, Roman Antiquities 1.33.2",
+   "date": "20s BCE",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "evander",
+   "god": "faunus",
+   "kind": "gift",
+   "myth": "Evander’s settlement in Latium",
+   "note": "Faunus receives Evander’s colonists hospitably and grants them land.",
+   "source": "Dionysius, Roman Antiquities 1.31.2",
+   "date": "20s BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "evander",
+   "god": "mercury",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Romanized genealogy names Mercury as Evander’s father.",
+   "source": "Origo gentis Romanae 5",
+   "date": "fourth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "horatius_cocles",
+   "god": "vulcan",
+   "kind": "other",
+   "myth": "Statue transferred to Vulcan’s precinct",
+   "note": "Cocles’ statue is placed in Vulcan’s precinct after a lightning prodigy.",
+   "source": "Gellius, Attic Nights 4.5",
+   "date": "second century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "horatius_cocles",
+   "god": "vulcan",
+   "kind": "shared_myth",
+   "myth": "Cocles depicted on Vulcan-forged shield",
+   "note": "Vulcan forges Aeneas’ shield bearing Cocles’ future bridge defense.",
+   "source": "Virgil, Aeneid 8.626–651",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "lavinia",
+   "god": "faunus",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Lavinia is Faunus’ granddaughter through her father Latinus.",
+   "source": "Virgil, Aeneid 7.81–106",
+   "date": "late first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "marcus_curtius",
+   "god": "jupiter",
+   "kind": "served",
+   "myth": "Jupiter demands Rome's greatest good",
+   "note": "Jupiter requires Rome's greatest good, which Curtius supplies through self-sacrifice.",
+   "source": "Pseudo-Plutarch, Parallela minora 5",
+   "date": "imperial period",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "marcus_curtius",
+   "god": "manes",
+   "kind": "served",
+   "myth": "Consecration before the leap",
+   "note": "Curtius extends his hands downward and consecrates his life to them.",
+   "source": "Livy, Ab urbe condita 7.6",
+   "date": "late 1st c. BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "nisus_and_euryalus",
+   "god": "diana",
+   "kind": "other",
+   "myth": "Nisus attacks Euryalus’ captors",
+   "note": "Nisus prays to her to guide his missiles; both throws strike.",
+   "source": "Virgil, Aeneid 9.396–415",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nisus_and_euryalus",
+   "god": "fortuna",
+   "kind": "other",
+   "myth": "Nisus considers his possible death",
+   "note": "Nisus personifies Fortune as potentially preventing Euryalus from burying him.",
+   "source": "Virgil, Aeneid 9.211–213",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nisus_and_euryalus",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Invocation before the night mission",
+   "note": "Nisus invokes Jupiter or any god favoring his plan; none visibly intervenes.",
+   "source": "Virgil, Aeneid 9.208",
+   "date": "ca. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "pallas",
+   "god": "carmenta",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Carmenta is Pallas’s grandmother through her son Evander.",
+   "source": "Virgilian Roman genealogy",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "pallas",
+   "god": "carmenta",
+   "kind": "other",
+   "myth": "Carmenta foretells Pallas’s death",
+   "note": "Carmenta prophetically warns her grandson about his fatal armor and coming avenger.",
+   "source": "Ovid, Fasti 1.519–524",
+   "date": "c. 2–8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pallas",
+   "god": "jupiter",
+   "kind": "judged_by",
+   "myth": "Jupiter declares Pallas’s fate",
+   "note": "Jupiter tells Heracles that Pallas’s appointed day cannot be altered.",
+   "source": "Virgil, Aeneid 10.464–473",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "pallas",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Pallas and Lausus separated",
+   "note": "Jupiter prevents their duel because both youths are destined for greater opponents.",
+   "source": "Virgil, Aeneid 10.426–438",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "pallas",
+   "god": "mercury",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "The Roman genealogy makes Mercury Pallas’s great-grandfather through Carmenta and Evander.",
+   "source": "Virgilian Roman genealogy",
+   "date": "c. 29–19 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "regulus",
+   "god": "fortuna",
+   "kind": "contest",
+   "myth": "Regulus overcomes Fortune through endurance",
+   "note": "Seneca portrays Regulus as morally victorious over Fortune through steadfast suffering.",
+   "source": "Seneca, De providentia 3",
+   "date": "mid-first century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "regulus",
+   "god": "fortuna",
+   "kind": "punished_by",
+   "myth": "Reversal after Regulus's African successes",
+   "note": "Fortune overturns Regulus's success after his arrogant peace demands.",
+   "source": "Polybius, Histories 1.35",
+   "date": "c. 150–140 BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "regulus",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Regulus keeps his oath to Carthage",
+   "note": "Jupiter implicitly guarantees the enemy oath that compels Regulus to return.",
+   "source": "Cicero, De officiis 3",
+   "date": "44 BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "regulus",
+   "god": "vesta",
+   "kind": "shared_myth",
+   "myth": "Contrast between captives and Regulus",
+   "note": "Horace contrasts captive Romans' forgetfulness of Vesta with Regulus's fidelity.",
+   "source": "Horace, Odes 3.5",
+   "date": "23 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "consus",
+   "kind": "other",
+   "myth": "Games and abduction of the women",
+   "note": "Romulus stages Consus’ games as the occasion for abducting neighboring women.",
+   "source": "Livy 1.9; Plutarch 14",
+   "date": "first century BCE–second CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "faunus",
+   "kind": "shared_myth",
+   "myth": "Lupercal and Lupercalia",
+   "note": "Faunus shares the Lupercalian cult setting later connected with the twins.",
+   "source": "Antiquarian Roman tradition",
+   "date": "late Republican–imperial",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "juno",
+   "kind": "gift",
+   "myth": "Hersilia’s translation",
+   "note": "Juno arranges for Hersilia to join the deified Romulus.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "jupiter",
+   "kind": "gift",
+   "myth": "Romulus’ apotheosis",
+   "note": "Jupiter fulfills his promise and authorizes Romulus’ admission among the gods.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "jupiter",
+   "kind": "gift",
+   "myth": "Dedication of Acron’s armor",
+   "note": "Romulus dedicates Acron’s armor and a temple to Jupiter Feretrius.",
+   "source": "Livy 1.10; Dionysius 2.34",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "jupiter",
+   "kind": "gift",
+   "myth": "Vow during the Sabine battle",
+   "note": "Romulus vows a temple; Jupiter Stator halts the Romans’ flight.",
+   "source": "Livy 1.12; Dionysius 2.50",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "jupiter",
+   "kind": "judged_by",
+   "myth": "Rival augury for Rome",
+   "note": "Jupiter’s vultures communicate divine approval during the brothers’ disputed augury.",
+   "source": "Livy 1.6–7; Dionysius 1.86",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "mars",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Mars fathers Romulus and Remus with Rhea Silvia.",
+   "source": "Livy 1.4; Dionysius 1.76–79",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "mars",
+   "kind": "other",
+   "myth": "Romulus’ translation to heaven",
+   "note": "Mars carries Romulus to heaven or obtains his divine admission.",
+   "source": "Ovid, Metamorphoses 14",
+   "date": "about 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "quirinus",
+   "kind": "identified_with",
+   "myth": "Romulus’ disappearance and apotheosis",
+   "note": "After disappearing, Romulus is identified with the older Roman god Quirinus.",
+   "source": "Cicero; Livy 1.16; Ovid",
+   "date": "late Republic onward",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "romulus_and_remus",
+   "god": "vesta",
+   "kind": "other",
+   "myth": "Rhea Silvia’s Vestal service",
+   "note": "The twins’ mother Rhea Silvia serves as Vesta’s priestess.",
+   "source": "Livy 1.3–4; Dionysius 1.76",
+   "date": "first century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "juno",
+   "kind": "allied",
+   "myth": "Divine opening of the Sabine gate",
+   "note": "After Tarpeia admits the Sabines, Juno unbars the gate supporting their assault.",
+   "source": "Ovid, Fasti 1.259–276",
+   "date": "Augustan era",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Capture of Jupiter's ancient threshold",
+   "note": "Tarpeia's betrayal enables the Sabines to capture Jupiter's ancient threshold.",
+   "source": "Propertius, Elegies 4.4.1–2",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "jupiter",
+   "kind": "other",
+   "myth": "Removal of Tarpeia's bones",
+   "note": "Dedication of the hill to Jupiter causes Tarpeia's bones to be removed.",
+   "source": "Plutarch, Romulus 18",
+   "date": "late 1st–early 2nd century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "silvanus",
+   "kind": "shared_myth",
+   "myth": "Water gathering in Silvanus's grove",
+   "note": "Tarpeia draws ritual water from a spring in Silvanus's branching house.",
+   "source": "Propertius, Elegies 4.4.3–16",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "venus",
+   "kind": "shared_myth",
+   "myth": "Divine defense against the Sabines",
+   "note": "After Tarpeia's betrayal, Venus enlists nymphs to flood the Sabines' path.",
+   "source": "Ovid, Metamorphoses 14.775–804",
+   "date": "c. 8 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "vesta",
+   "kind": "other",
+   "myth": "Tarpeia betrays her Vestal office",
+   "note": "Tarpeia's desire and betrayal violate Vesta's sacred fire and her Vestal duties.",
+   "source": "Propertius, Elegies 4.4",
+   "date": "c. 16 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "tarpeia",
+   "god": "vesta",
+   "kind": "served",
+   "myth": "Tarpeia fetches ritual water",
+   "note": "As a Vestal, Tarpeia fetches water and tends obligations associated with Vesta.",
+   "source": "Varro, De lingua Latina 5.41",
+   "date": "mid-1st century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "cybele_magna_mater",
+   "kind": "contest",
+   "myth": "Burning of the Trojan fleet",
+   "note": "Turnus tries to burn Cybele’s sacred ships, but they transform into sea-nymphs.",
+   "source": "Virgil, Aeneid 9.77–122",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "faunus",
+   "kind": "other",
+   "myth": "Spear lodged in Faunus’s sacred olive",
+   "note": "Turnus prays to Faunus when Aeneas’s spear lodges in the god’s sacred wild olive.",
+   "source": "Virgil, Aeneid 12.766–87",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "juno",
+   "kind": "allied",
+   "myth": "Juno sponsors Turnus’s resistance",
+   "note": "Juno supports Turnus through Allecto, Iris, Juturna, and repeated interventions against Aeneas.",
+   "source": "Virgil, Aeneid 7–12",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "juno",
+   "kind": "rescued_by",
+   "myth": "Phantom Aeneas and the departing ship",
+   "note": "Juno lures Turnus aboard ship with a phantom Aeneas and carries him safely to Ardea.",
+   "source": "Virgil, Aeneid 10.606–88",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "jupiter",
+   "kind": "judged_by",
+   "myth": "Divine settlement of Turnus’s fate",
+   "note": "Jupiter refuses to alter Turnus’s fate, ends Juno’s resistance, and sanctions the final settlement.",
+   "source": "Virgil, Aeneid 10.607–32; 12.791–842",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "venus",
+   "kind": "other",
+   "myth": "Venus heals Aeneas",
+   "note": "Venus heals Aeneas’s wound, enabling him to resume his pursuit of Turnus.",
+   "source": "Virgil, Aeneid 12.411–24",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "turnus",
+   "god": "vulcan",
+   "kind": "other",
+   "myth": "Turnus’s borrowed sword breaks",
+   "note": "Turnus’s borrowed sword shatters when he strikes armor forged by Vulcan for Aeneas.",
+   "source": "Virgil, Aeneid 8.370–453; 12.728–41",
+   "date": "29–19 BCE",
+   "tier": "canonical"
+  }
+ ]
+}

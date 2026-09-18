@@ -1,0 +1,396 @@
+{
+ "heroes_folder": "celtic",
+ "gods_folder": "celtic",
+ "relations": [
+  {
+   "hero": "cu_chulainn",
+   "god": "lugh",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Lug claims divine paternity in one supernatural conception tradition.",
+   "source": "Compert Con Culainn",
+   "date": "eighth–ninth century core",
+   "tier": "attested"
+  },
+  {
+   "hero": "cu_chulainn",
+   "god": "lugh",
+   "kind": "rescued_by",
+   "myth": "Lug heals and aids Cú Chulainn",
+   "note": "Lug appears during the campaign to heal or assist his wounded son.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "hero": "cu_chulainn",
+   "god": "manannan",
+   "kind": "other",
+   "myth": "Manannán separates Fand and Cú Chulainn",
+   "note": "Manannán shakes his cloak between the lovers so they can never meet again.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "cu_chulainn",
+   "god": "morrigan",
+   "kind": "fought",
+   "myth": "Animal attacks during Lóch's combat",
+   "note": "She attacks as eel, wolf, and heifer; Cú Chulainn wounds each form.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "hero": "cu_chulainn",
+   "god": "morrigan",
+   "kind": "other",
+   "myth": "Prophetic encounter with the Morrígan",
+   "note": "The disguised Morrígan encounters, threatens, and prophetically warns Cú Chulainn.",
+   "source": "Táin Bó Regamna",
+   "date": "early medieval",
+   "tier": "attested"
+  },
+  {
+   "hero": "cu_chulainn",
+   "god": "morrigan",
+   "kind": "rescued",
+   "myth": "Healing the disguised Morrígan",
+   "note": "His blessings unknowingly heal her wounds while she appears as an old milkmaid.",
+   "source": "Táin Bó Cúailnge",
+   "date": "seventh–ninth-century strata",
+   "tier": "attested"
+  },
+  {
+   "hero": "culhwch",
+   "god": "rhiannon",
+   "kind": "shared_myth",
+   "myth": "Impossible tasks",
+   "note": "Rhiannon’s wonder-working birds are demanded, but Culhwch never meets her.",
+   "source": "Culhwch ac Olwen",
+   "date": "late 11th–12th century",
+   "tier": "attested"
+  },
+  {
+   "hero": "diarmuid_and_grainne",
+   "god": "donn",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Fenian genealogies sometimes name Donn as Diarmaid’s father.",
+   "source": "Later Fenian genealogical tradition",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "emer",
+   "god": "manannan",
+   "kind": "other",
+   "myth": "Separation of Fand and Cú Chulainn",
+   "note": "Manannán removes Fand and permanently separates her from Emer’s husband.",
+   "source": "Serglige Con Culainn",
+   "date": "ninth–eleventh centuries",
+   "tier": "attested"
+  },
+  {
+   "hero": "etain",
+   "god": "dagda",
+   "kind": "served_by",
+   "myth": "Bride-service for Midir",
+   "note": "The Dagda supplies supernatural labor enabling Óengus to obtain Étaín for Midir.",
+   "source": "Tochmarc Étaíne I",
+   "date": "early material; witness c. 1100",
+   "tier": "attested"
+  },
+  {
+   "hero": "fergus_mac_roich",
+   "god": "dagda",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Modern scholars propose Fergus as a euhemerized deity or epic reflex of the Dagda.",
+   "source": "O’Rahilly and comparative studies",
+   "date": "twentieth–twenty-first centuries",
+   "tier": "modern"
+  },
+  {
+   "hero": "finn_mac_cumhaill",
+   "god": "manannan",
+   "kind": "gift",
+   "myth": "Otherworld magical gifts",
+   "note": "Developed traditions associate Finn’s encounters with gifts from Manannán.",
+   "source": "Acallam and later tales",
+   "date": "medieval–later",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "finn_mac_cumhaill",
+   "god": "manannan",
+   "kind": "shared_myth",
+   "myth": "Fenian otherworld encounters",
+   "note": "Finn encounters the otherworld ruler in developed Fenian narratives.",
+   "source": "Acallam and later tales",
+   "date": "medieval–later",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "finn_mac_cumhaill",
+   "god": "nuada",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Isolated later material makes the divine Nuada Finn’s ancestor.",
+   "source": "Genealogies and Acallam passage",
+   "date": "later medieval",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "medb",
+   "god": "bres",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Bres is one of Medb’s three brothers, the Trí Find Emna.",
+   "source": "Aided Meidbe",
+   "date": "twelfth-century witness",
+   "tier": "canonical"
+  },
+  {
+   "hero": "medb",
+   "god": "morrigan",
+   "kind": "shared_myth",
+   "myth": "Cow raid of Regamna",
+   "note": "Medb and Ailill encounter the Morrígan, her magical cow, and prophecy.",
+   "source": "Táin Bó Regamna",
+   "date": "Old Irish",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "arawn",
+   "kind": "allied",
+   "myth": "Exchange of shapes and kingdoms",
+   "note": "Pwyll substitutes for Arawn, defeats his rival, and becomes his enduring ally.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "arawn",
+   "kind": "gift",
+   "myth": "Pigs from Annwn",
+   "note": "Arawn sends the otherworld pigs that Pryderi later owns.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "bran_the_blessed",
+   "kind": "allied",
+   "myth": "Expedition to rescue Branwen",
+   "note": "Pryderi joins Bendigeidfran's Irish expedition and helps carry his severed head.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "branwen",
+   "kind": "shared_myth",
+   "myth": "Expedition to rescue Branwen",
+   "note": "Pryderi joins the expedition mounted after Branwen's abuse in Ireland.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "gwydion",
+   "kind": "deceived_by",
+   "myth": "The counterfeit barter for pigs",
+   "note": "Gwydion trades magically counterfeited animals and equipment for Pryderi's pigs.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "gwydion",
+   "kind": "fought",
+   "myth": "Single combat over the pigs",
+   "note": "Pryderi challenges Gwydion to settle their devastating war in single combat.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "gwydion",
+   "kind": "killed_by",
+   "myth": "Single combat over the pigs",
+   "note": "Gwydion kills Pryderi through martial strength, magic, and enchantment.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "gwydion",
+   "kind": "theft",
+   "myth": "The pigs of Annwn",
+   "note": "Gwydion obtains Pryderi's pigs through illusory barter and drives them north.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "manawydan",
+   "kind": "allied",
+   "myth": "Seven survivors and enchanted Dyfed",
+   "note": "Manawydan is Pryderi's fellow survivor, friend, guest, and eventual stepfather.",
+   "source": "Second and Third Branches",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "manawydan",
+   "kind": "gift",
+   "myth": "Pryderi grants Dyfed and Rhiannon",
+   "note": "Pryderi offers Manawydan the use of Dyfed and marriage to Rhiannon.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "manawydan",
+   "kind": "rescued_by",
+   "myth": "Release from Llwyd's enchantment",
+   "note": "Manawydan coerces Llwyd into releasing the magically imprisoned Pryderi.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "manawydan",
+   "kind": "shared_myth",
+   "myth": "Knowledge of Caer Siddi",
+   "note": "Pryderi and Manawydan are jointly associated with the otherworldly Caer Siddi.",
+   "source": "Song before the Sons of Llyr",
+   "date": "c. ninth–twelfth century",
+   "tier": "attested"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "math",
+   "kind": "fought",
+   "myth": "War over the stolen pigs",
+   "note": "Pryderi leads Dyfed against the northern host ruled by Math.",
+   "source": "Fourth Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "rhiannon",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Pryderi is Rhiannon's abducted and eventually restored son.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "rhiannon",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Pwyll follows Rhiannon's marriage plan and marries her after overcoming Gwawl.",
+   "source": "First Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "pwyll_and_pryderi",
+   "god": "rhiannon",
+   "kind": "shared_myth",
+   "myth": "Imprisonment in the enchanted fort",
+   "note": "Pryderi and Rhiannon are magically trapped together and later released.",
+   "source": "Third Branch of the Mabinogi",
+   "date": "c. 1050–1225",
+   "tier": "canonical"
+  },
+  {
+   "hero": "taliesin",
+   "god": "bran_the_blessed",
+   "kind": "shared_myth",
+   "myth": "Return from Ireland with Bran’s severed head",
+   "note": "Taliesin survives the catastrophe and accompanies Bran’s speaking head to Britain.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1120",
+   "tier": "canonical"
+  },
+  {
+   "hero": "taliesin",
+   "god": "ceridwen",
+   "kind": "child_of",
+   "myth": "Gwion’s swallowing and rebirth",
+   "note": "Ceridwen swallows Gwion, gestates him, and gives birth to Taliesin.",
+   "source": "Ystoria Taliesin",
+   "date": "1530–1552",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "taliesin",
+   "god": "ceridwen",
+   "kind": "contest",
+   "myth": "Transformation chase",
+   "note": "Taliesin as Gwion exchanges successive animal and vegetal forms while fleeing Ceridwen.",
+   "source": "Ystoria Taliesin",
+   "date": "1530–1552",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "taliesin",
+   "god": "ceridwen",
+   "kind": "other",
+   "myth": "Three drops of inspiration",
+   "note": "Gwion accidentally receives the wisdom intended to emerge from Ceridwen’s cauldron.",
+   "source": "Ystoria Taliesin",
+   "date": "1530–1552",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "taliesin",
+   "god": "gwydion",
+   "kind": "shared_myth",
+   "myth": "Taliesin’s prophetic and magical claims",
+   "note": "Taliesin invokes Gwydion and claims knowledge predating him.",
+   "source": "Book of Taliesin poems",
+   "date": "early fourteenth-century manuscript",
+   "tier": "attested"
+  },
+  {
+   "hero": "taliesin",
+   "god": "lleu",
+   "kind": "shared_myth",
+   "myth": "Journey to Lleu and Gwydion’s city",
+   "note": "Taliesin invokes Lleu in magical questions and says he will visit his city.",
+   "source": "Black Book dialogue",
+   "date": "mid-thirteenth century",
+   "tier": "attested"
+  },
+  {
+   "hero": "taliesin",
+   "god": "rhiannon",
+   "kind": "shared_myth",
+   "myth": "Feast at Harlech",
+   "note": "Taliesin and the other survivors listen to Rhiannon’s wondrous birds.",
+   "source": "Second Branch of the Mabinogi",
+   "date": "c. 1050–1120",
+   "tier": "canonical"
+  }
+ ]
+}

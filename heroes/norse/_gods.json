@@ -1,0 +1,436 @@
+{
+ "heroes_folder": "norse",
+ "gods_folder": "norse",
+ "relations": [
+  {
+   "hero": "bodvar_bjarki",
+   "god": "urd_verdandi_skuld",
+   "kind": "fought",
+   "myth": "Skuld’s rebellion",
+   "note": "Bödvar fights the supernatural army raised by Skuld against Hrólfr.",
+   "source": "Hrólfs saga kraka",
+   "date": "late 14th–early 15th century",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bodvar_bjarki",
+   "god": "urd_verdandi_skuld",
+   "kind": "killed_by",
+   "myth": "Skuld’s rebellion",
+   "note": "Bödvar dies during the night attack organized by Skuld.",
+   "source": "Hrólfs saga kraka",
+   "date": "late 14th–early 15th century",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dietrich_von_bern",
+   "god": "alberich",
+   "kind": "allied",
+   "myth": "Combat against Grim",
+   "note": "The dwarf Alfrikr assists Dietrich against Grim and supplies heroic equipment.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "dietrich_von_bern",
+   "god": "alberich",
+   "kind": "gift",
+   "myth": "Dietrich’s youthful giant combat",
+   "note": "Alfrikr provides equipment associated with Dietrich’s victory and heroic career.",
+   "source": "Þiðreks saga",
+   "date": "c. 1250",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "egil",
+   "god": "ran_and_daughters",
+   "kind": "shared_myth",
+   "myth": "Böðvarr's drowning",
+   "note": "Egil reproaches the sea powers associated with Rán for taking his son.",
+   "source": "Sonatorrek",
+   "date": "c. 930s–970s",
+   "tier": "attested"
+  },
+  {
+   "hero": "gunnar",
+   "god": "alberich",
+   "kind": "other",
+   "myth": "Wagnerian Gibichung household",
+   "note": "Alberich fathers Gunther's maternal half-brother Hagen, who manipulates and kills Gunther.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Brynhild becomes Gunnar's wife through Sigurd's deceptive surrogate wooing.",
+   "source": "Eddic cycle; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "contest",
+   "myth": "Spear, stone, and leaping trials",
+   "note": "Gunther appears to defeat Brunhild's deadly athletic trials using invisible Siegfried's strength.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "deceived",
+   "myth": "Wooing through the encircling fire",
+   "note": "Gunnar marries Brynhild after Sigurd crosses the fire disguised as him.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "deceived",
+   "myth": "Athletic courtship and wedding-night coercion",
+   "note": "Gunther obtains marriage and consummation through Siegfried's concealed assistance and force.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "deceived",
+   "myth": "Wagnerian surrogate wooing",
+   "note": "Gunther seeks Brünnhilde while Siegfried, disguised as Gunther, subdues and abducts her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "fought",
+   "myth": "First wedding night",
+   "note": "Brunhild overpowers Gunther, binds him, and hangs him from a wall peg.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "gunnar",
+   "god": "brynhild",
+   "kind": "punished_by",
+   "myth": "Demand for Sigurd's death",
+   "note": "Brynhild pressures Gunnar to arrange Sigurd's death after discovering the marriage fraud.",
+   "source": "Sigurðarkviða in skamma; Völsunga saga",
+   "date": "medieval",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "allied",
+   "myth": "Oath-brotherhood at Gjúki's court",
+   "note": "Sigurd swears brotherhood with Gunnar and Högni after joining their household.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "allied",
+   "myth": "Courtship bargain for Brunhild",
+   "note": "Gunther promises Kriemhild to Siegfried in exchange for help winning Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "deceived",
+   "myth": "Grímhild's potion and dynastic marriage",
+   "note": "Gunnar's household benefits when a potion makes Sigurd forget Brynhild and marry Guðrún.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "deceived",
+   "myth": "Hagen's potion and Brünnhilde's wooing",
+   "note": "Gunther participates after Hagen's potion makes Siegfried forget Brünnhilde and woo her.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "killed",
+   "myth": "Murder of Sigurd",
+   "note": "Unable to break his oath personally, Gunnar plans and authorizes Sigurd's killing.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "killed",
+   "myth": "Murder at the spring",
+   "note": "Gunther assents to Siegfried's murder, joins the false hunt, and conceals responsibility.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "killed",
+   "myth": "Wagnerian murder plot",
+   "note": "Gunther participates in Hagen's plot to murder Siegfried.",
+   "source": "Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "served_by",
+   "myth": "Wooing Brynhild through the flames",
+   "note": "Shape-changed Sigurd crosses Brynhild's fire in Gunnar's form and wins her.",
+   "source": "Völsunga saga",
+   "date": "c. 1250–1270",
+   "tier": "canonical"
+  },
+  {
+   "hero": "gunnar",
+   "god": "sigurd",
+   "kind": "served_by",
+   "myth": "Brunhild's athletic contest",
+   "note": "Invisible Siegfried supplies the strength while Gunther appears to defeat Brunhild.",
+   "source": "Nibelungenlied",
+   "date": "c. 1200",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "hagen",
+   "god": "alberich",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Hagen Alberich’s son, unlike every medieval tradition.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "hagen",
+   "god": "alberich",
+   "kind": "served",
+   "myth": "Winning the Ring",
+   "note": "Alberich commands Hagen to obtain the Ring for him.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "hagen",
+   "god": "rhinemaidens",
+   "kind": "contest",
+   "myth": "Hagen’s final Rhine-lunge",
+   "note": "Hagen lunges after the Ring; the Rhinemaidens reclaim it as he dies.",
+   "source": "Wagner, Götterdämmerung",
+   "date": "completed 1874",
+   "tier": "modern"
+  },
+  {
+   "hero": "helgi_hundingsbane",
+   "god": "valkyries",
+   "kind": "allied",
+   "myth": "Storm voyage and Frekasteinn battle",
+   "note": "The valkyries accompany Sigrún and protect Helgi’s fleet and army.",
+   "source": "HH I",
+   "date": "Codex Regius c. 1270",
+   "tier": "attested"
+  },
+  {
+   "hero": "hervor",
+   "god": "vidar",
+   "kind": "killed",
+   "myth": "Tirfing",
+   "note": "In the opera, Hervör kills the invented beloved Vidar.",
+   "source": "Stenhammar and Boberg, Tirfing",
+   "date": "1898",
+   "tier": "modern"
+  },
+  {
+   "hero": "hrolf_kraki",
+   "god": "urd_verdandi_skuld",
+   "kind": "fought",
+   "myth": "Skuld’s surprise attack at Lejre",
+   "note": "Skuld attacks Hrólfr with human and supernatural forces, using sorcery to cause his defeat.",
+   "source": "Hrólfs saga kraka",
+   "date": "fourteenth or fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "hrolf_kraki",
+   "god": "urd_verdandi_skuld",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Skuld is Hrólfr’s half-sister, born to Helgi and an elfin woman.",
+   "source": "Hrólfs saga kraka",
+   "date": "fourteenth or fifteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "sigmund",
+   "god": "frigg",
+   "kind": "other",
+   "myth": "Fertility apple sent to Rerir",
+   "note": "Frigg joins Odin in enabling the birth of Sigmund's father Völsung.",
+   "source": "Völsunga saga 2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sigmund",
+   "god": "odin",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Sigmund descends from Odin through Sigi, Rerir, and Völsung.",
+   "source": "Völsunga saga 1–2",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sigmund",
+   "god": "odin",
+   "kind": "fought",
+   "myth": "Sigmund's final battle",
+   "note": "Odin confronts Sigmund with his spear and shatters Sigmund's sword.",
+   "source": "Völsunga saga 11–12",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sigmund",
+   "god": "odin",
+   "kind": "gift",
+   "myth": "Sword placed in Barnstokkr",
+   "note": "Odin, disguised as a one-eyed stranger, plants the sword that Sigmund alone draws.",
+   "source": "Völsunga saga 2–3",
+   "date": "c. 1250–70",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sigmund",
+   "god": "odin",
+   "kind": "shared_myth",
+   "myth": "The ferryman takes Sinfjötli",
+   "note": "An unnamed ferryman, probably Odin, takes Sinfjötli's corpse from Sigmund and vanishes.",
+   "source": "Frá dauða Sinfjötla; Völsunga saga",
+   "date": "manuscript c. 1270",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "sigmund",
+   "god": "wagner_gods",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Wagner makes Siegmund a direct son of Wotan.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "hero": "sigmund",
+   "god": "wagner_gods",
+   "kind": "gift",
+   "myth": "Nothung planted in the ash tree",
+   "note": "Wotan plants Nothung for Siegmund to draw from the tree.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "hero": "sigmund",
+   "god": "wagner_gods",
+   "kind": "judged_by",
+   "myth": "Fricka condemns the twins' union",
+   "note": "Fricka condemns Siegmund's incest and compels Wotan to withdraw his protection.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "hero": "sigmund",
+   "god": "wagner_gods",
+   "kind": "punished_by",
+   "myth": "Wotan withdraws protection from Siegmund",
+   "note": "Wotan withdraws his protection, shatters Nothung, and enables Siegmund's death.",
+   "source": "Wagner, Die Walküre",
+   "date": "completed 1856",
+   "tier": "modern"
+  },
+  {
+   "hero": "starkad",
+   "god": "odin",
+   "kind": "gift",
+   "myth": "Divine assembly",
+   "note": "Disguised as Starkad’s foster-father, Odin grants lifetimes, victory, wealth, poetry, weapons and noble esteem.",
+   "source": "Gautreks saga; Gesta Danorum VI",
+   "date": "late 13th c.; c.1208–18",
+   "tier": "canonical"
+  },
+  {
+   "hero": "starkad",
+   "god": "odin",
+   "kind": "served",
+   "myth": "Víkar’s sacrifice",
+   "note": "Starkad dedicates Víkar to Odin by hanging and stabbing him.",
+   "source": "Gautreks saga; Gesta Danorum VI",
+   "date": "late 13th c.; c.1208–18",
+   "tier": "canonical"
+  },
+  {
+   "hero": "starkad",
+   "god": "thor",
+   "kind": "fought",
+   "myth": "Thor’s giant combats",
+   "note": "A praise-stanza lists Starkad among giants whom Thor struck or overcame.",
+   "source": "Vetrliði stanza in Skáldskaparmál",
+   "date": "late 10th c.?",
+   "tier": "attested"
+  },
+  {
+   "hero": "starkad",
+   "god": "thor",
+   "kind": "punished_by",
+   "myth": "Divine assembly",
+   "note": "Thor curses Starkad with crimes, wounds, poverty, dissatisfaction, lost poetry, popular hatred and childlessness.",
+   "source": "Gautreks saga",
+   "date": "late 13th c.",
+   "tier": "canonical"
+  },
+  {
+   "hero": "starkad",
+   "god": "thor",
+   "kind": "transformed_by",
+   "myth": "Removal of the extra arms",
+   "note": "Thor tears four arms from Saxo’s six-armed Starkad, leaving him human-shaped.",
+   "source": "Gesta Danorum VI",
+   "date": "c.1208–1218",
+   "tier": "canonical"
+  }
+ ]
+}

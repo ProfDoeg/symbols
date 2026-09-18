@@ -1,0 +1,376 @@
+{
+ "heroes_folder": "biblical",
+ "gods_folder": "abrahamic",
+ "relations": [
+  {
+   "hero": "adam",
+   "god": "gabriel",
+   "kind": "served_by",
+   "myth": "Angelic funeral of Adam",
+   "note": "Gabriel participates in Adam’s funeral or heavenly service in some later recensions.",
+   "source": "Life of Adam and Eve tradition",
+   "date": "first centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "adam",
+   "god": "lilith",
+   "kind": "consort_of",
+   "myth": "",
+   "note": "Medieval tradition makes Lilith Adam’s first wife before Eve.",
+   "source": "Alphabet of Ben Sira",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "adam",
+   "god": "lilith",
+   "kind": "contest",
+   "myth": "Dispute over sexual precedence",
+   "note": "Adam demands precedence; Lilith asserts equality, invokes the divine name, and leaves.",
+   "source": "Alphabet of Ben Sira",
+   "date": "eighth–tenth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "adam",
+   "god": "michael",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Latter-day Saint teachings identify Adam with the archangel Michael.",
+   "source": "Latter-day Saint revelations",
+   "date": "nineteenth century",
+   "tier": "modern"
+  },
+  {
+   "hero": "adam",
+   "god": "michael",
+   "kind": "served_by",
+   "myth": "Death and burial of Adam",
+   "note": "Michael leads angelic service at Adam’s death, burial, and promised restoration.",
+   "source": "Life of Adam and Eve",
+   "date": "first centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "adam",
+   "god": "raphael",
+   "kind": "shared_myth",
+   "myth": "Angelic service for Adam",
+   "note": "Raphael appears among named angels in portions of Adam literature; his role varies.",
+   "source": "Adam literature recensions",
+   "date": "first centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "adam",
+   "god": "sophia",
+   "kind": "rescued_by",
+   "myth": "Deliverance after transgression",
+   "note": "Wisdom protects and delivers the first-formed father after his transgression.",
+   "source": "Wisdom of Solomon 10:1–2",
+   "date": "turn of the era",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "cain_and_abel",
+   "god": "samael",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Later Gnostic and Jewish legends make the serpent-Samael Cain’s supernatural father.",
+   "source": "Gnostic and Jewish legends",
+   "date": "second century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "cain_and_abel",
+   "god": "sophia",
+   "kind": "rescued_by",
+   "myth": "Sophia rescues Cain’s higher spiritual element",
+   "note": "Reported Gnostic systems say Sophia rescues Cain’s higher element from the creator’s assault.",
+   "source": "Irenaeus and Sethian texts",
+   "date": "second century CE onward",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "cain_and_abel",
+   "god": "yaldabaoth",
+   "kind": "child_of",
+   "myth": "",
+   "note": "The Gnostic chief ruler fathers Cain through sexual violation of Eve.",
+   "source": "Apocryphon of John",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "cain_and_abel",
+   "god": "yaldabaoth",
+   "kind": "deceived_by",
+   "myth": "Yaldabaoth deceptively names his archontic offspring",
+   "note": "Yaldabaoth deceptively gives one of his generated rulers the name Cain.",
+   "source": "Apocryphon of John",
+   "date": "second–third centuries CE",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "daniel",
+   "god": "gabriel",
+   "kind": "taught_by",
+   "myth": "Interpretation of the ram and goat",
+   "note": "Gabriel explains Daniel’s vision of Media, Persia, Greece, and Antiochus.",
+   "source": "Daniel 8",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "daniel",
+   "god": "gabriel",
+   "kind": "taught_by",
+   "myth": "Revelation of the seventy weeks",
+   "note": "Gabriel explains the seventy-week timetable following Daniel’s prayer.",
+   "source": "Daniel 9",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "daniel",
+   "god": "michael",
+   "kind": "allied",
+   "myth": "Angelic conflict over Persia",
+   "note": "Michael protects Daniel’s people and assists the messenger bringing Daniel revelation.",
+   "source": "Daniel 10–12",
+   "date": "c. 167–164 BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enoch",
+   "god": "azazel",
+   "kind": "judged",
+   "myth": "Condemnation of the rebel teacher",
+   "note": "Enoch reports or witnesses Asael's punishment for teaching forbidden arts.",
+   "source": "1 Enoch 8–10, 13, 54–55",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "enoch",
+   "god": "gabriel",
+   "kind": "gift",
+   "myth": "Revelation delivered to Idrīs-Enoch",
+   "note": "Gabriel brings books or revelation to Idrīs-Enoch in later Islamic legend.",
+   "source": "Medieval qiṣaṣ al-anbiyāʾ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "enoch",
+   "god": "gabriel",
+   "kind": "shared_myth",
+   "myth": "Holy angels report the Watcher crisis",
+   "note": "Gabriel appears among the holy angels during judgment of the Watchers and giants.",
+   "source": "1 Enoch 9–10, 20, 40, 54",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "enoch",
+   "god": "metatron",
+   "kind": "identified_with",
+   "myth": "Enoch transformed into Metatron",
+   "note": "The exalted Enoch explicitly becomes the angel Metatron.",
+   "source": "3 Enoch",
+   "date": "fifth–sixth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "enoch",
+   "god": "michael",
+   "kind": "taught_by",
+   "myth": "Guidance through heavenly mysteries",
+   "note": "Michael guides Enoch and explains heavenly mysteries and judgment.",
+   "source": "1 Enoch 24–25, 40, 54, 60, 71",
+   "date": "third century BCE–first century CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "enoch",
+   "god": "michael",
+   "kind": "transformed_by",
+   "myth": "Enoch clothed and anointed",
+   "note": "Michael clothes or anoints Enoch before God in some recensions.",
+   "source": "2 Enoch 22",
+   "date": "date disputed",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "enoch",
+   "god": "raphael",
+   "kind": "taught_by",
+   "myth": "Tour of places of punishment",
+   "note": "Raphael shows Enoch places of punishment.",
+   "source": "1 Enoch 22",
+   "date": "third–second centuries BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "eve",
+   "god": "michael",
+   "kind": "other",
+   "myth": "Eve’s childbirth with Cain",
+   "note": "Michael and other angels assist Eve during her agonizing childbirth.",
+   "source": "Life of Adam and Eve",
+   "date": "early centuries CE",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "eve",
+   "god": "samael",
+   "kind": "deceived_by",
+   "myth": "Samael engineers the temptation",
+   "note": "Samael animates or rides the serpent and engineers Eve’s temptation.",
+   "source": "Pirke de-Rabbi Eliezer",
+   "date": "eighth–ninth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "jacob",
+   "god": "michael",
+   "kind": "shared_myth",
+   "myth": "Michael visits Jacob near death",
+   "note": "Michael is sent to Jacob shortly before the patriarch's death.",
+   "source": "Coptic Testament of Jacob",
+   "date": "late antique or medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "jacob",
+   "god": "samael",
+   "kind": "fought",
+   "myth": "Rabbinic identification of the wrestler",
+   "note": "Later tradition identifies Samael as Jacob's opponent at the Jabbok.",
+   "source": "Rabbinic and medieval traditions",
+   "date": "late antique–medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "job",
+   "god": "behemoth",
+   "kind": "shared_myth",
+   "myth": "YHWH displays Behemoth to Job",
+   "note": "Behemoth is shown as a mighty creature beyond Job’s mastery.",
+   "source": "Job 40:15–24",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "job",
+   "god": "gabriel",
+   "kind": "gift",
+   "myth": "Gabriel brings guidance or relief to Ayyūb",
+   "note": "Some later Islamic narratives make Gabriel the bearer of divine guidance or relief.",
+   "source": "Later Islamic narratives",
+   "date": "medieval Islamic period",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "job",
+   "god": "leviathan",
+   "kind": "shared_myth",
+   "myth": "YHWH challenges Job concerning Leviathan",
+   "note": "Job is challenged to capture or domesticate Leviathan but never encounters it.",
+   "source": "Job 40:25–41:26",
+   "date": "sixth–fourth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "jonah",
+   "god": "leviathan",
+   "kind": "fought",
+   "myth": "Jonah frightens Leviathan beneath the cosmic sea",
+   "note": "Jonah displays Abraham’s covenantal seal, drives Leviathan away, and vows its future capture.",
+   "source": "Pirke de-Rabbi Eliezer 10",
+   "date": "8th–9th century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "joseph_the_dreamer",
+   "god": "gabriel",
+   "kind": "taught_by",
+   "myth": "Gabriel directs Joseph toward his brothers",
+   "note": "Later interpretation identifies Joseph's unnamed guide near Shechem as the angel Gabriel.",
+   "source": "Genesis Rabbah 84",
+   "date": "fifth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "joshua",
+   "god": "michael",
+   "kind": "shared_myth",
+   "myth": "Encounter near Jericho",
+   "note": "Later interpreters identify Michael as the unnamed commander encountered by Joshua.",
+   "source": "Late antique and medieval exegesis",
+   "date": "late antique–medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "lot",
+   "god": "shekhinah",
+   "kind": "transformed_by",
+   "myth": "Irit looks back at Sodom",
+   "note": "Lot's wife sees the descending Shekhinah and becomes salt.",
+   "source": "Pirkei de-Rabbi Eliezer 25",
+   "date": "eighth–ninth century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "nimrod",
+   "god": "gabriel",
+   "kind": "other",
+   "myth": "Abraham rescued from Nimrod's fire",
+   "note": "Gabriel assists or addresses Abraham during Nimrod's furnace episode.",
+   "source": "Medieval tafsir and qisas",
+   "date": "medieval",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "nimrod",
+   "god": "michael",
+   "kind": "other",
+   "myth": "Abraham rescued from Nimrod's furnace",
+   "note": "Michael descends to rescue Abraham from the furnace ordered by Nimrod.",
+   "source": "Genesis Rabbah 44 traditions",
+   "date": "late antiquity",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "solomon",
+   "god": "asmodeus",
+   "kind": "served_by",
+   "myth": "Demonic Temple labor",
+   "note": "Solomon binds, interrogates, and assigns Asmodeus labor on the Temple.",
+   "source": "Testament of Solomon",
+   "date": "early Roman centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "solomon",
+   "god": "michael",
+   "kind": "gift",
+   "myth": "Gift of the demon-binding ring",
+   "note": "Michael gives Solomon a ring bearing a divine seal.",
+   "source": "Testament of Solomon 1",
+   "date": "early Roman centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "solomon",
+   "god": "sophia",
+   "kind": "shared_myth",
+   "myth": "Prayer for Wisdom",
+   "note": "The Solomonic speaker desires personified Wisdom as his companion through prayer.",
+   "source": "Wisdom of Solomon 7–9",
+   "date": "first century BCE–CE",
+   "tier": "canonical"
+  }
+ ]
+}

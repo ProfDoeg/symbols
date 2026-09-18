@@ -1,0 +1,1586 @@
+{
+ "heroes_folder": "hindu",
+ "gods_folder": "hindu",
+ "relations": [
+  {
+   "hero": "abhimanyu",
+   "god": "balarama",
+   "kind": "contest",
+   "myth": "Marriage to Śaśirekhā",
+   "note": "Regional romance makes Balarāma obstruct Abhimanyu’s marriage to his daughter.",
+   "source": "Śaśirekha Pariṇayam",
+   "date": "date uncertain",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "abhimanyu",
+   "god": "balarama",
+   "kind": "other",
+   "myth": "",
+   "note": "Balarāma is Abhimanyu’s maternal uncle.",
+   "source": "Mahābhārata genealogies",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "abhimanyu",
+   "god": "balarama",
+   "kind": "taught_by",
+   "myth": "Abhimanyu’s martial education",
+   "note": "Later texts and retellings describe Balarāma as one of Abhimanyu’s trainers.",
+   "source": "Later texts and retellings",
+   "date": "later tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "abhimanyu",
+   "god": "chandra_soma",
+   "kind": "descendant_of",
+   "myth": "Varcas’s sixteen-year human embodiment",
+   "note": "Abhimanyu embodies Soma’s son Varcas, whom Soma loans to earthly life.",
+   "source": "Mahābhārata, Ādiparvan 1.61",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "abhimanyu",
+   "god": "indra",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Indra fathers Arjuna and is therefore Abhimanyu’s divine grandfather.",
+   "source": "Mahābhārata, Ādiparvan genealogies",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "arjuna",
+   "god": "agni",
+   "kind": "allied",
+   "myth": "Burning of Khāṇḍava",
+   "note": "Arjuna helps Agni consume Khāṇḍava by preventing its inhabitants’ escape.",
+   "source": "Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "balarama",
+   "kind": "other",
+   "myth": "Abduction of Subhadrā",
+   "note": "Balarāma is angered by Arjuna’s abduction of Subhadrā but later reconciles.",
+   "source": "Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "hanuman",
+   "kind": "shared_myth",
+   "myth": "Hanumān on Arjuna’s banner",
+   "note": "Arjuna encounters Hanumān, who later occupies his battle standard.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "arjuna",
+   "god": "indra",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Indra is Arjuna’s divine father through Kuntī’s invocation.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "indra",
+   "kind": "fought",
+   "myth": "Burning of Khāṇḍava",
+   "note": "Arjuna opposes Indra’s efforts to protect Khāṇḍava and Takṣaka.",
+   "source": "Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "indra",
+   "kind": "gift",
+   "myth": "Arjuna’s celestial ascent",
+   "note": "Indra welcomes, arms, crowns, and supports Arjuna in heaven.",
+   "source": "Āraṇyakaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "indra",
+   "kind": "served",
+   "myth": "Celestial demon campaigns",
+   "note": "Arjuna destroys celestial enemies on his father’s commission.",
+   "source": "Āraṇyakaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "kubera",
+   "kind": "gift",
+   "myth": "Divine armament cycle",
+   "note": "Kubera recognizes Arjuna and is associated with weapons in the ascent cycle.",
+   "source": "Āraṇyakaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Regulation of shared marriage",
+   "note": "Nārada advises Arjuna and his brothers how to regulate marriage with Draupadī.",
+   "source": "Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "parvati",
+   "kind": "shared_myth",
+   "myth": "Kirāta encounter",
+   "note": "Pārvatī appears with Śiva or his divine entourage in developed versions.",
+   "source": "Epic and Kirātārjunīya traditions",
+   "date": "sixth century CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "arjuna",
+   "god": "varuna",
+   "kind": "gift",
+   "myth": "Burning of Khāṇḍava",
+   "note": "Varuṇa provides Gāṇḍīva, inexhaustible quivers, and a chariot.",
+   "source": "Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arjuna",
+   "god": "vayu",
+   "kind": "shared_myth",
+   "myth": "Arjuna’s celestial career",
+   "note": "Vāyu appears among the gods surrounding Arjuna’s celestial career.",
+   "source": "Mahābhārata",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "balarama",
+   "kind": "shared_myth",
+   "myth": "Aśvatthāman arrives beside dying Duryodhana",
+   "note": "Balarāma comments on Aśvatthāman’s unstoppable vengeance without a major direct exchange.",
+   "source": "Bhāsa’s Ūrubhaṅga",
+   "date": "early centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "brahma",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Pallava pedigrees place Brahmā at the head of Aśvatthāman’s constructed ancestry.",
+   "source": "Pallava inscriptions",
+   "date": "c. sixth–ninth centuries",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "kalki",
+   "kind": "shared_myth",
+   "myth": "Aśvatthāman awaits Kalki",
+   "note": "The film reinvents Aśvatthāman as an immortal guardian awaiting Kalki’s advent.",
+   "source": "Kalki 2898 AD",
+   "date": "2024",
+   "tier": "modern"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "narada",
+   "kind": "judged_by",
+   "myth": "Intervention between the Brahmaśiras weapons",
+   "note": "Nārada appears with Vyāsa between Aśvatthāman’s and Arjuna’s blazing weapons.",
+   "source": "Mahābhārata 10.14",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "rudra",
+   "kind": "contest",
+   "myth": "Guardian blocks entry to the camp",
+   "note": "Śiva’s terrifying manifestation blocks Aśvatthāman, whose weapons cannot overcome it.",
+   "source": "Mahābhārata 10.6–7",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "rudra",
+   "kind": "gift",
+   "myth": "Self-offering before the night raid",
+   "note": "Śiva accepts Aśvatthāman’s self-offering and grants him a sword.",
+   "source": "Mahābhārata 10.6–7",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "rudra",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Later theology treats Aśvatthāman as a partial manifestation or portion of Rudra.",
+   "source": "Later theological summaries",
+   "date": "first millennium CE and later",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ashwatthama",
+   "god": "rudra",
+   "kind": "transformed_by",
+   "myth": "Possession before the night raid",
+   "note": "Śiva enters or possesses Aśvatthāman before the massacre.",
+   "source": "Mahābhārata 10.6–7",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "balarama",
+   "kind": "judged_by",
+   "myth": "Condemnation of the low blow",
+   "note": "Balarāma condemns Bhīma’s illegal strike and threatens him after Duryodhana falls.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "balarama",
+   "kind": "taught_by",
+   "myth": "Training in mace combat",
+   "note": "Epic and later tradition present Balarāma as Bhīma’s mace teacher or senior expert.",
+   "source": "Mahābhārata tradition",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhima",
+   "god": "bhairava",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "Some Himalayan and Nepalese religious systems equate or assimilate Bhīma with Bhairava.",
+   "source": "Ethnographic reports",
+   "date": "modern documentation",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "bhima",
+   "god": "hanuman",
+   "kind": "allied",
+   "myth": "Promise of support in war",
+   "note": "Hanumān promises Bhīma aid in the coming conflict.",
+   "source": "Mahābhārata, Vana 3.145–150",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "hanuman",
+   "kind": "contest",
+   "myth": "The immovable monkey tail",
+   "note": "Bhīma cannot lift Hanumān’s tail and has his pride defeated.",
+   "source": "Mahābhārata, Vana 3.146",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "hanuman",
+   "kind": "identified_with",
+   "myth": "Three manifestations of Vāyu",
+   "note": "Hanumān and Bhīma are successive manifestations of Vāyu in Madhva theology.",
+   "source": "Hari-Vāyu-stuti",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "bhima",
+   "god": "hanuman",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Hanumān is Bhīma’s elder divine brother through their common father Vāyu.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "hanuman",
+   "kind": "taught_by",
+   "myth": "Revelation on the Saugandhika path",
+   "note": "Hanumān reveals his immense form and teaches Bhīma about time and conduct.",
+   "source": "Mahābhārata, Vana 3.145–150",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Karṇa’s one-use divine spear",
+   "note": "Bhīma’s son Ghaṭotkaca dies absorbing the weapon Indra had given Karṇa.",
+   "source": "Ādiparvan; Droṇaparvan",
+   "date": "early centuries BCE–CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhima",
+   "god": "kubera",
+   "kind": "fought",
+   "myth": "Assault on the Saugandhika region",
+   "note": "Bhīma fights Kubera’s attendants while entering the lord’s protected territory.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "kubera",
+   "kind": "gift",
+   "myth": "Permission to enter Saugandhika territory",
+   "note": "Kubera ultimately permits Bhīma and the Pāṇḍavas access to his region.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "vayu",
+   "kind": "child_of",
+   "myth": "Divine conception through Kuntī",
+   "note": "Kuntī invokes Vāyu, who generates Bhīma and supplies his extraordinary strength.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "bhima",
+   "god": "vayu",
+   "kind": "identified_with",
+   "myth": "Three manifestations of Vāyu",
+   "note": "Madhva theology identifies Bhīma as Vāyu’s second manifestation, following Hanumān.",
+   "source": "Mahābhārata-tātparya-nirṇaya; Hari-Vāyu-stuti",
+   "date": "thirteenth century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "bhishma",
+   "god": "ganga",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Gaṅgā is Bhīṣma’s divine mother and raises him after sparing his life.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhishma",
+   "god": "ganga",
+   "kind": "gift",
+   "myth": "Water from Gaṅgā at the arrow-bed",
+   "note": "A stream identified with Gaṅgā rises to quench the wounded Bhīṣma.",
+   "source": "Mahābhārata, Bhīṣmaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhishma",
+   "god": "ganga",
+   "kind": "shared_myth",
+   "myth": "Bhīṣma’s death and funeral",
+   "note": "Gaṅgā mourns Bhīṣma after his death and cremation.",
+   "source": "Mahābhārata, Anuśāsanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhishma",
+   "god": "narada",
+   "kind": "shared_myth",
+   "myth": "Mediation of the Paraśurāma duel",
+   "note": "Nārada appears among the divine mediators who halt Bhīṣma’s inconclusive duel.",
+   "source": "Mahābhārata, Udyogaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhishma",
+   "god": "narada",
+   "kind": "shared_myth",
+   "myth": "Bhīṣma’s arrow-bed",
+   "note": "Nārada appears among the sages attending Bhīṣma at the arrow-bed.",
+   "source": "Mahābhārata, Śāntiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "bhishma",
+   "god": "vasus",
+   "kind": "identified_with",
+   "myth": "The Vasus’ human birth",
+   "note": "Bhīṣma is the long-lived human incarnation of the eighth Vasu.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "agni",
+   "kind": "shared_myth",
+   "myth": "Celestial sages circumambulate Dhruva",
+   "note": "Agni is said to circumambulate Dhruva’s imperishable station.",
+   "source": "Bhāgavata Purāṇa 4.9.21",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "chandra_soma",
+   "kind": "other",
+   "myth": "Luminaries revolve around Dhruva",
+   "note": "Soma’s office is not sought, and the Moon revolves around Dhruva’s station.",
+   "source": "Viṣṇu Purāṇa 1.12, 2.12",
+   "date": "broadly fourth–sixth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "garuda",
+   "kind": "shared_myth",
+   "myth": "Viṣṇu arrives upon Garuḍa",
+   "note": "Garuḍa bears Viṣṇu to Dhruva’s hermitage during the divine manifestation.",
+   "source": "Bhāgavata Purāṇa 4.9.1",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "indra",
+   "kind": "fought",
+   "myth": "Gods attempt to break Dhruva’s tapas",
+   "note": "Indra-associated gods send supernatural terrors to disrupt Dhruva’s meditation.",
+   "source": "Viṣṇu Purāṇa 1.12",
+   "date": "broadly fourth–sixth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "kubera",
+   "kind": "gift",
+   "myth": "Kubera grants Dhruva a boon",
+   "note": "After the Yakṣa war, Kubera grants Dhruva’s request for constant remembrance of Viṣṇu.",
+   "source": "Bhāgavata Purāṇa 4.12",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Nārada initiates Dhruva",
+   "note": "Nārada tests, instructs and initiates Dhruva with the Vāsudeva mantra.",
+   "source": "Bhāgavata Purāṇa 4.8",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "surya",
+   "kind": "other",
+   "myth": "Luminaries revolve around Dhruva",
+   "note": "Sūrya’s office is not sought, and his celestial motion is subordinated to Dhruva’s pivot.",
+   "source": "Viṣṇu Purāṇa 1.12, 2.12",
+   "date": "broadly fourth–sixth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "varuna",
+   "kind": "other",
+   "myth": "Viṣṇu distinguishes Dhruva’s ambition",
+   "note": "Varuṇa’s office is named among the celestial positions Dhruva does not seek.",
+   "source": "Viṣṇu Purāṇa 1.12",
+   "date": "broadly fourth–sixth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "vayu",
+   "kind": "other",
+   "myth": "",
+   "note": "Vāyu is Dhruva’s father-in-law through Ilā.",
+   "source": "Bhāgavata Purāṇa 4.10.2",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "dhruva",
+   "god": "vayu",
+   "kind": "other",
+   "myth": "Wind drives luminaries around Dhruva",
+   "note": "Vāyu’s force drives the celestial bodies revolving around Dhruva’s cosmic station.",
+   "source": "Bhāgavata Purāṇa 5.23",
+   "date": "approximately ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "draupadi",
+   "god": "durga",
+   "kind": "identified_with",
+   "myth": "Draupadī becomes a sovereign village goddess",
+   "note": "She assumes Durgā-like or Amman iconography and protective sovereign functions.",
+   "source": "Tamil Draupadī cult",
+   "date": "early modern–present",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "draupadi",
+   "god": "indra",
+   "kind": "consort_of",
+   "myth": "Five former Indras become the Pāṇḍavas",
+   "note": "Vyāsa's explanation makes her the destined consort of five former Indras.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "draupadi",
+   "god": "kali",
+   "kind": "identified_with",
+   "myth": "Tamil battlefield and goddess traditions",
+   "note": "Tamil worship sometimes juxtaposes or partially identifies Draupadī with Kālī.",
+   "source": "Tamil festival mythology",
+   "date": "early modern–present",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "draupadi",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Household rotation among the five brothers",
+   "note": "He advises the brothers to regulate access to Draupadī by rotation and exile.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "draupadi",
+   "god": "surya",
+   "kind": "gift",
+   "myth": "The inexhaustible vessel sustains the exiles",
+   "note": "Sūrya gives Yudhiṣṭhira the vessel that Draupadī operates for feeding guests.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "draupadi",
+   "god": "surya",
+   "kind": "rescued_by",
+   "myth": "Sūrya repays an obligation with clothing",
+   "note": "He arranges her inexhaustible clothing through Chāyā and Māyā.",
+   "source": "Sāraḷā Dāsa's Mahābhārata",
+   "date": "fifteenth century",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "drona",
+   "god": "brahma",
+   "kind": "other",
+   "myth": "Drona’s post-mortem ascent",
+   "note": "The narrator says Drona attains Brahman’s highest region after his departure.",
+   "source": "Mahābhārata, Droṇaparvan §193",
+   "date": "ca. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "duryodhana",
+   "god": "balarama",
+   "kind": "judged_by",
+   "myth": "Final mace duel",
+   "note": "Balarāma praises Duryodhana’s fair combat and condemns Bhīma’s prohibited blow.",
+   "source": "Mahābhārata, Book 9",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "duryodhana",
+   "god": "balarama",
+   "kind": "taught_by",
+   "myth": "Training in mace combat",
+   "note": "Duryodhana becomes an exceptionally skilled mace-fighter under Balarāma.",
+   "source": "Mahābhārata, Books 1 and 9",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "duryodhana",
+   "god": "kali",
+   "kind": "identified_with",
+   "myth": "Descent of divine and demonic portions",
+   "note": "Duryodhana embodies a portion of Kali, the male spirit of strife and dice.",
+   "source": "Mahābhārata, Book 1 incarnation catalogue",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "duryodhana",
+   "god": "narada",
+   "kind": "judged_by",
+   "myth": "Duryodhana in the warriors’ heaven",
+   "note": "Nārada explains that Duryodhana earned heaven by fearlessly offering his body in battle.",
+   "source": "Mahābhārata 18.1",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ekalavya",
+   "god": "balarama",
+   "kind": "fought",
+   "myth": "Expanded Yādava war",
+   "note": "Balarāma fights or strikes Ekalavya in appended Harivaṃśa battle narratives.",
+   "source": "Harivaṃśa Appendix I",
+   "date": "First millennium CE and later",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "gandhari",
+   "god": "agni",
+   "kind": "killed",
+   "myth": "Death in the forest conflagration",
+   "note": "The forest fire consumes Gandhari, though it is not personified as conversing with her.",
+   "source": "Mahābhārata, Āśramavāsikaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "ghatotkacha",
+   "god": "balarama",
+   "kind": "deceived",
+   "myth": "Śaśirekhā’s marriage",
+   "note": "He disrupts Balarāma’s politically motivated plan for his daughter’s marriage.",
+   "source": "Śaśirekhāpariṇayam tradition",
+   "date": "early-modern to modern",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "ghatotkacha",
+   "god": "indra",
+   "kind": "created_by",
+   "myth": "Destiny of Karṇa’s śakti",
+   "note": "Indra causes or appoints his existence to neutralize Karṇa’s weapon.",
+   "source": "Mahābhārata 1.143.38",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "ghatotkacha",
+   "god": "vayu",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Ghaṭotkaca descends from Vāyu through Vāyu’s son Bhīma.",
+   "source": "Mahābhārata Pāṇḍava genealogy",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "indra",
+   "kind": "gift",
+   "myth": "Golden chariot and heavenly reception",
+   "note": "Epic and Purāṇic traditions place Hariścandra in Indra's heaven or give him Indra's chariot.",
+   "source": "Mahābhārata 2.11; Mārkaṇḍeya Purāṇa 8",
+   "date": "last centuries BCE onward",
+   "tier": "canonical"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "indra",
+   "kind": "rescued_by",
+   "myth": "Final restoration and ascent",
+   "note": "Indra appears with the gods when Rohitāśva is restored and Hariścandra is offered heaven.",
+   "source": "Mārkaṇḍeya Purāṇa 8",
+   "date": "third–ninth centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "indra",
+   "kind": "shared_myth",
+   "myth": "Indra delays Rohita's return",
+   "note": "Indra, disguised as a Brahmin, repeatedly persuades Rohita to keep wandering while Hariścandra remains afflicted.",
+   "source": "Aitareya Brāhmaṇa 7.13–18",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Advice to petition Varuṇa for a son",
+   "note": "Nārada advises the childless Hariścandra to seek a son from Varuṇa.",
+   "source": "Aitareya Brāhmaṇa 7.13–18",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "varuna",
+   "kind": "gift",
+   "myth": "Rohita granted for a sacrificial promise",
+   "note": "Varuṇa grants Hariścandra a son in exchange for promising the child as sacrifice.",
+   "source": "Aitareya Brāhmaṇa 7.13–18",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "varuna",
+   "kind": "punished_by",
+   "myth": "Punishment for delaying the promised sacrifice",
+   "note": "Varuṇa afflicts Hariścandra with abdominal swelling after repeated postponement of Rohita's sacrifice.",
+   "source": "Aitareya Brāhmaṇa 7.13–18",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "harishchandra",
+   "god": "varuna",
+   "kind": "rescued_by",
+   "myth": "Release of Śunaḥśepa and royal cure",
+   "note": "After the substitute is released, Varuṇa's affliction ends and Hariścandra is cured.",
+   "source": "Aitareya Brāhmaṇa 7.13–18",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "karna",
+   "god": "indra",
+   "kind": "gift",
+   "myth": "Gift of armor and earrings",
+   "note": "Karṇa recognizes disguised Indra and gives him his congenital armor and earrings.",
+   "source": "Mahābhārata 3.284–294",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "karna",
+   "god": "indra",
+   "kind": "gift",
+   "myth": "Exchange for the Vāsavī Śakti",
+   "note": "Karṇa receives Indra’s one-use Vāsavī Śakti in exchange for his armor.",
+   "source": "Mahābhārata 3.284–294",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "karna",
+   "god": "surya",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sūrya begets Karṇa upon Kuntī through Durvāsas’s invocation.",
+   "source": "Mahābhārata 1.104; 3.284–294",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "karna",
+   "god": "surya",
+   "kind": "other",
+   "myth": "Warning about Indra",
+   "note": "Sūrya warns Karṇa that Indra will seek his armor and earrings.",
+   "source": "Mahābhārata 3.284–294",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "karna",
+   "god": "surya",
+   "kind": "shared_myth",
+   "myth": "Kuntī reveals Karṇa’s birth",
+   "note": "Sūrya confirms Kuntī’s claim that Karṇa is her biological son.",
+   "source": "Mahābhārata 5.142–144",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "kunti",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Divine conception of Arjuna",
+   "note": "After ascetic preparation, Kuntī invokes Indra and conceives Arjuna.",
+   "source": "Mahābhārata 1",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kunti",
+   "god": "surya",
+   "kind": "other",
+   "myth": "Sūrya answers Kuntī’s invocation",
+   "note": "He refuses to leave, threatens consequences, and fathers Karṇa coercively.",
+   "source": "Mahābhārata 3.287–292",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kunti",
+   "god": "vayu",
+   "kind": "other",
+   "myth": "Divine conception of Bhīma",
+   "note": "Kuntī invokes Vāyu through the formula and conceives Bhīma.",
+   "source": "Mahābhārata 1",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "agni",
+   "kind": "contest",
+   "myth": "Damayantī's svayaṃvara",
+   "note": "Agni assumes Nala's form while competing for Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "agni",
+   "kind": "gift",
+   "myth": "Divine wedding boons",
+   "note": "Agni accepts Damayantī's choice and grants Nala access to fire.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "agni",
+   "kind": "served",
+   "myth": "Embassy to Damayantī",
+   "note": "Nala carries Agni's marriage proposal to Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "indra",
+   "kind": "contest",
+   "myth": "Damayantī's svayaṃvara",
+   "note": "Indra assumes Nala's form while competing for Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "indra",
+   "kind": "gift",
+   "myth": "Divine wedding boons",
+   "note": "Indra honors the marriage and grants Nala a sacrificial or heavenly boon.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "indra",
+   "kind": "served",
+   "myth": "Embassy to Damayantī",
+   "note": "Nala carries Indra's marriage proposal to Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "kali",
+   "kind": "gift",
+   "myth": "Kali's recitation promise",
+   "note": "Kali promises not to harm those who recite Nala's story.",
+   "source": "Mahābhārata 3.72",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "kali",
+   "kind": "punished",
+   "myth": "Kali expelled",
+   "note": "Damayantī's curse and Karkoṭaka's poison torment Kali until he leaves Nala.",
+   "source": "Mahābhārata 3.57–72",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "kali",
+   "kind": "punished_by",
+   "myth": "Kali's revenge",
+   "note": "Kali possesses Nala after a ritual lapse and causes his ruin and abandonment.",
+   "source": "Mahābhārata 3.57–72",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "varuna",
+   "kind": "contest",
+   "myth": "Damayantī's svayaṃvara",
+   "note": "Varuṇa assumes Nala's form while competing for Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "varuna",
+   "kind": "gift",
+   "myth": "Divine wedding boons",
+   "note": "Varuṇa accepts Damayantī's choice and grants Nala command or availability of water.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "varuna",
+   "kind": "served",
+   "myth": "Embassy to Damayantī",
+   "note": "Nala carries Varuṇa's marriage proposal to Damayantī.",
+   "source": "Mahābhārata 3.54–57",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "nala_and_damayanti",
+   "god": "vayu",
+   "kind": "judged_by",
+   "myth": "Damayantī's fidelity oath",
+   "note": "Vāyu testifies from the sky that Damayantī remained faithful.",
+   "source": "Mahābhārata 3.76",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "prahlada",
+   "god": "andhaka",
+   "kind": "taught",
+   "myth": "Warning against aggression",
+   "note": "Prahlāda advises his Daitya kinsman against aggression, but Andhaka disregards him.",
+   "source": "Medieval Purāṇic narratives",
+   "date": "medieval period",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "prahlada",
+   "god": "bali",
+   "kind": "allied",
+   "myth": "Bali’s dispossession by Vāmana",
+   "note": "Prahlāda consoles Bali, supports him, and accompanies him to Sutala.",
+   "source": "Bhāgavata Purāṇa 8.21–23",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "prahlada",
+   "god": "bali",
+   "kind": "ancestor_of",
+   "myth": "",
+   "note": "Bali is Prahlāda’s grandson through Virocana.",
+   "source": "Epic and Purāṇic genealogies",
+   "date": "c. 400 BCE onward",
+   "tier": "attested"
+  },
+  {
+   "hero": "prahlada",
+   "god": "bali",
+   "kind": "taught",
+   "myth": "Dialogue on forgiveness and force",
+   "note": "Prahlāda teaches Bali that anger and forgiveness must suit circumstances.",
+   "source": "Mahābhārata, Vanaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "prahlada",
+   "god": "brahma",
+   "kind": "shared_myth",
+   "myth": "After Narasiṃha kills Hiraṇyakaśipu",
+   "note": "Brahmā addresses Narasiṃha and Prahlāda after the pillar theophany.",
+   "source": "Bhāgavata Purāṇa 7.8–10",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "prahlada",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Capture of pregnant Kayādhu",
+   "note": "Indra captures Prahlāda’s pregnant mother but releases her after Nārada intervenes.",
+   "source": "Bhāgavata Purāṇa 7.7",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "prahlada",
+   "god": "indra",
+   "kind": "theft",
+   "myth": "Indra obtains Prahlāda’s moral conduct",
+   "note": "Disguised as a brahmin, Indra requests and receives Prahlāda’s śīla.",
+   "source": "Mahābhārata, Śāntiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "prahlada",
+   "god": "kartikeya",
+   "kind": "contest",
+   "myth": "Trial of Skanda’s immovable spear",
+   "note": "Prahlāda attempts and fails to lift Skanda’s spear.",
+   "source": "Mahābhārata, Śāntiparvan 328",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "prahlada",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Prenatal instruction in devotion",
+   "note": "Prahlāda hears Nārada’s devotional teaching while still in Kayādhu’s womb.",
+   "source": "Bhāgavata Purāṇa 7.7",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "prahlada",
+   "god": "narasimha",
+   "kind": "gift",
+   "myth": "Prahlāda’s hymn and coronation",
+   "note": "Narasiṃha touches Prahlāda, receives his hymn, and installs him as ruler.",
+   "source": "Bhāgavata Purāṇa 7.8–10",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "prahlada",
+   "god": "narasimha",
+   "kind": "rescued_by",
+   "myth": "Narasiṃha emerges from the pillar",
+   "note": "Narasiṃha kills Hiraṇyakaśipu and ends Prahlāda’s persecution.",
+   "source": "Bhāgavata Purāṇa 7.8–10",
+   "date": "c. eighth–tenth centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "savitri_and_satyavan",
+   "god": "brahma",
+   "kind": "other",
+   "myth": "Brahmā ordains Sāvitrī’s birth",
+   "note": "Brahmā decrees that Aśvapati will receive a daughter; no direct meeting occurs.",
+   "source": "Mahābhārata 3.277.16–18",
+   "date": "last centuries BCE–first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "savitri_and_satyavan",
+   "god": "narada",
+   "kind": "other",
+   "myth": "Nārada foretells Satyavān’s death",
+   "note": "Nārada hears Sāvitrī’s choice, predicts Satyavān’s death, and approves her resolve.",
+   "source": "Mahābhārata 3.278",
+   "date": "last centuries BCE–first centuries CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "savitri_and_satyavan",
+   "god": "rama",
+   "kind": "other",
+   "myth": "Rāma hears Sītā’s comparison",
+   "note": "Rāma hears Sītā compare herself to Sāvitrī devoted to Satyavān.",
+   "source": "Rāmāyaṇa 2.27.6",
+   "date": "epic period, relative date uncertain",
+   "tier": "attested"
+  },
+  {
+   "hero": "savitri_and_satyavan",
+   "god": "sita",
+   "kind": "other",
+   "myth": "Sītā invokes Sāvitrī’s fidelity",
+   "note": "Sītā names Sāvitrī as her model for faithfully following her husband.",
+   "source": "Rāmāyaṇa 2.27.6",
+   "date": "epic period, relative date uncertain",
+   "tier": "attested"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "aditi",
+   "kind": "shared_myth",
+   "myth": "Celestial reunion",
+   "note": "Aditi receives Śakuntalā, Duṣyanta, and their son at Marīca’s hermitage.",
+   "source": "Abhijñānaśākuntalam, Act VII",
+   "date": "late fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Śakuntalā’s conception",
+   "note": "Indra sends Menakā to disrupt Viśvāmitra, indirectly causing Śakuntalā’s conception.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Celestial reunion",
+   "note": "Indra’s summons indirectly brings Duṣyanta toward his reunion with Śakuntalā.",
+   "source": "Abhijñānaśākuntalam, Acts VI–VII",
+   "date": "late fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "kama",
+   "kind": "other",
+   "myth": "Śakuntalā’s conception",
+   "note": "Kāma assists Menakā’s seduction of Viśvāmitra, indirectly enabling Śakuntalā’s birth.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "kama",
+   "kind": "other",
+   "myth": "Forest courtship",
+   "note": "Kāma metaphorically afflicts Śakuntalā and Duṣyanta with love.",
+   "source": "Abhijñānaśākuntalam",
+   "date": "late fourth–fifth century CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "shakuntala",
+   "god": "vayu",
+   "kind": "other",
+   "myth": "Śakuntalā’s conception",
+   "note": "Vāyu exposes Menakā’s garment during the stratagem preceding Śakuntalā’s conception.",
+   "source": "Mahābhārata, Ādiparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sugriva",
+   "god": "agni",
+   "kind": "shared_myth",
+   "myth": "Fire-witnessed friendship oath with Rāma",
+   "note": "Agni witnesses the solemn compact between Sugrīva and Rāma.",
+   "source": "Rāmāyaṇa 4.5",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "brahma",
+   "kind": "created_by",
+   "myth": "Creation of divine vāṇara allies",
+   "note": "Brahmā orders the gods to generate vāṇara champions, occasioning Sugrīva’s birth.",
+   "source": "Rāmāyaṇa 1.17",
+   "date": "early centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sugriva",
+   "god": "hanuman",
+   "kind": "served_by",
+   "myth": "Meeting Rāma and southern search",
+   "note": "Hanumān serves as Sugrīva’s minister, treaty broker, counselor, emissary, and commander.",
+   "source": "Rāmāyaṇa 4.2–5; 4.38–67",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "indra",
+   "kind": "other",
+   "myth": "Divine generation of the rival brothers",
+   "note": "Indra fathers Vāli while Sūrya fathers Sugrīva; no direct meeting is narrated.",
+   "source": "Rāmāyaṇa 1.17",
+   "date": "early centuries CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sugriva",
+   "god": "rama",
+   "kind": "allied",
+   "myth": "Fire-witnessed compact at Ṛṣyamūka",
+   "note": "Sugrīva promises help finding Sītā; Rāma promises to remove Vāli.",
+   "source": "Rāmāyaṇa 4.5",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "rama",
+   "kind": "judged_by",
+   "myth": "Delay after Sugrīva’s coronation",
+   "note": "Rāma condemns Sugrīva’s delayed fulfillment and later rebukes his reckless attack on Rāvaṇa.",
+   "source": "Rāmāyaṇa 4.30–36; 6.40",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "rama",
+   "kind": "rescued_by",
+   "myth": "Vāli’s death and Sugrīva’s restoration",
+   "note": "Rāma kills Vāli and restores Sugrīva to Kiṣkindhā’s throne.",
+   "source": "Rāmāyaṇa 4.16–26",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "rama",
+   "kind": "served",
+   "myth": "Search for Sītā and Laṅkā war",
+   "note": "Sugrīva mobilizes his coalition, commands searches, and fights in Rāma’s campaign.",
+   "source": "Rāmāyaṇa Books 4–6",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "ravana",
+   "kind": "fought",
+   "myth": "Sugrīva wrestles Rāvaṇa at Laṅkā",
+   "note": "Sugrīva impulsively attacks and wrestles Rāvaṇa before escaping to Rāma.",
+   "source": "Rāmāyaṇa 6.40",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "ravana",
+   "kind": "other",
+   "myth": "Sugrīva witnesses Sītā’s abduction",
+   "note": "Sugrīva sees Rāvaṇa carrying Sītā away and later produces her dropped ornaments.",
+   "source": "Rāmāyaṇa 4.6",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "sampati",
+   "kind": "other",
+   "myth": "Sampāti directs the southern search party",
+   "note": "Sampāti tells Sugrīva’s agents that Sītā is in Laṅkā, without meeting Sugrīva.",
+   "source": "Rāmāyaṇa 4.56–63",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "sita",
+   "kind": "rescued",
+   "myth": "Search for Sītā and Laṅkā war",
+   "note": "Sugrīva preserves Sītā’s dropped ornaments and mobilizes forces contributing to her rescue.",
+   "source": "Rāmāyaṇa 4.6; Books 5–6",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sugriva",
+   "god": "surya",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Sūrya is Sugrīva’s divine father and generator.",
+   "source": "Rāmāyaṇa 1.17; 3.72",
+   "date": "mid-first millennium BCE–early CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sugriva",
+   "god": "surya",
+   "kind": "other",
+   "myth": "Sugrīva’s final return to the Sun",
+   "note": "Sugrīva enters the Sarayū and returns into the solar orb.",
+   "source": "Uttarakāṇḍa 110",
+   "date": "early centuries CE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "brahma",
+   "kind": "gift",
+   "myth": "Vibhishana’s austerities and boon",
+   "note": "Brahmā grants steadfast righteousness, unlearned weapon knowledge and immortality.",
+   "source": "Uttarakāṇḍa 7.10",
+   "date": "later epic layer",
+   "tier": "canonical"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "hanuman",
+   "kind": "allied",
+   "myth": "Attack at Nikumbhilā",
+   "note": "Vibhishana and Hanumān fight together in the operation against Indrajit.",
+   "source": "Yuddhakāṇḍa 85–91",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "hanuman",
+   "kind": "rescued",
+   "myth": "Defence of Hanumān",
+   "note": "Vibhishana prevents Rāvaṇa from executing Hanumān by invoking diplomatic law.",
+   "source": "Sundarakāṇḍa 5.52",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "hanuman",
+   "kind": "rescued_by",
+   "myth": "Debate over asylum",
+   "note": "Hanumān argues that Vibhishana’s face and speech indicate sincerity.",
+   "source": "Yuddhakāṇḍa 17",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "kartikeya",
+   "kind": "shared_myth",
+   "myth": "Laṅkātilaka guardian group",
+   "note": "Skanda and Vibhishana are named together in a Buddhist protective configuration.",
+   "source": "Laṅkātilaka inscription",
+   "date": "1343–44 CE",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "kubera",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Kubera is Vibhishana’s paternal half-brother through Viśravas.",
+   "source": "Uttarakāṇḍa genealogy",
+   "date": "later epic layer",
+   "tier": "canonical"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "rama",
+   "kind": "allied",
+   "myth": "War for Laṅkā",
+   "note": "Vibhishana advises Rāma, supplies intelligence and joins his campaign against Rāvaṇa.",
+   "source": "Yuddhakāṇḍa 17–112",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "rama",
+   "kind": "gift",
+   "myth": "Gift of the Raṅganātha image",
+   "note": "Rāma gives Vibhishana the Raṅganātha image for his journey south.",
+   "source": "Śrīraṅgam temple legend",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "rama",
+   "kind": "rescued_by",
+   "myth": "Vibhishana seeks asylum",
+   "note": "Rāma accepts, protects and embraces Vibhishana despite the monkey chiefs’ suspicions.",
+   "source": "Yuddhakāṇḍa 17–19",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "rama",
+   "kind": "rescued_by",
+   "myth": "Rāma shields his devotee",
+   "note": "Rāma shields Vibhishana from Rāvaṇa’s unfailing weapon.",
+   "source": "Rāmcaritmānas",
+   "date": "c. 1574–77",
+   "tier": "canonical"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "rama",
+   "kind": "served",
+   "myth": "Vibhishana’s coronation",
+   "note": "Vibhishana accepts Rāma’s commands, performs Rāvaṇa’s funeral and rules Laṅkā.",
+   "source": "Yuddhakāṇḍa 111–112",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "ravana",
+   "kind": "fought",
+   "myth": "War for Laṅkā",
+   "note": "After defecting, Vibhishana fights Rāvaṇa’s forces and smashes Rāvaṇa’s horses.",
+   "source": "Yuddhakāṇḍa 6.100",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "ravana",
+   "kind": "other",
+   "myth": "Rāvaṇa’s funeral",
+   "note": "Vibhishana laments Rāvaṇa and performs his cremation at Rāma’s command.",
+   "source": "Yuddhakāṇḍa",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "ravana",
+   "kind": "punished_by",
+   "myth": "Rejection from Rāvaṇa’s council",
+   "note": "Rāvaṇa denounces and rejects Vibhishana for urging Sītā’s return.",
+   "source": "Yuddhakāṇḍa 6.9–16",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "ravana",
+   "kind": "punished_by",
+   "myth": "Rāvaṇa kicks Bibhīṣaṇ",
+   "note": "Rāvaṇa kicks him, but Vibhishana grasps his feet and appeals again.",
+   "source": "Rāmcaritmānas, Sundarkāṇḍa",
+   "date": "c. 1574–77",
+   "tier": "canonical"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "ravana",
+   "kind": "sibling_of",
+   "myth": "",
+   "note": "Vibhishana is Rāvaṇa’s younger brother.",
+   "source": "Uttarakāṇḍa 7.9–10",
+   "date": "later epic layer",
+   "tier": "canonical"
+  },
+  {
+   "hero": "vibhishana",
+   "god": "sita",
+   "kind": "rescued",
+   "myth": "Rescue of Sītā",
+   "note": "Vibhishana supports her release and brings her to Rāma after victory.",
+   "source": "Yuddhakāṇḍa",
+   "date": "first millennium BCE–early CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "balarama",
+   "kind": "shared_myth",
+   "myth": "After Bhīma's illegal thigh-blow",
+   "note": "Balarāma condemns Bhīma's unlawful blow within Yudhiṣṭhira's victorious coalition.",
+   "source": "Mahābhārata, Śalyaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "brahma",
+   "kind": "shared_myth",
+   "myth": "Final heavenly assembly",
+   "note": "Brahmā is present among the gods during Yudhiṣṭhira's final revelation.",
+   "source": "Mahābhārata, Book 18",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "indra",
+   "kind": "deceived",
+   "myth": "Illusory hell after heavenly arrival",
+   "note": "Indra explains that Yudhiṣṭhira was deceived in return for deceiving Droṇa.",
+   "source": "Mahābhārata, Svargārohaṇaparvan 18.1–3",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "indra",
+   "kind": "judged_by",
+   "myth": "Dog refused admission to heaven",
+   "note": "Indra tests Yudhiṣṭhira's resolve by demanding that he abandon the dog.",
+   "source": "Mahābhārata, Mahāprasthānikaparvan 17.3",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "narada",
+   "kind": "shared_myth",
+   "myth": "Meeting in heaven",
+   "note": "Nārada encounters Yudhiṣṭhira during the final heavenly episode.",
+   "source": "Mahābhārata, Book 18",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "narada",
+   "kind": "taught_by",
+   "myth": "Draupadī arrangement and rājasūya counsel",
+   "note": "Nārada advises Yudhiṣṭhira on marriage, celestial halls, sacrifice, and royal duty.",
+   "source": "Mahābhārata, Books 1–2",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "rama",
+   "kind": "shared_myth",
+   "myth": "Rāma's embedded story",
+   "note": "Yudhiṣṭhira learns Rāma's story from Mārkaṇḍeya rather than meeting him.",
+   "source": "Mahābhārata, Book 3",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "yudhishthira",
+   "god": "surya",
+   "kind": "gift",
+   "myth": "Inexhaustible vessel during forest exile",
+   "note": "Sūrya grants Yudhiṣṭhira an inexhaustible food-vessel for his dependents.",
+   "source": "Mahābhārata, Āraṇyakaparvan",
+   "date": "c. 400 BCE–400 CE",
+   "tier": "canonical"
+  }
+ ]
+}

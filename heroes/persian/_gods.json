@@ -1,0 +1,626 @@
+{
+ "heroes_folder": "persian",
+ "gods_folder": "persian",
+ "relations": [
+  {
+   "hero": "afrasiyab",
+   "god": "ahriman",
+   "kind": "gift",
+   "myth": "Ahriman grants intended immortality",
+   "note": "Ahriman originally makes Afrasiyab immortal before Ohrmazd alters his condition.",
+   "source": "Mēnōg ī Xrad 8.29–30",
+   "date": "late antique/early medieval",
+   "tier": "canonical"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "ahriman",
+   "kind": "served",
+   "myth": "Ahrimanic devastators of Iran",
+   "note": "Middle Persian theology classifies Afrasiyab among Ahriman’s destructive instruments.",
+   "source": "Zand ī Wahman Yasn 7.32",
+   "date": "post-Sasanian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "ahura_mazda",
+   "kind": "fought",
+   "myth": "Afrasiyab threatens grain and drink",
+   "note": "Ahura Mazda opposes Afrasiyab’s threat to corrupt grain and drink.",
+   "source": "Yt. 19.56–64",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "ahura_mazda",
+   "kind": "punished_by",
+   "myth": "Removal of Afrasiyab’s immortality",
+   "note": "Ohrmazd reverses the immortality that Ahriman had intended for Afrasiyab.",
+   "source": "Mēnōg ī Xrad 8.29–30",
+   "date": "late antique/early medieval",
+   "tier": "canonical"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "anahita",
+   "kind": "other",
+   "myth": "Sacrifice for Iranian royal glory",
+   "note": "Afrasiyab sacrifices lavishly to Anāhitā, but she refuses his request for glory.",
+   "source": "Yt. 5.41–43",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "haoma",
+   "kind": "punished_by",
+   "myth": "Haoma binds Afrasiyab",
+   "note": "The Avestan deity binds Afrasiyab and delivers him to Kavi Haosravah.",
+   "source": "Yasna 11.7; Yt. 9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "haoma",
+   "kind": "punished_by",
+   "myth": "Capture at Hang and Lake Čēčast",
+   "note": "Hom captures Afrasiyab near his cave and helps expose him at the lake.",
+   "source": "Šāh-nāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "spenta_armaiti",
+   "kind": "consort_of",
+   "myth": "Union with the earth",
+   "note": "The earth goddess is described as Afrasiyab’s wife or violated partner.",
+   "source": "Šahrastānīhā §35; Theodore bar Koni",
+   "date": "sixth–eighth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "afrasiyab",
+   "god": "spenta_armaiti",
+   "kind": "punished_by",
+   "myth": "Arash establishes Iran’s boundary",
+   "note": "Esfandarmad orders the boundary bow and arrow that curtail Afrasiyab’s dominion.",
+   "source": "Bīrūnī, al-Āṯār al-bāqiya",
+   "date": "ca. 1000",
+   "tier": "canonical"
+  },
+  {
+   "hero": "arash",
+   "god": "ahura_mazda",
+   "kind": "allied",
+   "myth": "Divine wind carries the boundary arrow",
+   "note": "God orders the wind to carry Arash’s arrow toward Iran’s frontier.",
+   "source": "Bīrūnī, Āṯār al-bāqiya",
+   "date": "ca. 1000",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "arash",
+   "god": "tishtrya",
+   "kind": "shared_myth",
+   "myth": "Tishtrya’s flight toward Vourukaša",
+   "note": "Tishtrya’s celestial speed is compared to Arash’s proverbial arrow.",
+   "source": "Tištar Yašt 8.6, 8.37–38",
+   "date": "Young Avestan",
+   "tier": "attested"
+  },
+  {
+   "hero": "bahram_gur",
+   "god": "yima_jamshid",
+   "kind": "other",
+   "myth": "Bahram visits Jamshid’s treasure",
+   "note": "Bahram finds or visits the primordial king’s treasure; they never meet.",
+   "source": "Ferdowsi’s Shāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "esfandiyar",
+   "god": "ahura_mazda",
+   "kind": "shared_myth",
+   "myth": "Righteous community of Vištāspa",
+   "note": "Esfandiyar belongs to the righteous Zoroastrian community; no direct dialogue survives.",
+   "source": "Frawardīn Yašt 13.103",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "esfandiyar",
+   "god": "simurgh",
+   "kind": "deceived_by",
+   "myth": "Tamarisk-arrow stratagem",
+   "note": "The beneficent Simurgh reveals Esfandiyar's vulnerable eyes and directs the fatal weapon.",
+   "source": "Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "esfandiyar",
+   "god": "simurgh",
+   "kind": "deceived_by",
+   "myth": "Optical death stratagem",
+   "note": "Reflected Simurgh radiance dazzles Esfandiyar until he imagines his eyes pierced.",
+   "source": "The Red Intellect",
+   "date": "before 1191",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "fereydun",
+   "god": "ahriman",
+   "kind": "punished_by",
+   "myth": "Loss of immortality",
+   "note": "Ahriman makes the initially immortal Fereydun mortal.",
+   "source": "Mēnōg ī xrad 8.27",
+   "date": "sixth–ninth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "ahura_mazda",
+   "kind": "other",
+   "myth": "Binding of Dahāg",
+   "note": "Ohrmazd commands Fereydun not to kill Dahāg, preventing demonic creatures’ release.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "anahita",
+   "kind": "gift",
+   "myth": "Petition for victory",
+   "note": "After receiving Fereydun’s sacrifice, Anāhitā grants victory and the captives’ release.",
+   "source": "Yašt 5.33–35",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "azhi_dahaka",
+   "kind": "fought",
+   "myth": "Defeat of Aži Dahāka",
+   "note": "Fereydun defeats the three-headed being created by Angra Mainyu.",
+   "source": "Yasna 9; Yašts 5, 15, 19",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "azhi_dahaka",
+   "kind": "fought",
+   "myth": "Conquest of Zahhāk",
+   "note": "Fereydun strikes Zahhāk with the ox-headed mace before imprisoning him.",
+   "source": "Šāhnāma",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "azhi_dahaka",
+   "kind": "killed",
+   "myth": "Avestan dragon combat",
+   "note": "The Avestan tradition says Fereydun smote Dahāka and explicitly recalls his killing.",
+   "source": "Yašt 19.36–37, 92",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "azhi_dahaka",
+   "kind": "punished",
+   "myth": "Binding on Damāvand",
+   "note": "Later tradition has Fereydun bind and imprison Dahāg instead of killing him.",
+   "source": "Dēnkard",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "haoma",
+   "kind": "shared_myth",
+   "myth": "Reward for Āθβiia’s Haoma pressing",
+   "note": "Haoma recounts how Āθβiia’s pressing was rewarded by Fereydun’s birth.",
+   "source": "Yasna 9.7–8",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "khvarenah",
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "The second portion of Yima’s departed Glory adheres to Fereydun.",
+   "source": "Yašt 19.36–37",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "mithra",
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first portion of Glory before Fereydun receives the second.",
+   "source": "Yašt 19.35–36",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "fereydun",
+   "god": "yima_jamshid",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Middle Persian and epic genealogies make Fereydun a descendant of Yima.",
+   "source": "Bundahišn; Šāhnāma",
+   "date": "ninth century; ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "yima_jamshid",
+   "kind": "other",
+   "myth": "Vengeance for Yima",
+   "note": "Middle Persian tradition presents Fereydun as the avenger of Yima.",
+   "source": "Bundahišn",
+   "date": "ninth-century redaction",
+   "tier": "canonical"
+  },
+  {
+   "hero": "fereydun",
+   "god": "yima_jamshid",
+   "kind": "shared_myth",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Fereydun receives the second portion of the Glory that departed Yima.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "garshasp",
+   "god": "ahura_mazda",
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Ohrmazd judges Karsāsp and recognizes that his victories preserved creation.",
+   "source": "Dēnkard 9.15; Pahlavi Rivāyat 18f",
+   "date": "ninth–tenth centuries",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "ahura_mazda",
+   "kind": "other",
+   "myth": "Awakening for the final combat",
+   "note": "Ohrmazd orders Karsāsp awakened to kill the escaped Dahāg.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "anahita",
+   "kind": "gift",
+   "myth": "Petition for victory over Gaṇdərəβa",
+   "note": "Anāhitā accepts Kərəsāspa’s sacrifice and grants his requested victory.",
+   "source": "Yašt 5.37–39",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "garshasp",
+   "god": "atar",
+   "kind": "judged_by",
+   "myth": "Judgment of Karsāsp’s soul",
+   "note": "Fire accuses Karsāsp and initially refuses him admission to paradise.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "atar",
+   "kind": "other",
+   "myth": "Overturned cooking vessel",
+   "note": "Karsāsp injures or extinguishes sacred Fire when the serpent overturns his pot.",
+   "source": "Pahlavi Rivāyat 18f",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "azhi_dahaka",
+   "kind": "fought",
+   "myth": "Dahāg offers conversion and joint rule",
+   "note": "Karsāsp strikes Dahāg after his belated acceptance comes too late.",
+   "source": "Jāmāsp-nāmag",
+   "date": "Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "azhi_dahaka",
+   "kind": "killed",
+   "myth": "Dahāg escapes at the end time",
+   "note": "The awakened Karsāsp kills the escaped Dahāg with his club.",
+   "source": "Zand ī Wahman Yasn 9",
+   "date": "medieval Middle Persian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "garshasp",
+   "god": "azhi_dahaka",
+   "kind": "other",
+   "myth": "Dahāg accepts conversion",
+   "note": "In a Persian variant, Dahāg accepts Karsāsp’s offer and evil departs.",
+   "source": "Persian Jāmāsp-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "garshasp",
+   "god": "azhi_dahaka",
+   "kind": "served",
+   "myth": "Young Garšāsp serves Żaḥḥāk",
+   "note": "Żaḥḥāk challenges Garšāsp to slay a dragon and commands his Indian campaign.",
+   "source": "Garšāsp-nāma",
+   "date": "1066",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "garshasp",
+   "god": "haoma",
+   "kind": "gift",
+   "myth": "Θrita presses Haoma",
+   "note": "Haoma rewards Θrita’s sacrifice with Kərəsāspa and his brother.",
+   "source": "Yasna 9",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "garshasp",
+   "god": "mithra",
+   "kind": "shared_myth",
+   "myth": "Division of Yima’s Glory",
+   "note": "Mithra receives the first share of Glory and Kərəsāspa the third.",
+   "source": "Yašt 19.35–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "garshasp",
+   "god": "saoshyant",
+   "kind": "taught_by",
+   "myth": "Conversion before the Dahāg combat",
+   "note": "Sōšāns forces or persuades Sām to accept the religion before fighting Dahāg.",
+   "source": "Persian Bahman-nāma",
+   "date": "late medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "garshasp",
+   "god": "yima_jamshid",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "New Persian traditions make Garšāsp a descendant or seed of Jamšid.",
+   "source": "Šāh-nāma; Garšāsp-nāma",
+   "date": "eleventh century",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "garshasp",
+   "god": "yima_jamshid",
+   "kind": "gift",
+   "myth": "Departure of Yima’s Glory",
+   "note": "Kərəsāspa receives the third portion of Yima’s departed royal Glory.",
+   "source": "Yašt 19.34–38",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kaveh",
+   "god": "azhi_dahaka",
+   "kind": "fought",
+   "myth": "Kaveh confronts Zahhak and begins the revolt",
+   "note": "Kaveh recovers his son, tears Zahhak’s testimonial, denounces the court, and rallies a revolt.",
+   "source": "Ferdowsi, Shahnameh",
+   "date": "ca. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "kaveh",
+   "god": "azhi_dahaka",
+   "kind": "fought",
+   "myth": "Kaveh’s campaign against Zahhak",
+   "note": "Kaveh defeats Zahhak’s forces and joins Fereydun in defeating or killing the tyrant.",
+   "source": "Balʿami, Tarikh-nama-ye Tabari",
+   "date": "begun 963",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "kaveh",
+   "god": "azhi_dahaka",
+   "kind": "killed",
+   "myth": "Kaveh personally kills Zahhak",
+   "note": "Some oral accounts make Kaveh capture, torture, kill, or continually guard Zahhak.",
+   "source": "Enjavi, Ferdowsi-nama",
+   "date": "twentieth-century collections",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "kaveh",
+   "god": "azhi_dahaka",
+   "kind": "killed",
+   "myth": "Kawa kills Dehak and signals liberation",
+   "note": "Modern Kurdish tradition makes Kawa kill Dehak with a hammer and light liberation fires.",
+   "source": "Modern Kurdish nationalist tradition",
+   "date": "1950s–60s onward",
+   "tier": "modern"
+  },
+  {
+   "hero": "kaveh",
+   "god": "yima_jamshid",
+   "kind": "shared_myth",
+   "myth": "Jamshid reveals Fereydun in Kaveh’s dream",
+   "note": "In folk versions Jamshid appears in a dream and reveals Fereydun’s location to Kaveh.",
+   "source": "Oral traditions collected by Enjavi",
+   "date": "twentieth-century collection",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "kay_kavus",
+   "god": "ahura_mazda",
+   "kind": "punished_by",
+   "myth": "Assault on heavenly glory",
+   "note": "Ohrmazd recalls the Kavian glory, causing Kavus and his army to fall.",
+   "source": "Dēnkard 9.22",
+   "date": "ninth–tenth centuries CE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kay_kavus",
+   "god": "anahita",
+   "kind": "gift",
+   "myth": "Sacrifice on Eagle Mountain",
+   "note": "Kavus sacrifices to her, and she grants his request for sovereignty.",
+   "source": "Ābān Yašt 5.45–47",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kay_khosrow",
+   "god": "ahura_mazda",
+   "kind": "served",
+   "myth": "Final Renovation",
+   "note": "His glory, victories, and future service belong to Mazdean sacred order.",
+   "source": "Yašt 19; Middle Persian eschatology",
+   "date": "first millennium BCE onward",
+   "tier": "attested"
+  },
+  {
+   "hero": "kay_khosrow",
+   "god": "azhi_dahaka",
+   "kind": "shared_myth",
+   "myth": "Succession of the victorious weapon",
+   "note": "Aži Dahāka’s defeat is typologically linked to Haosrauuah’s victorious weapon.",
+   "source": "Yašt 19.92–93",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kay_khosrow",
+   "god": "haoma",
+   "kind": "allied",
+   "myth": "Capture of Fraŋrasiiān",
+   "note": "Haoma captures Fraŋrasiiān and delivers him bound to Kay Khosrow.",
+   "source": "Yašts 9 and 17",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "kay_khosrow",
+   "god": "haoma",
+   "kind": "allied",
+   "myth": "Afrasiyab drawn from Lake Čičast",
+   "note": "Hōm captures and binds Afrasiyab before bringing him for execution.",
+   "source": "Shāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "kay_khosrow",
+   "god": "yima_jamshid",
+   "kind": "identified_with",
+   "myth": "Conflation of world-showing cups",
+   "note": "Medieval literature conflates Kay Khosrow’s cup with Jamshid’s world-revealing cup.",
+   "source": "Medieval Persian literary tradition",
+   "date": "medieval period",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "rostam",
+   "god": "azhi_dahaka",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rostam descends maternally from Żaḥḥāk through Mehrāb and Rudāba.",
+   "source": "Šāhnāma",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "rudabeh",
+   "god": "azhi_dahaka",
+   "kind": "descendant_of",
+   "myth": "",
+   "note": "Rudabeh is his remote descendant; this lineage threatens her marriage to Zāl.",
+   "source": "Ferdowsi, Šāhnāma",
+   "date": "c. 1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "siyavash",
+   "god": "atar",
+   "kind": "judged_by",
+   "myth": "Fire ordeal",
+   "note": "Siyavash rides through blazing piles unharmed, publicly proving his innocence.",
+   "source": "Shahnameh",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "siyavash",
+   "god": "khvarenah",
+   "kind": "shared_myth",
+   "myth": "Kayanian royal succession",
+   "note": "Siyavash belongs to the Kayanian sequence associated with the royal Glory.",
+   "source": "Zamyād Yašt 19.71–74",
+   "date": "first millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "zal",
+   "god": "simurgh",
+   "kind": "gift",
+   "myth": "Zāl’s return from the Simurgh’s nest",
+   "note": "She gives Zāl feathers through which he can summon her.",
+   "source": "Ferdowsi; Thaʿālibī",
+   "date": "1010; c. 1000–20",
+   "tier": "canonical"
+  },
+  {
+   "hero": "zal",
+   "god": "simurgh",
+   "kind": "rescued_by",
+   "myth": "Zāl’s exposure and fosterage on Alborz",
+   "note": "She rescues the exposed infant, feeds him, and raises him.",
+   "source": "Ferdowsi; Thaʿālibī",
+   "date": "1010; c. 1000–20",
+   "tier": "canonical"
+  },
+  {
+   "hero": "zal",
+   "god": "simurgh",
+   "kind": "taught_by",
+   "myth": "Rostam’s surgical birth",
+   "note": "She instructs Zāl how to deliver Rostam and heal Rudāba.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical"
+  },
+  {
+   "hero": "zal",
+   "god": "simurgh",
+   "kind": "taught_by",
+   "myth": "Rostam’s battle with Esfandīār",
+   "note": "She teaches Zāl and Rostam how Esfandīār can be defeated.",
+   "source": "Ferdowsi",
+   "date": "1010",
+   "tier": "canonical"
+  }
+ ]
+}

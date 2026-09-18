@@ -1,0 +1,46 @@
+{
+ "heroes_folder": "arabic",
+ "gods_folder": "abrahamic",
+ "relations": [
+  {
+   "hero": "al_khidr",
+   "god": "gabriel",
+   "kind": "shared_myth",
+   "myth": "Later visionary encounters",
+   "note": "Late visionary and storytelling traditions sometimes pair Khidr with Gabriel.",
+   "source": "Late hagiographic and folkloric reports",
+   "date": "late medieval–modern",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "dhul_qarnayn",
+   "god": "raphael",
+   "kind": "gift",
+   "myth": "Gift of the wondrous stone",
+   "note": "In some unstable recensions, the angel gives Dhul-Qarnayn a wondrous stone.",
+   "source": "Ibn ʿAsākir material; qiṣaṣ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "dhul_qarnayn",
+   "god": "raphael",
+   "kind": "taught_by",
+   "myth": "Angel reveals the Water of Life",
+   "note": "The angelic companion tells Dhul-Qarnayn about the Water of Life.",
+   "source": "Ibn ʿAsākir material; qiṣaṣ",
+   "date": "medieval",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "seven_sleepers",
+   "god": "gabriel",
+   "kind": "rescued_by",
+   "myth": "Angelic guardianship of the cave",
+   "note": "Some later Islamic retellings identify their added angelic guardian as Gabriel.",
+   "source": "Medieval Islamic narrative recensions",
+   "date": "medieval or later",
+   "tier": "late_accretion"
+  }
+ ]
+}

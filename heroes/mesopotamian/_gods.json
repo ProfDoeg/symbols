@@ -1,0 +1,546 @@
+{
+ "heroes_folder": "mesopotamian",
+ "gods_folder": "mesopotamian",
+ "relations": [
+  {
+   "hero": "enmerkar",
+   "god": "adad_ishkur",
+   "kind": "other",
+   "myth": "Miraculous grain for Aratta",
+   "note": "Iškur sends Aratta a storm and grain, frustrating Enmerkar’s economic pressure.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "adapa",
+   "kind": "punished_by",
+   "myth": "Offense against Babylon and Esagila",
+   "note": "A damaged chronicle apparently makes Adapa curse Enmerkar for an unidentified offense.",
+   "source": "Weidner Chronicle",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "adapa",
+   "kind": "shared_myth",
+   "myth": "Opening an ancient tomb",
+   "note": "Fragmentary texts place Enmerkar and Adapa near a tomb with a broken metal door.",
+   "source": "Fragmentary Enmerkar–Adapa narrative",
+   "date": "First millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "enki_ea",
+   "kind": "allied",
+   "myth": "Foundation of Kulaba",
+   "note": "Enki clears reeds and drains Uruk’s marshes for Enmerkar.",
+   "source": "Lugalbanda and the Anzud Bird",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "enki_ea",
+   "kind": "gift",
+   "myth": "Impossible-scepter challenge",
+   "note": "Enki grants Enmerkar wisdom to answer Aratta’s impossible demand.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "enki_ea",
+   "kind": "shared_myth",
+   "myth": "Spell of Nudimmud",
+   "note": "Enmerkar sends an incantation describing Enki changing human speech.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "enlil",
+   "kind": "gift",
+   "myth": "Claim to legitimate kingship",
+   "note": "Enmerkar claims Enlil granted him the true crown and scepter.",
+   "source": "Enmerkar and En-suhgir-ana",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "enlil",
+   "kind": "shared_myth",
+   "myth": "Counsel of Enlil",
+   "note": "Enmerkar is described as a ruler who takes Enlil’s counsel.",
+   "source": "Lugalbanda in the Mountain Cave",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "gilgamesh_deified",
+   "kind": "ancestor_of",
+   "myth": "Seuechoros and the exposed Gilgamos",
+   "note": "If Seuechoros is Enmerkar, Aelian’s story makes him Gilgamos’s grandfather.",
+   "source": "Aelian, On Animals 12.21",
+   "date": "Around 200 CE",
+   "tier": "modern"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "lugalbanda",
+   "kind": "served_by",
+   "myth": "Enmerkar’s expedition against Aratta",
+   "note": "Lugalbanda serves as Enmerkar’s subordinate warrior and elite commander.",
+   "source": "Lugalbanda in the Mountain Cave",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "lugalbanda",
+   "kind": "served_by",
+   "myth": "Message to Inana",
+   "note": "Lugalbanda volunteers as Enmerkar’s messenger and carries his complaint to Inana.",
+   "source": "Lugalbanda and the Anzud Bird",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "ninurta",
+   "kind": "other",
+   "myth": "Claim to legitimate kingship",
+   "note": "Enmerkar claims Ninurta held him upon his lap, validating his kingship.",
+   "source": "Enmerkar and En-suhgir-ana",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "nisaba",
+   "kind": "gift",
+   "myth": "Riddle contest with Aratta",
+   "note": "Nisaba opens her house of wisdom for Enmerkar during the contest.",
+   "source": "Enmerkar and the Lord of Aratta",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "utu_shamash",
+   "kind": "child_of",
+   "myth": "",
+   "note": "All four Aratta-cycle poems explicitly call Enmerkar the son of Utu.",
+   "source": "Four Aratta-cycle poems",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "enmerkar",
+   "god": "utu_shamash",
+   "kind": "shared_myth",
+   "myth": "Enmerkar’s triumph",
+   "note": "Utu is invoked as a joyful witness to Enmerkar’s triumph.",
+   "source": "Enmerkar and Lugalbanda poems",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "adad_ishkur",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Adad's named gate during the heavenly ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "anu",
+   "kind": "gift",
+   "myth": "Institution of kingship",
+   "note": "Royal insignia descend from Anu's heavenly authority as Etana receives kingship.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "anu",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana reaches Anu's associated heavenly gate during his ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "anunnaki",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "The Anunnaki deliberate over the land and kingship ultimately assigned to Etana.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "enki_ea",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Ea's associated gate, with no preserved personal conversation.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "enkidu",
+   "kind": "shared_myth",
+   "myth": "Enkidu's underworld vision",
+   "note": "Enkidu sees or names Etana among the underworld dead.",
+   "source": "Epic of Gilgamesh Tablet VII",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "enlil",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "Enlil examines or authorizes Etana's royal dais.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "enlil",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana reaches Enlil's associated gate and prostrates himself during the ascent.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "gilgamesh_deified",
+   "kind": "shared_myth",
+   "myth": "Gathering of famous dead rulers",
+   "note": "Etana and Gilgamesh appear together as famous dead rulers or underworld figures.",
+   "source": "First-millennium learned tradition",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "etana",
+   "god": "igigi",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "The Igigi establish the city's brickwork within the divine ordering producing Etana's kingship.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "inanna_ishtar",
+   "kind": "other",
+   "myth": "Institution of kingship",
+   "note": "Ištar seeks humanity's shepherd, and Etana is selected within the divine program.",
+   "source": "Etana Epic prologue",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "inanna_ishtar",
+   "kind": "shared_myth",
+   "myth": "Ascent toward Ištar's dwelling",
+   "note": "Etana approaches Ištar's heavenly gate, but no preserved line grants him the plant.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "nanna_sin",
+   "kind": "shared_myth",
+   "myth": "Passage through the heavenly gates",
+   "note": "Etana passes Sîn's named gate, but no direct speech survives.",
+   "source": "Standard Babylonian Etana Epic",
+   "date": "seventh century BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "etana",
+   "god": "utu_shamash",
+   "kind": "other",
+   "myth": "Quest for the plant of birth",
+   "note": "Etana prays to Šamaš, who directs him to the punished eagle.",
+   "source": "Old Babylonian Etana Epic",
+   "date": "early second millennium BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "etana",
+   "god": "zababa",
+   "kind": "served",
+   "myth": "",
+   "note": "A learned text calls Etana a weapon of Zababa within Kish theology.",
+   "source": "Neo-Babylonian learned text",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "adad_ishkur",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Iškur joins the divine curse directed against Narām-Sîn’s Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "anu",
+   "kind": "judged",
+   "myth": "Narām-Sîn’s deification",
+   "note": "An is among the gods petitioned to make Narām-Sîn Akkad’s god.",
+   "source": "Bassetki inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "anu",
+   "kind": "punished_by",
+   "myth": "Divine qualities withdrawn from Akkad",
+   "note": "An removes Akkad’s heaven-reaching awesomeness during Narām-Sîn’s downfall.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "enki_ea",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Enki withdraws Akkad’s wisdom and joins the gods’ curse.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "enlil",
+   "kind": "fought",
+   "myth": "Destruction of Enlil’s Ekur",
+   "note": "Narām-Sîn attacks Ekur while trying to reverse Enlil’s unfavorable decision.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "enlil",
+   "kind": "punished_by",
+   "myth": "Enlil releases the Gutians",
+   "note": "Enlil sends the Gutians after Narām-Sîn violates Ekur.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "enlil",
+   "kind": "shared_myth",
+   "myth": "Enemy host reserved for future destruction",
+   "note": "Enlil preserves the monstrous host for destructive use beyond Narām-Sîn’s control.",
+   "source": "Cuthean Legend",
+   "date": "Old Babylonian onward",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "erra",
+   "kind": "allied",
+   "myth": "Battle beside Erra",
+   "note": "Narām-Sîn and Erra fight together against hostile forces.",
+   "source": "Erra and Narām-Sîn",
+   "date": "Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "erra",
+   "kind": "identified_with",
+   "myth": "",
+   "note": "The Erra allied with Narām-Sîn may here represent Nergal of Kutha.",
+   "source": "Erra and Narām-Sîn",
+   "date": "Old Babylonian",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "marduk",
+   "kind": "punished_by",
+   "myth": "Marduk summons the Gutians",
+   "note": "Marduk punishes Narām-Sîn for mistreating Babylon by summoning Gutian forces.",
+   "source": "Weidner Chronicle",
+   "date": "first millennium BCE copies",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "nanna_sin",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Suen joins the gods redirecting Enlil’s anger into a curse upon Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "nergal",
+   "kind": "gift",
+   "myth": "Votive statue for Narām-Sîn’s life",
+   "note": "Šu’astakkal dedicates a votive statue to Erra/Nergal for Narām-Sîn’s life.",
+   "source": "Šu’astakkal votive inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "nergal",
+   "kind": "served",
+   "myth": "Stele deposited in E-meslam",
+   "note": "Narām-Sîn deposits his testament in Nergal’s temple at Kutha.",
+   "source": "Cuthean Legend",
+   "date": "Old Babylonian onward",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "ninhursag",
+   "kind": "judged",
+   "myth": "Narām-Sîn’s deification",
+   "note": "Ninḫursag is among the city gods invoked for Narām-Sîn’s elevation.",
+   "source": "Bassetki inscription",
+   "date": "c. twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "ninurta",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Ninurta retrieves Akkad’s regalia and participates in its curse.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "nisaba",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Nisaba helps calm Enlil and joins the curse upon Akkad.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "tiamat",
+   "kind": "shared_myth",
+   "myth": "Nursing of the monstrous host",
+   "note": "Tiāmat serves as wet nurse to the monstrous host opposing Narām-Sîn.",
+   "source": "Cuthean Legend",
+   "date": "first millennium BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "naram_sin_legend",
+   "god": "utu_shamash",
+   "kind": "punished_by",
+   "myth": "The gods curse Akkad",
+   "note": "Utu removes Akkad’s eloquence and witnesses the curse’s fulfillment.",
+   "source": "Curse of Agade",
+   "date": "Ur III–Old Babylonian",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "enlil",
+   "kind": "allied",
+   "myth": "Termination of Ur-Zababa’s reign",
+   "note": "Enlil and An withdraw kingship from Ur-Zababa, enabling Sargon’s rise.",
+   "source": "Sargon and Ur-Zababa",
+   "date": "nineteenth–seventeenth centuries BCE",
+   "tier": "canonical"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "enlil",
+   "kind": "served",
+   "myth": "",
+   "note": "Sargon’s royal titulary calls him Enlil’s governor.",
+   "source": "Old Akkadian royal titulary",
+   "date": "twenty-fourth–twenty-third century BCE",
+   "tier": "attested"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "marduk",
+   "kind": "gift",
+   "myth": "Grant of universal kingship",
+   "note": "Marduk grants Sargon rule over the four quarters.",
+   "source": "Weidner Chronicle",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "marduk",
+   "kind": "punished_by",
+   "myth": "Punishment for the Babylon offense",
+   "note": "Marduk inflicts famine and unrest for Sargon’s anachronistic offense involving Babylon.",
+   "source": "Chronicle of Early Kings",
+   "date": "first millennium BCE",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "utu_shamash",
+   "kind": "allied",
+   "myth": "Fictional campaign summons",
+   "note": "Shamash is invoked as divine authority requiring Sargon’s allies to answer.",
+   "source": "Fictional campaign letter",
+   "date": "later Mesopotamian tradition",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "sargon_legend",
+   "god": "zababa",
+   "kind": "allied",
+   "myth": "Fictional campaign summons",
+   "note": "A fictional campaign letter invokes Zababa as authority supporting Sargon’s summons.",
+   "source": "Fictional campaign letter",
+   "date": "later Mesopotamian tradition",
+   "tier": "late_accretion"
+  }
+ ]
+}

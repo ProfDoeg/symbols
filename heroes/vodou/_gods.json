@@ -1,0 +1,56 @@
+{
+ "heroes_folder": "vodou",
+ "gods_folder": "vodou",
+ "relations": [
+  {
+   "hero": "boukman",
+   "god": "bondye",
+   "kind": "allied",
+   "myth": "Boukman’s liberation prayer",
+   "note": "Boukman invokes the creator to command vengeance, guide rebel arms and aid liberation.",
+   "source": "Dumesle, Voyage",
+   "date": "1824",
+   "tier": "canonical"
+  },
+  {
+   "hero": "boukman",
+   "god": "ogou",
+   "kind": "shared_myth",
+   "myth": "Bois Caïman ceremony",
+   "note": "Later commemorative and ritual interpretations associate this war spirit with Boukman’s foundational ceremony.",
+   "source": "Modern Vodou interpretations",
+   "date": "modern",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "boukman",
+   "god": "papa_legba",
+   "kind": "shared_myth",
+   "myth": "Bois Caïman commemorations",
+   "note": "Some modern commemorations honor Legba, although no early account places him in Boukman’s ceremony.",
+   "source": "Modern commemorations",
+   "date": "modern",
+   "tier": "late_accretion"
+  },
+  {
+   "hero": "makandal",
+   "god": "ayizan",
+   "kind": "identified_with",
+   "myth": "Makandal assumes Ayizan’s herbal and initiatory authority",
+   "note": "Depestre poetically overlays Makandal with Ayizan’s authority over initiation and medicinal herbs.",
+   "source": "Un Arc-en-ciel pour l’Occident chrétien",
+   "date": "1967",
+   "tier": "syncretism"
+  },
+  {
+   "hero": "makandal",
+   "god": "petro_lwa",
+   "kind": "served",
+   "myth": "Mandate to destroy whites and return Blacks to Africa",
+   "note": "Later legend claims Petro spirits mandated Makandal’s anticolonial mission.",
+   "source": "Twentieth-century Vodou historiography",
+   "date": "twentieth century",
+   "tier": "late_accretion"
+  }
+ ]
+}

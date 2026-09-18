@@ -1,0 +1,66 @@
+{
+ "heroes_folder": "andean",
+ "gods_folder": "andean",
+ "relations": [
+  {
+   "hero": "chuquillanto_and_acoytapia",
+   "god": "inti",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Chuquillanto is called the elder daughter of the Sun, though her filiation is unexplained.",
+   "source": "Murúa, Galvin manuscript; Historia general",
+   "date": "1590s; 1613",
+   "tier": "attested"
+  },
+  {
+   "hero": "chuquillanto_and_acoytapia",
+   "god": "inti",
+   "kind": "served",
+   "myth": "",
+   "note": "Chuquillanto belongs to the Sun’s dedicated household as a ñusta and consecrated woman.",
+   "source": "Murúa, Galvin manuscript; Historia general",
+   "date": "1590s; 1613",
+   "tier": "attested"
+  },
+  {
+   "hero": "inkarri",
+   "god": "inti",
+   "kind": "child_of",
+   "myth": "",
+   "note": "Puquio traditions describe Inkarrí as the son of the Sun.",
+   "source": "Puquio accounts",
+   "date": "collected 1956",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "inkarri",
+   "god": "inti",
+   "kind": "other",
+   "myth": "Binding the Sun on Mount Osqonta",
+   "note": "Inkarrí binds the Sun on Mount Osqonta while completing creation.",
+   "source": "Puquio accounts",
+   "date": "collected 1956",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "inkarri",
+   "god": "inti",
+   "kind": "shared_myth",
+   "myth": "Fuerabamba judgment",
+   "note": "Inkarrí rejoices when the Sun weakens before his destructive return.",
+   "source": "Fuerabamba account",
+   "date": "published before 1988",
+   "tier": "regional_variant"
+  },
+  {
+   "hero": "ollantay",
+   "god": "illapa",
+   "kind": "child_of",
+   "myth": "Modern divine-parentage reinvention",
+   "note": "A 2016 Bolivian novel reinvents Ollantay as Illapa’s son.",
+   "source": "2016 Bolivian novel",
+   "date": "2016",
+   "tier": "modern"
+  }
+ ]
+}
