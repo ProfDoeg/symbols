@@ -47,6 +47,15 @@ relations of its heroes with its gods: `heroes/<tradition>/_gods.md` (each hero'
 heroes), `_gods.csv` (heroes × gods), `_gods.json`, and on the gods' side `pantheon/<tradition>/_heroes.md`.
 1,615 relations in 22 traditions; the 89 that cross traditions are parked in `heroes/_hero_god_cross.md`.
 
+**The cybernetic-elite network** (2026-09-28, `cybernetic_elite/_network.json`, `_network.md`, `_matrix.csv`):
+every dossier of that set carries a Network section listing each documented tie with its evidence tier;
+`tools/extract_network_ties.py` (prompt `cybernetic_elite/NETWORK_PROMPT.md`, no web search) pulls them out as
+`relations/<slug>.json` (kind, dates, money, source, tier), and `tools/build_network.py` resolves the names
+(this set, then `ALIASES.json`, then the atlas dossiers by H1 name) and writes the map: 4,894 named parties
+(116 with a dossier here or in the atlas), 7,201 distinct ties, of which 4,679 primary-record, 1,284 named
+journalism, 649 subject claims, 119 litigation allegations, 228 rumor and 242 disproved. Rumor and disproved
+ties stay on the map with their tier; nothing is upgraded. The matrix counts ties between the dossier'd nodes only.
+
 Each set folder holds `PROMPT_TEMPLATE_*.md` (the prompt; the part after `---` is what Codex
 sees), `DELIVER.txt` (closing instructions), `make_briefs.py` (the item list and the one-line
 pointers; writes `briefs/`), and `batch_progress.log` (the run record). Sets built before the

@@ -13,9 +13,10 @@ Writes into the set folder:
                   the parties named without a dossier anywhere
 
 Name resolution: every dossier's H1 name and the roster names in make_briefs.py (this set), then the
-H1 names of every dossier in the other symbols sets and in the atlas dossiers; normalised (lowercase,
-accents stripped, "the " dropped, parenthetical aliases split). Unresolved names still become nodes,
-keyed by their normalised name, so the map shows the whole cast the dossiers document.
+set's ALIASES.json (normalised raw name -> slug, 'atlas:<slug>' or 'x:<key>' to merge variants), then
+the H1 names of the atlas dossiers; normalised (lowercase, accents stripped, "the " dropped,
+parenthetical aliases split, first+last name). Unresolved names still become nodes, keyed by their
+normalised name, so the map shows the whole cast the dossiers document.
 """
 import csv, importlib.util, json, os, re, sys, unicodedata
 from collections import defaultdict
@@ -101,17 +102,8 @@ def main(setname):
             meta[slug] = {"name": name, "ntype": _ntype(klass), "dossier": None}
             for a in alias_forms(name) | {norm(slug.replace("_", " "))}:
                 idx_set[a].add(slug)
-    # --- index: other symbols sets and the atlas dossiers
-    for dirpath, dirs, files in os.walk(ROOT):
-        dirs[:] = [d for d in dirs if d not in SKIP_DIRS and not d.startswith(".")]
-        if os.path.abspath(dirpath).startswith(os.path.abspath(SET)):
-            continue
-        for f in files:
-            if f.endswith(".md") and not f.startswith("_") and f not in ("README.md", "CATALOG.md", "QUEUE.md") and "PROMPT" not in f:
-                rel = os.path.relpath(os.path.join(dirpath, f), ROOT)
-                key = "symbols:" + rel[:-3]
-                for a in alias_forms(h1(os.path.join(dirpath, f))):
-                    idx_ext[a].add(key)
+    # --- index: the atlas dossiers (people and institutions; the other symbols sets are symbol systems, whose
+    # parenthetical aliases produced false hits such as "Microsoft" -> a code-page dossier)
     if os.path.isdir(ATLAS):
         for f in os.listdir(ATLAS):
             if f.endswith(".dossier.md"):
@@ -119,12 +111,20 @@ def main(setname):
                 for a in alias_forms(h1(os.path.join(ATLAS, f))):
                     idx_ext[a].add(key)
     ext_name = {}
+    afile = os.path.join(SET, "ALIASES.json")
+    manual = {k: v for k, v in (json.load(open(afile)) if os.path.exists(afile) else {}).items() if not k.startswith("_")}
 
     def resolve(name):
         cands = list(alias_forms(name))
         for c in cands:
             if len(idx_set.get(c, ())) == 1:
                 return next(iter(idx_set[c]))
+        for c in [norm(name)] + cands:
+            m = manual.get(c)
+            if m:
+                if m.startswith("atlas:") or m.startswith("x:"):
+                    ext_name.setdefault(m, name)
+                return m
         for c in cands:
             hits = idx_ext.get(c, set())
             if len(hits) == 1:
@@ -231,7 +231,6 @@ def _ntype(klass):
 
 
 def _ext_path(key):
-    if key.startswith("symbols:"): return key[len("symbols:"):] + ".md"
     if key.startswith("atlas:"): return "Colegio_Invisible/working/journeys/dossiers/" + key[len("atlas:"):] + ".dossier.md"
     return None
 
